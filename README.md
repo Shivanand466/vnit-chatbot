@@ -43,7 +43,7 @@ Final-year project (FYP). Built with free and open-source tools only.
 | Answer quality | 🟡 13 of 18 test questions answered correctly end to end; both "impossible" questions correctly refused (details below) |
 | Chat page | ✅ Works; one-click start with `start_chatbot.bat` (Windows) |
 | Safety | ✅ Keys kept outside the project and never printed; per-visitor rate limit; answers can't inject code into the page |
-| Deployment | 🟡 **Ready but not live.** The Docker image builds and runs locally; the Hugging Face deploy script is written. It needs a Hugging Face account token to go live (see "Deploying" below) |
+| Deployment | 🟡 **Public link from the laptop** with `start_public_link.bat` (free Cloudflare tunnel). Not always-online: Hugging Face now charges (PRO) for Docker Spaces, and free hosts with 512 MB of memory are too small (see "Deploying" below) |
 
 ### Measured quality
 
@@ -110,7 +110,7 @@ In order of value:
    ```
 3. **Fix the "similar documents" weak spot**, e.g. by treating "B.Tech", "Bachelor of Technology" and "UG" as the same when searching. Keep the fix only if the three checks above get better, not worse.
 4. **Improve calendar tables:** label exam-slot rows (A–H) as slots and drop the month-day grid rows, then re-check the end-semester question.
-5. **Go live** (see "Deploying"), then try it from a phone.
+5. **Always-online hosting** (optional): replace PyTorch with the lighter ONNX runtime so the app fits a free 512 MB host such as Render, then re-run the three checks. Or pay for Hugging Face PRO and run `deploy/deploy_to_hf.py` unchanged.
 6. **For the FYP report:** the numbers in "Measured quality", `EXPERIMENTS-LOG.md` (what was tried and why) and `docs/development-history/` (every test round's report) are ready-made evidence.
 
 ---
@@ -125,9 +125,13 @@ Full steps, demo questions and troubleshooting are in [`HOW-TO-RUN.md`](HOW-TO-R
 
 ## Deploying
 
-**GitHub stores the code, but it can't run the chatbot:** the chatbot needs a Python server running all the time. It's set up to run for free on **Hugging Face Spaces** (Docker, 16 GB RAM):
+**GitHub stores the code, but it can't run the chatbot:** the chatbot needs a Python server running all the time.
 
-1. Create a free account at https://huggingface.co/join.
+**Free public link from your laptop (current method):** double-click **`start_public_link.bat`**. It starts the chatbot and prints a temporary `https://….trycloudflare.com` address that anyone can open, for example on a phone. It works only while the laptop is on and both windows are open, and the address changes each time.
+
+**Hugging Face Spaces (needs a paid PRO account since 2026):** trying it on 22 Sept 2026 returned *"hosting Gradio and Docker Spaces on free cpu-basic requires a PRO subscription"*. With PRO:
+
+1. Create an account at https://huggingface.co/join.
 2. Go to https://huggingface.co/settings/tokens → **Create new token** → type **Write** → copy it.
 3. Save the token alone on one line in `C:\Users\<you>\hf-token.txt`.
 4. Run:

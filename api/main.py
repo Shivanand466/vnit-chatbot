@@ -65,6 +65,12 @@ _recent = defaultdict(deque)
 
 
 def _client_ip(request: Request) -> str:
+    # Behind a Cloudflare tunnel every request arrives from 127.0.0.1; Cloudflare
+    # puts the real visitor's address in CF-Connecting-IP (and overwrites any
+    # value a visitor sends), so prefer it.
+    cf_ip = request.headers.get("cf-connecting-ip")
+    if cf_ip:
+        return cf_ip.strip()
     forwarded = request.headers.get("x-forwarded-for")
     return forwarded.split(",")[0].strip() if forwarded else (request.client.host if request.client else "?")
 
