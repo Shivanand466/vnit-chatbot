@@ -1,0 +1,76 @@
+SOURCE_URL: https://drive.google.com/file/d/12W2Gi4UPzPS8j5hOXHMxCpl91qpq6YMW/view
+TITLE: Standard Operating Procedure for Student Course Feedback Module
+FETCHED: 2026-04-10
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Standard Operating Procedure for Student Course Feedback Module (dated 2026-04-10)
+Feedback Module - SOP
+Visvesvaraya National Institute of Technology (VNIT) Standard Operating Procedure for Student Course Feedback Module
+(This system is tested on Google Chrome browser only, and is recommended to be used in Light Mode for better visibility and functionality.)
+Table of Contents
+Introduction
+System Overview
+Student Functionalities
+o Login Procedure
+o Dashboard
+o Course Feedback
+Conclusion
+1. Introduction
+This user manual provides a detailed guide for students to access and use the Feedback Module System. The module enables students to submit structured feedback for their enrolled courses, supporting continuous improvement in teaching quality and academic processes
+2. System Overview
+The Feedback Module System is a web-based application designed to collect student feedback efficiently. It ensures a user-friendly interface for students while maintaining data accuracy and confidentiality.
+Key features include:
+Secure student login
+Course-wise feedback submission
+Structured questionnaire-based evaluation
+Confirmation of successful submission
+3. Student Functionalities
+Login Procedure
+Steps:
+Go to the AIMS portal login page. https://vnitaims.vnit.ac.in/mproaims/#/
+Enter your Institute Credentials (Username & Password).
+Select appropriate Academic Year and Session .
+Click Login .
+Feedback Module - SOP
+Dashboard
+Path: login →Dashboard → Feedback
+Steps :
+After successful login, the student is redirected to the Dashboard .
+The dashboard displays modules based on the student's assigned permissions.
+From the dashboard menu, select the Feedback Module to proceed.
+Course Feedback
+Path: login → Master → Course Feedback
+Course Feedback Process
+A. Accessing the Feedback Form
+Initially, the system displays the Course Feedback Listing Page , where all previously submitted feedback records are visible.
+To submit new feedback, click on the Create New button.
+The system redirects to the Course Feedback Form for entering and submitting feedback.
+For already submitted feedback records, only the View (icon) option is available to view details. Edit or update options are not provided .
+B. Feedback Form Details
+The system automatically displays student details such as Student Name and Faculty Name . The student selects the appropriate Course from the dropdown for which feedback is to be submitted.
+The student can enter remarks in the Student Remarks field, if required.
+Feedback Module - SOP
+Feedback Module - SOP
+C. Instructions for Filling Feedback
+Carefully read the instructions provided at the top of the form.
+Feedback submission is mandatory for all courses .
+Provide ratings for each question in the specified range ( 1-10 ).
+D. Submitting Course Feedback
+Review the course and faculty details displayed on the screen.
+Read each feedback question carefully.
+Provide appropriate ratings (1-10) for all questions listed.
+Ensure all questions are answered before proceeding.
+Enter remarks in the Student Remarks section, if applicable.
+Click on the Submit button to submit the feedback.
+E. Additional Options
+Click on the Reset button to clear all selected responses.
+Click on the Back button to return to the previous screen.
+F. Confirmation
+Upon successful submission, the system displays a confirmation message indicating that the feedback has been recorded successfully.
+Course Feedback Form
+Feedback Submission Confirmation
+Feedback Module - SOP
+Feedback Module - SOP
+7. Conclusion
+The Feedback Module is a comprehensive platform designed to collect and manage student feedback for courses and faculty. It enables structured evaluation through a standardized questionnaire, helping the institution improve teaching quality and academic processes. This user manual is intended to ensure smooth and effective usage of the module by students for submitting course feedback.
+For any technical assistance, please contact the system administrator or Micropro support team.

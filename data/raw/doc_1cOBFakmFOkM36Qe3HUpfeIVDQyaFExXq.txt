@@ -1,0 +1,63 @@
+SOURCE_URL: https://drive.google.com/file/d/1cOBFakmFOkM36Qe3HUpfeIVDQyaFExXq/view
+TITLE: Fees Payment Instruction – Winter 2026
+FETCHED: 2026-06-01
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Fees Payment Instruction – Winter 2026 (dated 2026-06-01)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY NAGPUR ACCOUNTS SECTION
+NOTE
+Date: 04 May 2026
+PAYMENT OF FEES FOR THE WINTER 2025 SEMESTER (ACADEMIC YEAR 2026-27, SEMESTER PERIOD: JULY 2026 TO NOV 2026)
+Institute portal for payment of semester fee will be open as per the dates mentioned in the schedule in notice 1. Students shall use specified mode only for making payment of their Fees.
+Detailed guidelines on payment procedures are as under:
+1. Download or View Challan :
+Link to portal is https://vnitaims.vnit.ac.in/mproaims/#/, Students need to Login with their credentials to download or view Institute Challan, detailing demand for fees.
+For DASA / MEA students (For B Tech & B Arch Students), fee component in US Dollar (USD) has been converted into INR. USD rate (as per RBI exchange rate) is set to Rs. 92.71 as on dated 7 th April, 2026(for Winter-26).
+Note: It may please be noted that 'NO' physical copies of challans will be issued from Accounts office.
+2. Mode of payment :
+a. Self financed: Payment to be made through OnlinePayment Gateway only
+See separate notice (SOP for Payment through Payment Gateway) for procedure of payment of fee through Payment Gateway mode.
+Students are strictly instructed not to make double payment, unless the money is returned back to their account, if the transaction is unsuccessful.
+b. For Students availing Education Loan/ through Sponsorship:
+Education Loan amount should be transferred from the payee Bank to Institute 's account directly. Guidelines for the same are in ANNEXURE I
+Subject of the email shall be in following format:-
+Id.no. - challan no. - session code - academic / hostel fees
+3. Payment validation and Portal up-dation
+a. Payment Gateway Mode:
+If fees payment is done through 'Payment Gateway' , then payment validation and updation will be done automatically. If money is deducted from payee account and payment validation is pending then student should wait for 03 to 05 working day for registration to get opened.
+In case the registration is not opened after 01 working day, the student must send the receipt showing the "payment successful" on mail id feesvnit@gmail.com. Subject line of the email shall contain - Payment Gateway issue along with Students Id number and Challan number.
+In case the issue is not resolved in 48 Hrs after sending such mail, the same mail may please be forwarded to feesvnit@gmail.com with a copy to dr_acct@vnit.ac.in, supdt_account@vnit.ac.in and dr_acd@vnit.ac.in
+AIMS is not compatible with mobile phone, so please use Laptop/ Desktop
+Payment will be validated within 3-5 working days, from the date of receipt of e-mail and verification of credit in Institute's bank account.
+Contact Account section on 0712-2801548 or 0712-2801240 if Payment is not updated within 3-5 days, so that registration can be opened after confirmation.
+Students are advised to carefully preserve copy of challan/ payment receipt for their records. No duplicate / separate copies of challan/ payment receipt shall be provided by account section.
+Students are advised to make payment well before stipulated last date. Institute will not be responsible for registration not opening due to payment failure issues in case of payments made at the far end of last date.
+Payment after the deadline date will not be accepted. Fee payment module will be closed on the given deadline at 5pm .
+In case of any queries/clarification, please contact Fees Desk officials at Accounts Office on 07122801548 or 0712-2801240 during working hours ONLY
+Sd/-
+Deputy Registrar (Accounts)
+Copy to -
+All HoDs / AR Hostel, for display on Student Notice Board.
+VNIT- Website for Information to all Students.
+FORM FOR PAYMENTS THROUGH RTGS/NEFT
+(To be emailed to feesvnit@gmail.com/ supdt_account@vnit.ac.in / dr_acd@vnit.ac.in )
+Complete information is to be furnished by Students and bank. Challan reconciliation / payment validation will not be done if the following information is not complete and Institute will not be responsible for any delay caused due to incomplete details
+1. STUDENT DETAILS (to be filled by student)
+NAME OF THE STUDENT
+STUDENT ID
+MOBILE NUMBER
+CHALLAN NUMBER (enclose challan in PDF format; to be downloaded from AIMS login of student)
+TOTAL FEES AMOUNT
+PAYMENT DATE
+2. BANK TRANSACTION DETAILS (to be filled by Bank Authority)
+NAME OF THE PAYEE BANK
+NAME OF PAYEE BRANCH
+IFSC CODE PAYEE BRANCH
+PAYMENT DATE
+PAID AMOUNT
+UNIQUE TRANSACTION NUMBER (UTR )
+BANK TRANSACTION REFERENCE NUMBER
+*Copy of payment advice is to be attached along with this form.
+Date:
+Signature of the Bank Authority & Seal
+Student Signature

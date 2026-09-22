@@ -1,0 +1,269 @@
+[
+ {
+  "name": "civil_intake",
+  "question": "How many undergraduate students does Civil Engineering enroll annually?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The Civil Engineering Department enrolls **120 undergraduate students each year**【Civil Engineering Department, VNIT Nagpur】【Civil_Brochure_2025-26】.",
+  "sources": [
+   "https://vnit.ac.in/engineering/civil/",
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Civil-Engg-_Brochure_2025-26.pdf"
+  ]
+ },
+ {
+  "name": "5g_announced",
+  "question": "Tell me about the 5G lab and when was it announced",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**5G Lab at VNIT Nagpur**\n\n- **Announcement** – The lab was announced on **27 October 2023** during a virtual ceremony hosted by Prime Minister Narendra Modi at the Indian Mobile Congress (IMC‑23) in New Delhi【5G Lab VNIT Nagpur — https://vnit.ac.in/5g-lab-vnit-nagpur】.  \n- **Initiative** – It is part of the Department of Telecommunications’ “100 5G labs” program, making VNIT one of the selected institutions【5G Lab VNIT Nagpur — https://vnit.ac.in/5g-lab-vnit-nagpur】.  \n- **Purpose** – The lab aims to accelerate research and development of next‑generation wireless communication technologies, encourage academia‑industry engagement, and provide local 5G testing infrastructure for startups and MSMEs in the region【5G Lab VNIT Nagpur — https://vnit.ac.in/5g-lab-vnit-nagpur】.  \n- **Funding** – It will be funded by the Ministry of Communications (DoT) to build competencies and engagement in 5G technologies for students and startup communities【5G Lab VNIT Nagpur — https://vnit.ac.in/5g-lab-vnit-nagpur】.  \n- **Facilities** – The lab is a cutting‑edge facility equipped with 5G core, radio, IMS, MEC, IoT, AR/VR, smart surveillance, drone operations, and comprehensive testing for devices, sensors, and edge computing, serving students, faculty, and industry professionals【5G Lab VNIT Nagpur — https://vnit.ac.in/5g-lab-vnit-nagpur】.",
+  "sources": [
+   "https://vnit.ac.in/5g-lab-vnit-nagpur"
+  ]
+ },
+ {
+  "name": "placements",
+  "question": "How many students got placed in 2025-26 and how many companies came?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "678",
+   "170"
+  ],
+  "forbidden": [],
+  "answer": "The provided documents do not contain any placement or internship data for the academic year 2025‑26.  \n- The “Placement and Internship Report 2024‑25” lists companies visited for that year only (dated 2026‑03‑24).  \n- The “Placement and Internship Report 2023‑24” covers the previous year (dated 2026‑03‑24).  \n\nSince there is no report or other passage that provides figures for placements in 2025‑26, I cannot give the number of students placed or the number of companies that visited for that year.",
+  "sources": [
+   "https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view",
+   "https://drive.google.com/file/d/1TNGyIv8-spFc9DnPVdaSe07CE1IUsS_h/view",
+   "https://drive.google.com/file/d/1wI4ykcHPLwNmS9P460XzW9YI0nABEgFI/view",
+   "https://drive.google.com/file/d/1qDt03ICmQKzUKo5S5FaKm8gIT47ZK1ww/view"
+  ]
+ },
+ {
+  "name": "chemical_spec",
+  "question": "What two specializations does Chemical Engineering offer?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The Chemical Engineering department at VNIT Nagpur offers two specializations: **Chemical Engineering** and **Chemical Technology**【VNIT Nagpur Chemical Engineering Department】.",
+  "sources": [
+   "https://vnit.ac.in/engineering/chemical/",
+   "https://vnit.ac.in/basic_science/chemistry",
+   "https://vnit.ac.in/ongoing-research-collaborations",
+   "https://vnit.ac.in/academic-programs",
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Chemical-Engg-_Brochure_2025-26.pdf"
+  ]
+ },
+ {
+  "name": "electrical_mtech",
+  "question": "What specializations does the Electrical Engineering M.Tech offer?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The Electrical Engineering M.Tech program at VNIT offers the following specializations:\n\n1. **Integrated Power System (IPS)** – focused on the design, operation, and optimization of power distribution and transmission systems.  \n2. **Power Electronics and Drives (PED)** – covering power electronic converters, motor drives, and their control.\n\nIn addition, the program allows students to pursue allied specializations such as Power Electronics, Control Systems, Power Systems, Electrical Machines, Instrumentation, Condition Monitoring, and Bio‑medical Instrumentation (these are listed as eligible M.E/M.Tech specializations in the 2026 admissions brochure).  \n\n*Sources:*  \n- “Electrical Engineering VNIT Nagpur MH – M.Tech program” (department webpage)  \n- “Information Brochure Ph.D (FT & PT)_Admission July 2026 (Cycle‑2)” (dated 2026‑05‑08)",
+  "sources": [
+   "https://vnit.ac.in/engineering/electrical/",
+   "https://drive.google.com/file/d/1PQ4lpLnGvbRnaNrpx-E0YocSxv4hfuUU/view",
+   "https://drive.google.com/file/d/1PYy-_CuhQrwDbik8iJ1UhEALMSkgbWeK/view",
+   "https://drive.google.com/file/d/1rNIoQRRMIVkyBs2m0OivVTgkTNYPwadl/view"
+  ]
+ },
+ {
+  "name": "director",
+  "question": "Who is the current Director of VNIT?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Current Director of VNIT (Nagpur)**  \nThe V.N. Institute of Technology (VNIT), Nagpur’s present Director is **Prof. (Dr.) Prem Lal Patel**.\n\n- The VNIT website’s “Director” page states that Prof. Prem Lal Patel “took over the charge as Director of VNIT, Nagpur on 21 st”【Director, VNIT, Nagpur — https://vnit.ac.in/director-vnit-nagpur/】.  \n- The “Building Works Committee” list lists “Dr. Prem Lal Patel, Director, VNIT, Nagpur” as the Chairman【Building Works Committee — https://vnit.ac.in/building-works-committee】.",
+  "sources": [
+   "https://vnit.ac.in/director-vnit-nagpur/",
+   "https://vnit.ac.in/building-works-committee"
+  ]
+ },
+ {
+  "name": "dean_academic_email",
+  "question": "What is the email of the Dean (Academic)?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The email address of the Dean (Academic) is **deanacd@vnit.ac.in**【Deans — https://vnit.ac.in/deans-2026】.",
+  "sources": [
+   "https://vnit.ac.in/deans-2026",
+   "https://drive.google.com/file/d/1MDCcrLQ4R_g5Qqn1modsw4g4_JtesVWm/view",
+   "https://drive.google.com/file/d/1gdkdk92GqQT0Vn8Uww7Njr1lOB_mI4h3/view",
+   "https://drive.google.com/file/d/1eLvcb7DAnXjGbNvLQBF5G1Ogl7xYhkCk/view",
+   "https://drive.google.com/file/d/1leVvr2GEIiWgoKzioLKTNzX3ESh4Zx-5/view"
+  ]
+ },
+ {
+  "name": "mech_established",
+  "question": "When was the Mechanical Engineering department established?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The Mechanical Engineering department was established in **1960**, the same year the institute itself was founded.  \n- Source: *VNIT Nagpur Mechanical Department* (information on the department’s inception)  \n- Source: *Mechanical_Brochure_2025‑26* (confirmation of the 1960 establishment date)",
+  "sources": [
+   "https://vnit.ac.in/engineering/mech/",
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Mechanical-Engg_Brochure_2025-26.pdf",
+   "https://vnit.ac.in/engineering/civil/",
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Civil-Engg-_Brochure_2025-26.pdf",
+   "https://vnit.ac.in/engineering/apm"
+  ]
+ },
+ {
+  "name": "registrar",
+  "question": "Who is the Registrar of VNIT Nagpur?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The current Registrar of Visvesvaraya National Institute of Technology (VNIT) Nagpur is **Shri Sachin S. Jagdale**.  \n- He is listed as the Registrar on the Board of Governors (dated 2026) and on the Building Works Committee (also dated 2026).  \n- The Registrar profile confirms that S. S. Jagdale joined VNIT as Deputy Registrar and was promoted to Joint Registrar in October 2021, with the same name.",
+  "sources": [
+   "https://vnit.ac.in/registrar",
+   "https://vnit.ac.in/contact-us/",
+   "https://vnit.ac.in/bog-2026",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view",
+   "https://vnit.ac.in/building-works-committee"
+  ]
+ },
+ {
+  "name": "btech_fee_open",
+  "question": "What is the yearly tuition fee for B.Tech students in the OPEN category?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "1,?25,?000|125000|1\\.25 lakh"
+  ],
+  "forbidden": [],
+  "answer": "The provided documents list tuition fees for B.Tech students under the **DASA** and **SAARC** categories (e.g., ₹7,000 USD for DASA and ₹4,000 USD for SAARC), but none of the passages mention a fee structure for the **OPEN** category. Therefore, the yearly tuition fee for B.Tech students in the OPEN category is not provided in the available passages.",
+  "sources": [
+   "https://drive.google.com/file/d/1YwNdsmCd9nGkWqagemkLLYFLSvtDH0VI/view",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view",
+   "https://drive.google.com/file/d/1rNIoQRRMIVkyBs2m0OivVTgkTNYPwadl/view"
+  ]
+ },
+ {
+  "name": "btech_fee_scst",
+  "question": "What tuition fee do SC/ST B.Tech students pay?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "SC/ST B.Tech students are exempt from tuition fees – the tuition fee is **NIL**【Common Fees_2026-27 — dated 2026‑08‑07】.",
+  "sources": [
+   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view"
+  ]
+ },
+ {
+  "name": "kotak_scholarship",
+  "question": "How much money does the Kotak Kanya Scholarship give per year?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The Kotak Kanya Scholarship provides **₹1.5 lakh per year** to each recipient.  \n\n- *Kotak Kanya Scholarship 2025‑26* (dated 2025‑08‑19) states an award of INR 1.5 lakh per year.  \n- *Kotak Kanya Scholarship 2026‑27 (Girls Only)* (dated 2026‑08‑12) also lists ₹1.5 lakh per year.",
+  "sources": [
+   "https://drive.google.com/file/d/1vmJZBMPEFm5wajEeMZoavZwD7xADMgAD/view",
+   "https://drive.google.com/file/d/14P3YHNVd8W66KLKxA16GR2PbsM-cou5M/view",
+   "https://vnit.ac.in/section/academics/notice-new"
+  ]
+ },
+ {
+  "name": "idfc_deadline",
+  "question": "What is the last date to apply for the IDFC FIRST Bank Engineering Scholarship?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "20(th)?\\s+September,?\\s+2026|September\\s+20(th)?,?\\s+2026|20[./-]0?9[./-]2026"
+  ],
+  "forbidden": [],
+  "answer": "The passages provided do not specify a calendar date for the last day to submit an application for the IDFC FIRST Bank Engineering Scholarship. The only deadline mentioned is “Award Application deadline INR 1,00,000 per year for up to four years,” which is a monetary figure rather than a date. Therefore, a specific last‑date is not stated in the available documents.",
+  "sources": [
+   "https://drive.google.com/file/d/1HvVnf3qj2isBR5G1IABsZGc_vpKadQVY/view",
+   "https://vnit.ac.in/section/academics/notice-new",
+   "https://vnit.ac.in/section/academics/notice/",
+   "https://drive.google.com/file/d/1fxm4-6PYEgkdoqLC52__5eUmqYg2oata/view"
+  ]
+ },
+ {
+  "name": "hostel_fee_first_year",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "32,?150"
+  ],
+  "forbidden": [],
+  "answer": "The passages provided do not contain information about the hostel fee for first‑year B.Tech boys for the Winter 2026 session.",
+  "sources": [
+   "https://drive.google.com/file/d/1QoFVZPQae7mXoQNza05-K6aUreW79yYm/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view"
+  ]
+ },
+ {
+  "name": "classes_start_fy",
+  "question": "When do classes start for first year B.Tech students in Winter 2026?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "Classes for first‑year B.Tech students in the Winter 2026 session begin on **19 August 2026**【ACADEMIC CALENDAR (Winter 2026) for First Year UG (B.Tech/B.Arch) — 2026‑08‑04】.",
+  "sources": [
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view",
+   "https://drive.google.com/file/d/1a0YAtYckbn18GpcfqlOG4THZibdGoXwA/view"
+  ]
+ },
+ {
+  "name": "endsem_fy",
+  "question": "When are the end semester exams for first year B.Tech in Winter 2026?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "\\b7(th)?\\b.{0,25}\\b15(th)?\\b"
+  ],
+  "forbidden": [],
+  "answer": "**Answer**\n\nThe Winter 2026 Academic Calendar for First‑Year UG (B.Tech/B.Arch) lists the end‑semester exams on a range of dates, depending on the particular calendar version.  The dates that appear in the available documents are:\n\n| Calendar source | End‑semester exam date (2026) |\n|-----------------|------------------------------|\n| “Academic Calendar (Winter 2026)” – **End‑semester exam: 7 Dec 2026** | 7 Dec 2026 |\n| Same source – **End‑semester exam: 8 Dec 2026** | 8 Dec 2026 |\n| Same source – **End‑semester exam: 9 Dec 2026** | 9 Dec 2026 |\n| Same source – **End‑semester exam: 10 Dec 2026** | 10 Dec 2026 |\n| Same source – **End‑semester exam: 11 Dec 2026** | 11 Dec 2026 |\n| Same source – **End‑semester exam: 12 Dec 2026** | 12 Dec 2026 |\n| Same source – **End‑semester exam: 14 Dec 2026** | 14 Dec 2026 |\n\n**Source citations**\n\n- Calendar version that lists 7 Dec: *Academic Calendar (Winter 2026)* – “EXAMINATIONS.End Sem: 7 Dec” (dated 2026‑08‑04)  \n- Calendar version that lists 8 Dec: *Academic Calendar (Winter 2026)* – “EXAMINATIONS.End Sem: 8 Dec” (dated 2026‑08‑04)  \n- Calendar version that lists 9 Dec: *Academic Calendar (Winter 2026)* – “EXAMINATIONS.End Sem: 9 Dec” (dated 2026‑08‑04)  \n- Calendar version that lists 10 Dec: *Academic Calendar (Winter 2026)* – “EXAMINATIONS.End Sem: 10 Dec” (dated 2026‑08‑04)  \n- Calendar version that lists 11 Dec: *Academic Calendar (Winter 2026)* – “EXAMINATIONS.End Sem: 11 Dec” (dated 2026‑08‑04)  \n- Calendar version that lists 12 Dec: *Academic Calendar (Winter 2026)* – “EXAMINATIONS.End Sem: 12 Dec” (dated 2026‑08‑04)  \n- Calendar version that lists 14 Dec: *Academic Calendar (Winter 2026)* – “EXAMINATIONS.End Sem: 14 Dec” (dated 2026‑08‑04)\n\nBecause the calendars contain conflicting dates, there is no single definitive exam date provided.  The exam period therefore spans **7 December 2026 to 14 December 2026**, with the exact date depending on the specific calendar version that the institution follows.",
+  "sources": [
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view"
+  ]
+ },
+ {
+  "name": "unanswerable_1995",
+  "question": "Who won the VNIT cricket match against IIT Bombay in 1995?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The passages provided do not contain any information about a 1995 cricket match between VNIT and IIT Bombay, so I’m unable to answer that question.",
+  "sources": [
+   "https://vnit.ac.in/engineering/mech/",
+   "https://vnit.ac.in/index.php/category/news",
+   "https://vnit.ac.in",
+   "https://vnit.ac.in/iaa-news"
+  ]
+ },
+ {
+  "name": "unanswerable_wifi",
+  "question": "What is the hostel wifi password?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The provided documents do not contain any information about a hostel Wi‑Fi password.  None of the passages mention Wi‑Fi credentials or related details.  \n\n- **Hostel Room Allocation Schedule (For UG Students)** – no reference to Wi‑Fi.  \n- **HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026‑27** – no Wi‑Fi details.  \n- **Hostel Admission Information Notice for First Year MBA Students (Academic Year 2026‑27)** – no mention of Wi‑Fi.  \n- **Hostel Information for UG 1st Year Students** – Wi‑Fi not discussed.",
+  "sources": [
+   "https://drive.google.com/file/d/1p43rYEc4pVkVVgw8MNeQ5FsCl-O0ThWc/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view",
+   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view"
+  ]
+ }
+]

@@ -1,0 +1,22 @@
+SOURCE_URL: https://vnit.ac.in/deans-2026
+TITLE: Deans
+FETCHED: 2026-09-21
+---
+Dr. Ratnesh Kumar
+Dean (Planning & Development)
+Email: deanp_f@vnit.ac.in
+Dr. V. R. Kalamkar
+Dean (Academic)
+Email : deanacd@vnit.ac.in
+Dr. Gyan Prakash Singh
+Dean (Faculty Welfare)
+Email : deanfw@vnit.ac.in
+Dr. U. A. Deshpande
+Dean (Student Welfare)
+Email : deanstd_coun@vnit.ac.in
+Dr. Y. B. Katpatal
+Dean (Research & Consultancy)
+Email : deanr_c@vnit.ac.in
+Dr. K. M. Bhurchandi
+Dean (International Affairs & Alumni)
+Email : dean_ia@vnit.ac.in

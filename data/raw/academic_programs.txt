@@ -1,0 +1,276 @@
+SOURCE_URL: https://vnit.ac.in/academic-programs
+TITLE: Academic Programs
+FETCHED: 2026-09-21
+---
+The institute offers Undergraduate program, Post Graduate and Doctoral research programs in Engineering, Architecture and Sciences discipline. The Under-Graduate i.e. 8  B. Tech. and B. Arch programs, Post Graduate i.e. 18 M.Tech and 3 M.Sc programs, and Doctoral research programs in Engineering & Sciences, Humanities discipline are offered
+Programs Offered
+Sr.No.
+Program
+Department offering the program
+(a)
+Under Graduate
+B.Tech
+1
+Chemical Engineering
+Chemical Engineering
+2
+Civil Engineering
+Civil Engineering
+3
+Computer Science Engineering
+Computer Science Engineering
+4
+Electronics & Communication Engineering
+Electronics & Communication Engineering
+5
+Electrical & Electronics Engineering
+Electrical Engineering
+6
+Mechanical Engineering
+Mechanical Engineering
+7
+Metallurgical & Materials Engineering
+Metallurgical & Materials Engineering
+8
+Mining Engineering
+Mining Engineering
+B Arch
+9
+Architecture
+Architecture
+(b)
+Post Graduate
+M.Tech
+1
+Environmental Engineering
+Civil Engineering
+2
+Water Resources Engineering
+Civil Engineering
+3
+Construction Technology & Management
+Civil Engineering
+4
+Transportation Engineering
+Civil Engineering
+5
+Geo-technical Engineering
+Civil Engineering
+6
+VLSI Design
+Centre for VLSI and Nano Technology
+7
+Communication System Engineering
+Electronics & Communication Engineering
+8
+Computer Science Engineering
+Computer Science Engineering
+9
+Production & Industrial Engineering
+Mechanical Engineering
+10
+Heat Power Engineering
+Mechanical Engineering
+11
+CAD-CAM
+Mechanical Engineering
+12
+Biomedical Engineering
+Mechanical Engineering
+12
+Integrated Power System
+Electrical Engineering
+13
+Power Electronics & Drives
+Electrical Engineering
+14
+Material Engineering
+Metallurgical & Materials Engineering
+15
+Process Metallurgy
+Metallurgical & Materials Engineering
+16
+Structural Dynamics and Earthquake Engineering
+Applied Mechanics
+17
+Structural Engineering
+Applied Mechanics
+18
+Urban Planning
+Architecture
+19
+Excavation Engineering
+Mining Engineering
+20
+Chemical Engineering
+Chemical Engineering
+(c)
+M.Tech Online Courses
+1
+Electric Vehicle Technology
+Mechanical Engineering
+2
+Computational Fluid-Thermal Sciences
+Mechanical Engineering
+3
+Industrial Metallurgy
+Metallurgical & Materials Engineering
+4
+Applied AI
+Electronics & Communication Engineering
+(d)
+M.Sc
+1
+Physics
+Physics
+2
+Chemistry
+Chemistry
+3
+Mathematics
+Mathematics
+(e)
+Ph. D. (Full / Part Time)
+All Engineering, Applied Sciences and Humanities department
+Admission Procedure
+Under Graduate Programs: B Tech / B Arch –
+Click Here
+UG program seats are filled by JEE qualified candidates through centralized admission process conducted by the committee constituted by Govt. of India, Ministry of HRD. In the year 2016-17, the centralized admission process was coordinated by
+NIT, Patna
+through
+JoSAA
+.
+Post Graduate Programs:
+M Tech
+/
+M Sc
+M Tech program seats are filled by GATE qualified candidates through centralized admission process conducted by the committee constituted by Govt. of India, Ministry of HRD. In the year 2016-17, the centralized admission process was coordinated by
+NIT Surathkal
+through
+CCMT
+[Central Counseling for M Tech]. Students are given GATE Scholarship as per GOI,
+Ministry of Education (Shiksha Mantralaya)
+norms.
+M Sc program seats are filled by JAM qualified candidates through centralized admission process conducted by the committee constituted by Govt. of India, Ministry of HRD. In the year 2016-17, the centralized admission process was coordinated by
+NIT Rourkela
+through
+CCMN 2016
+[Centralized Counseling for M Sc].
+Ph D Program
+Ph. D Rules and Guidelines
+:
+July-2016
+(To be uploaded for the current year soon..)
+There is no seats intake in Ph D program. Admission is given through institute advertisement. Candidates are selected through written test and interview conducted at the respective department. Students are given Teaching Assistanceship / Fellowship as per GOI,
+Ministry of Education (Shiksha Mantralaya)
+norms. Institute also admits candidates nominated under QIP scheme.
+Students Ratio
+In the year 2016-17, 705 students (477 Male/ 228 Female) were admitted in B Tech/B Arch programs, 327 (267 Male /60 Female) in M Tech programs, 54 (35 Male & 19 Female) in M Sc programs, 48 (38 Male / 10 Female) in Ph D program.
+Examination & Evaluation
+All UG and PG programs are run on semester basis. Students are required to register courses every semester examination. Courses are categorized as core, elective open and humanities courses.  Course evaluation mainly includes two sessional tests, end-semester examination and any other assessment.  Course evaluation for laboratory courses is done on continuous basis through quizzes, assignments, seminars etc.  Evaluation pattern is relative  credit point based grading system on a ten-point scale and grades are awarded on assessment.  There is no provision for improvement of grade by re-registering in the course.  Students are required to re-register in to course/s in  which he /she obtain FF (fail grade)  in the subsequent semester.  Student performance is indicated by CGPA (Cumulative Grade Point Average) and are not awarded any division/percentage.  Student is eligible for the award of degree after completion of various requirement set by the institute in terms of credits, CGPA, and type of courses completed.
+
+Academic rule book is made available to all the students and is available on website of the institute. Academic Peer Review of each academic program is being done with the help of faculty members of IITs, IISc, SPA etc.  The suggestions received under this review program are implemented through respective Board of studies.  Formal accreditation of various academic programs is being done with National Board of Accreditation (NBA).  Five B.Tech and Five M.Tech program are already accredited
+Duration
+Sr. No.
+Program
+Duration
+(a)
+B Arch/B Tech
+1
+Architecture
+5 years (10 semesters)
+2
+Chemical Engineering
+4 years (8 semesters)
+3
+Civil Engineering
+-,,-
+4
+Computer Science Engineering
+-,,-
+5
+Electronics & Communication Engineering
+-,,-
+6
+Electrical & Electronics Engineering
+-,,-
+7
+Mechanical Engineering
+-,,-
+8
+Metallurgical & Materials Engineering
+-,,-
+9
+Mining Engineering
+-,,-
+(b)
+M.  Tech.
+2 years (4 semesters)
+1
+Environmental Engineering
+-,,-
+2
+Water Resources Engineering
+-,,-
+3
+Construction Technology & Management
+-,,-
+4
+Transportation Engineering
+-,,-
+5
+VLSI Design
+-,,-
+6
+Communication System Engineering
+-,,-
+7
+Computer Science Engineering
+-,,-
+8
+Industrial Engineering
+-,,-
+9
+Heat Power Engineering
+-,,-
+10
+CAD-CAM
+-,,-
+11
+Integrated Power System
+-,,-
+12
+Power Electronics & Drives
+-,,-
+13
+Material Engineering
+-,,-
+14
+Structural Dynamics and Earthquake Engineering
+-,,-
+15
+Structural Engineering
+-,,-
+16
+Urban Planning
+-,,-
+17
+Excavation Engineering
+-,,-
+18
+Chemical Engineering
+-,,-
+(c)
+M. Sc.
+1
+M Sc Chemistry
+-,,-
+2
+M Sc Mathematics
+-,,-
+3
+M Sc Physics
+-,,-
+(d)
+Ph. D. (Full time)
+3 years

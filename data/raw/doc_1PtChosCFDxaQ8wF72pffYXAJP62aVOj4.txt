@@ -1,0 +1,291 @@
+SOURCE_URL: https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view
+TITLE: M.Tech (Research) Information Brochure July 2026
+FETCHED: 2026-05-04
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: M.Tech (Research) Information Brochure July 2026 (dated 2026-05-04)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY NAGPUR
+Information Brochure, Rules and Regulations
+for admission to
+M.Tech (Research) Program July 2026
+Institute Website: www.vnit.ac.in
+1. Proposed Intake
+It is proposed to introduce supernumerary seats under this programme.
+ Total M. Tech. programmes offered by the institute: 23 (Please refer to following Table for the department-wise list of M. Tech. programmes).
+ Proposed supernumerary seats per programme: 5
+ Total Seats: 23 (programs) X 5 (supernumerary seats) = 115
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions.
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Architecture & Planning Engg. — M.Tech. Program: Urban Planning
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Applied Mechanics — M.Tech. Program: Structural Dynamics & Earthquake Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Applied Mechanics — M.Tech. Program: Forensic Structural Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Applied Mechanics — M.Tech. Program: Structural Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Chemical Engineering — M.Tech. Program: Chemical Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Civil Engineering — M.Tech. Program: Water Resource Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Civil Engineering — M.Tech. Program: Geotechnical Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Civil Engineering — M.Tech. Program: Environmental Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Civil Engineering — M.Tech. Program: Transportation Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Civil Engineering — M.Tech. Program: Construction Technology and Management
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Computer Science & Engineering — M.Tech. Program: Computer Science & Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Electrical Engineering — M.Tech. Program: Power Electronics & Drives
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Electrical Engineering — M.Tech. Program: Power Energy Systems
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Electrical Engineering — M.Tech. Program: Control & Automation
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Electronics & Communication Engg. — M.Tech. Program: Communication System Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Mechanical Engineering — M.Tech. Program: Biomedical Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Mechanical Engineering — M.Tech. Program: Thermal Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Mechanical Engineering — M.Tech. Program: Production & Industrial Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Mechanical Engineering — M.Tech. Program: CAD-CAM
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Metallurgical & Materials Engg. — M.Tech. Program: Materials Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Metallurgical & Materials Engg. — M.Tech. Program: Process Metallurgy
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Mining Engineering — M.Tech. Program: Excavation and Tunnel Engineering
+ These seats will be over and above the existing M. Tech. intake and will not affect the regular M. Tech. admissions. | 1. Proposed Intake: Centre for VLSI & Nanotechnology — M.Tech. Program: VLSI Design
+The programme shall be open to candidates from the following backgrounds :
+Engineering disciplines
+Architecture
+Interdisciplinary domains
+2. Eligibility Criteria:
+Educational Qualification: B.E. / B.Tech / B.Arch or equivalent degree in a relevant discipline.
+Minimum Academic Requirement: Minimum CGPA of 6.0 (or equivalent).
+Professional Experience: Candidates must satisfy at least one of the following:
+ Minimum 5 years of relevant industry experience , or
+ Minimum 5 years of teaching experience in academia , or
+ Non-Teaching staff of academic institute with minimum 5 years of experience
+2.4 GATE Qualification
+ GATE qualification will not be mandatory for admission to this programme.
+ Candidates who have qualified GATE may upload their GATE scorecard during application.
+3. Application Requirements
+Applicants must submit the following documents along with the required academic qualification documents:
+Experience Certificate (as per prescribed format)
+No Objection Certificate (NOC) from current employer
+Sponsorship Certificate (if applicable)
+Statement of Purpose (SOP)
+SOP should consist of Research Execution Plan (maximum two pages):
+o Tentative title
+o Objectives
+o Plan of work
+o Domain of expertise
+Application fee receipt
+4. Selection Procedure
+The selection process shall consist of:
+ Presentation of the research proposal before the committee
+ Personal interview
+ Written entrance test (as decided by the Chairman, Board of Studies)
+The evaluation will be conducted by a committee constituted by the Chairman, Board of Studies (BoS) of the respective department, comprising all BoS members.
+5. Course Work
+Course work will follow a structure similar to the PhD coursework mechanism , with a limited number of courses.
+The typical coursework requirement may include:
+ 4-5 courses relevant to the research area
+ Research Methodology (mandatory) - Pass/Fail
+Courses may include:
+ Departmental courses
+ NPTEL courses
+ MOOCs
+ Hybrid learning modules
+Course selection shall be recommended by the Research Progress Committee (RPC).
+6. Programme Duration
+The duration of the M. Tech. (Research) programme shall be:
+ Minimum: 3 years
+ Maximum: 5 years
+7. Evaluation Mechanism
+The evaluation process will follow a mechanism similar to the PhD programme , including:
+ Research Progress Seminars (RPS)
+ Final thesis submission and defense
+A tentative credit structure is as follows:
+The evaluation process will follow a mechanism similar to the PhD programme , including: | 7. Evaluation Mechanism: Course Work — Credits: 12-15
+The evaluation process will follow a mechanism similar to the PhD programme , including: | 7. Evaluation Mechanism: Research Progress Seminars (5 Credits per RPS) — Credits: 30
+The evaluation process will follow a mechanism similar to the PhD programme , including: | 7. Evaluation Mechanism: Thesis Defense — Credits: 10
+The evaluation process will follow a mechanism similar to the PhD programme , including: | 7. Evaluation Mechanism: Minimum Total Credits Required for award of Degree with minimum 6 CGPA. — Credits: 52
+8. Monitoring Mechanism
+Academic monitoring will be carried out by:
+ Supervisor
+ Research Progress Committee (RPC)
+ Chairman, Board of Studies
+9. Thesis Submission Criteria
+The candidate shall be eligible to submit the thesis after completion of a minimum of three (3) years from the date of registration, including the prescribed coursework and six research progress seminars (RPS), and subject to fulfilment of at least one of the following research publication requirements.
+The candidate shall be eligible to submit the thesis after completion of a minimum of three (3) years from the date of registration, including the... | 9. Thesis Submission Criteria: Minimum ONE research publication in a Science Citation Index (SCI/SCIE/SSCI/AHCI) journal.
+The candidate shall be eligible to submit the thesis after completion of a minimum of three (3) years from the date of registration, including the... | 9. Thesis Submission Criteria: Minimum TWO research publications in Scopus indexed journals, including Emerging Sources Citation Index (E-SCI) journals.
+The candidate shall be eligible to submit the thesis after completion of a minimum of three (3) years from the date of registration, including the... | 9. Thesis Submission Criteria: Minimum ONE research publication in a Scopus indexed journal (including E-SCI journals) and minimum ONE granted patent based on the research topic.
+10. Exit Policy
+The candidate shall be eligible to submit the thesis after completion of a minimum of three (3) years from the date of registration, including the... | 10. Exit Policy: Exit Level 1 — Minimum Duration: After completion of 1 year; Academic Requirement: Completion of required coursework credits but research work not completed; Exit Award: Postgraduate Certificate in Engineering (Specialization Area)
+The candidate shall be eligible to submit the thesis after completion of a minimum of three (3) years from the date of registration, including the... | 10. Exit Policy: Exit Level 2 — Minimum Duration: After completion of 2 years; Academic Requirement: Coursework completed and partial research work; Exit Award: Postgraduate Diploma in Engineering (Specialization Area)
+11. Re-registration
+If a candidate is unable to submit the thesis within the maximum duration of five (5) years, the candidate shall be required to apply for re-registration with the consent of the supervisor and approval of the Research Progress Committee (RPC) through the proper channel.
+Candidates who do not submit the thesis after completion of the maximum duration must apply for re-registration every year until submission of the thesis, subject to the recommendation of the supervisor and approval of the RPC.
+A re-registration fee of ₹25,000 per year shall be applicable for candidates seeking reregistration after completion of five (5) years from the date of initial registration.
+12. Reservation Policy
+The proposed seats are supernumerary in nature and hence no reservation shall apply .
+13. Application Procedure
+Applications must be submitted exclusively through the designated Google Form.
+o Candidates applying to multiple departments or programs must submit separate forms for each, with a corresponding Rs. 500/- fee per application.
+o The Google Form link and related details are available on the official VNIT website: https://vnit.ac.in/section/academics/admission/ under ' M. Tech (Research) '
+After submission, candidates will receive a PDF copy of their completed application via email. The printed and signed application form must be sent along with self-attested photocopies of relevant certificates and documents, and the payment receipt via speed post or hand delivery before the specified deadline to;
+The Deputy Registrar (Academic),
+Academic Section,
+VNIT, South Ambazari Road,
+Nagpur - 440010 (M.S.)
+Candidates should clearly mention on the envelope: 'M.Tech (Research), Name of the Department, and the Name of the M.Tech Program for which they are applying.'
+The last date for submission of the application form in hard copy (via speed post or hand delivery), as well as the deadline for uploading the Google Form, is 15.06.2026 .
+Incomplete application and/or applications received after the last date are liable to be rejected.
+Important Note: All rights regarding admission to the M. Tech. (Research) programme are reserved with the Director, VNIT Nagpur.
+Fee Structure
+This is a statement showing the fees that the student will have to pay in single instalments during the academic session 2026-2027.
+Fees - One Time:
+( To be paid in the admission year )
+( To be paid in the admission year ) | Fees - One Time: Library Deposit — M. Tech. (Rs): 5000
+( To be paid in the admission year ) | Fees - One Time: Caution Deposit — M. Tech. (Rs): 5000
+( To be paid in the admission year ) | Fees - One Time: Identity Card — M. Tech. (Rs): 200
+( To be paid in the admission year ) | Fees - One Time: Medical Exam — M. Tech. (Rs): 100
+( To be paid in the admission year ) | Fees - One Time: Welfare Fund — M. Tech. (Rs): 600
+( To be paid in the admission year ) | Fees - One Time: Medical Aid Fund — M. Tech. (Rs): 2000
+( To be paid in the admission year ) | Fees - One Time: Total — M. Tech. (Rs): 12900
+Fees per year: ( To be paid semester wise )
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Tuition Fee — M. Tech. (Rs): 70000
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Registration Fee — M. Tech. (Rs): 500
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Library Fee — M. Tech. (Rs): 750
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Student Activity Fees — M. Tech. (Rs): 1250
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Sports Fee — M. Tech. (Rs): 2500
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Internet & Computer Maint. Fee — M. Tech. (Rs): 750
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Training & Placement Fee — M. Tech. (Rs): 400
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Industry Institute Interaction Fee — M. Tech. (Rs): 300
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Development Fee — M. Tech. (Rs): 5000
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): End Semester Examination Fee — M. Tech. (Rs): 1000
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Total — M. Tech. (Rs): 82450
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): July to Nov Semester (Odd Term) — M. Tech. (Rs): 41225
+( To be paid in the admission year ) | Fees per year: ( To be paid semester wise ): Jan to May Semester (Even Term) — M. Tech. (Rs): 41225
+* SC/ST/ PwD candidates are given 100% waiver in tuition fees.
+In addition to the above fees, M Tech will be charged Convocation fees of Rs 750/-and Thesis/Dissertation evaluation fees of Rs 5,000/-in the final semester of the program. Hostel charges are separate.
+For admission of NRI/Foreign Nationals through DASA fee structure is different.
+NOTE -The total fees to be paid at the time of admission reporting include one-time fees plus first semester fees. An initial fee paid at Counselling is adjusted against the total fees to be paid during admission reporting.
+Fees to be paid at the time of admission round:
+NOTE -The total fees to be paid at the time of admission reporting include one-time fees plus first semester fees. | Fees to be paid at the time of admission round: 2 — Remarks: 3
+NOTE -The total fees to be paid at the time of admission reporting include one-time fees plus first semester fees. | Fees to be paid at the time of admission round: GEN / OBC-NCL / EWS / Sponsored — Fees (Rs): 54125; Remarks: 1. This fee includes a one-time fee of Rs. 12900 and per semester fee of Rs. 41225/- 2. This amount excludes hostel and mess fees.
+NOTE -The total fees to be paid at the time of admission reporting include one-time fees plus first semester fees. | Fees to be paid at the time of admission round: SC / ST/PwD — Fees (Rs): 19125; Remarks: 1. This fee includes a one-time fee of Rs. 12900 and per semester fee of Rs. 6225/- 2. This amount excludes hostel and mess fees.
+Candidates reporting on the day of the admission round must bring with them a DD in the amount at column 2 drawn in favour of the Director, VNIT, Nagpur, payable at Nagpur. Fees will not be accepted in cash or Cheques.
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. Candidates are advised to keep 3 copies of a PP-size coloured photograph.
+Fees S emester wise
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Tuition Fee — 1 st Sem. (Rs): 35000; 2 nd Sem. (Rs): 35000; 3 rd Sem. (Rs): 35000; 4 th Sem. (Rs): 35000; 5 th Sem. (Rs): 35000; 6 th Sem. (Rs): 35000
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Registration Fee — 1 st Sem. (Rs): 250; 2 nd Sem. (Rs): 250; 3 rd Sem. (Rs): 250; 4 th Sem. (Rs): 250; 5 th Sem. (Rs): 250; 6 th Sem. (Rs): 250
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Library Fee — 1 st Sem. (Rs): 375; 2 nd Sem. (Rs): 375; 3 rd Sem. (Rs): 375; 4 th Sem. (Rs): 375; 5 th Sem. (Rs): 375; 6 th Sem. (Rs): 375
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Student Activity Fees — 1 st Sem. (Rs): 625; 2 nd Sem. (Rs): 625; 3 rd Sem. (Rs): 625; 4 th Sem. (Rs): 625; 5 th Sem. (Rs): 625; 6 th Sem. (Rs): 625
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Sports Fee — 1 st Sem. (Rs): 1250; 2 nd Sem. (Rs): 1250; 3 rd Sem. (Rs): 1250; 4 th Sem. (Rs): 1250; 5 th Sem. (Rs): 1250; 6 th Sem. (Rs): 1250
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Internet & Computer Maint. Fee — 1 st Sem. (Rs): 375; 2 nd Sem. (Rs): 375; 3 rd Sem. (Rs): 375; 4 th Sem. (Rs): 375; 5 th Sem. (Rs): 375; 6 th Sem. (Rs): 375
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Training & Placement Fee — 1 st Sem. (Rs): 200; 2 nd Sem. (Rs): 200; 3 rd Sem. (Rs): 200; 4 th Sem. (Rs): 200; 5 th Sem. (Rs): 200; 6 th Sem. (Rs): 200
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Industry Institute Interaction Fee — 1 st Sem. (Rs): 150; 2 nd Sem. (Rs): 150; 3 rd Sem. (Rs): 150; 4 th Sem. (Rs): 150; 5 th Sem. (Rs): 150; 6 th Sem. (Rs): 150
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Development Fee — 1 st Sem. (Rs): 2500; 2 nd Sem. (Rs): 2500; 3 rd Sem. (Rs): 2500; 4 th Sem. (Rs): 2500; 5 th Sem. (Rs): 2500; 6 th Sem. (Rs): 2500
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: End Semester Examination Fee — 1 st Sem. (Rs): 500; 2 nd Sem. (Rs): 500; 3 rd Sem. (Rs): 500; 4 th Sem. (Rs): 500; 5 th Sem. (Rs): 500; 6 th Sem. (Rs): 500
+Note-The library deposit is taken at the program's entry year and is refundable upon completion. | Fees S emester wise: Total (Rs) — 1 st Sem. (Rs): 41225; 2 nd Sem. (Rs): 41225; 3 rd Sem. (Rs): 41225; 4 th Sem. (Rs): 41225; 5 th Sem. (Rs): 41225; 6 th Sem. (Rs): 41225
+(To be typed on letter Head of the Department/Organization)
+To,
+The Director,
+Visvesvaraya National Institute of
+Technology, Nagpur-440010.
+Subject: No Objection Certificate for M. Tech. (Research) Programme.
+Dear Sir,
+We hereby permit
+Shri/Kum/Smt__________________________________
+who is an employee in our Institute/Organization/Industry, to join M.Tech (Research) programme in the Department of ____________________Engineering, VNIT, Nagpur.
+We shall relieve him/her of his/her duties of the organization during the study period to attend the classes for relevant courses/examination to be held at your institute related to above programme.
+Name, Signature and seal of the Sponsoring Authority
+Date:
+Place:
+APPENDIX - B1
+Certificate to be issued by Parent Institute/Organization, and be enclosed with the application for M. Tech. (R) candidates
+(in case No Objection Certificate is not available)
+Mr./Ms. _____________________________________________is a full-Time employee and working as ____________________________________________ _____________________ in Department of this Institute/Organization. He/she is interested in joining M.Tech (R) program in _____________________________ __________________________ Department of VNIT Nagpur .
+He/she will be issued No Objection Certificate by competent authority in the prescribed format, if he/she granted admission in VNIT Nagpur.
+Name, Signature and seal of Principal/Director (Stamp and Seal)
+Date:
+Place:
+Annexure - C
+Sponsorship cum Experience Certificate for Sponsored Candidates CERTIFICATE FROM THE HEAD OF THE ORGANISATION (on the letter-head of Industry / Organization/Institute)
+Shri/Ms. ______________________________________ who is serving in the Industry/Organization/Institute__________________________________ on a regular basis from _____________ as (designation) ____________________ is hereby sponsored for M. Tech. (Research) program in _______________________________ for the academic sessions-------------------. In case of his/her selection for the program, he/she will be relieved for the complete duration of the program.
+Date: __________________
+Signature of Sponsoring Authority_________________________
+Name___________________________
+Designation___________________________
+Office Seal: ________________________
+Visvesvaraya National Institute of Technology, Nagpur
+MTech (Research) six monthly progress seminar report
+(To be submitted in Academic Section )
+Department of:-
+Name of Student
+…………………………………..................................
+…………………………………..............................................…..
+Year of Registration (Month/Year)
+………………………………… ID No. ................................…..
+Enrolment No:
+…………………………..............................................…………..
+Fees payment receipt details of current semester
+Name of Supervisor(s)
+Receipt/Challan No: …………………… Date: .......................…
+Amount: ………………………………….................................…..
+1) …………………………………………..............………………
+Name of RPC members
+2) ………………………………………………...............…………
+1) …………………………………………………..............………
+Title of research work (final) (Tentative area)
+Place of Research
+2) …………………………………………………..............………
+3) ......................................................................................................
+…………………………………………………………...…………
+…………………………………………………………...…………
+…………………………………………………………...…………
+VNIT , Nagpur / ………………........................................
+Progress seminar date
+……………………………................................................………..
+Progress seminar no.
+1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9 / 10 / 11 / 12 (Tick the applicable)
+Progress seminar report submitted Yes / No (Tick)
+Details of Publication (SCI Journals only)
+Remarks of RPC:
+No. .................. (Published / Accepted) Format of Undertaking about SCI publications
+Satisfactory / Unsatisfactory / Absent
+Observations & Comments:
+-
+………………………………………………………………………………………………………………..
+Chairman, BoS
+Supervisor Co-Supervisor Member, RPC
+Member, RPC
+Associate Dean Academic (PG &Ph.D) Dean (Academic)
+T o,
+Dy. R. (Acad & Exam) for records
+Visvesvaraya National Institute of Technology, Nagpur
+MTech (Research) Pre-submission seminar report
+Department of:-
+…………………………………...............................................……..
+Name of Student
+…………………………………..............................................………
+Year of Registration (Month/Year)
+………………………………… ID No. ................................………
+Enrolment No:
+…………………………..............................................………………
+Fees payment receipt details of current semester
+Name of Supervisor(s)
+Receipt/Challan No: …………………… Date: .......................…….
+Amount: ………………………………….................................…….
+1) …………………………………………..............………………..
+Name of RPC members
+2) ………………………………………………...............…………
+1) …………………………………………………..............………
+Title of thesis (final)
+2) …………………………………………………..............………
+3) ......................................................................................................
+…………………………………………………………...…………
+Place of Research
+…………………………………………………………...…………
+…………………………………………………………...…………
+VNIT , Nagpur / ……………….......................................................
+Pre Submission seminar date
+……………………………................................................………..
+Seminar report submitted Details of Publication (SCI Journals only)
+Remarks of RPC:
+Yes / No (Tick)
+No. .................. (Published / Accepted) on SCI Undertaking Form
+Satisfactory / Unsatisfactory / Absent
+Observations & Comments: -
+.........................................…………………………………………………..
+Chairman, BoS
+Supervisor Co-Supervisor Member, RPC
+Member, RPC
+Associate Dean Academic (PG & Ph.D) Dean (Academic)
+To,
+Dy. R. (Acad & Exam) for records

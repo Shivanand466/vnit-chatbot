@@ -1,0 +1,292 @@
+SOURCE_URL: https://vnit.ac.in/network-centre
+TITLE: Network Centre
+FETCHED: 2026-09-21
+---
+Network Centre
+Network Center Team
+Service
+Facilities
+Policies
+Contact Us
+Network Centre
+Network Centre
+The Network Centre (NC) primarily caters to the Internet Access requirements throughout the institute that includes Departments, Sections, Centers, Main Administrative Building, Hostels, Guest House, and CDEEP.  Connectivity is also provided to remote locations like the Health Center, Security Cameras installed on the Gates, Quarter Wi-Fi network, etc. The institute has a Campus-wide fiber optic gigabit network with High End Central Core switch at the Network Centre.
+VNIT is a member of the National Knowledge Network (NKN) of the Government of India through which connectivity of 1 Gbps is provisioned. The internet access to the institute is also available from various service providers, through which the bandwidth available is around 132 Mbps.
+The Network Centre manages the annual maintenance of the desktops of the entire institute. It also operates and maintains the well-equipped Online Virtual Classroom created under the NKN project.
+The Network Centre has developed and is maintaining the institute and department websites. The Network Centre also manages institute mail server and provide e-mail services to all staff and students.
+The Network Centre has a Blade Server with 12 TB of Storage space and 10 Blades on which the Web Server, Mail Server, Proxy servers, DNS Servers, etc. are hosted.
+Network Center Team
+Network Centre Team
+Name:
+Dr. Shital Raut
+Designation:
+Associate Dean (Information Technology: MIS, Network & Website)
+Qualification:
+Ph.D.
+Contact:
+07122801559  ;  associatedeanit[at]vnit[dot]ac[dot]in
+Name:
+Meenakshi Bheevgade Bhaale
+Designation:
+Senior Technical Officer
+Qualification:
+M. Tech.(CSE), MPA
+Contact :
+07122801291  ; mbbhivgade[at]vnit[dot]ac[dot]in
+Name:
+Vijendrasinh Thakur
+Designation:
+Technical Officer
+Qualification:
+M. Tech. (CSE)
+Contact:
+07122801590  ;  vijendrathakur[at]vnit[dot]ac[dot]in
+Name:
+Krishna Kumar Patel
+Designation:
+Technical Officer
+Qualification:
+B.E. (ECE)
+Contact:
+07122801598  ;  krishnapatel[at]vnit[dot]ac[dot]in
+Name:
+Nikhil Vijay Naukarkar
+Designation:
+Technical Officer
+Qualification:
+B.E. (CSE)
+Contact:
+07122801878  ;
+nikhil_naukarkar[at]vnit[dot]ac[dot]in
+Name:
+Mrs. Deepali S. Deshpande
+Designation:
+Technical Officer
+Qualification:
+B.Sc., PG Diploma (Computer Application), M.C.M
+Contact:
+07122801588  ;  dsdeshpande@vnit.ac.in
+Name:
+Ashish Gupta
+Designation:
+Technical Assistant
+Qualification:
+B.Tech. (ECE)
+Contact:
+07122801276  ;  ashishgupta[at]vnit[dot]ac[dot]in
+Name:
+Mr. Atul Ade
+Designation:
+Technical Assistant
+Qualification:
+B.E. (Electronics and Communication Engineering),
+M.Tech. (Digital Communication)
+Contact:
+07122801878  ; atulade@vnit.ac.in
+Name:
+Datta Bajirao Bankar
+Designation:
+Senior Assistant
+Qualification:
+Bachelor of Computer Science
+Contact:
+07122801878  ;  dattabankar[at]vnit[dot]ac[dot]in
+Name:
+Somanath Reddy G V
+Designation:
+Senior Technician
+Qualification:
+M. Tech. (Electrical Engineering)
+Contact:
+07122801276  ;  somnathreddy[at]vnit[dot]ac[dot]in
+Name:
+Trunal V Thamke
+Designation:
+Senior Technician
+Qualification:
+B.E (Information Technology)
+Contact:
+07122801586   ;  trunal@vnit.ac.in
+Name:
+Rohit Tejlal Bisen
+Designation:
+Technician
+Qualification:
+B. E. (Electrical Engineering)
+Contact:
+07122801878  ;  rohitbisen[at]vnit[dot]ac[dot]in
+Name:
+Vivek Kumar
+Designation:
+Technician
+Qualification:
+Bachelor of Science (PCM)
+Contact:
+07122801878  ;  vivekkumar[at]vnit[dot]ac[dot]in
+Name:
+Mangesh A. Mirashe
+Designation:
+Technical Associate
+Qualification:
+B.E. (E&TC Engineering)
+Contact:
+07122801878  ;  mangeshmirashe[at]vnit[dot]ac[dot]in
+Service
+VNIT Network Center’s Help Line
+To Lodge a Online Complaint, Networking Related Queries, Email Related Queries, Website Related Queries  or Computer problems –
+Click Here
+Important Phone Numbers
+0712-2801878
+0712-2801291
+Important Mail Ids
+ncteam[at]vnit[dot]ac[dot]in
+mbbhivgade[at]vnit[dot]ac[dot]in
+Facilities
+VNIT Network Center has following existing Server
+Mail Server
+Web Server
+DHCP Server
+Antivirus Server
+Proxy Server
+NPTEL Server
+Web-Content NPTEL Server
+MATLAB S/w installation Server
+VNIT Network Center provides following software(s)
+Application Software For Campus
+1) ANSYS have License(s) for the following (NOTE:
+Instruction to install Software)
+ANSYS Academic Teaching Design Space
+50 users
+ANSYS Academic MCAD
+50 users
+ANSYS Academic Teaching Advanced
+50 users
+2) EXATA have License(s) for the following(NOTE:
+Instruction to install Software
+)
+Qualnet – Thread
+20 users
+EXATA -full
+5 users
+Enterprise_mm-full
+5 users
+Wireless-full
+5 users
+Cyber-full
+5 users
+3)
+LANGUAGE
+Pack for 100 Users
+4)
+AutoCAD 2008
+Educational Suite 700 Users
+5)
+AntiVirus Quick Heal
+300 Users
+6)
+MATLAB
+MATLAB
+110 licenses
+SIMULINK
+30 licenses
+Communication_Toolbox
+10 licenses
+Control_Toolbox
+10 licenses
+Curve_Fitting_Toolbox
+5 licenses
+Data_Acq_Toolbox
+1 license
+EDA_Simulator_Link
+1 license
+Filter_Design_HDL_Coder
+1 license
+Filter_Design_Toolbox
+1 license
+Fixed_Point_Toolbox
+5 licenses
+Fuzzy_Toolbox
+10 licenses
+GADS_Toolbox
+5 licenses
+Image_Toolbox
+10 licenses
+Instr_Control_Toolbox
+2 licenses
+MATLAB_Report_Gen
+1 license
+AP_Toolbox
+5 licenses
+MPC_Toolbox
+1 license
+MBC_Toolbox
+1 license
+Neural_Network_Toolbox
+10 licenses
+Optimization_Toolbox
+5 licenses
+PDE_Toolbox
+5 licenses
+Real-Time_Workshop
+5 licenses
+Robust_Toolbox
+1 license
+Signal_Blocks
+10 licenses
+Signal_Toolbox
+10 licenses
+SimHydraulics
+5 licenses
+Power_System_Blocks
+5 licenses
+Simscape
+5 licenses
+Fixed-Point_Blocks
+5 licenses
+Simulink_HDL_Coder
+5 licenses
+SIMULINK_Report_Gen
+1 license
+Stateflow
+1 license
+Statistics_Toolbox
+5 licenses
+Symbolic_Toolbox
+5 licenses
+Identification_Toolbox
+1 license
+Wavelet_Toolbox
+5 licenses
+Policies
+Network-policy
+Please Read the following VNIT Nagpur IT Usage Policy CAREFULLY.
+Visvesvaraya National Institute of Technology Nagpur
+Network Centre
+Undertaking with respect to VNIT Nagpur IT Usage Policy  Whom this Document Concerns All Users of   IT infrastructure (Computers and Network) at VNIT Nagpur.
+Reason for Policy
+This policy outlines the responsible use of the Information Technology Infrastructure at VNIT Nagpur.
+Statement of Policy
+All users of VNIT, Nagpur will be subject to the following Acceptable Use Policy
+[Content] I shall be responsible for all use of this network. In case I own a computer and decide to connect it to VNIT Nagpur network, I will be responsible for all the content on it, especially that which I make available to other users. (This provision will also apply to any computer or device for which I am responsible, and is included in the meaning of “my computer”.) In case I do not own a computer but am provided some IT resources by VNIT Nagpur, I will be held responsible for the content stored in the designated workspace allotted to me (examples: file storage area, web pages, stored/archived emails, on Computer Centre or Department machines).
+[Network] I will be held responsible for all the network traffic generated by “my computer”. I understand that network capacity is a limited, shared resource. I agree that physically tampering with network connections/equipments, sending disruptive signals, or making EXCESSIVE USE of VNIT Nagpur’s network resources is strictly prohibited. Repeated offenses of this type could result in permanent disconnection of network services. I shall not share the network connection beyond my own use and will not act as a forwarder/ masquerader for anyone else.
+[Academic Use] I understand that the IT infrastructure at VNIT Nagpur is for academic use and I shall not use it for any commercial purpose or to host data services for other people or groups. Also, I shall not host or broadcast information that might harm others or may be otherwise considered objectionable or illegal as per Indian law.
+[Identity] I shall not attempt to deceive others about my identity in electronic communications or network traffic. I will also not use VNIT Nagpur IT resources to threaten, intimidate, or harass others.
+[Privacy] I will not intrude on privacy of anyone. In particular I will not try to access computers (hacking), accounts, files, or information belonging to others without their knowledge and explicit consent.
+[Monitoring] I understand that the IT resources provided to me are subject to monitoring, with cause, as determined through consultation with the VNIT Nagpur administration, when applicable. The monitoring may include aggregate bandwidth usage to effectively manage limited IT resources as well as monitoring traffic content in response to a legal or law enforcement request to do so. I authorize VNIT NAGPUR administration to perform network vulnerability and port scans on my systems, as needed, for protecting the overall integrity and efficiency of VNIT NAGPUR network.
+[Viruses] I shall maintain “my computer” on this network with current virus detection software and current updates of my operating system, and I shall attempt to keep my computer free from viruses, worms, Trojans, and other similar programs.
+[File Sharing] I shall not use the IT infrastructure to engage in any form of illegal file sharing (examples: copyrighted material, obscene material). In particular, I have noted the following:
+Electronic resources such as e-journals, e-books, databases, etc. made available by the Library, VNIT NAGPUR are for academic use. These resources can be searched, browsed, and material may be downloaded and printed as single copies of articles as is done in the case of printed library material. Downloading or printing of a complete book or an entire issue or a volume of one or more journals (called systematic downloading) is strictly prohibited. Use of robots, spiders or intelligent agents to access, search and/or systematically download from the e-resources is also prohibited. Any violation of this policy will result in penal action as per the rules and regulations of the Institute. I am aware that Systematic downloading will result in the publisher blocking the entire community of users at VNIT NAGPUR from accessing these resources.
+[Security] I understand that I will not take any steps that endanger the security of the VNIT NAGPUR network. Specifically, I will not attempt to bypass firewalls, proxies, etc. and access rules in place. This includes not setting up servers of any kind (examples: web, mail, proxy) that are visible to the world outside the VNIT NAGPUR campus. In critical situations, VNIT NAGPUR authorities reserve the right to disconnect any device or disable any account if it believed that either is involved in compromising the information security of VNIT NAGPUR.
+[Penalties] I understand that any use of IT infrastructure at VNIT NAGPUR that constitutes a violation of VNIT NAGPUR Regulations could result in administrative or disciplinary procedures.
+Contact Us
+To Lodge a Online Complaint, Networking Related Queries, Email Related Queries, Website Related Queries  or Computer problems –
+Click Here
+Contact Us
+Network Center,
+Department of Computer Science & Engineering,
+Visvesvaraya National Institute of Technology,
+South Ambazari Road,
+Nagpur (INDIA), 440010.
+Ph:-  +91-712-2801039.
++91-712-2801291.
+Contact e-mail:- ncteam[at]vnit[dot]ac[dot]in

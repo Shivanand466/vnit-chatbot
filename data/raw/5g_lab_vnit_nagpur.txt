@@ -1,0 +1,153 @@
+SOURCE_URL: https://vnit.ac.in/5g-lab-vnit-nagpur
+TITLE: 5G Lab VNIT Nagpur
+FETCHED: 2026-09-21
+---
+About
+Labs and Facilities
+Sanchar Mitra
+Contact Us
+Events
+About
+ABOUT VNIT 5G Lab
+The Visvesvaraya National Institute of Technology Nagpur has been selected by the Department of Telecommunications (DoT) of Government of India as one of the recipients of the prestigious ‘100 5G labs’ initiative. The announcement was made during a virtual ceremony hosted by the Prime Minister Narendra Modi at the Indian Mobile Congress (IMC-23) at New Delhi on October 27, 2023.
+This 5G use case lab is expected to accelerate the research and development of next generation wireless communication technologies in various organizations (Academic institutes and Industries) in and around the central part of India. The 5G use case lab is in line with the vision of HonorablePrime Minister of India, Shri Narendra Modi ji towards making our country Atmanirbhar in futuristic technologies and will be funded by DoT with an objective to build competencies and engagement in5G technologies for students &amp; startup communities. The proposed lab will play a vital role in encouraging academia-industry engagement to ideate and develop 5G use cases. It will also provide local access to 5G test setup for Startups and MSMEs in the region.
+Labs and Facilities
+The 5G Lab at VNIT is a cutting-edge facility equipped with advanced hardware and software, designed to explore and develop 5G communication technologies, Internet of Things (IoT) solutions, edge computing, and networking systems. The lab will be a hub for research, education, and innovation.
+Core Components
+5G Core
+– The 5G core forms the backbone of the lab’s network infrastructure, managing network resources, routing data, and ensuring seamless device connectivity.
+5G Radio
+– The 5G radio unit facilitates high-speed wireless communication between devices and the core.
+IMS Solution
+– The IP Multimedia Subsystem (IMS) allows multimedia services like VoIP, video calls, and other communication technologies over the 5G network.
+MEC & Application Server
+– The Multi-access Edge Computing (MEC) server processes data locally, minimizing latency and supporting real-time applications.
+NMS with Dashboard
+– The Network Management System (NMS) allows for real-time monitoring and management of the lab’s network infrastructure through an interactive dashboard.
+Networking and Security
+Router with Firewall
+– A secure routing solution that integrates firewall protection to manage and safeguard network traffic.
+5G SIMs
+– The lab is equipped with multiple 5G SIM cards for testing various 5G devices and network configurations.
+IoT and Sensors
+IoT Gateway
+– The IoT gateway connects and manages communication between IoT devices and the 5G network.
+IoT Sensors with Analytics Software
+– A range of sensors for environmental and industrial monitoring, including:
+Temperature & Humidity Sensor
+Light Sensor
+Soil Sensor (NPK)
+Water (TDS/Chlorine) Sensor
+5G Devices and Testing Tools
+5G Mini Drone
+– A drone that utilizes the 5G network for real-time data transmission and remote-controlled operations.
+5G XR (AR/VR/MR) Device
+– Supports immersive augmented, virtual, and mixed reality applications over the 5G network.
+5G Indoor CPE
+– Provides robust 5G connectivity for indoor testing environments.
+5G Camera
+– A high-definition 5G camera supporting real-time video streaming and surveillance.
+5G Handsets
+– Multiple handsets are available for testing and validating mobile connectivity over the 5G network.
+Infrastructure and Support
+Adjustable Tripod Pole (3m)
+– A flexible mounting solution for various network testing and experimental setups.
+24 U Rack
+– Organizes and houses all network and computing equipment.
+UPS 5KVA
+– Provides uninterrupted power supply with a backup capacity of 1 hour to maintain operations during power outages.
+32-inch FHD Display
+– A high-definition monitor for data visualization and network performance tracking.
+L2 Managed Switch (24 Port)
+– A network switch providing managed connectivity for lab devices.
+Testing & Tracing Tools
+– Specialized tools for testing network performance, troubleshooting, and device tracing.
+Use Cases of the 5G Lab
+IoT Applications
+– Enables development and testing of real-time IoT solutions such as smart agriculture, environmental monitoring, and industrial automation using the lab’s sensors and gateway.
+Edge Computing
+– Supports low-latency, real-time applications such as autonomous drones, industrial robotics, and remote-controlled systems, with local data processing via the MEC server.
+AR/VR Development
+– The lab provides a platform for creating and testing AR, VR, and MR experiences, leveraging the high-speed capabilities of 5G.
+Smart Surveillance
+– Equipped with 5G cameras and a robust network infrastructure, the lab supports real-time video analytics for security and surveillance.
+5G Device Testing
+– Offers a controlled environment to test and validate 5G-enabled handsets, drones, and other devices, ensuring their performance in real-world scenarios.
+Drone Operations
+– The 5G Mini Drone enables testing for applications such as surveillance, delivery, and disaster management, leveraging real-time control over 5G.
+Facilities Offered by the Lab
+5G Network Testing
+– Comprehensive testing facilities for evaluating network performance, throughput, and latency, utilizing the 5G core and radio infrastructure.
+IoT Sensor Analytics
+– Tools and infrastructure to test and analyze data from IoT sensors, enabling research in fields such as environmental monitoring, industrial IoT, and smart city applications.
+Multi-device Connectivity
+– The lab supports testing multiple devices simultaneously, from handsets and drones to sensors, under various network conditions.
+Edge Computing & Cloud Integration
+– Real-time application testing and seamless cloud integration through the MEC server, enabling next-gen computing solutions.
+Support for Students, Faculty, and Industry Professionals
+Internship and Project Support for Students
+The 5G lab will serve as a platform for
+students to gain hands-on experience
+through internships and project-based learning. It offers opportunities to work on cutting-edge 5G technologies, IoT, AR/VR, and real-time computing projects. Students can:
+Conduct
+research and development projects
+on real-world use cases.
+Gain practical experience with
+5G network setup, testing, and troubleshooting
+.
+Explore advanced concepts such as
+edge computing, sensor data analytics, and immersive media
+.
+Training and Skill Enhancement for Industry Professionals and Faculty Members
+The 5G lab will also act as a center for
+training and upskilling
+:
+Industry professionals
+can attend workshops and training programs to enhance their understanding of 5G networks, IoT deployments, and the potential applications of edge computing in their industries.
+Faculty members
+can leverage the lab to stay updated with the latest 5G advancements and integrate these technologies into their teaching and research programs.
+The lab will organize
+skill development programs
+, including:
+Workshops on 5G network deployment and management
+.
+Seminars on emerging technologies
+like IoT, AI, edge computing, and their integration with 5G.
+Practical training
+on how to operate and manage 5G-based solutions and devices.
+Through these initiatives, the lab will contribute significantly to the professional growth of students, educators, and industry professionals alike.
+Sanchar Mitra
+About
+Welcome to the Sanchar Mitra Program—an initiative by the Department of Telecommunications (DoT) to empower university students as volunteers. Our mission is to bridge the communication gap between the DoT and citizens, fostering collaboration on telecom issues.
+Objectives
+Engage youth (Yuva Shakti) to create awareness about DoT services, contributing to a more connected and informed society.
+VNIT Sanchar Mitra
+Prasad
+Chavan
+Wadhavane
+Pooja Sadanand Kamal
+Garima
+Gattani
+Satish Arvind
+Sahare
+Ayushi Sanjay
+Jaiswal
+KOMAL DURVAS
+KAMBLE
+Amisha Dinesh
+Zanjal
+Contact Us
+Contact VNIT 5G Lab at:
+Email:
+5glab@vnit.ac.in
+Phone: +91-7122801851
+Events
+Excited to announce!
+First 5G Summer School
+is exclusively for undergraduate students!
+Date:
+June 2–30, 2025
+One Week Workshop on
+Reconfigurable Intelligent Surfaces for 6G
+Date:
+March 24-29, 2025

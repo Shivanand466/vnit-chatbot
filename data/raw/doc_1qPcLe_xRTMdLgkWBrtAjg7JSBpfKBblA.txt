@@ -1,0 +1,273 @@
+SOURCE_URL: https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view
+TITLE: Placement and Internship Report 2024-2025
+FETCHED: 2026-03-24
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: Placement and Internship Report 2024-2025 (dated 2026-03-24)
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 2024-25
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 202: Number of Companies Visited — B.Tech: 121; B.Arch: 09; M.Tech: 68; M.Sc: 07
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 202: Highest Package (CTC) — B.Tech: 64.00; B.Arch: 6.97; M.Tech: 29.39; M.Sc: 7.25
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 202: Median Package (CTC) — B.Tech: 8.30; B.Arch: 5.00; M.Tech: 7.20; M.Sc: 6.63
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 202: Average Package (CTC) — B.Tech: 10.70; B.Arch: 5.10; M.Tech: 7.91; M.Sc: 6.88
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 202: Lowest Package (CTC) — B.Tech: 3.00; B.Arch: 3.60; M.Tech: 3.00; M.Sc: 6.00
+Branch wise placement - B.Tech.
+Branch wise placement - B.Tech.: Civil Engg. — Registered: 87; Placed: 63; Placement Percentage: 72.41; Jobs Offered: 66; Average CTC: 8.58; Median CTC: 8.00; Highest CTC: 18.00; Lowest CTC: 5.39
+Branch wise placement - B.Tech.: Chemical Engg. — Registered: 81; Placed: 52; Placement Percentage: 64.20; Jobs Offered: 52; Average CTC: 7.93; Median CTC: 8.05; Highest CTC: 14.00; Lowest CTC: 4.50
+Branch wise placement - B.Tech.: Computer Science Engg. — Registered: 106; Placed: 99; Placement Percentage: 93.40; Jobs Offered: 109; Average CTC: 17.30; Median CTC: 11.52; Highest CTC: 64.00; Lowest CTC: 4.80
+Branch wise placement - B.Tech.: Electrical Engg. — Registered: 94; Placed: 87; Placement Percentage: 92.55; Jobs Offered: 92; Average CTC: 9.99; Median CTC: 9.45; Highest CTC: 51.52; Lowest CTC: 4.50
+Branch wise placement - B.Tech.: Electronics & Communication Engg. — Registered: 108; Placed: 96; Placement Percentage: 88.89; Jobs Offered: 107; Average CTC: 10.16; Median CTC: 9.51; Highest CTC: 64.00; Lowest CTC: 3.00
+Branch wise placement - B.Tech.: Mechanical Engg. — Registered: 82; Placed: 78; Placement Percentage: 95.12; Jobs Offered: 83; Average CTC: 9.39; Median CTC: 7.75; Highest CTC: 19.25; Lowest CTC: 4.50
+Branch wise placement - B.Tech.: Metallurgical & Materials Engg. — Registered: 80; Placed: 69; Placement Percentage: 86.25; Jobs Offered: 70; Average CTC: 8.01; Median CTC: 8.88; Highest CTC: 14.10; Lowest CTC: 4.50
+Branch wise placement - B.Tech.: Mining Engg. — Registered: 29; Placed: 24; Placement Percentage: 82.76; Jobs Offered: 25; Average CTC: 8.58; Median CTC: 6.90; Highest CTC: 13.50; Lowest CTC: 3.00
+Branch wise placement - B.Tech.: Total — Registered: 667; Placed: 568; Placement Percentage: 85.16%; Jobs Offered: 604
+Branch wise placement - B.Arch.
+Branch wise placement - B.Arch.: Architecture and Planning — Registered: 32; Placed: 16; Placement Percentage: 50%; Jobs Offered: 17; Average CTC: 5.06; Median CTC: 5.00; Highest CTC: 6.97; Lowest CTC: 3.60
+Branch wise placement - M.Tech.
+Branch wise placement - M.Tech.: Computer Science Engg. — Registered: 19; Placed: 9; Placement Percentage: 47.36; Jobs Offered: 09; Average CTC: 15.00; Median CTC: 11.75; Highest CTC: 29.39; Lowest CTC: 7.20
+Branch wise placement - M.Tech.: Communication System Engg. — Registered: 6; Placed: 3; Placement Percentage: 50.00; Jobs Offered: 3; Average CTC: 10.62; Median CTC: 11.66; Highest CTC: 13; Lowest CTC: 7.2
+Branch wise placement - M.Tech.: VLSI Design — Registered: 13; Placed: 10; Placement Percentage: 76.92; Jobs Offered: 10; Average CTC: 9.71; Median CTC: 11.95; Highest CTC: 13; Lowest CTC: 7
+Branch wise placement - M.Tech.: Integrated Power System — Registered: 5; Placed: 4; Placement Percentage: 80.00; Jobs Offered: 4; Average CTC: 6.94; Median CTC: 6.875; Highest CTC: 7; Lowest CTC: 6.75
+Branch wise placement - M.Tech.: Power Electronics & Drives — Registered: 7; Placed: 6; Placement Percentage: 85.71; Jobs Offered: 6; Average CTC: 10.83; Median CTC: 12.42; Highest CTC: 14.19; Lowest CTC: 6.75
+Branch wise placement - M.Tech.: CAD-CAM — Registered: 11; Placed: 10; Placement Percentage: 90.91; Jobs Offered: 11; Average CTC: 8.53; Median CTC: 7.585; Highest CTC: 12.24; Lowest CTC: 5.4
+Branch wise placement - M.Tech.: Biomedical Engineering — Registered: 1; Placed: --; Placement Percentage: --; Jobs Offered: --; Average CTC: --; Median CTC: --; Highest CTC: --; Lowest CTC: --
+Branch wise placement - M.Tech.: Heat Power Engineering — Registered: 1; Placed: 1; Placement Percentage: 100.00; Jobs Offered: 2; Average CTC: 8.62; Median CTC: 8.62; Highest CTC: 12.24; Lowest CTC: 5
+Branch wise placement - M.Tech.: Production & Industrial Engg. — Registered: 5; Placed: 3; Placement Percentage: 60.00; Jobs Offered: 3; Average CTC: 8.69; Median CTC: 9.43; Highest CTC: 11.66; Lowest CTC: 7.2
+Branch wise placement - M.Tech.: Structural Dynamics and Earthquake Engg. — Registered: 20; Placed: 18; Placement Percentage: 90.00; Jobs Offered: 19; Average CTC: 6.81; Median CTC: 7; Highest CTC: 12.32; Lowest CTC: 4.2
+Branch wise placement - M.Tech.: Structural Engg. — Registered: 22; Placed: 21; Placement Percentage: 95.45; Jobs Offered: 22; Average CTC: 6.43; Median CTC: 6.21; Highest CTC: 9.25; Lowest CTC: 4.2
+Branch wise placement - M.Tech.: Construction Technology & Management — Registered: 19; Placed: 19; Placement Percentage: 100.00; Jobs Offered: 19; Average CTC: 6.43; Median CTC: 6.125; Highest CTC: 7; Lowest CTC: 5.4
+Branch wise placement - M.Tech.: Environmental Engg. — Registered: 9; Placed: 6; Placement Percentage: 66.67; Jobs Offered: 6; Average CTC: 7.68; Median CTC: 6.75; Highest CTC: 13.1; Lowest CTC: 5
+Branch wise placement - M.Tech.: Geo-technical Engineering — Registered: 8; Placed: --; Placement Percentage: --; Jobs Offered: --; Average CTC: --; Median CTC: --; Highest CTC: --; Lowest CTC: --
+Branch wise placement - M.Tech.: Transportation Engg. — Registered: 16; Placed: 9; Placement Percentage: 56.25; Jobs Offered: 9; Average CTC: 7.21; Median CTC: 6; Highest CTC: 12.32; Lowest CTC: 4
+Branch wise placement - M.Tech.: Water Resources Engg. — Registered: 7; Placed: 5; Placement Percentage: 71.43; Jobs Offered: 6; Average CTC: 6.48; Median CTC: 6.66; Highest CTC: 7; Lowest CTC: 5
+Branch wise placement - M.Tech.: Urban Planning Engg. — Registered: 7; Placed: 2; Placement Percentage: 28.57; Jobs Offered: 2; Average CTC: 6.38; Median CTC: 6.375; Highest CTC: 6.75; Lowest CTC: 6
+Branch wise placement - M.Tech.: Chemical Engineering — Registered: 5; Placed: 3; Placement Percentage: 60.00; Jobs Offered: 3; Average CTC: 6.67; Median CTC: 7; Highest CTC: 8; Lowest CTC: 6
+Branch wise placement - M.Tech.: Material Engineering — Registered: 1; Placed: --; Placement Percentage: --; Jobs Offered: --; Average CTC: --; Median CTC: --; Highest CTC: --; Lowest CTC: --
+Branch wise placement - M.Tech.: Process Metallurgy — Registered: 2; Placed: 2; Placement Percentage: 100.00; Jobs Offered: 3; Average CTC: 10.36; Median CTC: 6.25; Highest CTC: 19.25; Lowest CTC: 5.02
+Branch wise placement - M.Tech.: Total — Registered: 184; Placed: 131; Placement Percentage: 71.19%; Jobs Offered: 137
+Branch wise placement - M.Sc
+Branch wise placement - M.Sc: M.Sc. Chemistry — Registered: 04; Placed: 01; Placement Percentage: 25.00; Jobs Offered: 01; Average CTC: 7.25; Median CTC: 7.25; Highest CTC: 7.25; Lowest CTC: 7.25
+Branch wise placement - M.Sc: M.Sc Mathematics — Registered: 14; Placed: 05; Placement Percentage: 35.71; Jobs Offered: 05; Average CTC: 6.75; Median CTC: 6.00; Highest CTC: 7.25; Lowest CTC: 6.00
+Branch wise placement - M.Sc: M.Sc Physics — Registered: 08; Placed: 02; Placement Percentage: 25.00; Jobs Offered: 02; Average CTC: 6.63; Median CTC: 6.63; Highest CTC: 7.25; Lowest CTC: 6.00
+Branch wise placement - M.Sc: Total — Registered: 26; Placed: 08; Placement Percentage: 30.77%; Average CTC: 08; Median CTC: 08; Highest CTC: 08; Lowest CTC: 08
+Companies visited for placement - 2024-25
+Companies visited for placement - 2024-25: Aakash Educational Services Ltd.
+Companies visited for placement - 2024-25: Aarvee Associates
+Companies visited for placement - 2024-25: Accenture
+Companies visited for placement - 2024-25: Accordion Partners (formerly Merilytics)
+Companies visited for placement - 2024-25: Acuitas 360
+Companies visited for placement - 2024-25: Addverb Technologies Limited
+Companies visited for placement - 2024-25: Aditya Birla Group (ABG)
+Companies visited for placement - 2024-25: Afcons Infrastructure Ltd.
+Companies visited for placement - 2024-25: Anand Group
+Companies visited for placement - 2024-25: Applied Materials Inc.
+Companies visited for placement - 2024-25: Aspect Ratio Private Limited
+Companies visited for placement - 2024-25: Atyati Technologies Pvt. Ltd.
+Companies visited for placement - 2024-25: Axis Bank
+Companies visited for placement - 2024-25: Axxela Research & Analytics Private Limited
+Companies visited for placement - 2024-25: Azure Power India Pvt. Ltd.
+Companies visited for placement - 2024-25: Bajaj Auto Limited & Chetak Technology Limited (B.Tech.)
+Companies visited for placement - 2024-25: Bajaj Auto Limited & Chetak Technology Limited (M.Tech.)
+Companies visited for placement - 2024-25: Bajel Projects Ltd.
+Companies visited for placement - 2024-25: Bharat Electronics Limited (BEL - Phase 1 - ECE)
+Companies visited for placement - 2024-25: Bharat Electronics Limited (BEL - Phase 2 - CSE)
+Companies visited for placement - 2024-25: Bharat Petroleum Corporation Limited
+Companies visited for placement - 2024-25: Bharti Airtel
+Companies visited for placement - 2024-25: BirlaNu Limited
+Companies visited for placement - 2024-25: Black & Veatch Private Limited
+Companies visited for placement - 2024-25: Bluestream Infrastructure Development Consultants Pvt. Ltd.
+Companies visited for placement - 2024-25: Capgemini
+Companies visited for placement - 2024-25: Caterpillar India Pvt. Ltd.
+Companies visited for placement - 2024-25: CGI
+Companies visited for placement - 2024-25: Chipsolve Technologies
+Companies visited for placement - 2024-25: CITI India
+Companies visited for placement - 2024-25: Civil Globe Consultants Pvt. Ltd.
+Companies visited for placement - 2024-25: Cognizant Technology Solution Pvt. Ltd.
+Companies visited for placement - 2024-25: Cosmo Sunshield (Formerly Cosmo Films Limited)
+Companies visited for placement - 2024-25: Creative Group LLP (CG)
+Companies visited for placement - 2024-25: Dar Al-Handasah (B.Tech.) - Phase 1
+Companies visited for placement - 2024-25: Dar Al-Handasah (M.Tech.) - Phase 2
+Companies visited for placement - 2024-25: Deloitte Consulting India Private Limited
+Companies visited for placement - 2024-25: Delta Electronics India Pvt. Ltd.
+Companies visited for placement - 2024-25: Eaton India
+Companies visited for placement - 2024-25: Engineers India Limited
+Companies visited for placement - 2024-25: Excel Controlinkage Pvt. Ltd.
+Companies visited for placement - 2024-25: ExxonMobil Services & Technology Private Limited
+Companies visited for placement - 2024-25: Factspan Analytics
+Companies visited for placement - 2024-25: Famic Technologies Pvt. Ltd.
+Companies visited for placement - 2024-25: Federal Bank
+Companies visited for placement - 2024-25: Gail India Limited
+Companies visited for placement - 2024-25: Gainwell Commosales Pvt. Ltd.
+Companies visited for placement - 2024-25: Galactic Group
+Companies visited for placement - 2024-25: GlaxoSmithKline
+Companies visited for placement - 2024-25: GlobalLogic-Hitachi
+Companies visited for placement - 2024-25: Gmmco Ltd (CK Birla Group)
+Companies visited for placement - 2024-25: Godrej Enterprises Group
+Companies visited for placement - 2024-25: Goldman Sachs
+Companies visited for placement - 2024-25: Google India
+Companies visited for placement - 2024-25: Greenko Group
+Companies visited for placement - 2024-25: HCL Software
+Companies visited for placement - 2024-25: Hexaware Technologies Limited
+Companies visited for placement - 2024-25: Hilti Technology Solutions India
+Companies visited for placement - 2024-25: Hindustan Petroleum Corporation Ltd.
+Companies visited for placement - 2024-25: Home First Finance Company
+Companies visited for placement - 2024-25: Hyundai Motor India Limited
+Companies visited for placement - 2024-25: ICICI Bank
+Companies visited for placement - 2024-25: IITians Science Point Pvt. Ltd.
+Companies visited for placement - 2024-25: Infocepts
+Companies visited for placement - 2024-25: Infosys
+Companies visited for placement - 2024-25: Infosys - Analyst - Business Consulting
+Companies visited for placement - 2024-25: Infosys - Specialist Programmer (Technical Role)
+Companies visited for placement - 2024-25: Infrasyss Techno Consultants Pvt. Ltd.
+Companies visited for placement - 2024-25: IQVIA
+Companies visited for placement - 2024-25: ITC Limited
+Companies visited for placement - 2024-25: Jacobs Solutions India Pvt. Ltd.
+Companies visited for placement - 2024-25: Jayaswal Neco Industries Limited
+Companies visited for placement - 2024-25: Jindal Stainless Limited
+Companies visited for placement - 2024-25: JK Cement Ltd.
+Companies visited for placement - 2024-25: John Deere
+Companies visited for placement - 2024-25: JPMorgan Chase & Co.
+Companies visited for placement - 2024-25: JSW Group
+Companies visited for placement - 2024-25: JW Consultants LLP
+Companies visited for placement - 2024-25: K & J Projects Private Limited Kalyani Steels Limited
+Companies visited for placement - 2024-25: KENT PLC
+Companies visited for placement - 2024-25: Kirloskar Ferrous Industries Limited
+Companies visited for placement - 2024-25: KPIT Technologies Limited
+Companies visited for placement - 2024-25: KSB Limited
+Companies visited for placement - 2024-25: Lalit Tutorials, Akola
+Companies visited for placement - 2024-25: Larsen & Turbo Limited
+Companies visited for placement - 2024-25: LG Electronics India Pvt. Ltd.
+Companies visited for placement - 2024-25: Lloyds Consulting & Engineering
+Companies visited for placement - 2024-25: Lloyds Metals and Energy Limited
+Companies visited for placement - 2024-25: Lloyds Metals and Energy Limited - Phase 2
+Companies visited for placement - 2024-25: Maharashtra Natural Gas Limited
+Companies visited for placement - 2024-25: Mahindra & Mahindra Ltd.
+Companies visited for placement - 2024-25: MAQ Software
+Companies visited for placement - 2024-25: Maruti Suzuki
+Companies visited for placement - 2024-25: Mathworks India Pvt. Ltd.
+Companies visited for placement - 2024-25: Mercedes-Benz
+Companies visited for placement - 2024-25: Microland Limited
+Companies visited for placement - 2024-25: Micron Technologies
+Companies visited for placement - 2024-25: Mindstix Software Labs
+Companies visited for placement - 2024-25: Mondelez India
+Companies visited for placement - 2024-25: Mondelez India (Rol -Global Manufacturing Trainee Launchpad)
+Companies visited for placement - 2024-25: Mukand Limited (Bajaj Group)
+Companies visited for placement - 2024-25: National Stock Exchange Of India Ltd ( NSE )
+Companies visited for placement - 2024-25: Natwest Group
+Companies visited for placement - 2024-25: Neilsoft
+Companies visited for placement - 2024-25: Neterwala Group
+Companies visited for placement - 2024-25: NICE Software Solutions Pvt. Ltd.
+Companies visited for placement - 2024-25: Oracle India Private Limited
+Companies visited for placement - 2024-25: Pinnacle Mobility Solutions Pvt. Ltd. (Eka Mobility-B.Tech.)
+Companies visited for placement - 2024-25: Pinnacle Mobility Solutions Pvt. Ltd. (Eka Mobility-M.Tech.)
+Companies visited for placement - 2024-25: Praj Industries Limited
+Companies visited for placement - 2024-25: ProDNA Analytics Pvt. Ltd.
+Companies visited for placement - 2024-25: Production Modeling India Pvt. Ltd.
+Companies visited for placement - 2024-25: PwC India
+Companies visited for placement - 2024-25: Quantiphi
+Companies visited for placement - 2024-25: Radiant Heat Exchanger Pvt. Ltd.
+Companies visited for placement - 2024-25: Reliance Industries Ltd. - Phase 1
+Companies visited for placement - 2024-25: Reliance Industries Ltd. (CSE) - Phase 2
+Companies visited for placement - 2024-25: Sanbros Spares Pvt. Ltd.
+Companies visited for placement - 2024-25: Shapoorji Pallonji And Company Private Limited (E&C)
+Companies visited for placement - 2024-25: Shree Cement Ltd.
+Companies visited for placement - 2024-25: Spectrum Techno-Consultants Pvt. Ltd.
+Companies visited for placement - 2024-25: Star Alucast Pvt. Ltd.
+Companies visited for placement - 2024-25: Sterling Engineering Consultancy Services Pvt. Ltd.
+Companies visited for placement - 2024-25: Sun Pharmaceutical Industries Limited - Phase 1 (Chem.)
+Companies visited for placement - 2024-25: Sun Pharmaceutical Industries Limited - Phase 2 (EEE, ECE & Mech.)
+Companies visited for placement - 2024-25: Sunflag Iron & Steel Co. Ltd.
+Companies visited for placement - 2024-25: Sutherland Global
+Companies visited for placement - 2024-25: Swiss Re Global Business Solutions India Pvt. Ltd.
+Companies visited for placement - 2024-25: Tabor Electronics
+Companies visited for placement - 2024-25: TATA Advanced Systems Limited
+Companies visited for placement - 2024-25: Tata Consultancy Services
+Companies visited for placement - 2024-25: Tata Consulting Engineers Ltd.
+Companies visited for placement - 2024-25: Tata Power
+Companies visited for placement - 2024-25: Tech Tangent Solutions Pvt. Ltd.
+Companies visited for placement - 2024-25: Thermax Limited
+Companies visited for placement - 2024-25: Thornton Tomasetti
+Companies visited for placement - 2024-25: Thornton Tomasetti - Phase II (PPO)
+Companies visited for placement - 2024-25: Thyssenkrupp Uhde India private Limited
+Companies visited for placement - 2024-25: TransOrg Solutions & Services Pvt. Ltd.
+Companies visited for placement - 2024-25: Tredence Analytics
+Companies visited for placement - 2024-25: Turing Global India Pvt. Ltd.
+Companies visited for placement - 2024-25: UBS
+Companies visited for placement - 2024-25: Varroc Group
+Companies visited for placement - 2024-25: vConstruct Private Limited
+Companies visited for placement - 2024-25: Vedanta Limited
+Companies visited for placement - 2024-25: Vedanta Resources Limited (Mining)
+Companies visited for placement - 2024-25: Vedanta Resources Limited (Non-Mining)
+Companies visited for placement - 2024-25: Veedol Corporation Limited
+Companies visited for placement - 2024-25: Verizon India
+Companies visited for placement - 2024-25: V-Guard Industries Ltd.
+Companies visited for placement - 2024-25: VISA
+Companies visited for placement - 2024-25: Vishvaraj Environment Pvt Ltd
+Companies visited for placement - 2024-25: VOLTAS Limited (UMPESL)
+Companies visited for placement - 2024-25: Wells Fargo International Pvt. Ltd.
+Companies visited for placement - 2024-25: Winjit Technologies Pvt. Ltd.
+Companies visited for placement - 2024-25: WSP India
+Companies visited for placement - 2024-25: ZS Associates
+Internship selection 2024-25
+B.Tech Summer/Winter Internship
+B.Tech Summer/Winter Internship: Civil Engineering — No. of Internship Seat Offered: 4
+B.Tech Summer/Winter Internship: Computer Science and Engineering — No. of Internship Seat Offered: 45
+B.Tech Summer/Winter Internship: Chemical Engineering — No. of Internship Seat Offered: 17
+B.Tech Summer/Winter Internship: Electronics and Communication Engineering — No. of Internship Seat Offered: 16
+B.Tech Summer/Winter Internship: Electrical and Electronics Engineering — No. of Internship Seat Offered: 19
+B.Tech Summer/Winter Internship: Mechanical Engineering — No. of Internship Seat Offered: 13
+B.Tech Summer/Winter Internship: Mining Engineering — No. of Internship Seat Offered: 142
+B.Tech Summer/Winter Internship: Metallurgical and Materials Engineering — No. of Internship Seat Offered: 02
+B.Tech Summer/Winter Internship: Total — No. of Internship Seat Offered: 258
+M.Tech 6 Month/ Year Long Internship:
+M.Tech 6 Month/ Year Long Internship: Communication System Engineering — No. of Internship Seat Offered: 02
+M.Tech 6 Month/ Year Long Internship: Computer Science and Engineering — No. of Internship Seat Offered: 03
+M.Tech 6 Month/ Year Long Internship: CAD-CAM — No. of Internship Seat Offered: 02
+M.Tech 6 Month/ Year Long Internship: Structural Engineering — No. of Internship Seat Offered: 02
+M.Tech 6 Month/ Year Long Internship: Structural Dynamics — No. of Internship Seat Offered: 04
+M.Tech 6 Month/ Year Long Internship: Construction and Technology Management — No. of Internship Seat Offered: 04
+M.Tech 6 Month/ Year Long Internship: Geotechnical Engineering — No. of Internship Seat Offered: 01
+M.Tech 6 Month/ Year Long Internship: Power Electronics and Drives — No. of Internship Seat Offered: 03
+M.Tech 6 Month/ Year Long Internship: VLSI — No. of Internship Seat Offered: 06
+M.Tech 6 Month/ Year Long Internship: Production and Industrial Engineering — No. of Internship Seat Offered: 02
+M.Tech 6 Month/ Year Long Internship: Total — No. of Internship Seat Offered: 29
+List of Companies:
+List of Companies: The Science Talk
+List of Companies: Aarvee Associates
+List of Companies: Accenture
+List of Companies: Afcons Infrastructure Ltd
+List of Companies: Arista Networks
+List of Companies: Bajaj Auto
+List of Companies: Bajaj Capital Advisor
+List of Companies: Black and Veatch
+List of Companies: BOSCH LTD
+List of Companies: Cairn India
+List of Companies: CESI Nanterre
+List of Companies: Chryso(Saint gobin group)
+List of Companies: CITI India
+List of Companies: Cummins
+List of Companies: Cyncly
+List of Companies: D.E. Shaw
+List of Companies: Delta ElectronicsIndia Private Limited
+List of Companies: DRAL
+List of Companies: FiBE
+List of Companies: Force Structural Engineers Pvt Ltd.
+List of Companies: Goldman Sachs
+List of Companies: Google
+List of Companies: GSK(GlaxoSmithKline)
+List of Companies: HILTI
+List of Companies: ITC
+List of Companies: John Deere
+List of Companies: Johnson & Johnson
+List of Companies: JP Morgan Chase
+List of Companies: K&J Projects Private Limited
+List of Companies: KPIT Technologies
+List of Companies: MOIL
+List of Companies: Mondelez Foods Neterwala
+List of Companies: RCFL
+List of Companies: PwC
+List of Companies: TABOR ELECTRONICS
+List of Companies: Tata Elxsi Thornton
+List of Companies: UBS
+List of Companies: VISA Vistora AI
+List of Companies: WCL
+List of Companies: Walter P Moore Engineering

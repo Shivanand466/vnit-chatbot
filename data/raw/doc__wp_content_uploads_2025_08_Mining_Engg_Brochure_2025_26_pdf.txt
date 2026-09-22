@@ -1,0 +1,178 @@
+SOURCE_URL: https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Mining-Engg_Brochure_2025-26.pdf
+TITLE: Mining_Brochure_2025-26
+FETCHED: 2025-08-01
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: Mining_Brochure_2025-26 (dated 2025-08-01)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY
+DEPARTMENT OF MINING
+ENGINEERING PLACEMENT BROCHURE 2025-2026
+PLACEMENT OFFICE ADDRESS: 4TH FLOOR, NEW ACADEMIC BLOCK, SOUTH AMBAZARI ROAD, VNIT NAGPUR, MAHARASHTRA 440010.
+E-MAIL:
+TEPVNIT_NGP@VNIT.AC.IN
+CONTACT:
+0712-2831353, +91-9422802995
+Dear Reader,
+The Department of Mining Engineering was established in 1G82-83 and currently offers undergraduate (UG) Bachelor's and postgraduate (PG) Master's degrees in Mining and Excavation Engineering, respectively. The undergraduate (UG) course has been accredited by the National Board of Accreditation (NBA) during all previous audits. Recently, in 2022, both the UG and PG courses were accredited by the NBA until June 2025. The Department also offers a doctoral degree (PhD), awarded to 12 scholars, with 15 more currently enrolled.
+The Department regularly extends its services to the industry through consultancy projects, a borehole testing facility, and organizing programs for executive development and continued learning. The Department can test rock specimens from exploratory boreholes with a total length of over 5 km annually. Executive development and continued-learning programs, such as short-term training programs (STTPs), workshops, and seminars, serve as perfect venues to gather and discuss the recent issues faced by the mining industry. Some of the major clients include Western Coalfields Limited (WCL), South-Eastern Coalfields Limited (SECL), MOIL Ltd., Mineral Exploration and Consultancy Limited (MECL), Central Mine Planning and Design Institute Limited (CMPDI), and SMS Pvt. Ltd
+Message from the Head of the Department and Brief Departmental Profile
+A large share of the Department's success can be attributed to its excellent rapport with several public and private industries through its vast alumni network. Further, the Department has recently signed a Memorandum of Understanding (MoU) with LGT Construction to organize and train candidates from both organizations in tunneling and excavation engineering. Under the MoU, the Department hosted the first batch of LGT candidates for a two-week training and certification program in February 2025. Subsequent batches will be hosted in the forthcoming months. The MoU serves as a pivotal step towards further advancement in tunneling.
+I feel proud to have as my colleagues a diverse group of talented individuals zealously engaged in constant interaction with the scientific and industrial community through consultancy, RGD, and SGT projects. The Department aspires to inspire and be inspired by contemporary national and international mining institutes through regular faculty development activities and shares its developments by organizing seminars, workshops, and conferences for others to participate in. Faculty members from the department showcase their research contributions at several international conferences every year. My faculty colleagues and their achievements have helped to create a lively and enriching work culture, which we continually strive to uphold.
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur
+FACULTY MEMBERS
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Ajay.K.Agarwal — DESCRIPTI ON: HoD, Associate Professor; AREA OF RESEARCH: Slope stability, Water Pollution; EMAIL ID: akagarwal @mng.vnit.ac.in
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Rajendra.R.Yerpude — DESCRIPTI ON: Professor; AREA OF RESEARCH: MIS, Numerical Modeling, Safety Engineering. System Engineering; EMAIL ID: rryerpude @mng.vnit.ac.in
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Niranjan.R.Thote — DESCRIPTI ON: Professor; AREA OF RESEARCH: Blasting. Mine Environment, Rock Mechanics; EMAIL ID: nrthote @mng.vnit.ac.in
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Ritesh.D.Lokhnade — DESCRIPTI ON: Associate Professor; AREA OF RESEARCH: Rock Mechanics s Ground Control; EMAIL ID: riteshlokhande @mng.vnit.ac.in
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Sandeep Panchal — DESCRIPTI ON: Assistant Professor; AREA OF RESEARCH: Rock Mechanics s Ground Control, Pastefill technology, Blast induced ground vibration; EMAIL ID: sandeeppanchal @mng.vnit.ac.in
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Nilkil.N.Sirdesai — DESCRIPTI ON: Assistant Professor; AREA OF RESEARCH: Geomechanics, Novel Mining Methods, Engineering Geology, Soft Computing; EMAIL ID: nikhilsirdesai @mng.vnit.ac.in
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Anupam.A.Kher — DESCRIPTI ON: Assistant Professor; AREA OF RESEARCH: Mine Safety, Mine Ventilation and Mine System Engineering; EMAIL ID: anupamkher @mng.vnit.ac.in
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Sumant Mohanto — DESCRIPTI ON: Assistant Professor; AREA OF RESEARCH: Geomechanics, Rock Engineering Numerical Modelling in the Geotechnical domain, Soft Computing; EMAIL ID: sumantmohanto @mng.vnit.ac.in
+Dr. A K Agarwal Associate Professor and Head, Department of Mining Engineering, VNIT Nagpur | FACULTY MEMBERS: Dr.Nachiket.V.Bhagade — DESCRIPTI ON: Assistant Professor; AREA OF RESEARCH: Rock excavation Engineering, Damage Mechanics, Near-field Blast dynamics; EMAIL ID: nachiketbhagade @mng.vnit.ac.in
+FACULTY MEMBERS
+ADJUNCTFACULTY: DR.ISHWARDAS.L.MUTHREJA, RETD PROFESSOR, VNIT
+NON TEACHING STAFF: SHRI.P.S.KUBADE, SYSTEM LAB - SHRI.M.D.KATOLE, ROCKMECHANICSLAB-SHRI.SAIRAM MINE ENVIRONMENT Lab SHRI.S.P.SAHASRABUDHE,SURVEYLAB MS.ARCHANA, JUNIOR ASSISTANT MR.RISHAB MISHRA, TECHNICIAN MR.D.G.KALBANDE MR.SUMIT.J.MASKEY
+Departmental Laboratories
+Rock Mechanics Laboratory
+Mine Surveying Laboratory
+Mine Environmental Laboratory
+Mine Machinery Laboratory
+Excavation Laboratory
+System and Design Laborato
+Major Testing Facilities and Equipment
+Shimadzu Table-top XRF Spectrometer
+Digital Gas Chromatograph
+Atomic Absorption Spectrophotometer
+Microwave Digester
+Portable Cascade Impactor
+PM 2.5 Dust Sampler
+Respirable-type High Volume Sampler
+Weather Monitoring Station
+Digital Manometer
+Anemometer Calibration Setup
+Noise Dosimeter
+Digital Bomb Calorimeter
+Blasting Seismograph (4, 8 Channels) and VOD meter
+Computerized Universal Testing Machine
+Computerized Soil Triaxial Machine § Digital 1500 °C Furnace
+X-ray Fluorescence Spectrometer (XRF)
+Ultrasound Concrete Tester
+Auto level and Compass
+GPS
+Total Station
+Computerized 500 Kn
+Rock Compression Testing Machine
+Proceq PUNDIT Lab+ Ultrasonic Pulse Velocimeter l
+Complete setup for physicomechanical testing of rocks l
+Hydraulic-Jacking Support Testing Rig l
+Direct Shear Apparatus l
+CERCHAR Abrasivity Index Testing Apparatus l
+Digital Trinocular Stereo Microscope and Analysis Software
+Software Packages: RocScience, FLAC3D/2D/SLOPE, SURPAC, UDEC, ANSYS Workbench, FRAGALYST, SIMIO simulation software, Mathworks MATLAB, VUMA 3D, MS Project
+Research Statistics
+The Department actively pursues research and development, especially in applied areas with emphasis on collaborative effort.
+The Department has completed two collaborative projects with Earth Resources Centre (UK) in the area of the Impact of Mining on Tropical Forests and with Camborne School of Mines (UK) in the area of Mining and Environment.
+The Department has been granted two patents and three more patents have been filed. Faculty members have successfully acquired research grants from industries · and government organizations. So far, 7 projects worth over INR 3 crores have been granted to the department.
+RESEARCH PROJECTS
+The Department has been granted two patents and three more patents have been filed. | RESEARCH PROJECTS: Risk Investigation for slope failure of benches & dumps using geo- technical characteristics of rocks & their monitoring mechanism in Dudhichua O/C mine of Northern Coal Field Limited. — Funding Agency: Northern Coalfield Limited; Investigator: Dr. R.R Yerpude Dr. I.L Muthreja Dr. A.K Agarwal Dr. R.D Lokhande; Funds: 51.4
+The Department has been granted two patents and three more patents have been filed. | RESEARCH PROJECTS: Risk Investigation for slope failure of benches & dumps using geo- technical characteristics of rocks & their monitoring mechanism in Jayant O/C mine of Northern Coal Field Limited — Funding Agency: Northern Coalfield Limited; Investigator: Dr. R.R Yerpude Dr. I.L Muthreja Dr. A.K Agarwal Dr. R.D Lokhande; Funds: 56.2
+The Department has been granted two patents and three more patents have been filed. | RESEARCH PROJECTS: Removal of metal ions contamination from mine water at deposit-14/11C and deposit 11B mines of BIOM — Funding Agency: NMDC; Investigator: Dr. R.R Yerpude Dr. I.L Muthreja Dr. A.K Agarwal Dr. R.D Lokhande Dr. S.P Zodape; Funds: 7.1
+The Department has been granted two patents and three more patents have been filed. | RESEARCH PROJECTS: Physico-mechanical response of rocks under varied thermal environments — Funding Agency: SERB-SRG; Investigator: Dr. N.N Sirdesai; Funds: 30
+The Department has been granted two patents and three more patents have been filed. | RESEARCH PROJECTS: Blasting & its effects on environment,buffer zone & protective measures of MOIL Ltd Mines at Dongri Buzurg Mine — Funding Agency: MOIL; Investigator: Dr. N.R Thote; Funds: 4.5
+The Department has been granted two patents and three more patents have been filed. | RESEARCH PROJECTS: Feasiblity Study of Flyash filling of O/C mine at Manikpur,Korba — Funding Agency: Bharat Aluminium Company Limited; Investigator: Dr. S. Wanjari Dr. Y.B Katpatal Dr. A.K Agarwal Dr. K.I Wasewar Dr. A.K Agarwal Dr. A.A Kher; Funds: 69.5
+The Department has been granted two patents and three more patents have been filed. | RESEARCH PROJECTS: Development of Non- Explosive,High Voltage type Electric Spark Ignition(ESI) FIR Non-Electric Detonator — Funding Agency: TEXMIN FOUNDATION IIT(ISM) Dhanbad; Investigator: Dr. R.R Yerpude Dr. A.A Kher; Funds: 18.53
+CONSULTANCY PROJECTS
+The Department has been granted two patents and three more patents have been filed. | CONSULTANCY PROJECTS: faculty Dr. A.A. Kher Prof. R.R. Yerpude Dr. R.D. Lokhande Dr. A.K. Agarwal — 2024-25 (Consultancy) Project Title: Vetting of the work carried out by RockTech Engg Pvt. Ltd. Nagpur at NTPC Chetti Bariatu Coal Mine, Jharkhand; Funding Agency: Rocktech Engg Pvt. Ltd.; Amount (Lakhs): 4.97; Duration (Years/Months): 14 months
+The Department has been granted two patents and three more patents have been filed. | CONSULTANCY PROJECTS: Dr. N.V. Bhagade Dr. R.D. Lokhande Prof. R.R. Yerpude Dr. S. Mohanto Dr. N.V. Bhagade — 2024-25 (Consultancy) Project Title: Scientific study for best suitable method of depillaring for Panel No. 38 with maximum percentage extraction in 1 st and 2 nd lift with hydraulic sand stowing in DRC, WCL; Funding Agency: WCL; Amount (Lakhs): 9.55; Duration (Years/Months): 6 months
+The Department has been granted two patents and three more patents have been filed. | CONSULTANCY PROJECTS: Dr. A.A. Kher Dr. N.V. Bhagade Dr. R.D. Lokhande Dr. S. Panchal Dr. S. Mohanto — 2024-25 (Consultancy) Project Title: To conduct a scientific study to determine the effect of blasting on GAIL's DPPL natural gas high pressure pipeline near village Visapur-Latvan, SH-96 road, Taluka:Dapoli, Ratnagiri District (M.H.); Funding Agency: GAIL; Amount (Lakhs): 13.69; Duration (Years/Months): 6 months
+The Department has been granted two patents and three more patents have been filed. | CONSULTANCY PROJECTS: Dr. N.V. Bhagade Dr. A.A. Kher Dr. R.D. Lokhande Prof R.R. Yerpude — 2024-25 (Consultancy) Project Title: Scientific study to determine the impact of blast- induced ground vibrations on Bhadravati Fort and Vijasan Ancient Caves at Bhadravati, Chandrapur Dist. (M.H.); Funding Agency: KPCL; Amount (Lakhs): 8.31; Duration (Years/Months): 3 months
+The Department has been granted two patents and three more patents have been filed. | CONSULTANCY PROJECTS: Dr. A. A. Kher Dr. R. D. Lokhande — 2024-25 (Consultancy) Project Title: Scientific study for the determination of RMR and crossing point temperature of coal samples of Ketki Mine of SECL; Funding Agency: SMS Ltd.; Amount (Lakhs): 5.90; Duration (Years/Months): 3 Months
+The Department has been granted two patents and three more patents have been filed. | CONSULTANCY PROJECTS: Prof. Thote — Blasting evaluation of Urdhan OC Mines of Pench: area; WCL; 4.95; 3 Months
+The Department has been granted two patents and three more patents have been filed. | CONSULTANCY PROJECTS: Prof. Thote — Blasting evaluation of Urdhan OC Mines of Pench: Safety Audit of Balaghat Mines; MOIL; 3.86; 3 Months
+The Department has been granted two patents and three more patents have been filed. | CONSULTANCY PROJECTS: Dr. R. D. Lokhande Prof R.R. Yerpude Dr. N.N. Sirdesai Dr. S. Mohanto — Blasting evaluation of Urdhan OC Mines of Pench: Scientific study to investigate the stability of benches and internal and external dump of IBOCM KPC of EMTA Coal Pvt Ltd; EMTA Coal Pvt Ltd; 8.85; 3 Months
+LIST OF PATENTS
+The Department has been granted two patents and three more patents have been filed. | LIST OF PATENTS: Efficient Zn++ ions removal techniques from aqueous solution using mixture of fly ash and chitosan and its environmental friendly disposal by solidification with Portland Cement — Faculty Name: Dr. A K Agarwal, Dr. I L Muthreja; Application No. with Date: 5858/MM/2014 02/06/2014; Status: Patent Granted No (327366)
+The Department has been granted two patents and three more patents have been filed. | LIST OF PATENTS: Utilisation of Coal Fly Ash of Thermal Power Plant in Conjunction with Chitosan for Efficient Removal of Different HeavyMetal lons and their solidification for safe solid waste disposal — Faculty Name: Dr. A K Agarwal, Dr. I L Muthreja; Application No. with Date: 3619/MUM/2014 A Nov,2014; Status: Patent granted No (374208)
+The Department has been granted two patents and three more patents have been filed. | LIST OF PATENTS: Determination of Roof fall safety Index (RFSI) for Underground Coal Mine — Faculty Name: Dr. A. A Kher, Dr. R.R Yerpude; Application No. with Date: 201721025044A July 2017; Status: Published On 10/11/2017
+The Department has been granted two patents and three more patents have been filed. | LIST OF PATENTS: Development of stoping Index for the Selection of Optimum Stoping Method for Underground Hard Rock Mine — Faculty Name: Dr. A. A. Kher; Application No. with Date: 201721028796; Status: Published On 01/12/2017
+The Department has been granted two patents and three more patents have been filed. | LIST OF PATENTS: Solar Powered Pre-Heater for Boilers using Fresenel Lens — Faculty Name: Dr. A K Agarwal; Application No. with Date: 20191028311; Status: Published On 16/08/2019
+Awards and Honors
+Dr A A Kher has been awarded a Grant of Rs 232.00 lakhs for establishing the TEXMiN-Mining Cyber Physical Systems (CPS) Center of Excellence.
+Prof. I. L. Muthreja is a Nominating Member of the Prestigious Infosys Award 2016
+Prof. I. L. Muthreja was appointed to the National Advisory Board of the National Conference on 'Recent Advances in Mining Technology' (RAMT-2016) at AIT, Bengaluru May 2016
+Prof. N. R. Thote was awarded Dr. A. H Reddy Award instituted by IMEJ for outstanding contribution to research
+Prof. N. R. Thote has been appointed as a member of the Peer Review Committee of the National Institute of Rock Mechanics (NIRM), Bengaluru
+Prof. N. R. Thote has been appointed as a member of the GATE Syllabus Review Committee by IIT Kharagpur
+Prof. N. R. Thote has been appointed as an Expert Member for Recruitment Principles and a Member of the Research Review Committee by DBATU University, Lonere
+Dr. R. D. Lokhande was awarded the INSTITUTION Award/Prize (2018) for best paper in the Journal of Institution of Engineers (India)-Series D (Springer), at the 34 th Indian Engineering Congress at Hyderabad on 27 th December 2016
+Dr. R. D. Lokhande has been appointed as a committee member by the Technical Board, Mumbai, Government of Maharashtra for curriculum revision at Government Polytechnic Nagpur
+Dr. N. N. Sirdesai was Awarded the 5th Youngs Scholar's Symposium on Rock Mechanics (YSRM) Japan 2016
+Dr. A. A. Kher has been awarded a grant of 30 Academic Licenses worth USD 72000 by Simio LLC USA for research and teaching in simulation.
+Dr. N. N. Sirdesai was Awarded The 5th International Scholar's Symposium on Rock Mechanics (ISRM) Japan 2016
+Dr. N. N. Sirdesai has been appointed as a member of the Editorial Board for the SCOPUS Index Journal: Bulletin of Engineering Geology and the Environment (I.F.: 3.041
+Dr. N. N. Sirdesai receiving YSRM AND ISRM award, 2016
+Dr. A.A Kher receiving exchange of letter(LOI)for the Mining CPS Centres of Excellence (CoEs) between TexMin IIT(ISM) Dhanbad and VNIT Nagpur : 1 st Feb 2025
+Latest International Journals
+Nishant Singh Choudhary, M D Goel, Sandeep Panchal, (2025), Blast mitigation performance of vertically partitioned cylindrical structures, International Journal of Protective Structures.
+S.D Kularkar and N.R Thote. 'TBM Performance Prediction Using Statistical and Machine Learning Algorithims: Case Study of Slurry TBM Used in Mumbai Metro Rail Tunnel Line -3(UGC03),India'.Journal of Geological Society of India, 101(2), 149-162. (2025)
+C.V Ramana, N.R Thote and A.K Singh. 'Analysing Slope Stability in Response to BlastInduced Dynamic Loading by Pseudo-Static Approach'. Journal of Mines, Metals and Fuels 72(2).(2024)
+C.V Ramana , N.R Thote and Arun K. Singh.' Numerical Investigation into factors affecting stability of O/C coal mines Rise side Highwal Slope'. Journal of Mines,Metals & Fuels 72(1).(2024)
+Anupam Anant Kher, R.R Yerpude. "Application of Ranking Methods for Evaluation of Critical Factors involved in Roof Fall Fatal Accidents in Indian U/G Coal Mines". Journal of Institution of Engineers(India):Series D: 1-9 (2024)
+Abhishek Khuspare, Ajay Parmar, Ajay K. Agarwal and Swapnil P.Wanjari.'Characteristic Study of Polycarboxylate Ether Sand as a Potential Substitute for Natural River Sand in Construction Industry.' Journal of Materials in Civil Engineering 36, no.6: 04024137.(2024).
+N. Dwiedi, R.D Lokhande. :Impact of Porosity on U/G Structure-A Review'. Journal of Mines, Metals and Fuells,72(5),pp. 439-454.(2024)
+S.Panchal ,S.S Ronghe and R.D Lokhande.' Correlation between Static and Dynamic Young's Modulus of Elasticity of Different Types of Rocks'. International Journal of Geology and Earth Sciences, Vol.10, NO.1.(2024).
+S.Verma,N.N Sirdesai, M.D Goel, M.Maeder, S.Marburg. 'The Role of Cooling on the physicalmechanical response of Thermally treated Jodhpur Sandstone: A Major Heritage Stone in India '. Geoheritage,16(4),132.(2024).
+V.Jiwane , G.Tiwari, M.D Goel , N.N Sirdesai , K.P Venkateswaran.' Crashwarorthiness of Ultrathin Aluminium Honeycomb Structure'. Mechanics of Solids,59(3),pp. 1588-1602.(2024).
+S.Mohanto,D.Deband A. Senapati.'Stability Assessment of Crown Pillar for an U/G Mine usingKCross Validation Technique.' International Journal of Civil Infrastructure of Civil Infrastrucure 07. doi: 10.11159/ijci.202.008.(2024)
+J. Mandal, M. D. Goel, and A. K. Agarwal (2021), Underground structures subjected to various blast scenarios: A scoping review, Archives of Computational Methods in Engineering, 1886-1774
+P. Sahu, R. D. Lokhande, M. Pradhan, and R. Jade, (2021) "The influence of geotechnical parameters on Sinkhole subsidence and its model development for underground Coal Mines in Central India", Journal of Mining Science, 57(2), 220-228
+S. K. Somu and R. D. Lokhande, "Study on the effect of surface subsidence due to tunneling under various loading conditions". Journal of Geotechnical and Geological (Springer), Vol 40, 623-643.
+Mohanto S. and Deb D, (2020) "Prediction of Plastic Damage Index for Assessing Rib Pillar Stability in Underground Metal Mine Using Multi-variate Regression and Artificial Neural Network Techniques". Geotechnical and Geological Engineering, 38(1), 767-760
+A.K Agarwal, 'Kinetic Behavior for the Adsorption of Different Metal Ions on Fly Ash", Journal of Chemical Technology s Metallurgy 56 (4), 2021, PP 775-781
+Major STTP/Workshop/Seminar organized by the Mining Engineering Department
+National Seminar on 'Recent Practices and Advancement in Mineral Industry (RPAMI)', February 2020, Nagpur
+STTP on 'Mining Excavations in Difficult Ground Conditions: Issues s Challenges' (July 6 - 13, 2018)
+Professional Development Courses on "Stability of Slopes and Waste Dumps in Surface Mines" and "Safety Management and Risk Assessment in Mines" for Mining Executives
+STTP on' Theory s Practices in Rock Mechanics Design Applications to Mining s Infrastructure Industry', (January 16-20, 2024)
+STTP on ' Rock Mechanics ' (October 15-19, 2024)
+Tunnel Engineering Certification Program for L&T Batch 03 (December 03-13, 2024)
+Tunnel Engineering Certification Program for L&T Batch 04 (March 1728, 2025)
+Our Clients
+Student Activities
+Class Committees : for academic review
+Departmental events: Teachers' Day, Engineer's Day Swachh Bharat Abhiyan Vigilance Awareness Week organized by Western Coal Fields Limited Student Mentorship Programmes
+Institute Clubs Involvements: AXIS, AAROHI, PRAYAS, E-Cell, MAG, SHELL, HALLA BOL, EUPHORIA, SAMVAD, PICHMANTRA
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET
+Teachers' Day celebration in the Department, 2024
+Institute Gathering, 2025
+Gate'25 Results
+B-tech 2025 Passouts
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-tech 2025 Passouts: Ayush Choudhary — GATE Rank: 76; Score: 678
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-tech 2025 Passouts: Rakshit — GATE Rank: 92; Score: 664
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-tech 2025 Passouts: Mohit Raj Singh — GATE Rank: 133; Score: 625
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-tech 2025 Passouts: Garvit Heaoo — GATE Rank: 288; Score: 568
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-tech 2025 Passouts: Danish Rana — GATE Rank: 253; Score: 553
+B-Tech 2026 Passouts
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-Tech 2026 Passouts: Ayush Kumar — GATE Rank: 8; Score: 866
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-Tech 2026 Passouts: Akash Kumar — GATE Rank: 51; Score: 712
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-Tech 2026 Passouts: Debsubhra Nag — GATE Rank: 105; Score: 645
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-Tech 2026 Passouts: Akshat Kumar Sinha — GATE Rank: 208; Score: 577
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | B-Tech 2026 Passouts: Harsh Rathod — GATE Rank: 400; Score: 505
+ACHIEVEMENTS
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Gautam Kumar, Harsh Lohar — ACTIVITY: INTER-NIT VOLLEYBALL; VENUE: NIT-Warangal; POSITION: League stage
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Shubham Yadav, Astha Admane — ACTIVITY: Athletics; VENUE: VNIT SURATK AL; POSITION: League Stage
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Talele Yash Kiran — ACTIVITY: INTER NIT KHO KHO; VENUE: NIT CALICUT; POSITION: 4 th PLACE
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Ayushi Gupta — ACTIVITY: BASKETBALL; VENUE: AIIMS Nagpur; POSITION: 1 st PLACE
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Mohini Bavistale, Kunal Ambule, Devika, Shibadhri — ACTIVITY: Stage Play; VENUE: IIT Kharagpur; POSITION: 3 rd PLACE
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Mirza Majid Raza — ACTIVITY: INTER NIT KABADDI; VENUE: NIT-TRICHY; POSITION: League Stage
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Indhumathi Neerati — ACTIVITY: INTER NIT KABADDI; VENUE: NIT-TRICHY; POSITION: League Stage
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Debsubhra Nag, Manjeet kumar, Krushna Birar, Bhushan Sharma — ACTIVITY: Great Step 2025 Case study Competition (Petro case study, Enviro case study); VENUE: IIT Kharagpur; POSITION: Was listed as one of the top 10 teams among 50 teams across India
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Gautam Kumar, Harsh Lohar — ACTIVITY: VOLLEYBALL; VENUE: RAMDEV BABA INTER COLLEGE SPORT EVENT; POSITION: 2 nd PLACE
+Inter-Institute Events Involvements: KHANAN by IIT KGP, MINOVATION, MENSURA, GREAT STEP, SMART INDIA HACKATHON, IITM PARADOX, YOUTH EMPOWERMENT SUMMIT, LITMUN, LISCAD, INTERNIT SPORTS MEET | ACHIEVEMENTS: Tanas Adhikari — ACTIVITY: Spring Fest- Stage Dance; VENUE: IIT Kharagpur; POSITION: League Stage
+-
+Great Step'25 (IIT KGP)
+Inter-Nit Kabaddi '25
+Stage Play ( IIT KGP '25) - Hallabol
+Intern-Nit Athletics '25
+WCL Vigilance Week '25(Winners)
+Inter-Nit Volleyball'25

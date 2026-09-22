@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Rebuilt from data/raw by pipeline/chunk.py + pipeline/build_index.py
+data/processed/index.pkl
+data/processed/chunks.jsonl
+
+# Never commit keys (they live outside the project, but just in case)
+*key*.txt
+*secret*.txt
+.env

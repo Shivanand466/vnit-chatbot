@@ -1,0 +1,222 @@
+SOURCE_URL: https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Computer-Science-Engg_Brochure_2025-26.pdf
+TITLE: CSE_Brochure_2025-26
+FETCHED: 2025-08-01
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: CSE_Brochure_2025-26 (dated 2025-08-01)
+VISVESVARAYANATIONALINSTITUTE OFTECHNOLOGY, NAGPUR
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING PLACEMENTBROCHURE 2025 - 26
+Placement Office Address
+4th Floor. New Academic Block. South Ambazari Road, VNIT Nagpur, Maharashtra 440010.
+tepvnit_ngp@vnit.ac.in tepvnit@gmaill.com
+E-mail
+Contact
+IMONLD 9422B02995 (0FFICD 0712-2801353
+About Us
+Mission
+To produce highly qualified and motivated graduates through a rigourous curriculum of theory and application that develops the ability to solve problems, individually and in teams. Creating knowledge of fundamental principles and innovative technologies through research within the core areas of computer science and also in inter-disciplinary topics. Serving the communities to which we belong at local and national levels, combined with a deep awareness of our ethical responsibilities to our profession and to society.
+Vision
+To contribute effectively to the important national endeavour to produce quality human resource in the information technology and related areas for sustainable development of the country's IT industry needs. To advance the state of the art in computer science and engineering by working on cutting edge research topics, publishing quality research papers and filing enduring patents. To serve the local and the national community by creating awareness about IT related products and to impress upon then the importance of knowledge management
+The Department of Computer Science and Engineering, established in 1987, offers B.Tech., M. Tech. and Ph.D. degrees. The department has well qualified and motivated faculty members and support staff. The laboratories are adequately equipped with state-of-the-art facilities. The department is actively involved in R&D as well as consultancy projects and hascollaborations with several industries, academic institutes and R&D organizations in the country. The first B. Tech batch graduated in 1991 and the first M.Tech. batch graduated in 2009. There are more t than 20 full-time research scholars registered in the department.
+From the HOD's desk
+Dr. M. P. Kurhekar Headof the Department, Computer Science and Engineering.
+VNIT Nagpur's Department of Computer Science & Engineering offers Bachelor of Technology, Master of Technology, and Doctor of Philosophy in ComputerScience & Engineering. Our objective is to enhance human understanding of Computing through teaching and research, and to extend that understanding by solving real-world challenges. In teaching, our aim is to educate our students so that they have the fundamental and foundational knowledge as well as the interpersonal and technical skills needed to succeed and excel. In these efforts, students frequently collaborate with renowned research institutes and national and worldwide cors t s o o nts successfully fulfil.
+VNIT's faculty and students at the Computer Science and Engineering department contribute tsos g g s g g in many research fields, including Image Processing, Computer Vision, Artificial Intelligence, Machine Learning, Deep Learning, Cryptography, Computer and Network Security, Data Mining, Bioinformatics,Real-time Systems, large Cyber-Physical systems, and Parallel Computing.
+Our students have brought enormous success to the department by demonstrating their programming skills in numerous programming competitions and hackathons. The students are able to obtain prime jobs and secure admissions at prestigious national and international universities for higher education thanks to their technical expertise and interpersonal skills acquired during their stay at the VNIT campus. I am confident that the students of the present batch will justify the credibility of the department by demonstrating a high level of professional competence in their respective futureendeavours.
+Dr. Nidhi Lal Faculty Coordinator, Training and Placement Computer Science and Engineering.
+Established in 1987, the Department of ComputerScience and Engineering offers B. Tech., M. Tech., and Ph.D. degrees. The academics and support staff in the department are highly skilled and motivated. The laboratories are well equipped with cutting-edge technology and state-of-the-art facilities. The department is actively involved in R&D and consulting projects, and it collaborates with a number of industries, academic institutes, and R&D organisations throughout the country.
+The department includes excellent laboratory facilities with an adequate number of desktop computers. In the laboratories, different kinds of servers, such as those manufactured by IBM, Apple, HP, and Dell, are installed. The latest Titan RTX GPU, which is the state-of-the-art GPU, was recently presented by the alumni batch of 1983 through the Alumni Association. Apart from that, we also have six other alumni donated servers which are being used in many of the latest projects in the area of machine learning by students and faculty for data-intensive tasks. Students from the department consistently perform well in national-level competitive examinations, programming contests, and hackathons such as theACM ICPC.
+Core Courses
+Discrete Mathematics and Graph Theory
+Digital Circuits and Microprocessor
+Data Structures and Program Design
+Concepts in Programming Languages
+Data Structures and Program Design
+Computer Organization
+Theory of Computation
+Elective Courses
+Introduction to Object Oriented Methodology
+Neuro Fuzzy Techniques
+Introduction to Web Programming
+Software Engineering
+Database Management Systems
+Language Processors
+Computer Networks
+Steganography and Digital Watermarking
+Advance Web Programming
+Image and Video Processing
+Introduction to Embedded Systems
+Artificial Intelligence
+Spatial Databases
+Information Retrieval
+Paradigms in Programming
+Pattern Recognition
+Advances in Compiler Construction
+Formal Methods in Program Design
+Introduction to Systems Engineering
+Computer Vision
+Design and Analysis of Algorithms
+Operating Systems
+Software Engineering
+Database Management Systems
+Language Processors
+Computer Networks
+System and Network Security
+Introduction to Machine Learning
+Data Mining &Data Warehousing
+Introduction to Internet of the Things
+Introduction to Distributed Systems
+Topics in Graph Theory
+Data Mining and Data Warehousing
+Software Project Management
+Business Intelligence
+Introduction to Cloud Computing
+Human Computer Interface
+Software Architecture
+Introduction to Parallel Computing
+Distributed Systems
+Number Theory and Modern Cryptography
+Natural Language Processing
+Deep Learning
+Game Theory
+Program Analysis
+Advanced Computer Architecture
+Topics in Bioinformatics
+Core Courses
+Advances in Algorithms
+Mathematical Foundation for Computer Science
+Distributed System
+. Advanced IDBMS
+Cryptography 8 & Information Security 5. &
+Elective Courses
+Pattern Recognition
+Introduction to Systems Engineering
+Soft Computing Techniques
+4 4. Mathematics for r Machine e Learning
+Deep Learning
+Advances in Data Mining
+Image Processing and Understanding
+Achievements
+4 4. Mathematics for r Machine e Learning | Achievements: Dr. Praveen Kumar — Patent Title: SYSTEM AND METHOD FOR PERFORMING SURVEILLANCE OF AN AUTOMATED TELLER MACHINE (ATM)".; Application No. with date: 201611009410 filed on 21st March 2016; Present Status (if awarded, Patent No.): Pending for Examination
+4 4. Mathematics for r Machine e Learning | Achievements: Anshul Agarwal — Patent Title: A System for Detection and Identification of Fault in Thermostatically Controlled Loads; Application No. with date: 20192108242, Filing Date: 07/05/2019; Present Status (if awarded, Patent No.): Filed
+4 4. Mathematics for r Machine e Learning | Achievements: Anshul Agarwal — Patent Title: Method for Allocating Sensors in a Building; Application No. with date: 20192108534 Filing Date: 09/05/2019; Present Status (if awarded, Patent No.): Filed
+Patents
+Given are the patents received by our department professors for their distinguished work in their respective fields. Hats off to their dedication and patience making our institute and our department proud.
+Achievements
+Sports
+Starting with our achievements in sports, we are proud to announce that our second years students from the department of Computer Science and Engineering was honored as the best player of the season in men's category in Lawn Tennis at the Inter-NIT sport Meet 2024-25 organized by NIT Rourkela.
+Further we have also won 3 back to back gold medals in Chess at the AIINSM.
+COLLECTIVE SKILLSET
+Programming Languages: C, C++, Java, Python, JavaScript, Golang ,C#, Typescript
+Web Technologies: HTML, CSS, React, Angular, Node.js, Express.js , Django, Flask, Web Services, REST Framework, GraphQL
+Databases: MongoDB, 3, MySQL, Oracle,Postgres, Microsft SQL, Redis
+Cloud Technologies: Docker , Kubernetes, Terraform, Azure,AWS,
+Frameworks/Libraries: React, Angular, Node.js, Express.js ,Django, Flask , React Native,Flutter , Spring Boot Pandas ,Numpy, Requests, Beautiful Soup, Scrapy ,Matplotlib Seaborn, Scikit-learn, Keras, Pytourch,OpenCV ,TensorFlow PyTorch
+COLLECTIVE SKILLSET
+Cyber Security : IDS, IPS , Firewall management(PaloAlto) ,Watchguard, pfsense, opensense) , SIEMS (Azure XDR, RAPID 7 IDR) , IDAM ,AD Management(Azure AD, on prem AD) , Linux Hardening.
+Virtualization : VMware, Virtual Box, XCP-ng, Proxmox
+Other Technologies: Git, GitHub , Linux, Automation, ui/UX, Agile, Web Sockets , Networking, Splunk, Server Management (Windows , Linux) , Embedded Systems , loT
+Areas of Interest: Al/ML, Data Science, Data Analytics, Deep Learning, Reinforcement Learning, Computer Vision, NLP,GenAl, LLM, Robotics, Blockchain,Full Stack Development,Web Development,Backend Development, Database Management, Cloud Computing, Data Warehousing, Recommendation Engines, Pattern Recognitic , Data (ETL) Pipelines, Research, CyberSecurity (Red Teaming), Project Management, Cognitive Science, Human-Computer Interaction
+PAST RECRUITERS
+Google VISA
+celigo sling trS
+Netcracker incedo
+PayUcognizant
+Placement Statistics
+package statistics
+Areas of Interest: Al/ML, Data Science, Data Analytics, Deep Learning, Reinforcement Learning, Computer Vision, NLP,GenAl, LLM, Robotics, Blockchain,Full Stack Development,Web Development,Backend Development, Database Management, Cloud... | package statistics: 2020-21 — highest package: 39.2; average package: 11.94; median package: 10.08
+Areas of Interest: Al/ML, Data Science, Data Analytics, Deep Learning, Reinforcement Learning, Computer Vision, NLP,GenAl, LLM, Robotics, Blockchain,Full Stack Development,Web Development,Backend Development, Database Management, Cloud... | package statistics: 2021-22 — highest package: 64; average package: 16.03; median package: 12
+Areas of Interest: Al/ML, Data Science, Data Analytics, Deep Learning, Reinforcement Learning, Computer Vision, NLP,GenAl, LLM, Robotics, Blockchain,Full Stack Development,Web Development,Backend Development, Database Management, Cloud... | package statistics: 2022-23 — highest package: 64.67; average package: 19.83; median package: 13
+Areas of Interest: Al/ML, Data Science, Data Analytics, Deep Learning, Reinforcement Learning, Computer Vision, NLP,GenAl, LLM, Robotics, Blockchain,Full Stack Development,Web Development,Backend Development, Database Management, Cloud... | package statistics: 2023-24 — highest package: 64; average package: 16.59; median package: 12
+Dr.M.P. Kurhekar Head of the Department | Associate Professor
+Theoretical Computer Science, Biolnformatics. Email: manishkurhekar@cse.vnit.ac.in
+Dr. O. G. Kakde
+Professor
+Language Processor, Computer Programming Languages, Advanced Compiler Construction. ogkakde@cse.vnit.ac.in
+Dr. P.S. Despande Professor
+Dr. S. R. Sathe
+Professor Professor
+Faculty Corner
+Dr. U. A. Deshpande Dr. R. B. Keskar
+Associate Professor
+Theoretical Foundation of Computer Science. Cryptography, Discrete Maths
+srsathe@cse.vnit.ac.in
+Dr. A. S. Mokhade Associate Professor
+Database Managemnent Systems, Data Warehousing & Mining, Pattern Recognition. psdeshpande@cse.vnit.ac.in
+Dr. (Mrs.) S.A. Raut
+Assistant Professor
+Multi-agent systems, Distributed Systems. Soft Computing. uadeshpande@cse.vnit.ac.in
+Dr. (Mrs.) M. M. Dhabu
+Telecommunication Software, Distributed Systems. Formal Verification, Compiler Optimization. rbkeskar@cse.vnit.ac.in
+Dr. Praveen Kumar
+Assistant Professor
+Assistant Professor
+Soft Computing. Network Security.
+meeradhabu@cse.vnit.ac.in
+Dr. Ashish S. Tiwari
+Image Processing. Computer Vision
+praveenkumar@cse@vnit.ac.in
+Dr. Poonam Sharma
+Assistant Professor
+Assistant Professor
+Data Mining and Data Mining and Warehousing. Machine & Deep Learning. Data Science, Bioinformatics, Parallel Processing. saraut@cse.vnit.ac.in
+Dr. Mansi A. Radke
+Software Engineering. Software Architecture. Data Analytics.
+asmokhade@cse.vnit.ac.in
+Dr. (Mrs.) D.D. Shrimankar Assistant Professor
+Parallel and Distributed Systems. Embedded Systems. Computer Networks. dshrimankar@cse.vnit.ac.in
+Dr. Syed Taqi Ali
+Assistant Professor
+Assistant Professor
+Information Retrieval. Natural Language Processing, Semantic Web. mansi.radke@cse.vnit.ac.in
+Dr. Gaurav Mishra
+Mobile Communication, Information Security, Operating Systems. at@cse.vnit.ac.in
+Dr. Anshul Agarwal Assistant Professor
+Information Security, Cryptography. sta@cse.vnit.ac.in Cyber Physical System and loT. Applied ML, Game Theory & Optimization, Smart buildings/Grids.
+anshulagarwal@cse.vnit.ac.in
+Dr. Hemkumar D
+Image Processing. Biometrics, Neural Networks. poonamsharma@cse.vnit.ac.in
+Dr. Swati Jaiswal
+Assistant Professor
+Compilers, Program
+Analysis.
+swatijaiswal@cse.vnit.ac.in
+Dr. PVN Prashanth
+Dr. Yadunath Pathak
+Assistant Professor
+Assistant Professor
+Assistant Professor
+Assistant Professor
+Data clustering, Graph clustering and Algorithms gauravmishra@cse.vnit.ac.in
+Dr. Nidhi Lal Assistant Professor
+Image Processing, Data Privacy, Machine Learning, DBMS Differential Privacy yadunathpathak@cse.vnit.ac.in hemkumar@cse.vnit.ac.in
+Dr. Swapan Maiti Assistant Professor
+Human Computer Interaction,
+Computer Vision, Deep Learning, Information Centric Networks
+nidhilal@cse.vnit.ac.in
+Symmetric-key Cryptography,
+Cellular Automata, Algorithms swapanmaiti@cse.vnit.ac.in
+Software Defined Networks, Distributed Ledgers, Network virtualization prashanthpvn@cse.vnit.ac.in
+Contact Us
+Placement Cell
+Dr.R.V. Uddanwadikar
+Associate Dean, Training & Placement
+Phone: 0712-2801
+Email:rvuddanwadikar@mec.vnit.ac.in
+Mr. Harshad Panse
+Placement Executive, Training & Placement Phone: 0712-2801353.+91-9422802995 Email: tepvnit_ngp@vnit.ac.in
+Department Faculty
+Dr. M. P. Kurhekar
+Phone: 0712-2801026
+Email: manishkurhekar@cse.vnit.ac.in
+HOD, CSE Department
+Dr. Nidhi Lal
+Faculty Coordinator, CSE Department Phone: 0712– 2801370 Email: nidhilal@cse.vnit.ac.in
+Student Coordinators
+B.Tech
+Madhavaram Dhiraj +91 9059129965 madhavaramdhiraj2005@gmail.com
+Harshada Naresh Polshetty +91 91457 87696 harshapolshetty333@gmail.com
+Yashraj Badkul +91 94257 82261 badkulyash04@gmail.com
+Ayaan Hyder Khan +91 96658 21204 ayaanhk26@gmail.com
+M.Tech
+Sumedh Ramteke +91 87678 13842 mt24mcs012@students.vnit.ac.in

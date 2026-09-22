@@ -1,0 +1,35 @@
+SOURCE_URL: https://drive.google.com/file/d/1YwNdsmCd9nGkWqagemkLLYFLSvtDH0VI/view
+TITLE: Fees for NRI_Foreign Nationals for DASA_ICCR_MEA Admission-2025 onwards
+FETCHED: 2026-04-10
+FOUND_ON: https://vnit.ac.in/section/academics/fees/
+---
+Document: Fees for NRI_Foreign Nationals for DASA_ICCR_MEA Admission-2025 onwards (dated 2026-04-10)
+ Fees for NRI/Foreign Nationals through DASA/Ministry of External Affairs/ICCR/ SiI (for students admitted from 2025 onwards)
+Fees - One Time
+( To be paid in the admission year )
+( To be paid in the admission year ) | Fees - One Time: Library Deposit — For B. Tech students (INR) DASA / SAARC: 500; For B. Arch students (INR) DASA / SAARC: 500; M Tech students (INR) DASA / SAARC: 5000
+( To be paid in the admission year ) | Fees - One Time: Caution Deposit — For B. Tech students (INR) DASA / SAARC: 5000; For B. Arch students (INR) DASA / SAARC: 5000; M Tech students (INR) DASA / SAARC: 5000
+( To be paid in the admission year ) | Fees - One Time: Identity Card — For B. Tech students (INR) DASA / SAARC: 200; For B. Arch students (INR) DASA / SAARC: 200; M Tech students (INR) DASA / SAARC: 200
+( To be paid in the admission year ) | Fees - One Time: Medical Exam — For B. Tech students (INR) DASA / SAARC: 100; For B. Arch students (INR) DASA / SAARC: 100; M Tech students (INR) DASA / SAARC: 100
+( To be paid in the admission year ) | Fees - One Time: Welfare Fund — For B. Tech students (INR) DASA / SAARC: 1200; For B. Arch students (INR) DASA / SAARC: 1500; M Tech students (INR) DASA / SAARC: 600
+( To be paid in the admission year ) | Fees - One Time: Medical Aid Fund — For B. Tech students (INR) DASA / SAARC: 4000; For B. Arch students (INR) DASA / SAARC: 5000; M Tech students (INR) DASA / SAARC: 2000
+( To be paid in the admission year ) | Fees - One Time: Total — For B. Tech students (INR) DASA / SAARC: 15500; For B. Arch students (INR) DASA / SAARC: 16800; M Tech students (INR) DASA / SAARC: 12900
+Fees per year
+( To be paid semester wise )
+( To be paid in the admission year ) | ( To be paid semester wise ): Tuition Fee (in US $) — B Tech/B Arch (DASA): 8000; B Tech/B Arch (SAARC): 4000; M Tech (DASA): 8000; M Tech (SAARC): 4000
+( To be paid in the admission year ) | ( To be paid semester wise ): Registration Fee — B Tech/B Arch (DASA): 500; B Tech/B Arch (SAARC): 500; M Tech (DASA): 500; M Tech (SAARC): 500
+( To be paid in the admission year ) | ( To be paid semester wise ): Library Fee — B Tech/B Arch (DASA): 750; B Tech/B Arch (SAARC): 750; M Tech (DASA): 750; M Tech (SAARC): 750
+( To be paid in the admission year ) | ( To be paid semester wise ): Student Activity Fees — B Tech/B Arch (DASA): 1250; B Tech/B Arch (SAARC): 1250; M Tech (DASA): 1250; M Tech (SAARC): 1250
+( To be paid in the admission year ) | ( To be paid semester wise ): Sports Fee — B Tech/B Arch (DASA): 2500; B Tech/B Arch (SAARC): 2500; M Tech (DASA): 2500; M Tech (SAARC): 2500
+( To be paid in the admission year ) | ( To be paid semester wise ): Internet & Computer Maint. Fee — B Tech/B Arch (DASA): 750; B Tech/B Arch (SAARC): 750; M Tech (DASA): 750; M Tech (SAARC): 750
+( To be paid in the admission year ) | ( To be paid semester wise ): Training & Placement Fee — B Tech/B Arch (DASA): 400; B Tech/B Arch (SAARC): 400; M Tech (DASA): 400; M Tech (SAARC): 400
+( To be paid in the admission year ) | ( To be paid semester wise ): Industry Institute Interaction Fee — B Tech/B Arch (DASA): 300; B Tech/B Arch (SAARC): 300; M Tech (DASA): 300; M Tech (SAARC): 300
+( To be paid in the admission year ) | ( To be paid semester wise ): Development Fee — B Tech/B Arch (DASA): 3000; B Tech/B Arch (SAARC): 3000; M Tech (DASA): 5000; M Tech (SAARC): 5000
+( To be paid in the admission year ) | ( To be paid semester wise ): End Semester Examination Fee — B Tech/B Arch (DASA): 1000; B Tech/B Arch (SAARC): 1000; M Tech (DASA): 1000; M Tech (SAARC): 1000
+( To be paid in the admission year ) | ( To be paid semester wise ): Total — B Tech/B Arch (DASA): 8000 US $ + INR 10450; B Tech/B Arch (SAARC): 4000 US $ + INR 10450; M Tech (DASA): 8000 US $ + INR 12450; M Tech (SAARC): 4000 US $ + INR 12450
+( To be paid in the admission year ) | ( To be paid semester wise ): July to Nov Sem (Odd Term) — B Tech/B Arch (DASA): 4000 US $ + INR 5225; B Tech/B Arch (SAARC): 2000 US $ + INR 5225; M Tech (DASA): 4000 US $ +INR 6225; M Tech (SAARC): 2000 US $ +INR 6225
+( To be paid in the admission year ) | ( To be paid semester wise ): Jan to May Sem (Even Term) — B Tech/B Arch (DASA): 4000 US $ + INR 5225; B Tech/B Arch (SAARC): 2000 US $ + INR 5225; M Tech (DASA): 4000 US $ +INR 6225; M Tech (SAARC): 2000 US $ +INR 6225
+Only tuition fees is charged in US $, whereas other fees along with One Time fees is charged in INR
+CIWG Quota - As per directives of MHRD / MoE, Govt of India, fees for CIWG students will be at par with Resident Indians. Any Revision in Fees for students admitted in CIWG quota shall be applicable as per the directives of MoE, GoI.
+In addition to above fees, Convocation fees of US$ 58 and Thesis/Dissertation evaluation fees of US$ 570 for M Tech and US$ 86 for B Arch shall be charged in final semester of program. Hostel charges are separate.
+NOTE - Total fees to be paid at the time of admission reporting includes One Time Fees and Fees of One Semester. An initial fee paid at the Counseling is adjusted against the total fees to be paid during admission reporting. At the Institute reporting, fees will have to be paid in INR in equivalent of USD rate. DD of USD amount will not be accepted.

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>VNIT Chatbot</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font-family: -apple-system, Segoe UI, Roboto, sans-serif;
+    max-width: 720px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    background: #f7f7f8;
+    color: #1a1a1a;
+  }
+  h1 { font-size: 1.25rem; margin-bottom: 0.25rem; }
+  #intro { font-size: 0.85rem; color: #666; margin-top: 0; }
+  #api-url-row { font-size: 0.85rem; margin-bottom: 1rem; color: #555; }
+  #api-url-row input { width: 220px; font-size: 0.85rem; padding: 2px 4px; }
+  #chat { display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 1rem; }
+  .msg { padding: 0.75rem 1rem; border-radius: 10px; max-width: 90%; white-space: pre-wrap; }
+  .user { align-self: flex-end; background: #2563eb; color: white; }
+  .bot { align-self: flex-start; background: #fff; border: 1px solid #ddd; }
+  .sources { font-size: 0.8rem; margin-top: 0.5rem; color: #555; }
+  .sources a { color: #2563eb; }
+  .mode { font-size: 0.72rem; color: #999; margin-top: 0.25rem; }
+  form { display: flex; gap: 0.5rem; }
+  input[type=text] { flex: 1; padding: 0.6rem; font-size: 1rem; border-radius: 8px; border: 1px solid #ccc; }
+  button { padding: 0.6rem 1rem; border-radius: 8px; border: none; background: #2563eb; color: white; font-size: 1rem; cursor: pointer; }
+  button:disabled { opacity: 0.5; cursor: default; }
+  @media (prefers-color-scheme: dark) {
+    body { background: #16171a; color: #eee; }
+    .bot { background: #23252b; border-color: #333; }
+    input[type=text] { background: #23252b; color: #eee; border-color: #333; }
+  }
+</style>
+</head>
+<body>
+  <h1>VNIT Chatbot</h1>
+  <p id="intro">Ask about admissions, fees, hostels, scholarships, notices, calendars, placements or departments. Answers come only from VNIT's website and documents, with sources.</p>
+  <div id="api-url-row">
+    API: <input id="api-url" value="http://localhost:8000/ask">
+    (the chatbot server's address; set automatically)
+  </div>
+  <div id="chat"></div>
+  <form id="form">
+    <input id="question" type="text" placeholder="Ask about admissions, fees, hostels, departments…" autocomplete="off">
+    <button type="submit" id="send">Ask</button>
+  </form>
+
+<script>
+const chat = document.getElementById('chat');
+const form = document.getElementById('form');
+const input = document.getElementById('question');
+const sendBtn = document.getElementById('send');
+const apiUrlInput = document.getElementById('api-url');
+// Served by the chatbot server (locally or deployed): use that same server.
+// Opened directly as a file: fall back to the local server.
+if (location.protocol.startsWith('http')) apiUrlInput.value = location.origin + '/ask';
+
+function addMessage(text, cls) {
+  const div = document.createElement('div');
+  div.className = 'msg ' + cls;
+  div.textContent = text;
+  chat.appendChild(div);
+  chat.scrollTop = chat.scrollHeight;
+  return div;
+}
+
+function escapeHtml(s) {
+  return s.replace(/[&<>"']/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]));
+}
+
+// The LLM writes **bold**; show it as bold. Everything is escaped first, so
+// nothing in an answer can inject HTML into the page.
+function formatAnswer(text) {
+  return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+}
+
+function addBotResponse(data) {
+  const div = addMessage('', 'bot');
+  const body = document.createElement('div');
+  body.innerHTML = formatAnswer(data.answer);
+  div.appendChild(body);
+  if (data.sources && data.sources.length) {
+    const src = document.createElement('div');
+    src.className = 'sources';
+    src.append('Sources: ');
+    data.sources.forEach((s, i) => {
+      if (i) src.append(' · ');
+      const a = document.createElement('a');
+      a.href = /^https?:\/\//.test(s.url) ? s.url : '#';
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = s.title;
+      src.append(a);
+      if (s.date) src.append(` (${s.date})`);
+    });
+    div.appendChild(src);
+  }
+  const mode = document.createElement('div');
+  mode.className = 'mode';
+  mode.textContent = 'mode: ' + data.mode;
+  div.appendChild(mode);
+}
+
+form.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const question = input.value.trim();
+  if (!question) return;
+  addMessage(question, 'user');
+  input.value = '';
+  sendBtn.disabled = true;
+  const thinking = addMessage('…', 'bot');
+  try {
+    const resp = await fetch(apiUrlInput.value, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question }),
+    });
+    if (!resp.ok) {
+      let detail = 'HTTP ' + resp.status;
+      try { detail = (await resp.json()).detail || detail; } catch (_) {}
+      thinking.textContent = detail;
+      return;
+    }
+    const data = await resp.json();
+    thinking.remove();
+    addBotResponse(data);
+  } catch (err) {
+    thinking.textContent = 'Could not reach the chatbot server (' + err.message + '). Is it running?';
+  } finally {
+    sendBtn.disabled = false;
+    input.focus();
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+SOURCE_URL: https://vnit.ac.in/nit-acts-statutes
+TITLE: NIT Acts & Statutes
+FETCHED: 2026-09-21
+---
+NIT Acts
+NIT Act 2007
+Comprehensive NIT Act 2012
+Gazette Notification NIT (Amendment) Act 2012
+NITSER Act 2014: Inclusion of BESU as IIEST-Shibpur
+NIT Statutes
+Gazette Notification NIT-Statutes Dated 23 April 2009
+Gazette Notification NIT-Statutes Dated 21 July 2017
+Gazette Notification NIT-Statutes Dated 7th June 2023
+Gazette Notification NIT-Statutes Dated 28th January 2025

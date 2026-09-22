@@ -1,0 +1,252 @@
+SOURCE_URL: https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Applied-Mechanics-Brochure-2025-26.pdf
+TITLE: Applied Mechanics_Brochure_2025-26
+FETCHED: 2025-08-01
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: Applied Mechanics_Brochure_2025-26 (dated 2025-08-01)
+2025 - 26
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+APPLIED MECHANICS DEPARTMENT
+PLACEMENT BROCHURE
+Contents Table of
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+ABOUT US
+FROM THE HOD'S DESK
+COURSES OFFERED
+L A B O R A T O R I E S
+FACULTY CORNER
+ACTIVITIES
+STUDENT'S DATA AND STATS
+COLLECTIVE SKILLSET
+PAST RECRUITERS
+CONTACT US
+SM 224
+NAGPUR
+ABOUT Us
+Established in 1966, the Department of Applied Mechanics offers two post-graduation programs i.e. M. Tech. in Structural Engineering (STR) and Structural Dynamics & Earthquake Engineering (SDE). Currently, in India the specialized course on Structural Dynamics is available in selected institutes like IIT Roorkee, VNIT Nagpur, and NIT Silchar. The branch of structural dynamics has been started in 2008 with the mission of achieving excellence in structural and earthquake engineering education, research and professional service.
+The Department has played a key role in the formulation of Indian Standard Codes of Practice (IS 1893 and IS 13920) for earthquake resistant design of structures and other special publications like GSDMA (Gujrat State Disaster Management Authority) EQ22 and EQ08. A team from the faculty of department (Structural Dynamics and Earthquake Engineering) at the institute was asked by NGO SEEDS to visit Andaman and Nicobar Islands in 2004 when a tsunami struck thereafter a massive quake in Sumatra (Indonesia), Bhuj (Gujarat) in 2001 and Nepal in 2015, aftermath of the earthquake for providing technical support to them. The Structural Dynamics Lab is equipped with three small shake tables while the Earthquake Engineering Lab is having a servo-hydraulic shake table of 3m x 3m for seismic ground motion simulation, which provides a unique facility for research and testing in central India.
+Mission
+The mission of the department is to achieve excellence in structural and earthquake engineering education, research and the professional service. It is endeavored to equip students to assume the leadership positions in engineering practice, education, research and serve mankind with structures designed for safety, serviceability and economy.
+Vision
+The Department is committed to provide post graduate academic and research programs to produce high quality human resource with ability to meet the global challenges associated with the built environment and to emerge as centre for advanced studies in the field of structural engineering.
+Applied Mechanics Department is one of the oldest departments of Visvesvaraya National Institute of Technology (VNIT), Nagpur. Applied Mechanics Department offers Master's Degree in Structural Engineering and Structural Dynamics & Earthquake Engineering. This department is also teaching all the subjects related to the structural engineering to the undergraduate Civil engineering and Architecture students. Further, department offers Full-Time and Part-Time Ph.D. programme leading to the award of Doctoral Degree. The department has highly qualified faculty members with specialization in various Civil, Structural Engineering and Structural Dynamics disciplines. The faculty members have very good research record and they are publishing very good numbers and quality research papers in SCI/SCOPUS journals each year. Presently, department has about 26 doctoral research scholars working on the solution of technological advanced research problems.
+Faculty members are also providing consultancy services to several Government and Private organisations in all the aspects of Civil and Structural Engineering. Further, department is providing testing and consultancy services in the area of water tanks, bridges, buildings and other structures. The department is actively involved in third party quality control audit and structural stability audit of various structures including railway bridges. The department is regularly organising several short-term training programs in the field of Structural Engineering. Faculty members of the department have several patents to their credit. Department has several ongoing Research and Development (R&D) projects from ISSA (DRDO), DEBEL (DRDO), Mahindra EPC Services Pvt. Ltd., National Rural Roads Development Authority, PDPL, DST-CCP SPLICE Department of Science and Technology, SERB (DST) etc. with a total budget of more than Rs. 10 million. The 13th Structural Engineering Convention (SEC-2023) was held at the Applied Mechanics Department.
+Department has 12 laboratories to conduct various experiments by the students related to their course work. These laboratories are equipped with the state of art equipment, thus providing advanced knowledge to the students in the field of Structural Engineering. The department has excellent work environment wherein focus is to aspire the students to excel and improve by learning and solving real world problems through inputs from external experts too. In order to understand our strength from expert's perspective, academic audit of the offered programs is carried out at regular interval and it involved experts from IITs and industry. The department has extensively involved student community who are ready to venture and contribute in the advancing technological world. Even in the most challenging recent situation, my colleagues have achieved all milestones in time and in most appropriate manner with full reciprocation from the students of the department.
+COURSES OFFERED COURSES OFFERED
+STRUCTURAL ENGINEERING
+SEMESTER 1
+SEMESTER 2
+Finite Element Analysis
+Structural Dynamics
+Theory of Plates and Shells
+Stability of Structures
+Technical Writing and Communication Skills
+STRUCTURAL DYNAMICS ENGINEERING
+SEMESTER 1
+SEMESTER 2
+Finite Element Analysis
+Structural Dynamics
+Earthquake Engineering
+Technical Writing and Communication Skills
+SEMESTER 1
+Earthquake Resistant Design of Concrete Buildings
+Earthquake Resistant Design of Steel Buildings
+Earthquake Dynamics
+Mini Project
+SEMESTER 2
+Matrix Method of Structural Analysis
+Numerical method and Computer Programming
+Advance Concrete Technology and Testing
+Reinforced Concrete Design to IRC 112
+Theory of Elasticity and Plasticity
+Multistoried Buildings
+Bridges
+Earthquake Dynamics
+Structural Health Monitoring and Retrofitting
+Foundations
+Blast Loading of Structures
+Experimental Stress Analysis and Instrumentation
+Concrete Structures
+Steel Structures
+Mini Project
+ELECTIVES
+LABORATORIES
+Structural Dynamics Laboratory:
+Small shake Table
+Models for single storey and Multi storey buildings Water Tanks etc.
+Earthquake Engineering Laboratory:
+Servo-hydraulic Shake Table (3m X 3m) for the unidirectional seismic motion simulation of 5 ton capacity
+Instrumentation Laboratory:
+Ultrasonic concrete tester ●
+Concrete rebound hammers of 0.75 to 29 N-m capacity ●
+Reinforcement Corrosion scanning equipment
+Concrete and Steel Penetrometer
+Static and Dynamic strain gauge indicators
+Digital displacement indicator (LVDT)
+Digital force indicator (load cells)
+Mechanical dial gauges
+Blast Impact Simulation and Testing Laboratory:
+50mm diameter Compression Split Hopkinson Pressure Bar for the characterization of materials at high strain rate along with various FE packages for Blast and Impact Simulations and Workstations
+High velocity (up to 1.1 km/s) bullet impact gas gun
+Advanced Computing Laboratory:
+High End Workstations
+Leading Analysis & Design software
+LABORATORIES
+Structural Fire Engineering Laboratory:
+A 1700 muffle furnace operated with the single/three phase supply. Touch screen temperature control with PID Controllers and data acquisition, System through software ●
+Data Processing Laboratory:
+Data Acquisition System
+Work Stations ●
+Load Cells
+Strain Gauges ●
+Advanced Concrete Laboratory:
+Automax PRO-M SMART line [CTM] ●
+100 KN cap high stiffness flexural frame ●
+Corrosion Monitoring & Measuring Setup ●
+Pan Concrete Mixer
+Accelerated Curing Tank ●
+Salt Spray Chamber
+Computer Laboratory:
+Computers for Analysis ●
+Structural Analysis Software ●
+Strength of Materials Laboratory:
+Universal Testing Machine (100T and 50T capacity)
+Torsion testing machine, Compression Testing and Flexural Loading frame of 100T capacity. ●
+Structural Analysis Laboratory:
+Laboratory setups and study experiments for the various structures namely ●
+Engineering Mechanics Laboratory:
+Laboratory setups covering various concepts of Engineering Mechanics. ●
+Professors
+Dr. Sangeeta Gadve
+Head of the Department
+Areas of Interest: Concrete Technology, Reinforced Concrete, Pre-Stressed Concrete, Finite Element Analysis Email:
+sangeetagadave@apm.vnit.ac.in
+Dr. R. S. Sonparote
+Areas of Interest:
+Structural Dynamics, Soil
+Structures Interaction
+Email:
+rssonparote@apm.vnit.ac.in
+Dr. S. B. Borghate
+Areas of Interest: Concrete Structures, Finite Element Analysis Email:
+sbborghate@apm.vnit.ac.in
+Dr. R. K. Ingle
+Areas of Interest:
+FEM, Earthquake Analysis of
+Structure, Analysis of Bridges,
+Water Tanks and Buildings
+Email:
+rkingle@apm.vnit.ac.in
+Dr. Ratnesh Kumar
+Areas of Interest: Seismic Analysis Design and Retrofitting of RC and Masonry Structures, Seismic Risk Evaluation Email:
+ratneshkumars@apm.vnit.ac.in
+Dr. O. R. Jaiswal
+Affiliated at NIT Goa as Director Areas of Interest: Engineering Mechanics, Earthquake Dynamics Email: orjaiswal@apm.vnit.ac.in
+Dr. S. V. Bakre
+Areas of Interest: Earthquake Engineering, Structural Control, Structural Engineering Email:
+svbakre@apm.vnit.ac.in
+Associate Professors
+Dr. M. D. Goel
+Areas of Interest:
+Blast & Impact Mechanics, High Strain Rate Characterization of Materials, Computational Mechanics Email:
+mdgoel@apm.vnit.ac.in
+Dr. Debarati Datta
+Areas of Interest: Structural Dynamics Email:
+debaratidatta@apm.vnit.ac.in
+Dr. A. Y. Vyavahare
+Areas of Interest: Steel Structure, Finite Element Analysis, Steel Connections Email:
+ayv@apm.vnit.ac.in
+FACULTY CORNER FACULTY CORNER
+Assistant Professors
+Dr. A. P. Khatri
+Areas of Interest: Steel Structures, RC Structures, Structural Stability, Structural Fire Engineering, Steel concrete composite structures Email: ashishkhatri@apm.vnit.ac.in Dr. Sonal Dhanvijay Areas of Interest: Experimental structural dynamics, Hybrid simulation, Reliability estimation. Email: sonaldhanvijay@apm.vnit.ac.in
+Dr. Rahul Biswas
+Area of Interest: Concrete Technology, UHPC, Sustainable Material, Geopolymer Concrete, Machine Learning Email:
+rahulbiswas@apm.vnit.ac.in
+Emeritus Professors
+Dr. G. R. Reddy
+Areas of Interest: Dynamics, Vibration control, Experimental Techniques, Rehabilitation and Retrofitting Email: grreddy@yahoo.com
+ACTIVITIES
+Department of Applied Mechanics provides an environment that nurtures leaders in addition to sound engineers. Notwithstanding the tight academic schedule that students have, they manage to indulge in various extra-curricular activities. Students from our department manage host of activities ranging from inter- department competitions and national level festivals to managing facilities like messing and hostel infrastructure. These activities provide multitude of holistic improvement platforms for students to hone their technical and managerial skills, which are imperative for one to excel in his/her workplace.
+Department is actively involved in various R&D projects from various Government, Public and Private Agencies. Department is pursuing research in earthquake engineering, wind, concrete corrosion, advanced engineering materials, blast, impact and structural fire engineering related activities. Department team has visited earthquake affected areas after Bhuj earthquake (2001), Andaman earthquake (2004) and Nepal earthquake (2015).
+The department is also involved in third party audit and structural stability audit of various structures. Department has facilities for material testing, Proof load testing, non-destructive testing, vibration testing of buildings and bridges.
+ACTIVITIES
+SITE VISIT
+A field visit was conducted by the department which covered multiple sites along the NH53 bypass, and a girder casting yard. Students observed live construction techniques, design practices, and quality control processes, gaining practical insights into bridge components and seismic safety provisions. The visit effectively bridged the gap between theoretical learning and real world engineering applications.
+MULTISTORIED BUILDING EXAM
+This year a very effective and industry-oriented exam pattern was adopted for the course of Multistoried Buildings. There was a 2 Day Modelling and Designing examination in which every student was given a different architectural plan of a G+10 storey. Students had completed the model and developed the schedule of beams, columns and slabs for the given floor. This was to give the emerging engineers a hands-on experience of the industry.
+TECHNICAL AND NON TECHNICAL SEMINARS
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. These sessions included expert talks on industryrelevant technologies as well as workshops on soft skills, leadership, and career guidance.
+STRENGTH
+20
+STRUCTURAL ENGINEERING
+25
+STRUCTURAL DYNAMICS ENGINEERING
+齐齐
+STUDENT'S DATA
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Sachin Madhukar Chalisgaonkar — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 1; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Atharva Guruprasad Mayekar
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Aniket Rajendra Meshram — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 2; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Sarang Baddelwar
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Saurav Yadav — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 3; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Samruddhi Darak
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Suruchi Shukla — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 4; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Banoth Naveen
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Sahil — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 5; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Shiv Kumar Sinha
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Shivam Sanjay Rajguru — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 6; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Pratik Chandrakant Bathe
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Rajat Nandkishor Bhaisare — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 7; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Rapelli Sai Prathik
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Yash Rajendra kaithwas — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 8; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Jana Dudhate
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Tushar Dinkar Patil — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 9; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Setti Umamaheswara Rao
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Sana Sunil — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 10; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Kamlesh S. Kumawat
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Kshitij Ramdas Mundhe — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 11; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Shivam Gajanan Shirsat
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Pranav Shankarpure — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 12; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Pankaj Kumar
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Sumit Shankar Gole — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 13; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Karthikay Santaba
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Vishal Sandeep Patil — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 14; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Prerana Rajendra Patil
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Aniket Shankarayya Kallimath — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 15; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Dipali Dewangan
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Samuel Israel Shettiyar — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 16; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Chamanthula Deepika
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Anjali Nair — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 17; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Jyoti Ranjan Panda
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Ishant Kumar — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 18; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Atul Kumar Dhand
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Mokalla Premkumar — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 19; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Jinesh Kasliwal
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: Tanu — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.S. NO.: 20; STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Gannevaram Chandrateja
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: 21 — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Manish Sudarshan Thorat
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: 22 — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Devesh Kumar Thakur
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: 23 — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Shivangi Rajput
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: 24 — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Swapnil Diwakar Rahate
+The department conducted a series of technical and non-technical seminars aimed at enhancing both academic knowledge and personal development. | STUDENT'S DATA: 25 — STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING.NAME OF STUDENTS: Eesh Dehadrai
+ETABS
+COLLECTIVE SKILLSET COLLECTIVE SKILLSET
+Structural Analysis and Design
+SAP 2000
+STAAD.PRO
+RCDC
+Foundation and Slab Design
+S
+SAFE
+Drafting and Detailng
+AUTOCAD
+Finite Element Analysis
+Data Computation and Programming Ansys Documentation
+MATLAB
+PYTHON
+MS OFFICE
+PAST RECRUITERS PAST RECRUITERS
+CONTACT US CONTACT US
+Placement Executive, Training & Placement Phone: 0712-2801353 , +91- 9422802995
+v n i t . a c . i n / a p m /
+Training & Placement Department 4th Floor, New Academic Building VNIT, Nagpur - 440010
+DEPARTMENT T&P FACULTY
+Dr. A. P. Khatri
+Faculty Co-ordinator, Assistant Professor, Applied Mechanics Department Phone: 0712-2801581, +91 9823357135 Email: ashishkhatri@apm.vnit.ac.in
+Dr. M. D. Goel
+Advisor, Associate Professor, Applied Mechanics Department Phone: 0712-2801419, +91 7722043252 Email: mdgoel@apm.vnit.ac.in
+STUDENT COORDINATOR
+Mr. Aniket S. Kallimath
+Mob. No.: +91-7887532448 Email: aniket.kallimath123@gmail.com
+Mr. Shiv Kumar Sinha
+Mob. No.: +91-9632662302
+Email: shivkumarsinha310@gmail.com

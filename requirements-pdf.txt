@@ -1,0 +1,9 @@
+# Separate environment for reading PDF documents (pipeline/ingest_documents.py).
+# Kept apart from requirements.txt because Docling is large (~1.4 GB with its
+# models) and is only needed when refreshing documents, not to run the chatbot.
+#
+#   python -m venv %USERPROFILE%\.venvs\vnit-pdf
+#   %USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe -m pip install -r requirements-pdf.txt
+docling>=2.129
+requests
+beautifulsoup4

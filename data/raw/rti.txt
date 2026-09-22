@@ -1,0 +1,19 @@
+SOURCE_URL: https://vnit.ac.in/rti-officer/
+TITLE: RTI Officer
+FETCHED: 2026-09-21
+---
+Central Public Information Officer (CPIO)
+Shri Aravind Palla
+Assistant Registrar
+Establishment Section
+Phone
+0712-2801367
+E-mail
+cpio@vnit.ac.in
+First Appellate Authority (FAA)
+Shri Sachin S. Jagdale
+Registrar
+Phone
+0712-2801364
+E-mail
+faa@vnit.ac.in

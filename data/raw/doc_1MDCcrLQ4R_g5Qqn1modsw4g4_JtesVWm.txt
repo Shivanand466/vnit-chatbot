@@ -1,0 +1,19 @@
+SOURCE_URL: https://drive.google.com/file/d/1MDCcrLQ4R_g5Qqn1modsw4g4_JtesVWm/view
+TITLE: Notice regarding transition of Course Feedback Submission Process from paper-based to electronic (online) mode
+FETCHED: 2026-04-10
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Notice regarding transition of Course Feedback Submission Process from paper-based to electronic (online) mode (dated 2026-04-10)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Notice
+Dean (Acd)/2928 Date:- 08th April, 2026
+Kind Attention: All B.Tech, B.Arch, M.Tech, M.Sc students enrolled for the Semester- Summer 2026
+VNIT has transitioned the Course Feedback submission process from paper-based to electronic (online) mode.
+All students of B.Tech, B.Arch, M.Tech, M.Sc are instructed to submit the course feedback form for all the courses they are registered in for Summer 2026 through their AIMS login at https://vnitaims.vnit.ac.in/mproaims/#/
+Schedule of filling Course Feedback: 13th to 17th April 2026.
+Filling out this feedback is mandatory, Students who fail to submit the feedback will not be permitted for registration of the Winter-2026 semester.
+Please refer to the file titled "Instructions for filling Course Evaluation Form" for detailed guidelines on how to complete the course feedback.
+In case of any problem in filling the form, students may contact on following Email Id:
+chetanrajput@vnit.ac.in
+vijendrathakur@vnit.ac.in.
+Dean (Academics)

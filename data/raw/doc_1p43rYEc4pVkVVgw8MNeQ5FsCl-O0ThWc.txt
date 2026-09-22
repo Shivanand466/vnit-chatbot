@@ -1,0 +1,49 @@
+SOURCE_URL: https://drive.google.com/file/d/1p43rYEc4pVkVVgw8MNeQ5FsCl-O0ThWc/view
+TITLE: Hostel Room Allocation Schedule (For UG Students)
+FETCHED: 2026-05-06
+FOUND_ON: https://vnit.ac.in/section/hostel/notices
+---
+Document: Hostel Room Allocation Schedule (For UG Students) (dated 2026-05-06)
+, Visvesvaraya National Institute of Technology, Nagpur
+No:HS/2025-26/3799
+Hostel Section HostelSection
+Date: 05May 2026
+Notice: Hostel Room Allocation Schedule (For UG Students).
+The schedule for online Hostel Room Allocation is given in the below table. Students are requested to follow the dates and timings carefully for a smooth allocation process.
+The step-by-step procedure for hostel allocation is given in the Annexure attached. All students are advised to read and follow the instructions carefully to avoid any inconvenience.
+The step-by-step procedure for hostel allocation is given in the Annexure attached. | Notice: Hostel Room Allocation Schedule (For UG Students).: 2nd Year Boys (Current staying in Aryabhatta and Homi J Bhaba) — Date: 07-May-26; Time: 06:30 pm onwards; Remarks: Single Seater in S Ramanujan Hostel for floor no 7th, 8th, 9th, 10th.
+The step-by-step procedure for hostel allocation is given in the Annexure attached. | Notice: Hostel Room Allocation Schedule (For UG Students).: 1st Year Boys (Current staying in CV Raman and JC Bose) — Date: 08-May-26; Time: 06:00 am onwards; Remarks: Double Seater in S Ramanujan Hostel for floor no 2nd, 3rd, 4th, 5th, 6th ,7th.
+The step-by-step procedure for hostel allocation is given in the Annexure attached. | Notice: Hostel Room Allocation Schedule (For UG Students).: 1st Year Girls (Current staying in Kalpana Chawla) — Date: 08-May-26; Time: 12:00 pm onwards; Remarks: Double Seater in Dr. Anandi Gopal Joshi Hostel for floor no 8th and 9th.
+Assistant Registrar (Hostel)
+To,
+Wardens of Aryabhatta, Homi J Bhaba, CV Raman, IC Rose, Kalpana Chawla.
+Supervisors of Aryablatta, Homi J Bhaba, CV Raman, JC Bose, Kalpana Chawla.
+Hostels Notice Board of Aryabhatta, Homi J Bhaba, CV Raman, JC Bose. Kalpana Chawla.
+Web Upload.
+Copy To:
+The Director, Dean (SW) for information.
+Login Procedure
+Students login usinginstitute credentials.
+Select appropriate Academic Year (2026-27) and Session (W26).
+Dashboard
+Path: login →Dashboard → Hostel Management
+View Some Modules
+The dashboard displays student challan details, including hostel fee challans and o pending fines
+Click on HostelManagement Module
+Hostel Payment
+Students Payment has been verified for this allocation cycle.
+The Fee verification status can be seen on the right side of the Window.
+Student Room Allocation
+Path: Hostel Management → Transaction →Student Room Allocation
+Function :
+O The Student Room Allocation module is used to securely allocate hostel rooms to students by validating fee payment, anti-ragging compliance, and room availability, ensuring fair and error-tree room booking.
+Verifies hostel challan status, if verification is pending, the room allocation screen is blocked with a warning message.
+Mandates submission of the Anti-Ragging Affidavit via the provided link and C requires entry of the generated referenee number to procced.
+Enables room booking only after all mandatory validations and fields are O completed successfully.
+Allows students to select the session (W26), hostel, and block sequentially to O filter eligible rooms.
+Displays room-wise details including total capacity, vacant seats, and O students alreadyallotted to the selected room.
+Highlights fully occupied rooms (vacant = 0) in red and restricts selection of O such rooms.
+Tick the checkbox against the desired room to select it for allocation, only rooms with available vacancies can be selected.
+Shows a confirmation message upon room selection to ensure user acknowledgment before final submission.
+Locks room details after successful submission, preventing any further modification by the student.
+Note: Ref ID in First Field of Room Allocation is Reference ID generated at the time of submission of Anti RaggingForm online during1styear admission.

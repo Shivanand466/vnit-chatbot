@@ -1,0 +1,88 @@
+SOURCE_URL: https://vnit.ac.in/section/hostel/hostels/
+TITLE: Hostels – VNIT Nagpur – Hostel Section
+FETCHED: 2026-09-22
+---
+Hostel Summary for 2023-2024
+Sr. No.
+Hostel Block Name
+Hostel Block No.
+Seater
+Total No. of Seats in the hostel
+Total No. of Allotted / Occupied Seats by students
+1
+Aryabhatta
+1
+Single Seater
+116
+111
+2
+S. Ramanujan
+2
+Single Seater
+540
+537
+3
+M. S. Swaminathan
+3
+Single Seater
+483
+469
+4
+V. G. Bhide
+4
+Single Seater
+483
+477
+5
+A. P. J. Abdul Kalam
+5
+Single Seater
+378
+255
+6
+C. V. Raman
+6
+Double Seater
+336
+316
+7
+Homi J. Bhabha
+7
+Double Seater
+134
+131
+8
+J. C. Bose
+8
+Double Seater
+348
+336
+9
+Meghnad Saha
+9
+Single Seater
+90
+82
+10
+Vikram Sarabhai
+10
+Single Seater
+106
+74
+11
+Kalpana Chawla
+GH-1
+Double Seater/
+Single Seater
+385
+358
+12
+Dr. Anandi Gopal Joshi
+GH-2
+Double Seater/
+Single Seater
+624
+596
+Total
+4023
+3742

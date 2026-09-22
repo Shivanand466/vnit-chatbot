@@ -1,0 +1,348 @@
+SOURCE_URL: https://drive.google.com/file/d/19LLe8J2Db1wbe_1HLAeMP1HLDxBmKC7V/view
+TITLE: Placement and Internship Report 2022-2023
+FETCHED: 2026-03-24
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: Placement and Internship Report 2022-2023 (dated 2026-03-24)
+Visvesvaraya National Institute of Technology, Nagpur
+Placement Statistics - 2022-23
+Placement Statistics - 2022-23: Number of companies visited — B.Tech: 202; B.Arch: 11; M.Tech: 128; M.Sc: 18
+Placement Statistics - 2022-23: Highest Package (CTC) — B.Tech: 64.67; B.Arch: 6.00; M.Tech: 27.89; M.Sc: 9.83
+Placement Statistics - 2022-23: Median Package (CTC) — B.Tech: 10.00; B.Arch: 3.69; M.Tech: 8.00; M.Sc: 6.00
+Placement Statistics - 2022-23: Average Package (CTC) — B.Tech: 12.14; B.Arch: 4.39; M.Tech: 8.37; M.Sc: 6.99
+Placement Statistics - 2022-23: Lowest Package (CTC) — B.Tech: 3.29; B.Arch: 3.69; M.Tech: 3.37; M.Sc: 4.00
+Branch wise placement - B.Tech
+Placement Statistics - 2022-23: Civil Engg. — Registered: 114; Placed: 103; Placement Percentage: 90.35%; Jobs Offered: 125; Average CTC: 7.37; Median CTC: 7.50; Highest CTC: 19; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Chemical Engg. — Registered: 111; Placed: 90; Placement Percentage: 81.08%; Jobs Offered: 112; Average CTC: 10.23; Median CTC: 8.50; Highest CTC: 22.71; Lowest CTC: 3.29
+Placement Statistics - 2022-23: Computer Science Engg. — Registered: 116; Placed: 110; Placement Percentage: 94.83%; Jobs Offered: 139; Average CTC: 19.83; Median CTC: 13.00; Highest CTC: 64.67; Lowest CTC: 5.00
+Placement Statistics - 2022-23: Electrical Engg. — Registered: 119; Placed: 104; Placement Percentage: 87.39%; Jobs Offered: 132; Average CTC: 12.57; Median CTC: 10.50; Highest CTC: 64.67; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Electronics & Communication Engg. — Registered: 122; Placed: 110; Placement Percentage: 90.16%; Jobs Offered: 148; Average CTC: 13.55; Median CTC: 13.00; Highest CTC: 64.67; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Mechanical Engg. — Registered: 119; Placed: 100; Placement Percentage: 84.03%; Jobs Offered: 130; Average CTC: 10.35; Median CTC: 9.10; Highest CTC: 31; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Metallurgical & Materials Engg. — Registered: 97; Placed: 79; Placement Percentage: 81.44%; Jobs Offered: 98; Average CTC: 9.49; Median CTC: 8.00; Highest CTC: 31; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Mining Engg. — Registered: 41; Placed: 34; Placement Percentage: 82.93%; Jobs Offered: 41; Average CTC: 11.36; Median CTC: 9.35; Highest CTC: 31; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Total — Registered: 839; Placed: 730; Placement Percentage: 87.01%; Jobs Offered: 925
+Branch wise placement - B.Arch
+Placement Statistics - 2022-23: Architecture and Planning — Registered: 20; Placed: 14; Placement Percentage: 70%; Jobs Offered: 15; Average CTC: 4.39; Median CTC: 3.69; Highest CTC: 6.00; Lowest CTC: 3.69
+Branch wise placement - M.Tech
+Placement Statistics - 2022-23: Structural Dynamics and Earthquake Engg. — Registered: 22; Placed: 20; Placement Percentage: 90.91%; Jobs Offered: 21; Average CTC: 6.75; Median CTC: 6.13; Highest CTC: 10.35; Lowest CTC: 5.3
+Placement Statistics - 2022-23: Structural Engg. — Registered: 19; Placed: 19; Placement Percentage: 100.00%; Jobs Offered: 21; Average CTC: 6.19; Median CTC: 6.25; Highest CTC: 9.83; Lowest CTC: 5
+Placement Statistics - 2022-23: Urban Planning — Registered: 8; Placed: 3; Placement Percentage: 37.50%; Jobs Offered: 03; Average CTC: 5.56; Median CTC: 5.50; Highest CTC: 6.00; Lowest CTC: 5.17
+Placement Statistics - 2022-23: Chemical Engg. — Registered: 7; Placed: 7; Placement Percentage: 100.00%; Jobs Offered: 08; Average CTC: 7.44; Median CTC: 6.25; Highest CTC: 10.35; Lowest CTC: 3.6
+Placement Statistics - 2022-23: Construction Technology & Management — Registered: 15; Placed: 11; Placement Percentage: 73.33%; Jobs Offered: 12; Average CTC: 6.70; Median CTC: 6.55; Highest CTC: 9.83; Lowest CTC: 5.5
+Placement Statistics - 2022-23: Environmental Engg. — Registered: 10; Placed: 7; Placement Percentage: 70.00%; Jobs Offered: 07; Average CTC: 7.01; Median CTC: 6.88; Highest CTC: 11.00; Lowest CTC: 3.6
+Placement Statistics - 2022-23: Geo-technical Engg. — Registered: 19; Placed: 11; Placement Percentage: 57.89%; Jobs Offered: 13; Average CTC: 5.96; Median CTC: 6.00; Highest CTC: 8.00; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Transportation Engg. — Registered: 19; Placed: 12; Placement Percentage: 63.16%; Jobs Offered: 12; Average CTC: 6.13; Median CTC: 5.75; Highest CTC: 10.35; Lowest CTC: 4
+Placement Statistics - 2022-23: Water Resources Engg. — Registered: 18; Placed: 15; Placement Percentage: 83.33%; Jobs Offered: 16; Average CTC: 8.41; Median CTC: 7.00; Highest CTC: 24.50; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Computer Science Engg. — Registered: 25; Placed: 23; Placement Percentage: 92.00%; Jobs Offered: 35; Average CTC: 13.08; Median CTC: 11.00; Highest CTC: 27.89; Lowest CTC: 7.5
+Placement Statistics - 2022-23: Communication System Engg. — Registered: 20; Placed: 13; Placement Percentage: 65.00%; Jobs Offered: 15; Average CTC: 13.11; Median CTC: 11.53; Highest CTC: 23.50; Lowest CTC: 8
+Placement Statistics - 2022-23: VLSI Design — Registered: 15; Placed: 3; Placement Percentage: 20.00%; Jobs Offered: 04; Average CTC: 14.21; Median CTC: 11.92; Highest CTC: 23.50; Lowest CTC: 9.5
+Placement Statistics - 2022-23: Integrated Power System — Registered: 21; Placed: 19; Placement Percentage: 90.48%; Jobs Offered: 25; Average CTC: 9.24; Median CTC: 9.92; Highest CTC: 14.00; Lowest CTC: 5.5
+Placement Statistics - 2022-23: Power Electronics & Drives — Registered: 20; Placed: 17; Placement Percentage: 85.00%; Jobs Offered: 23; Average CTC: 8.04; Median CTC: 10.00; Highest CTC: 14.00; Lowest CTC: 5
+Placement Statistics - 2022-23: CAD-CAM — Registered: 20; Placed: 19; Placement Percentage: 95.00%; Jobs Offered: 25; Average CTC: 7.19; Median CTC: 6.63; Highest CTC: 14.00; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Heat Power Engg. — Registered: 17; Placed: 15; Placement Percentage: 88.24%; Jobs Offered: 19; Average CTC: 7.25; Median CTC: 7.60; Highest CTC: 12.36; Lowest CTC: 5
+Placement Statistics - 2022-23: Industrial Engg. — Registered: 14; Placed: 13; Placement Percentage: 92.86%; Jobs Offered: 15; Average CTC: 8.77; Median CTC: 8.25; Highest CTC: 12.40; Lowest CTC: 5
+Placement Statistics - 2022-23: Engg. And Medical Science — Registered: 5; Placed: 5; Placement Percentage: 100.00%; Jobs Offered: 06; Average CTC: 7.74; Median CTC: 8.00; Highest CTC: 10.35; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Excavation Engg. — Registered: 5; Placed: 4; Placement Percentage: 80.00%; Jobs Offered: 05; Average CTC: 7.82; Median CTC: 6.25; Highest CTC: 11.86; Lowest CTC: 3.37
+Placement Statistics - 2022-23: Process Metallurgy — Registered: 2; Placed: 2; Placement Percentage: 100.00%; Jobs Offered: 02; Average CTC: 5.50; Median CTC: 5.50; Highest CTC: 5.50; Lowest CTC: 5.5
+Placement Statistics - 2022-23: Total — Registered: 301; Placed: 238; Placement Percentage: 79.07%; Jobs Offered: 287
+Branch wise placement - M.Sc
+Placement Statistics - 2022-23: M.Sc. Chemistry — Registered: 16; Placed: 13; Placement Percentage: 81.25%; Jobs Offered: 14; Average CTC: 6.43; Median CTC: 6.00; Highest CTC: 9.83; Lowest CTC: 4
+Placement Statistics - 2022-23: M.Sc Mathematics — Registered: 7; Placed: 3; Placement Percentage: 42.86%; Jobs Offered: 03; Average CTC: 7.28; Median CTC: 7.92; Highest CTC: 9.83; Lowest CTC: 6
+Placement Statistics - 2022-23: M.Sc Physics — Registered: 8; Placed: 6; Placement Percentage: 75.00%; Jobs Offered: 07; Average CTC: 8.00; Median CTC: 8.30; Highest CTC: 9.83; Lowest CTC: 6
+Placement Statistics - 2022-23: Total — Registered: 22; Placed: 16; Placement Percentage: 72.73%; Average CTC: 24; Median CTC: 24; Highest CTC: 24; Lowest CTC: 24
+Companies visited for placement year 2022-23
+Companies visited for placement year 2022-23: Aakash Educational Service Ltd
+Companies visited for placement year 2022-23: Aarvee Associates Architects Engineers & Consultants Pvt. Ltd.
+Companies visited for placement year 2022-23: ABB
+Companies visited for placement year 2022-23: Accenture
+Companies visited for placement year 2022-23: Accolade Electronics Pvt. Ltd.
+Companies visited for placement year 2022-23: Acuitas 360
+Companies visited for placement year 2022-23: Adani Group
+Companies visited for placement year 2022-23: Addverb Technologies (Software/ Project/ Mobile Robotics)
+Companies visited for placement year 2022-23: Aditya Birla Group
+Companies visited for placement year 2022-23: Advanced Structural Engg. Consultants (ASEC) Inc.
+Companies visited for placement year 2022-23: Afcons Infrastructure Ltd.
+Companies visited for placement year 2022-23: Airoha Technology India Pvt. Ltd. (MediaTek)
+Companies visited for placement year 2022-23: Alfa Laval India Pvt. Ltd.
+Companies visited for placement year 2022-23: Aliens Group
+Companies visited for placement year 2022-23: Allen Career Institute
+Companies visited for placement year 2022-23: Amdocs
+Companies visited for placement year 2022-23: American Express
+Companies visited for placement year 2022-23: Aon Consulting
+Companies visited for placement year 2022-23: AppDynamics Technologies India Private Limited
+Companies visited for placement year 2022-23: Applied Materials Inc.
+Companies visited for placement year 2022-23: Arcesium India
+Companies visited for placement year 2022-23: Aspect Ratio Pvt. Ltd.
+Companies visited for placement year 2022-23: Assystem STUP Consultants Pvt. Ltd.
+Companies visited for placement year 2022-23: Atyati Technologies Pvt. Ltd.
+Companies visited for placement year 2022-23: Awidit Systems Private Limited
+Companies visited for placement year 2022-23: Axis Bank
+Companies visited for placement year 2022-23: Axis My India
+Companies visited for placement year 2022-23: Axxela Research & Analytics Private Limited
+Companies visited for placement year 2022-23: Bajaj Auto Limited
+Companies visited for placement year 2022-23: Bajaj Auto Limited - Phase II
+Companies visited for placement year 2022-23: Bajaj Auto Limited & Chetak Technology Limited
+Companies visited for placement year 2022-23: Bakliwal Tutorials
+Companies visited for placement year 2022-23: Base4 Architects & Engineers Pvt. Ltd.
+Companies visited for placement year 2022-23: Bharat Electronics Limited - Member Research Staff (MRS)
+Companies visited for placement year 2022-23: Bharat Electronics Limited - Probationary Engineer (E-II)
+Companies visited for placement year 2022-23: Bharat Forge Limited
+Companies visited for placement year 2022-23: Bharat Petroleum Corporation Limited
+Companies visited for placement year 2022-23: Black & Veatch Private Limited
+Companies visited for placement year 2022-23: BlackRock Solutions
+Companies visited for placement year 2022-23: BNY Mellon Technology
+Companies visited for placement year 2022-23: BP (Earlier known as British Petroleum)
+Companies visited for placement year 2022-23: Calderys India Refractories Limited (IMERYS)
+Companies visited for placement year 2022-23: Catbus Infolabs Pvt. Ltd.
+Companies visited for placement year 2022-23: Caterpillar India Pvt. Ltd.
+Companies visited for placement year 2022-23: CEAT Specialty Tyres Limited
+Companies visited for placement year 2022-23: Centre for Development of Telematics (C-DOT)
+Companies visited for placement year 2022-23: Ceremorphic Technologies Pvt. Ltd.
+Companies visited for placement year 2022-23: CGI
+Companies visited for placement year 2022-23: Citi India
+Companies visited for placement year 2022-23: Civil Globe Consultants Pvt. Ltd.
+Companies visited for placement year 2022-23: Cogoport Pvt. Ltd.
+Companies visited for placement year 2022-23: Comviva
+Companies visited for placement year 2022-23: Coromandel International Limited
+Companies visited for placement year 2022-23: Cosmo First Limited
+Companies visited for placement year 2022-23: Cotiviti India Pvt. Ltd.
+Companies visited for placement year 2022-23: CoverStack
+Companies visited for placement year 2022-23: Crane Process Flow Technologies India Ltd.
+Companies visited for placement year 2022-23: Cummins India Limited
+Companies visited for placement year 2022-23: Cummins Technologies India Private Limited - System Engineer
+Companies visited for placement year 2022-23: Cybernetics Laboratory
+Companies visited for placement year 2022-23: D.E. Shaw India Private Limited
+Companies visited for placement year 2022-23: Daimler India Commercial Vehicles Pvt. Ltd.
+Companies visited for placement year 2022-23: Dar AL Handasah Consultants Shair & Partners
+Companies visited for placement year 2022-23: Dassault Systemes
+Companies visited for placement year 2022-23: Decimal Point Analytics Private Limited
+Companies visited for placement year 2022-23: Deepak Phenolics Limited (Deepak Group)
+Companies visited for placement year 2022-23: Deloitte
+Companies visited for placement year 2022-23: Dish Network Technologies India Private Limited
+Companies visited for placement year 2022-23: Early Salary
+Companies visited for placement year 2022-23: Edgistify
+Companies visited for placement year 2022-23: EMERGY Enviro Private Limited
+Companies visited for placement year 2022-23: Encora
+Companies visited for placement year 2022-23: Endurance Technologies Pvt. Ltd.
+Companies visited for placement year 2022-23: Engineers India Limited
+Companies visited for placement year 2022-23: Ernst & Young - Global Delivery Services
+Companies visited for placement year 2022-23: Essar UK Services (Subsidiary of Essar Oil UK)
+Companies visited for placement year 2022-23: Everest Industries Limited
+Companies visited for placement year 2022-23: EXFO Electro Optical Engg. India Pvt. Ltd.
+Companies visited for placement year 2022-23: EXL Services
+Companies visited for placement year 2022-23: ExxonMobil Services & Technology Private Limited
+Companies visited for placement year 2022-23: Factri.Ai
+Companies visited for placement year 2022-23: Factspan Analytics
+Companies visited for placement year 2022-23: Fanatics
+Companies visited for placement year 2022-23: Federal Bank
+Companies visited for placement year 2022-23: Finisar Technology India Pvt. Ltd.
+Companies visited for placement year 2022-23: Fiserv
+Companies visited for placement year 2022-23: Ford Motors Pvt. Ltd.
+Companies visited for placement year 2022-23: Fractal Analytics Pvt. Ltd.
+Companies visited for placement year 2022-23: Gail Limited
+Companies visited for placement year 2022-23: Galactic Group
+Companies visited for placement year 2022-23: Ganit Business Solutions Private Limited
+Companies visited for placement year 2022-23: GlaxoSmithKline
+Companies visited for placement year 2022-23: Gmmco Limited ( CK Birla Group)
+Companies visited for placement year 2022-23: Godrej & Boyce Mfg. Co. Ltd.
+Companies visited for placement year 2022-23: Godrej Industries Limited
+Companies visited for placement year 2022-23: Goldman Sachs
+Companies visited for placement year 2022-23: Google
+Companies visited for placement year 2022-23: Greenko Group
+Companies visited for placement year 2022-23: GreyB Research Pvt. Ltd.
+Companies visited for placement year 2022-23: HCL Technologies
+Companies visited for placement year 2022-23: HDFC Bank
+Companies visited for placement year 2022-23: Hilti Technology Solutions India
+Companies visited for placement year 2022-23: Hindustan Copper Limited
+Companies visited for placement year 2022-23: Hindustan Petroleum Corporation Ltd.
+Companies visited for placement year 2022-23: Hindustan Unilever Limited
+Companies visited for placement year 2022-23: HPCL Rajasthan Refinery Limited
+Companies visited for placement year 2022-23: Huron Eurasia India Private Limited
+Companies visited for placement year 2022-23: ICICI Bank
+Companies visited for placement year 2022-23: i-exceed Technology Solutions Pvt. Ltd.
+Companies visited for placement year 2022-23: IFB Industries
+Companies visited for placement year 2022-23: Incedo
+Companies visited for placement year 2022-23: Increff - Phase I
+Companies visited for placement year 2022-23: Increff - Phase II
+Companies visited for placement year 2022-23: Infinera India Pvt. Ltd.
+Companies visited for placement year 2022-23: Infrasyss Techno Consultants Pvt. Ltd.
+Companies visited for placement year 2022-23: Intel Technology India Pvt. Ltd.
+Companies visited for placement year 2022-23: IQVIA
+Companies visited for placement year 2022-23: ISCAR India Private Limited
+Companies visited for placement year 2022-23: ITC Limited - Foods Business Division
+Companies visited for placement year 2022-23: Jacobs Solutions India Pvt. Ltd.
+Companies visited for placement year 2022-23: Jindal Stainless
+Companies visited for placement year 2022-23: Jio Platforms Ltd. (5G R&D Division)
+Companies visited for placement year 2022-23: Jio Platforms Ltd. (GET)
+Companies visited for placement year 2022-23: JK Paper Limited
+Companies visited for placement year 2022-23: John Deere India Pvt. Ltd.
+Companies visited for placement year 2022-23: JP Morgan Chase & Co.
+Companies visited for placement year 2022-23: JSW
+Companies visited for placement year 2022-23: Jubilant FoodWorks GET - Software Developer
+Companies visited for placement year 2022-23: Jubilant FoodWorks GET - Supply Chain Kalyani Technoforge Ltd.
+Companies visited for placement year 2022-23: Karza Technologies Pvt. Ltd.
+Companies visited for placement year 2022-23: Konverge AI
+Companies visited for placement year 2022-23: KPIT-Technologies
+Companies visited for placement year 2022-23: KSB Limited
+Companies visited for placement year 2022-23: L&T Infrastructure Engg. Limited
+Companies visited for placement year 2022-23: L&T Technology Services Limited
+Companies visited for placement year 2022-23: L4B Software
+Companies visited for placement year 2022-23: Larsen & Toubro Limited
+Companies visited for placement year 2022-23: Linde India Limited
+Companies visited for placement year 2022-23: Luminous Power Technologies
+Companies visited for placement year 2022-23: Macleods Pharmaceuticals Ltd.
+Companies visited for placement year 2022-23: Magic Bricks
+Companies visited for placement year 2022-23: MAQ Software
+Companies visited for placement year 2022-23: Maruti Suzuki India Limited - Phase I
+Companies visited for placement year 2022-23: Maruti Suzuki India Limited - PGET - Phase II
+Companies visited for placement year 2022-23: Marvell Semiconductor
+Companies visited for placement year 2022-23: Mathworks India Pvt. Ltd.
+Companies visited for placement year 2022-23: Merilytics
+Companies visited for placement year 2022-23: Minova Runaya Private Limited
+Companies visited for placement year 2022-23: Nation with Namo
+Companies visited for placement year 2022-23: Natwest Group
+Companies visited for placement year 2022-23: Neeyamo
+Companies visited for placement year 2022-23: Neilsoft Ltd.
+Companies visited for placement year 2022-23: NetCracker Technology Solutions (India) Pvt. Ltd.
+Companies visited for placement year 2022-23: NICE Software Solutions Pvt. Ltd.
+Companies visited for placement year 2022-23: Northern Trust Corporation
+Companies visited for placement year 2022-23: Novartis Healthcare Pvt. Ltd.
+Companies visited for placement year 2022-23: Nurture.farm
+Companies visited for placement year 2022-23: NXP Semiconductors
+Companies visited for placement year 2022-23: o9 Solutions Management Private Limited
+Companies visited for placement year 2022-23: Oceaneering International Services Ltd.
+Companies visited for placement year 2022-23: Oceanergy
+Companies visited for placement year 2022-23: Ofbusiness
+Companies visited for placement year 2022-23: Oracle (Server Technology)
+Companies visited for placement year 2022-23: Oracle India Pvt. Ltd. (FSGBU)
+Companies visited for placement year 2022-23: Orient Cement Ltd ( C K Birla Group of companies)
+Companies visited for placement year 2022-23: Parker Hannifin India Pvt. Ltd.
+Companies visited for placement year 2022-23: PayU (Wibmo)
+Companies visited for placement year 2022-23: Perl Education
+Companies visited for placement year 2022-23: Permionics Membranes Pvt. Ltd.
+Companies visited for placement year 2022-23: Persistent Systems Limited
+Companies visited for placement year 2022-23: Phablecare
+Companies visited for placement year 2022-23: PharmaACE Analytics
+Companies visited for placement year 2022-23: Pidilite Industries Ltd.
+Companies visited for placement year 2022-23: Property Pistol Realty Pvt. Ltd
+Companies visited for placement year 2022-23: Prototech Solution
+Companies visited for placement year 2022-23: Publicis Sapient
+Companies visited for placement year 2022-23: PwC India
+Companies visited for placement year 2022-23: Qualcomm
+Companies visited for placement year 2022-23: Quantiphi Analytics Solutions Pvt. Ltd.
+Companies visited for placement year 2022-23: REAL Academy
+Companies visited for placement year 2022-23: Reliance Industries Limited
+Companies visited for placement year 2022-23: Samsung Research Institute Bangalore
+Companies visited for placement year 2022-23: Schneider Electric
+Companies visited for placement year 2022-23: Selec Controls Pvt. Ltd.
+Companies visited for placement year 2022-23: Shapoorji Pallonji And Company Private Limited - Phase I
+Companies visited for placement year 2022-23: Shapoorji Pallonji And Company Pvt. Ltd. - Phase II
+Companies visited for placement year 2022-23: Shree Cement Ltd.
+Companies visited for placement year 2022-23: Siemens Gamesa Renewable Energy
+Companies visited for placement year 2022-23: Siemens PLM Software
+Companies visited for placement year 2022-23: Spectrum Techno Consultants Pvt. Ltd.
+Companies visited for placement year 2022-23: Stellantis
+Companies visited for placement year 2022-23: Sun Pharmaceutical Industries Limited
+Companies visited for placement year 2022-23: Sunflag Iron & Steel Co. Ltd.
+Companies visited for placement year 2022-23: Suzlon Energy Ltd.
+Companies visited for placement year 2022-23: Systra India
+Companies visited for placement year 2022-23: Tata Communications Ltd.
+Companies visited for placement year 2022-23: Tata Consultancy Services Digital
+Companies visited for placement year 2022-23: Tata Consultancy Services INI
+Companies visited for placement year 2022-23: Tata Consultancy Services Ninja
+Companies visited for placement year 2022-23: Tata Consulting Engineers
+Companies visited for placement year 2022-23: Tata Elxsi
+Companies visited for placement year 2022-23: Tata Motors Ltd.
+Companies visited for placement year 2022-23: Tata Power
+Companies visited for placement year 2022-23: Tata Power Southern Odisha Distribution Ltd.
+Companies visited for placement year 2022-23: Tata Projects - Phase I
+Companies visited for placement year 2022-23: Tata Projects - PG - Phase II
+Companies visited for placement year 2022-23: Tata Steel Limited
+Companies visited for placement year 2022-23: Tata Technologies Ltd.
+Companies visited for placement year 2022-23: TCS Research & Innovation
+Companies visited for placement year 2022-23: Technip Energies
+Companies visited for placement year 2022-23: Techture Structures Pvt. Ltd.
+Companies visited for placement year 2022-23: Telamon Technologies
+Companies visited for placement year 2022-23: Tesco
+Companies visited for placement year 2022-23: The Hi- Tech Robotic Systemz Ltd.
+Companies visited for placement year 2022-23: Thermax Limited
+Companies visited for placement year 2022-23: Thornton Tomasetti - Phase I Thornton Tomasetti - UG - Phase II
+Companies visited for placement year 2022-23: Tiger Analytics
+Companies visited for placement year 2022-23: TransOrg Solutions & Services Pvt. Ltd.
+Companies visited for placement year 2022-23: Tredence Analytics
+Companies visited for placement year 2022-23: TresVista
+Companies visited for placement year 2022-23: Turtlemint
+Companies visited for placement year 2022-23: Uber India Systems Pvt. Ltd.
+Companies visited for placement year 2022-23: UBS India
+Companies visited for placement year 2022-23: UHP Technologies (P) Ltd.
+Companies visited for placement year 2022-23: UIDAI
+Companies visited for placement year 2022-23: Uolo Edtech Pvt. Ltd.
+Companies visited for placement year 2022-23: Varahe Analytics Pvt. Ltd.
+Companies visited for placement year 2022-23: vConstruct Private Limited
+Companies visited for placement year 2022-23: Vedanta - Cairn Oil & Gas Ltd.
+Companies visited for placement year 2022-23: Vedanta Ltd. - Mining
+Companies visited for placement year 2022-23: Vedanta Ltd. - MME & Chemical
+Companies visited for placement year 2022-23: Veritas Technologies LLC
+Companies visited for placement year 2022-23: Vinculum Solutions Pvt. Ltd.
+Companies visited for placement year 2022-23: Vishvaraj Infrastructure Ltd.
+Companies visited for placement year 2022-23: Vodafone Intelligent Solutions
+Companies visited for placement year 2022-23: VOIS (Vodafone Intelligent Solutions)
+Companies visited for placement year 2022-23: Walter P. Moore Engg. India Pvt. Ltd.
+Companies visited for placement year 2022-23: Wells Fargo International Pvt. Ltd.
+Companies visited for placement year 2022-23: WSP India
+Companies visited for placement year 2022-23: ZS Associates
+Companies visited for placement year 2022-23: Zycus
+Companies visited for placement year 2022-23: Zydus Lifesciences Ltd.
+Internship selection 2022-23
+B.Tech Summer/Winter Internship
+B.Tech Summer/Winter Internship: Computer Science and Engineering — No. of Internship Seat Offered: 58
+B.Tech Summer/Winter Internship: Chemical Engineering — No. of Internship Seat Offered: 09
+B.Tech Summer/Winter Internship: Electronics and Communication Engineering — No. of Internship Seat Offered: 21
+B.Tech Summer/Winter Internship: Electrical and Electronics Engineering — No. of Internship Seat Offered: 18
+B.Tech Summer/Winter Internship: Mechanical Engineering — No. of Internship Seat Offered: 19
+B.Tech Summer/Winter Internship: Total — No. of Internship Seat Offered: 125
+M.Tech 6 Month/ Year Long Internship:
+M.Tech 6 Month/ Year Long Internship: Communication System Engineering — No. of Internship Seat Offered: 18
+M.Tech 6 Month/ Year Long Internship: Computer Science and Engineering — No. of Internship Seat Offered: 03
+M.Tech 6 Month/ Year Long Internship: CAD-CAM — No. of Internship Seat Offered: 02
+M.Tech 6 Month/ Year Long Internship: Construction Technology Management — No. of Internship Seat Offered: 01
+M.Tech 6 Month/ Year Long Internship: Power Electronics and Drives — No. of Internship Seat Offered: 15
+M.Tech 6 Month/ Year Long Internship: Integrated Power System — No. of Internship Seat Offered: 09
+M.Tech 6 Month/ Year Long Internship: Industrial Engineering — No. of Internship Seat Offered: 3
+M.Tech 6 Month/ Year Long Internship: Total — No. of Internship Seat Offered: 51
+Average Stipend (INR Thousands per Month): 48.5
+List of companies:
+List of companies: D.E. Shaw India Pvt.Ltd.
+List of companies: Microsoft India
+List of companies: Goldman Sachs
+List of companies: Oracle
+List of companies: Google
+List of companies: Wells Fargo Int. Pvt.Ltd.
+List of companies: Hilti Tech Solutions
+List of companies: BNY Mellon Technology
+List of companies: CITI India
+List of companies: Accenture
+List of companies: ITC Limited
+List of companies: Northern Trust Corpo.
+List of companies: John Deere
+List of companies: Natwest Group
+List of companies: Decimal Point Analytics
+List of companies: Optum
+List of companies: Fractal Analytics
+List of companies: Reliance Ind Pvt.Ltd.
+List of companies: EarlySalary
+List of companies: Ford Mototr Pvt. Ltd.
+List of companies: TVS Motor Company Ltd.
+List of companies: Truminds Soft. Systems
+List of companies: Zoho Corporation
+List of companies: Eaton
+List of companies: Marvell Semiconductor
+List of companies: NXP Semiconductors
+List of companies: Qualcomm
+List of companies: Intel
+List of companies: Philips
+List of companies: Energy Exemplar
+List of companies: TCS
+List of companies: Tata Elxsi
+List of companies: NHAI
+List of companies: Tata AutoComp Sys Ltd Regal Rexnord Corpo.

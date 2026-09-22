@@ -1,0 +1,70 @@
+SOURCE_URL: https://vnit.ac.in/head-of-departments
+TITLE: Head of Departments
+FETCHED: 2026-09-21
+---
+Department
+Name /  Extn./
+Contact No.
+Mathematics
+Dr. Pallavi Mahale
+1356 / 1406
+9665232769
+Chemical Engineering
+Dr. K.L. Wasewar
+1565/1561
+9422558423
+Civil Engineering
+Dr. Dilip H. Lataye
+1371 / 1086
+9922946765
+Chemistry
+Dr. Sujit Kumar Ghosh
+1357/1775
+9049442511
+Physics
+Dr. B. R. Sankapal
+1325/1173
+9637532624
+Computer Science & Engineering
+Dr. U.A. Deshpande
+1322/1027
+9822698329
+Mining Engineering
+Dr. Rajesh Gupta
+1350 / 1250
+9823640157
+Architecture & Planning
+Dr. V. S. Adane
+1376/1065
+9890725367
+Metallurgical &
+Material Engineering
+Dr. D.R. Peshwe
+1324/1385
+9372802996
+Electrical Engineering
+Dr. Makarand Ballal
+1349 / 1147
+9881845081
+Mechanical Engineering
+Dr. A.B. Andhare
+1379/1163
+9730007509
+Electronics &
+Comm. Engineering
+Dr. A.G. Kothari
+1345/1049
+9422147650
+Centre for VLSI &
+Nanotechnology
+Dr. R.B. Deshmukh
+1293
+9822362036
+Applied Mechanics
+Dr. Sangeeta Gadve
+1323 / 1415
+9422125802
+Humanities
+Dr. Yogesh Deshpande
+1352 / 1536
+9763672490

@@ -1,0 +1,162 @@
+SOURCE_URL: https://vnit.ac.in/technology-transfer
+TITLE: Technology Transfer
+FETCHED: 2026-09-21
+---
+APPLIED MECHANICS ENGINEERING
+Sr. No.
+Name of Faculty
+Details of Investigation and Technology Transfer
+1.
+Dr. R. K. Ingle
+“Accelerated Bridge Construction Technology” at IRC (Indian Road Congress) Workshop on “Quality Control- New Materials, Techniques, Machinery, etc. in Road Sector”, Hyderabad on 26
+th
+July 2019.
+“Innovations in Bridge Engineering and Design” as a keynote speaker during International Conference on Innovative Trends in Civil Engineering for Sustainable Development (ITCSD-2019) on occasion of Diamond Jubilee Celebration of NIT Warangal on 13
+th
+September 2019.
+Attended RDC Meeting to evaluate the PhD work of candidate in Civil Engineering Department at Uttarakhand Technological University, Dehradun on 23
+rd
+September 2019.
+“Structural health monitoring and auditing” at Government College of Engineering, Nagpur on 28
+th
+June 2019.
+“Revised NBC-2016, Earthquake Indian Standards & Tall Buildings (REIST-2019)”, NIT, Jamshedpur on 25
+th
+June 2019.
+2.
+Dr. L. M. Gupta
+“Steel Structure” on 3
+rd
+October 2019 at KDK College of Engineering, Nagpur.
+“Condition Assessment – Case Studies” on 24
+th
+June 2019 at Govt. College of Engineering, Nagpur.
+3.
+Dr. O. R. Jaiswal
+“Earthquake Load calculations using  IS 1893 (Part 1):2016”,  Samrat Ashok Technical Institute (SATI) Vidisha, 4
+th
+February 2020.
+“Innovative Tuned Mass Dampers using Existing Components”, National Conference on Innovations in the World of Structural Engineering, Government College of Engineering, Aurangabad, 21
+st
+December 2019.
+“Introduction to Structural Dynamics”, Invited talk delivered at Short Term Training Program “Modelling Issues of Soil-Structure Interaction Problem” on 8
+th
+July 2019
+“Seismic Response Control Using Tuned Mass Damper” on 27
+th
+June 2019 at Govt. College of Engineering, Nagpur.
+4.
+Dr. S. V. Bakre
+“Energy Dissipating Devices for Seismic Response Control ” in Webinar organised by Amrutwahini College of Engineering Sangamner in association with Association of Consulting Civil Engineers Nashik Chapter and Institution of Engineers Ahmednagar Student Chapter on 19
+th
+May 2020.
+“Energy Dissipating Devices for Seismic Response Control ” in Webinar organised by GH Raisoni College of Engineering Nagpur on 22
+nd
+May 2020.
+“Ductile Detailing of RC (IS13920) & Steel Structures” in Webinar organised by Terna Engineering College, Nerul, Navi Mumbai for a short term programme (STP) on “Innovation and Upgradation in Infrastructural Technology-2020 (IUIT-2020)” in association with ASTR and Student Chapter of IC-ACI, IEI on 2
+nd
+June 2020.
+5.
+Dr. Sangeeta Gadve
+“Reinforcement Corrosion and Protective Measures” on 24
+th
+June 2019 at Govt. College of Engineering, Nagpur.
+6.
+Dr. Ratnesh Kumar
+“Structural health monitoring and auditing” at Government College of Engineering, Nagpur on 28
+th
+June 2019
+“Revised NBC-2016, Earthquake Indian Standards & Tall Buildings (REIST-2019)”, NIT, Jamshedpur on 25
+th
+June 2019
+7.
+Dr. R. K. Ingle and Dr. A. Y. Vyavahare
+Delivered various lectures during STTP on ‘Advanced Analysis of Civil Engineering Structures’ from 16
+th
+to 18
+th
+December 2019 at NIT Uttarakhand, Srinagar.
+CHEMICAL ENGINEERING
+Sr. No.
+Name of the faculty
+Details of Investigation & Technology Transfer
+1.
+Dr S A Mandavgane and  Dr.S.P. Tajane
+A novel method of making neem based powder bio pesticide is developed. The product is very effective for organic farming. The new approach has improved the bio efficacy and shelf life of the neem based product.
+Technology of making Microfine Neem Biopesticide developed by VNIT is transferred by BARC to following parties
+Greenovate Agrotech Pvt LTd Sr No.3/1, Manomay Residency, Ambika nagar, Near Tukaram Sq,Akola-444004 Maharashtra
+Principal
+Gramin Science (vocational) college,Vishnupuri,Nanded, Maharashtra
+Registrar
+Kavayitri Bahinabai Choudhari North Maharashtra University,
+Umavi Nagar,Jalgaon-425001
+M/S. BCX BIO ORGANICS, Bangalore
+Indore Biotech Inputs and Research Pvt Ltd, Indore
+Bagal Technolgoies (OPC) Pvt. Ltd, Satara, Maharashtra
+CIVIL ENGINEERING
+Sr. No.
+Name of the Faculty
+Details of Investigation & Technology Transfer
+1
+Dr. R. V. Ralegaonkar,
+Dr. V. A. Dakwale,
+Dr. M. V. Madurwar
+Light weight pre-fabricated toilet unit at Wadhona, Katol, Maharashtra
+2
+Dr Swapnil Wanjari
+Application of high volume flyash in concrete road; brick; paver etc at BALCO Ltd
+COMPUTER SCIENCE AND ENGINEERING
+Sr. No.
+Name of the Faculty
+Details of Investigation & Technology Transfer
+1.
+Dr. U. A. Deshpande
+Dr. R. B. Keskar
+Dr. M. P. Kurhekar
+Alumni of 1993 batch of Computer Science & Engineering Department has initiated the project of setting up the Machine Learning lab in the Department which will be utilised for implementing various machine learning and deep learning algorithms for different research problems like Computer Vision, Image Processing, Speech Recognition, Predictive Analytics etc. For these problems, the high-end computation power is required to train the intelligent system. The servers in this lab will drastically reduce the training time required for implementing these learning algorithms.
+ELECTRICAL AND ELECTRONICS ENGINEERING
+Sr. No.
+Name of the faculty
+Details of Investigation & Technology Transfer
+1
+Dr. M. S. Ballal and Dr. H. M. Suryawanshi
+Error Compensation Techniques in Industrial Metering, M/s Koyana Engineers Pvt. Ltd, Nasik India, 2016
+2
+Dr. M. S. Ballal and Dr. H. M. Suryawanshi
+Condition monitoring performance evaluation of the distribution/power transformer health, Tesla Transformer Ltd., Bhopal (MP)2016
+3
+Dr. M.V.Aware
+FO-PID for Industrial Application- BARC, Mumbai
+ELECTRONICS AND COMMUNICATION ENGINEERING
+Sr. No.
+Name of the faculty
+Details of Investigation & Technology Transfer
+1
+Dr. A. G. Kothari
+As per the guidelines by NPIU regarding technology transfer cell, a visit to Deolapar villageto discuss real life challenges encountered by the villagers due to unavailability and inaccessibility to the technology.The area of solution identified is healthcare and School Education through ICT.
+2.
+Prof. K. M. Bhurchandi, Dr. Prabhat Sharma, Dr. Deep Gupta, Sudhir Kumar, Shravan Kumar
+Development of Ultraviolet Sanitizer Systems for PPE kits, Aprons and Medical equipment.
+Prototype is given to AIIMS Nagpur.
+Same Technology is transferred to Aadinath Technomodular Solutions, Nagpur.
+VLSI AND NANOTECHNOLOGY
+Sr. No.
+Name of the faculty
+Details of Investigation & Technology Transfer
+1
+Dr. R. M. Patrikar
+Design and Fabrication of instrument for microfluidic studies
+MECHANICAL ENGINEERING
+Sr.  No.
+Name of the faculty
+Details of Investigation & Technology Transfer
+1
+Cornshelling machine, Corncrushing machine and Briquetting machine
+These set ups have been developed at VNIT, yet not transfer in public domain
+METALLURGICAL AND  MATERIALS ENGINEERING
+Sr. No.
+Name of the faculty
+Details of Investigation & Technology Transfer
+1
+Dr. D. R. Peshwe
+Agarbatti Making Machine and Mixer

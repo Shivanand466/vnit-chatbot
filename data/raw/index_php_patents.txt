@@ -1,0 +1,734 @@
+SOURCE_URL: https://vnit.ac.in/index.php/patents
+TITLE: Patents
+FETCHED: 2026-09-21
+---
+Applied Mechanics
+Chemistry
+Chemical Engineering
+Civil Engineering
+Computer Science & Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+VLSI and Nanotechnology
+Mechanical Engineering
+Metallurgical and Materials Engineering
+Mining Engineering
+Physics
+Applied Mechanics
+Applied Mechanics
+Sr. No.
+Name of faculty
+Patent title
+Application no. with date
+Present Status
+(if awarded, patent No.)
+1
+Dr. M. D. Goel and Nishant Singh Choudhary
+Coned Sacrificial Tube for Blast and Crashworthiness Applications
+349979-001
+In Evaluation Stage
+2
+Dr. M. D. Goel and Nishant Singh Choudhary
+Coned and Grooved Sacrificial Tube for Blast and Crashworthiness Applications
+349983-001
+In Evaluation Stage
+Chemistry
+Chemistry
+Sr.
+No.
+Name of Faculty
+Patent Title
+Application No. with Date
+Present Status
+(if awarded, Patent No.)
+1.
+Dr. Anupama Kumar,
+Dr. Sachin A. Mandavgane
+Process For Isolation And Recovery of Antioxidant Substances
+Application Number-202121009354, Filing Date-05/03/2021.
+Awarded, Patent No. 386817
+2.
+Dr. Sandipan Halder
+A Process for The Synthesis of Highly Functionalized 2,5-Disubstituted Tetrahydrofuran Derivatives
+201921036987, 13/09/2019
+Granted
+3.
+Dr. Sandipan Halder
+“Process for The Synthesis of 1,1,2-Tricarbonitrile Derivatives”
+202021010769 A, 13/03/2020
+Published
+4.
+Dr. Anupama Kumar, Dr. Sachin A. Mandavgane
+Biorefinery Process, Components Thereof And Products Therefrom
+Application No-202121036916
+Filing Date-14/08/2021
+Filed, FER completed
+5.
+Girish Korekar,Chetana Ugale,
+Dr. Anupama Kumar
+Pollen Based Bioadsorbent Preparation and Removal of Heavy Metals From Water
+ApplicationNo.202021003467
+Filling Date-27th January,2020
+Published
+Chemical Engineering
+Chemical Engineering
+Sr. No.
+Name of Faculty
+Patent Title
+Collaborative Details
+Status
+Year
+Patent Licence ID
+1.
+Dr Shriram S Sonawane, Parag Thakur, Malika Mudaliar, Aaditee Pargaonkar
+A process for sulfur removal from mill rejects of thermal power plant
+VNIT
+Filed and Published
+2022
+202221047477
+2.
+Dr. Shriram S Sonawane, Parag Thakur, Malika Mudaliar, Aaditee Pargaonkar
+A hybrid nanofluid based drilling fluid and method of preparation
+VNIT
+Filed and Published
+2022
+202221050711
+3.
+Dr. Shriram S Sonawane, Parag Thakur, Malika Mudaliar, Aaditee Pargaonkar
+Development of Novel Process for microreactor-based Extraction of Heavy Antimony using ionic liquid-based Hybrid Nanofluids
+VNIT
+Filed and Published
+2022
+4.
+Dr.S.S.Sonawane, Vishal R. Parate, Dr.Mohammed I. Talib, Dr. Ajit P. Rathod
+Development of Metal Ions Adsorbent from Cajanus Cajan (Tur Dal) Husk
+VNIT
+Granted
+2021
+357196
+5.
+Dr. Diwakar Z. Shende
+A Method for Synthesis of Syntactic Adsorbent
+VNIT
+Granted
+2021
+2021102960
+6.
+Dr. A. S. Chaurasia
+Method for converting biomass to hydrogen rich syngas in a two-stage process
+VNIT
+Granted
+2021
+356848
+7.
+Dr. S. S. Sonawane, Dr. A. P. Rathod, Vishal S. Chandane, Vishal S. Parate
+Synthesis of cenosphere supported catalyst by different precursors for esterification reactions
+VNIT
+Granted
+2020
+353709
+8.
+Tejas Bhongade, Gogaram, Deepak M. Gautam, Dr. R. P. Vijayakumar
+Process for the synthesis of multi-walled carbon nanotubes using waste toner powder
+VNIT
+Filed
+2020
+202021016528
+9.
+Prashil K. Narnaware,
+Dr. C.Ravikumar
+A method of preparing iron oxide nanoparticles of controlled-shapes and a tunable size
+VNIT
+Filed
+2019
+201921036489
+10.
+Dr. A. P. Gaikwad, Dr. Saikat Chakraborty
+A Process for Ionic Liquid Based Catalytic Conversion of Cellulose to Fuel Products
+IIT Kharagpur
+Granted
+2019
+314202
+456/KOL/2013
+11.
+Dr. S. S. Sonawane
+Development of Packing Material for Liquid-Liquid Extraction
+VNIT
+Granted
+2019
+317858
+12.
+Amol Abhay Bhusari, Dr. Bidyut Mazumdar, Dr. Ajit P. Rathod, Prof. Bhagyashri Dharaskar
+An Automated Apparatus For Esterification Of A Liquid- Liquid System
+NIT Raipur
+Filed
+2019
+201921005676A
+13.
+D. Z. Shende, K. L. Wasewar
+Process for coating of metal and metal oxides on hollow ceramic microspheres
+VNIT
+Granted
+2019
+201621034195
+14.
+Dr. R. P. Vijayakumar, Dr. Ganesh S. Bajad, Ajay G. Gupta
+Multi-core reactor for the production of liquid hydrocarbons, CNTs and hydrogen-rich gases
+VNIT
+Granted
+2019
+201621018395
+15.
+Dr. D. Z. Shende, Dr. K. L. Wasewar
+Cenosphere supported a metal catalyst for hydrogenation of 2- Ethylanthraquinone in hydrogen peroxide synthesis
+VNIT
+Filed and Published
+2018
+201821001185
+16.
+Dr. D.Z. Shende, Dr. K. L. Wasewar
+A hydrogenation catalyst and a process thereof
+VNIT
+Filed and Published
+2018
+201821004343
+17.
+Dr.Mandavgane S. A., Dr. Mishra Neeraj,
+Dr.Deopujari. J
+Disinfectant and method for its preparation and use
+VNIT
+Granted
+2017
+280259
+18.
+Dr. S. S. Sonawane, Dr. Vishal Parate
+Development of Improved Pasta
+VNIT
+Granted
+2017
+TEMP/E-1/5734/2017-MUM
+19.
+Dr. D.Z. Shende, Dr. K.L. Wasewar
+Process for recovery for Caproic Acid from aqueous solution
+VNIT
+Filed
+2016
+201621006145A (23/02/2016)
+20.
+Dr. D.Z. Shende, Dr. K.L. Wasewar
+Separation and recovery of Acrylic Acid from aqueous solution using natural oils
+VNIT
+Filed
+2016
+201621034582A (10/10/2016)
+21.
+Dr. S. A. Mandavgane
+A process for making a dual substrate filter material
+VNIT
+Granted
+2015
+272399
+22.
+Dr. S. A. Mandavgane
+An ambiphilic, mesoporous catalyst of agricultural origin and a process for making the same
+VNIT
+Granted
+2015
+271794
+23.
+Dr. D. Z. Shende and Dr. K. L. Wasewar
+Process for receovery of Caproic Acid from Aqueous solutions
+VNIT
+Filed
+2015
+Docket No. 4521
+201621006145 dated 23/02/2016
+24.
+Dr. P. B. Dhamole
+A process for extraction and purification of safranal
+VNIT
+Filed
+2015
+1663/MUM/2015 A
+25.
+Dr. S. S. Sonawane
+Development of Novel Al2O3 and OMMT nano packing material for Liquid-Liquid Extraction
+VNIT
+Published
+2014
+2155/Mum/2014,C.B.R. No: 10574
+Civil Engineering
+Civil Engineering
+Sr.
+No.
+Name of Faculty
+Patent Title
+Application No. with Date
+Present Status
+(if awarded, Patent No.)
+1.
+Dr. Y. B. Katpatal
+A process for water quality Assessment through implementation of cyclical hierarchical modeling Based DSS module
+1621/MUM/2011 Filed on 01/06/2011
+Granted on 17/05/2021 Patent No.: 366863
+2.
+Dr. A. R. Tembhurkar
+Adsorbent Developed from Elephantopus Scaber plant for Adsorption of Fluoride from Water
+Application No. 201841046232
+Date 23/12/2018
+Filed
+3.
+Dr. A. R. Tembhurkar
+Self-Healing of Cracks of Cementitious Materials through Bacillus Cereus Mh510336.
+Application No 201921013556
+Date 11/04/2019
+Filed
+4.
+Dr. R. V. Ralegaonkar,
+H R Gavali
+Sustainable alkali-activated bricks and method of preparation thereof
+201821045997, dated 06/12/18
+370312
+5.
+Dr. R. V. Ralegaonkar,
+Shashi Ram
+Application of co-fired blended ash for the development of bricks
+201721017816, dated 21/5/2017
+381496
+6.
+Dr. R V Ralegaonkar,
+Dr. M V Latkar,
+Dr. T Chakrabarty
+Application of Green Solution for improving the mechanical properties of construction materials
+3209/MUM/2015, dated 21/8/2015
+Granted on 22/09/2021, Patent No. 377613
+7.
+Dr. R V Ralegaonkar,
+V V Sakhare
+Replacement of sand using bio-briquette ash and method of making the bricks
+2055/MUM/2015, dated 12/6/2015
+381608
+9.
+Dr. M. V. Latkar
+Composition of Bacterial Solution for Biocementation to Improve Mechanical Properties of Cementitious Materials
+201721046020
+Date of filing: 21/12/2017
+Granted on 25/08/2021, patent No. 375269
+10.
+Dr. M. V. Latkar
+A composition of bacterial solution for biocementation and method of preparation thereof
+202121036323
+Date of filing: 11/08/2021
+In order for grant under section 43, awaiting NBA approval
+11.
+Dr. A. Patel
+Low cost mechanically operated automated laboratory soil compactor
+Application No. 201721043983
+Granted
+Patent No. 382115
+12.
+Dr. A. Patel
+A method for preparation of a plastic-coated natural fibre for geotechnical applications
+Application No. 202221000220 Dated 03/01/2022
+Filed
+13.
+Dr. Swapnil Wanjari
+In-situ compressive testing machine
+201621024081 dated 14/07/2016
+Granted 373292 dated on 30/07/2021
+Computer Science & Engineering
+Computer Science & Engineering
+Sr. No.
+Name of the Faculty
+Patent Title
+Application No. with date
+Present Status (if awarded, Patent No.)
+1.
+Dr. Praveen Kumar
+SYSTEM AND METHOD FOR PERFORMING SURVEILLANCE OF AN AUTOMATED TELLER MACHINE (ATM)”.
+201611009410 filed on 21
+st
+March 2016
+Pending for Examination
+2.
+Anshul Agarwal
+A System for Detection and Identification of Fault in Thermostatically Controlled Loads
+20192108242, Filing Date: 07/05/2019
+Filed
+3.
+Anshul Agarwal
+Method for Allocating Sensors in a Building
+20192108534
+Filing Date: 09/05/2019
+Filed
+Electrical Engineering
+Electrical Engineering
+Sr. No.
+Name of Faculty
+Patent Title
+Application No. with date
+Present Status (if awarded, Patent No.)
+1.
+Dr. Mohan V. Aware, V. B. Virulkar
+Flicker load generator for ascertaining the performance of flicker mitigation technique
+(P. No. 361672, 405/MUM/2014)
+Awarded (2021)
+2
+Dr. Mohan V. Aware, Swapnajeet Pattnaik
+A)    Development of Pizo- wheel for the Electrical Vehicle
+(P. No. 388283, 3398/MUM/2014).
+Awarded (2022)
+3
+Dr. Mohan V. Aware,
+M. Waghmare,
+Dr. B.S.Umre,
+Dr. Mrs. M.A. Chaudhari
+A)      A system for multi-phase power conversion from single-phase alternating current supply
+Application No.  202221003694 dt. 25/02/2022
+Published
+4
+Dr. Mohan V. Aware
+A)      DC-DC Boost Converter with Symmetrical Average Current Control with Low Current Ripple and Enhanced Dynamic Response.
+Application. No. 202141047454, dt. 19/10/2021
+Published
+5
+Dr. M S Ballal, Dr. H M Suryawanshi
+Standardization of Three Phases Four Wire Meter as Two Phase Four Wire Meter for Traction Metering
+201721001242
+12/01/2017
+Granted
+(394522)
+6
+Dr. M S Ballal,
+Dr. H M Suryawanshi
+Breather Condition Monitoring System For Transformers
+201621041390
+03/12/2016
+Granted
+(392755)
+7
+Dr. M S Ballal,
+Dr. H M Suryawanshi
+Digital Error Compensation of Industrial Energy Measurement System
+19/06/2021
+Granted
+(2021103474)
+8
+Dr. M S Ballal,
+Dr. H M Suryawanshi
+Application of SIPS for Effective Management of Power
+20.01.22
+Granted
+(202022100304)
+9
+Dr. M. S. Ballal,
+Dr. G. Jaiswal
+Intelligent condition monitoring system for   distributed transformer
+25/08/2021
+Granted
+(2021107478)
+10
+Dr. M. S. Ballal
+Online error compensation methodology for utilities and industrial metering system
+2840/Mum/2013
+31.08.13
+Granted
+(375135)
+11
+Dr. M. S. Ballal
+A system for monitoring, controlling, metering  and protection of distributed generation
+1502/Mum/2014
+29.04.2014
+Granted
+(376588)
+12
+Dr. M. S. Ballal
+Solar Energy Management for Agriculture and Rural Transformation (SMART)
+07.06.2021
+Granted
+(2021103175)
+13
+Dr. M. S. Ballal,
+Dr. V. S. Kale
+A power grid management system
+202022100304.1
+20.01.2022
+Filed
+14
+B. Obulapathi,
+Dr. Makarand M. Lokhande,
+Dr. M. V. Aware,
+Dr. (Mrs.) Varsha Shah,
+Dr. (Mrs) Vima Mali
+DC-DC Boost Converter with Symmetrical Carrier Based Digital Average Current Control with Low Current Ripple and Enhanced Dynamic Response
+(29/10/2021)
+202141047454
+Published
+15
+Dr. Makararand M. Lokhande,
+Dr. (Mrs)Varsha Shah,
+Dr. (Mrs) Anindita Roy,
+Sumant Sarmokadam,
+Dr. P. S. Kulkarni,
+Bhagyashri Dani,
+LWM- Solar Cooker: Simple Low Cost Light Weight Modular Solar Cooker
+(12/11/2021)
+202121043252
+Published
+16
+Dr Pradyumn Chaturvedi
+A Mitigation Technique of Sympathetic Inrush Current in Smart Transformer
+202221012596
+Filed
+17
+Dr. Ritesh Kumar Keshri
+“A High Torque Density Synchronous Reluctance Motor”, Indian Patent,
+Journal no. 04/2021, pp. 3148.
+Published
+22/01/2021
+Electronics and Communication Engineering
+Electronics and Communication Engineering
+Sr. No.
+Name of Faculty
+Patent Title
+Application No. with date
+Present Status (if awarded, Patent No.)
+1
+Dr. Saugata Sinha,
+Dr. Joydeep Sengupta,
+Dr. Vinay Kumar
+Design and implementation of wireless optical communication transmitter
+and receiver modules for indoor environment
+201621020527 A
+16/09/2016
+Filed
+2
+Prof. P. H. Ghare
+Wireless Health Monitoring System
+–
+Filed
+3
+Dr. Joydeep Sengupta
+Dr. Vinay Kumar
+Design and Implementation of Wireless Optical Communication Transmitter and Receiver Modules for Indoor Environment
+June2016
+Filed
+4
+Dr. Joydeep Sengupta
+Dr. Vinay Kumar
+Design and Implementation of physiological health monitoring wearable device
+March2017
+Filed
+5
+Dr. Joydeep Sengupta
+Dr. Vinay Kumar
+Design and Implementation of physiological health monitoring wearable device
+March2017
+Filed
+6
+Dr. A. G. Kothari
+Internal force measuring device
+201621038163 & 28/05/2016
+In process
+7
+Dr. A. G. Kothari
+Strain gauge calibration device
+201621038353 & 28/05/2016
+In process
+8
+Dr. A. G. Kothari
+Automated posture tracking and analysis system
+201621016029 & 07/11/2016
+In process
+9
+Dr. Prabhat Kumar Sharma
+Table-Top Hardware Implementation of 4×4 MIMO Molecular Communication System
+TEMP/E-1/40450/2019-MUM
+Filed
+VLSI and Nanotechnology
+VLSI and Nanotechnology
+Mechanical Engineering
+Mechanical Engineering
+Sr. No
+Name of Faculty
+Patent Title
+Application No.
+with date
+Present Status (if awarded. Patent No.)
+1
+Dr. Rashmi Vikram Uddanwadikar
+Indigenously Manufactured Nasal Implants suitable for Indian Demography
+15/03/2022
+392019
+2
+Dr. Rashmi Vikram Uddanwadikar
+Ergonomic Design And Fabrication Of Roasting Mechanism For Small Scale Industries And House Hold Purpose
+04/08/2021
+373777
+3
+Dr. Rashmi Vikram Uddanwadikar
+Multi-Purpose Frying Machine
+29/06/2021
+370604
+4
+Dr. Rashmi Vikram Uddanwadikar
+Medial Osteotomy Forceps for Nose surgery
+23/04/2021
+377470
+5
+Dr. S.B.Thombre
+Solar Water Heater Flat Plate Collector Absorber Having Semicircular Sectioned Riser Tubes with Integral Fins
+18/02/2013
+378727
+6
+Dr. Atul Andhare
+Mechanism for transferring load horizontally and vertically and vice- versa
+18/09/2014
+373840
+7
+Dr Hemant P. Jawele
+Gas Gun
+10/06/2015
+358471
+8
+Dr. Y M Puri
+Linear-curved electrical discharge machine (LCM)
+16/06/2016
+369057
+Metallurgical and Materials Engineering
+Metallurgical and Materials Engineering
+Sr. No.
+Name of Faculty
+Patent Title
+Application No. with date
+Present Status (if awarded, Patent No.)
+1.
+S. Chopra,
+K. Pande, D.R.Peshwe,
+C.L. Gogte
+Process for optimization of cryogenic treatment for medical grade UHDPE
+201921032010 30/08/2019
+Granted on: 08/10/2021
+2.
+K. N. Pande,
+M.M. Thawre,
+D.R. Peshwe,
+R.K. Paretkar
+Effect of thickness on fatigue life of aircraft T joint component
+201821030784
+07/09/2018
+Granted on: 17/07/2021
+3.
+K. N. Pandeand
+D. R. Peshwe
+Nonisothermal Crystallization kinetics of Cryogenically treated PBT/Wollastonite Composite to assess its Reprocessing
+201721030404
+25/05/2018
+Granted on: 20/04/2021
+4.
+R. V. Taiwade
+A process of preparation of the etchant
+201721012181A
+05/04 2017
+Patent No.: 382191
+Grant date – 22.11.2021
+5.
+M.M. Thawre
+Carbon Fiber Composite T-Joint component for aircraft
+201821030784
+17/07/2021
+Patent No: 372137
+6.
+A. K. Srivastav
+D. R. Peshwe
+Graphene from waste battery electrodes
+201821006507
+21/02/2018
+Patent No.: 332793,
+Awarded on February 24, 2020
+7.
+A. K. Srivastav
+A process for synthesis of nanocrystalline cubic hydrogen tungsten bronze powder
+202121054314
+24/11/2021
+Published on December 10/12/2021
+Mining Engineering
+Mining Engineering
+Sr. No.
+Name of Faculty
+Patent Title
+Application No. with date
+Present Status (if awarded, Patent No.)
+1.
+Dr. A. K. Agarwal
+Dr. I. L. Muthreja
+Utilization of coal fly ash of thermal power plant in Conjunction with chitosan for efficient removal of different heavy Metal ions and their solidification for safe solid waste disposal
+3619/MUM/2014
+Granted on 10/08/2021
+Patent No. 374208
+Physics
+Physics
+Sr.No.
+Patentee/AUTHOR NAMES
+Patent title
+PATENT NUMBER
+Date and year of Filing
+Date and year of Grant
+Granted/Applied
+1.
+Babasaheb Raghunath Sankapal, Tushar Balasaheb Deshmukh, Akanksha Agarwal, T. Kedara Shivasharma
+Chemically synthesized nickel-iron phosphate film for energy storage application
+553034
+20/03/2024
+24/10/2024
+Granted
+2.
+Babasaheb Raghunath Sankapal, Akanksha Agarwal, Tushar Balasaheb Deshmukh, T. Kedara Shivasharma
+Method for depositing cerium phosphate thin film on conducting substrates
+556542
+01/03/2024
+19/12/2024
+Granted
+3.
+R S Gedam, G K Sukhdeve and S R Gedam
+Photocatalytic Degradation of Mixture of Dyes using TiO2 Nanocrystalline Codoped with Zn and Fe
+474916
+14/02/2023
+30/11/2023
+Granted
+4.
+R S Gedam, S R Munishwar
+Advance antimicrobial agent of CdS quantum dots in glass matrix for  inhibition of            bacterial colonies
+398611
+16/10/2018
+6/6/2022
+Granted
+5.
+Sujata Patrikar
+Indoor solar cooking system
+414191
+30
+th
+Dec 2015
+12/12/2022
+Granted
+6.
+R S Gedam, S.Y. Janbadhu and S R Gedam
+Borosilicate glass composition embedded with CdS/TiO
+2
+composites for indigo carmine dye degradation
+379142
+06/01/2021
+11/10/2021
+Granted
+7.
+Dr. S. M. Giripunje, Dr. Vijaya Thite
+A process for preparation of ZnAl layered double hydroxide nanoparticles
+Filed
+Application No. :202421004048
+Dated:22/10/23
+Applied
+8.
+Dr. Dr. S. M. Giripunje
+A dusk-to-dawn lighting control system
+Applied

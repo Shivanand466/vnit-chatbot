@@ -1,0 +1,75 @@
+SOURCE_URL: https://vnit.ac.in/administrative-officers
+TITLE: Administrative Officers
+FETCHED: 2026-09-21
+---
+Sachin Sudhakar Jagdale
+Registrar
+Office Of The Registrar
+Telephone
+0712-2801364
+Email
+registrar@vnit.ac.in
+Dharmesh M. Parate
+Joint Registrar
+Stores Section
+Telephone
+0712-2801369
+Email
+storesofficer@vnit.ac.in
+Kailas N. Dakhale
+Joint Registrar
+Institute Activities
+Telephone
+0712-2801365
+Email
+jr_ai@vnit.ac.in
+Nikhil B. Chingalwar
+Deputy Registrar
+Exam Section
+Telephone
+0712-2801365
+Email
+dr_acd@vnit.ac.in
+Aravind Palla
+Assistant Registrar
+Establishment Section
+Telephone
+0712-2801367
+Email
+ar_estt@vnit.ac.in
+Ritu Kumar Pandey
+Assistant Registrar
+Stores Section
+Telephone
+0712-2802240
+Email
+ar_stores@vnit.ac.in
+Manish Kumar Laur
+Assistant Registrar
+Hostel Section
+Telephone
+0712-2801373
+Email
+AR_HOSTEL@vnit.ac.in
+Rahul Kumar
+Assistant Registrar
+Exam Section
+Telephone
+0712-2801392
+Email
+asst_registrar@vnit.ac.in
+D Kameshwar Shastry
+Assistant Registrar
+Accounts Section
+Telephone
+0712-2801366
+Email
+ar_accounts@vnit.ac.in
+Harshad Laxmanrao Ambekar
+Assistant Registrar
+Administration / Registrar Office
+Telephone
+0712-2801359
+Email
+ar_admin@vnit.ac.in
+No officer found matching your search.

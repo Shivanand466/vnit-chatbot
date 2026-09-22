@@ -1,0 +1,48 @@
+SOURCE_URL: https://vnit.ac.in/bog-2026
+TITLE: Board of Governors
+FETCHED: 2026-09-21
+---
+Sr. No.
+Name
+Designation
+Details
+1
+Shri. Madabhushi Madan Gopal, IAS (Retd.)
+Former Additional Chief Secretary, Government of Karnataka.
+Chairperson
+2
+Dr. Prem Lal Patel
+Director, VNIT, Nagpur
+Member
+3
+Joint Secretary (NITs) (Ex- officio)
+Ministry of Education, Government of India, New Delhi.
+Member
+4
+Joint Secretary & Financial Advisor (Ex- officio)
+Integrated Finance Division, Ministry of Education, Government of India, New Delhi.
+Member
+5
+Prof. Milind Atrey
+Professor, Department of Mechanical Engineering and Dy. Director, Indian Institute of Technology Bombay, Powai
+Member
+6
+Prof. Vinod M. Mohitkar
+Director, Directorate of Technical Education, Maharashtra State
+Member
+7
+Mr. Rajeev Madhukar Bhave
+Promoter and Director of M/s Vishwas Power Engineering Services Pvt. Ltd. Nagpur
+Member
+8
+Dr. Ramakant. K Ingle
+Professor of Applied Mechanics Department, VNIT, Nagpur
+Member
+9
+Dr. Smita Habeed Khan
+Assistant Professor (Grade I), Architecture and Planning Department, VNIT, Nagpur.
+Member
+10
+Shri Sachin S. Jagdale
+Registrar, VNIT, Nagpur
+Secretary

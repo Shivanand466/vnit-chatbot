@@ -1,0 +1,31 @@
+# Redeploys the chatbot to Hugging Face Spaces on every push to main.
+# Needs two repository secrets (GitHub -> Settings -> Secrets and variables -> Actions):
+#   HF_TOKEN      Hugging Face token with "write" permission
+#   GROQ_API_KEY  Groq API key
+# Until HF_TOKEN is set, this workflow just skips.
+name: Deploy to Hugging Face
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install huggingface_hub
+      - name: Deploy
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "HF_TOKEN secret not set - skipping deploy (see README, 'Deploying')."
+            exit 0
+          fi
+          python deploy/deploy_to_hf.py

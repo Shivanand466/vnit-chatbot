@@ -1,0 +1,561 @@
+SOURCE_URL: https://vnit.ac.in/section/rnc/sponsored-research
+TITLE: Sponsored research – Research and Consultancy
+FETCHED: 2026-09-21
+---
+Sponsored Research Projects
+VNIT’s sponsored research spans smart & sustainable infrastructure, renewable energy and EVs, advanced/functional materials, AI/ML & 6G/quantum communications, water & environmental systems, biomedical engineering, mining & critical minerals, manufacturing & robotics, and fundamental sciences (physics/mathematics). Projects are supported by ANRF, DST (TIH/FIST/CEST/AMT/STARS), DRDO (ARDE/ARMREB/ER&IPR/DIPAS/CVRDE), ISRO, DoT (TTDF), CSIR, ICMR, NBHM-DAE, UGC-DAE CSR, Ministry of Mines, Ministry of Jal Shakti, MoHUA–CPHEEO, DSIR, Royal Society (UK), INSA, and industry partners.
+List of Sanctioned Research Projects
+Sr. No.
+Name of the PI
+Department
+Title for the Project
+Funding Agency
+Date of Sanction
+1
+Dr. Meera Dhabu
+Dr. Ashish Tiwari
+Computer Science & Engineering
+Development of a Structured Image and Video Dataset for AI-Based Defect Detection in Dragline Cranes at Indian Mining Sites
+TEXMiN, VNIT Nagpur
+30-Mar-2026
+2
+Dr. Ankit A. Bhurane
+Electronics & Communication
+AI-Enabled Adaptive Wireless Cyber-Physical System for Autonomous Navigation in Underground Mines
+TEXMiN, VNIT Nagpur
+01-Mar-2026
+3
+Dr. Avinash Vasudeo
+Civil Engineering
+R & D Framework for Groundwater Ingress Control and Performance Enhancement of the Rashtrapati Bhavan Museum Basement
+NBCC, New Delhi
+24-Feb-2026
+4
+Dr. Manmohan Dass Goel
+Applied Mechanics
+Development of lightweight material for the components of armament systems
+ARMREB (DRDO)
+30-Jan-2026
+5
+Dr. Ramsha Karampuri
+Electrical Engineering
+An Intelligent and Cost-Effective Solar PV Pumping System with Open-End Stator Wound Permanent Magnet Motor (i-Solar PMM-PUMP)
+RGSTC, Government of Maharashtra
+01-Jan-2026
+6
+Dr. Kailas Wasewar
+Chemical Engineering
+Recovery of sulplus free Nicked from Pharmacutical spent catalyst sludge to achieve zero waste
+Ministry of Mines
+16-Dec-2025
+7
+Dr. Rahul Tarodiya
+Mechanical Engineering
+Design and Development of a Centrifugal Pump for Dense S Trasporation of Minerals and Ores
+Ministry of Mines
+09-Dec-2025
+8
+Dr. Anil Kumar
+Metallurgical & Materials Engineering
+Development of eco-friendly orange peel-reinforced chitosal-algonate based composite films for sustainable food-packing and preservation applications
+RGSTC, Government of Maharashtra
+09-Dec-2025
+9
+Dr. Prabhat Sharma (Co-PI)
+Electronics & Communication
+Zero-Power, Wirelessly Controlled Reconfigurable Intelligent Surfaces for Next-Generation Smart Networks
+ANRF-ARG
+01-Dec-2025
+10
+Dr. Mohan Kumar Mallick
+Department of Mathematics
+Shape Optimization of Principal Eigenvalue for Fully Nonlinear Operators: Theoretical and Geometric Advances on Pólya-Type Problems
+ANRF-ARG Matrix
+01-Dec-2025
+11
+Dr. Mohd Alam (Co-PI)
+Electrical Engineering
+Smart Hydrogen Energy Recovery System Using Metal Hydride Thermochemical Storage for Integrated Heating and Cooling
+ANRF-ARG
+01-Dec-2025
+12
+Dr. Ramsha Karampuri
+Electrical Engineering
+Retrofitting of Existing IC Engine Based Pick-Up Truck to Battery Electric Vehicle
+MeitY-MHI Electric Vehicle Sub System (EVSS) Programme
+01-Dec-2025
+13
+Dr. Ritesh Kumar Keshri
+Electrical Engineering
+Development of 15kW Wireless Charger and 40 kW Modular Wireless Charger for an Electric Vehicle
+MEITY-MHI
+01-Dec-2025
+14
+Dr. Arvind Kumar
+Electronics & Communication
+Sensor Antenna Transmitter System for Material Properties Retrieval in Wireless Sensor Nodes
+DRDO-ERIPR
+11-Nov-2025
+15
+Dr. Nikhil Deep Gupta
+Centre for VLSI & Nanotechnology
+Design and Optimization of a Photonic Sensor for the Dete Microplastics for Treatment of Water
+DST, Govt. of India and Govt. of USA collaboratively spo India-US Science and Technology Forum
+10-Nov-2025
+16
+Dr. Neeraj Rao
+Electronics & Communication
+Design and Fabrication of Cavity Based Sensor for Non Destructive Evaluation of Composite Structures
+DRDO Advanced Systems Laboratory CARS Project
+24-Sep-2025
+17
+Dr. Ganesh Patil
+Centre for VLSI & Nanotechnology
+IoT based Soil Parameter Tester for Subhash Palekar natural Multicoping farming
+TIH Foundation for IoT & IoE
+22-Sep-2025
+18
+Dr. Purnima Satapathy
+Department of Mathematics
+Insights into nonlocal symmetries and exact solution for nonlinear partial differential equations describing physical models
+NBHM, DAE, Gov. of India
+21-Aug-2025
+19
+Dr. Amrut Agasti
+Metallurgical & Materials Engineering
+Design and Development of AI alloy anode material and a prototype AI air battery
+Ministry of Mines
+11-Aug-2025
+20
+Dr. Jyoti Singh
+Department of Mathematics
+A study of F-singularity classes and their invariants using positive characteristic methods and differential operators
+NBHM,DAE
+05-Aug-2025
+21
+Dr. Kalyani Kale
+Humanities & Social Sciences
+A Critical Commentary on Sanskrit Vangmaya Kosha through the Prizm of IKS and Illustrating IKS Importance for Marathi Literature
+DR Babasaheb Ambedkar Technological University, Lonere,  IKS
+01-Aug-2025
+22
+Dr. Jawaharlal Bhukya
+Electrical Engineering
+Optimization and Development of Microcube Wind Power Syste Sustainable Low-Wind-Speed Applications in Decentralized Res and Off-Grid Energy Use
+ANRF-IRG
+29-Jul-2025
+23
+Dr. Makarand Ballal
+Electrical Engineering
+Electric Power Theft Detection and Prevention Schemes for LT
+Industry-Sponsored Tesla
+25-Jul-2025
+24
+Dr. Pradyumn Chaturvedi
+Electrical Engineering
+Development of High- Power Grid- Friendly Conductive and Static Wirel Charges for Elecric Vehicles
+ANRF-MAHA : EV-Mission
+25-Jul-2025
+25
+Dr. Suvidha Gupta (Inspire Faculty)
+Chemical Engineering
+Valorization of Agro-Industrial Wastewater: Innovative Approaches for Bio-Malic Acid Production and Effective Wastewater Treatment
+VIGYAN DHARA DST Scheme
+17-Jul-2025
+26
+Dr. Ajinkya Baxy
+Mechanical Engineering
+Design, Development, and Optimization of Triply Periodic Minimal Surface-Based Customized Insoles for Diabetic Foot Care.
+ANRF-PMECRGS
+15-Jul-2025
+27
+Dr. Narendrababu A
+Electrical Engineering
+Sustainable Learning Environments Design of an Off-Grid Distributed Energy System Integrating an Intelligent Water Management Pump in the Eruvapalem Village School Premises
+DST-CEST-CERI
+15-Jul-2025
+28
+Dr. Sayandip Ghosh
+Department of Physics
+Topology in heritage : Influence and manifestation of electron topology in bosons.
+ANRF – PMECRGS
+03-Jun-2025
+29
+Dr. Manmohan Dass Goel
+Applied Mechanics
+Hypervelocity Impact Modelling on Aluminum Foam Sandwich Panel
+ISRO- Respond Basket
+01-May-2025
+30
+Dr. Rajashree Kotharkar
+Architecture & Planning
+Developing heat mitigation strategies using machine learning based predictive models
+Department of Science and Technology (CEST)
+20-Apr-2025
+31
+Dr. Sachin A Mandavgane
+Chemical Engineering
+Center of Excellence : A Center for Technology D4 :Design, Development, Demonstration and Deployment in area of F5 : Food, Feed, Fodder, Fuel and Fertiliser
+DST (Technology, Translation and Innovation Division)
+01-Apr-2025
+32
+Dr. Soumyabrata Das
+Electrical Engineering
+Real Time Water Quality Monitoring Using UAV Technology and Image Processing
+NMICPS TiHAN Foundation, IIT Hyderabad
+04-Mar-2025
+33
+Dr. Manish Kurhekar
+Computer Science & Engineering
+Predictive Maintenance of CNC Machines
+Ordinance Factory, Ambazari
+04-Mar-2025
+34
+Dr. Anupam Anant Kher
+Mining Engineering
+Development of Wireless High Voltage Non-Explosive Initiator for Non-Electric Detonator (NONEL)
+TEXMiN FOUNDATION IIT (ISM) Dhanbad
+01-Mar-2025
+35
+Dr. Sachin Mandavgane
+Chemical Engineering
+SuER : SustainaWlity Environment and Risk – Course activities and capacity building
+KELTECH ENERGIES LIMITED
+01-Mar-2025
+36
+Dr. Anupam Anant Kher
+Mining Engineering
+TEXMiN MINING CYBER PHYSICAL SYSTEMS CENTER OF EXCELLENCE
+TEXMiN Foundation IIT ISM DHANBAD (DST TIH)
+01-Mar-2025
+37
+Dr. Prabhat Sharma
+Electronics & Communication
+RIS Assisted Integrated Sensing and Communication for 6G Network
+Department of Telecommunication, TTDF scheme
+01-Mar-2025
+38
+Dr. Deep Gupta
+Electronics & Communication
+Development of an indigenous AI-assisted computer aided system for automated detection and grading of colorectal cancer severity using H and E-stained histopathological imaging
+ICMR (IIRPSG)
+01-Mar-2025
+39
+Dr. Suresh Kumar Thappeta
+Civil Engineering
+Urban flood Resilience Index for Urban Areas
+Ministry of Housing and Urban Affairs CPHEEO
+01-Mar-2025
+40
+Punitkumar Bhavsar
+Electronics & Communication
+BB84 Protocol Simulation Toolbox Development for Secured Quantum Communication in 6G Networks
+Department of Telecommunication
+01-Mar-2025
+41
+Dr. Nikhil Deep Gupta
+Centre for VLSI & Nanotechnology
+Next Generation Nanophotonic Solar Photovoltaic Devices
+The Royal Society, UK, International Exchanges 2024
+01-Mar-2025
+42
+Dr. Dhananjay A. Jolhe
+Mechanical Engineering
+Ergonomic Improvement of the Seating Arrangements for Loader, Layer and Driver in Artillery gun: ATAGS
+ARMREB (DRDO)
+01-Feb-2025
+43
+Dr. Kumari Nidhi Lal
+Computer Science & Engineering
+Intelligent Detection and Mitigation of Cyber Attacks in Information-Centric Networking (ICN)
+ANRF- Prime Minister Early Career Research Grant
+01-Feb-2025
+44
+Dr. N Anvesh Reddy
+Mechanical Engineering
+Investigation of Flow-Induced Vibration in Deep Sea Mining Pipes
+IIT Guwahati (TIDF)
+29-Jan-2025
+45
+Dr. Y. B. Katpatal
+Civil Engineering
+Investigating the Linkages Among Land Subsidence, Hydrological, Anthropogenic and Other Contributing Factors in Joshimath
+Ministry of Jal Shakti, Government of India
+01-Jan-2025
+46
+Dr. Arvind Kumar
+Electronics & Communication
+Electromagnetic Knee Imaging System
+MeitY, Young Faculty Research Fellowship (YFRF)
+01-Jan-2025
+47
+Dr. Nikhil Deep Gupta (Coordiantor)
+Centre for VLSI & Nanotechnology
+Development of the clean room facility with glove box for the semiconductor devices design, fabrication and characterization
+DST-FIST
+01-Dec-2024
+48
+Dr. Arvind Kumar & Dr. Praveen Pawar (Coordinators)
+Electronics & Communication
+FIST 2024  (VNA 40 GHz to 90GHz) to strengthen research facility
+DST-FIST
+01-Dec-2024
+49
+Dr. Ratnesh Kumar
+Applied Mechanics
+Comprehensive Assessment of Twin Test Facility Building Considering Variation in Geometry & Material Parameters
+DRDO (GTRE)
+01-Nov-2024
+50
+Dr. Vasu Pulijala
+Centre for VLSI & Nanotechnology
+Design of a portable EPR spectrometer by using a completely on-chip electron paramagnetic resonance sensor and COTS for detection of paramagnetic biomarkers such as hemozoin
+DST-AMT
+01-Nov-2024
+51
+Dr. Shrabony Adhikary
+Civil Engineering
+Assessment of Local Site Effects Specific to State of Punjab: A Prerequisite for Seismic Risk Reduction
+Punjab State and funded by State Disaster Mitigation Fund (SDMF)
+01-Nov-2024
+52
+Dr. Prabhat Sharma
+Electronics & Communication
+DoT 5G Lab
+DoT, GoI
+01-Nov-2024
+53
+Dr. Pallavi Mahale
+Department of Mathematics
+Study of simplified form of two-point iterative gradient methods for regularization of  nonlinear ill-posed operator equations
+DST-SERB (CRG)
+01-Oct-2024
+54
+Dr.Punitkumar Bhavsar (Co-PI)
+Electronics & Communication
+Development of Multi-reference Active Noise Cancellation and Bone Conduction Headset for Clearer Communication Under an Extremely Noisy Environment of Flight Operation
+DRDO-DIPAS
+01-Sep-2024
+55
+Dr. Punitkumar Bhavsar
+Electronics & Communication
+Design and development of tree counting and  geo-tagging system using drone for environment monitoring
+Department of Scientific and Industrial Research
+01-Aug-2024
+56
+Dr. Rajesh Khatirkar
+Metallurgical & Materials Engineering
+UTILISATION OF ALUMINIUM DROSS IN SYNTHETIC SLAG PREPARATION FOR SECONDARY STEEL MAKING
+Ministry of Mines
+01-Jul-2024
+57
+Dr. S. M. Giripunje
+Department of Physics
+Development of High Energy/High Power Density Asymmetric Supercapacitor using Electrospun 1D Metal Pyrophosphate Mesoporous Nanofibers
+ANRF (SERB)
+01-Jun-2024
+58
+Dr. Arpita Saha
+Civil Engineering
+Pedestrian Safety at Signalized Intersection Crosswalks Under Left Hand Driving Conditions
+CSIR, ASPIRE Grant
+01-Jun-2024
+59
+Dr. Shital Sudhakar Chiddarwar
+Mechanical Engineering
+Real-Time Seam Tracking and Control for Intelligent Welding Robots Using Computer Vision in Industrial 4 Scenario
+CSIR -ASPIRE project (Scheme No. 1827)
+01-Jun-2024
+60
+Dr. Sachin Mandavgane (Project Mentor)
+Chemical Engineering
+Sequencial bioprocessing of flower waste for high value products : a biorefinery approach
+DST (SEED)
+01-Jun-2024
+61
+Dr. Sachin Mandavgane (Project Mentor)
+Chemical Engineering
+Development of millets biorefinery sequential production of plant-based protein, modified starches, and dietary fibers.
+DST (SEED)
+01-Jun-2024
+62
+Dr. Sachin Mandavgane
+Chemical Engineering
+Millet biorefinry for Food, Feed, Fodder, Fertilizer and Fuel: Design to Demonstration
+DST (SHRI)
+01-May-2024
+63
+Dr. Abhijit D. Lade (Coordinator)
+Civil Engineering
+Development of Experimental Facilities for Research on Current Hydraulic and Morphological Problems in Indian Rivers
+Department of Science and Technology (DST) FIST Scheme
+01-May-2024
+64
+Dr. Nikhil Deep Gupta
+Centre for VLSI & Nanotechnology
+Design and Development of Group-III nitride based LEDs for UV-Blue region for underwater communication
+DST INAE and NSTC, Taiwan
+01-May-2024
+65
+Dr. Mohd Alam
+Electrical Engineering
+Development of Renewable Energy Based Onsite Oxygen cum Green Hydrogen Generation System: A Self-sufficient Approach for Indian Hospitals
+Anusandhan National Research Foundation (SERB), Core-Research Grant
+01-May-2024
+66
+Dr. Ashwinkumar S. Dhoble
+Mechanical Engineering
+Design and development of a heat pipe-based cooling system for lithium-ion used in electric vehicles.
+DST-SERB (CRG)
+01-May-2024
+67
+Dr. Poorva Singh
+Department of Physics
+Modelling and simulation of plasma-catalytic processes for energy and environmental applications
+CSIR HRDG EMR II
+01-Apr-2024
+68
+Dr. Mangesh Madurwar
+Civil Engineering
+Examining Factors Contributing To Accelerated Building Deterioration in the National Capital Region: A Case Study of Khekara Township
+M/s NBCC India Limited
+31-Mar-2024
+69
+Dr. Mangesh Madurwar
+Civil Engineering
+Quantifying Vulnerability, Empowering Solutions : An Optimizing Retrofitting Strategies and Its Implementation
+M/s NBCC India Limited
+31-Mar-2024
+70
+Dr. Mangesh Madurwar
+Civil Engineering
+Combating Early Stage Rebar Corrossion: A Novel Reinforcement Inhibitor Coating Approach
+HSCC (India) Ltd.
+27-Mar-2024
+71
+Dr. Rahul Biswas
+Applied Mechanics
+Assessment of durability properties of UHPFRC and application of integrated metaheuristic algorithm with Artificial Neural Network for predicting the properties
+SERB-EEQ
+01-Feb-2024
+72
+Dr. Sourav Pradhan
+Department of Mathematics
+Analysis of vacation queues with batch-size-dependent service, N-policy and
+applications to group screening of blood samples
+SERB (MATRICS Scheme)
+01-Feb-2024
+73
+Dr. Chayan Das
+Department of Chemistry
+Design and development of novel vitrimer like materials with smart features
+DRDO, Ministry of Defence
+01-Jan-2024
+74
+Dr. Prabhat Sharma
+Electronics & Communication
+Design Analysis and Testbed Development for Molecular Communication Systems
+ANRF SERB
+01-Jan-2024
+75
+Dr. Babasaheb R Sankapal
+Department of Physics
+Device grade flexible solid-state supercapacitor for flexible electronic applications using conducting polymer, MXene and rGO fibres
+DST-SERB (CRG)
+01-Jan-2024
+76
+Dr. Abhinav Arya
+Metallurgical & Materials Engineering
+Development of a two-stage e-waste segregation system using transfer learning
+Ministry of Mines
+27-Dec-2023
+77
+Dr. R V Ralegaonkar
+Civil Engineering
+Coal mine overburden alkali activated composites (CMOAAC) for prefabricated 3D volumetric construction elements and system thereof (3DVCES)
+CMPDI
+12-Dec-2023
+78
+Dr. Pradnya Ghare
+Electronics & Communication
+Development of an EEG based Imagined Speech recognition system for augmentation of patient care communication
+ANRF-SERB POWER
+04-Dec-2023
+79
+Dr. Susanta Kumar Nayak
+Department of Chemistry
+Design, Synthesis and Computational Analysis of Supramolecular Halogen Bonded Bent-core Azo-benzene Liquid Crystalline Systems for Photo-Responsive Property Study
+Ministry of Education: under STARS-2 program in the Chemical Sciences
+01-Nov-2023
+80
+Dr. Abhijit D Lade
+Civil Engineering
+Experimental Study on Hydrodynamics and Transport of Microplastic-Sediment Mix in Rivers
+Department of Science and Technology (DST) SERB Startup Research Grant (SRG)
+01-Nov-2023
+81
+Dr. Sachin Mandavgane
+Chemical Engineering
+Valorization of post-harvest agro waste (with C/N>50) using indigenous fibrinolytic enzymes
+Sree Padmavati Venkateswara Foundation
+01-Oct-2023
+82
+Dr. Chayan Das
+Department of Chemistry
+Development of multifunctional and recyclable elastomeric materials via dynamic crosslinking network
+Ministry of Education (STARS-2)
+01-Sep-2023
+83
+Dr. Arghya Mitra
+Electrical Engineering
+SPARC project titled “Global Grid: The Future of Earth”
+Ministry  of Education, Govt. of India
+28-Jul-2023
+84
+Dr. Nikhil Deep Gupta
+Centre for VLSI & Nanotechnology
+Solar-driven self-biased Bio-photoelectrochemical cells for waste water treatment and hydrogen generation
+CSIR EMR II
+07-July-2023
+85
+Dr. Atul R. Ballal
+Metallurgical & Materials Engineering
+Evaluation of Low Cycle fatigue (LCF) and creep-fatigue Intercation (CFI) properties of Indigenous Alloy 617M
+Board of Research in Nuclear Sciences (BRNS) Department of Atomic Energy (DAE)
+01-Jun-2023
+86
+Dr. Sachin Mandavgane
+Chemical Engineering
+Valorization of organic waste by bio-refinery approach to products – reg.
+Merino Industries Ltd.
+01-Apr-2023
+87
+Dr. Pradip Roul
+Department of Mathematics
+Robust graded and adaptive mesh techniques for fractional convection-reaction-diffusion model in higher dimensions.
+NBHM
+01-Mar-2023
+88
+Dr. Poorva Singh
+Department of Physics
+DFT investigations on magnetic topological insulators and topological semi metals.
+SERB (CRG)
+01-Mar-2023
+89
+Dr. Prasad Kane
+Mechanical Engineering
+Investigation of Design Modification of Switched Reluctance Motor to reduce vibration and noise in Electric Vehicle
+SERB (CRG)
+27-Feb-2023
+90
+Dr. Manmohan Goel
+Applied Mechanics
+Indigenous Design and Development of Test Device for Testing of Glass Facade Against Wind Borne Debris
+DST-SERB
+21-Feb-2023
+91
+Dr. Sonal Dhanvijay
+Applied Mechanics
+Real Time Hybrid Simulation using Shake Table System
+SERB – EMEQ
+13-Feb-2023

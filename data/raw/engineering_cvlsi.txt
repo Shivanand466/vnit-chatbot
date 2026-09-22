@@ -1,0 +1,56 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cvlsi
+TITLE: VNIT Nagpur CENTRE FOR VLSI & NANOTECHNOLOGY Department
+FETCHED: 2026-09-21
+---
+Specialization
+VLSI/CMOS Design
+Nanoelectronics
+Micro and Nanosystems
+RF CMOS
+Optics and Photonics
+PO's / PEO's
+PEO's
+PO's
+Departmental Newsletter
+Student Chapter
+Optica Student Chapter VNIT Nagpur
+Dr. K. Raghunath, Scientist G, National Atmospheric Research Laboratory (NARL), ISRO visited CVN, VNIT Nagpur on 05th Sept. 2024
+Some glimpses of the visit of Dr. K. Raghunath. He has discussed about Optical Remote Sensing for Atmospheric Applications
+India Techade – Chips for Viksit Bharat 13th March, 2024
+IEEE Distinguished Lecture by Prof.  Vikram Dalal on “Perovskites  –  The  new  frontiers  for  Solar  Photovoltaic  Energy 
+Conversion: Science and Technology” on Jan., 2024
+IEEE Distinguished Lecturer : Prof. Ramgopal Rao Connecting Academic R&D with Product Innovation: A Way forward
+Seminar by Prof. Rana Biswas on "Topic Controlling Light with Photonic Nanostructures"
+Enlightenment 2023 – Workshop on Research and Applications in Photonics
+Enlightenment 2023 – Workshop on Research and Applications in Photonics
+PhD Scholar Vandana Jain presented her research work "MiCHAR:
+Low-Cost Portable Fluid Testing System for Health Care"
+at RASHTRAPATI BHAVAN
+Previous slide
+Next slide
+About Department
+The Centre for VLSI and Nanotechnology started with the research facilities in the analog and digital domains and has grown steadfastly since its inception, expanding into the areas of nanoelectronics, MEMS and photonics. The centre has excellent research facilities for carrying out research in different areas of Micro & Nano Electronics, VLSI and Photonics. The centre is actively involved in R & D as well as consultancy projects and has collaborations with several industries, academic institutes, and R&D organizations in the country including MeitY, DST, ISRO, DRDO etc.. The laboratories are adequately equipped with state-of-the-art facilities.
+The centre is undergoing vigorous growth in emerging areas of Microfluidics, MEMS cantilever, Photonics Devices, Nanoelectronics devices modelling and characterization. The infrastructure comprises of a wide variety of electrical characterization equipments for High-frequency devices as well as DC measurements down to femto-amperes and probe station for wafer level characterizations including low temperature & high temperature capability. High Performances Cluster Computation Servers, High-end workstations with advanced configuration, which support almost all the commercial CAD tools such as Cadence, Synopsys, Mentor Graphics etc and Softwares for VLSI, nanoelectronics and photonics such as Gaussian, VASP, Synopsys RSoft, Ansys Lumerical etc.
+Major ongoing projects in the lab are :
+a. Special Manpower Development Program – Chip to System Design (SMDP-C2SD)
+b. Characterization and Simulation of Nanodevices sponsored by Ministry of Communications and Information Technology.
+c. NPMASS sponsored by ADA.
+d. Project running in collaboration with DRDO, ISRO, CSIR, DST, Indian Railways etc.
+Department's Vision and Mission
+Vision
+The Department is committed to provide postgraduate academic and research programs to produce high quality human resource with ability to meet the global challenges associated with global challenges in the field of VLSI Design, Nanoelectronics and Photonics.
+Mission
+The mission of the centre is to achieve excellence in engineering education, research and professional service. It is endeavored to equip students to assume leadership positions in engineering practice, education, research and serve the mankind with most modern technology, serviceability and economy.
+Department Stats
+0
+PG Specialisations
+0
+Faculty
+0
+Students
+0
+Publications (This Year)
+0
+Patents (This Year)
+News & Events
+Our Collaborators and Contributors

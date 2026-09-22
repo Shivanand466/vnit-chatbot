@@ -1,0 +1,103 @@
+SOURCE_URL: https://drive.google.com/file/d/1kejECNfQyOyYpOQD6hr560WA5Q_BExJc/view
+TITLE: Placement and Internship Report 2025-2026
+FETCHED: 2026-03-24
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: Placement and Internship Report 2025-2026 (dated 2026-03-24)
+Placement Season for 2025-26 Batch Is Still in Progress
+Internship selection 2025-26:
+B.Tech Summer/Winter Internship
+B.Tech Summer/Winter Internship: Civil Engineering — No. of Internship Seat Offered: 31
+B.Tech Summer/Winter Internship: Computer Science and Engineering — No. of Internship Seat Offered: 43
+B.Tech Summer/Winter Internship: Chemical Engineering — No. of Internship Seat Offered: 38
+B.Tech Summer/Winter Internship: Electronics and Communication Engineering — No. of Internship Seat Offered: 13
+B.Tech Summer/Winter Internship: Electrical and Electronics Engineering — No. of Internship Seat Offered: 06
+B.Tech Summer/Winter Internship: Mechanical Engineering — No. of Internship Seat Offered: 05
+B.Tech Summer/Winter Internship: Mining Engineering — No. of Internship Seat Offered: 72
+B.Tech Summer/Winter Internship: Metallurgical and Materials Engineering — No. of Internship Seat Offered: 03
+B.Tech Summer/Winter Internship: Total — No. of Internship Seat Offered: 211
+B.Tech Semester Long Internship
+B.Tech Semester Long Internship: Civil Engineering — No. of Internship Seat Offered: 02
+B.Tech Semester Long Internship: Computer Science and Engineering — No. of Internship Seat Offered: 24
+B.Tech Semester Long Internship: Electronics and Communication Engineering — No. of Internship Seat Offered: 27
+B.Tech Semester Long Internship: Electrical and Electronics Engineering — No. of Internship Seat Offered: 07
+B.Tech Semester Long Internship: Mechanical Engineering — No. of Internship Seat Offered: 01
+B.Tech Semester Long Internship: Metallurgical and Materials Engineering — No. of Internship Seat Offered: 08
+B.Tech Semester Long Internship: Total — No. of Internship Seat Offered: 69
+M.Tech 6 Month/ Year Long Internship:
+M.Tech 6 Month/ Year Long Internship: Water Resource Engineering — No. of Internship Seat Offered: 1
+M.Tech 6 Month/ Year Long Internship: Environmental Engineering — No. of Internship Seat Offered: 1
+M.Tech 6 Month/ Year Long Internship: Communication System Engineering — No. of Internship Seat Offered: 8
+M.Tech 6 Month/ Year Long Internship: Computer Science and Engineering — No. of Internship Seat Offered: 6
+M.Tech 6 Month/ Year Long Internship: CAD-CAM — No. of Internship Seat Offered: 2
+M.Tech 6 Month/ Year Long Internship: Structural Engineering — No. of Internship Seat Offered: 1
+M.Tech 6 Month/ Year Long Internship: Transportation Engineering — No. of Internship Seat Offered: 1
+M.Tech 6 Month/ Year Long Internship: Geotechnical Engineering — No. of Internship Seat Offered: 2
+M.Tech 6 Month/ Year Long Internship: Power Electronics and Drives — No. of Internship Seat Offered: 4
+M.Tech 6 Month/ Year Long Internship: Integrated Power System — No. of Internship Seat Offered: 2
+M.Tech 6 Month/ Year Long Internship: VLSI — No. of Internship Seat Offered: 2
+M.Tech 6 Month/ Year Long Internship: Production and Industrial Engineering — No. of Internship Seat Offered: 1
+M.Tech 6 Month/ Year Long Internship: Total — No. of Internship Seat Offered: 31
+List of companies:
+List of companies: Analytixlabs
+List of companies: Aarvee Associates
+List of companies: Accenture
+List of companies: Apple India Pvt Ltd
+List of companies: Arista Networks India Private Limited
+List of companies: Arista_networks
+List of companies: Aspect Ratio
+List of companies: Ather Energy
+List of companies: Axion24 AI Technologies Pvt. Ltd.
+List of companies: Axis
+List of companies: Bajaj auto
+List of companies: Bento Labs Pvt Ltd
+List of companies: Bharat Electronics Limited (Central Research Laboratory) Ghaziabad
+List of companies: Black & Veatch Private Limited
+List of companies: Bosch Global Software Technologies Private Limited
+List of companies: Castlemen pvt. Limited Nagpur
+List of companies: Chipsolve Technologies
+List of companies: CITI
+List of companies: D.E. Shaw India Private Limited
+List of companies: Dassault Systemes
+List of companies: DBSOLX
+List of companies: DE shaw india
+List of companies: Defence Research and Development Organisation
+List of companies: Deloitte
+List of companies: Delta Electronics India Pvt Ltd
+List of companies: Dream Forge
+List of companies: Equilibrium Solutions Private Limited
+List of companies: Futures First
+List of companies: Goldman Sachs
+List of companies: Google Hewto
+List of companies: Hilti
+List of companies: IBM
+List of companies: ITC
+List of companies: Jade global John Deere
+List of companies: Johndeere RCFL Chembur/Mumbai
+List of Companies:
+List of Companies: Kirloskar Pneumatic Company Limited
+List of Companies: Lossfunk
+List of Companies: Makxenia Engineering Resource Pvt. Ltd.
+List of Companies: Microsoft Research
+List of Companies: MOIL
+List of Companies: Morgan stanley
+List of Companies: Mysivi
+List of Companies: Natwest group
+List of Companies: NHAI
+List of Companies: NXP Semiconductors
+List of Companies: Pineapple technologies
+List of Companies: power tech engineering
+List of Companies: RedString
+List of Companies: Sarvaksh
+List of Companies: Siemens energy
+List of Companies: Tata consumer product
+List of Companies: Tekisky
+List of Companies: UBS
+List of Companies: Unique Automation Pvt Ltd
+List of Companies: VISA
+List of Companies: Vistora ai
+List of Companies: WCL
+List of Companies: Wells Fargo pvt. ltd.
+List of Companies: Welzin AI
+List of Companies: Zomato Artpark IISc
+Average Stipend (INR Thousands per Month): 52000 per Month

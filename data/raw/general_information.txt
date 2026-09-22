@@ -1,0 +1,181 @@
+SOURCE_URL: https://vnit.ac.in/general-information
+TITLE: General Information
+FETCHED: 2026-09-21
+---
+S
+r
+.No.
+General Infrastructure
+Details
+1
+Total Area in Acres
+215.26 Acres
+2
+Built-up Area
+80235 Sq.Mtr.
+3
+Office Space
+Administrative Block
+2453 Sq.Mtr.
+Academic Block
+34471 Sq.Mtr.
+Other blocks such as –
+Boys Hostel
+16090 Sq.Mtr.
+Girls Hostel
+4980 Sq.Mtr.
+Auditorium
+1700 Sq.Mtr.
+Gymnasium
+835 Sq.Mtr.
+Sports
+23541 Sq.Mtr.
+Health Centre
+311 Sq.Mtr.
+Faculty Housing
+10613 Sq.Mtr.
+Supporting Staff Housing
+3500 Sq.Mtr.
+Guest House
+1930 Sq.Mtr.
+Community Shops
+90 Sq.Mtr.
+Clubs
+325 Sq.Mtr.
+4
+Lecture Theatres
+Nil
+5
+Number of Class Rooms
+50
+6
+Stocks in Library
+Number of Books
+90838
+Journals
+12411
+Periodicals etc.
+9096
+7
+Laboratory Details
+Number
+30
+Approximate Area
+315 Sq.Mtr.
+Seating Capacity
+30
+8
+Seminar / Conference Hall
+Number
+10
+Approximate Area
+100 Sq.Mtr.
+Seating Capacity
+25
+9
+Sports Facilities
+32541 Sq.Mtr.
+10
+Recreation facilities
+100 Sq.Mtr.
+11
+Community Shops
+90 Sq.Mtrs.
+12
+Details of Transport Facilities
+4 vehicles in running condition
+13
+Guest House
+Capacity
+36
+Area
+1930 Sq.Mtr.
+Geographical Data
+Campus
+Geographical Information
+Sr.No.
+General Infrastructure
+Details
+1
+Total Area in Acres
+215.26 Acres
+2
+Built-up Area
+80235 Sq.Mtr.
+3
+Office Space
+Administrative Block
+2453 Sq.Mtr.
+Academic Block
+34471 Sq.Mtr.
+Other blocks such as –
+Boys Hostel
+16090 Sq.Mtr.
+Girls Hostel
+4980 Sq.Mtr.
+Auditorium
+1700 Sq.Mtr.
+Gymnasium
+835 Sq.Mtr.
+Sports
+23541 Sq.Mtr.
+Health Centre
+311 Sq.Mtr.
+Faculty Housing
+10613 Sq.Mtr.
+Supporting Staff Housing
+3500 Sq.Mtr.
+Guest House
+1930 Sq.Mtr.
+Community Shops
+90 Sq.Mtr.
+Clubs
+325 Sq.Mtr.
+4
+Lecture Theatres
+Nil
+5
+Number of Class Rooms
+50
+6
+Stocks in Library
+Number of Books
+90838
+Journals
+12411
+Periodicals etc.
+9096
+7
+Laboratory Details
+Number
+30
+Approximate Area
+315 Sq.Mtr.
+Seating Capacity
+30
+8
+Seminar / Conference Hall
+Number
+10
+Approximate Area
+100 Sq.Mtr.
+Seating Capacity
+25
+9
+Sports Facilities
+32541 Sq.Mtr.
+10
+Recreation facilities
+100 Sq.Mtr.
+11
+Community Shops
+90 Sq.Mtrs.
+12
+Details of Transport Facilities
+4 vehicles in running condition
+13
+Guest House
+Capacity
+36
+Area
+1930 Sq.Mtr.

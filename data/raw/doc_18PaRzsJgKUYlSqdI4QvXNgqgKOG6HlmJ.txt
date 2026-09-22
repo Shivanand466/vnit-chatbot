@@ -1,0 +1,79 @@
+SOURCE_URL: https://drive.google.com/file/d/18PaRzsJgKUYlSqdI4QvXNgqgKOG6HlmJ/view
+TITLE: SOP for Semester Fee Payment Winter 2026
+FETCHED: 2026-05-05
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: SOP for Semester Fee Payment Winter 2026 (dated 2026-05-05)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY
+Odd Semester Winter 2026 Fee Payment
+Standard Operating Procedure
+Sub: SOP (Standard Operating Procedure) for Academic Fees Payment.
+All Students of UG / PG & Ph D paying Semester Academic Fees for upcoming semester must follow following Steps.
+ACADEMIC FEES PAYMENT:
+To pay the Academic Fees students are require to login to their AIMS Login with the current sessionW26
+AIMS LINK: https://vnitaims.vnit.ac.in/mproaims/#/
+Students can login with,
+Username :
+<Student ID No.>
+Password: Please enter the password of your AIMS login. If you can't remember the password, simply press Forgot Password and follow the on screen instructions.
+Students are requested to change the password after successful login for security reasons.
+After student's successful login to AIMS, Students need to follow following steps carefully,
+Login to your AIMS
+After student's successful login to AIMS, Students need to follow following steps carefully,
+Selection of App Module- Fee Management
+In this Step make sure session selected on the top of the page is W26. If the session is already selected as W26 then proceed with next step. Otherwise Click the Session and select, Year as 202627 & Session as W26.
+Transaction- for making the payment.
+Above screen show various details about challan to be paid. Student makes sure that the session selected above is W26. Student need to select challan to be paid for the Session W26. Student need to select carefully the challan mentioning the W26 session only. If student select challan of other session then registration for W26 will not open.
+Select the fees amount for the given session as mentioned in Fee Notice and select - Make Payment. The page will redirect to Bill Desk Payment Gateway and following screen will appear. Now press 'PAY WITH
+BILLDESK' and proceed with payment of fees
+After pressing 'PAY WITH BILL DESK', following screen will appear,
+Here we can see various payments options.
+Credit / Debit Cards
+Internet Banking
+UPI
+QR (Currently Not available) - Do not use this for Payment
+NEFT / RTGS (Currently Not available) - Do not use this for Payment
+Actual screen for the available 3 options can be seen below,
+Credit / Debit Cards - when student press this option following screen will appear.
+Student can enter Credit / Debit card and related details showing on the screen to start the transaction,
+After entering required details, student will get following screen, After successfully entering the One Time Password (OTP), the payment will be confirmed and student will -Online Payment Acknowledgement. Important Note: Students are requested to save this 'Online Payment Acknowledgement' by pressing Ctrl + p (Either by printing or in PDF mode) for future reference. Full Fee Receipt will be available under HOME >> Fee Management >> Reports >> Fee Receipt Report Students are requested to confirm the Status of Payment as 'Success', without this status registration of student cannot be starting.
+During transaction if the money is deducted from students (or payee) account and the status comes as 'Failed' / 'Aborted' / 'Rejected' etc. students are requested to save the 'Online Payment Acknowledgement' for future reference.
+Internet Banking - when student press this option following screen will appear,
+Students are requested to select from the list of Banks available (shown in the image below)
+For Ex: Selected bank is State Bank of India, then press 'Make Payment', following screen will appear,
+4
+Here, user need to login to bank site by Internet banking login details, and proceed with payment. Thereafter you will receive- Online Payment Acknowledgement
+Important Note: Students are requested to save this 'Online Payment Acknowledgement' by pressing Ctrl + p (Either by printing or in PDF mode) for future reference. Full Fee Receipt will be available under HOME >> Fee Management >> Reports >> Fee Receipt Report
+Students are requested to confirm the Status of Payment as 'Success', without this status registration of student cannot be starting.
+During transaction if the money is deducted from students (or payee) account and the status comes as 'Failed' / 'Aborted' / 'Rejected' etc. students are requested to save the 'Online Payment Acknowledgement' for future reference.
+UPI: - when student press this option following screen will appear,
+Student can select from the Popular UPI, showing the payment gateway option, otherwise they can enter other valid VPA (Virtual Payment Address) for payment.
+For Ex: if student select PhonePe as payment option,
+Then following screen appears and processing of payment starts using PhonePe UPI.
+Students need to check His / Her Mobile UPI App for payment option and confirmation, after successful confirmation of payment from UPI App student will - Online Payment Acknowledgement
+Important Note: Students are requested to save this 'Online Payment Acknowledgement' by pressing Ctrl + p (Either by printing or in PDF mode) for future reference. Full Fee Receipt will be available under HOME >> Fee Management >> Reports >> Fee Receipt Report.
+Students are requested to confirm the Status of Payment as 'Success', without this status registration of student cannot be starting.
+During transaction if the money is deducted from students (or payee) account and the status comes as 'Failed' / 'Aborted' / 'Rejected' etc. students are requested to save the 'Online Payment Acknowledgement' for future reference.
+After successful payment and generation of 'Online Payment Acknowledgement' students will be re-directed to AIMS Home page. Now students need to proceed with semester registration. Students make sure they must select the Session (W26) before proceeding with the registration process.
+For Registration of Winter 2026 Session: Please see detail W26 Registration Instructions & Procedure given separately.
+If student want full payment receipt, then they can get it from AIMS (Session Wise).
+HOME >> Fee Management >> Reports >> Fee Receipt Report
+Search for the 'Session' then search for the 'Challan Number' then press 'View Report'. Student can view all the paid Challan receipt here by selecting the proper session and proper Challan number. This report will show all (head wise) detailed fee receipt for the session and Challan number selected.
+If during payment process of any of the above (3) mentioned options, payment failed / aborted / rejected / pending by the payment gateway / bank / UPI or any other reason, then student may get the following screen, Here student either can abort the current transaction or they can retry the payment, if money is deducted and this screen appears then it is suggested that abort the transaction and start over the payment from AIMS 'Online Payment' page.
+In this case student may get a failed receipt as shown in the image below,
+As money is deducted from students account, Student are requested to keep safe this receipt as print / or in PDF form.
+It is strongly recommended that if these Abort / Failed / Rejected transactions persists during payment process, then wait for some time and then do the transaction.
+If Money is Deducted & Transaction come out to be Pending:
+If payment done by any student (Money is deducted from Students account) and his / her transaction is pending (means registration is not open on AIMS) due to Bank Site Problem or Debit Card Transaction Pending Problem or Credit Card Problem etc., then he / she must wait for 24 Hour and then he / she can login to AIMS and check the Fee Receipt Report under,
+HOME >> Fee Management >> Reports >> Fee Receipt Report,
+by selecting Session as W26 & Challan Number for which payment has been done, as shown in image below. If the Pending Transaction is cleared within 24 Hour then the Fee Receipt will be shown to student (mentioning the Transaction Reference Number & Customer Id) otherwise if payment is still pending then this report for the selected Challan Number come out to be Blank, then student are requested to contact Account Section on (0712-2801548 / 1240) or on feesvnit@gmail.com . If the receipt is generated successfully then student can assure that payment is done successfully and he / she can proceed for W26 Registration.
+If fees payment is done through 'Payment Gateway', then payment validation and updation will be done automatically. If money is deducted from payee account and payment validation is pending, then student should wait for 03 working day for registration to get opened. In case the registration is not opened after 03 working day, the student must send the receipt showing the payment done successful on mail id feesvnit@gmail.com. Subject line of the email shall contain - Payment Gateway issue along with Students Id number and Challan number. please be forwarded to feesvnit@gmail.com with a copy to dr_acct@vnit.ac.in, and dr_acd@vnit.ac.in
+In case the issue is not resolved in 04 working days after sending such mail, the same mail may supdt_account@vnit.ac.in, If by mistake payment for the same challan done 2 times then Event of Refund of money came in the
+picture. For refund of money following documents required:
+Hand written letter.
+Scan copy of ID card.
+Online Payment Acknowledgment (Failed / Abandoned / Rejected) Receipt copy.
+Your Bank statement (showing deduction or payment of money 2 times).
+Copy of Challan for which payment failed (Available in AIMS Login).
+All these must be sent by Email to dr_acd@vnit.ac.in for refund process. Refund process may takes time, for this student must not wait for refund and then payment of fees as registration schedule is fixed and cannot be extended due to any reason. So, proceed with another payment and registration. For any further information regarding refund, contact Academic Section on 0712-2801365 (Dy. Reg. Academic) / 1818 (M Tech) / 1550 (M Sc) / 1549 (B Tech & B Arch) / 1720 (PhD)
+========== END OF DOCUMENT ==========

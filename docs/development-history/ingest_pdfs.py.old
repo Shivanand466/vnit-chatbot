@@ -1,0 +1,318 @@
+"""
+PDF ingestion: pull the text out of PDFs linked from vnit.ac.in and write it
+into data/raw/ in the same format chunk.py already understands, so PDFs flow
+through the rest of the pipeline (chunk -> index -> retrieve -> answer) with
+zero changes anywhere else.
+
+WHY THIS EXISTS: notices, handbooks, fee schedules and academic calendars on
+this site are frequently PDFs, not HTML pages. crawl.py deliberately skips
+them (fetch_utils.extract_internal_links filters .pdf out of the crawl queue
+so the crawler doesn't waste requests downloading files it can't parse) --
+this module is the separate ingestion path for them.
+
+NEEDS REAL INTERNET, so it can't run from Claude's own tooling -- same as
+crawl.py/recrawl.py. Run it on a machine with normal internet access; see
+BUILD-PLAN.md Step 2.
+
+EXTRACTION ENGINES: tries pdfplumber first (better at preserving reading
+order and handling multi-column layouts), falls back to pypdf (pure-Python,
+fewer dependencies, installs anywhere) if pdfplumber isn't installed or
+chokes on a particular file. If neither is installed the module says so
+clearly and exits rather than half-working.
+
+WHAT IT DELIBERATELY SKIPS:
+- Scanned/image-only PDFs. These extract to nothing or near-nothing because
+  the text is pixels, not characters. Reading them needs OCR (tesseract),
+  which is a much bigger dependency and out of scope here -- they're
+  counted and listed so it's visible how much is being left behind.
+- Encrypted/password-protected PDFs (raises on open -- caught and logged).
+- Anything over MAX_PDF_BYTES, and anything past MAX_PDF_PAGES within a
+  single PDF (a 300-page handbook would otherwise dominate the corpus).
+
+Usage:
+    python3 ingest_pdfs.py --dry-run                 # list what it would fetch, fetch nothing
+    python3 ingest_pdfs.py --max-pdfs 40             # actually ingest up to 40 PDFs
+    python3 ingest_pdfs.py --max-pdfs 40 --max-html-pages 80 --max-depth 3
+"""
+import argparse
+import io
+import re
+import time
+from collections import deque
+from datetime import date
+from pathlib import Path
+from urllib.parse import urljoin, urlparse
+
+import requests
+from bs4 import BeautifulSoup
+
+from fetch_utils import (
+    USER_AGENT,
+    REQUEST_DELAY_SECONDS,
+    TIMEOUT,
+    is_allowed,
+    fetch_page,
+    extract_internal_links,
+)
+
+RAW_DIR = Path(__file__).parent.parent / "data" / "raw"
+START_URL = "https://vnit.ac.in"
+ALLOWED_NETLOC = "vnit.ac.in"
+
+MAX_PDF_BYTES = 20 * 1024 * 1024   # 20MB -- anything bigger is likely a scan or a media file
+MAX_PDF_PAGES = 40                 # cap per document, see module docstring
+MIN_WORDS = 40                     # below this, treat as scanned/image-only and skip
+
+# Same spirit as crawl.py's SKIP_PATH_PATTERNS -- paths whose PDFs aren't
+# useful chatbot knowledge.
+SKIP_PATH_PATTERNS = [
+    r"/wp-admin", r"/wp-login", r"e-samarth", r"eoffice", r"webmail",
+]
+
+
+def should_skip(url: str) -> bool:
+    return any(re.search(pat, url, re.IGNORECASE) for pat in SKIP_PATH_PATTERNS)
+
+
+def extract_pdf_links(url: str, html: str, allowed_netloc: str):
+    """The mirror image of fetch_utils.extract_internal_links: that one filters
+    PDFs *out* of the crawl queue, this one collects only PDFs."""
+    soup = BeautifulSoup(html, "html.parser")
+    links = set()
+    for a in soup.find_all("a", href=True):
+        absolute = urljoin(url, a["href"].split("#")[0])
+        parsed = urlparse(absolute)
+        if parsed.netloc != allowed_netloc or parsed.scheme not in ("http", "https"):
+            continue
+        if not re.search(r"\.pdf$", parsed.path, re.IGNORECASE):
+            continue
+        clean = parsed._replace(query="", fragment="").geturl()
+        if not should_skip(clean):
+            links.add(clean)
+    return links
+
+
+def _extract_with_pdfplumber(data: bytes):
+    import pdfplumber
+    out = []
+    with pdfplumber.open(io.BytesIO(data)) as pdf:
+        for page in pdf.pages[:MAX_PDF_PAGES]:
+            txt = page.extract_text() or ""
+            if txt.strip():
+                out.append(txt.strip())
+    return "\n".join(out)
+
+
+def _extract_with_pypdf(data: bytes):
+    from pypdf import PdfReader
+    reader = PdfReader(io.BytesIO(data))
+    out = []
+    for page in reader.pages[:MAX_PDF_PAGES]:
+        txt = page.extract_text() or ""
+        if txt.strip():
+            out.append(txt.strip())
+    return "\n".join(out)
+
+
+def extract_pdf_text(data: bytes):
+    """Return (text, engine_name). Raises RuntimeError if no engine is
+    installed at all; returns ("", engine) if the PDF genuinely has no
+    extractable text (i.e. it's a scan)."""
+    errors = []
+    for fn, name in ((_extract_with_pdfplumber, "pdfplumber"), (_extract_with_pypdf, "pypdf")):
+        try:
+            text = fn(data)
+            return text, name
+        except ImportError as e:
+            errors.append(f"{name}: not installed ({e})")
+        except Exception as e:
+            errors.append(f"{name}: failed ({type(e).__name__}: {e})")
+    raise RuntimeError("no working PDF engine -- " + "; ".join(errors))
+
+
+def clean_pdf_text(text: str) -> str:
+    """PDF text extraction leaves artifacts that hurt retrieval: hard-wrapped
+    lines mid-sentence, page-number-only lines, runs of dots from a table of
+    contents. Tidy those without being clever enough to damage real content."""
+    lines = []
+    for line in text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        line = re.sub(r"\.{4,}", " ", line)        # dotted TOC leaders
+        line = re.sub(r"\s{2,}", " ", line)
+        if re.fullmatch(r"(page\s*)?\d{1,4}", line, re.IGNORECASE):
+            continue                                # bare page numbers
+        lines.append(line)
+    return "\n".join(lines)
+
+
+def title_from(url: str, text: str) -> str:
+    """Best-effort title: the first substantial line of the PDF, else the
+    filename turned into something readable."""
+    for line in text.splitlines():
+        words = line.split()
+        if 3 <= len(words) <= 25 and not line.lower().startswith("http"):
+            return line[:120]
+    stem = Path(urlparse(url).path).stem
+    return re.sub(r"[_\-]+", " ", stem).strip()[:120] or url
+
+
+def slugify(url: str) -> str:
+    path = urlparse(url).path.strip("/")
+    slug = re.sub(r"[^a-zA-Z0-9]+", "_", path) or "pdf"
+    return f"pdf_{slug[:76]}"
+
+
+def load_existing_urls():
+    urls = set()
+    for path in RAW_DIR.glob("*.txt"):
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        m = re.search(r"^SOURCE_URL:\s*(\S+)", text, re.MULTILINE)
+        if m:
+            urls.add(m.group(1).rstrip("/"))
+    return urls
+
+
+def download_pdf(url: str) -> bytes:
+    if not is_allowed(url):
+        raise PermissionError(f"robots.txt disallows fetching {url}")
+    time.sleep(REQUEST_DELAY_SECONDS)
+    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT, stream=True)
+    resp.raise_for_status()
+
+    declared = resp.headers.get("Content-Length")
+    if declared and int(declared) > MAX_PDF_BYTES:
+        raise ValueError(f"too large ({int(declared)/1e6:.1f}MB > {MAX_PDF_BYTES/1e6:.0f}MB)")
+
+    data = b""
+    for block in resp.iter_content(chunk_size=65536):
+        data += block
+        if len(data) > MAX_PDF_BYTES:
+            raise ValueError(f"too large (>{MAX_PDF_BYTES/1e6:.0f}MB while streaming)")
+
+    # Some servers mislabel PDFs (application/octet-stream) -- check the magic
+    # bytes rather than trusting Content-Type.
+    if not data.startswith(b"%PDF"):
+        raise ValueError(f"not a PDF (content-type {resp.headers.get('Content-Type')!r})")
+    return data
+
+
+def save_pdf_page(url: str, title: str, text: str) -> Path:
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    path = RAW_DIR / f"{slugify(url)}.txt"
+    if path.exists():
+        path = RAW_DIR / f"{slugify(url)}_{abs(hash(url)) % 10000}.txt"
+    header = (
+        f"SOURCE_URL: {url}\n"
+        f"TITLE: {title}\n"
+        f"FETCHED: {date.today().isoformat()}\n"
+        f"---\n"
+    )
+    path.write_text(header + text.strip() + "\n", encoding="utf-8")
+    return path
+
+
+def discover_pdf_links(max_html_pages: int, max_depth: int):
+    """Walk the site's HTML the same way crawl.py does, but collect PDF links
+    instead of page content. Deliberately a separate pass from crawl.py so
+    this can be re-run for PDFs without re-crawling pages."""
+    visited, found = set(), set()
+    queue = deque([(START_URL, 0)])
+    pages_seen = 0
+
+    while queue and pages_seen < max_html_pages:
+        url, depth = queue.popleft()
+        url = url.rstrip("/")
+        if url in visited or depth > max_depth or should_skip(url):
+            continue
+        visited.add(url)
+
+        try:
+            if not is_allowed(url):
+                continue
+            title, text, content_type, raw_html = fetch_page(url)
+        except Exception as e:
+            print(f"  [skip] {url} ({type(e).__name__}: {e})")
+            continue
+
+        if raw_html is None:
+            continue
+        pages_seen += 1
+
+        new_pdfs = extract_pdf_links(url, raw_html, ALLOWED_NETLOC) - found
+        if new_pdfs:
+            found |= new_pdfs
+            print(f"  [{pages_seen}/{max_html_pages}] {len(new_pdfs)} new PDF link(s) on {url}")
+
+        if depth < max_depth:
+            for link in extract_internal_links(url, raw_html, ALLOWED_NETLOC):
+                if link.rstrip("/") not in visited:
+                    queue.append((link, depth + 1))
+
+    return sorted(found)
+
+
+def ingest(max_pdfs: int, max_html_pages: int, max_depth: int, dry_run: bool):
+    print(f"Discovering PDF links (up to {max_html_pages} HTML pages, depth {max_depth})...\n")
+    pdf_urls = discover_pdf_links(max_html_pages, max_depth)
+    existing = load_existing_urls()
+    todo = [u for u in pdf_urls if u.rstrip("/") not in existing]
+
+    print(f"\nFound {len(pdf_urls)} PDF link(s); {len(pdf_urls) - len(todo)} already ingested, "
+          f"{len(todo)} new.")
+
+    if dry_run:
+        print("\n--dry-run: not downloading anything. Would ingest:")
+        for u in todo[:max_pdfs]:
+            print(f"  {u}")
+        if len(todo) > max_pdfs:
+            print(f"  ... and {len(todo) - max_pdfs} more (raise --max-pdfs to include them)")
+        return [], [], []
+
+    saved, skipped_scanned, errors = [], [], []
+    for url in todo[:max_pdfs]:
+        try:
+            data = download_pdf(url)
+            raw_text, engine = extract_pdf_text(data)
+        except Exception as e:
+            errors.append((url, f"{type(e).__name__}: {e}"))
+            print(f"  [error] {url} ({type(e).__name__}: {e})")
+            continue
+
+        text = clean_pdf_text(raw_text)
+        if len(text.split()) < MIN_WORDS:
+            skipped_scanned.append(url)
+            print(f"  [skip: no extractable text, likely a scan] {url}")
+            continue
+
+        path = save_pdf_page(url, title_from(url, text), text)
+        saved.append((url, path.name, engine))
+        print(f"  [{len(saved)}/{min(max_pdfs, len(todo))}] saved {path.name} "
+              f"({len(text.split())} words, via {engine}) <- {url}")
+
+    print(f"\nDone. Ingested: {len(saved)}. "
+          f"Skipped (no extractable text / likely scanned): {len(skipped_scanned)}. "
+          f"Errors: {len(errors)}.")
+    if skipped_scanned:
+        print("Skipped (would need OCR to read):")
+        for u in skipped_scanned[:15]:
+            print(f"  {u}")
+    if errors:
+        print("Errors:")
+        for u, err in errors[:15]:
+            print(f"  {u}: {err}")
+    if saved:
+        print("\nNext: re-run chunk.py, then build_index.py, then evaluate.py.")
+    return saved, skipped_scanned, errors
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--max-pdfs", type=int, default=40)
+    parser.add_argument("--max-html-pages", type=int, default=80)
+    parser.add_argument("--max-depth", type=int, default=3)
+    parser.add_argument("--dry-run", action="store_true",
+                        help="list the PDFs that would be ingested, download nothing")
+    args = parser.parse_args()
+    ingest(args.max_pdfs, args.max_html_pages, args.max_depth, args.dry_run)

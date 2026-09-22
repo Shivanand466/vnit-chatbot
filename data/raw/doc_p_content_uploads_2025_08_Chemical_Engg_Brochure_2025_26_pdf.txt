@@ -1,0 +1,107 @@
+SOURCE_URL: https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Chemical-Engg-_Brochure_2025-26.pdf
+TITLE: Chemical_Brochure_2025-26
+FETCHED: 2025-08-01
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: Chemical_Brochure_2025-26 (dated 2025-08-01)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+PLACEMENTBROCHURE 2025-2026
+DEPARTMENT OF CHEMICAL ENGINEERING
+ABOUT US
+The Chemical Engineering Department at VNIT is one of the youngest and premier engineering department of VNIT Nagpur It has dynamic and goal oriented group of highly qualified and well experienced faculty with large and modern research and development infrastructure. The Chemical Engineering Program at Visvesvaraya National Institute of Technology produces graduates with a basic understanding of chemical engineering principles along with problem solving, teamwork and communication skills necessary to succeed in diverse careers, including chemical engineering practice and academic research
+MISSION
+To provide students with updated knowedge in science and technology, to become competent and practicing chemical engineers without compromising professional ethics and moral values. To undertake research of a caliber that inter- nationally recognized. To undertake collaborative projects which provide opportu- nities for long-term interaction with academia, industry and other research organizations. To develop infrastructure that promotes creativity and an entrepreneurial culture. To foster ethical leadership and activities that supports the administration, advancements, overnance, and regulation of chemical engineering education and the engineering profession.
+VISION
+To be a globally recognized chemical engineering program coupled with excellence in education, training, research, and consultancy in Chemical Engineering and to serve as a valuable resource for industry and society.
+NOTABLE ALUMNI
+HARSHAL GAJBE
+Assistant Manager(Process) at Indian Oil Corporation Limited
+ADITYA JAGARAPU
+Scientist (PKDM) at Amgen
+ANKITA DE
+Advanced Chemical Engineering at UOP Honeywell
+AJINKYA BHOSKAR
+IIT J | NIT Nagpur | Ex - DFPCL Mumbai
+ANKUR RASTOGI
+Senior Manager at IOCL
+SAMEER KHODE
+AIR- 42 | Maharashtra's Topper in UPSC Civil Service Exam 2023
+FACULTY
+PROFESSORS
+Dr. Kailas L.Wasewar
+Head of the Department Areas of Interest: Separation Processes, Reaction Engineering, Process Intensification, Email: klwasewar@che.vnit.ac.in
+Dr. Sachin A. Mandavgane
+Areas of Interest: Solid Waste Utilization; Nano Catalyst: Adsorption; Green Chemistry: Ancient Sciences; Green building materials: Engineering Education and Social Media: Alternate Construction materials Email: sam@che.vnit.ac.in
+Dr.Shriram S. Sonawane
+Areas of Interest: Nanotechnology: Modelling and Simulation: Nano fluids; NanoBiotechnology Email: sssonawane@che.vnit.ac.in
+Dr. Mahesh N. Varma
+Areas of Interest: Reaction Engineering; Biochemical Reaction Engineering: Biofuel; CFD Email: maheshnvarma@che.vnit.ac.in
+Dr. Ashish S. Chaurasia
+Areas of Interest: Pyrolysis of Biomass: Biomass Gasification; Modelling and Simulation Email: aschaurasia@che.vnit.ac.in
+FACULTY
+ASSOCIATE PROFESSORS
+Dr.Ajit P. Rathod
+Heat Transfer: Membrane Separation Processes: Pervaporation Reactor;
+Areas of Interest: Adsorption: Biomass Email:aprathod@che.vnit.ac.in
+Dr. Diwarkar Z. Shende
+Areas of Interest: Reactive Separation, Fly Ash Utilization, Separation Processes Email:dzshende@che.vnit.ac.in
+Dr. R.P Vijayakumar
+Areas of Interest: Polymer Processing,Polymers Composites ,Nanomaterials, Nanocomposites: Sustainability and Environmental Aspects of Polymers.
+Email:vijayakumarrp@che.vnit.ac.in
+Dr. Pradip B. Dhamole
+Areas of Interest:
+Biofuels, New phase separation method, Biological wastewater treatment Email:pdhamole@che.vnit.ac.in
+Dr. Ravi N. Methekar
+Areas of Interest: Modelling, Simulation, Control of Lithium lon Battery and Fuel Cell Email:ravimethekar@che.vnit.ac.in
+FACULTY
+ASSISTANT PROFESSORS
+Dr.Shyam M. Kodape
+Areas of Interest: Integrated Waste Water Treatment: Membrane Bioreactor; Valorisation Technology Email:smkodape@che.vnit.ac.in
+Dr. Sonali Hiwarkar Tajane
+Areas of Interest: Reaction Engineering; Bio pesticide, Physical Separation, Biorefinary, Solid Waste Management Email:sphiwarkar@che.vnit.ac.in
+Dr.Arijit Das
+Areas of Interest: Advanced Separation Technology,Bioprocesses, Process Modelling and Optimization Email:arijitdas@che.vnit.ac.in
+Dr.Piyush P. Wanjari
+Areas of Interest:
+Molecular dynamics simulations, Molecular modelling, Self-assembly of nanostructured materials, Carbon capture, Material and pharmaceutical drug design, Free energy calculations, Cheminformatics Email:ppwanjari@che.vnit.ac.in
+Dr.Ashwin P.Gaikwad
+Areas of Interest: Advanced Biofuels,Biochemical Engineering, Process Modelling & Simulation
+Email:apgaikwad@che.vnit.ac.in
+Dr.Ashwin Kannan
+Areas of Interest: Biochemical Engineering, Nano biotechnology Email:ashwink@che.vnit.ac.in
+IICHE STUDENTS' CHAPTER
+The lIChE, Nagpur Regional Centre has its head quarters in the Department of Chemical Engineering at Visvesvaraya National Institute of technology. Since its inception, it has been fundamental in playing its role as a driving force for the advancement of all activities related to Chemical Engineering. The primary objective of Student's Chapter is to promote among students in Chemical Engineering, a feeling of fraternity and brotherhood and to complement the objectives and activities of the Institute on a whole new level with challenging case studies and activities.
+The Students' Chapter guides its members in career choice and arranges lectures, seminars, short courses, plant visits, etc., at regular intervals so that student get accustomed to real world scenario and connect the bridge between academics and practical world. Apart from the academic activities,Students' Chapter also organizes cultural events and sports activities for their members.
+The annual inter and intra-disciplinary conference 'Chemix' is organised by IIChE, in association with the Department of Chemical Engineering, VNIT. Guest lectures from notable organisations, quiz contests, exhibitions are among a few activities conducted during Chemix along with the presentation of genuine research papers and posters.
+COURSES TAUGHT
+B.tech Core and Elective Courses :
+MASS TRANSFER I CHEMICAL REACTION ENGINEERING CHEMICAL ENGINEERING MATHEMATICS CHEMICAL ENGINEERING THERMODYNAMICS-II FLUID MECHANICS MECHANICAL OPERATIONS HEAT TRANSFER ENVIRONMENTAL ENGINEERING NUMERICAL METHODS AND PROBABILITY THEORY CHEMICAL TECHNOLOGY TRANSPORT PHENOMENA CHEMICAL PROCESS EQUIPMENT DESIGN ENERGY AND ENVIRONMENT CHEMICAL PROCESS MODELING AND SIMULATION PROCESS CONTROL & INSTRUMENTATION MASS TRANSFER PLANT DESIGN AND ECONOMICS MASS TRANSFER-II DESIGN LAB-II NANOTECHNOLOGY PETROLEUM REFINERY ENGINEERING
+M.tech Core and Elective Courses :
+THERMODYNAMICS OF PHASE AND CHEMICAL EQUILIBRIA CHEMICAL AND CATALYTIC REACTION ENGINEERING MOMENTUM MASS & HEAT TRANSFER MATHEMATICAL METHODS IN CHEMICAL ENGINEERING INDUSTRIAL PROCESS CONTROL PROCESS SIMULATION ANALYSIS AND DESIGN NOVEL SEPARATION SUSTAINABLE ENGINEERING INTERFACIAL SCIENCE AND ENGINEERING ADVANCE NANOTECHNOLOGY MINERAL BENEFICIATION BIO PROCESS ENGINEERING PRACTICALS ANALYTICCAL AND INSTRUMENTATAL LAB PRACTICAL SIMULATION SOFTWARES: ASPEN PLUS, DWSIM, COMSOL MULTIPHYSICS, MATLAB
+LABORATORIES
+ADVANCED SEPARATION & ANALYTICAL IONIC LIQUID RESEARCH BIOCHEMICAL & BIOPROCESSING FLUID MECHANICS PROCESS MODELING AND SIMULATION NANO RESEARCH NANO RESEARCH PROJECT CHEMICAL REACTION ENGINEERING CERAMIC MEMBRANE SEPARATION HEAT TRANSFER TECHNICAL ANALYSIS POLYMER PROCESSING MASS TRANSFER MECHANICAL OPERATIONS PROCESS CONTROL AND INSTRUMENTATION
+DEPARTMENT STATS
+800+ 50+ (25+ Cr) 25+
+RESEARCH PUBLICATIONS
+RESEARCH PROJECTS
+450+
+30+
+STUDENTS PLACEMENT
+PATENTS
+CONSULTANCY
+COLLABORATIONS
+CONTACT US
+PLACEMENT CELL
+DEPARTMENT FACULTY
+Dr. Rashmi Uddanwadikar
+Associate Dean, Training & Placement Email : tepvnit_ngp@vnit.ac.in
+Mr. Harshad Panse
+Placement Executive, Training & Placement Phone: 0712-2801353, +91-9422802995
+STUDENT COORDINATOR
+Himanshu Patrikar
+Atharv Derdekar
+Mayuri Bachate
+TnP Secretary Chemical Engineering Department Email : patrikarhimanshu@gmail.com Phone:8600327978
+TnP Secretary Chemical Engineering Department Email : derdekaratharv@gmail.com Phone:9834328261
+TnP Secretary Chemical Engineering Department Email : bachatevishnukant@gmail.com Phone: 9975335836
+Training & Placement Department 4™ª floor, New Academic Building VNIT, Nagpur - 440010

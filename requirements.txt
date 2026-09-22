@@ -1,0 +1,14 @@
+scikit-learn
+fastapi
+uvicorn[standard]
+requests
+pydantic
+beautifulsoup4
+
+# Sentence embeddings + the reranker (cross-encoder). build_index.py falls
+# back to TF-IDF automatically if this isn't installed or the models can't be
+# downloaded, so the chatbot still works, just less accurately.
+sentence-transformers
+
+# Reading PDF documents needs Docling, which is large, so it lives in a
+# separate environment: see requirements-pdf.txt.

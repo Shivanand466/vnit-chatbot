@@ -1,0 +1,40 @@
+SOURCE_URL: https://vnit.ac.in/building-works-committee
+TITLE: Building Works Committee
+FETCHED: 2026-09-21
+---
+Sr. No.
+Name
+Designation
+Details
+1
+Dr. Prem Lal Patel,
+Director, VNIT, Nagpur
+Chairman
+2
+Director / Deputy Secretary (NITs) (Ex- officio)
+Ministry of Education, Government of India, New Delhi.
+Member
+3
+Director / Deputy Secretary (Ex- officio)
+Integrated Finance Division, Ministry of Education, Government of India, New Delhi.
+Member
+4
+Dr. Ratnesh Kumar
+Dean (P&D), VNIT Nagpur
+Member
+5
+Dr. Ramakant. K Ingle
+Professor of Applied Mechanics Department, VNIT, Nagpur
+Member
+6
+Chief Engineer (Civil)
+Central Public Works Department, Civil Lines, Nagpur
+Member
+7
+Supdt. Engineer (Electrical)
+Central Public Works Department, Civil Lines, Nagpur
+Member
+8
+Shri Sachin S. Jagdale
+Registrar, VNIT, Nagpur
+Member-Secretary

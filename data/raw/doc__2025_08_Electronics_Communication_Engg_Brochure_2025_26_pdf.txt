@@ -1,0 +1,208 @@
+SOURCE_URL: https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Electronics-Communication-Engg_Brochure_2025-26.pdf
+TITLE: ECE_Brochure_2025-26
+FETCHED: 2025-08-01
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: ECE_Brochure_2025-26 (dated 2025-08-01)
+Department of Electronics and
+Communication 2025-2026
+Placement office - 4th Floor, New Academic Block South Ambazari Road, Nagpur, Maharashtra 440010 Email - tepvnit_ngp@vnit.ac.in tepvnit@gmail.com Contact - 0712-2801353, +91 9422802995
+ABOUT US MISSION
+To be the epitome of academic rigour, flexible to accommodate every student and faculty for basic, current and future technologies in
+Electronics and Communication Engineering.
+Strengthening and providing support in sustaining a healthy society by improving the quality of life through the application of technology.
+VISION
+The Department endeavors to facilitate state of the art technical education in the field of Electronics and Communication Engineering by infusing scientific temper in the students leading towards research and to grow as centre of excellence in the field. The vision of the department is to provide education to students that is directly applicable to problems and situations encountered in real life and thus foster a successful career. The department aims to provide the best platform to students and staff for their growth.
+ELECTRONICS& COMMUNICATION ENGINEERING 'PG ANNEX'
+From HOD's Desk:
+Welcome to the Department of Electronics and Communication Engineering, VNIT Nagpur. The department started with an intake of 30 in 1984.
+Subsequently, the intake increased progressively, and the current intake for the UG program of B.Tech ECE is 125, and that of the PG program, namely M.Tech in Communication System Engineering, is 25. The department also offers PhD and Post-Doctoral programs. The department
+remains the most sought after within the first two choices. The department has a good number of highly qualified and experienced faculties. The average experience of the faculty is 15 years, and the Professors have experience of 25 to 35 years. The department has produced GATE/CAT toppers for various years and Institute Visvesvaraya Medalists for many years. The alumni are highly placed, with 5% being entrepreneurs. The IPR of the department is very good in terms of faculty research publications with high citations in Google Scholar and SCIindexed Journals and granted patents. There are always a good number of externally funded or sponsored research projects ongoing. The department has a very active and fruitful institute-industry interaction.
+Dr. Ashwin Kothari Professor and Head of the Department The department has the following centers of excellence: 1) Center of Excellence in Embedded Systems established with grants from World Bank TEQIP funds. The center continues to train aspiring students with evening training programs. 2) CoE of AI 3) 5G LAB Center 4) CoE of EMC- EMI. The department works in upcoming and niche areas of electronics and communication engineering like 5G/6G, RF and Antennas, Signal Processing, AI/ML, Optoelectronics and Photonics, IoT, Automotive Electronics, Sensors and Instrumentation, Microelectronics, Biomedical Signal and Image Processing, Image Processing and Pattern Recognition.
+The department lays emphasis on clear fundamental concepts and applications of engineering through mini and major projects and internships. It is based on NEP 2020 and is accommodating for slow as well as fast learners. The annual external academic audit is a quality control exercise to keep abreast with technology and academic standards. Both the UG and PG programs are accredited for six years. The labs in the department have the latest equipment and students are made fully conversant with it with a considerable hands-on component. On the consultancy front, the department is growing now. The synergy of the department is very high. The department also offers an online PG program of M.Tech in Applied AI for working professionals. We are very confident that our students will excel in their performance wherever they go.
+- Dr. Ashwin Kothari
+STUDENT ACTIVITIES
+Department of Electronics and communication provides an environment that nurtures leaders in addition to sound engineers. Notwithstanding the tight academic schedule that students have, they manage to indulge in various extra- curricular activities. Students from our department manage host of activities ranging from interdepartment competitions and national level festivals to managing facilities like messing and hostel infrastructure. These activities provide multitude of holistic improvement platforms for students to hone their technical and managerial skills, which are imperative for one to excel in his/her workplace. Prof. Seb University
+Course Coordinator Dr. Deep Gupta Dr. Saugata Sinha Dr. Deep Gupta
+ELECTRONICS AND COMMUNICATION DEPARTMENT OF VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY NAGPUR
+OUR LABS
+OUR LABS
+STUDENT ACHIEVEMENTS
+Undergraduate students Vedant Lokhande and Praneeth Mangala (ECE Department, VNIT Nagpur) showcased their project titled 'Design and Implementation of MOLECULAR COMMUNICATION (MC) Test Bed' at the National Conference on Communications (NCC 2025), held at IIT Delhi from March 6-9, 2025.
+NCC is one of India's most prestigious conferences in Communications, Signal Processing, and Networks. The project was developed under the mentorship of Dr. Anamika Singh and reflects VNIT's emphasis on fostering undergraduate research in emerging domains such as molecular communication.
+Our undergraduate students Jinam Sancheti, Anshul Patil, and Chandan Yadav from VNIT Nagpur showcased their FPGA-based controller for an indigenously developed Reconfigurable Intelligent Surface (RIS).
+We were honored to have Prof. Yonina Eldar, a global pioneer in signal processing, visit our demonstration and share her encouraging feedback: "Impressive work!". She motivated the team to continue working hard.
+STUDENT ACHIEVEMENTS
+Students from the Department of Electronics and Communication Engineering, VNIT Nagpur, have delivered an exceptional performance in GATE 2025, securing top national ranks and reaffirming the department's academic excellence.
+Top Performers: · Pujitha Pydi - Rank 25 · Abhishek Paithankar - Rank 39 · Amogh Joshi - Rank 125 · Bhumik Hemant Patil - Rank 148 · Penumarthi Gowtham Kumar - Rank 469 · Sai Varshit - Rank 645
+These results reflect the students' dedication and consistent effort, supported by strong academic mentorship and a competitive learning environment at VNIT. The achievement highlights the institute's commitment to preparing students for national-level examinations and advanced career opportunities.
+Faculty Acheivements
+Electro Magnetic Interference and Electro Magnetic Compilance with a budget of 2.5 crore is in progress under the guidance of Dr.Ashwin Kothari, Dr. Abhay Gandhi, Dr.Joydeep Sengupta, Dr.Neeraj Rao, Dr.Arvind Kumar.
+Under the supervision of Dr.Prabhat Sharma and Dr.Anamika Singh Bharat 5G Laboratory having budget of 1 crore is under progress.
+Center for Artificial Intelligence (1.2 crore) has 56 computing systems with GPUs and 1 High -end system with 128GB RAM and 128GB GPU.Associated faculties are Dr. Kishor Bhurchandi and Dr.Deep Gupta
+CoE in Combedded Systems( 9crore) is coordinated by Dr.Ashwin Kothari .
+Faculty Acheivements
+Dr. Arvind Kumar from the Department of Electronics and Communication Engineering, VNIT Nagpur, represented the institute at the prestigious 19th European Conference on Antennas and Propagation (EuCAP 2025) in Stockholm, Sweden. His contributions highlight VNIT's strong presence in cutting-edge research on antenna systems and nextgeneration wireless technologies.
+Dr. Deep Gupta (ECE Department, VNIT Nagpur) is leading an ICMR-funded research project with a total sanctioned amount of ₹65.83 lakhs, of which ₹56.93 lakhs is allocated to VNIT. The project focuses on AI-assisted detection and grading of colorectal cancer. Co-investigators include Dr. Ankit Bhurane and Dr. Vipin Kamble from VNIT's ECE Department, along with two medical professionals from AIIMS Nagpur. The project reflects a significant interdisciplinary collaboration between engineering and medical sciences to address critical challenges in cancer diagnostics.
+Faculty Acheivements
+Many faculties have received sponsered projects from agencies such as ISRO ,SERB ,SPARC grant , MEITY .
+Many faculties such as Dr Prabhat Sharma, Dr arvind kumar have received international fellowships
+Some faculties are rated as top 2% researcher.
+Dst sire fellowship to Dr.Arvind Kumar.
+For more details please visit departmental website: https://vnit.ac.in/engineering/ece/
+Electronics and Communication Engineering B.Tech
+TECHNICAL SKILLS
+C, C++, Java, Python, R, Kotlin , VHDL , Verilog, MATLAB
+Machine Learning and Data Science:
+Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch) Deep Learning, Neural Networks, AI Tools
+DATABASES :
+SQL, MySQL, PostgreSQL, MongoDB, NoSQL, Firebase
+WEB DEVELOPMENT:
+HTML, CSS (Tailwind, Bootstrap), JavaScript (React, Node.js, Express)
+Web & Mobile Development : Flutter, React Native , Django, Android studio, RESTAPIS Version Control and Containerization: Git, Github , Docker
+Security: Cryptography, Steganography, Web Exploitation, Digital Forensics
+Office and Productivity: POWER BI, Microsoft Office(Advance excel) , LaTeX , Canva, Adobe (Photoshop, Illustrator), Google Analytics, Tableau
+Electronics and Communication Engineering B.Tech
+ENGINEERING DESIGN:
+Embedded Systems: Arduino IDE, Embedded C, VHDL, Verilog, FPGA, RTL Design and Verification,Digi XBee Modules.
+Analog and Digital Circuit Design: CMOS Design, PCB Design, Antenna Design and Analysis, CST Studio Suite
+Signal Processing and Communication: Digital Communication, Wireless Communication, Audio/Image/Video Processing, MATLAB/Simulink, NetSim tool .
+CAD/CAM: AutoCAD, Fusion 360, SolidWorks
+Robotics and Automation: Arduino IDE,ROS, Gazebo, PyBullet, Issac Gym, IOT Embedded Development , Smart systems
+Control Systems: Model Based System Design, Optimization
+PCB Design Software: Eagle, Altium Designer, KiCad, EASYEda
+VLSI Design Tools:
+Quartus, ModelSim , Xilinx, Cadence, Synopsys, Mentor Graphics , ngspice
+Electronics and Communication Engineering B.Tech
+COURSES
+Optimal Systems
+Power Electronic Devices and Circuits
+Communication Networks
+Fundamentals of Information Theory
+Satellite Communication
+Advanced Microprocessors and Interfacing
+Biomedical Signal Processing
+Adaptive Signal Processing
+Radar Engineering
+Advanced Sensors and Instrumentation
+Computer Architecture & Organization
+CMOS Design
+Automotive Electronics
+Concepts in Operating Systems
+Digital Image Processing
+Advanced Digital Signal Processing
+Data Structures and Algorithms
+Linear Network Theory
+Electronic Devices
+Signals and Systems Analysis Linear
+Algebra & Application Numerical
+Methods and Probability Theory
+Digital Signal Processing Analog
+Circuit Design Analog
+Communication Embedded Systems
+Measurement & Instrumentation
+Wave Guides and Antennas
+Device Modeling
+Digital Communication
+Digital Hardware Design
+RF & Microwave Engineering
+Machine Learning with Python
+Wireless Communication
+Wireless Sensor Network
+Electronics and Communication Engineering B.Tech
+Programming Languages & Coding platform :
+Antenna and circuit designing software: Cadence AWR, CST Microwave Studio, Proteus, Lab View
+Network Analysis Tools : Wireshark, Cisco Packet Tracer , NetSim Tools
+Analog & Digital Communication , Digital circuit kit , FPGA , Embedded System kits
+Advanced Technological Competence:
+Internet of Things, Artificial Intelligence, Machine Learning, Deep Learning
+Model-Based Design and Simulation Software MATLAB Simulink
+Electronics and Communication Engineering B.Tech
+COURSES
+Signal Processing for Communication System Statistical Signal Analysis
+Information Theory and Coding Wireless Channels
+Computational Electromagnetism
+Fuzzy Logic and Neural Networks Communication Theory
+Converged Communication Networks Radio Frequency Circuit Design
+Electromagnetic Interference and Compatibility Topics In Communication Systems
+Photonic Integrated Circuit and Communication System
+Electronics and Communication Engineering PHD
+AREAS OF SPECIALSATION & WORK OF INTEREST
+Our ECE department proudly presents PhD candidates excelling in:
+No-Reference Video Quality Assessment
+Medical Image Processing
+NOMA, CR, AmBC, RIS, Optimization
+Molecular & Wireless Communications
+Specialized Expertise
+RF & Microwave Engineering: Frequency Selective Surfaces, EMI/EMC, SI/PI, Microwave NDE, Antennas, RF Design.
+Ambient Backscattering & RIS
+Video Processing & Computer Vision: Denoising, Deep Learning, NLP.
+EEG Signal Processing: Fatigue classification.
+Speech Processing
+Machine Learning & AI: Matlab for Signal & Image Processing.
+IoT & WSNs
+Deep Learning for CAD
+Faculty Corner
+Professors
+Dr. Ashwin Kothari
+Dr. A. S. Gandhi
+Areas Of Specialization :
+Communication, Signal processing, Rough Sets, Cognitive Radio, Reconfigurable Antennas Commbeded Systems: Hybridization Of Communication and Embedded Systems.
+Areas Of Specialization: Wireless communication, RF circuits and systems, Computer networks
+Dr. K. M. Bhurchandi
+Areas Of Specialization:
+Embedded Systems, Image Processing
+Faculty Corner
+Associate Professor
+Dr. Vishal R. Satpute
+Areas Of Specialization:
+Image Processing, Conputer Vision, Signal Processing, Cryptography, Bio Metrics
+Faculty Corner
+Assistant Professors
+Dr. Saugata Sinha
+Areas Of Specialization:
+Image Processing, Pattern Recognition, Medical Imaging. Signal Processing.
+Dr. Pradnya H. Ghare
+Areas Of Specialization:
+Body Area Networks, Wireless Sensors Network,
+Analog Circuit Design,EEG Signal Processing
+Dr. Prabhat Kumar Sharma
+Areas of Specialization
+aspects Molecular of and Physical Layer Communications, Communications
+Dr. Deep Gupta
+Areas Of Specialization:
+Signal & Image Processing, Medical Image Analysis, Machine Learning, Computer Vision, AI in Healthcare, Food Image Analysis
+Dr. Joydeep Sengupta
+Areas Of Specialization: Communication & Microwave.
+Wireless Biological
+Faculty Corner
+Assistant Professors
+Dr. Neeraj Rao
+Areas Of Specialization:
+Antennas and Microwave
+Dr. K. Surender
+Areas Of Specialization:
+Control and Instrumentation
+Dr. Anamika Singh
+Areas Of Specialization: Silicon Photonics Integrated Circuits, High Frequency Antennas, Optical Biosensors, Optical Communications
+Dr. Ankit A. Bhurane
+Areas Of Specialization:
+Signal Image and Video Processing, Communications, Embedded Systems
+Dr. Punitkumar Bhavsar
+Areas Of Specialization:
+Human-in-the-loop cyber physical systems
+Dr.Praveen Pawar
+Areas Of Specialization : Wireless
+Communications
+Faculty Corner
+Assistant Professors
+Dr. Amit Agarwal
+Areas Of Specialization:
+Wireless Communication, Optical Wireless Communication, Performance analysis of amplitude constrained channel, Energy Efficient transceivers design, Quantum Communication, Next generation of wireless systems.
+ialization
+Dr. Arvind Kumar
+Areas Of Specialization:
+Substrate Integrated Waveguide (SIW) Based Antennas, Millimeter wave and THz Technologies
+Dr.Vipin Kamble
+Areas Of Specialization:
+Signal, Image and Video Processing
