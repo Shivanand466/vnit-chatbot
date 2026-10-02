@@ -68,7 +68,9 @@ def _clean_context(text: str) -> str:
     if _LETTERHEAD.search(text):
         return ""
     kept = [w for w in text.split() if not (_GARBLED_WORD.fullmatch(w) and not w.isalpha())]
-    return re.sub(r"\s+", " ", " ".join(kept)).strip(" ,;|-")
+    # Trailing ":" is common on a lead-in ("Fees per year:") and the row line
+    # adds its own, which read as "Fees per year:: Tuition Fee".
+    return re.sub(r"\s+", " ", " ".join(kept)).strip(" ,;|-:")
 
 
 def _is_day_grid(df) -> bool:
