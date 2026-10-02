@@ -92,6 +92,51 @@ Both were worse, so both were reverted. The tags behave as intended in isolation
 
 Worth noting for the report: the diagnosis (keyword tokenisation cannot see the programme letter) is correct and still stands. It is the *remedy* that failed, and it failed at the fusion stage rather than at the tagging stage. A cleaner attempt would constrain candidates rather than enrich text — e.g. filter out chunks whose programme tag contradicts the question's before reranking, which cannot dilute anything because it changes membership, not weights.
 
+## 11. Benchmark: accepting VNIT's own documents as correct sources — adopted (measurement fix)
+
+`evaluate.py` scores whether the *expected page* is in the top 3. With documents indexed, three questions started "failing" because the chatbot returned something better: the B.Tech fee-estimate PDF instead of the fees page (the PDF states the per-year tuition, the page does not), and the telephone directory instead of the contact page (it holds the Registrar's extension 1364 / 2226240).
+
+Both documents were read by hand to confirm they answer the question, and are now accepted alongside the expected page. Nothing else was loosened: the placements and girl-students-scholarship questions stay strict, because the documents out-ranking them answer a different year or only one scholarship. The honest reading of this benchmark is that it measures page-level retrieval, and `fact_ranks.py` / `check_answers.py` are the stronger evidence.
+
+## 12. Reranking pool 30 → 60 — adopted (large gain)
+
+The pool was tuned when the corpus was 81 pages + 41 documents. At 81 pages + 185 documents, the answer-bearing chunk often sat outside the top 30 of the hybrid ranking, so the cross-encoder never saw it:
+
+| pool | benchmark | facts in top 3 | hostel fee rank | Electrical M.Tech rank |
+|---|---|---|---|---|
+| 30 | 16/19 | 13/18 | 12 | 9 |
+| **60** | **16/19** | **15/18** | **1** | **1** |
+| 100 | 16/19 | 15/18 | 1 | 1 |
+
+60 is kept: 100 measured identically and costs more cross-encoder work per question. This single number was worth more than any other change in this round — a reminder that a parameter tuned on a small corpus needs re-tuning when the corpus grows.
+
+## 13. Programme and academic-year contradiction filter — adopted
+
+`programme_terms.py` reads which degree programme (btech/mtech/…, with ug/pg standing for their members) and which academic year (2025-26 style) a question and a passage are about. `query.py` drops candidates that state a *different* programme or year before reranking; a passage naming neither stays eligible, since many correct answers come from pages that never spell one out.
+
+Measured at pool 60: facts in top 3 15/18 with the filter, 14/18 without, and the hostel-fee question (the 19 near-identical fee sheets) goes from rank >20 to rank 1. Unlike experiment 10 this only decides which candidates compete, never how they are scored, so it cannot dilute the ranking.
+
+## 14. Per-source caps — rejected in the results, kept in the pool
+
+Capping the *final* results at 2 chunks per source (to stop one document filling them) broke a question that legitimately needs several chunks of one document: "when do classes start" fell from rank 4 to >20, exactly the failure mode that sending 5 passages per sub-question was introduced to fix. Reverted.
+
+Capping each source's share of the *candidate pool* at 6 is kept. It measured neutral on both benchmarks, and it is a guard against a diagnosed failure mode: two placement reports' company lists (dozens of near-identical chunks each) filled the pool for the placements question. Neutral-but-justified, not a measured gain.
+
+## 15. Two text-quality bugs found by chasing one question — fixed
+
+Both were found while investigating why the placements question failed, and both are correctness fixes rather than ranking tweaks:
+
+- **Mojibake**: when a server sends no charset, `requests` falls back to ISO-8859-1, so UTF-8 punctuation was stored as `2025â€“26`. A question about "2025-26" could not match the passage holding its answer. `fetch_utils.py` now sniffs the encoding. Affected 2 pages, 27 lines.
+- **Sentences broken across lines**: `get_text(separator="\n")` puts every inline element on its own line, and VNIT styles figures in bold, so the placements sentence was stored as three fragments ("…more than" / "678 students" / "from undergraduate…"). `_rejoin_sentences` joins a line to the one above only when the line above does not end a sentence and this line continues one, which leaves headings and real lists alone. Affected 62 of 81 pages.
+
+Scores were unchanged by the pair (16/19, 15/18), and the miss set shifted slightly (Electrical M.Tech started hitting, CSE-established stopped). They are kept because the stored text is now right, not because the numbers moved.
+
+## 16. The one question that still fails: 2025-26 placement figures
+
+"How many students got placed in 2025-26 and how many companies came?" (678 students, 170 organisations) is stated only in one paragraph of the T&P page. Traced through the stages, that chunk ranks 249th by embeddings and 519th by keywords, fusing to 293rd, because the corpus now holds two placement reports whose company lists run to hundreds of chunks that match "placed"/"companies" far more densely — and the 2025-26 report itself gives internship seat counts, not placement totals. Pool diversification does not reach rank 293, and enlarging the pool that far costs more than it returns (pool 100 already measured no better).
+
+Left failing deliberately. The chatbot says it cannot find the figures rather than quoting the 2024-25 ones, which is the behaviour this project values; the fix would be a page-level retrieval stage (see "Ideas not tried"), not another ranking tweak.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

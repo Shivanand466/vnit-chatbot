@@ -74,7 +74,9 @@ def _fuse(embedding_scores, keyword_scores):
 # rank 10, Electrical M.Tech rank 5; benchmark 16/19); with it every
 # answer-bearing chunk present ranked 1st bar one (rank 4), benchmark 18/19.
 RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-RERANK_POOL = 30
+RERANK_POOL = 60
+# Most chunks one source may contribute to that pool (see _candidates).
+MAX_POOL_PER_SOURCE = 6
 _reranker = {"model": None, "failed": False}
 
 
@@ -96,6 +98,40 @@ def _rerank(question, chunks, candidate_ids):
     return [candidate_ids[j] for j in sorted(range(len(candidate_ids)), key=lambda j: -scores[j])]
 
 
+def _candidates(question, chunks, fused_order):
+    """The RERANK_POOL candidates to rerank, skipping chunks whose degree
+    programme or academic year contradicts the question's (see
+    programme_terms.py).
+
+    Scanning further down the fused ranking keeps the pool the same size, so
+    the reranker gets as many real candidates as before. If too few survive,
+    the skipped ones come back rather than shrinking the pool.
+    """
+    from programme_terms import contradicts, programmes, years
+
+    filtering = bool(programmes(question) or years(question))
+    kept, skipped, per_source = [], [], {}
+    for idx in fused_order[:RERANK_POOL * 8]:
+        text = f"{chunks[idx]['title']}. {chunks[idx]['text']}"
+        if filtering and contradicts(question, text):
+            skipped.append(idx)
+            continue
+        # Keep the pool varied: a long list-shaped document (a placement
+        # report's company list, a course book) otherwise fills it with dozens
+        # of near-identical chunks. Measured: the T&P page stating the 2025-26
+        # placement figures sat at fused rank 293, behind two placement
+        # reports' company lists, so it never reached the reranker at all.
+        url = chunks[idx]["source_url"]
+        if per_source.get(url, 0) >= MAX_POOL_PER_SOURCE:
+            skipped.append(idx)
+            continue
+        per_source[url] = per_source.get(url, 0) + 1
+        kept.append(idx)
+        if len(kept) >= RERANK_POOL:
+            break
+    return kept if len(kept) >= RERANK_POOL else (kept + skipped)[:RERANK_POOL]
+
+
 def retrieve(question: str, k: int = 3):
     data = load_index()
     chunks = data["chunks"]
@@ -107,7 +143,8 @@ def retrieve(question: str, k: int = 3):
         sims = cosine_similarity(q_vec, data["embeddings"])[0]
         if "tfidf_matrix" in data:
             keyword = cosine_similarity(data["tfidf_vectorizer"].transform([question]), data["tfidf_matrix"])[0]
-            ranked = _rerank(question, chunks, list(_fuse(sims, keyword)[:RERANK_POOL]))[:k]
+            pool = _candidates(question, chunks, _fuse(sims, keyword))
+            ranked = _rerank(question, chunks, pool)[:k]
         else:
             ranked = sims.argsort()[::-1][:k]
     else:
@@ -138,7 +175,7 @@ def main():
     results = retrieve(args.question, args.k)
     print(f"\nQ: {args.question}\n")
     for r in results:
-        print(f"[score {r['score']:.3f}] {r['title']} — {r['source_url']}")
+        print(f"[score {r['score']:.3f}] {r['title']} â€” {r['source_url']}")
         print(f"  {r['text'][:300]}{'...' if len(r['text']) > 300 else ''}\n")
 
 

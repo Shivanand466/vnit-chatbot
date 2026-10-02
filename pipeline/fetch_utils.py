@@ -43,6 +43,33 @@ def is_allowed(url: str) -> bool:
     return rp.can_fetch(USER_AGENT, url)
 
 
+def _rejoin_sentences(text: str) -> str:
+    """Put sentences broken across lines back together.
+
+    get_text(separator="\\n") puts every inline element on its own line, and
+    VNIT's pages style figures in bold, so a sentence arrives as
+        For the Placement Season 2025-26, more than
+        678 students
+        from undergraduate and postgraduate programmes secured employment...
+    which reads to the embedding model as three unrelated fragments; the
+    passage holding the placement figures ranked 249th for a question asking
+    exactly that.
+
+    A line is joined to the one above only when the line above does not end a
+    sentence and this line continues one (it starts with a lowercase letter or
+    a digit), so headings and real lists -- "Major recruiters included:"
+    followed by "Google" -- are left alone.
+    """
+    out = []
+    for line in text.split("\n"):
+        if out and out[-1] and line[:1] and (line[0].islower() or line[0].isdigit()) \
+                and out[-1][-1] not in ".!?:;":
+            out[-1] = f"{out[-1]} {line}"
+        else:
+            out.append(line)
+    return "\n".join(out)
+
+
 def fetch_page(url: str):
     """Fetch one URL, return (title, clean_text, content_type, raw_html) or
     raise. Strips nav/header/footer/script/style before extracting text --
@@ -62,6 +89,15 @@ def fetch_page(url: str):
     if "text/html" not in content_type:
         return None, None, content_type, None  # caller decides what to do with non-HTML (e.g. PDFs)
 
+    # When the server sends no charset, requests falls back to ISO-8859-1 per
+    # the old HTTP spec, which turns UTF-8 punctuation into mojibake: the
+    # placements page's "2025-26" (en dash) was stored as "2025â€“26", so a
+    # question about 2025-26 no longer matched the passage holding its answer.
+    # apparent_encoding sniffs the bytes, and the page's own meta charset is
+    # what BeautifulSoup would honour anyway.
+    if "charset" not in content_type.lower():
+        resp.encoding = resp.apparent_encoding or "utf-8"
+
     soup = BeautifulSoup(resp.text, "html.parser")
     for tag in soup(["nav", "header", "footer", "script", "style", "noscript", "form"]):
         tag.decompose()
@@ -72,6 +108,7 @@ def fetch_page(url: str):
     main = soup.find("main") or soup.find("article") or soup.body or soup
     text = main.get_text(separator="\n", strip=True)
     text = re.sub(r"\n{3,}", "\n\n", text)  # collapse excess blank lines
+    text = _rejoin_sentences(text)
 
     return title, text, content_type, resp.text
 
