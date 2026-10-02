@@ -18,6 +18,22 @@ import re
 _converter = None
 _SERIAL_COL = re.compile(r"^(s\.?\s*n\.?|sn|sr\.?\s*no\.?|sl\.?\s*no\.?|no\.?|#)$", re.I)
 
+# Academic calendars carry a month-by-month day grid: columns named after
+# months and weekdays, cells holding bare day numbers. Each row became a line
+# like "December 2026.WED: 2; December 2026.THU: 3; ..." -- dozens per
+# calendar, answering nothing, and competing with the real lines for the
+# reranker's attention.
+_MONTHS = r"jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec"
+_WEEKDAYS = r"sun|mon|tue|wed|thu|fri|sat"
+_MONTH_COL = re.compile(rf"^({_MONTHS})[a-z]*\.?\s*\d{{0,4}}(\.({_WEEKDAYS})[a-z]*)?$", re.I)
+
+# The institute letterhead sits above a document's first table, so it becomes
+# the "section" context and gets prefixed to every row of it. It labels no
+# table, and its Hindi line comes through as mojibake from a legacy font
+# ("fo'os'oj¸;k jk\"Vªh; izkS|ksfxdh laLFkku] Ukkxiwj").
+_LETTERHEAD = re.compile(r"national institute of technology", re.I)
+_GARBLED_WORD = re.compile(r"[a-z]*['\"¸ª;|\]]+[a-z'\"¸ª;|\]]*", re.I)
+
 
 def _get_converter():
     global _converter
@@ -47,6 +63,30 @@ def _lead_sentence(paragraph: str, max_words: int = 25) -> str:
     return " ".join(words[:max_words]) + ("..." if len(words) > max_words else "")
 
 
+def _clean_context(text: str) -> str:
+    """Strip the letterhead and mis-decoded non-Latin words from table context."""
+    if _LETTERHEAD.search(text):
+        return ""
+    kept = [w for w in text.split() if not (_GARBLED_WORD.fullmatch(w) and not w.isalpha())]
+    return re.sub(r"\s+", " ", " ".join(kept)).strip(" ,;|-")
+
+
+def _is_day_grid(df) -> bool:
+    """True for a calendar's month-day grid (see _MONTH_COL): columns named
+    after months and cells holding bare day numbers. Its rows state no fact,
+    so the whole table is skipped."""
+    headers = [_clean(c) for c in df.columns]
+    if len(headers) < 3:
+        return False
+    if sum(1 for h in headers if _MONTH_COL.match(h)) < len(headers) * 0.6:
+        return False
+    values = [v for v in (_clean(v) for _, row in df.iterrows() for v in row.tolist()) if v]
+    if not values:
+        return True
+    day_numbers = sum(1 for v in values if re.fullmatch(r"\d{1,2}(\s*\([A-Za-z]{3}\))?", v))
+    return day_numbers >= len(values) * 0.7
+
+
 def _table_rows(df, context: str):
     headers = [_clean(c) for c in df.columns]
     has_header = any(h and not h.isdigit() for h in headers)
@@ -65,7 +105,15 @@ def _table_rows(df, context: str):
         if not cells:
             continue
         if has_header:
-            label = cells[0][1]
+            h0, v0 = cells[0]
+            # Keep the first column's own heading when it reads as a label: the
+            # academic calendar's exam table is headed "EXAMINATIONS.Slot" with
+            # values A-H, and dropping that heading left eight rows that looked
+            # like eight conflicting End Sem dates (the LLM duly answered
+            # "7-14 Dec" instead of "7-15 Dec"). A heading containing digits is
+            # usually data from a misparsed header row (a date, an amount), so
+            # it is not used as a label.
+            label = f"{h0}: {v0}" if h0 and h0 != v0 and not re.search(r"\d", h0) else v0
             rest = "; ".join(f"{h}: {v}" if h and h != v else v for h, v in cells[1:])
             line = f"{label} — {rest}" if rest else label
         else:
@@ -86,10 +134,13 @@ def pdf_to_text(path, max_pages: int = 25):
                 df = item.export_to_dataframe(doc=doc)
             except TypeError:
                 df = item.export_to_dataframe()
+            if _is_day_grid(df):
+                continue
             # Rows carry the table's lead-in sentence as well as its heading:
             # e.g. one fee PDF has identical-looking tables for OPEN/OBC and
             # SC/ST students, distinguished only by the sentence above them.
-            context = " | ".join(p for p in (lead, section) if p)
+            parts = (_clean_context(lead), _clean_context(section))
+            context = " | ".join(p for p in parts if p)
             lines.extend(_table_rows(df, context))
         elif isinstance(item, (SectionHeaderItem, TextItem)):
             text = _clean(item.text)

@@ -76,6 +76,22 @@ Including the chunk's title in the reranker input made no measurable difference;
 
 **Bug found while adopting it:** `agent.py` re-sorted each result list by raw embedding score, which silently undid the reranker in the real chatbot (the test called `query.retrieve` directly, so it didn't notice). Removed the re-sort, and `fact_ranks.py` now tests through `agent.retrieve_for_subquestion`, the chatbot's actual path.
 
+## 10. Programme/year tags on the keyword side (btech, mtech, ug, yr1…) — rejected (regression)
+
+The "similar documents" weak spot has a concrete cause on the keyword side: scikit-learn's default tokenizer keeps only runs of two or more word characters, so `B.Tech`, `B. Tech.` and `M.Tech` all collapse to the single token `tech`. A B.Tech question therefore matched M.Tech documents exactly as well as B.Tech ones — which is precisely what the 19 near-identical hostel fee sheets need to be told apart by.
+
+Fix tried: a `programme_terms.py` module turning those written forms into distinct tokens (`btech`, `mtech`, `barch`, `msc`, `mba`, `phd`), appended to each chunk's TF-IDF text in `build_index.py` and to the question in `query.py`. Keyword side only, since the embedding model reads the real wording perfectly well. Two variants were measured on the same index (81 pages + 148 documents, 2,678 chunks):
+
+| | benchmark | facts in top 3 |
+|---|---|---|
+| baseline | **16/19** | **12/18** |
+| programme + level (ug/pg) + year (yr1–yr4) tags | 15/19 | 11/18 |
+| programme tags only | 16/19 | 11/18 |
+
+Both were worse, so both were reverted. The tags behave as intended in isolation (the hostel-fee question yields `btech ug yr1`, an M.Tech fee sheet yields `mtech pg yr1`), and the full variant visibly hurt an unrelated question — Electrical M.Tech specialisations fell from rank 1 to 15. The likely reason is dilution: the added tokens appear in a large fraction of chunks, so IDF treats them as near-worthless while they still shift every vector, and the reranker — which reads the real text and is what actually decides the final order — gains nothing from them.
+
+Worth noting for the report: the diagnosis (keyword tokenisation cannot see the programme letter) is correct and still stands. It is the *remedy* that failed, and it failed at the fusion stage rather than at the tagging stage. A cleaner attempt would constrain candidates rather than enrich text — e.g. filter out chunks whose programme tag contradicts the question's before reranking, which cannot dilute anything because it changes membership, not weights.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.
