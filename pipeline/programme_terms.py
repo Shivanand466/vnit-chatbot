@@ -42,6 +42,15 @@ _LEVELS = {
 # subject would set aside good candidates.
 _ACADEMIC_YEAR = re.compile(r"\b(20\d{2})\s*[-–/]\s*(20\d{2}|\d{2})\b")
 
+# The hostel fee sheets come one per gender, and their text is otherwise
+# near-identical, so the cross-encoder cannot tell them apart: a question about
+# girls' fees was answered from the boys'/M.Tech sheets. A document naming both
+# ("INTERNATIONAL BOYS & GIRLS") matches either question.
+_GENDERS = {
+    "girls": r"\bgirls?\b|\bwomen\b|\bfemale\b|\bladies\b",
+    "boys": r"\bboys?\b|\bmen\b|\bmale\b|\bgents\b",
+}
+
 
 def programmes(text: str) -> set:
     """The programmes `text` mentions, as a set of tags. Empty when it names none."""
@@ -61,15 +70,21 @@ def years(text: str) -> set:
     return found
 
 
+def genders(text: str) -> set:
+    """Which gender(s) of student `text` is about. Empty when it says nothing."""
+    low = text.lower()
+    return {tag for tag, pattern in _GENDERS.items() if re.search(pattern, low)}
+
+
 def contradicts(question: str, text: str) -> bool:
-    """True when `text` is clearly about other programmes or other academic
-    years than the question asks about.
+    """True when `text` is clearly about other programmes, academic years or
+    genders of student than the question asks about.
 
     Only a text that states the attribute at all can contradict: a general fee
     page naming no programme stays eligible, which matters because many correct
     answers come from pages that never spell one out.
     """
-    for reader in (programmes, years):
+    for reader in (programmes, years, genders):
         asked = reader(question)
         if not asked:
             continue

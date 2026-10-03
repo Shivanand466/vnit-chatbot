@@ -70,7 +70,18 @@ These were checked against the real sources and answered correctly in testing:
 
 Tip: ask one clear question at a time and mention the programme and year (e.g. "first year B.Tech", "Winter 2026"). The chatbot uses that to pick between near-identical documents, such as the 19 hostel fee sheets.
 
-Also show one question it **can't** answer (for example: *"What is the hostel wifi password?"*). It says the information isn't in its sources instead of making something up. That's the most important feature: examiners like seeing that it doesn't hallucinate.
+Also show one question it **can't** answer (for example: *"What is the hostel wifi password?"*, or *"What was the hostel fee in 2015-16?"*). It says the information isn't in its sources instead of making something up. That's the most important feature: examiners like seeing that it doesn't hallucinate.
+
+**Show a follow-up too.** Ask *"What is the hostel fee for first year B.Tech boys for the Winter 2026 session?"*, then just *"and for girls?"*. The answer changes to ₹32,650, and a line above it says "Understood as: What is the hostel fee for first year B.Tech girls…" — so the examiner can see the chatbot's own interpretation rather than taking it on trust.
+
+**The 👍/👎 buttons** under each answer save the rating to `data/feedback/feedback.jsonl`. If you let classmates use the chatbot for a few days before your demo, that file becomes real evidence for your report. To see the numbers:
+
+```
+cd pipeline
+python feedback_summary.py
+```
+
+It prints how many ratings there are, how many were helpful, and lists the questions people marked **not** helpful — read those before the demo, since they tell you which questions to avoid or fix.
 
 ---
 

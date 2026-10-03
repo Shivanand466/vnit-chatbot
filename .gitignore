@@ -11,6 +11,10 @@ data/processed/chunks.jsonl
 # document it died on; meaningless once the run ends
 data/documents/in_progress.txt
 
+# Real students' questions and ratings, collected by POST /feedback. Their
+# data, not the project's source: summarise it in the report, don't publish it.
+data/feedback/
+
 # Never commit keys (they live outside the project, but just in case)
 *key*.txt
 *secret*.txt

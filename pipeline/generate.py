@@ -36,7 +36,12 @@ import re
 # ~150-word chunks are already ~800-900 chars; this only bites on outliers
 # that slip through despite the chunk.py fix.
 MAX_CHUNK_CHARS = 1000
-MAX_CONTEXT_CHARS = 6000
+# Raised 6000 -> 7000 on 2026-10-03, with the passages per sub-question raised
+# to 7: at 6000 the 7th passage lost the budget race, which is exactly where
+# the girls' hostel fee sheet had landed, so the question was answered from the
+# international students' sheet instead. 7000 chars is roughly 1,800 tokens,
+# still well inside Groq's free-tier per-minute allowance for one question.
+MAX_CONTEXT_CHARS = 7000
 
 
 def _is_document(url: str) -> bool:
@@ -138,11 +143,15 @@ def llm_answer(report: dict, api_key: str = None, base_url: str = None, model: s
             break
 
     for sq in report["sub_questions"]:
-        # Up to 5 per sub-question (MAX_CONTEXT_CHARS still caps the total).
+        # Up to 7 per sub-question (MAX_CONTEXT_CHARS still caps the total).
         # With 3, a first-year calendar question got the right document but not
         # the "Commencement of Classes" line (4th-ranked chunk), and the LLM
         # answered from "Commencement of Next Session" instead -- a wrong answer.
-        for r in sq["results"][:5]:
+        # Raised 5 -> 7 on 2026-10-03: pooling both phrasings of a question
+        # (query._interleave) makes retrieval steadier but spreads the
+        # answer-bearing chunks a little wider -- measured across six questions,
+        # every one of them lands within the top 7.
+        for r in sq["results"][:7]:
             if not _add_chunk(r):
                 break
 
@@ -161,14 +170,30 @@ def llm_answer(report: dict, api_key: str = None, base_url: str = None, model: s
 
     try:
         import requests
-        resp = requests.post(
-            f"{base_url}/chat/completions",
-            headers={"Authorization": f"Bearer {api_key}"},
-            json={"model": model, "messages": [{"role": "user", "content": prompt}]},
-            timeout=30,
-        )
-        resp.raise_for_status()
-        text = resp.json()["choices"][0]["message"]["content"]
+
+        def ask_model(extra=None):
+            """Return the model's answer text, or "" if it produced none."""
+            payload = {"model": model, "messages": [{"role": "user", "content": prompt}]}
+            payload.update(extra or {})
+            resp = requests.post(
+                f"{base_url}/chat/completions",
+                headers={"Authorization": f"Bearer {api_key}"},
+                json=payload,
+                timeout=30,
+            )
+            resp.raise_for_status()
+            return (resp.json()["choices"][0]["message"].get("content") or "").strip()
+
+        text = ask_model()
+        # gpt-oss-20b is a reasoning model: it can spend its whole token budget
+        # on the reasoning channel and return empty content, which used to be
+        # handed to the user as a blank answer (seen live on a follow-up
+        # question). Retrying with less reasoning gets a real answer, and if
+        # even that is empty the extractive fallback below takes over.
+        if not text:
+            text = ask_model({"reasoning_effort": "low"})
+        if not text:
+            raise ValueError("model returned an empty answer")
         # UPDATE (2026-09-21, see REPORT3.md): sources used to be rebuilt from
         # sq["results"][0] (top-1 per sub-question) regardless of what was
         # actually sent to the LLM -- so it could name a page the model never

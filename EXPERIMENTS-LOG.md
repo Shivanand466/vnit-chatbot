@@ -151,6 +151,74 @@ Worth noting honestly: end-to-end answers held at 17/18 and page-level rose, whi
 
 Also re-ran during this round: the personal-data filter over all 406 converted documents, with nothing flagged. That check matters because a run killed between writing a document's text and saving `status.json` leaves a text file whose result was never recorded (14 such files); the filter runs before the write, so they were already screened, and this confirmed it.
 
+## 18. A bigger test set, and what it found (2026-10-03)
+
+The 18-question check was written alongside the features it tested, so it mostly asked things already known to work. It was expanded to **39 cases**: 34 factual questions, 5 that must be declined, and 2 two-turn conversations. Every fact was read out of its source document by hand first, and the document is named in a comment beside each case so it can be re-checked later.
+
+First run: **29/39**. Four of the ten failures turned out to be genuine bugs, two were faults in the test harness itself, and the rest are the documented weak spots. That is the point of a wider test set: the questions nobody thought to ask are where the bugs are.
+
+### 18a. The question mark (the real find)
+
+`agent.decompose` stripped the trailing "?" from every question before retrieval — harmless-looking, and wrong. The cross-encoder was trained on queries that look like questions, and it ranks differently without one. Measured on "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?":
+
+| query | rank of the correct fee sheet |
+|---|---|
+| with "?" | **1** (and the chunk holding "Rs. 32650") |
+| without "?" | not in the top 5 — the international and M.Tech sheets won |
+
+So the chatbot answered ₹73,000 (the international students' fee) to a question about domestic girls. `decompose` now keeps the question mark, and adds one to each part when it splits a compound question.
+
+Why it went unnoticed for so long: `fact_ranks.py` calls `retrieve_for_subquestion` with its own question strings, and `evaluate.py` calls `query.retrieve` directly. **Neither ever ran `decompose`**, so both measured a slightly better retrieval path than the chatbot actually used. A benchmark that bypasses a production step cannot see bugs in it.
+
+### 18b. Gender as a third contradiction axis
+
+The hostel fee sheets come one per gender and are otherwise near-identical, so the cross-encoder could not separate them: the girls' sheet was the 3rd-ranked candidate going into reranking and still lost to the boys' and M.Tech sheets. `programme_terms.genders()` now joins programme and year as a filter axis (a document naming both genders, like "INTERNATIONAL BOYS & GIRLS", still matches either question). Benchmarks unchanged at 17/19 and 14/18; the girls' question went from wrong to rank 1.
+
+### 18c. Empty answers from a reasoning model
+
+gpt-oss-20b returns its reasoning on a separate channel. When the token budget runs out there, `content` comes back empty — and that empty string was handed to the user as a blank answer, seen live on a follow-up question. `generate.py` now retries once with `reasoning_effort: "low"` and falls back to extractive if that is empty too. The same parameter is what makes the follow-up rewrite work at all: with it the rewrite used 117 completion tokens, without it 400 tokens produced nothing but reasoning.
+
+### 18d. Two faults in the test harness, not the chatbot
+
+- The anti-ragging answer "1800-180-5522" was marked wrong because the LLM wrote it with non-breaking hyphens (U+2011) that the pattern's plain `-` could not match. Answers are now normalised to ASCII punctuation before matching. A test that fails a correct answer is worse than no test: it hides the real failures in the noise.
+- Two fee questions asked for the "OPEN category" rate. OCR had mangled the sentence that introduces the second table in those PDFs ("Folr t orf VNIT, Nagpur."), so the document no longer states in readable text which category the figure belongs to. The questions now ask for the fee without the category, because the chatbot was being asked for a label its source had lost.
+
+### 18e. What stayed failing, honestly
+
+The placements figures (§16), the IDFC poster deadline (two-column layout, and it varies between runs), the end-semester range (a newly converted per-slot exam schedule gives 07/12/2026 for slot A, and the chatbot now quotes that single date instead of the 7–15 Dec span), the summer-term per-course fee (₹3,000 in a notice, out-ranked by semester fee estimates) and slot-A mid-sem (the eight slot rows land in different chunks, so a question about one slot may retrieve another). All five are retrieval or layout problems with the diagnosis recorded, not guesses.
+
+**All five "must decline" questions passed**, including the one designed as a trap: asking for the 2015-16 hostel fee, which the data has no figure for, did not get the 2026-27 number.
+
+## 19. Pooling both phrasings, and a benchmark that runs the real path
+
+Experiment 18a found that the cross-encoder ranks a question differently with and without its "?". Keeping the mark fixed some questions and broke others, measured on six questions by the rank of the answer-bearing passage:
+
+| question | with "?" | without "?" | pooled (adopted) |
+|---|---|---|---|
+| girls' hostel fee | 1 | 7 | within top 7 |
+| classes start (first year) | not in top 10 | 4 | 4 |
+| re-examination dates | 7 | 1 | 1 |
+| Electrical M.Tech specialisations | 2 | 1 | 2 |
+| boys' hostel fee | 1 | 1 | 1 |
+| end-semester exams | 2 | 2 | 2 |
+
+Neither phrasing wins everywhere, so `query.retrieve` now embeds both, fuses each with its own keyword ranking, and interleaves the two candidate lists before one reranking pass. The pool stays the same size, so there is no extra cross-encoder cost — only a second (cheap) embedding and TF-IDF pass. The chatbot is now insensitive to punctuation it should never have cared about.
+
+**`chunk_ranks.py` (new)** exists because of how 18a was missed: `evaluate.py` and `fact_ranks.py` both bypass `agent.answer`, the function the API calls. The new benchmark asks all 32 answerable `check_answers.py` questions through `agent.answer` and reports how far down the answer-bearing passage sits — no API key, no cost, so it is also the tool that still works when the LLM's free quota is spent. It smooths out the "19 th Aug" spacing that scanned PDFs produce, which otherwise reports a found passage as a miss.
+
+Tuning the per-source pool cap against it (the final results were coming back with 5 of 7 passages from one M.Tech hostel notice):
+
+| cap | passage in top 7 | passage in top 3 | `fact_ranks` | `evaluate` |
+|---|---|---|---|---|
+| 3 | 28/32 | 26/32 | — | — |
+| **4** | **29/32** | **26/32** | **15/18** | 16/19 |
+| 5 | 29/32 | 25/32 | — | — |
+| 6 | 29/32 | 24/32 | 14/18 | 17/19 |
+
+4 is adopted: it wins on the benchmark that runs the real path and on `fact_ranks`, and costs one question on `evaluate`'s page-level measure. Passages per sub-question were also raised 5 → 7 with the context budget 6,000 → 7,000 chars, because pooling spreads the answer-bearing passage a little wider and at 5 the girls' fee sheet lost the budget race.
+
+**A warning about free-tier limits as a measurement hazard:** sending 7 passages instead of 5, plus a rewrite call per conversation turn, pushed the suite over Groq's per-minute token allowance part-way through a run. Every question after that point fell back to extractive and scored as a failure — 31/39 became 21/39, then 0/39, which reads as a collapse in quality and is nothing of the sort. `check_answers.py` now prints a warning naming the affected questions and the reason, and paces at 30s. Any measurement run on a free tier should be read with that in mind.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

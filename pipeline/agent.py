@@ -59,9 +59,21 @@ def _extract_topic(text: str) -> str:
 def decompose(question: str):
     """Split a compound question into sub-questions when it plausibly has more
     than one distinct ask. Falls back to the whole question if splitting
-    doesn't produce two sensible parts."""
-    question = question.strip().rstrip("?")
-    parts = [p.strip() for p in SPLIT_PATTERN.split(question) if p.strip()]
+    doesn't produce two sensible parts.
+
+    The question mark is kept. It used to be stripped here, which quietly cost
+    real answers: the cross-encoder was trained on queries that look like
+    questions, and dropping the "?" changed its ranking enough that the correct
+    document fell out of the results altogether (measured 2026-10-03 on "What
+    is the hostel fee for first year B.Tech girls for the Winter 2026 session?"
+    -- rank 1 with the "?", absent from the top 5 without it). fact_ranks.py
+    did not catch this because it calls retrieve_for_subquestion directly with
+    its own question text, bypassing this function.
+    """
+    question = question.strip()
+    had_mark = question.endswith("?")
+    body = question.rstrip("?").strip()
+    parts = [p.strip() for p in SPLIT_PATTERN.split(body) if p.strip()]
     if len(parts) < 2:
         return [question]
 
@@ -83,7 +95,9 @@ def decompose(question: str):
             part = PRONOUN_PATTERN.sub(lambda m: topic, part, count=1)
         resolved.append(part)
         topic = _extract_topic(part)
-    return resolved
+    # Each part is searched for on its own, so each gets the question mark the
+    # original had (see the note above on why it matters).
+    return [f"{p}?" if had_mark else p for p in resolved]
 
 
 def _shared_vocab_ratio(text_a: str, text_b: str) -> float:
@@ -115,7 +129,7 @@ def retrieve_for_subquestion(sub_question: str, k: int = 3):
     return results, conflict_flag
 
 
-def answer(question: str, k: int = 5):
+def answer(question: str, k: int = 7):
     sub_questions = decompose(question)
     report = {"question": question, "sub_questions": []}
     for sq in sub_questions:

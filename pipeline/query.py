@@ -76,7 +76,7 @@ def _fuse(embedding_scores, keyword_scores):
 RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 RERANK_POOL = 60
 # Most chunks one source may contribute to that pool (see _candidates).
-MAX_POOL_PER_SOURCE = 6
+MAX_POOL_PER_SOURCE = 4
 _reranker = {"model": None, "failed": False}
 
 
@@ -98,6 +98,27 @@ def _rerank(question, chunks, candidate_ids):
     return [candidate_ids[j] for j in sorted(range(len(candidate_ids)), key=lambda j: -scores[j])]
 
 
+def _interleave(*orders):
+    """Merge several rankings by taking turns, keeping each one's best first.
+
+    Used to pool the candidates of two phrasings of the same question (with
+    and without its question mark). Measured 2026-10-03: the cross-encoder is
+    sensitive to the "?" and neither phrasing wins everywhere -- with it, the
+    girls' hostel fee sheet ranks 1st instead of 7th; without it, the
+    "Commencement of Classes" chunk ranks 4th instead of outside the top 10.
+    Pooling both and reranking once costs one extra (cheap) embedding and
+    keyword pass, and no extra cross-encoder work, since the pool stays the
+    same size.
+    """
+    merged, seen = [], set()
+    for row in zip(*orders):
+        for idx in row:
+            if idx not in seen:
+                seen.add(idx)
+                merged.append(idx)
+    return merged
+
+
 def _candidates(question, chunks, fused_order):
     """The RERANK_POOL candidates to rerank, skipping chunks whose degree
     programme or academic year contradicts the question's (see
@@ -107,9 +128,9 @@ def _candidates(question, chunks, fused_order):
     the reranker gets as many real candidates as before. If too few survive,
     the skipped ones come back rather than shrinking the pool.
     """
-    from programme_terms import contradicts, programmes, years
+    from programme_terms import contradicts, genders, programmes, years
 
-    filtering = bool(programmes(question) or years(question))
+    filtering = bool(programmes(question) or years(question) or genders(question))
     kept, skipped, per_source = [], [], {}
     for idx in fused_order[:RERANK_POOL * 8]:
         text = f"{chunks[idx]['title']}. {chunks[idx]['text']}"
@@ -139,11 +160,25 @@ def retrieve(question: str, k: int = 3):
 
     if index_type == "embeddings":
         model = _get_embedding_model(data["model_name"])
-        q_vec = model.encode([question], normalize_embeddings=True)
-        sims = cosine_similarity(q_vec, data["embeddings"])[0]
+        # Both phrasings of the question, with and without its question mark
+        # (see _interleave): the models rank them differently and neither is
+        # reliably better, so candidates are pooled from both.
+        variants = [question]
+        stripped = question.rstrip("?").strip()
+        if stripped and stripped != question:
+            variants.append(stripped)
+
+        encoded = model.encode(variants, normalize_embeddings=True)
+        all_sims = [cosine_similarity(encoded[i:i + 1], data["embeddings"])[0]
+                    for i in range(len(variants))]
+        sims = all_sims[0]  # scores reported to callers come from the question as asked
         if "tfidf_matrix" in data:
-            keyword = cosine_similarity(data["tfidf_vectorizer"].transform([question]), data["tfidf_matrix"])[0]
-            pool = _candidates(question, chunks, _fuse(sims, keyword))
+            orders = []
+            for variant, variant_sims in zip(variants, all_sims):
+                keyword = cosine_similarity(
+                    data["tfidf_vectorizer"].transform([variant]), data["tfidf_matrix"])[0]
+                orders.append(list(_fuse(variant_sims, keyword)))
+            pool = _candidates(question, chunks, _interleave(*orders))
             ranked = _rerank(question, chunks, pool)[:k]
         else:
             ranked = sims.argsort()[::-1][:k]
@@ -175,7 +210,7 @@ def main():
     results = retrieve(args.question, args.k)
     print(f"\nQ: {args.question}\n")
     for r in results:
-        print(f"[score {r['score']:.3f}] {r['title']} â€” {r['source_url']}")
+        print(f"[score {r['score']:.3f}] {r['title']} Ã¢â‚¬â€ {r['source_url']}")
         print(f"  {r['text'][:300]}{'...' if len(r['text']) > 300 else ''}\n")
 
 

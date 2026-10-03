@@ -24,6 +24,13 @@
   .sources { font-size: 0.8rem; margin-top: 0.5rem; color: #555; }
   .sources a { color: #2563eb; }
   .mode { font-size: 0.72rem; color: #999; margin-top: 0.25rem; }
+  .understood { font-size: 0.78rem; color: #666; font-style: italic; margin-bottom: 0.4rem; }
+  .rate { margin-top: 0.4rem; display: flex; gap: 0.35rem; align-items: center; font-size: 0.78rem; color: #777; }
+  .rate button {
+    background: none; border: 1px solid #ccc; color: inherit;
+    font-size: 0.85rem; padding: 0.1rem 0.45rem; border-radius: 6px; line-height: 1.4;
+  }
+  .rate button:hover:not(:disabled) { border-color: #2563eb; color: #2563eb; }
   form { display: flex; gap: 0.5rem; }
   input[type=text] { flex: 1; padding: 0.6rem; font-size: 1rem; border-radius: 8px; border: 1px solid #ccc; }
   button { padding: 0.6rem 1rem; border-radius: 8px; border: none; background: #2563eb; color: white; font-size: 1rem; cursor: pointer; }
@@ -32,12 +39,13 @@
     body { background: #16171a; color: #eee; }
     .bot { background: #23252b; border-color: #333; }
     input[type=text] { background: #23252b; color: #eee; border-color: #333; }
+    .rate button { border-color: #3a3d45; }
   }
 </style>
 </head>
 <body>
   <h1>VNIT Chatbot</h1>
-  <p id="intro">Ask about admissions, fees, hostels, scholarships, notices, calendars, placements or departments. Answers come only from VNIT's website and documents, with sources.</p>
+  <p id="intro">Ask about admissions, fees, hostels, scholarships, notices, calendars, placements or departments. Answers come only from VNIT's website and documents, with sources. Follow-up questions work too — ask "what is the hostel fee for first year B.Tech boys?", then just "and for girls?".</p>
   <div id="api-url-row">
     API: <input id="api-url" value="http://localhost:8000/ask">
     (the chatbot server's address; set automatically)
@@ -54,6 +62,8 @@ const form = document.getElementById('form');
 const input = document.getElementById('question');
 const sendBtn = document.getElementById('send');
 const apiUrlInput = document.getElementById('api-url');
+// Questions asked in this conversation, so a follow-up can be understood.
+const asked = [];
 // Served by the chatbot server (locally or deployed): use that same server.
 // Opened directly as a file: fall back to the local server.
 if (location.protocol.startsWith('http')) apiUrlInput.value = location.origin + '/ask';
@@ -77,8 +87,37 @@ function formatAnswer(text) {
   return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
 }
 
+// Send a rating for one answer. The buttons disable themselves afterwards so
+// one answer is rated once, and a failure says so rather than looking saved.
+async function sendRating(data, rating, row, status) {
+  row.querySelectorAll('button').forEach(b => b.disabled = true);
+  try {
+    const resp = await fetch(apiUrlInput.value.replace(/\/ask$/, '/feedback'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        question: data.understood_as || data.question,
+        answer: data.answer,
+        mode: data.mode,
+        rating,
+      }),
+    });
+    status.textContent = resp.ok ? 'Thanks!' : 'Could not save that.';
+  } catch (_) {
+    status.textContent = 'Could not save that.';
+  }
+}
+
 function addBotResponse(data) {
   const div = addMessage('', 'bot');
+  // A follow-up question was rewritten to stand on its own: show the guess, so
+  // an answer to a different question than intended is obvious.
+  if (data.understood_as) {
+    const note = document.createElement('div');
+    note.className = 'understood';
+    note.textContent = 'Understood as: ' + data.understood_as;
+    div.appendChild(note);
+  }
   const body = document.createElement('div');
   body.innerHTML = formatAnswer(data.answer);
   div.appendChild(body);
@@ -102,6 +141,21 @@ function addBotResponse(data) {
   mode.className = 'mode';
   mode.textContent = 'mode: ' + data.mode;
   div.appendChild(mode);
+
+  const rate = document.createElement('div');
+  rate.className = 'rate';
+  rate.append('Was this helpful?');
+  const status = document.createElement('span');
+  [['\u{1F44D}', 'up'], ['\u{1F44E}', 'down']].forEach(([label, rating]) => {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = label;
+    b.title = rating === 'up' ? 'Helpful' : 'Not helpful';
+    b.addEventListener('click', () => sendRating(data, rating, rate, status));
+    rate.appendChild(b);
+  });
+  rate.appendChild(status);
+  div.appendChild(rate);
 }
 
 form.addEventListener('submit', async (e) => {
@@ -116,7 +170,9 @@ form.addEventListener('submit', async (e) => {
     const resp = await fetch(apiUrlInput.value, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ question }),
+      // The earlier questions let the server make sense of a follow-up like
+      // "and for girls?". Only the questions are sent, never the answers.
+      body: JSON.stringify({ question, history: asked.slice(-3) }),
     });
     if (!resp.ok) {
       let detail = 'HTTP ' + resp.status;
@@ -127,6 +183,10 @@ form.addEventListener('submit', async (e) => {
     const data = await resp.json();
     thinking.remove();
     addBotResponse(data);
+    // Remember what was asked, so the next question can be a follow-up. The
+    // rewritten form is remembered when there was one, so a chain of
+    // follow-ups ("and for girls?" then "and the deadline?") keeps its subject.
+    asked.push(data.understood_as || question);
   } catch (err) {
     thinking.textContent = 'Could not reach the chatbot server (' + err.message + '). Is it running?';
   } finally {

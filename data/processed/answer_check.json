@@ -2,26 +2,27 @@
  {
   "name": "civil_intake",
   "question": "How many undergraduate students does Civil Engineering enroll annually?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "\\b120\\b"
+  ],
   "forbidden": [],
-  "answer": "The Civil Engineering Department at VNIT Nagpur has an intake of **120 undergraduate students per year**【Civil Engineering Department, VNIT Nagpur】. The most recent brochure (dated 2025‑08‑01) confirms the same figure【Civil_Brochure_2025-26】.",
+  "answer": "On \"How many undergraduate students does Civil Engineering enroll annually?\" — Civil Engineering Department, VNIT Nagpur says: The institute was established in June 1960 and later named in honour of the eminent engineer, planner and statesman, Sir M. Visvesvaraya.",
   "sources": [
-   "https://vnit.ac.in/engineering/civil/",
-   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Civil-Engg-_Brochure_2025-26.pdf",
-   "https://drive.google.com/file/d/11DSk-hK2jGK2-xssBjsNoOpW28Kuk3EK/view"
+   "https://vnit.ac.in/engineering/civil/"
   ]
  },
  {
   "name": "5g_announced",
   "question": "Tell me about the 5G lab and when was it announced",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
   "missing": [],
   "forbidden": [],
-  "answer": "**5G Lab at Visvesvaraya National Institute of Technology (VNIT) Nagpur**\n\n*Announcement*  \n- The 5G Lab was announced during a virtual ceremony hosted by Prime Minister Narendra Modi at the Indian Mobile Congress (IMC‑23) in New Delhi on **27 October 2023** (5G Lab VNIT Nagpur).  \n\n*Purpose & Vision*  \n- The lab is part of the Department of Telecommunications’ “100 5G labs” initiative, intended to accelerate research and development of next‑generation wireless technologies in academic and industry settings, especially in central India (5G Lab VNIT Nagpur).  \n- It aims to build competencies and engagement in 5G technologies for students and startup communities, and to foster academia‑industry collaboration for ideating and developing 5G use cases (5G Lab VNIT Nagpur).  \n\n*Key Facilities*  \n- Core components include a 5G core network, 5G radio, IP Multimedia Subsystem (IMS), Multi‑Access Edge Computing (MEC) server, and application server (5G Lab VNIT Nagpur).  \n- The lab supports IoT application testing (smart agriculture, industrial automation), edge‑computing use cases (autonomous drones, robotics), AR/VR/MR development, smart surveillance, device testing, and drone operations (5G Lab VNIT Nagpur).  \n\n*Opportunities*  \n- **Students:** internships, project‑based learning, hands‑on experience with 5G network setup, testing, and troubleshooting (5G Lab VNIT Nagpur).  \n- **Faculty & Industry Professionals:** training and skill‑enhancement workshops, seminars on emerging technologies, practical training on 5G deployment and management (5G Lab VNIT Nagpur).  \n\nThe information above is drawn entirely from the passages titled “5G Lab VNIT Nagpur.”",
+  "answer": "On \"Tell me about the 5G lab\" — 5G Lab VNIT Nagpur says: vital role in encouraging academia-industry engagement to ideate and develop 5G use cases. It will also provide local access to 5G test setup for Startups and MSMEs in the region.\n\nOn \"when was the 5G lab announced\" — 5G Lab VNIT Nagpur says: labs’ initiative. The announcement was made during a virtual ceremony hosted by the Prime Minister Narendra Modi at the Indian Mobile Congress (IMC-23) at New Delhi on October 27, 2023.",
   "sources": [
+   "https://vnit.ac.in/5g-lab-vnit-nagpur",
    "https://vnit.ac.in/5g-lab-vnit-nagpur"
   ]
  },
@@ -29,121 +30,108 @@
   "name": "placements",
   "question": "How many students got placed in 2025-26 and how many companies came?",
   "pass": false,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
   "missing": [
    "678",
    "170"
   ],
   "forbidden": [],
-  "answer": "**Students placed in 2025‑26**\n\nThe provided passages do not include any figure for the number of students who were placed during the 2025‑26 academic year. (No “Seat Offered” or “Students Placed” entry appears in the “Placement and Internship Report 2025‑26” excerpt.)  \n*Source: Placement and Internship Report 2025‑26 (dated 2026‑03‑24).*\n\n---\n\n**Companies that participated in 2025‑26**\n\nThe report lists the following companies. Counting the distinct names (treating each differently spelled entry as a separate entity) gives **39 companies**:\n\n1. DE Shaw India Pvt Ltd  \n2. Defence Research and Development Organisation  \n3. Deloitte  \n4. Delta Electronics India Pvt Ltd  \n5. Dream Forge  \n6. Equilibrium Solutions Private Limited  \n7. Futures First  \n8. Goldman Sachs  \n9. Google Hewto  \n10. Hilti  \n11. IBM  \n12. ITC  \n13. Jade Global John Deere  \n14. Johndeere RCFL Chembur/Mumbai  \n15. Kirloskar Pneumatic Company Limited  \n16. Lossfunk  \n17. Makxenia Engineering Resource Pvt Ltd.  \n18. Microsoft Research  \n19. MOIL  \n20. Morgan Stanley  \n21. Mysivi  \n22. Natwest Group  \n23. NHAI  \n24. NXP Semiconductors  \n25. Pineapple Technologies  \n26. Power Tech Engineering  \n27. RedString  \n28. Sarvaksh  \n29. Siemens Energy  \n30. Tata Consumer Product  \n31. Tekisky  \n32. UBS  \n33. Unique Automation Pvt Ltd.  \n34. VISA  \n35. Vistora AI  \n36. WCL  \n37. Wells Fargo Pvt Ltd.  \n38. Welzin AI  \n39. Zomato Artpark IISc  \n\n*Source: Placement and Internship Report 2025‑26 (dated 2026‑03‑24).*",
+  "answer": "On \"How many students got placed in 2025-26?\" — List of Faculty Advisor for PG Students admitted in 2025-26 says: {-} :f < 3, f OJ p 5; (n: ol & : x' q, {s a. 5 ) :-\" p 3'; 5: C o- .$: c) .' a a.\n\nOn \"how many companies came?\" — Placement and Internship Report 2022-2023 says: Seat Offered: 51 Average Stipend (INR Thousands per Month): 48.5 List of companies: List of companies: D.E. Shaw India Pvt.Ltd.",
   "sources": [
    "https://drive.google.com/file/d/1y0-zl67_-zP6xcLUrWasGyCnQx-W-xwn/view",
-   "https://drive.google.com/file/d/1kejECNfQyOyYpOQD6hr560WA5Q_BExJc/view",
-   "https://drive.google.com/file/d/16ur4iXJBJSAWXGVkhFTzh1xqTUaxXPZ-/view",
-   "https://drive.google.com/file/d/1wI4ykcHPLwNmS9P460XzW9YI0nABEgFI/view",
    "https://drive.google.com/file/d/19LLe8J2Db1wbe_1HLAeMP1HLDxBmKC7V/view"
   ]
  },
  {
   "name": "chemical_spec",
   "question": "What two specializations does Chemical Engineering offer?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
   "missing": [],
   "forbidden": [],
-  "answer": "The Chemical Engineering department at VNIT Nagpur lists **two specializations** under its program:  \n1. **Chemical Engineering**  \n2. **Chemical Technology**  \n\n*Source: VNIT Nagpur Chemical Engineering Department – “Specialization Chemical Engineering Chemical Technology”*",
+  "answer": "On \"What two specializations does Chemical Engineering offer?\" — VNIT Nagpur Chemical Engineering Department says: Specialization Chemical Engineering Chemical Technology PO's / PEO's PEO's PO's Newsletters NEWS Department council IIChE CLUB About Department ”Chemical engineers combine mathematics, chemistry, physics, biology, and economics to tackle challenging fundamental and large-scale industrial problems by developing...\n\n(Note: Top two matches come from different pages (VNIT Nagpur Chemical Engineering Department vs Department of Chemistry, VNIT) with little shared content -- verify both before trusting one over the other.)",
   "sources": [
-   "https://vnit.ac.in/engineering/chemical/",
-   "https://drive.google.com/file/d/1HXDHg5kBE50ibQSKtluTaGg3E0keInm0/view",
-   "https://vnit.ac.in/basic_science/chemistry",
-   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view",
-   "https://drive.google.com/file/d/1kSucJ195BCA68fMs0Z3RiwyM0Z6l7M-k/view"
+   "https://vnit.ac.in/engineering/chemical/"
   ]
  },
  {
   "name": "electrical_mtech",
   "question": "What specializations does the Electrical Engineering M.Tech offer?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "Integrated Power"
+  ],
   "forbidden": [],
-  "answer": "The Electrical Engineering department’s M.Tech programme is structured around two core specialisations:\n\n1. **Integrated Power System (IPS)**  \n2. **Power Electronics and Drives (PED)**  \n\nThese are highlighted in the department’s overview of the M.Tech curriculum, which states that the programme spans two years and includes core courses, electives and a research project in the final year under faculty supervision.  \n\nSource: *Electrical Engineering VNIT Nagpur* (accessed 2026‑05‑08)【Electrical Engineering  VNIT Nagpur MH】",
+  "answer": "On \"What specializations does the Electrical Engineering M.Tech offer?\" — Information Brochure  Ph.D (FT & PT)_Admission July 2026 (Cycle-2) says: Electrical Engineering. B) M.E/M.Tech in Electrical Engineering or Allied Specializations Such as Power Electronics, Control systems, Power Systems, Power Electronics & Drives, Electrical Machines, Instrumentation, Condition Monitoring, Bio-medical Instrumentation & Candidates whose result is awaited, can also apply...\n\n(Note: Top two matches come from different pages (Information Brochure  Ph.D (FT & PT)_Admission July 2026 (Cycle-2) vs Electrical Engineering  VNIT Nagpur MH) with little shared content -- verify both before trusting one over the other.)",
   "sources": [
-   "https://vnit.ac.in/engineering/electrical/",
-   "https://drive.google.com/file/d/1PQ4lpLnGvbRnaNrpx-E0YocSxv4hfuUU/view",
-   "https://drive.google.com/file/d/1PYy-_CuhQrwDbik8iJ1UhEALMSkgbWeK/view",
-   "https://drive.google.com/file/d/1rNIoQRRMIVkyBs2m0OivVTgkTNYPwadl/view"
+   "https://drive.google.com/file/d/1PQ4lpLnGvbRnaNrpx-E0YocSxv4hfuUU/view"
   ]
  },
  {
   "name": "director",
   "question": "Who is the current Director of VNIT?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "Prem\\s*Lal\\s*Patel"
+  ],
   "forbidden": [],
-  "answer": "The current Director of Visvesvaraya National Institute of Technology (VNIT), Nagpur is **Prof. (Dr.) Prem Lal Patel**【News‑Letter‑Issue‑17 (2024‑08‑01)】. This is also confirmed by the latest Building Works Committee list, which names Dr. Prem Lal Patel as the Director of VNIT, Nagpur【Building Works Committee】.",
+  "answer": "On \"Who is the current Director of VNIT?\" — Director, VNIT, Nagpur says: Water Resources Society, and Institution of Civil Engineers, India. He has been instrumental in setting up a Centre of Excellence (CoE) on Water Resources & Flood Management in the SVNIT Surat through research grant from World Bank sponsored TEQIP- II.",
   "sources": [
-   "https://vnit.ac.in/director-vnit-nagpur/",
-   "https://vnit.ac.in/basic_science/chemistry/wp-content/uploads/2024/08/News-Letter-Issue-17.pdf",
-   "https://vnit.ac.in/building-works-committee"
+   "https://vnit.ac.in/director-vnit-nagpur/"
   ]
  },
  {
   "name": "dean_academic_email",
   "question": "What is the email of the Dean (Academic)?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "deanacd@vnit\\.ac\\.in"
+  ],
   "forbidden": [],
-  "answer": "The email address for the Dean (Academic) is **deanacd@vnit.ac.in**【Deans — https://vnit.ac.in/deans-2026】.",
+  "answer": "On \"What is the email of the Dean (Academic)?\" — Deans says: Dr. Ratnesh Kumar Dean (Planning & Development) Email: deanp_f@vnit.ac.in Dr.",
   "sources": [
-   "https://vnit.ac.in/deans-2026",
-   "https://drive.google.com/file/d/1ki-CGVc5eUAGj7sORvekAj0HLMJjt-E1/view",
-   "https://drive.google.com/file/d/1R03vLXDDqsEMJbdtVo2_pzMttLnHAPkn/view",
-   "https://drive.google.com/file/d/1MDCcrLQ4R_g5Qqn1modsw4g4_JtesVWm/view",
-   "https://drive.google.com/file/d/1119752dHWse-e4d6-Bz-P9pQ3jV-Flc6/view"
+   "https://vnit.ac.in/deans-2026"
   ]
  },
  {
   "name": "mech_established",
   "question": "When was the Mechanical Engineering department established?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
   "missing": [],
   "forbidden": [],
-  "answer": "The Mechanical Engineering department at VNIT Nagpur was established in **1960**【UG Course Book (2025 batch onwards) — 2026-08-01】.",
+  "answer": "On \"When was the Mechanical Engineering department established?\" — UG Course Book (2025 batch onwards) says: Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: First Semester — Page No.: 17 Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG...\n\n(Note: Top two matches come from different pages (UG Course Book (2025 batch onwards) vs VNIT Nagpur Mechanical Department) with little shared content -- verify both before trusting one over the other.)",
   "sources": [
-   "https://vnit.ac.in/engineering/mech/wp-content/uploads/2026/08/B.-Tech.-Mechanical-Engg.-Course-Book_updated-14-aug-2026.pdf",
-   "https://vnit.ac.in/engineering/mech/",
-   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Mechanical-Engg_Brochure_2025-26.pdf",
-   "https://vnit.ac.in/engineering/mech/wp-content/uploads/2025/07/M.-Tech.-PIE-course-book-Oct-2024-1.pdf"
+   "https://vnit.ac.in/engineering/mech/wp-content/uploads/2026/08/B.-Tech.-Mechanical-Engg.-Course-Book_updated-14-aug-2026.pdf"
   ]
  },
  {
   "name": "registrar",
   "question": "Who is the Registrar of VNIT Nagpur?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "Jagdale"
+  ],
   "forbidden": [],
-  "answer": "The current Registrar of Visvesvaraya National Institute of Technology, Nagpur is **Shri Sachin S. Jagdale**【Board of Governors — https://vnit.ac.in/bog-2026】, and this is confirmed again in the Senate members list for 2025‑2026【Senate Members — https://drive.google.com/file/d/1ki-CGVc5eUAGj7sORvekAj0HLMJjt-E1/view】.",
+  "answer": "On \"Who is the Registrar of VNIT Nagpur?\" — Registrar says: REGISTRAR: CMA S. S.\n\n(Note: Top two matches come from different pages (Registrar vs Contact Us) with little shared content -- verify both before trusting one over the other.)",
   "sources": [
-   "https://vnit.ac.in/registrar",
-   "https://vnit.ac.in/contact-us/",
-   "https://vnit.ac.in/bog-2026",
-   "https://drive.google.com/file/d/1ki-CGVc5eUAGj7sORvekAj0HLMJjt-E1/view",
-   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view"
+   "https://vnit.ac.in/registrar"
   ]
  },
  {
   "name": "btech_fee_open",
   "question": "What is the yearly tuition fee for B.Tech students in the OPEN category?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "1,?25,?000|125000|1\\.25 lakh"
+  ],
   "forbidden": [],
-  "answer": "The yearly tuition fee for B.Tech students admitted in the OPEN category is **₹125,000** per year.  \n*Source: “4 Year Fee Estimate for Bachelor of Technology” (dated 2024‑04‑16). This figure applies to students in the OPEN, OBC, and EWS categories.*",
+  "answer": "On \"What is the yearly tuition fee for B.Tech students in the OPEN category?\" — 4 Year Fee Estimate for Bachelor of Technology says: the students admitted in OPEN/ OBC/ EWS Category in B. Tech.",
   "sources": [
    "https://drive.google.com/file/d/1YwaPEqSM2OtnfmSd_N5W3ESgaIB_3Flv/view"
   ]
@@ -151,113 +139,397 @@
  {
   "name": "btech_fee_scst",
   "question": "What tuition fee do SC/ST B.Tech students pay?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "\\b0\\b|nil|waived|exempt|no tuition|free"
+  ],
   "forbidden": [],
-  "answer": "SC/ ST students admitted to the B.Tech program pay **no tuition fee** (NIL).  \n- *Common Fees_2026‑27* (dated 2026‑08‑07) lists the tuition fee for “B. Tech.SC, ST, PWD” as **NIL**【Common Fees_2026-27】.  \n- The 2024‑04‑16 “4 Year Fee Estimate for Bachelor of Technology” also shows a tuition fee of **0 ₹** for all four years for SC/ ST/ PwD students【4 Year Fee Estimate for Bachelor of Technology – 2024‑04‑16】.  \n\nThus, SC/ST B.Tech students pay **zero rupees in tuition**.",
+  "answer": "On \"What tuition fee do SC/ST B.Tech students pay?\" — 4 Year Fee Estimate for Bachelor of Technology says: the students admitted in SC/ ST/ PwD Category in B. Tech.",
   "sources": [
-   "https://drive.google.com/file/d/1YwaPEqSM2OtnfmSd_N5W3ESgaIB_3Flv/view",
-   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view"
+   "https://drive.google.com/file/d/1YwaPEqSM2OtnfmSd_N5W3ESgaIB_3Flv/view"
   ]
  },
  {
   "name": "kotak_scholarship",
   "question": "How much money does the Kotak Kanya Scholarship give per year?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
   "missing": [],
   "forbidden": [],
-  "answer": "The Kotak Kanya Scholarship provides **₹1.5 lakh per year** to each eligible scholar【Kotak Kanya Scholarship 2025-26 (dated 2025‑08‑19)】【Kotak Kanya Scholarship 2026‑27 (Girls Only) (Batch 2026) (dated 2026‑08‑12)】.",
+  "answer": "On \"How much money does the Kotak Kanya Scholarship give per year?\" — Kotak Kanya Scholarship 2025-26 says: Document: Kotak Kanya Scholarship 2025-26 (dated 2025-08-19) Scholarship of INR 1.5 lakh per year | Requesting support for the circulation of this message Dear Sir/Madam , Greetings of the day! We hope you received our previous communication regarding the Kotak Kanya Scholarship 2025-26.",
   "sources": [
-   "https://drive.google.com/file/d/1vmJZBMPEFm5wajEeMZoavZwD7xADMgAD/view",
-   "https://drive.google.com/file/d/14P3YHNVd8W66KLKxA16GR2PbsM-cou5M/view",
-   "https://drive.google.com/file/d/1HZZpKl8okZ0pSO8LY4SrUwnWIj3N4wjB/view"
+   "https://drive.google.com/file/d/1vmJZBMPEFm5wajEeMZoavZwD7xADMgAD/view"
   ]
  },
  {
   "name": "idfc_deadline",
   "question": "What is the last date to apply for the IDFC FIRST Bank Engineering Scholarship?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "20(th)?\\s+September,?\\s+2026|September\\s+20(th)?,?\\s+2026|20[./-]0?9[./-]2026"
+  ],
   "forbidden": [],
-  "answer": "The IDFC FIRST Bank Engineering Scholarship Programme (2026‑30) closes on **20 September 2026** — that is the last date to submit an application 【IDFC FIRST Bank Engineering Scholarship Programme (2026-30) – 2026‑09‑01】.  \n\nThe deadline applies to all first‑year B.Tech/B.E. students who are Indian citizens, enrolled in an eligible college, and meet the other eligibility criteria listed in the same document. If a later, more recent announcement were available, it would supersede this date, but none is present in the provided passages.",
+  "answer": "On \"What is the last date to apply for the IDFC FIRST Bank Engineering Scholarship?\" — IDFC FIRST Bank Engineering Scholarship Programme (2026-30) says: institution and encouraging them to apply. ELIGIBILITY Applicants must be Indian citizens.",
   "sources": [
-   "https://drive.google.com/file/d/1HvVnf3qj2isBR5G1IABsZGc_vpKadQVY/view",
-   "https://vnit.ac.in/section/academics/notice/",
-   "https://vnit.ac.in/section/academics/notice-new",
-   "https://drive.google.com/file/d/1Pv3qsxDnDcW5P6q25GopXaTIDe-4JLYj/view"
+   "https://drive.google.com/file/d/1HvVnf3qj2isBR5G1IABsZGc_vpKadQVY/view"
   ]
  },
  {
   "name": "hostel_fee_first_year",
   "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "32,?150"
+  ],
   "forbidden": [],
-  "answer": "**Hostel fee for first‑year B.Tech boys – Winter 2026 session**\n\n- Rs. 32,150/‑ (Session‑wise fee for Winter 2026)【HOSTEL FEES FOR FIRST YEAR BOYS ADMITTED IN YEAR 2026‑27】",
+  "answer": "On \"What is the hostel fee for first year B.Tech boys for the Winter 2026 session?\" — HOSTEL FEES FOR FIRST YEAR BOYS ADMITTED IN YEAR 2026-27 says: anyinadvertent error or otherwise. Session wise Hostel Fees payable for the Academic Year 2026-27 for Winter 2026 is Rs.\n\n(Note: Top two matches come from different pages (HOSTEL FEES FOR FIRST YEAR BOYS ADMITTED IN YEAR 2026-27 vs M.Tech/MSc 1st year Hostel admission – Reg) with little shared content -- verify both before trusting one over the other.)",
   "sources": [
-   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
-   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view",
-   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view"
+   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view"
   ]
  },
  {
   "name": "classes_start_fy",
   "question": "When do classes start for first year B.Tech students in Winter 2026?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "19(th)?\\s*(Aug|August)|(Aug|August)\\s*19"
+  ],
   "forbidden": [],
-  "answer": "Classes for first‑year B.Tech students begin on **19 August 2026**【ACADEMIC CALENDAR (Winter 2026) for First Year UG (B.Tech/B.Arch) – 2026‑08‑04】.",
+  "answer": "On \"When do classes start for first year B.Tech students in Winter 2026?\" — ACADEMIC CALENDAR (Winter 2026) for First Year UG (B.Tech/B.Arch) says: conducting classes of first year UG courses. | Commencement of Next Session: 4 th Jan 2027: Tuesday | 5 th Sep, 24 th Oct, 28 th Nov, 5 th Dec Following Saturdays are instruction days to be utilized for conducting classes of first year UG courses.",
   "sources": [
-   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view",
-   "http://vnit.ac.in/wp-content/uploads/2023/04/Final-Academic-Calendar-First-Year-B.Tech-Winter-2021-2022-09022021.pdf"
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view"
   ]
  },
  {
   "name": "endsem_fy",
   "question": "When are the end semester exams for first year B.Tech in Winter 2026?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "\\b7(th)?\\b.{0,25}\\b15(th)?\\b"
+  ],
   "forbidden": [],
-  "answer": "The end‑semester examinations for first‑year B.Tech in Winter 2026 are scheduled from **7 December to 15 December 2026**【ACADEMIC CALENDAR (Winter 2026) for First Year UG (B.Tech/B.Arch)】.",
+  "answer": "On \"When are the end semester exams for first year B.Tech in Winter 2026?\" — ACADEMIC CALENDAR (Winter 2026) for First Year UG (B.Tech/B.Arch) says: EXAMINATIONS.End Sem: 14 th Dec; EXAMINATIONS.Re Exam: 31 st Dec; Student Activities.: Freshers Oct 18 th 2026 Karwan +Aarohi Oct 30 th , 31 st & Nov 1 st 2026 EXAMINATIONS.Slot: H — EXAMINATIONS.Mid Sem: 10 th Oct; EXAMINATIONS.End Sem: 15 th Dec; EXAMINATIONS.Re Exam: 31 st Dec; Student Activities.: Freshers Oct 18...",
   "sources": [
-   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view",
-   "https://drive.google.com/file/d/1SdoXCmn7I6vc-BsjlGVjgTAI6R5rK1n7/view",
-   "http://vnit.ac.in/wp-content/uploads/2023/04/Final-Academic-Calendar-First-Year-B.Tech-Winter-2021-2022-09022021.pdf"
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view"
   ]
  },
  {
   "name": "unanswerable_1995",
   "question": "Who won the VNIT cricket match against IIT Bombay in 1995?",
-  "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [],
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "(do(es)? not|doesn't|don't|no (information|details|mention)|not (contain|mention|provide|cover|include|specif|state|available|list))"
+  ],
   "forbidden": [],
-  "answer": "I’m sorry, but the passages provided do not contain any information about a VNIT cricket match against IIT Bombay in 1995.",
+  "answer": "On \"Who won the VNIT cricket match against IIT Bombay in 1995?\" — VNIT Nagpur Mechanical Department says: on Nov. 25th.\n\n(Note: Top two matches come from different pages (VNIT Nagpur Mechanical Department vs Quizzing club) with little shared content -- verify both before trusting one over the other.)",
   "sources": [
-   "https://drive.google.com/file/d/1Ex6kyBDdkMwTGpuDmuNcpEjjiVCdioGZ/view",
-   "https://vnit.ac.in/engineering/mech/",
-   "https://drive.google.com/file/d/1ewG3zgeNRw16Ca84MB-6lJ6qhfQq7ta9/view",
-   "https://vnit.ac.in"
+   "https://vnit.ac.in/engineering/mech/"
   ]
  },
  {
   "name": "unanswerable_wifi",
   "question": "What is the hostel wifi password?",
-  "pass": true,
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "(do(es)? not|doesn't|don't|no (information|details|mention)|not (contain|mention|provide|cover|include|specif|state|available|list))"
+  ],
+  "forbidden": [],
+  "answer": "On \"What is the hostel wifi password?\" — Hostel Room Allocation Schedule (For UG Students) says: HostelManagement Module Hostel Payment Students Payment has been verified for this allocation cycle. The Fee verification status can be seen on the right side of the Window.",
+  "sources": [
+   "https://drive.google.com/file/d/1p43rYEc4pVkVVgw8MNeQ5FsCl-O0ThWc/view"
+  ]
+ },
+ {
+  "name": "hostel_fee_girls",
+  "question": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?",
+  "pass": false,
   "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "32,?650"
+  ],
+  "forbidden": [],
+  "answer": "The passages you provided do not contain a figure that specifically states the hostel fee for first‑year **B.Tech girls** for the Winter 2026 session.  \n\nThe closest relevant number is from the “HOSTEL FEES FOR FIRST YEAR INTERNATIONAL BOYS & GIRLS ADMITTED IN YEAR 2026‑27” document (dated 2026‑08‑10), which lists a Winter 2026 fee of Rs 73,000. However, that amount is for *international* boys and girls admitted in 2026‑27 and may not apply to domestic first‑year B.Tech girls.  \n\nNone of the other documents (the M.Tech/MSc 1st‑year hostel admission registration dated 2025‑08‑02 and the second‑year girls’ fee document dated 2026‑04‑10) provide a fee for first‑year B.Tech girls in the Winter 2026 session.",
+  "sources": [
+   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
+   "https://drive.google.com/file/d/1EpGRARkPLbJ3Z3K0SJtHJY0hd2kCrObd/view"
+  ]
+ },
+ {
+  "name": "cse_established",
+  "question": "When was the Computer Science and Engineering department established?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
   "missing": [],
   "forbidden": [],
-  "answer": "The provided passages do not contain any information about the hostel Wi‑Fi password.",
+  "answer": "On \"When was the Computer Science?\" — CSE_Brochure_2025-26 says: papers and filing enduring patents. To serve the local and the national community by creating awareness about IT related products and to impress upon then the importance of knowledge management The Department of Computer Science and Engineering, established in 1987, offers B.Tech., M.\n\n(Note: Top two matches come from different pages (CSE_Brochure_2025-26 vs Computer Science & Engineering) with little shared content -- verify both before trusting one over the other.)\n\nOn \"Engineering department established?\" — Civil Engineering Department, VNIT Nagpur says: The institute was established in June 1960 and later named in honour of the eminent engineer, planner and statesman, Sir M. Visvesvaraya.\n\n(Note: Top two matches come from different pages (Civil Engineering Department, VNIT Nagpur vs Department of Civil Engineering) with little shared content -- verify both before trusting one over the other.)",
   "sources": [
-   "https://drive.google.com/file/d/1p43rYEc4pVkVVgw8MNeQ5FsCl-O0ThWc/view",
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Computer-Science-Engg_Brochure_2025-26.pdf",
+   "https://vnit.ac.in/engineering/civil/"
+  ]
+ },
+ {
+  "name": "reexam_dates",
+  "question": "When is the re-examination held in Winter 2026?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "On \"When is the re-examination held in Winter 2026?\" — ACADEMIC CALENDAR (Winter 2026) for First Year UG (B.Tech/B.Arch) says: Re-examination: 28 th to 31 st Dec 2026 Last date for submission of Re-exam marks & grades : 4 th Jan 2027 Commencement of Next Session: 4 th Jan 2027 Following Saturdays are instruction days to be utilized for conducting classes of first year UG courses. On these Saturdays, the timetable to be followed is specified...",
+  "sources": [
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view"
+  ]
+ },
+ {
+  "name": "convocation",
+  "question": "When is the convocation in 2026?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "15(th)?\\s*(Sept?|September)|(Sept?|September)\\s*15"
+  ],
+  "forbidden": [],
+  "answer": "On \"When is the convocation in 2026?\" — 🎓 VNIT Nagpur | 24th Convocation 2026 says: 🎓 VNIT Nagpur | 24th Convocation 2026 vnit_web August 28, 2026 News & Events A Celebration of Achievement. A Journey Towards Excellence.\n\n(Note: Top two matches come from different pages (🎓 VNIT Nagpur | 24th Convocation 2026 vs Instructions to Degree Recipients for Attending 24th Convocation – 2026) with little shared content -- verify both before trusting one over the other.)",
+  "sources": [
+   "https://vnit.ac.in/%f0%9f%8e%93-vnit-nagpur-24th-convocation-2026"
+  ]
+ },
+ {
+  "name": "adddrop_deadline",
+  "question": "What is the last date for processing Add and Drop requests by the faculty adviser in Winter 2026?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "On \"What is the last date for processing Add?\" — Add & Drop Notice for Winter 2026 Course Registration says: processing of Add/Drop requests by FA - 17/08/2026, 05:00PM Last Date for processing of Add/Drop requests by FA - 17/08/2026, 05:00 PM To, All HoD for information and necessary action, With a request to note that splitting of Sections(s) / Batch(s) will be done only after the execution of Add/ Drop Procedure\n\nOn \"Drop requests by the faculty adviser in Winter 2026?\" — Add & Drop Notice for Winter 2026 Course Registration says: Faculty Advisors Before processing any Add/Drop request, the Faculty Advisor shall ensure the following: Verify that no examination slot clash will arise due to the addition of the new course. Verify that the maximum registration limit, if any, for the concerned Departmental Elective (DE) course has not been exhausted.",
+  "sources": [
+   "https://drive.google.com/file/d/1qrV91cxgx9lofYVG8AgyiMVEGVNir_FR/view",
+   "https://drive.google.com/file/d/1qrV91cxgx9lofYVG8AgyiMVEGVNir_FR/view"
+  ]
+ },
+ {
+  "name": "antiragging_helpline",
+  "question": "What is the national anti-ragging helpline number?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "On \"What is the national anti-ragging helpline number?\" — National Ragging Prevention Programme says: www.antiragging.in | Contact Details of the Nodal Officers of Anti-Ragging Committee and Squad: Member Deputy Commissioner of Police, Zone-1, Nagpur City Representative of Police Administration — Anti-Ragging Committee (ARC): 0712-2233188 National Anti-Ragging Helpline 24x7 Toll Free 1800-180-5522...",
+  "sources": [
+   "https://drive.google.com/file/d/1mtgop7GAQWFWTdhX8nT-7NImfIVHQjOe/view"
+  ]
+ },
+ {
+  "name": "summer_term_fee",
+  "question": "How much does one summer term course cost at VNIT?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "3,?000"
+  ],
+  "forbidden": [],
+  "answer": "On \"How much does one summer term course cost at VNIT?\" — Details says: by VNIT Nagpur via email with copies to Intellipaat. Intellipaat will initiate the collection of the balance fee from candidates after an offer letter has been sent by VNIT Nagpur.",
+  "sources": [
+   "https://drive.google.com/file/d/1FlbVSTT1mAi61TEm8A1BCNFVbUNzqcbc/view"
+  ]
+ },
+ {
+  "name": "summer_term_max_courses",
+  "question": "How many courses can a student register for in the summer term?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "On \"How many courses can a student register for in the summer term?\" — Summer Term 2026 Notice says: is based on selection Course (Max 3) & Eligibility (based on conditions given below). Conditions to apply for STC 2026 are - 1)A student can register Max.",
+  "sources": [
+   "https://drive.google.com/file/d/16ur4iXJBJSAWXGVkhFTzh1xqTUaxXPZ-/view"
+  ]
+ },
+ {
+  "name": "dean_academic_name",
+  "question": "Who is the Dean (Academic) at VNIT?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "Kalamkar"
+  ],
+  "forbidden": [],
+  "answer": "On \"Who is the Dean (Academic) at VNIT?\" — Deans says: Dr. Ratnesh Kumar Dean (Planning & Development) Email: deanp_f@vnit.ac.in Dr.",
+  "sources": [
+   "https://vnit.ac.in/deans-2026"
+  ]
+ },
+ {
+  "name": "dean_planning_email",
+  "question": "What is the email address of the Dean (Planning and Development)?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "On \"What is the email address of the Dean (Planning and Development)?\" — Deans says: Dr. Ratnesh Kumar Dean (Planning & Development) Email: deanp_f@vnit.ac.in Dr.",
+  "sources": [
+   "https://vnit.ac.in/deans-2026"
+  ]
+ },
+ {
+  "name": "msc_tuition",
+  "question": "What is the yearly tuition fee for M.Sc students at VNIT?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "15,?000"
+  ],
+  "forbidden": [],
+  "answer": "On \"What is the yearly tuition fee for M.Sc students at VNIT?\" — 2 Year Fee Estimate for Master of Science says: year FEE ESTIMATE for the SC/ ST students admitted in the M. Sc.",
+  "sources": [
+   "https://drive.google.com/file/d/1ARUdONHAu1pFaYGIZ8CRkYBvHbA-jtnu/view"
+  ]
+ },
+ {
+  "name": "mtech_tuition",
+  "question": "What is the yearly tuition fee for M.Tech students in the OPEN category?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "70,?000"
+  ],
+  "forbidden": [],
+  "answer": "On \"What is the yearly tuition fee for M.Tech students in the OPEN category?\" — 2 Year Fee Estimate for Master of Technology says: mentioned the 2 year FEE ESTIMATE for the OPEN/ OBC/ EWS students admitted in the M. Tech.",
+  "sources": [
+   "https://drive.google.com/file/d/1rSmfTQ0R2G5eeI7-WvnVG0Lsf8OdOnzy/view"
+  ]
+ },
+ {
+  "name": "mtech_fee_scst",
+  "question": "What tuition fee do SC/ST M.Tech students pay?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "On \"What tuition fee do SC/ST M.Tech students pay?\" — Fees Information M Tech Admission Through CCMT says: paid semester wise ): Jan to May Sem (Even Term) — M Tech (Rs): 41225 Revised fee from July 2024. No Tuition Fees is charged from SC/ ST/ PwD candidates.",
+  "sources": [
+   "https://drive.google.com/file/d/1ZqAPg85PB2oxYMmorzfmozrNSj8qyGc5/view"
+  ]
+ },
+ {
+  "name": "barch_tuition",
+  "question": "What is the yearly tuition fee for B.Arch students at VNIT?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "1,?25,?000|125000"
+  ],
+  "forbidden": [],
+  "answer": "On \"What is the yearly tuition fee for B.Arch students at VNIT?\" — HOSTEL FEES FOR B.ARCH. BOYS ADMITTED IN YEAR 2022-23 says: year. Student is not required to pay charges per month.\n\n(Note: Top two matches come from different pages (HOSTEL FEES FOR B.ARCH. BOYS ADMITTED IN YEAR 2022-23 vs 5 Year Fee Estimate for Bachelor of Architecture) with little shared content -- verify both before trusting one over the other.)",
+  "sources": [
+   "https://drive.google.com/file/d/1jlvFI-ICnK79qqddsXQc5CankZSgWVZ2/view"
+  ]
+ },
+ {
+  "name": "hostel_appliances",
+  "question": "Can I keep a refrigerator in my hostel room at VNIT?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "prohibit|not allowed|not permitted|forbidden"
+  ],
+  "forbidden": [],
+  "answer": "On \"Can I keep a refrigerator in my hostel room at VNIT?\" — Hostel Admission Information Notice for First Year MBA Students (Academic Year 2026–27) says: viz. iron/hotplates/ induction cookers, refrigerators etc.",
+  "sources": [
    "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view"
   ]
+ },
+ {
+  "name": "midsem_slot_a",
+  "question": "When is the mid semester exam for slot A in Winter 2026?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "On \"When is the mid semester exam for slot A in Winter 2026?\" — ACADEMIC CALENDAR (Winter 2026) For Higher Semester UG & PG says: End Sem: 28 th Nov; Re Exam: 17 th Dec; Student Activities: Freshers Oct 18 th 2026 Karwan +Aarohi Oct 30 th , 31 st & Nov 1 st 2026 Slot: H — Mid Sem: 12 th Sept; End Sem: 30 th Nov; Re Exam: 17 th Dec; Student Activities: Freshers Oct 18 th 2026 Karwan +Aarohi Oct 30 th , 31 st & Nov 1 st 2026 Commencement of...",
+  "sources": [
+   "https://drive.google.com/file/d/1uIEpHZrCq-y9tbKDHSHTcEnQnLINO5g1/view"
+  ]
+ },
+ {
+  "name": "unanswerable_old_hostel_fee",
+  "question": "What was the hostel fee for first year B.Tech boys in 2015-16?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "(do(es)? not|doesn't|don't|no (information|details|mention)|not (contain|mention|provide|cover|include|specif|state|available|list))"
+  ],
+  "forbidden": [],
+  "answer": "On \"What was the hostel fee for first year B.Tech boys in 2015-16?\" — HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026-27 says: Document: HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026-27 (dated 2026-04-10) far T s ,440010 VISVESVRAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR 440010 HOSTEL SECTION TO WHOM SO EVER IT MAY CONCERN Hostel Fee Estimate & Demand Letter for PG Students It is certified that the session wise...",
+  "sources": [
+   "https://drive.google.com/file/d/1QoFVZPQae7mXoQNza05-K6aUreW79yYm/view"
+  ]
+ },
+ {
+  "name": "unanswerable_director_salary",
+  "question": "What is the monthly salary of the VNIT Director?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "(do(es)? not|doesn't|don't|no (information|details|mention)|not (contain|mention|provide|cover|include|specif|state|available|list))"
+  ],
+  "forbidden": [],
+  "answer": "On \"What is the monthly salary of the VNIT Director?\" — Click here for the Advertisement says: A non-refundable processing fee of Rs. 500/- (for GEN/OBC-NCL/EWS) and Rs.\n\n(Note: Top two matches come from different pages (Click here for the Advertisement vs Advertisement No. VNIT/Faculty-Recruitment/Prof./03/2025 Dated : 4th July, 2025) with little shared content -- verify both before trusting one over the other.)",
+  "sources": [
+   "https://drive.google.com/file/d/1zEa2v6OrJXfkW6aX-QWzrW__qDGJCuHp/view"
+  ]
+ },
+ {
+  "name": "unanswerable_bus_pass",
+  "question": "How much does a day scholar bus pass cost at VNIT?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "(do(es)? not|doesn't|don't|no (information|details|mention)|not (contain|mention|provide|cover|include|specif|state|available|list))"
+  ],
+  "forbidden": [],
+  "answer": "On \"How much does a day scholar bus pass cost at VNIT?\" — M.Tech Institute Spot Round (ISR) – II Admission Brochure says: — Fees (Rs): 19125/-; Remarks: 1. This fee includes a one-time fee of Rs.\n\n(Note: Top two matches come from different pages (M.Tech Institute Spot Round (ISR) – II Admission Brochure vs Details) with little shared content -- verify both before trusting one over the other.)",
+  "sources": [
+   "https://drive.google.com/file/d/12I__zeaUFJeyrYvrmqANMJ16Ot9RpAr2/view"
+  ]
+ },
+ {
+  "name": "conv_hostel_girls",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session? | and for girls?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "32,?650"
+  ],
+  "forbidden": [],
+  "answer": "On \"What is the hostel fee for first year B.Tech girls for the Winter 2026 session?\" — HOSTEL FEES FOR FIRST YEAR INTERNATIONAL BOYS & GIRLS ADMITTED IN YEAR 2026-27 says: year. Student is not required to pay charges per month.\n\n(Note: Top two matches come from different pages (HOSTEL FEES FOR FIRST YEAR INTERNATIONAL BOYS & GIRLS ADMITTED IN YEAR 2026-27 vs M.Tech/MSc 1st year Hostel admission – Reg) with little shared content -- verify both before trusting one over the other.)",
+  "sources": [
+   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view"
+  ],
+  "understood_as": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?",
+  "rewrite": "rewritten"
+ },
+ {
+  "name": "conv_mtech_tuition",
+  "question": "What is the yearly tuition fee for B.Tech students in the OPEN category? | what about M.Tech?",
+  "pass": false,
+  "mode": "extractive (LLM call failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions)",
+  "missing": [
+   "70,?000"
+  ],
+  "forbidden": [],
+  "answer": "On \"What is the yearly tuition fee for M.Tech students in the OPEN category?\" — 2 Year Fee Estimate for Master of Technology says: mentioned the 2 year FEE ESTIMATE for the OPEN/ OBC/ EWS students admitted in the M. Tech.",
+  "sources": [
+   "https://drive.google.com/file/d/1rSmfTQ0R2G5eeI7-WvnVG0Lsf8OdOnzy/view"
+  ],
+  "understood_as": "What is the yearly tuition fee for M.Tech students in the OPEN category?",
+  "rewrite": "rewritten"
  }
 ]

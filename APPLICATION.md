@@ -24,11 +24,12 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 | Documents (PDF notices, fee sheets, calendars…) | **406 converted** (`data/raw/doc_*.txt`). 599 found, 456 selected; of those, 33 excluded as lists of people, 5 no readable text, 3 Hindi-only, 7 failed (3 are dead links on vnit.ac.in). Re-run `ingest_documents.py convert`; it skips finished ones |
 | Chunks in the index | **8,147** |
 | Retrieval | Title-prefixed chunks → hybrid (sentence embeddings + TF-IDF keywords) → programme/year contradiction filter → 60-candidate cross-encoder reranking → up to 5 passages per (sub-)question |
-| Page-level benchmark (`evaluate.py`, 19 questions) | **17/19 (89%)**; 2 misses (see §6) |
-| Answer-chunk ranks (`fact_ranks.py`) | **14/18** facts have the answer-bearing chunk in the top 3; 11 of them rank 1st |
-| End-to-end answer check (`check_answers.py`) | **17/18 correct**, 2/2 unanswerable questions correctly refused; 1 failure (see §6) |
+| Page-level benchmark (`evaluate.py`, 19 questions) | 16/19 |
+| Answer-chunk ranks (`fact_ranks.py`) | **15/18** |
+| Real-path retrieval (`chunk_ranks.py`, 32 questions through `agent.answer`) | **29/32** have the answer-bearing passage among the 7 sent to the LLM; 26/32 in the top 3 |
+| End-to-end answer check (`check_answers.py`, 39 cases) | **31/39** on the last complete run; the retrieval changes made after it are measured only by `chunk_ranks.py` so far, because Groq's free daily token quota ran out — re-run to confirm (see §6) |
 | LLM | Groq `openai/gpt-oss-20b` (free tier) |
-| API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-03 |
+| API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-03. Follow-up questions ("and for girls?") and a thumbs up/down rating on every answer |
 | Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
 ---
@@ -44,7 +45,7 @@ vnit-chatbot/
 ├── README.md                  <- project overview
 ├── requirements.txt           <- main app (Anaconda environment)
 ├── requirements-pdf.txt       <- document reader (separate environment, Docling)
-├── api/main.py                <- FastAPI: GET /health, POST /ask
+├── api/main.py                <- FastAPI: GET /health, POST /ask, POST /feedback
 ├── frontend/index.html        <- chat page
 ├── data/
 │   ├── raw/*.txt              <- web pages; doc_*.txt are converted documents
@@ -63,12 +64,15 @@ vnit-chatbot/
     ├── ingest_documents.py    <- discover, select, download, convert documents (crash-safe)
     ├── chunk.py               <- text → ~150-word chunks
     ├── build_index.py         <- embeddings + TF-IDF index; pre-downloads the reranker
-    ├── programme_terms.py     <- which programme/academic year a text is about
+    ├── followup.py            <- rewrites "and for girls?" to stand on its own
+    ├── programme_terms.py     <- which programme/year/gender a text is about
     ├── query.py               <- hybrid search + contradiction filter + reranking
     ├── agent.py               <- splits compound questions, retrieves per part and whole
     ├── generate.py            <- builds the prompt, calls the LLM, extractive fallback
+    ├── feedback_summary.py    <- counts the thumbs up/down ratings
     ├── evaluate.py            <- page-level benchmark
     ├── fact_ranks.py          <- answer-chunk rank check (no LLM needed)
+    ├── chunk_ranks.py         <- same, but through agent.answer, the real path
     └── check_answers.py       <- end-to-end answer check (uses the LLM)
 ```
 
@@ -106,23 +110,27 @@ This matters twice over:
 
 ## 5. How a question is answered
 
+0. **Resolve a follow-up** (`followup.resolve`): retrieval has no memory, so "and for girls?" matches nothing on its own. When a question cannot stand alone — it opens with a connective ("and…", "what about…") or carries a referring word with no subject of its own — it is rewritten against the last three questions, and the chat page shows the result as "Understood as: …". The rewrite is one short LLM call (`reasoning_effort: "low"`, measured at ~117 completion tokens); if there is no key or the call fails, the previous question and the follow-up are glued together, which reads awkwardly but still retrieves. An ordinary question is never touched and costs nothing extra.
 1. **Split** (`agent.decompose`): "X and Y" becomes two sub-questions when both parts are real questions. A pronoun in the second part is replaced by the first part's subject ("...and when was **it** announced" → "when was **the 5G lab** announced").
 2. **Retrieve** (`query.retrieve`) for each sub-question, and also for the whole question (splitting can lose shared context):
    1. **Hybrid search:** rank all chunks by meaning (sentence embeddings, `all-MiniLM-L6-v2`) and by keywords (TF-IDF), then fuse the two rankings (keyword weight 0.5, K=30).
-   2. **Set aside contradictions** (`programme_terms.py`): a candidate that states a different degree programme (B.Tech vs M.Tech, with UG/PG standing for their members) or a different academic year (2025-26 style) than the question asks about is skipped, scanning further down the fused ranking to keep the pool full. A candidate stating neither stays eligible, since many answers come from pages that never spell one out. This is what tells the 19 near-identical hostel fee sheets apart.
+   2. **Set aside contradictions** (`programme_terms.py`): a candidate that states a different degree programme (B.Tech vs M.Tech, with UG/PG standing for their members), a different academic year (2025-26 style) or a different gender of student than the question asks about is skipped, scanning further down the fused ranking to keep the pool full. A candidate stating none of them stays eligible, since many answers come from pages that never spell one out. This is what tells the 19 near-identical hostel fee sheets apart — all three axes were needed: without the gender axis, "the hostel fee for first year B.Tech girls" was answered from the boys' and M.Tech sheets even though the girls' sheet was the 3rd-ranked candidate going into the reranker.
    3. **Rerank:** a cross-encoder (`ms-marco-MiniLM-L-6-v2`) reads the top **60** candidates side by side with the question and re-orders them. No single source may fill more than 6 of those 60, so a long list-shaped document (a placement report's company list) cannot crowd out everything else.
 3. **Compose** (`generate.llm_answer`): the whole-question chunks go in first (up to 3), then up to 5 per sub-question. Limits are 1,000 characters per chunk and 6,000 in total, to stay within Groq's free-tier rate limit. Document chunks are labelled with their date. The LLM is told to:
    - use only these passages and cite them;
    - say plainly when they don't cover something;
    - state which student group a figure applies to;
    - prefer the newest document when documents disagree.
-4. **Fallback:** if there's no key or the LLM call fails, the answer is built from the top passages directly, and `mode` says `extractive (reason)`. The API always reports `mode`, and the chat page shows it.
+4. **Fallback:** if there's no key or the LLM call fails, the answer is built from the top passages directly, and `mode` says `extractive (reason)`. The API always reports `mode`, and the chat page shows it. An *empty* answer counts as a failure too: gpt-oss-20b can spend its whole token budget on its reasoning channel and return no content, which was briefly shown to a user as a blank answer, so `generate.py` retries once with `reasoning_effort: "low"` and then falls back to extractive.
+5. **Rating** (`POST /feedback`): each answer carries thumbs up/down. A rating appends one JSON line to `data/feedback/feedback.jsonl` — timestamp, rating, question, answer, mode — with no IP address, since counting useful answers does not require knowing who asked. The file is gitignored: it holds real students' questions, which are their data, not the project's source. It has its own rate-limit bucket so rating answers cannot consume someone's allowance of questions.
 
 ---
 
 ## 6. Measured quality
 
 Run on 2026-10-03 with 81 pages + 406 documents (8,147 chunks). Full answers: `data/processed/answer_check.json`.
+
+> **Status of these numbers.** The 18-question answer check scored **17/18**. It was then widened to **39 cases** (34 facts, 5 that must be declined, 2 two-turn conversations), which immediately found four real bugs — see EXPERIMENTS-LOG.md §18. The widened suite's last complete run was **31/39**; the retrieval changes made after it (pooling both phrasings, per-source cap 4, 7 passages per sub-question) are so far measured only by `chunk_ranks.py`, because the day's free Groq quota ran out. **Re-run `check_answers.py` once the quota resets** to get a final end-to-end figure. The honest reading today: retrieval is measurably better than when 17/18 was recorded, on a test set twice the size, and the end-to-end number needs confirming.
 
 | Check | 148 documents (2026-09-22) | 406 documents (2026-10-03) |
 |---|---|---|

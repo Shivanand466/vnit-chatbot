@@ -30,6 +30,8 @@ Final-year project (FYP). Built with free and open-source tools only.
 - **Privacy:** lists of people (seating plans, merit lists, class-committee lists with phone numbers) are **excluded**, both by title and by checking the content for student roll numbers.
 - **Search:** sentence embeddings (`all-MiniLM-L6-v2`) + keyword search (TF-IDF), combined into 60 candidates, then re-ordered by a cross-encoder reranker (`ms-marco-MiniLM-L-6-v2`). Candidates about a different degree programme or academic year than you asked about are set aside first — that is what tells 19 near-identical hostel fee sheets apart.
 - **Answering:** Groq `openai/gpt-oss-20b`. If the AI can't be reached, the chatbot falls back to showing the best passages, and it always says which mode was used.
+- **Follow-up questions:** ask "what is the hostel fee for first year B.Tech boys?" and then just "and for girls?" — the question is rewritten to stand on its own before searching, and the page shows "Understood as: …" so you can see how it was read.
+- **Ratings:** every answer has a 👍/👎 button. Ratings are appended to `data/feedback/feedback.jsonl` (no IP addresses, and the file is kept out of git) so a demo week produces real usage data for the report.
 
 ---
 
@@ -46,6 +48,8 @@ Final-year project (FYP). Built with free and open-source tools only.
 | Deployment | 🟡 **Public link from the laptop** with `start_public_link.bat` (free Cloudflare tunnel). Not always-online: Hugging Face now charges (PRO) for Docker Spaces, and free hosts with 512 MB of memory are too small (see "Deploying" below) |
 
 ### Measured quality
+
+> **Being updated.** The 18-question check scored **17/18**. It has since been widened to **39 cases** (34 facts, 5 the chatbot must refuse, 2 follow-up conversations), which found four real bugs — all now fixed (see `EXPERIMENTS-LOG.md` §18–19). The widened suite last scored **31/39** before those fixes; the free Groq quota for the day ran out before it could be re-run. Retrieval is measurably better than when 17/18 was recorded (`chunk_ranks.py`: the answer passage reaches the AI for 29 of 32 questions), but **the end-to-end number below is from the 18-question round and should be re-measured** with `python check_answers.py` once the quota resets.
 
 Three automatic checks, run on 3 Oct 2026 with all 406 documents included (previous round, 148 documents, in brackets):
 

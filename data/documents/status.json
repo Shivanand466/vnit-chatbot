@@ -3338,5 +3338,65 @@
   "title": "UG Course Book (2025 batch onwards)",
   "tier": 2,
   "seconds": 1949
+ },
+ "drive:15R84uYv7zfvi5tJIX5aC6L2BMkbRSiPx": {
+  "result": "error",
+  "error": "timeout",
+  "title": "Thermal Engineering"
+ },
+ "drive:1-w1qLvTMqipr5L5jcRip09MleTdmY6Ec": {
+  "result": "ok",
+  "words": 10494,
+  "file": "doc_1-w1qLvTMqipr5L5jcRip09MleTdmY6Ec.txt",
+  "title": "IPR Policy",
+  "tier": 2,
+  "seconds": 2167
+ },
+ "web:https://vnit.ac.in/engineering/chemical/wp-content/uploads/2026/05/Course-book_160_batch2026_23042026.pdf": {
+  "result": "ok",
+  "words": 13201,
+  "file": "doc_ntent_uploads_2026_05_Course_book_160_batch2026_23042026_pdf.txt",
+  "title": "Chemical Engineering",
+  "tier": 2,
+  "seconds": 2099
+ },
+ "web:https://vnit.ac.in/engineering/chemical/wp-content/uploads/2026/05/BTech-CT_Website.pdf": {
+  "result": "ok",
+  "words": 11854,
+  "file": "doc_ing_chemical_wp_content_uploads_2026_05_BTech_CT_Website_pdf.txt",
+  "title": "Chemical Technology",
+  "tier": 2,
+  "seconds": 1740
+ },
+ "drive:1M1LGCyMT0FhZSweW2hy9ZkSLh_ofssO1": {
+  "result": "ok",
+  "words": 4208,
+  "file": "doc_1M1LGCyMT0FhZSweW2hy9ZkSLh_ofssO1.txt",
+  "title": "New Arrival Books 2025-26",
+  "tier": 2,
+  "seconds": 1361
+ },
+ "drive:145LPSa1YZK6N5U1FfYm4WMO9dYjnM1n1": {
+  "result": "error",
+  "error": "timeout",
+  "title": "Department Digital Profile"
+ },
+ "drive:1TSOvR-31mWM1lGFEaNAtmrNSDPvDTg7O": {
+  "result": "error",
+  "error": "timeout",
+  "title": "Faculty profile"
+ },
+ "drive:1-qloWECl3szD_ZYW5dhyoiRGBbvA9698": {
+  "result": "error",
+  "error": "timeout",
+  "title": "Department of Civil Engineering"
+ },
+ "drive:1W68EyjNJcGObJFYuZiPG6E7mFbtM3fRw": {
+  "result": "ok",
+  "words": 38,
+  "file": "doc_1W68EyjNJcGObJFYuZiPG6E7mFbtM3fRw.txt",
+  "title": "Gallery",
+  "tier": 2,
+  "seconds": 1668
  }
 }
