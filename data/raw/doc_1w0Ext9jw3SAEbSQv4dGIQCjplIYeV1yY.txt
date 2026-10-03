@@ -1,0 +1,97 @@
+SOURCE_URL: https://drive.google.com/file/d/1w0Ext9jw3SAEbSQv4dGIQCjplIYeV1yY/view
+TITLE: Brochure
+FETCHED: 2024-06-12
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Brochure (dated 2024-06-12)
+CERTIFICATE COURSE ON ULTRASONIC TESTING
+Organized by
+Department of Metallurgical & Materials Engineering, Visvesvaraya National Institute of Technology Nagpur 440010, Maharashtra
+About the Course:
+Ultrasonic testing is a crucial technique in industry for ensuring material integrity and product quality. By detecting defects and irregularities non-destructively, it enhances safety, minimizes costly rework, and optimizes resource allocation, contributing to reliable and efficient manufacturing processes across various sectors. This course will provide a comprehensive understanding of ultrasonic testing's applications within the industrial realm. You will gain insights into how ultrasonic testing is utilized to ensure product quality, assess structural integrity, and enhance safety across various sectors. Through practical examples and theoretical knowledge, you'll explore its significance in flaw detection, material analysis, and weld inspection, fostering expertise in the implementation of this vital technique. This will help participants for acquiring UT level I/II/III certificates.
+Course Instructors:
+Dr. Y. Y. Mahajan Assistant Professor, Department of Metallurgical and Materials Engg., VNIT Nagpur
+Dr. Abhinav Arya
+Assistant Professor, Department of Metallurgical and Materials Engg., VNIT Nagpur
+VISVESVARAYA NATIONAL INSTiTtrrE OF TECHNOLOGY,NAGPUR
+Format of subniission of proposal for online courses
+Type of online course:
+Course title:
+Certificate
+Certificate Course on Ultrasonic Testing
+Offered by:
+Department of Metallurgical and Material Engineering
+Eligibility:
+XII/ITI/ Diploma & above
+Note:
+No course completion requirement of any type by the candidate, prior to registering for the course to be specified.
+Current students of VNIT are not supposed to register for these courses. The same content needs to be offered to them through normal mechanisms (DC/ DE or OC courses).
+Proposed Maximum Duration:
+3 months/90 Days (as per discretion of instructors)
+Total contact hours:
+90 hrs (Lecture: 45 hrs + Tutorial: 00 hrs + Practical: 45 hrs)
+Mode of course delivery: Hybrid/online live/online recorded/ live + recorded: Hybrid mode (as per discretion of instructors).
+Course Obj ectives:
+To sensitize the large population about the importance of ultrasonic testing.
+To develop skill manpower for detection of defects, measurement of their parameters, assessment of their hazard.
+To cater the demands of skilled NDT inspectors for absolute safety and reliability in strategic industries like atomic energy, aerospace, defence etc.
+To prepare students to start their own NDT Business.
+1
+11
+Course structure (per week equivalent) :
+To prepare students to start their own NDT Business. | Course structure (per week equivalent): Sr. No. | Courses Titles
+To prepare students to start their own NDT Business. | Course structure (per week equivalent): General Knowledge in ND T, Materials, Discontinuities, Defects. ; Terminology, Physical Principles {nd Fundamentals of Ultrasonic; Testing Techniques and their Limitations; Equipment and accessories; Calibration of the Testing System; Specific Applications; Codes, Standards, Specification and Procedures; Recordino and Evaluation of Results. | 45 | 00 | 02
+To prepare students to start their own NDT Business. | Course structure (per week equivalent): Hand on session on Ultrasonic testing | 00 | 00 | 45 | 02
+To prepare students to start their own NDT Business. | Course structure (per week equivalent): Total | Total | 45 | 00 | 45 | 04
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000)
+Course Contents:
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: General Knowledge in NDT, Materials, Discontinuities, Defects. — Hours.Tutorial: 05
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Terminology, Physical Principles and Fundamentals of Ultrasonic — Hours.Tutorial: 05; Hours.Practical: 00
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Testing Techniques and their Limitations, Phased array ultrasonic testin — Hours.Tutorial: 05; Hours.Practical: 00
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: E ui ment and accessories — Hours.Tutorial: 05; Hours.Practical: 00
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Calibration of the Testin S stem — Hours.Tutorial: 05; Hours.Practical: 00
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: S ecificA lications — Hours.Tutorial: 10
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Codes, Standards, S ecification and Procedures — Hours.Tutorial: 05; Hours.Practical: 00
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Recordin and Evaluation of Results — Hours.Tutorial: 05; Hours.Practical: oo
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Hand-on session on Ultrasonic equipment and its accessories — Hours.Tutorial: 00; Hours.Practical: 10
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Hand-on session on Ultrasonic equipment handlin calibration — Hours.Tutorial: 00; Hours.Practical: 10
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Hand-on session on Ultrasonic Testin of i es lates etc — Hours.Practical: 10
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Hand-on session on Interpretation, Recording and Evaluation of Ultrasonic test resülts — Hours.Tutorial: 00; Hours.Practical: 15
+Course fee: Rs. 40,000 + 18% GST (Maximum 4 credits for certificate course x Rs 10,000 per credit = Rs 40,000) | Course Contents: Total Hours — To ics.: Total Hours; Hours.Tutorial: 45; Hours.Practical: 45
+Faly
+Cou rse Ott tcotnes:
+After successful completion of this course the student will be able to:
+Have a basic knowledge of ultrasonic testing which enables them to perform 1. inspection of samples.
+Calibrate the instrument and evaluate the component for imperfections.
+Differentiate various defect types and select the appropriate NDT methods for the specimen.
+Document a written procedure paving the way for further training in specific techniques.
+Prepare students to start their own NDT Business.
+Attendance requirement:
+75% of the total designated hours
+Course Evaluation plan:
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. To offer participants a clear sense of their performance levels, the following grading system will be used on a continuous evaluation basis:
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: 10 — Description: Outstanding
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: 9 — Description: Excellent
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: 8 — Description: Very good
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: BC — Grade Points: 7; Description: Good
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: cc — Grade Points: 6; Description: Average
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: CD — Grade Points: 5; Description: Below average
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: 4 — Description: Marginal
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: Poor/Unsatisfactory/Absec from an exam
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: Nil — Description: Audit Pass
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: Nil — Description: Audit Fail
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: ss — Grade Points: Nil; Description: Satisfactory performance in zero credit course
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: zz — Grade Points: Nil; Description: Unsatisfactory performance in zero credit course
+Participants' performance in knowledge exams, hands-on skill evaluations, project work, participation, and attendance will be continuously evaluated. | Course Evaluation plan: w — Grade Points: Nil; Description: Insufficient attendance
+Course Coordinator(s)(Name and Sign):
+Dr. Yogesh Mahajan (MME)
+DE Abhinav Arya (MME)
+Lab and sign):
+Dr. Yogesh Mahajan (MME)
+DE, Abhinav Arya
+Course Execution Coordinator (Name and Sign):
+Dr. Yogesh Mahajan (MME)
+V. N, Nagpur usstt. Professor Deptt. of Motallurgical & Materials Engg
+Dn Abhinav Arya (MME) wun Protessor Jepti. of Metollurgical & Materials Enge V. N. L.T., Negpur
+Head of the Department/Center(Name and Sign): q W/Hesd anget p werí eiranet Po lepartmant of Meralurgical &. Materials Enginsaing ...g/VN..Nagpur-44001
+Dr. Jatin G. Bhatt Prof. and Head, Department of Metallurgical and Materials Engineering

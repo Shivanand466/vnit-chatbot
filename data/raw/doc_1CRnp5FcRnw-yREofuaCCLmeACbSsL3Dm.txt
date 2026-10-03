@@ -1,0 +1,32 @@
+SOURCE_URL: https://drive.google.com/file/d/1CRnp5FcRnw-yREofuaCCLmeACbSsL3Dm/view
+TITLE: How to Raise Complaint
+FETCHED: 2026-03-11
+FOUND_ON: https://vnit.ac.in/5g-lab-vnit-nagpur
+---
+Document: How to Raise Complaint (dated 2026-03-11)
+STEP-1
+1.Enter username
+STEP-2
+1.Select Governance option
+STEP-3
+1.Select Create a New Service Ticket
+STEP-4
+1.Click Module tab
+2.Select Service Desk
+STEP-5
+1.Click Service tab
+2.Select required service ( Ex. Computer AMC)
+STEP-6
+1.Click Sub Service tab ( If shown )
+2.Select required sub service ( Ex. Slow Performance issue)
+STEP-7
+1.Click Details tab
+2.Describe your complaint
+STEP-8
+1.Click Check box ( If shown )
+2.Enter Serial No. and Model No. ( If available)
+3.Attach supported document ( If available )
+STEP-9
+1.Click save
+STEP-10
+1.Click submit

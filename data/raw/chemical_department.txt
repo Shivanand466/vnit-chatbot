@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/engineering/chemical/
 TITLE: VNIT Nagpur Chemical Engineering Department
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Specialization
 Chemical Engineering
@@ -24,20 +24,15 @@ To undertake collaborative projects which provide opportunities for long-term in
 To develop infrastructure that promotes creativity and an entrepreneurial culture.
 To foster ethical leadership and activities that supports the administration, advancements, governance, and regulation of chemical engineering education and the engineering profession.
 Department Stats
-RESEARCH PUBLICATIONS
-0
+RESEARCH PUBLICATIONS 0
 +
-RESEARCH PROJECTS
-0
+RESEARCH PROJECTS 0
 + (25+ Cr)
-PATENTS
-0
+PATENTS 0
 +
-STUDENTS PLACEMENT
-0
+STUDENTS PLACEMENT 0
 +
-CONSULTANCY
-0
+CONSULTANCY 0
 +
 Activities
 INNOVATIVE DESIGN CLUB

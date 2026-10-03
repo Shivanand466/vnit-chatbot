@@ -1,0 +1,38 @@
+SOURCE_URL: https://drive.google.com/file/d/1y1enS8JeqBI_AL7ezrytMDYGlxEzjYiN/view
+TITLE: Fees Information M Sc Admission Through CCMN
+FETCHED: 2024-04-16
+FOUND_ON: https://vnit.ac.in/section/academics/fees/
+---
+Document: Fees Information M Sc Admission Through CCMN (dated 2024-04-16)
+Visvesvaraya National Institute of Technology, Nagpur
+ Fees for Indian Nationals through CCMN [For M Sc Admission]
+Fees - One Time:
+( To be paid in the admission year )
+( To be paid in the admission year ) | Fees - One Time: S N | Fees Type | M Sc (Rs)
+( To be paid in the admission year ) | Fees - One Time: Library Deposit | 5000
+( To be paid in the admission year ) | Fees - One Time: Caution Deposit | 5000
+( To be paid in the admission year ) | Fees - One Time: Identity Card | 200
+( To be paid in the admission year ) | Fees - One Time: Medical Exam | 100
+( To be paid in the admission year ) | Fees - One Time: Welfare Fund | 600
+( To be paid in the admission year ) | Fees - One Time: Medical Aid Fund | 2000
+( To be paid in the admission year ) | Fees - One Time: Total | 12900
+Fees per year:
+( To be paid semester wise )
+( To be paid in the admission year ) | ( To be paid semester wise ): S N | Fees Type | M Sc (Rs)
+( To be paid in the admission year ) | ( To be paid semester wise ): Tuition Fee | 15000
+( To be paid in the admission year ) | ( To be paid semester wise ): Registration Fee | 500
+( To be paid in the admission year ) | ( To be paid semester wise ): Library Fee | 750
+( To be paid in the admission year ) | ( To be paid semester wise ): Student Activity Fees | 1250
+( To be paid in the admission year ) | ( To be paid semester wise ): Sports Fee | 2500
+( To be paid in the admission year ) | ( To be paid semester wise ): Internet & Computer Maint. Fee | 750
+( To be paid in the admission year ) | ( To be paid semester wise ): Training & Placement Fee | 400
+( To be paid in the admission year ) | ( To be paid semester wise ): Industry Institute Interaction Fee | 300
+( To be paid in the admission year ) | ( To be paid semester wise ): Development Fee | 2000
+( To be paid in the admission year ) | ( To be paid semester wise ): End Semester Examination Fee | 1000
+( To be paid in the admission year ) | ( To be paid semester wise ): Total | 24450
+( To be paid in the admission year ) | ( To be paid semester wise ): July to Nov Sem (Odd Term) | 12225
+( To be paid in the admission year ) | ( To be paid semester wise ): Jan to May Sem (Even Term) | 12225
+Revised fee from July 24
+No Tuition Fees is charged from SC/ ST/ PwD candidates.
+In addition to above fees, Convocation fees of Rs 750/- and Thesis/Dissertation evaluation fees Rs 1,500/- to M Sc shall be charged in final semester of program. Hostel charges are separate.
+NOTE - Total fees to be paid at the time of admission reporting includes One Time Fees plus First Semester fees. An initial fee paid at the Counseling is adjusted against the total fees to be paid during admission reporting.

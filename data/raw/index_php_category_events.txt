@@ -1,14 +1,23 @@
 SOURCE_URL: https://vnit.ac.in/index.php/category/events
 TITLE: Category:Event
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
-हिंदी पखवाड़ा 2026
+🔬 Junior Scientist 2026 | VNIT Nagpur vnit_web
+September 30, 2026
+Event
+Igniting Young Minds, Inspiring Future Innovators! 🚀Visvesvaraya National Institute of Technology (VNIT), Nagpur, is all set to host Junior Scientist 2026, an exciting platform for…
+Read more →
+The SPIC MACAY – Heritage Club, VNIT Nagpur proudly presents *‘Virasat 2026’, a three-day celebration of India’s rich classical arts and cultural traditions, from *24–26 September 2026 at VNIT Nagpur.
 vnit_web
+September 23, 2026
+Event
+🎶 VIRASAT 2026 | Celebrating India’s Living Cultural Heritage 🇮🇳 The SPIC MACAY – Heritage Club, VNIT Nagpur proudly presents ‘Virasat 2026’, a three-day celebration…
+Read more →
+हिंदी पखवाड़ा 2026 vnit_web
 September 17, 2026
 Event
 Read more →
-VNIT Internal Hackathon 2026
-vnit_web
+VNIT Internal Hackathon 2026 vnit_web
 September 14, 2026
 Event
 Read more →

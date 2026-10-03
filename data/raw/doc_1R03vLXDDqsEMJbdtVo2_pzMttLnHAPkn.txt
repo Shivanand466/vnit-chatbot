@@ -1,0 +1,63 @@
+SOURCE_URL: https://drive.google.com/file/d/1R03vLXDDqsEMJbdtVo2_pzMttLnHAPkn/view
+TITLE: AIMS Login and Course Registration Instructions (Winter 2026)
+FETCHED: 2026-07-21
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: AIMS Login and Course Registration Instructions (Winter 2026) (dated 2026-07-21)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR Academic & Exam Section
+Acad/PHD-REG/2026-27/Jul-26/14145
+Note:
+Date:21-07-2026 Date: 21-07-2026
+Sub: - AIMS Login & Course Registration for July 2026 Ph. D Admitted reg.
+Attention: - All July 2026 Ph. D Admitted Candidates (Full Time / Part Time) (Both Cycle 1 & Cycle 2)
+Enrolment number for both Full Time & Part Time Ph. D Scholars of July 2026 Ph. D Admitted (Both Cycle 1 & Cycle 2) are assigned in the AlMS (Academic Information Management System)and displayed on Pro il d t se (ttJtt ng Cycle 2). Candidate must note down the ID Number & Enrollment Number for future reference.
+Cu e e uec os u t os (u sil July 2026 Ph. D Admitted Candidates.
+Prerequisite for Course registration: - All July 2026 Ph. D Admitted candidate (Both Cycle 1 & Cycle 2) must submit the Course registration form (completely filled), along with copy of PRL [Provisional Reporting Letter] to Exam Section after confirming the courses to be registered for them during 22-072026 to 28-07-2026 (last date of accepting PhD Course Registration Form) only after receiving the Provisional Reporting Letter (PRL). So that those courses must be made available in students' login. Blank Course registration form for Winter2026 is available along with this notice.
+All Ph. D Scholars take an important note that, once submitted no modification in the registration form will accepted. Scholar's need to take permission from Associate Dean Academics (PG & PhD) if they want to submit corrected (modified) Registration Form to Exam Section. Therefore, before submitting the Registration form student are requested check / ensure all parameters mentioned in the registration form is correct (including strength of the course).
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly mentioned (to be confirmed from their supervisor) in the Course Registration form submitted along with the Progress Seminar code. Department wise list of (1°) Progress Seminar are listed below,
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Applied Mechanics — PROGRESS SEMINAR: AMR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Architecture — PROGRESS SEMINAR: ARR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Civil Engineering — PROGRESS SEMINAR: CER601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Chemical Engineering — PROGRESS SEMINAR: CMR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Computer Science & Engineering — PROGRESS SEMINAR: CSR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Electrical & Electronics Engineering — PROGRESS SEMINAR: EER601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Electronics & Communication Engineering — PROGRESS SEMINAR: ECR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Mechanical Engineering — PROGRESS SEMINAR: MER601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Metallurgy & Materials Engineering — PROGRESS SEMINAR: MMR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Mining Engineering — PROGRESS SEMINAR: MNR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Physics — PROGRESS SEMINAR: PHR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Chemistry — PROGRESS SEMINAR: CHR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Mathematics — PROGRESS SEMINAR: MAR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Humanities & Social Sciences — PROGRESS SEMINAR: HUR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: VLSI & Nanotechnology — PROGRESS SEMINAR: ENR601
+All PhD candidates should ensure that Course code / Course Title / Credits / Slot / Course Type (DC-DEAU) / Course Coordinator must be clearly...: DEPARTMENT: Interdisciplinary — PROGRESS SEMINAR: IDR601
+Along with Progress Seminar, all students are required to select IDC501 - Research Methodology
+List of courses offered (Departments Wise) for Winter 2026 are available on Student Notice Board, link to access that list is given below,
+https://vnit.ac.in/section/academics/notice-new/>> Sem. Course Registration>>
+>> List of courses to be offered (Department Wise) in Winter 2026
+Candidate need to select from these offered courses (only). If their supervisor is instructing them to register courses which are not listed in the above-mentioned (department wise) list of courses, then PhD candidate are instructed to confirm the Exact course code, Course Name, Credits of Course, Type of Course (DC/DE/AU) & Course Coordinator, and mentioned all these details in the Course Registration form along with a note from Supervisor & forwarded by Head of the Department requesting to offer that course in Winter 2026 for the said Ph. D candidate.
+As mentioned above, the blank course registration form is available along with the notice, candidates are required to submit the hard copy of the registration form to the exam section along with copy of Provisional Reporting Letter (PRL) (as per the dates mentioned above), which will help Exam Section to make availability of those courses on AlMS portal for online registration in proper time.
+Stepwise Course registration Procedure foe PhD Scholars admitted in July 2025 will be displayed along with Notice in due course of time. Students are instructed to follow the procedure of submitting the given form to the Exam Section (ASAP) so that their course registration will be completed.
+Copy to - VNIT Website (PhD Admission) Information Page Cc: Dean (Academic)& Associate Dean Academics (PG & PhD) for information All Respected Head of the Department
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Session 2026-27 Odd Semester (To be filled in Triplicate and in Capital letters and in Blue ink only)
+Ph. D (Full Time / Part Time) Program (Please Tick ✓ one)
+(Submission of this form is only for making the course(s) available in their AlMS login. Ale e s o e s d Bin
+Name
+ID No.
+Enrolment No.
+Admission Year (Please mention Month & Year)
+Mobile No..
+Emaill.
+Name of the Supervisor...
+.Department.
+List of courses to be made available in Winter 2026
+(Submission of this form is only for making the course(s) available in their AlMS login. | List of courses to be made available in Winter 2026: Course Title*: Total Credits Registered
+*- All the information mentioned above are compulsory.
+Important Note:
+PhD Scholars are advised to accurately mention the course title, Research Seminar number, and course code.
+Supervisors are requested to ensure that the courses listed by the scholar align with the recommendations approved by the department.
+PhD Scholars should keep a copy of this form for future reference. Additionally, one copy may be retained by the supervisor(s) for their records (if required), and one copy must be submitted to the Examination Section.
+For scholars registering in the 1st Semester, it is mandatory to register for "IDC501": "Research Methodology" and "Progress Seminar 1" (offered by their respective department), in addition to the courses recommended by their supervisor.
+Signature of Scholar Name and Signature of Supervisor Signature of Head of the Department
+Date:

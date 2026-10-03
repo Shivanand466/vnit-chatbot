@@ -1,0 +1,11 @@
+SOURCE_URL: https://drive.google.com/file/d/19NxNRVDfr33-YRTb54HPXcU2J0GHmKjl/view
+TITLE: User Manual
+FETCHED: 2025-01-08
+FOUND_ON: https://vnit.ac.in/5g-lab-vnit-nagpur
+---
+Document: User Manual (dated 2025-01-08)
+Governance -> It Service Desk -> New Ticket
+Select Service Queue, Sub Service Queue, put details and save request.
+Now after verifying the details of ticket, you can either modify by clicking Update button on RHS Top or Submit button to publish ticket.
+After successful submission of ticket, you will get ticket number. Once the ticket is assigned to either employee of our Institute or outside Agent the status of the same will be reflected in column no 2 and 5 of the ticket as shown in screen below:
+After the ticket is resolved the ticket is closed by the employee or agent and is reflected as mentioned below:

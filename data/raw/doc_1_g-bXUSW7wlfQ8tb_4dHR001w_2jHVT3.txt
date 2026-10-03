@@ -1,0 +1,226 @@
+SOURCE_URL: https://drive.google.com/file/d/1_g-bXUSW7wlfQ8tb_4dHR001w_2jHVT3/view
+TITLE: FAQs for Admission portal
+FETCHED: 2024-05-21
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: FAQs for Admission portal (dated 2024-05-21)
+FREQUENTLY ASKED QUESTIONS FOR ADMISSION REGISTRATION PORTAL
+These Frequently Asked Questions (FAQ'S) are for those students who are allotted VNIT as finally allotted institute in Central Counseling process of Admission (B Tech / B Arch / M Tech / M Sc / Ph D) and need to register before actual Physical Reporting / admission to VNIT, Nagpur.
+IMP: Student Registration on this portal is mandatory before institute reporting physically. Students make sure that data entered in this portal must be correct. Changes will be entertained after final submit of the registration form.
+Q: How many steps are involved in this Self Registration Process?
+A: There are total '4' (Four) steps involved,
+New Registration
+Parent Contact Details
+Qualifying Exam & Other Details
+Upload Documents
+Q : How to start self-registering in VNIT Admission Portal?
+A: Go to Link http://vnitreg.vnit.ac.in/vrce and press 'New Registration'
+Q: What is main Information to be filled in the Step 1?
+A : Step 1 includes 3 (Three) Part information filling.
+Part 1 New Registration
+i. Student Registration
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. Information in this part changes Program wise, please see in detail below,
+B. TECH
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Fields: Admissions sought To — Options to be filled: For B. Arch.: Bachelor of Architecture For B. Tech.: Bachelor of Technology
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Fields: Branch Allotted — Options to be filled: Select from the Drop down Menu
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Fields: Round In which seat Allotted — Options to be filled: Select the round in which the final seat is allotted. If seat is allotted in Special Round select 'SPOT'
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Fields: Application No — Options to be filled: For JoSSA/ CSAB Applicants: JEE application no For DASA Applicants: Applicant ID
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Fields: Seat Allotted Through — Options to be filled: For JoSSA/ CSAB Applicants: JEE For DASA Applicants: DASA
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Fields: All India Rank(JEE/GATE/JAM) — Options to be filled: ALL INDIA RANK based on FINAL NTA score
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Fields: JEE State Rank — Options to be filled: 0 for all students
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Fields: State of Eligibility/ Code — Options to be filled: For JoSSA/ CSAB Applicants: MAHARASHTRA (Home State Quota) Other State (for Other State Quota) For DASA Applicants: NONE
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: State of Domicile | NONE ( for All)
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: JEE Marks / Percentile | @NTA Score up to 2 decimal point
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: JEE/ GATE/ JAM Roll no | Enter JEE application no
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Quota | Home/ Other state For Foreign Nationals 'NONE'
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Allotment Category | Category in which seat is allotted i.e. 'Allotted Category'
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | B. TECH: Candidate Category | Category of the candidate
+M.TECH/ M.SC/ PhD
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: Admissions sought To — Options to be filled: For M.Tech: Master of Technology For M. Sc.: Master of Science For Ph. D.: Doctor of Philosophy
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: Branch Allotted — Options to be filled: For MTECH/ MSC- Self Explanatory For Online MTech (EVT) summer admission(January-June): M. Tech in Electrical Vehicle Technology S For PHD: i. January Session PHD FULL TIME S/ PHD PART TIME S - if PhD Fulltime/ Part Time respectively ii. July Session PHD FULL TIME / PHD PART TIME - if PhD Fulltime/ Part Time respectively
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: Round In which seat Allotted — Options to be filled: MTECH/ MSC:- Select the round in which the final seat is allotted. If seat is allotted in Special Round select 'SPOT' PhD:- NONE
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: Application No — Options to be filled: None
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: Seat Allotted Through — Options to be filled: MTECH/ MSC:- GATE/ JAM PHD:- VNIT Entrance Test
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: All India Rank(JEE/GATE/JAM) — Options to be filled: All India Rank in this Paper
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: JEE/ GATE/ JAM Score — Options to be filled: For MTECH & PHD:- GATE Score For MSc.:- marks scored out of 100 in JAM
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: Marks — Options to be filled: For MTECH & PHD:- GATE Score For MSc.:- marks scored out of 100 in JAM
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: GATE Year — Options to be filled: Year of Qualifying Exam
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: No of Student Appeared in GATE — Options to be filled: Number of Candidates Appeared in this paper(mentioned in GATE Scorecard)
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: GATE Registration No — Options to be filled: GATE Registration ID
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: GATE Paper Code — Options to be filled: Examination Paper
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: State of Eligibility/ Code — Options to be filled: NONE
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: State of Domicile — Options to be filled: NONE
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: JEE/ GATE/ JAM Roll no — Options to be filled: GATE Registration ID
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: Quota — Options to be filled: ALL INDIA
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Fields: Allotment Category — Options to be filled: M TECH/ MSC:- Category in which seat is allotted mentioned in CCMT verification Document. (Allocated Category) PHD:- Scheme mentioned against the name in Provisional 'List of Candidates Selected for Ph.D Program' list will be displayed on website.
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.TECH/ M.SC/ PhD: Candidate Category | Category for the candidate
+M.Tech Online
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Admissions sought To — Options to be filled: For M.Tech: Master of Technology
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Branch Allotted — Options to be filled: For MTECH Self Explanatory For Online MTech (EVT) summer admission(January-June): M. Tech in Electrical Vehicle Technology S
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Round In which seat Allotted — Options to be filled: NONE
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Application No — Options to be filled: None
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Seat Allotted Through — Options to be filled: VNIT Entrance Test
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: All India Rank(JEE/GATE/JAM) — Options to be filled: All India Rank (Any numerical)
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: JEE/ GATE/ JAM Score — Options to be filled: 0
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Marks — Options to be filled: 0
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: GATE Year
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: No of Student Appeared in GATE — Options to be filled: 0
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: GATE Registration No — Options to be filled: 0
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: GATE Paper Code — Options to be filled: 0
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: State of Eligibility/ Code — Options to be filled: NONE
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: State of Domicile — Options to be filled: NONE
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: JEE/ GATE/ JAM Roll no — Options to be filled: 0
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Quota — Options to be filled: NONE
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Allotment Category — Options to be filled: General
+In this part, Student need to give information related to the program and Branch he has been allotted seat and other related information. | M.Tech Online: Fields: Candidate Category — Options to be filled: Category for the candidate
+Note:
+Candidate Category: Please select the actual category of the student as
+Candidate Category: Please select the actual category of the student as | Note: Particular: Candidate belonging to GENERAL category — Select Category: GENERAL
+Candidate Category: Please select the actual category of the student as | Note: Particular: Physically Handicap Candidate belonging to GENERAL category — Select Category: GHNPH
+Candidate Category: Please select the actual category of the student as | Note: Particular: Candidate belonging to OBC category — Select Category: OBC
+Candidate Category: Please select the actual category of the student as | Note: Particular: Physically Handicap Candidate belonging to OBC category — Select Category: OBCPH
+Candidate Category: Please select the actual category of the student as | Note: Particular: Candidate belonging to Scheduled Caste category — Select Category: SC
+Candidate Category: Please select the actual category of the student as | Note: Particular: Physically Handicap Candidate belonging to Scheduled Caste category — Select Category: SCPH
+Candidate Category: Please select the actual category of the student as | Note: Particular: Candidate belonging to Scheduled Tribe category — Select Category: ST
+Candidate Category: Please select the actual category of the student as | Note: Particular: Physically Handicap Candidate belonging to Scheduled Tribe category — Select Category: STPH
+In the above tables if any field is not mentioned it is because either it is self-explanatory or not mandatory.
+For Ph D Admission-
+Scheme mentioned against the Names in the ' Provisional List of Candidates Selected for Ph.D. Program '. (As displayed on website)
+Institute Fellowship
+R & D Project
+Sponsored
+Industry Sponsored
+CSIR Fellowship
+DST Inspire Fellowship
+MeitY/ DeitY-Scheme
+QIP Fellowship
+UGC-JRF Fellowship
+Part Time - General
+Part Time - MeitY Scheme
+Part Time - TEQIP-III
+Part Time - Gate
+Part Time -Non Gate
+Full Time Non Gate
+B.Tech/ B. E. to PhD with Gate
+B.Tech/ B. E. to PhD without Gate
+ii. Personal Details
+Scheme mentioned against the Names in the Provisional List of Candidates Selected for Ph.D. Program '. (As displayed on website) | ii. Personal Details: Students Name | BTECH: - Same as mentioned on Class XII mark sheet MTECH:- Same as mentioned on BTECH mark sheet MSC.:- Same as mentioned on BSC mark sheet PHD:- Same as mentioned on MTech/ MSc mark sheet
+Scheme mentioned against the Names in the Provisional List of Candidates Selected for Ph.D. Program '. (As displayed on website) | ii. Personal Details: Other Fields are self-explanatory | Other Fields are self-explanatory
+In this part, Student need to give information related to his Full Name, Fathers Full Name, Mothers Full name etc. Details of Information to be filled in this part please see below,
+Email Id: Candidate must enter his / her own Mail Id; all communication will be done through this mail id. Make sure you enter correct mail id, if any loss of communication happened on this given mail id, VNIT is not responsible.
+Nationality: All candidates except foreign nationals must enter Nationality as 'INDIAN'. For Foreign Nationals - select as per their Nationality.
+Mobile No.: Candidate must give his / her correct Mobile Number for any future telephonic communication will be done on this number only. Please do not enter Parent Mobile number. Separate information field is available for Parent Contact information. VNIT assures that, we are not sharing student's contacts with any other organization for any promotional activity etc.
+Password: Student need to create own password, please see the Directives mentioned to make strong and safe password. This password is Important to login and fill further steps in this registration process.
+iii. Address Details
+In this part, Student need to give information related to his address, contact details etc. All Fields are self-explanatory (but mostly mandatory). Please fill correct address so that exact communication may be done.
+Finally, Student needs to submit the filled form by pressing the 'Submit' Button. Please wait after submitting the form, it will finally generates and show Registration Id (viz. 2022*****) and Password for Login to complete the remaining registration process .
+After you receive Registration Id (viz. 2022*****) and Password, login again to the link: http://vnitreg.vnit.ac.in/vrce and complete the remaining steps of registration.
+Kindly Note down/ remember the login credential as this will be required for future login.
+ After completing step 1, proceed to pay the Balance fees (if any) through VNIT Pay
+Procedure for payment through VNIT Pay:
+Select E payment option on the VNIT Home page:
+Select Payment Category as Application/ Admission Fee
+Select options as applicable to you from the available dropdown menu.
+Select VNIT Online registration Number: Enter the 9 digit number generated after VNIT online Registration. eg.202212345
+Enter all the mandatory fields.
+Fees will be selected automatically after selecting the Payment Category.>> Submit
+Select from payment options
+Make Payment>> Download receipt generated in PDF format
+After making the payment again Go to Link http://vnitreg.vnit.ac.in/vrce and login with the Registration ID (viz. 2022*****) and complete the remaining online registration process.
+Q: What is main Information to be filled in the Step 2?
+A: In this step, student needs to submit information related to his / her parent, viz. 'Father's / Parent's Occupation & Designation, Office Address', 'Mother's Occupation & Designation, Office Address' (if available) and in 'Other Details' - Income details of Father & Mother also short details (including contact No.) of 2 relatives (Local Guardian Details) (in case of emergency contact).
+Q: What if any of the parents is not alive?
+A: Please mention details of Parent alive in the mandatory fields 'Father's / Parent's Occupation & Designation, Office Address' and you can skip the 'Mother's Occupation & Designation, Office Address'
+Q: What if the income of Parent is Nil?
+A: Mention '0', as numeric entry is mandatory.
+Rest of the fields are self-explanatory, student must fill all the available information related to this Step.
+Q: What is main Information to be filled in the Step 3?
+A: In step 3, Student needs to enter qualifying exam or education details.
+For UG : Student only needs to fill HSSC / SSC Details.
+In Board Name, write the name of the education board from which they have cleared the exam.
+In Address of the School, student can write city name.
+For PG : All PG Student (M Tech, M Sc & Ph D) needs to enter all the HSSC / SSC Details also the qualifying exam degree details in the fields mentioned in the step 3.
+For M Tech & M Sc - Qualifying Exam is UG Degree.
+For Ph D - Qualifying Exam is PG Degree.
+All PG students take note that they will enter respective details in the given fields.
+Bank Account Details:
+Students need to enter their own account details. These details are necessary for transfer of money regarding any refund of fees / Scholarship / Academic Excellence Cash prizes etc.
+For 1 st year UG student: if student are not having any bank account / minor account, then they can skip this entry, but they need to update their bank account details in AIMS (Academic Information Management System) by logging in AIMS (details will be displayed accordingly).
+All students must have their Bank Accounts in SBI or CANARA BANK( any branch)
+In any case they do not have their Bank Account in either of these banks, please open an account in any of these bank, within 30 days, for hassle free transfer of money.
+Failing of creating a Bank account within a month in SBI/ CANARA will lead to discontinuation of stipend.
+Institute Reporting Fees Payment Details:
+In this field, student need to enter fees details paid to VNIT for institute reporting (For fees amount refer separate notice or see Institute Reporting Instructions / Instructions for Portal Registration). If student are not required to pay any fees at the time of institute reporting then he / she can put, Transaction/Ref no. - NONE, Date of Transaction - 'CURRENT DATE' and Amount - '0'
+Other Details & Enclosures:
+In this student need to upload Passport Size Photo (Size mentioned) and Signature (Size mentioned). Make sure that the Photo & Signature must be clear and with White Background.
+Further, students need to tick mark the documents he / she has attached for institute reporting.
+After filling all details completely, press submit button.
+If you are trying to check the uploaded photograph in the same form, it will not appear. You will be able to check the uploaded photograph in 'PRINT FORM' section only.
+Q: What is Information to be filled in the Step 4?
+A: In step 4, Student needs to upload all scan copies of Educational certificates and all other relevant documents required for admission. Make sure that scan copy is of only original documents are to be uploaded (scanned copy of photocopied document will not be accepted).
+It is recommended to SCAN the documents into PDF using a suitable scanner application and then upload them. Taking picture of Educational certificates and other documents and converting into PDF, leads to bigger file size and will lead to problems for uploading other documents. Kindly avoid doing so.
+Following are the list of scanned documents to be uploaded in scan:
+Final Seat Allotment Letter (JoSAA / CCMT / CCMN / DASA)
+Document Verification Letter - Seat acceptance letter from Admission Authority
+JEE / GATE / JAM / SAT Score Card - Score card of Entrance Exam
+Photo ID Proof - As per Govt. of India Norms
+Date of Birth Proof - Birth Certificate / 10 th Std Passing Certificate (Mentioning DOB)
+Class X Mark sheet
+Class XII Mark sheet
+All UG (Semester/Year) Mark sheets (one pdf file) - Scan all Semester / Year Mark sheets in one file. This is for M Tech / M Sc / Ph D.
+UG Degree - This is for M Tech / M Sc / Ph D.
+All PG (Semester/Year) Mark sheets (one pdf file) - This is for Ph D.
+PG Degree - This is for Ph D.
+Caste Certificate (SC/ST/OBC -NCL) - Must be as per norms
+Caste Validity (for Maharashtra Candidate) - Must be as per norms
+EWS Certificate - Must be as per norms
+PwD Certificate (if applicable) - Must be as per norms
+Leaving / Transfer Certificate - Issued by last attended School / College / Institute
+Migration Certificate for (PG Candidates) - Issued by last attended College / Institute
+Fees Payment Copy (JoSAA / CCMT / CCMN / DASA) - If receipts of fees payment (to Central Admission Authority) are not available, please upload Final Seat acceptance letter with clearly mentioned (or highlighted) all the fee payment made to Central Admission authority.
+Fees Payment Copy (VNIT)
+Passport (candidate & Parents), PIO / OCI Card, in case of DASA students.
+For CIWG - Parents employer's Certificate
+Undertaking - Anti ragging - To be downloaded filled by candidate then scan it original then upload (See VNIT website, http://vnit.ac.in for Format)
+Undertaking - Non-Submission of Documents - To be downloaded filled by candidate then scan it original then upload (See VNIT website, http://vnit.ac.in for Format)
+Undertaking - PwD candidates - To be downloaded filled by all PwD candidate then scan it original then upload (See JOSAA website, for Format)
+Annexure V: Format for Affidavit regarding Participation in Special Rounds (if any).
+Other Relevant Document 1 (Ex: Gap Certificate [if applicable])
+Other Relevant Document 2
+Other Relevant Document 3
+Other Relevant Document 4
+Please upload Final Seat acceptance letter with clearly mentioned (or highlighted) all the fee payment made to Central Admission authority.
+Foreign Candidate (DASA Admissions), make sure they need to upload Scan Copy of their Passport / PIO/ OCI / Parent Employers Certificate for CIWG Category etc., under Other Relevant Documents.
+Candidate can upload and preview the documents he / she have uploaded. If any wrong document gets uploaded, he / she can delete and again upload correct document. Student make sure that submission of wrong documents or incomplete documents leads to cancellation of his / her candidature and he / she may lose the seat, so be careful while uploading the documents.
+After upload completes, just press submit.
+Candidate can check his filled form by pressing 'Print Form'. Check all the information entered and if any changes are required then he / she can go to that particular step and make the modification and save it.
+All candidate need to take Special Note that, once your online application is checked/ verified by VNIT, Nagpur, no changes will be allowed. So make sure the entries done by you are double cross checked. Also please make sure that all instructions must be followed properly regarding Photo / Signature upload, Scan copies of Documents upload and information entered by student.
+This process of online registration and document uploading is to be done by the candidate before reporting to the institute.
+IMP NOTE:
+Procedure for Cancellation- Applicable only to the candidates who receives the Provisional Reporting Letter from VNIT, Nagpur and whose ID is generated (mentioned in Provisional Reporting Letter). For such candidates the details of cancellation are mentioned in the given link: https://vnit.ac.in/academic/index.php/admission-cancellation-and-refund-guidelines/
+Instructions for Scanning of Photo, Signature & Documents
+Image of Your Photograph and Signature:
+Photograph must be a recent passport style color picture.
+Allowed Photo Size - 3.5 cm x 4.5 cm
+Size of file should be between 4kb-100 kb and should be in JPG/JPEG format
+Ensure that the size of the scanned image is not more than 100KB. If the size of the file is more than 100 KB, then adjust the settings of the scanner such as the DPI resolution, no. of colors etc., during the process of scanning.
+Signature Image
+The applicant has to sign on white paper with Black Ink / Jel pen.
+The signature must be signed only by the applicant and not by any other person.
+Dimensions 3.5 cm x 1.5cm (preferred)
+Size of file should be between (1KB - 30KB) and should be in JPG/JPEG format
+Ensure that the size of the scanned image is not more than 30KB
+Scanning the Photograph & Signature
+Set the scanner resolution to a minimum of 200 dpi (dots per inch)
+Set Color to True Color
+File Size as specified above
+Crop the image in the scanner to the edge of the photograph/signature, then use the upload editor to crop the image to the final size (as specified above).
+The image file should be JPG or JPEG format. An example file name is: image01.jpg or image01.jpeg Image dimensions can be checked by listing the folder files or moving the mouse over the file image icon.
+Scanning Educational certificates and other documents Upload
+In Step 4 of Registration, student needs to upload scan documents. Some important instructions regarding document uploading.
+Students are advised to scan the documents in PDF format only.
+Use a suitable scanner scans the original documents. They can also use smart phone to scan the documents, but make sure the image quality will not be degraded (image must be bright and all the information mentioned must be seen clearly)
+Scanning from the photocopy is not advisable, scan and upload only original documents.
+Ensure that the size of the scanned file is not more than 500KB
+Taking picture (image) of Educational certificates and other documents and converting into PDF, leads to bigger file size. It is recommended to SCAN and COMBINE into PDF using a suitable scanner application / Scan with actual scanner machine to avoid bigger size and then upload the documents.
+Details of documents to be scanned are available in FAQs (Frequently Asked Questions) and reporting Instruction.

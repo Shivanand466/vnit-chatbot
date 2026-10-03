@@ -1,0 +1,13 @@
+SOURCE_URL: https://drive.google.com/file/d/1Pcw8Q6bDpQhL_tECWslkzCt4QrKbnxdg/view
+TITLE: Machine Learning-Assisted Power Converter Prognostic Health Management (PHM) at the Edge
+FETCHED: 2026-08-13
+FOUND_ON: https://vnit.ac.in/ia-events
+---
+Document: Machine Learning-Assisted Power Converter Prognostic Health Management (PHM) at the Edge (dated 2026-08-13)
+Visvesvaraya National Institute of Technology, Nagpur, M.S., India
+Office of the Dean (International Affairs)
+Dr. Harish S. Krishnamoorthy, Associate Professor, ECE Department, University of Houston, Texas, USA visited Visvesvaraya National Institute of Technology, Nagpur, M.S., India on 28 th July 2026. Dr Harish has delivered an Expert Talk on 'Machine Learning Assisted Power Converter Prognostic Health Management (PHM) at the Edge' .
+A key challenge with most existing power conversion infrastructure is the difficulty of assessing its health and adjusting its performance in real time without disrupting operations. To enhance dynamic performance and improve resiliency, there is a growing focus on mission profile-oriented design methods that seamlessly integrate data-driven approaches with onboard power hardware. These methods facilitate system monitoring, dynamic adaptation, and prognostic health management (PHM). By enabling real-time identification of aging or failing hardware, they help prevent premature decommissioning and extend operational life. Additionally, they empower system operators to make informed maintenance and repair decisions in the field while allowing supply chain teams to optimize logistics and inventory. In this talk, some circuits and systems were used to assess the degradation profiles of GaN FETs and capacitors. Statistical and machine learning based approaches have been explored to merge the degradation profiles and assess the remaining useful lifetime (RUL) of power converters insitu, otherwise known as ' at the edge ' .
+This talk was attended by Faculty Members, Ph D Scholars and M Tech Students. Dr Harish interacted with Director, Dean, HoDs and Faculty Members for possible future collaborations between VNIT Nagpur and University of Houston. Dr Pradyumn Chaturvedi is the Coordinator of this event.
+Visit of Dr. Harish S. Krishnamoorthy, Associate Professor, ECE Department, University of Houston, Texas, USA visited Visvesvaraya National Institute of Technology, Nagpur on 28 th July 2026
+HOUSTON

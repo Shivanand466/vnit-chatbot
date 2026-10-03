@@ -1,0 +1,112 @@
+SOURCE_URL: https://drive.google.com/file/d/1UcEJplRjKIPfjwPq2LIT9eRDh5hdmGdA/view
+TITLE: Metallurgical & Materials Engineering
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Metallurgical & Materials Engineering (dated 2026-05-22)
+III Semester
+III Semester: Code: MMLA202 — Course Title / Name: METALLURGICAL THERMODYNAMICS AND KINETICS; Type: DC; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMLA207 — Course Title / Name: MINERAL PROCESSING TECHNOLOGY; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMLA203 — Course Title / Name: TESTING OF MATERIALS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMLA204 — Course Title / Name: POLYMERIC MATERIALS; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMLA205 — Course Title / Name: CERAMIC MATERIALS; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMLA206 — Course Title / Name: THEORY AND TECHNOLOGY OF HEAT TREATMENT; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMPA206 — Course Title / Name: THEORY & TECHNOLOGY OF HEAT TREATMENT LAB.; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMPA207 — Course Title / Name: MINERAL PROCESSING TECHNOLOGY LAB.; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMPA204 — Course Title / Name: POLYMERIC MATERIALS LAB.; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: MMPA203 — Course Title / Name: TESTING OF MATERIALS LAB.; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: Total — Course Title / Name: Credits; Type: Total; Credit: 24
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+B. Tech. in Metallurgical & Materials Engineering
+V Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML371 — Course Title / Name: METAL WORKING PROCESSES; Type: DC; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML372 — Course Title / Name: PRINCIPLES OF NON FERROUS EXTRACTION METALLURGY; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MMP372 — Course Title / Name: PRINCIPLES OF NON FERROUS EXTRACTION METALLURGY; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML374 — Course Title / Name: CHARACTERISATION OF MATERIALS; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML473 — Course Title / Name: COMPOSITE MATERIALS; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MMP473 — Course Title / Name: COMPOSITE MATERIALS; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MMP374 — Course Title / Name: CHARACTERISATION OF MATERIAL; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MMD301 — Course Title / Name: MINI PROJECT I; Type: DC; Credit: 2; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: Elective Courses Group — Course Title / Name: Elective Courses Group; Type: Elective Courses Group; Credit: Elective Courses Group; Exam Slot: Elective Courses Group; Offered (YES / NO): Elective Courses Group; Max No. of Students: Elective Courses Group
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML378 — Course Title / Name: WEAR OF ENGINEERING MATERIALS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MMP378 — Course Title / Name: WEAR OF ENGINEERING MATERIALS; Type: DE; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: PHL305 — Course Title / Name: ELECTRICAL AND MAGNETIC MATERIALS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: PHP305 — Course Title / Name: ELECTRICAL & MAGNETIC MATERIALS; Type: DE; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML356 — Course Title / Name: INTRODUCTION TO MATERIALS INFORMATICS; Type: DE; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML351 — Course Title / Name: PROCESS OPTIMIZATION; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML368 — Course Title / Name: INDUSTRIAL METALLURGY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML388 — Course Title / Name: CHEMICAL CHARACTERIZATION OF MATERIAL; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML390 — Course Title / Name: BIO MATERIALS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML357 — Course Title / Name: SAFETY MANAGEMENT AND POLLUTION CONTROL; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MML358 — Course Title / Name: ENERGY MATERIALS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE) — Credit: 22
+VII Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MMD401 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 4; Exam Slot: -; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML471 — Course Title / Name: STRUCTURAL METALLURGY; Type: DC; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MMP471 — Course Title / Name: STRUCTURAL METALLURGY; Type: DC; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML472 — Course Title / Name: ENVIRONMENTAL DEGRADATION; Type: DC; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MMP472 — Course Title / Name: ENVIRONMENTAL DEGRADATION five); Type: DC; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: Elective Courses (Any — Course Title / Name: Elective Courses (Any; Type: Elective Courses (Any; Credit: Elective Courses (Any; Exam Slot: Elective Courses (Any
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML494 — Course Title / Name: X- RAY DIFFRACTION AND ELECTRON MICROSCOPY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML443 — Course Title / Name: METALLURGY OF NUCLEAR MATERIALS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML479 — Course Title / Name: SELECTION OF MATERIALS; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML379 — Course Title / Name: NON DESTRUCTIVE TESTING; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML477 — Course Title / Name: SECONDARY AND SPECIAL STEEL MAKING; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML480 — Course Title / Name: FRACTURE MECHANICS; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML445 — Course Title / Name: ADHESIVE TECHNOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML442 — Course Title / Name: QUALITY CONTROL & SPECIFICATIONS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML520 — Course Title / Name: METALLURGY OF LIGHT METALS; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML404 — Course Title / Name: MATHEMATICAL MODELLING FOR METALLURGICAL PROCESSES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML488 — Course Title / Name: NANO MATERIALS; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: MML392 — Course Title / Name: MATERIALS ASPECTS IN ADDITIVE MANUFACTURING; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE) — Credit: 19
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (Materials Engg)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML501 — Course Title / Name: INTRODUCTION TO METALS & ALLOYS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MMP501 — Course Title / Name: INTRODUCTION TO METALS & ALLOYS; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML506 — Course Title / Name: STRUCTURE AND CHARACTERIZATION OF MATERIALS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MMP506 — Course Title / Name: STRUCTURE AND CHARACTERIZATION OF MATERIALS; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML507 — Course Title / Name: POLYMER ENGINEERING; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML510 — Course Title / Name: WELDING TECHNOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML509 — Course Title / Name: CERAMIC ENGINEERING; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML525 — Course Title / Name: THERMODYNAMICS OF MATERIALS; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MMP510 — Course Title / Name: MATERIALS ENGINEERING LAB; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: Elective Courses — Course Title / Name: Elective Courses
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML511 — Course Title / Name: (Any One) CASTING & SOLIDIFICATION; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML537 — Course Title / Name: NANO MATERIALS AND CHARACTERIZATION; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML521 — Course Title / Name: ENVIRONMENTAL MANAGEMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Code: MML520 — Course Title / Name: METALLURGY OF LIGHT METALS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Materials Engg): Course Title / Name: Total Credits (DC + DE) — Type: 0; Credit: 21
+IIISemester
+List of courses to be offered for 2026-27 (Winter 2026) | IIISemester: Code: MMD501 — Course Title / Name: PROJECT PHASE - I; Type: -; Credit: 6 -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | IIISemester: Course Title / Name: Total Credits (DC + DE) — Credit: 6
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (Process Metallurgy)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML551 — Course Title / Name: PHYSICAL METALLURGY AND HEAT TREATMENT OF METALS AND ALLOYS; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MMP551 — Course Title / Name: PHYSICAL METALLURGY AND HEAT TREATMENT OF METALS AND ALLOYS LAB; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML552 — Course Title / Name: METALLURGICAL THERMODYNAMICS AND KINETICS; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML553 — Course Title / Name: HEAT AND MASS TRANSFER IN METALLURGICAL PROCESSES; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML554 — Course Title / Name: THEORY AND TECHNOLOGY OF IRON MAKING Elective Courses; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML555 — Course Title / Name: CORROSION SCIENCE AND SURFACE ENGINEERING; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MMP555 — Course Title / Name: CORROSION SCIENCE AND SURFACE ENGINEERING LAB; Type: DE; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML558 — Course Title / Name: SOLIDIFICATION PROCESSING AND FOUNDRY PRACTICE; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MMP558 — Course Title / Name: SOLIDIFICATION PROCESSING AND FOUNDRY PRACTICE; Type: DE; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML557 — Course Title / Name: BENEFICIATION AND AGGLOMERATION TECHNOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MMP557 — Course Title / Name: BENEFICIATION AND AGGLOMERATION TECHNOLOGY; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML556 — Course Title / Name: FERRO-ALLOY TECHNOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MMP556 — Course Title / Name: FERRO-ALLOY TECHNOLOGY; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML530 — Course Title / Name: REFRACTORIES AND CERAMICS; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: MML520 — Course Title / Name: METALLURGY OF LIGHT METALS; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Process Metallurgy): Code: Total — Course Title / Name: Credits (DC + DE); Credit: 20
+IIISemester
+List of courses to be offered for 2026-27 (Winter 2026) | IIISemester: Code: MMD501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6 -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | IIISemester: Course Title / Name: Total Credits (DC + DE) — Credit: 6

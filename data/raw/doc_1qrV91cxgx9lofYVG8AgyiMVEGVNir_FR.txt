@@ -1,0 +1,47 @@
+SOURCE_URL: https://drive.google.com/file/d/1qrV91cxgx9lofYVG8AgyiMVEGVNir_FR/view
+TITLE: Add & Drop Notice for Winter 2026 Course Registration
+FETCHED: 2026-08-06
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Add & Drop Notice for Winter 2026 Course Registration (dated 2026-08-06)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Exam/W-26/1458
+Date: July 05, 2026 Date:July 05, 20z6
+NOTICE : NOTICE:
+Subject: Course Add / Drop Procedure for Winter 2026 Registration
+It is to bring to notice of all the students that the facility for adding or dropping courses after the completion of registration is generally not allowed. However, the following exceptions will be considered for course Add / Drop:
+If a student has passed or failed a backlog course in Summer 2026 / Re-Summer 2026 / Summer Term 2026.
+If a student has cleared a backlog course or passed the RS-26 examination and has already registered for the same course in Winter 2026 before declaration of the RS-26 / ST26 results, such students shall submit a request for dropping the course from their Winter 2026 registration.
+If a student wishes to add or drop any course (except OC/HM & IE courses) due to any unforeseen reason during the Winter 2026 session, the following procedure shall be followed.
+Procedure for Students
+Students intending to Add/Drop any course shall first submit their request through the Google Form available at the link given below. Only requests submitted through the Google Form shall be considered.
+Google Form Link: https://forms.gle/ThZWYXKR5BtjYb8j8
+After successful submission of the Google Form, students shall take a printout of the generated Add/Drop Form and self-sign the same.
+The student shall obtain the signatures/approval of all the concerned Course Coordinators for the course(s) to be added and/or dropped.
+Thereafter, the student shall obtain the signatures of the Faculty Advisor and the Head of the Department (HoD) on the printed Add/Drop Form.
+After obtaining all the required signatures, the student shall report to the Faculty Advisor with the duly completed Add/Drop Form (within the time period specified, late requests will not be considered).
+The Faculty Advisor shall carry out the Add/Drop transaction in AlMS strictly as per the guidelines for courses mentioned in the duly approved Add/Drop Form (within the time period specified, late requests will not be considered).
+If the course that the student intends to add is not appearing in the student's Winter 2026 course registration, the student shall first report to the Examination Section before approaching the Faculty Advisor for Add/Drop.
+Individual applications, e-mails, or requests in any format other than the prescribed Form (submitted through Google Form only) and the duly signed printed Add/Drop Form shall not be accepted.
+Students have not registered for W-26 are not eligible for add / drop of courses.
+Instructions for Faculty Advisors
+Before processing any Add/Drop request, the Faculty Advisor shall ensure the following:
+Verify that no examination slot clash will arise due to the addition of the new course.
+Verify that the maximum registration limit, if any, for the concerned Departmental Elective (DE) course has not been exhausted.
+No OC/HM & IE course shall be added, dropped, or modified through the Add/Drop process.
+Ensure that the printed Add/Drop Form bears the signatures of the concerned Course Coordinator(s), Faculty Advisor, and HoD before carrying out any Add/Drop transaction.
+The Add/Drop transaction shall be carried out only by the Faculty Advisor in AlMS (within the time period specified, late requests will not be considered) based on the duly approved Add/Drop Form submitted by the student.
+Further, the Faculty Advisor shall ensure that the following conditions are complied with:
+In case a student has passed or failed a backlog course in Summer 2026 / ReSummer 2026 / Summer Term 2026, the registration shall be verified accordingly.
+If a student has cleared a backlog course or passed the RS-26 / ST26 examination and has already registered for the same course in the Winter 2026 session prior to the declaration of the RS-26 / ST26 results, the student shall submit a request for dropping the said course from the Winter 2026 registration.
+If a student wishes to add or drop any course (except OC/HM and IE courses) due to any unforeseen reason during the Winter 2026 session, the prescribed add/drop procedure shall be followed.
+Addition / dropping of OC or HM or IE courses is not allowed
+In case of any difficulty or discrepancy during the Add/Drop process, the matter shall be reported to the Examination Section immediately.
+Schedule for Add / Drop process:
+Start Date of Google form filling - 06/08/2026, 4:00 PM
+Last Date of Google form filling - 10/08/2026, 6:00 PM
+Start Date for processing of Add/Drop requests by FA - 12/08/2026, 09:00 AM Start Date for processing o1 Add/Drop requests by FA - 12/u8/zuz6, u9:0u AM
+Last Date for processing of Add/Drop requests by FA - 17/08/2026, 05:00PM Last Date for processing of Add/Drop requests by FA - 17/08/2026, 05:00 PM
+To,
+All HoD for information and necessary action,
+With a request to note that splitting of Sections(s) / Batch(s) will be done only after the execution of Add/ Drop Procedure

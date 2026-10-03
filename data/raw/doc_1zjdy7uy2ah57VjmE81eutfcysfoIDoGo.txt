@@ -1,0 +1,14 @@
+SOURCE_URL: https://drive.google.com/file/d/1zjdy7uy2ah57VjmE81eutfcysfoIDoGo/view
+TITLE: V L S I
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: V L S I (dated 2026-08-05)
+I Semester
+I Semester: Code: ENL509 — Course Title / Name: ADVANCED DEVICE PHYSICS; Type: DC; Credit: 4 H; Offered (YES / NO): Offered; Max. No. of Students: 25
+I Semester: Code: ENL511 — Course Title / Name: CMOS DIGITAL VLSI DESIGN; Type: DC; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered; Max. No. of Students: 25
+I Semester: Code: ENL513 — Course Title / Name: IC DESIGN WITH HDL; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max. No. of Students: 25
+I Semester: Code: ENL517 — Course Title / Name: MICRO AND NANO FABRICATION TECHNOLOGIES; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max. No. of Students: 25
+I Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 16
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for 2026-27 (Winter 2026)
+M.TECH (VLSI Design)

@@ -1,0 +1,60 @@
+SOURCE_URL: https://drive.google.com/file/d/1oz7PXxtaaXCVmhDfuyNChd_UwF1n98Jd/view
+TITLE: IEEE
+FETCHED: 2025-02-21
+FOUND_ON: http://vnit.ac.in/student-activity-clubs-vnit
+---
+Document: IEEE (dated 2025-02-21)
+IEEE
+Report 2024-25
+Events Organized by IvLabs in Collaboration with IEEE
+1. Introduction to Python Programming
+The "Introduction to Python Programming" workshop, organised by IEEE in collaboration with IvLabs, also took place on January 11th, 2025. The workshop aimed to provide students with a foundational understanding of Python and its various applications in the field of robotics. The session targeted individuals with little to no prior experience in programming, making it accessible to students, professionals, and enthusiasts alike.
+The workshop was organised with a carefully planned agenda to cover essential topics in a structured manner. It began with Python basics, covering topics such as variables, data types, working with strings, lists, and dictionaries, as well as conditional statements and loops. Students were given hands-on exercises to practise these concepts and gain confidence in their coding abilities. The workshop explored functions and modules in Python, teaching the students how to create and use functions effectively. Furthermore, they gained insights into various libraries and modules available in Python for specific tasks, such as data analysis, and more.
+The impact of the workshop was significant, as many expressed their desire to continue exploring Python and utilise it in their personal projects and academic pursuits. The workshop was a great success and the event achieved its objectives of providing a solid foundation in Python and inspiring students to pursue further learning.
+Image Processing
+On 18th Jan 2025, IEEE in collaboration with IvLabs, hosted the 'Image Processing Workshop', aimed at
+providing students with valuable insights into the world of image processing and computer vision. The workshop aimed to enhance students' knowledge and skills in image processing techniques, applications, and the latest advancements in the field. In the first session, students were introduced to the fundamentals of image processing through the OpenCV library in Python, covering key concepts, basic terminologies, and their significance in various domains. We also explored image filtering and restoration techniques. Students were introduced to filtering methods like median filtering and Gaussian filtering. Additionally, techniques for image denoising and restoration were also discussed. The next session focused on image segmentation algorithms. Attendees learned about various techniques such as thresholding, region-based segmentation, and edge-based techniques, which are crucial in dividing an image into meaningful regions. The final session of the day discussed real-world applications of image processing. Students were exposed to a range of practical applications, such as medical imaging, surveillance, object detection, and augmented reality. The workshop proved to be a highly informative and engaging event. Students gained valuable insights into the fundamental concepts, advanced techniques, and real-world applications of image processing. This hands-on workshop offered a practical dimension to the theoretical knowledge, empowering
+attendees to explore image processing in their respective fields of interest.
+3. Electronics Workshop
+Introduction:
+The Electronics Workshop was conducted by IvLabs, the Robotics and AI Club of VNIT Nagpur, in collaboration with the IEEE student branch. This workshop was organized specifically for first-year students, with the aim of introducing them to the basics of electronics, embedded systems, and practical applications in robotics. The primary project undertaken during the workshop was the development of a Bluetoothcontrolled car, which provided students with hands-on experience with various electronic components and microcontrollers.
+Objectives:
+To familiarize first-year students with fundamental electronic components and circuitry.
+To introduce the working principles of microcontrollers and sensor interfacing.
+To develop a Bluetooth-controlled car as a practical application project.
+Workshop Details:
+Date:
+·
+11/2/25 and 12/2/25
+Venue: CRC VNIT
+Components Used:
+During the workshop, students worked with a variety of electronic components and sensors. The primary components included:
+ESP32 Microcontroller: Used as the central control unit with Bluetooth functionality.
+Ultrasonic Sensor: Employed for obstacle detection and distance measurement.
+IR Sensors: Utilized for line detection and path-following capabilities.
+BO Motors: Used for driving the car wheels.
+Motor Driver Module: Interfaced between the microcontroller and motors to control speed and direction.
+Bluetooth Module: Integrated into the ESP32 for wireless communication.
+Power Supply Module: Provided appropriate voltage levels for the entire system.
+Chassis and Wheels: Mechanical support and locomotion components.
+Workshop Structure:
+1. Introduction Session:
+o Overview of Electronics and Embedded Systems.
+o Introduction to the ESP32 microcontroller and Bluetooth communication.
+Component Familiarization:
+o Hands-on demonstration of each component's functionality.
+o Explanation of interfacing components with the ESP32.
+Assembly and Circuit Connections:
+o Guided assembly of the Bluetooth-controlled car.
+o Wiring and testing individual components.
+Programming Session:
+o Writing basic control code using Arduino IDE.
+o Implementing Bluetooth connectivity to control the car.
+Testing and Troubleshooting:
+o Real-time testing of the Bluetooth-controlled car.
+o Debugging common issues faced by participants.
+Cost and Funding
+Each kit required for the project was estimated to cost approximately Rs. 1300 per team of three students. To make the workshop more affordable and accessible, IEEE provided partial funding support. As a result, the final cost per team was reduced to Rs. 750, significantly easing the financial burden on students.
+Apart from these workshops in collaboration with IvLabs, one seminar was conducted on 14th November 2025 for college students by IEEE independently
+A Drone and Remote Sensing seminar with MRSAC (Maharashtra Remote sensing and Application centre).
+The seminar aimed to introduce students to cutting-edge technologies in drone applications and remote sensing. The focus was on enhancing understanding of how drones are revolutionizing data collection and analysis in various sectors, with an emphasis on their role in remote sensing applications.

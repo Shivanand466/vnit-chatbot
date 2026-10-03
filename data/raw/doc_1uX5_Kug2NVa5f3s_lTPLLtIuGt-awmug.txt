@@ -1,0 +1,61 @@
+SOURCE_URL: https://drive.google.com/file/d/1uX5_Kug2NVa5f3s_lTPLLtIuGt-awmug/view
+TITLE: Brochure
+FETCHED: 2024-05-29
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Brochure (dated 2024-05-29)
+Online Master of Technology (M.Tech, 2 Years) and P.G. Diploma (1 Year) in Computational Fluid-Thermal Sciences (CFTS)
+Overview of Foundation Batch: Our journey began with a group of 11 dedicated individuals, each bringing with them a wealth of industrial experience and a shared passion for advancing their careers in Computational Fluid-Thermal Sciences (CFTS).
+Legacy Exchange Sessions: Building Bridges: Join us as we bridge past and present with Legacy Exchange Sessions. These gatherings unite our new and returning students, honoring the invaluable insights of our foundation batch. Through these sessions, incoming students gain practical advice and guidance from seasoned professionals.
+Duration and Structure:
+M.Tech Program (2-4 years) (Total Credits 52) : This program is designed for candidates who aspire to deepen their understanding of computational fluid-thermal sciences by undertaking a research project in addition to completing the required coursework.
+P.G. Diploma Program (1-2 years) (Total Credits 40): This program is designed for individuals who want to enhance their knowledge and expertise in fluid dynamics and heat transfer without taking on a research project.
+Program highlights:
+ Online Delivery
+ No GATE Score Required
+ Flexible Learning Options
+ Experienced Faculty
+ Industry-Relevant Curriculum
+ Practical Hands-On Experience
+ Thesis Completion
+ VNIT Degree
+ Placement Support
+ Alumni Benefits
+ Earn Degree Without Leaving Your Job
+ Visit to VNIT during thesis work
+Target Audience:
+ B.Tech./BE/BS Graduates in Mechanical, Aerospace, Chemical, or Civil Engineering
+ Working Professionals seeking to enhance their knowledge
+Important Dates:
+ Applications Start: May 28, 2024
+ Last Date to Apply: June 28, 2024
+ Interview will start: June 10, 2024
+ Classes Start (Tentative): July 29, 2024
+Fee Structure: India Students
+ P. G. Diploma: Total cost = Rs. 2,55,000/-
+ M.Tech: Total cost = Rs. 3,27,000/-
+Course offerings:
+ Advanced Fluid dynamics and Heat Transfer
+ Computational Methods in Fluid Dynamics
+ Analysis of Fluid flow and Heat transfer with OpenFOAM
+ Computational Physics with Python
+ Advanced Numerical Methods for Fluid flow and Heat Transfer
+ Advanced simulations and programming with OpenFOAM
+ Multi-phase flow
+Elective Courses:
+ Machine Learning and Artificial Intelligence in Engineering
+ Data Analytics for Engineering Applications
+ Engineering Optimization
+ Finite Element Method
+ Convective heat transfer
+ Boundary layer theory
+ Turbulence Modeling and Simulation
+ Mini Project
+One Year Thesis:
+ The research project should be completed within a duration of 1 year.
+International Students
+ P. G. Diploma: Total cost = 10,500 USD
+ M.Tech: : Total cost = 13,500 USD
+Application process: If you are interested, please fill out the inquiry form by clicking on the following link: [Click Here]
+Department of Mechanical Engineering
+South Ambazari Road, NAGPUR-440010, Maharashtra, INDIA

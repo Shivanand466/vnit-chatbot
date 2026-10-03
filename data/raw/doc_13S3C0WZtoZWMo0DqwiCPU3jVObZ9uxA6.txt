@@ -1,0 +1,25 @@
+SOURCE_URL: https://drive.google.com/file/d/13S3C0WZtoZWMo0DqwiCPU3jVObZ9uxA6/view
+TITLE: Instruction for image -photo upload
+FETCHED: 2026-07-10
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Instruction for image -photo upload (dated 2026-07-10)
+Instructions for Image, Photo Upload
+Image of Your Photograph, Signature
+Photograph Image:
+Photograph must be a recent passport style color picture.
+Allowed Photo Size - 3.5 cm x 4.5 cm
+Size of file should be between 4kb-100 kb and should be in JPG/JPEG format
+Ensure that the size of the scanned image is not more than 100KB. If the size of the file is more than 100 KB, then adjust the settings of the scanner such as the DPI resolution, no. of colors etc., during the process of scanning.
+Signature Image
+The applicant has to sign on white paper with Black Ink / Jel pen.
+The signature must be signed only by the applicant and not by any other person.
+Dimensions 3.5 cm x 1.5cm (preferred)
+Size of file should be between (1KB - 30KB) and should be in JPG/JPEG format
+Ensure that the size of the scanned image is not more than 30KB
+Scanning the Photograph, Signature
+Set the scanner resolution to a minimum of 200 dpi (dots per inch)
+Set Color to True Color
+File Size as specified above
+Crop the image in the scanner to the edge of the photograph/signature, then use the upload editor to crop the image to the final size (as specified above).
+The image file should be JPG or JPEG format. An example file name is: image01.jpg or image01.jpeg Image dimensions can be checked by listing the folder files or moving the mouse over the file image icon.

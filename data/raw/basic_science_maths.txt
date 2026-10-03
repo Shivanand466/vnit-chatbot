@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/basic_science/maths
 TITLE: VNIT Nagpur Mathematics Department
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Programme's
 B. Tech. in Mathematics & Computing
@@ -11,8 +11,7 @@ PO's / PEO's
 PEO's
 PEO's
 Departmental Newsletter
-Invited talk/
-guest lecture
+Invited talk/ guest lecture
 About Department
 Faculty and Staff of the Department of Mathematics
 Orientation program for M. Sc. Mathematics
@@ -50,18 +49,12 @@ To provide an environment where students can learn, become competent users of ma
 Mission
 To be a leading Mathematics Department in the country.
 To emerge as a global center of learning, academic excellence, and innovative research.
-Department Stats
-0
-PG Specialisations
-0
-UG Specialisations
-0
-Faculty
-0
-Students
-0
-Publications (2025-26)
-0
+Department Stats 0
+PG Specialisations 0
+UG Specialisations 0
+Faculty 0
+Students 0
+Publications (2025-26) 0
 Patents
 News & Events
 Department of Mathematics commenced B.Tech. in Mathematics and Computing from July 2026 session

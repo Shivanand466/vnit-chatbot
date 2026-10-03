@@ -1,9 +1,8 @@
 SOURCE_URL: https://vnit.ac.in/%f0%9f%8e%93-vnit-nagpur-24th-convocation-2026
 TITLE: 🎓 VNIT Nagpur | 24th Convocation 2026
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
-🎓 VNIT Nagpur | 24th Convocation 2026
-vnit_web
+🎓 VNIT Nagpur | 24th Convocation 2026 vnit_web
 August 28, 2026
 News & Events
 A Celebration of Achievement. A Journey Towards Excellence.

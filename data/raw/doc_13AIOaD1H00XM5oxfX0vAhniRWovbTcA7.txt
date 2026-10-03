@@ -1,0 +1,47 @@
+SOURCE_URL: https://drive.google.com/file/d/13AIOaD1H00XM5oxfX0vAhniRWovbTcA7/view
+TITLE: Election Management System User Manual for Students
+FETCHED: 2025-07-02
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Election Management System User Manual for Students (dated 2025-07-02)
+6. Student Functionalities
+Login Procedure
+Students log in using institute credentials.
+Select appropriate Academic Year (2024-25) and Session (S25) .
+Note: Google Chrome is the compatible browser for the student council election module. Students are advised to use the same browser only for the election process (for filing Nomination and voting).
+If dark mode is enabled, change it to the light mode in setting. The setting can be found in the right top corner. Click on the photo icon in the right top corner and choose setting from dropdown.
+Nomination Master
+Path: Election Management → Master → Nomination Master
+Functions:
+o View election events and available posts
+o Check own eligibility (CGPA, hostel status, program type)
+o Upload required documents for nomination
+o Submit nomination forms online
+Admins can also update student documents submitted during nomination filter.
+Election Management System
+Election Management System
+Election Management System
+Voting Master
+Note: The system is tested for use on the Google Chrome browser only . If the AIMS portal is in Dark Mode, please switch to Light Mode for better visibility and functionality.
+Path: Election Management → Master → Voting Master
+Functions:
+o View available posts and list of nominees
+o Cast vote per post
+o Submit vote securely within the election window
+o NOTA (None of the Above) option available if enabled
+Nomination Document Details
+Election Management System
+Path: Election Management → Master → Nomination Document Details
+· Functions:
+o View nomination details for each post
+o Check manifesto and desirable criteria submitted by nominee
+7. Email Notifications
+Automated email notifications are sent to students upon nomination submission and filtering.
+Email content includes:
+o Nomination Mail : Confirms application submission.
+o Selection Mail : Confirms nomination acceptance.
+o Rejection Mail : Informs of rejection with reasons, if configured.
+7. Conclusion
+The Election Management System is a comprehensive platform for conducting digital elections within VNIT. This user manual is intended to facilitate smooth usage of the platform by both Election Officers and Students.
+For any technical assistance, please contact the system administrator or Micropro support team.
+Election Management System

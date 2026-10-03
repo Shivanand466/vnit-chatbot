@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/centre-for-innovation
 TITLE: Centre for Innovation
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Home
 E-Bulletin
@@ -68,8 +68,7 @@ Gallery
 CIVN Activities – Photo Album
 Mr.Dhnyaneshwar Kamble’s session on INDIAN -IPR MAY
 Sanjay Arora lecture for marketing
-Visit of german delegates in board room
-cialisfrance24.com
+Visit of german delegates in board room cialisfrance24.com
 YCC college students visit
 Padm Vibhushan Dr. Anil Kakodkar visits CIVN  March
 Start Up pitch with Mr. Mike from   Indo Canadian Alacrity Funds  –,Canada

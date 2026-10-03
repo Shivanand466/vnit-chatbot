@@ -1,0 +1,375 @@
+SOURCE_URL: https://drive.google.com/file/d/1M1LGCyMT0FhZSweW2hy9ZkSLh_ofssO1/view
+TITLE: New Arrival Books 2025-26
+FETCHED: 2026-04-30
+FOUND_ON: https://vnit.ac.in/library-and-information-center/
+---
+Document: New Arrival Books 2025-26 (dated 2026-04-30)
+Title: Behaviour and design of steel structures to EC3 Author: Trahair, Nick;, Bradford, Mark A.; Nethercot, David;, Gardner, Leroy Call No.: 624.014.2/TRA Acc. No.: 73696 - 73698
+Title: Bridge deck analysis Author: OBrien, E. J., Keogh, Damien L. O'Connor, Alan J. Call No.: 624.21/OBR Acc. No.: 73666 - 73669
+Title: Bridges: analysis, design, structural health monitoring, and rehabilitation Author: Bakht, Baidar, Mufti, Aftab Call No.: 624.21/BAK Acc. No.: 73670 - 73671
+Title: Computational fluid dynamics for engineers and scientist Author: Jayanti, Sreenivas Call No.: 532:519.6/JAY Acc. No.: 73703 - 73704
+Title: Concrete buildings in seismic regions Author: Penelis, George G.;, Penelis, Gregory G. Call No.: 624.012.45/PEN Acc. No.: 73673
+Title: Concrete repair and maintenance illustrated Author: Emmons, Peter H. Call No.: 624.012.45/EMM Acc. No.: 73361-73362
+Title: Convective heat transfer Author: Bejan, Adrian Call No.: 536.25/BEJ Acc. No.: 73705 - 73706
+Title: Design of prestressed concrete to Eurocode 2 Author: Gilbert, Raymond Ian, ColinMickleborough, Neil; Ranzi, Gianluca Call No.: 624.012.46/GIL Acc. No.: 73676 - 73677
+Title: Design of reinforced concrete: ACI 318-14 code Edition Author: McCormac, Jack C.;, Brown, Russell H. Call No.: 624.012.45/MCC Acc. No.: 73674 - 73675
+Title: Digital photoelasticity: advanced techniques and applications (With CD) Author: Ramesh, K. Call No.: 535.55/RAM Acc. No.: 73707 - 73708
+Title: Durability of concrete : design and construction Author: Mark Alexander;, Bentur, Arnon; Mindess, Sidney Call No.: 624.014.2/ALE Acc. No.: 73678 - 73679
+Title: Dynamic modeling and active vibration control of structures Author: Kwak, M. K. Call No.: 624.04:62-752/KWA Acc. No.: 73709 - 73710
+Title: Dynamics of structures with earthquake engineering Author: Jain, Ashok K. Call No.: 624.042.7/JAI Acc. No.: 73680 - 73681
+Title: Finite element method: linear static and dynamic finite element analysis. Author: Hughes, Thomas J. R. Call No.: 517.9/HUG Acc. No.: 73363-73364
+Title: Finite element model updating in structural dynamics Author: Friswell, M. I., Mottershead, J. E. Call No.: 624.04:517.9/FRI Acc. No.: 73682 - 73683
+Title: Fundamental of turbulent flows Author: Moin, Parviz;, Chan, W. H. Ronald Call No.: 532.517.4/MOI Acc. No.: 73711 - 73712
+Title: Introduction to finite element method Author: Godbole, P. N. Call No.: 517.96/GOD Acc. No.: 73762-73766
+Title: Materials management: a supply chain perspective Author: Chitale, A. K.;, Gupta, R. C. Call No.: 658.711/CHI Acc. No.: 73713 - 73715
+Title: Multiphase flow with droplets and particles Author: Schwarzkopf, J. D.;, Sommerfeld, M.; Tsuji, Y. Call No.: 532.529/MIC Acc. No.: 73716 - 73717
+Title: Pile design and construction practice. - 6th ed Author: Tomlinson, M. J.;, Woodward, John Call No.: 624.154/TOM Acc. No.: 73365-73366
+Title: Prestressed concrete design to Eurocodes Author: Bhatt, Prabhakara Call No.: 624.012.45/BHA Acc. No.: 73003-73004
+Title: Production and operations management Author: Bedi, Kanishka Call No.: 658.5/BED Acc. No.: 73718 - 73719
+Title: Reinforced concrete design to Eurocode 2 Author: Mosley, Bill;, Bungey, John; Hulse, Ray; Call No.: 691.328/MOS Acc. No.: 73767-73768
+Title: Reinforced concrete design to Eurocode 2 Author: Toniolo, Giandomenico, Prisco, Marco di Call No.: 624.012.45/TON Acc. No.: 73684 - 73685
+Title: Reinforced concrete design to eurocodes: design theory and examples Author: Bhatt, Prab;, Choo, Ban Seng; MacGinley, T. J. Call No.: 624.012.45/BHA Acc. No.: 73686 - 73687
+Title: Rotor systems analysis and identification Author: Tiwari, Rajiv Call No.: 669.141.245/TIW Acc. No.: 73720 -73721
+Title: Simplified LRFD bridge design Author: Kim, Jai B., Kim, Robert H. Eberle, Jonathan Call No.: 624.21/KIM Acc. No.: 73688
+Title: Spectral element method in structural dynamics Author: Lee, Usik Call No.: 624.04:519.6/LEE Acc. No.: 73722 - 73723
+Title: Structural dynamics Author: Williams, Martin Call No.: 624.042.8/WIL Acc. No.: 73689 - 73690
+Title: Structural health monitoring Author: Daniel Balageas;, Fritzen, Claus-Peter; Güemes, Alfredo Call No.: 624.04/BAL Acc. No.: 73691 - 73695
+Title: Thermo-fluid dynamics of two-phase flow Author: Ishii, M., Hibiki, T. Call No.: 532.529/ISH Acc. No.: 73724 -73725
+Title: Two-phase gas-liquid flow in pipes with different orientations Author: Ghajar, A. J. Call No.: 532.542/GHA Acc. No.: 73726 - 73728
+Title: Ultra-high performance concrete: design, performance, and application Author: Shi, Caijun;, Wu, Zemei; Banthia, Nemkumar Call No.: 691.32/SHI Acc. No.: 73699 - 73700
+Title: Acoustics in the built environment: advice for the design team. - 2nd ed Author: Templeton, Duncan;, Sacre, Peter; Mapp, Peter;, Saunders, David Call No.: 534.6/TEM Acc. No.: 73103
+Title: Acumen of architectural built Author: Surawar, Meenal Call No.: 72.01/SUR Acc. No.: 73104-73105
+Title: Architectural acoustics Author: Egan, M. David Call No.: 534.6:72/EGA Acc. No.: 73106
+Title: Architectural graphics. - 2nd ed.. Author: Martin, C. Leslie Call No.: 72.012/MAR Acc. No.: 73107
+Title: Architecture for people: the complete works of Hassan Fathy. Author: Steele, James Call No.: 72.01/STE Acc. No.: 73108
+Title:
+Campus design in India: experience of developing nation
+Author:
+Kanvinde, Achyut;, Miller, H. James
+Call No.:
+72.012(540)/KAN
+Acc. No.:
+73109
+Title:
+City sense: shaping our environment with real-time data.
+Author:
+IAAC
+Call No.:
+711.4:72/IAAC
+Acc. No.:
+73110
+Title:
+Climate-responsive architecture: a design handbook for energy efficient buildings
+Author:
+Krishan, Arvind;, Baker, Nick; Yannas, Simos;, Szokolay, S. V.
+Call No.:
+72.012:551.58/KRI
+Acc. No.:
+73111
+Title:
+Climatic design: energy efficient building principles and practices
+Author:
+Watson, Donald;, Labs, Kenneth
+Call No.:
+72.012:551.58/WAT
+Acc. No.:
+73112-73113
+Title:
+Concise townscape.
+Author:
+Cullen, Gordon
+Call No.:
+711.41/CUL
+Acc. No.:
+73114
+Title:
+Conditional design: an introduction to elemental architecture
+Author:
+mari, Anthony Di
+Call No.:
+72.012/MAR
+Acc. No.:
+73115
+Title:
+Conservation of European cities.
+Author:
+Appleyard, Donald
+Call No.:
+711.433(4)/APP
+Acc. No.:
+73116
+Climatic design: energy efficient building principles and practices: Title: Contemporary urban planning Author: Levy, John M., Hirt, Sonia A.; Dawkins, Casey J. Call No.: 711.4/LEV Acc. No.: 73952
+Climatic design: energy efficient building principles and practices: Title: Creating architectural theory: the role of behavioral sciences in environmental design. Author: Lang, Jon Call No.: 72.01/LAN Acc. No.: 73117
+Climatic design: energy efficient building principles and practices: Title: Design for human affairs Author: Deasy, C. M. Call No.: 72:316/DEA Acc. No.: 73118
+Climatic design: energy efficient building principles and practices: Title: Design of cities. - Rev. ed Author: Bacon, Edmund N. Call No.: 711.4/BAC Acc. No.: 73119
+Climatic design: energy efficient building principles and practices: Title: Design of water resource system. Author: Purcell, Patrick J. Call No.: 626.81/PUR Acc. No.: 73288
+Climatic design: energy efficient building principles and practices: Title: Detail plus interior + architecture, vol. I. Author: Ji-hyun, Choi;, Eun-ji, Kim; Ga-hyun, Song Call No.: 72.04/JIH Acc. No.: 73120
+Climatic design: energy efficient building principles and practices: Title: Detail plus interior + architecture, vol. II. Author: Ji-hyun, Choi;, Eun-ji, Kim; Ga-hyun, Song Call No.: 72.04/JIH Acc. No.: 73121
+53.
+Title:
+Diagrams of architecture.
+Author:
+Garcia, Mark
+Call No.:
+72.012/GAR
+Acc. No.:
+73122
+Title:
+Ekistics: an introduction to the science of human settlements
+Author:
+Doxiadis, Constantinos A.
+Call No.:
+711.4/DOX
+Acc. No.:
+73123
+Title: End of automobile dependence: how cities are moving beyond car based planning
+Author:
+Newman, Peter;, Kenworthy, Jeffrey
+Call No.:
+711.4/NEW
+Acc. No.:
+73124
+Title:
+Envisioning architecture: an analysis of drawing
+Author:
+Fraser, lain;, Henmi, Rod
+Call No.:
+744/FRA
+Acc. No.:
+73125
+Title:
+Eyes of the skin: architecture and the senses. - 4th ed
+Author:
+Pallasmaa, Juhani
+Call No.:
+72.01/PAL
+Acc. No.:
+73289
+Title:
+Form and fabric in landscape architecture: a visual introduction
+Author:
+Dee, Catherine
+Call No.:
+712.2/DEE
+Acc. No.:
+73126
+Title:
+Garden cities of to-morrow.
+Author:
+Howard, Ebenezer
+Call No.:
+712.2/OSB
+Acc. No.:
+73127
+Form and fabric in landscape architecture: a visual introduction: Title: Genius loci: towards a phenomenology of architecture Author: Norberg-Schulz, Christian Call No.: 72.01/NOR Acc. No.: 73128
+Form and fabric in landscape architecture: a visual introduction: Title: Good city form Author: Lynch, Kevin Call No.: 711.41/LYN Acc. No.: 73129
+Form and fabric in landscape architecture: a visual introduction: Title: Good urbanism: six steps to creating prosperous places. Author: Ellin, Nan Call No.: 711.41/ELL Acc. No.: 73130
+Form and fabric in landscape architecture: a visual introduction: Title: Introduction to landscape architecture. - 2nd ed. Author: Laurie, Michael Call No.: 712/LAV Acc. No.: 73131
+Form and fabric in landscape architecture: a visual introduction: Title: Introduction to urban design. Author: Barnett, Jonathan Call No.: 712/BAR Acc. No.: 73132
+Form and fabric in landscape architecture: a visual introduction: Title: Kinetic architecture: designs for active envelopes Author: Fortmeyer, Russell, Linn, Charles D. Call No.: 72.01/FOR Acc. No.: 73953
+Form and fabric in landscape architecture: a visual introduction: Title: Kinetic city and other essays. Author: Mehrotra, Rahul Call No.: 711.4/MEH Acc. No.: 73133
+Title:
+Landscape architecture theory: an ecological approach
+Author:
+Murphy, Michael D.
+Call No.:
+712.2/MUR
+Acc. No.:
+73290
+Title:
+Manual for streets
+Author:
+Dept. of Transport
+Call No.:
+711.73/DOT
+Acc. No.:
+73134
+Title:
+Operative design: a catalogue of spatial verbs
+Author:
+Mari, Anthony Di, Yoo, Nora
+Call No.:
+72.01:744/MAR
+Acc. No.:
+73135
+Title:
+Planning resilient infrastructure systems
+Author:
+Hay, Alexander
+Call No.:
+711.4/HAY
+Acc. No.:
+73136
+Title: Planning sustainable cities: global report on human settlements programme.
+Author:
+United Nations Human Settlements Programme
+Call No.:
+711.4/UNH
+Acc. No.:
+73137
+Title:
+Planning the architect's handbook. - 10th ed.
+Author:
+Mills, Edward D.
+Call No.:
+711.4/MIL
+Acc. No.:
+73138
+73.
+Title:
+Precedents in architecture: analytic diagrams, formative ideas,
+and partis. - 4th ed.
+Author:
+Clark, Roger H.;, Pause, Michael
+Call No.:
+72.012/CLA
+Acc. No.:
+73291-73292
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Pro-children neighborhood parks Author: Agarwal, Mohit Kumar;, Sehgal, Vandana Call No.: 712.26/AGA Acc. No.: 73139
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Public square landscapes Author: Gao, Arthur Call No.: 712.25/GAO Acc. No.: 73141
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Public-private partnerships: the worldwide revolution in infrastructure provision and project finance Author: Grimsey, Darrin;, Lewis, Mervyn K Call No.: 351.712/GRI Acc. No.: 73140
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Rethinking master planning: creating quality places Author: Alwaer, Husam, Illsley, Barbara Call No.: 711.4/ALW Acc. No.: 73142
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Revitalization of Varanasi ghats Author: Chatterjee, Sanjukta; Call No.: 726.9(540)/CHA Acc. No.: 73143
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Site engineering for landscape architects Author: Strom, Steven;, Nathan, Kurt; Woland, Jake Call No.: 712:624/STR Acc. No.: 74047
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Site planning. - 3rd ed.. Author: Lynch, Kevin;, Hack, Gary Call No.: 711.4/LYN Acc. No.: 73144
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Strategic Management of Flood Risk Author: McLuckie, Duncan;, Kandasamy, Jaya Call No.: 627.51:351.792/MCL Acc. No.: 73145
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Strengthening capacities for climate resilience Author: Sehgal, Vandana;, Gulati, Ritu; Bano, Farheen;, Sanyal, Abirbha Call No.: 551.583/SEH Acc. No.: 73146-73147
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Thinking hand: existential and embodied wisdom in architecture Author: Pallasmaa, Juhani Call No.: 72.012/PAL Acc. No.: 73148
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Timeless houses: India, Sri Lanka, Bangladesh, Pakistan. - 1st ed Author: Aggarwal, Kapil Call No.: 728:72.01/AGG Acc. No.: 73149
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Tradition of Indian architecture: continuity, controversy and change since 1850 Author: Tillotson, G. H. R. Call No.: 72.03(540)/TIL Acc. No.: 73150
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Urban design futures. Author: Moor, Malcolm;, Rowland, Jon Call No.: 711.4/COU Acc. No.: 73151
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Vernacular architecture: an illustrated handbook Author: Brunskill, R. W. Call No.: 72.02/BRU Acc. No.: 73152
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Vocabulary of Indian streets. Author: Tandon, Meeta;, Sehgal, Vandana Call No.: 711.58/TAN Acc. No.: 73153
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Zero carbon homes: a road map Author: Williams, Jo Call No.: 728.1/WIL Acc. No.: 73954
+Title: Planning sustainable cities: global report on human settlements programme.: Title: AI in chemical engineering: unlocking the power within data Author: Romagnoli, José A.;, Briceño-Mena, Luis; Manee, Vidhyadhar Call No.: 66:004.8/ROM Acc. No.: 73551-73553
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Basic transport phenomena in biomedical engineering Author: Fournier, Ronald L. Call No.: 66.011:615/FOU Acc. No.: 73554-73555
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Biochemistry Author: Rastogi, S. C., Rastogi, Shivani Call No.: 577/RAS Acc. No.: 73556-73560
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Biochemistry. - 7th ed. Author: Satyanarayana, U.;, Chakrapani, U Call No.: 577/SAT Acc. No.: 73406-73409
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Biomass pyrolysis liquids upgrading and utilization Author: Bridgwater, A. V.;, Grassi, G Call No.: 662.63:66.092/BRI Acc. No.: 73561
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Chemical engineering computation with MATLAB® Author: Yeo, Yeong Koo Call No.: 516.6:66/YEO Acc. No.: 73562-73563
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Chemical, biochemical, and engineering thermodynamics Author: Sandler, Stanley I. Call No.: 66.011:536.7/SAN Acc. No.: 73578-73579
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Concepts in biology. - 13th ed. Author: Enger, Eldon;, Ross, Frederick; Bailey, David Call No.: 57.08/ENG Acc. No.: 73410-73414
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Industrial applications of molecular simulations Author: Meunier, Marc Call No.: 66:004.942/MEU Acc. No.: 73564
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Introduction to chemoinformatics Author: Leach , Andrew R.;, Gillet, Valerie J. Call No.: 54:004/LEA Acc. No.: 73565
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Mass spectrometry: principles and applications Author: Hoffmann, Edmond de, Stroobant, Vincent Call No.: 543.51/HOF Acc. No.: 73566
+Title: Planning sustainable cities: global report on human settlements programme.: Title: MATLAB numerical methods with chemical engineering applications Author: AI-Malah, Kamal I. M Call No.: 519.6:66/MAL Acc. No.: 73174-73175
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Mechanical operations for chemical engineers. Author: Narayanan, C. M.;, Bhattacharya, B. C. Call No.: 66.022.5/NAR Acc. No.: 73567-73568
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Membrane engineering for the treatment of gases, Vol. 2 Author: Drioli, Enrico;, Barbieri, Giuseppe Brunetti, Adele Call No.: 66.071.6/DRI Acc. No.: 73176
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Membrane modification: technology and applications Author: Hilal, Nidal;, Khayet, Mohamed; Wright, Chris J. Call No.: 66.081.6/HIL Acc. No.: 73569
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Membrane technology and applications. - 4th ed Author: Baker, Richard W. Call No.: 66.081.6/BAK Acc. No.: 73256
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Microbiology: a laboratory manual Author: Cappuccino, James, Welsh, Chad Call No.: 579.23/CAP Acc. No.: 73570-73571
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Modeling and simulation of chemical process systems Author: Ghasem, Nayef Call No.: 66.02/GHA Acc. No.: 73415
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Nanofluids: fundamentals, applications, and challenges Author: Sonawane, Shriram S., Thakur, Parag P. Call No.: 532.132/SON Acc. No.: 73572
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Numerical, symbolic and statistical computing for chemical engineers using MATLAB Author: Ghosh, Pallab Call No.: 519.61:66/GHO Acc. No.: 73573-73574
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Principles of instrumental analysis. Author: Skoog , Douglas A.;, Holler, F. James; Crouch, Stanley R. Call No.: 543.08/SKO Acc. No.: 73575
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Process modeling and simulation for chemical engineers: theory and practice Author: Upreti, Simant Ranjan Call No.: 66.011/UPR Acc. No.: 73576
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Pyrolysis and gasification of biomass and waste Author: Bridgwater, A. V. Call No.: 662.76.036/BRI Acc. No.: 73452
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Pyrolysis of biomass for fuels and chemicals Author: Boateng, Akwasi A. Call No.: 662.63/BOA Acc. No.: 73577
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Quantitative chemical analysis. - 11th ed. Author: Harris, Daniel C.;, Lucy, Charles A. Call No.: 543.2/HAR Acc. No.: 73257
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Tools of biochemistry Author: Cooper, Terrance G. Call No.: 577.1/COO Acc. No.: 73177-73178
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Analytical biochemistry Author: Holme, David J.;, Peck, Hazel Call No.: 577.1/HOL Acc. No.: 74023-74024
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Fluid mechanics for chemical engineering Author: Mory, Mathieu Call No.: 532:66/MOR Acc. No.: 73769-73773
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Hydrodynamics and transport processes of inverse bubbly flow Author: Majumder, Subrata Kumar Call No.: 532.5/KUM Acc. No.: 73998
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Laboratory manual on fundamental principles of bacteriology Author: Salle, A. J. Call No.: 578.81/SAL Acc. No.: 74025-74026
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Lees' process safety essentials: hazard identification, assessment and control Author: Mannan, Sam Call No.: 614.8/MAN Acc. No.: 73999
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Mineral beneficiation: a concise basic course Author: Rao, D.V. Subba Call No.: 622.7/RAO Acc. No.: 73774
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Modeling and simulation in chemical engineering Author: Franks, Roger G. E. Call No.: 66.011/FRA Acc. No.: 73969
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Nanofluid applications for advanced thermal solutions Author: Sonawane, Shriram S., Sharifpur, Mohsen Call No.: 532.52:66.045.1/SON Acc. No.: 74001
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Principles of fermentation technology Author: Stanbury, Peter F.;, Whitaker, Allan; Hall, Stephen J. Call No.: 663.031.1/STA Acc. No.: 74092-74093, 74109
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Process intensification: engineering for efficiency, sustainability and flexibility Author: Reay, David, Ramshaw, Colin Harvey, Adam Call No.: 66.02/REA Acc. No.: 74000
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Understanding molecular simulation: from algorithms to applications Author: Frenkel, Daan, Smit, Berend Call No.: 519.24/FRE Acc. No.: 73996-73997
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Advanced practical physical chemistry. - 14th rev. ed. Author: Yadav, J. B. Call No.: 541.1/YAD Acc. No.: 73367-73371
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Basic organometallic chemistry: Concepts, syntheses and applications. - 2nd ed.. Author: Gupta, B. D.;, Elias, A. J. Call No.: 547.113/GUP Acc. No.: 73181-73182
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Environmental studies. Author: Basak, Anindita Call No.: 502.1/BAS Acc. No.: 73183-73187
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Environmental studies: simplified. - 3rd ed. Author: Joseph, Benny Call No.: 502.1/JOS Acc. No.: 73188-73192
+Title: Planning sustainable cities: global report on human settlements programme.: Title: Fundamentals of Analytical Chemistry. - 10th ed. Author: Skoog, Couglas A.;, West, Donald M.; Holler, F. James;, Crouch, Stanley R Call No.: 543/SKO Acc. No.: 73372-73375
+Title:
+Quantum mechanics: concepts and applications. - 3 rd. ed
+Author:
+Zettili, Nouredine
+Call No.:
+531/ZET
+Acc. No.:
+73010-73013
+Title:
+Textbook of environmental chemistry and pollution control
+Author:
+Dara, S. S.;, Mishra, D. D.
+Call No.:
+628/DAR
+Acc. No.:
+73376-73380
+Title:
+Art of writing reasonable organic reaction mechanisms
+Author:
+Grossmann, Robert B.
+Call No.:
+547.1/GRO
+Acc. No.:
+73639 - 73643
+Title:
+Chemistry of advanced materials: an overview
+Author:
+Interrante , Leonard V.;, Hampden-Smith, Mark J.
+Call No.:
+620.1:540/INT
+Acc. No.:
+73664 - 73665
+Title:
+Fundamentals of heterocyclic chemistry: importance in nature and in the synthesis of pharmaceuticals
+Author:
+Quin, Louis D.;, Tyrell, John
+Call No.:
+547.7/QUI
+Acc. No.:
+73644 - 73653
+Title:
+Modern organic synthesis: an introduction
+Author:
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter
+Call No.:
+547.2/ZWE
+Acc. No.:
+73654 - 73658
+Title:
+Organic synthesis: the disconnection approach
+Author:
+Warren, Stuart;, Wyatt, Paul
+Call No.:
+547.2/WAR
+Acc. No.:
+74086-74089
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Principles of fluorescence spectroscopy Author: Lakowicz, Joseph R. Call No.: 543.426.1/LAK Acc. No.: 73659 - 73663
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Civil Engineering: GATE 2026 topic-wise previous solved papers Author: G. K. Publications Call No.: 624/GKP Acc. No.: 74058-74067
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Construction project management: planning, scheduling and controlling Author: Chitkara, K. K. Call No.: 69:005.8/CHI Acc. No.: 73921-73930
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: GATE tutor civil engineering Author: Dixhit, Prashant Call No.: 624/DIX8 Acc. No.: 74068-74073
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Handbook on civil engineering Author: Call No.: 624(02)/MAD Acc. No.: 73931-73938
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Hydraulics and fluid mechanics including hydraulic machines Author: Modi, P. N., Seth, S. M. Call No.: 626:532/MOD Acc. No.: 73939-73948
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Introduction to geotechnical engineering Author: Holtz, Robert D., Kovacs, William D. Sheahan, Thomas C. Call No.: 624.13/HOL Acc. No.: 73949-73950
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Microbial granulation technology for nutrient removal from wastewater Author: Liu, Yu;, Qin, Lei; Yang, Shu-Fang Call No.: 628.35:579/LIU Acc. No.: 73951
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Introduction to algorithms Author: Cormen, Thomas H.;, Leiserson, Charles E.; Rivest, Ronald L.;, Stein, Clifford Call No.: 519.712/COR Acc. No.: 73775-73784
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Deep learning. Author: Goodfellow, Ian Bengio, Yoshua Courville, Aaron Call No.: 681.5/GOO Acc. No.: 73024-73033, 73014
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Graph theory and its applications. - 3rd ed. Author: Gross , Jonathan L.;, Yellen, Jay; Anderson, Mark Call No.: 519.67/GRO Acc. No.: 73034-73038
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Mining of massive datasets 3rd ed.. - 3rd ed. Author: Leskovec, Jure;, Rajaraman, Anand; Ullman, Jeffrey David Call No.: 622.27/LES Acc. No.: 73039-73048
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Digital power system protection Author: Bhide, S. R. Call No.: 621.316.36/BHI Acc. No.: 73614-73638
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Electrical machine design Author: Rajini, V.;, Nagarajan, V. S. Call No.: 621.313(084)/RAJ Acc. No.: 73229-73248
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Integrated course in electrical engineering Author: Gupta, J. B. Call No.: 621.3/GUP Acc. No.: 73580-73587, 74111-74118, 73344-73352
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Linear electric machines, drives and MAGLEV's handbook. - 2 nd. Ed Author: Boldea, Ion Call No.: 621.313.2/BOL Acc. No.: 73001-73002
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Modern permanent magnet electric machines: theory and control Author: Gieras, Jacek F., Shen, Jian-Xin Call No.: 621.313.8/GIE Acc. No.: 73588-73589
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Power quality in power distribution systems: concepts and applications Author: Mishra, Mahesh Kumar Call No.: 621.316.1/MIS Acc. No.: 73590-73594
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Special electrical machines Author: Janardanan, E.G. Call No.: 621.313/JAN Acc. No.: 73595-73604
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Special electrical machines Author: Venkataratnam, K Call No.: 621.313.84/VEN Acc. No.: 73249-73255
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Theory and performance of electrical machines. Author: Gupta, J. B. Call No.: 621.313/GUP Acc. No.: 73605-73613, 74119-74126, 73353-73360
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Sensorless control of permanent magnet synchronous machine drives. Author: Zhu, Zi Qiang;, Wu, Xi Meng Call No.: 621.313.32/ZHU Acc. No.: 74083-74085
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Applied statistics and probability for engineers. - 6th ed Author: Montgomery, Douglas C.;, Runger, George C. Call No.: 519.2/MON Acc. No.: 73428-73436
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Introduction to electromagnetic compatibility. - 3 rd. ed Author: Paul, Clayton R., Scully, Robert C. Steffka, Mark A. Call No.: 621.396.6/PAU Acc. No.: 72976-72981, 73753-73755
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Linear algebra and Its applications. - 4th ed Author: Strang, Gilbert Call No.: 512.64/STR Acc. No.: 72964-72975
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Microwave engineering: theory and techniques Author: Pozar, David M. Call No.: NOT MENTION Acc. No.: 73437-73451
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: 5G/5G: the next generation wireless access technology Author: Dahlman, Erik;, Parkvall, Stefan; Skold, Johan Call No.: 621.395.74/DAH Acc. No.: 74002-74006
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Analog electronic circuit-I = एनालॉग इलेक्ट्रॉननक सर्क ट- I Author: Thakur, Satish Kumar;, Rai, Jayant Call No.: 621.38/THA Acc. No.: 74036-74040
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Numerical techniques in electromagnetics with MATLAB Author: Sadiku, Matthew N.O. Call No.: 519.6:537.8/SAD Acc. No.: 73984-73993
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Wireless sensor networks Author: Akyildiz, Ian F.;, Vuran, Mehmet Can Call No.: 621.396/AKY Acc. No.: 73995
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Charitraheen = चरित्रहीन Author: Chattopadhyay, Sharat Chandra Call No.: 820.31/CHA Acc. No.: 73258
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Gunahon ka devta = गुनाहों का देवता Author: Bharti, Dharmveer Call No.: 820.31/BHA Acc. No.: 73259
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Business communication Author: Raman, Meenakshi;, Singh, Prakash Call No.: 005.57/RAM Acc. No.: 73865-73889
+Zweifel, George S.;, Nantz, Michael H.; Somfai, Peter: Title: Financial markets and institutions Author: Mishkin, Frederic S.;, Eakins, Stanley G.; Jayakumar, Tulsi;, Manuj, Hemant Call No.: 336.58/MIS Acc. No.: 73890-73899

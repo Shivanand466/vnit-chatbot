@@ -1,0 +1,256 @@
+SOURCE_URL: https://drive.google.com/file/d/1Xed4BvuZF7Ui0WhXljF5JLeSqMpO89to/view
+TITLE: Guidelines, Rules & Regulations PhD (Full Time and Part Time)
+FETCHED: 2026-05-08
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Guidelines, Rules & Regulations PhD (Full Time and Part Time) (dated 2026-05-08)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY NAGPUR
+Guidelines, Rules and Regulations Governing
+Ph.D. (Full-Time and Part-Time) Programs
+INDEX SHEET
+INDEX SHEET: ITEM: Ph.D. PROGRAM OFFERED BY THE INSTITUTE — PAGE NO.: 3
+INDEX SHEET: ITEM: MARKS/CGPA REQUIREMENTS — PAGE NO.: 5
+INDEX SHEET: ITEM: GUIDELINES FOR Ph.D. ADMISSION OF CAT. 1B — PAGE NO.: 5
+INDEX SHEET: ITEM: EMOLUMENTS/STIPEND/FELLOWSHIP FOR FULL-TIME PH.D. SCHOLARS — PAGE NO.: 5
+INDEX SHEET: ITEM: COURSE WORK AND SEMINAR — PAGE NO.: 6
+INDEX SHEET: ITEM: DURATION OF PROGRAM / VALIDITY OF REGISTRATION — PAGE NO.: 7
+INDEX SHEET: ITEM: CONDITIONS FOR CANCELLATION OF ADMISSION / REGISTRATION — PAGE NO.: 7
+INDEX SHEET: ITEM: RECOGNITION AS A SUPERVISOR/CO- SUPERVISOR/CHANGE OF SUPERVISOR — PAGE NO.: 8
+INDEX SHEET: ITEM: COMPOSITION OF RPC — PAGE NO.: 9
+INDEX SHEET: ITEM: ATTENDANCE/LEAVE/ABSENCES RULES AND REGULATIONS — PAGE NO.: 9
+INDEX SHEET: ITEM: REQUIREMENTS FOR SUBMISSION OF THESIS — PAGE NO.: 10
+INDEX SHEET: ITEM: Ph.D. PRE-SUBMISSION AND THESIS EVALUATION — PAGE NO.: 11
+INDEX SHEET: ITEM: PAYMENT OF FEES AND DEPOSIT (Rs.) — PAGE NO.: 13
+INDEX SHEET: ITEM: CONVERSION OF FULL TIME Ph.D. TO PART TIME Ph.D. — PAGE NO.: 14
+INDEX SHEET: ITEM: NOTIFICATION FOR ADMISSION — PAGE NO.: 14
+INDEX SHEET: ITEM: INFORMATION ABOUT PART TIME Ph.D. Cat. 2B — PAGE NO.: 15
+INDEX SHEET: ITEM: ENROLLMENT IN MOOC/NPTEL COURSES TO FULFILL CREDIT REQUIREMENTS — PAGE NO.: 16
+Preamble:
+These rules and regulations shall govern all Ph.D. programs in VNIT, Nagpur. These rules and regulations supersede all previous relevant rules and regulations.
+As a result of the sound research base and extensive infrastructural facilities available, the Institute offers Ph.D. programme in a wide range of areas in Engineering, Science, Humanities and Social Sciences. The broad objective of the Ph.D. programme is not only to keep pace with the expanding frontiers of knowledge but also to provide research training relevant to the present social and economic objectives of the country. The Institute also encourages research in interdisciplinary areas through a system of joint supervision and interdepartmental group activities. The presence of a strong research-oriented faculty provides excellent opportunities for such program.
+1. PH.D. PROGRAM OFFERED BY THE INSTITUTE
+As a result of the sound research base and extensive infrastructural facilities available, the Institute offers Ph.D. programme in a wide range of areas in... | 1. PH.D. PROGRAM OFFERED BY THE INSTITUTE: Ph.D.: Full-Time (Category 1) — Assistantship/ Fellowship: Institute (MoE, GOI); Admission Category: Cat. 1A; Remarks: The assistantship (as per norms) is only for GATE/NET qualified candidates.
+As a result of the sound research base and extensive infrastructural facilities available, the Institute offers Ph.D. programme in a wide range of areas in... | 1. PH.D. PROGRAM OFFERED BY THE INSTITUTE: Ph.D.: Full-Time (Category 1) — Assistantship/ Fellowship: Sponsored Project; Admission Category: Cat. 1B; Remarks: The financial support under this category is provided from sponsored/funded projects approved by the sponsoring agency.
+As a result of the sound research base and extensive infrastructural facilities available, the Institute offers Ph.D. programme in a wide range of areas in... | 1. PH.D. PROGRAM OFFERED BY THE INSTITUTE: Ph.D.: Full-Time (Category 1) — Assistantship/ Fellowship: External Fellowship; Admission Category: Cat. 1C; Remarks: The financial support is provided by various Govt. agency such as UGC/ DST/ DBT/ ICMR/ CSIR/DAE etc., if any. The financial support and duration for fellowship will be as specified by the agency and VNIT. A valid research fellowship award letter from such agencies is required (mandatory) for this category.
+As a result of the sound research base and extensive infrastructural facilities available, the Institute offers Ph.D. programme in a wide range of areas in... | 1. PH.D. PROGRAM OFFERED BY THE INSTITUTE: Ph.D.: Full-Time (Category 1) — Assistantship/ Fellowship: Sponsored; Admission Category: Cat. 1D; Remarks: The students admitted under this category are not eligible for any financial assistance from VNIT and are sponsored fully by themselves (Self-sponsored) OR by their employers. GATE is not mandatory for this category. Candidates are expected to be released for fulltime coursework and research at the Institute for a minimum period of three years. A no-objection certificate (NOC) as per Annexure I is required (mandatory) for this category, in case of sponsored by any organization.
+As a result of the sound research base and extensive infrastructural facilities available, the Institute offers Ph.D. programme in a wide range of areas in... | 1. PH.D. PROGRAM OFFERED BY THE INSTITUTE: Ph.D.: Part-Time (Category 2) — Assistantship/ Fellowship: No Assistantship from VNIT Nagpur; Admission Category: Cat. 2A; Remarks: The students admitted under the Part-Time Category are not eligible for financial assistance from VNIT. However, the students having a qualifying score in a national-level examination (GATE/NET) may convert their part-time Ph.D. to a full-time program within the first two years, subject to VNIT norms. A no-objection certificate (NOC) from the current employer (as per Annexure II) is required (mandatory) for admission in this category. Also, NOC is required as and when the PhD candidate convert his/her category from part time to full time in the event of qualifying national level examinations
+As a result of the sound research base and extensive infrastructural facilities available, the Institute offers Ph.D. programme in a wide range of areas in... | 1. PH.D. PROGRAM OFFERED BY THE INSTITUTE: No Assistantship from VNIT Nagpur Visvesvaraya PhD as per Visvesvaraya | Cat. 2B scheme seats, PhD scheme) | In accordance with Institute Senate Resolution (S80.20 ), a new admission category (Part time Ph.D. Cat. 2B) has been introduced for Candidates having five or more Years of Industry Experience/Academic Experience in Academic Reputed Institutes (please refer to page 15 for detailed information on this category) available, may be filled under Cat. 1A (Eligibility &
+The Ph.D. program is available as both full-time and part-time, including direct Ph.D. entry for B.Tech. graduates in all admission categories as given below.
+Candidates whose result is awaited, can also apply for Ph.D. program. They will have to submit the final result to Academic Section, till that time their registration will be provisional.
+List of the Departments/Centers
+Applied Mechanics
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+Mechanical Engineering
+Metallurgical and Materials Engineering
+Mining Engineering
+Centre for VLSI & Nanotechnology
+Architecture & Planning
+Physics
+Chemistry
+Mathematics
+Humanities and Social Sciences
+Interdisciplinary Board (Biomedical Engineering)
+2. MARKS/CGPA REQUIREMENTS
+Candidates whose result is awaited, can also apply for Ph.D. program. | 2. MARKS/CGPA REQUIREMENTS: Category: GEN (Open) — Minimum Qualification: 6.5 CGPA (on the scale of 1-10) or 60 % at either UG or PG
+Candidates whose result is awaited, can also apply for Ph.D. program. | 2. MARKS/CGPA REQUIREMENTS: Category: OBC (NC) — Minimum Qualification: 6.0 CGPA (on the scale of 1-10) or 55 % at either UG or PG
+Candidates whose result is awaited, can also apply for Ph.D. program. | 2. MARKS/CGPA REQUIREMENTS: Category: SC, ST — Minimum Qualification: 5.5 CGPA (on the scale of 1-10) or 50 % at either UG or PG
+3. GUIDELINES FOR PH.D. ADMISSION OF CAT. 1B
+Candidates working as any research project position in various funded research projects in VNIT are eligible for admission to Ph.D. program with following conditions.
+Selection through the admission process
+Their Ph. D. registration will be under the supervision of same PI/Co-PI.
+4. EMOLUMENTS/STIPEND/FELLOWSHIP FOR FULL-TIME PH.D. SCHOLARS
+For GATE/NET qualified candidates are eligible for Institute fellowship ₹ 37,000.00 (1st & 2nd Year) and INR 42,000.00 (3rd & 4th years) and Contingency grant of ₹ 30,000.00 per year under admission category Cat. 1A .
+Enhancement in fellowship after 2 nd year and extension after 4 th year, both, will be subject to the satisfactory progress assessment by a review committee.
+Fellowship shall be extended for maximum five years only subject to conditions (satisfactory performance with 4 POINTS earned from Journal Publication Indexed in SCI/SCIE/SSCI/AHCI database as mentioned in Sr. No. 1 of table given in Section 11) as per VNIT norms (Ref: Institute Senate resolution S80.23).
+The students admitted under the category Cat. 1B shall get fellowship from the corresponding project fund till the completion of project. Such GATE qualified candidates are eligible for financial support at minimum rate from institute fund for maximum one year after completion of their corresponding project or maximum up-to four years from the Ph. D. registration whichever is earlier.
+The students admitted under the category Cat. 1C shall get the fellowship from the various Govt. agency such as UGC/ DST/ DBT/ ICMR/ CSIR etc., if any. The financial support and duration for fellowship will be as specified by the agency and VNIT Nagpur.
+The students admitted under the category Cat. 1D are not eligible for any fellowship from the Institute. However, the students admitted in the Cat. 1D, having a qualifying score in a national-level examination (GATE/NET) may convert their Cat. 1D to Cat. 1A within the first two years, subject to VNIT Nagpur's Ph.D. norms.
+The students admitted under the category Cat. 2A are not eligible for any fellowship from the Institute. However, the students admitted in the Cat. 2A, having a qualifying score in a national-level examination (GATE/NET) may convert their part-time Ph.D. ( Cat. 2A) . to a full-time program ( Cat. 1A) within the first two years, subject to VNIT Nagpur's Ph.D. norms. However, the minimum duration required for submission of thesis shall be applicable as per the initial Ph.D. registration category.
+5. COURSE WORK AND SEMINAR
+5.1 Requirement
+Minimum requirement of course work recommended by Research Progress Committee (RPC)
+RPC may recommend more course work, if necessary.
+In addition to above, every registered scholar shall be required to register for a course in Research Methodology as Compulsory audit course.
+In addition to above, every registered scholar shall be required to register for a course in Research Methodology as Compulsory audit course. | 5.1 Requirement: Qualification: M. Sc. / M.A. — Courses to be completed: 12 credits (4 theory subjects)
+In addition to above, every registered scholar shall be required to register for a course in Research Methodology as Compulsory audit course. | 5.1 Requirement: Qualification: M. Sc. / M.A. with M. Phil. — Courses to be completed: 6 credits (2 theory subjects)
+In addition to above, every registered scholar shall be required to register for a course in Research Methodology as Compulsory audit course. | 5.1 Requirement: Qualification: M.E. / M. Tech. / M. Arch. — Courses to be completed: 6 credits (2 theory subjects)
+In addition to above, every registered scholar shall be required to register for a course in Research Methodology as Compulsory audit course. | 5.1 Requirement: Qualification: B.Tech. / B.E. — Courses to be completed: 24 credits
+5.2 Conditions
+Completion of the course work is mandatory to earn the PhD degree.
+Ph.D. scholars can register / enroll for only 400 or 500 or higher-level courses. Ph.D. scholars are exempted from pre-requisite requirements for all courses.
+RPC may recommend for undergoing instruction in communication skills course if needed. In that case a research scholar shall be required to register for communication skills course as an audit course.
+Minimum CGPA requirement for the course work is 6.00. If earned CGPA is less than 6, within 1 year from the date of Ph.D registration, then after the first year stipend will be reduced to 2/3.
+After improvement in CGPA (min 6.0) stipend will be resorted in the next semester after improvement in the CGPA in the previous semester
+To improve CGPA,
+ He/she will be permitted to register for additional department course(s) of 400 level and above to enable him/her to achieve a CGPA of 6.0.
+ Student will have to apply for Grade/CGPA improvement in prescribed format. GG grade (corresponding marks 00) will be used to indicate that the student has opted for the grade/CGPA improvement in that course or new course.
+ The marks or grades scored by the students in the course(s) opted for the grade improvement in the current semester shall be final and marks or grades of the old course(s) (against which the new courses are registered) shall not be restored in any case.
+Ph.D. Progress Review Report at the end of the first year (available on www.vnit.ac.in) is to be submitted by the Ph.D scholar at the end of the first year.
+Full time Ph.D. scholar is not allowed to work (part time / full time) outside the Institute.
+5.3 Seminars during Ph.D. work
+A scholar is required to give a progress seminar on his / her project work every six months in concerned department during the Ph.D. seminar weeks indicated in academic calendar.
+The time-table for six monthly seminars shall be displayed by the HoD at least 15 days prior to the seminar. A brief write-up outlining the work previously done, the current status and the future plans also should be submitted to the RPC members at least 3 days prior to date of seminar.
+Report of the RPC after each six-monthly progress seminar shall be duly forwarded to the office of the Dean (ACD) by the concerned department, in a format available on website.
+Six monthly seminars shall be conducted only if annual fees are paid. No further seminar shall be conducted without payment of fees.
+Report of six-monthly seminars is required to be submitted to Dean (ACD) office within 15 days period after the last date of delivering the seminar mentioned in the academic calendar. The consolidated summary sheet along with copies of seminar reports and other documents of all candidates should be sent in a single lot. Individual seminar report of candidate will not be accepted.
+6. DURATION OF PROGRAM / VALIDITY OF REGISTRATION
+Minimum duration of Ph. D. Full-Time program is THREE (03) years , FOUR (04) years for PartTime Program from the date of registration excluding direct entry of B.Tech. students. For direct entry of B.Tech. Full-Time students, minimum duration of Ph. D. program is FOUR (04) years from the date of registration. Candidate can submit the thesis after completion of this duration (excluding the semester drop period).
+The Full-Time Ph.D. Category fellows who have completed five years, (excluding approved semester drop), but could not submit thesis under specified criteria (refer section 11) will be converted to Part Time Ph.D. Category automatically. The candidate will have to pay the fees as per the norms of the part time program.
+If the candidates could not submit the thesis even after completion of 2 years after conversion to Part Time Ph.D. category, they must apply for re-registration with consent from supervisor's and RPC committee through proper channel. Re- registration process is to be done every year.
+The Part-Time Ph.D. category fellows who have completed seven years, but could not submit thesis under specified criteria (refer section 11) must apply for re-registration with consent from supervisor's and RPC committee through proper channel. Re-registration process is to be done every year.
+Re-registration fees is Rs. 25000/- (per year after completion of 7 years from the date of registration).
+7. CONDITIONS FOR CANCELLATION OF ADMISSION / REGISTRATION
+If a full time / sponsored (full time) Ph.D. scholar is absent from the Institute for more than four weeks without notifying the Supervisor or Head of Department or Dean (ACD), his/her registration will be terminated and name will be removed from the Institute roll.
+The delay in payment of annual fees may invite cancellation of registration/ termination of admission.
+Failure of admission before the last date of registration.
+If reports of two consecutive seminars are unsatisfactory, RPC may recommend discontinuation of registration.
+If three consecutive seminar reports are unsatisfactory OR if total four seminar reports are unsatisfactory, the registration shall be automatically cancelled. If seminar is not given, it shall be considered as not satisfactory.
+Candidate alone or supervisor with RPC or candidate and supervisor(s) can apply for cancellation. HoD, Dean (ACD) shall recommend the cancellation to the Director. The cancellation request will be permitted if approved by the Director.
+Failure of re-registration. (Each year after completion of 7 years from the date of registration).
+8. RECOGNITION AS A SUPERVISOR/CO- SUPERVISOR/CHANGE OF SUPERVISOR
+Staff members of VNIT possessing Ph.D. degree will be recognized as a supervisor/co-supervisor for Ph.D. programs at VNIT in the relevant discipline.
+Supervisor may request to the Director for inclusion of co-supervisor within one year of registration of corresponding scholar.
+For Ph.D. guidance outside VNIT, prior permission of Director is must.
+A supervisor can have maximum 10 candidates registered under him/her for Ph.D. / M. Tech. (by Research) / M.Arch. (by Research) programs taken together at any given time. This includes both registrations at VNIT and registrations at other universities/Institutes.
+Outside researchers shall be recognized as external Supervisor (Co-Supervisor) on case-to-case basis. The criteria for recognition as external supervisor shall be as under.
+Ph.D. in concerned subject.
+ii) Ten years Teaching / Research / Industrial experience.
+iii) He / she should belong to IIT / NIT / National Laboratories / University Departments / Government Colleges.
+iv) Some scholar should have applied to work with him / her (as external supervisor).
+Concerned HoD should recommend the case.
+vi) Should have guided at least one PhD. (desirable)
+vii) Minimum five publications in National / International SCI refereed journals.
+If a PhD candidate wishes to have a co-supervisor from a university abroad, they must apply through the proper channel. The application should clearly state the need for an international co-supervisor and explain how their expertise would contribute to the research. The process begins with the primary supervisor's endorsement, confirming that the request is relevant and necessary. The application is then reviewed by the Chairperson of BoS and Dean (ACD) to assess whether the proposed cosupervisor's expertise aligns with the research. Once this review is complete, the application is forwarded to the Senate for final approval. The Senate evaluates the request based on the recommendations provided, ensuring that the inclusion of an international co-supervisor is justified and meets academic standards. Only after receiving official approval from the Senate can the international co-supervisor be formally appointed and involved in the candidate's PhD research and supervision process.
+If the Principal Supervisor leaves the Institute for any reason, he / she is permitted to work as Principal Supervisor for candidates registered before leaving the Institute. However, additional supervisor from the Institute shall be provided, if the candidate is unable to submit the thesis within calendar year.
+The practice of change of Supervisor should be discouraged under the normal circumstances. However, any application from a candidate or the Supervisor requesting for a change if recommended by HoD may be considered and the requested change will be permitted with the approval of Director.
+8 |
+P a g e
+9. COMPOSITION OF RPC
+The Research Progress Committee (RPC) required to be set up for monitoring the progress of research for each registered scholar shall have following composition.
+Chairman - Head of the concerned Department/ One of the senior qualified supervisors nominated by Chairman Senate, when HoD is not a qualified supervisor.
+Supervisor/Supervisors.
+One RPC member (Expert) from the Department/Discipline to be nominated by the supervisor.
+One RPC member (Expert) from the Allied Department/Allied Discipline to be nominated by the supervisor.
+10. ATTENDANCE/LEAVE/ABSENCES RULES AND REGULATIONS
+10.1 Leave regulations
+Leave policy will be applicable for full time PhD scholars (with institute fellowship).
+All scholars must attend every lecture, tutorial, and practical class. However, to account for late registration, sickness or other such contingencies, attendance requirement will be a minimum of 75 % of the classes held.
+A scholar with less than 75% attendance in lectures, tutorials and practical taken together (as applicable), in a course during the semester, will be awarded 'W' attendance in that course irrespective of his/her performance in the tests. The course coordinator will award 'W' grade to a scholar who is deficient in attendance, considering the consolidated attendance record for the whole semester for the course concerned. For the purpose of attendance calculation, every scheduled practical class will count as one unit irrespective of the number of contact hours.
+A full-time Ph.D. scholar, during his/her stay at the Institute will be entitled for 30 days of Standard leaves during each academic year (Standard leaves: causal leave including leave on medical ground). Additional 30 duty leaves will be given for attending conference/ seminar/workshop/visiting other organization for training, data collection, research work/sports activity etc . These scholars are not entitled to have vacation. Even during mid-semester breaks and summer and winter vacations, he/she will have to explicitly apply for leave.
+Leave beyond 30 days in an academic year may be granted to a research scholar in exceptional cases subject to the following conditions
+That the leave beyond 30 days will be without Assistantship/Scholarship, and
+ii) Such an extension of up to additional 30 days will be granted only once during the entire program of the scholar including self-sponsored scholar.
+The female Ph.D. Scholars are entitled for Maternity leave of maximum period of 180 days. In such cases, the Ph.D. registration period, as per the norms of the Institute, will further be extended for the period of maternity leave availed (not exceeding 180 days). Assistance-ship shall not be paid to female Ph.D. Scholars for the period of maternity leave availed. However, such research scholars shall be eligible for assistantship of the maximum period of Five years as per prevailing institute norms (excluding the actual period of maternity leave availed). Male research scholars are eligible for paternity leave of 7 days (without pay) per occasion (max. two occasion) over and above the other entitled leaves. Research scholar shall submit the application for leave along with a copy of appropriate medical certificate through Supervisor, HoD and to Dean (ACD) for approval.
+When research scholar avails leave, then the weekends and holiday(s) as prefix and/or suffix will not be counted as leave. However, weekends and holiday(s) during the period of absence will be counted as leave.
+If any academic activity is scheduled on weekend or holiday(s) where Ph.D. scholar involvement is required, then scholar should remain present. Ph.D. scholar is not entitled to any compensatory leave against their presence over weekend/holiday(s).
+10.2 Absence during the semester for courses registered
+A scholar must inform the Supervisor or HoD or Dean (ACD) immediately of an instance of continuous absence from classes.
+A scholar who is absent due to illness or any other unavoidable circumstances, up to a maximum of two weeks, should approach the course coordinator for make-up quizzes, assignments, and laboratory work. Supporting document should be attached to the application.
+A scholar absents from a sessional examination due to illness should approach the course coordinator for a make-up test immediately on return to class. The request should be supported with a medical certificate from Institute's Medical Officer. A certificate from registered medical practitioner will also be acceptable for a scholar normally residing off-campus, provided details of registration of the concerned Medical Practitioner appears explicitly on the certificate.
+In case the period of absence on medical grounds is more than 20 working days during the semester, a scholar may apply for withdrawal from the semester, i.e., withdrawal from all courses registered that semester. Such application must be submitted as early as possible and latest one week before the start of the End Term Examination. No applications for semester withdrawal will be considered thereafter. Depending on merit of the case Dean (ACD), will consider such applications. Partial withdrawal from courses registered in a semester is not allowed.
+If a scholar is continuously absent from the institute for more than four weeks without notifying the Supervisor / HoD / Dean (ACD), his/her name will be removed from institute rolls.
+11. REQUIREMENTS FOR SUBMISSION OF THESIS
+If a scholar is continuously absent from the institute for more than four weeks without notifying the Supervisor / HoD / Dean (ACD), his/her name... | 11. REQUIREMENTS FOR SUBMISSION OF THESIS: Research Publication/ Patent: Journal publications Indexed in SCI/SCIE/SSCI/AHCI Database — Points per publication/patent: 04; Mandatory Points: 04
+If a scholar is continuously absent from the institute for more than four weeks without notifying the Supervisor / HoD / Dean (ACD), his/her name... | 11. REQUIREMENTS FOR SUBMISSION OF THESIS: Research Publication/ Patent: Journal publications Indexed in Scopus / ESCI Database — Points per publication/patent: 02; Mandatory Points: -
+If a scholar is continuously absent from the institute for more than four weeks without notifying the Supervisor / HoD / Dean (ACD), his/her name... | 11. REQUIREMENTS FOR SUBMISSION OF THESIS: Research Publication/ Patent: Conference paper indexed in Scopus Database — Points per publication/patent: 01; Mandatory Points: -
+If a scholar is continuously absent from the institute for more than four weeks without notifying the Supervisor / HoD / Dean (ACD), his/her name... | 11. REQUIREMENTS FOR SUBMISSION OF THESIS: Research Publication/ Patent: Patent Granted — Points per publication/patent: 04; Mandatory Points: -
+If a scholar is continuously absent from the institute for more than four weeks without notifying the Supervisor / HoD / Dean (ACD), his/her name... | 11. REQUIREMENTS FOR SUBMISSION OF THESIS: Research Publication/ Patent: Total Points 08 — Points per publication/patent: Total Points 08; Mandatory Points: Total Points 08
+For research paper publications indexed in SCI, SCIE, SSCI, or AHCI, the Ph.D. candidate must be either the first or second author. Similarly, for patents, the candidate must be the first or second inventor to be considered for academic credit.
+For the purpose of assigning points to journal publications, the date of acceptance shall be used to determine the category of the journal.
+To submit a PhD thesis, a candidate must earn at least 08 points. Of these, at least 04 points must come from research publications indexed in SCI, SCIE, SSCI, or AHCI. The remaining 04 points can be earned based on the criteria listed in above Table in section 11 . All research papers and patents must be directly related to the candidate's research topic. Candidates must also provide proof of indexing from Scopus or Web of Science (WoS) and patent documentation from the Patent Office. Such publication criteria would be applicable for candidates getting admission w.e.f. AY 2025-2026.
+For all registered Ph.D. scholars (admitted before July 2025), the existing rules, as given below, regarding the publication requirements for Ph.D. thesis submission shall remain applicable.
+Minimum TWO research publications in Science Citation Index (SCI/SCIE) journal are required for submission of Ph.D. thesis. The 'final accepted for publication' research paper in SCI or ISI journal is also be considered. The research papers published in Social Sciences Citation Index (SSCI) and Arts & Humanities Citation Index (AHCI) can also be considered for Architecture and Humanities departments.
+Minimum TWO research publications in Science Citation Index (SCI/SCIE/SSCI/AHCI) journal
+OR
+Minimum ONE research publication in Science Citation Index (SCI/SCIE/SSCI/AHCI) journal and Minimum TWO research publications in Scopes Index journal including E-SCI journals.
+OR
+Minimum ONE research publication in Science Citation Index (SCI/SCIE/SSCI/AHCI) journal and minimum ONE granted patent based on the research topic
+The 'final accepted for publication' research paper in journal is also be considered. The research papers published in Social Sciences Citation Index (SSCI) and Arts & Humanities Citation Index (AHCI) can also be considered for Architecture and Humanities departments.
+The Research Excellence Award is proposed for PhD candidates at VNIT Nagpur who have accumulated 16 or more points (out of which maximum 4 points are allowed through conference papers indexed in Scopus database) from their research during the PhD tenure. Such points will be counted till the date of PhD notification. The candidate is expected to submit his/her nomination in the prescribed format to the respective Chairperson, BoS. The names of such eligible candidates will be recommended by the Chairperson, Board of Studies to the Dean (Academics), along with the necessary evidence and supporting documents. The Dean (Academics) will have the discretion to decide the number of Research Excellence Awards to be granted.
+12. PH.D. PRE-SUBMISSION AND THESIS EVALUATION
+Pre-submission Seminar Evaluation Panel: A PhD candidate can give a pre-submission seminar based on recommendations from the RPC members, the supervisor, the co-supervisor (if applicable), and the chairperson of BoS. These recommendations must be noted on the RPC meeting report.
+The Pre-Submission Seminar Evaluation Panel will consist of the following members:
+Head of the Department (as Chairman, BoS),
+ii) All members of the Research Progress Committee (RPC),
+iii) Supervisor, and
+iv) Co-supervisor (if applicable).
+The candidate will be allowed to submit the synopsis and thesis on positive recommendations from the Pre-submission Seminar Evaluation Panel.
+A candidate is required to submit 4 copies of synopsis and 2 soft (Spiral) bound Ph.D. thesis along with the Pen Drive of synopsis, thesis and report of similarity index in PDF format to the Academic Section.
+The proposed panel of examiners for Ph.D. thesis evaluation shall include a total of 10 examiners, comprising:
+05 Indian examiners (Professor/Associate Professor from CFTIs and Scientists from Indian National Research Laboratories), and
+05 Foreign examiners (faculty members or research scientists from reputed international institutes/universities or organizations).
+Supervisor should submit the signed list of proposed examiners for Ph.D. thesis review in prescribed format through proper channel to the Dean (ACD) office for necessary action. Out of submitted panel of 10 examiners, Chairman Senate will approve two examiners for evaluation of the PhD Thesis.
+The PhD thesis should be evaluated by independent experts who have not previously collaborated with the candidate on the thesis topic. The supervisor and chairperson of BoS must ensure that a co-author of the candidate's research papers is not recommended as a potential PhD thesis examiner.
+The PhD thesis will be sent to approved examiners for Ph.D. thesis evaluation.
+An examiner will be given 45 days to complete the review, as per standard practice. If there is no response within this period, a reminder email will be sent after 15 days.
+If the examiner does not respond or continues to send auto-generated emails even after 60 days from accepting the review request, the evaluation request will be withdrawn.
+To prevent further delays, another examiner will be selected from the suggested panel of examiners to review the thesis under a fast-track process. The newly assigned examiner will be requested to complete and submit the review within 30 days to ensure a timely evaluation. Additionally, the reason for initiating the fast-track review will be communicated to the examiner.
+Thesis Compliance Review Panel: After receipt of reports from external examiners, PhD student has to incorporate the correction in the PhD thesis, and submit the compliance report through PhD supervisor, Chairman BoS to Dean (Academic) office. The compliance of correction in the PhD thesis will be verified by one RPC committee member to be nominated by the Chairman Senate.
+In case the report of one of the examiners is not favorable, the thesis will be sent to the third examiner. If the report of third examiner is favorable then only a candidate will be considered eligible for Ph.D. degree after open defense.
+A candidate shall be required to defend his / her Ph.D. thesis (open defense and viva-voce) before the Board of Examiners Committee consisting of following members.
+One of the Examiners of the Ph.D. thesis
+ii) Chairman, Board of Studies of the concerned Department.
+iii) Supervisor(s) of Ph.D. thesis
+iv) Director's Nominee
+In case the examiner is unable to attend the viva-voce for any reason, the Director is empowered to nominate one expert in the field from the local area.
+The signature of the external expert, who is available for Ph.D. viva-voce examination is to be obtained on the final submitted thesis in the prescribed format.
+A candidate will have to submit two hardbound copies of thesis incorporating all suggestions of examiners. After successful defense, one for record, and the other for library.
+Thesis rejected by both the examiners may be resubmitted after revision, not earlier than one year and not later than three years from the date of such intimation to the scholar by the Academic Section. The thesis so resubmitted may be examined by the same referees or by new referees.
+Rejection of the thesis so resubmitted will disqualify the scholar from further consideration for the award of the Ph.D. degree, in the topic of research chosen by him / her.
+Based on report of Board of Examiners, the Senate decides the scholar's eligibility for award of the degree of Doctor of Philosophy.
+Note:
+For Ph. D scholars admitted from academic session July 2025 and onwards, all Ph. D clauses mentioned above shall be applicable.
+For all registered Ph.D. scholars (admitted before July 2025), all above mentioned clauses except clause related to publication requirement for the Ph. D thesis submission shall be applicable.
+13. PAYMENT OF FEES AND DEPOSIT (Rs.)
+(This is subject to the revision from time to time)
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: Registration fees — Ph.D. (Full-Time) Per Sem. (in ₹): 4000.00; Ph.D. (Part-Time) Per Sem. (in ₹): --
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: Library Deposit (refundable) — Ph.D. (Full-Time) Per Sem. (in ₹): 2400.00; Ph.D. (Part-Time) Per Sem. (in ₹): --
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: Library Fees — Ph.D. (Full-Time) Per Sem. (in ₹): 1600.00; Ph.D. (Part-Time) Per Sem. (in ₹): 2000.00
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: Tuition Fees — Ph.D. (Full-Time) Per Sem. (in ₹): 7500.00; Ph.D. (Part-Time) Per Sem. (in ₹): 15000.00
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: Retention Fees — Ph.D. (Full-Time) Per Sem. (in ₹): 1600.00; Ph.D. (Part-Time) Per Sem. (in ₹): 5000.00
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: Internet Charges — Ph.D. (Full-Time) Per Sem. (in ₹): 1000.00; Ph.D. (Part-Time) Per Sem. (in ₹): 1500.00
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: Infrastructure Usage Fee — Ph.D. (Full-Time) Per Sem. (in ₹): 1000.00; Ph.D. (Part-Time) Per Sem. (in ₹): 1500.00
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: *Medical Aid Fund Premium (for first 3 years) — Ph.D. (Full-Time) Per Sem. (in ₹): 3000.00; Ph.D. (Part-Time) Per Sem. (in ₹): --
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: For subsequent per year — Ph.D. (Full-Time) Per Sem. (in ₹): 1000.00
+(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT (Rs.): Head: # Total (₹) — Ph.D. (Full-Time) Per Sem. (in ₹): 22100.00; Ph.D. (Part-Time) Per Sem. (in ₹): 25000.00
+# At the time of joining, the candidate has to pay one-time fees and per semester fees together (i.e ₹ 22100/- for Ph.D. Full-Time and ₹ 25000/- for Ph.D. Part-Time.
+* For subsequent years, scholars will have to pay Rs. 1000/- per year till thesis submission.
+Examination Fee: The examination fee of Rs. 35,000/- for Ph.D. Full-Time/ Part-Time program shall be paid by the candidate prior to the submission of the thesis.
+NOTE:
+The Full-Time Ph.D. Category fellows who have completed FIVE years, (excluding approved semester drop), but could not submit a thesis under the specified criteria (required for thesis
+submission) will be converted to Part Time Ph.D. Category automatically. The candidate will have to pay the fees as per the norms of the Part-Time program.
+If the candidates could not submit the thesis even after completion of TWO years after conversion to Part Time Ph.D. category, they have to apply for re-registration with consent from supervisor's and RPC committee through proper channel. Re- registration process is to be done every year.
+The Part-Time Ph.D. category fellows who have completed SEVEN years, but could not submit thesis under specified criteria (required for thesis submission) have to apply for re-registration with consent from supervisor's and RPC committee through proper channel. Re-registration process is to be done every year.
+Re-registration fee is Rs. 25000/- (per year after completion of SEVEN years from the Date of Registration).
+14. CONVERSION OF FULL TIME PHD TO PART TIME PHD
+The candidate should have previously completed minimum three years of the duration after registration.
+He/ She should have completed the course work as well as progress seminars (minimum 6 seminars).
+The candidate will have to pay the fees as per the norms of part time program.
+He/ She should have to submit fresh NOC from appointing authority /parent organization / Employer.
+All other conditions stand same as proposed for part time Ph.D. Program.
+15. NOTIFICATION FOR ADMISSION
+The details of the admission procedure will be available in the Institute brochure on www.vnit.ac.in
+16. INFORMATION ABOUT PART TIME Ph.D. CAT. 2B:
+In accordance with Institute Senate Resolution (S80.20), a new admission category has been introduced for candidates having a minimum of five years of industry experience or academic experience in reputed academic institutes. The details of this category are as follows:
+Based on the Senate Resolution to Agenda Item S80.20, the definition of 'Academic Reputed Institute' and the Assessment Mechanism for such applicants are provided as under:
+Definition of 'Academic Reputed Institute'
+The following categories of institutions shall be considered as Academic Reputed Institutes:
+Centrally Funded Technical Institutions (CFTIs)
+Government or Government-Funded / Government-Aided Institutes
+Government-Funded Research Laboratories
+Autonomous bodies being funded from Central and State Governments
+Institutes having appeared in the NIRF rank within top 300 or up to 1500 in World QS rankings *, at least once during the preceding five years
+Assessment Mechanism in Lieu of VNIT Ph.D. Written Test (for Part-Time Candidates having five or more Years of Industry Experience/Academic Experience in Academic Reputed Institutes).
+The Assessment Mechanism in Lieu of Ph.D. Written Test shall be as follows:
+The Assessment Mechanism in Lieu of Ph.D. Written Test shall be as follows | Definition of Reputed: Parameter: Synopsis Presentation — Weightage: 50 %
+The Assessment Mechanism in Lieu of Ph.D. Written Test shall be as follows | Definition of Reputed: Parameter: Interview — Weightage: 40 %
+The Assessment Mechanism in Lieu of Ph.D. Written Test shall be as follows | Definition of Reputed: Parameter: GATE Score — Weightage: 10 % *
+*Modified as per Senate Resolution
+A new Ph.D. Part-Time Admission Category for candidates having five or more years of Industry Experience/Academic Experience in Academic Reputed Institutes shall be included in the Ph.D. Application Form and Admission Brochure. Applicants under this category shall be required to submit a single-page synopsis write-up indicating the focused area of research along with the application form.
+17. ENROLLMENT IN MOOC/NPTEL COURSES TO FULFILL CREDIT REQUIREMENTS
+As resolved in the 77th Senate Meeting (S77.07) and 79th Senate Meeting (S79.08), all Ph.D. candidates, both Full-Time and Part-Time, are permitted to enroll in MOOC/NPTEL courses (from the Department's approved list only) to fulfill their credit requirements, in accordance with the Institute's Ph.D. programme guidelines.
+All Ph.D. scholars are requested to consult their Supervisor and the Chairman, Board of Studies (BoS), regarding the procedure, eligibility, and selection of appropriate courses for registration under the MOOC/NPTEL framework.

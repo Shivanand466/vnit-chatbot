@@ -1,0 +1,35 @@
+SOURCE_URL: https://drive.google.com/file/d/1nsbvJal7johrTeB1n4oMMh-d8MVUOoqs/view
+TITLE: PhD Supervisor allocation Guidelines
+FETCHED: 2026-05-08
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: PhD Supervisor allocation Guidelines (dated 2026-05-08)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Dean (Acd)/
+Date: 20.06.2025
+Subject: Guidelines for PhD Supervisor Allocation.
+1. General Allocation Rules :
+o Every faculty member is eligible to supervise a maximum of four (4) PhD candidates at a time as the main supervisor under Cat. 1A with Institute Fellowship. The number of Full-Time (Institute Fellowship Category) candidates will be counted based on the following before the selection process: -
+The registration as Full Time Institute Fellowship Category including those who have been converted to Part Time category for any reason.
+The candidate converted to Full Time (Institute Fellowship) from any other PhD registration category.
+( A supervisor can have maximum 10 candidates registered under him/her for Ph.D. / M. Tech. (by Research) / M. Arch. (by Research) programs taken together at any given time as main supervisor . This includes both registrations at VNIT (including all categories) and registrations at other Universities/Institutes.)
+o Allocation of PhD candidates will primarily be based on the preferences provided by the candidates, mapped against the faculty member's available vacancy as defined above.
+2. PhD Candidate Preference Collection :
+o Each PhD candidate must submit a preference list of up to ten (10) faculty members , in the order of preference, based on the alignment of his/her research interests (in the prescribed format provided). The format for submitting preference list is uploaded on Institute website (https://vnit.ac.in/section/academics/admission/#ph-d-admission-july-2025).
+o The preference list must be submitted during the interview/selection process to the Chairman Board of Studies (BoS), shall be made available to all faculty members.
+3. Supervisor Allocation Process :
+[A] For Cat. 1A, Cat. 1D & Cat. 2A: -
+o Allocation of PhD candidates to supervisor will be done based on candidate's first preference , subject to:
+o The availability of a vacancy under the chosen faculty member with the consent of the faculty member listed as a preferred supervisor.
+o If the candidate's first-choice faculty member cannot accept the supervision due to capacity constraints or other reasons, the allocation will proceed to the next preference on the list, and so on.
+o In case where none of the preferences can be fulfilled, the candidate will be allocated a supervisor as per the interest of the other faculty members (preference may be given to the faculty members with lowest number of ongoing PhD scholars across the categories or as decided by the BoS chairman) .
+[B] For Cat. 1B and Cat. 1C: - Supervisor allotment will be given to the respective PI/CoPI/mentor.
+4. Faculty Consent :
+o Supervisors must provide their explicit consent to supervise the candidate before final allocation. This ensures that the supervisor agrees to oversee the candidate's research within their capacity and interest areas.
+Departments must maintain a centralized supervisor allocation register , tracking PhD candidate preferences, allocated supervisors, ongoing and completed PhD supervision data.
+Faculty nearing retirement (less than 2 years) are not eligible to be main supervisors but may act as co-supervisors.
+A co-supervisor should not be allotted during the interview process. If required, the main supervisor will assess the need for additional expertise or interdisciplinary collaboration at a later stage and initiate the process through the appropriate channel.
+Chairman, BoS to submit the final allocation report in the prescribed format , to the Dean (Acd) office for approval.
+Dean (Acd)
+To,
+The Director, for approval please.

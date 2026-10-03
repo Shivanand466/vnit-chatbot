@@ -1,0 +1,254 @@
+SOURCE_URL: https://drive.google.com/file/d/17wJ7UbIYhAIodGPxNMXzTaDmrw41fG3N/view
+TITLE: Course contents
+FETCHED: 2024-06-12
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Course contents (dated 2024-06-12)
+DEPARTMENT OF MECHANICAL ENGINEERING
+And
+DEPARTMENT OF METALLURGICAL AND MATERIALS ENGINEERING
+(Online) Master of Technology (M.Tech.) & Post Graduate Diploma in Additive Manufacturing
+Visvesvaraya National Institute of Technology, Nagpur, South Ambazari Road, Nagpur, Maharashtra 440010
+Focus of the Interdisciplinary M. Tech./P.G. Diploma in Additive Manufacturing Programme:
+The 'Interdisciplinary M.Tech./P.G. Diploma course on Additive Manufacturing' aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage of skilled manpower in this field. The curriculum is designed to equip students with a comprehensive understanding of AM technology with a blend of fundamentals underlying the science with specialized studies of various processes and technologies. The program emphasizes an interdisciplinary nature of AM with hands-on experience in designing, adapting, and generating parts with latest AM technologies. Leveraging the robust AM ecosystem at VNIT, the program offers students an opportunity to work towards research and applications in diverse AM methodologies. The Department of Mechanical Engineering contributes to the design and application of AM, whereas the Department of Metallurgical and Materials Engineering will elaborate the fundamental understanding of the AM processed materials.
+M. Tech. in Additive Manufacturing (Online) &
+PG Diploma in Additive Manufacturing (Online)
+Scheme of Credits Requirement for the Programme
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | Scheme of Credits Requirement for the Programme: Degree: PG Diploma in Additive Manufacturing — Courses & Credits to be completed: DC- 25 Credits DE- 15 Credits; Total Credits Acquired: 40
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | Scheme of Credits Requirement for the Programme: Degree: M. Tech. in Additive Manufacturing — Courses & Credits to be completed: DC- 25 Credits DE- 15 Credits Project- 12 Credits; Total Credits Acquired: 52
+Scheme for M. Tech in Additive Manufacturing (online)
+List of core courses (DC) Total credits- 28 credits
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Fundamentals of Additive Manufacturing; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Product Design and Prototyping; Structure L-T-P-Credits: 3-1-0-4
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Advanced Physical Metallurgy; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Metallurgical Principles in Additive Manufacturing; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Mechanical Behavior of Materials; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: CAD/CAM for Additive Manufacturing; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Materials Characterization; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Advanced Physical Metallurgy Lab; Structure L-T-P-Credits: 0-0-2-1
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Additive Manufacturing Processes Lab; Structure L-T-P-Credits: 0-0-2-1
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: IDP5XY — Course Name: Mechanical Behaviour of Materials Lab; Structure L-T-P-Credits: 0-0-2-1
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of core courses (DC) Total credits- 28 credits: Course Code: Total Credits of DC Courses — Course Name: Total Credits of DC Courses; Structure L-T-P-Credits: 25
+List of Department Elective (DE) courses (Select any 5 courses, 3 credits each)
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Course Code: IDP5XY — Course Name: Powder Manufacturing for AM; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Course Code: IDP5XY — Course Name: Phase transformations and Solidification; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Course Code: IDP5XY — Course Name: ML for Additive Manufacturing and Research; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Course Code: IDP5XY — Course Name: Heat Treatment Technology; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Course Code: IDP5XY — Course Name: Modelling of AM Processes; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Course Code: IDP5XY — Course Name: Bio-Medical Additive Manufacturing; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Course Code: IDP5XY — Course Name: Lasers and Optics in Manufacturing; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Course Code: IDP5XY — Course Name: Surface Engineering; Structure L-T-P-Credits: 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): IDP5XY | Industry 4.0 | 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): IDP5XY | Monitoring Methods for AM | 3-0-0-3
+The M.Tech./P.G. Diploma course on Additive aims to bridge the gap between the increasing applications of Additive Manufacturing (AM) and the acute shortage... | List of Department Elective (DE) courses (Select any 5 courses, 3 credits each): Total Credits of DE Courses | Total Credits of DE Courses | Total Credits of DE Courses | 15
+*Students can register for any of the electives offered in the semester.
+List of Project courses (Total credits- 12 credits)
+*Students can register for any of the electives offered in the semester. | List of Project courses (Total credits- 12 credits): Course Code: IDP5XY — Course Name: Project Phase I (Mandatory for M.Tech. degree); Structure L-T-P-Credits: 0-0-6-6
+*Students can register for any of the electives offered in the semester. | List of Project courses (Total credits- 12 credits): Course Code: IDP5XY — Course Name: Project Phase II (Mandatory for M.Tech. degree); Structure L-T-P-Credits: 0-0-6-6
+*Students can register for any of the electives offered in the semester. | List of Project courses (Total credits- 12 credits): Course Code: Total Credits of Project Courses — Course Name: Total Credits of Project Courses; Structure L-T-P-Credits: 12
+Grading Methodology
+Theory Courses: The evaluation of theory courses will be as per the academic rules and regulations. Students should attend minimum of 75% online classes held for each subject to appear for final examination. Assessment of the subjects will be as per the guidelines consisting of MID semester exam, END semester exam and Teacher's assessment co mprising of Assignments, quizzes and other tools based on the choice of Course coordinator. Relevant grades will be awarded to students based on relative grading system in place.
+Project/ Dissertation Work: As a part of the dissertation work, every student must identify a research
+problem at his/her workplace. He/she should formulate the objectives in the selected areas of research. The candidate has to develop a suitable research methodology and prepare a comprehensive technical report. Project Supervisor (s) has to be chosen based on areas of expertise. There will be a thesis supervisor from VNIT, Nagpur and one more can be opted if required from his/her industry/institute. Thesis supervisor allotment will be carried at the beginning of 3 rd semester in line with the research requirements. Periodical evaluation of the progress of dissertation work shall be arranged as per the academic calendar.
+The following activities are expected from the students during the project work:
+Able to identify the experimental/ simulation tools to achieve the research objectives.
+Should allocate sufficient time for conducting experiments/ simulation independently.
+Analyse the experimental/simulation data and document the results in scientific manner.
+Prepare a comprehensive dissertation report by following professional ethics.
+Demonstrate the outcome of dissertation work.
+Supervisors will monitor the student ' s work periodically and provide proper guidance to him/her accordingly to complete the credits requirement.
+List of Department Core courses (DC)
+IDP5XY Fundamentals of Additive Manufacturing (3-0-0) 3 credits
+Course Outcomes:
+CO1: Gain Knowledge on the Fundamental aspects of Additive Manufacturing. CO2: Potential uses and Challenges in Additive Manufacturing. CO3: Understand theory in different AM processes like FDM, SLM, DMLS, DED, etc.
+CO4: To create/generate additive designs and assess the component quality.
+Course Contents:
+Unit I: Introduction to basic principles of AM technologies, Enabling features of Design Optimization. Unit II: Material Properties in AM, Techniques for AM fabrication of Materials Unit III: Existing and Emerging Technologies with details and Advantages like FDM, SLA, SLM, DMLS, etc. Unit IV: Software tools, File formats, Model Repair and Validation Unit IV: Direct Digital Manufacturing and Distributed Manufacturing, Rapid Tooling, Rapid Manufacturing
+Unit V: Application of AM in Aerospace, Automotive, Biomedical sectors
+Text/Reference books:
+Additive Manufacturing Technologies: Rapid Prototyping to Direct Digital Manufacturing, Ian Gibson, David W Rosen, Brent Stucker
+Principles of CAD/CAM/CAE, K Lee Addison-Wesley, 1999
+Rapid Manufacturing: An Industrial Revolution for the Digital Age, Hopkinson, Hague Dickens, Wiley, 2005
+Advanced Manufacturing Technologies for Medical Applications, Ian Gibson, Wiley 2005
+Rapid Prototyping: Principles & Applications, Chua Chee Kai, Leong Kah Fai, Wiley, 1997
+IDP5XY Product Design and Development (3-1-0) 4 credits
+Course Outcomes:
+CO1: To design a product using computer aided design. CO2: To carry out product development and planning processes. CO3: To understand the concept of prototyping.
+CO4: Guiding principles in Product design.
+Course Contents:
+Unit I: Definition of Product Design Design by Evolution, Design by Innovation, Essential Factors of Product Design, Production/Consumption Cycle. Unit II: Product Design Practice and Industry: Introduction, Product Strategies, Time to Market, Analysis of the Product, 3 S's principles (Standardization, Simplification), Designer's role Unit III: Myth and Reality, Industrial Design Organization, Basic Design Considerations, Problems faced by Industrial Designer and procedure adopted, Types of Industrial Design Models. Unit IV: Aesthetics in Product Design, Functional Design Practice, Economic Factors Influencing Design, Product value, Design for Safety, Reliability and Environmental Considerations. Unit V: Manufacturing Operations related to Design, Profit and Competitiveness, Break-even Analysis, Samuel Eilon Model: Economics in New Product Design. Unit VI: Human Centric Engineering in Product Design, Forces, Anthropometrics, Space Constraints,
+Design Display, Man/Machine Information Exchange.
+Text/Reference books:
+Product Design & Manufacturing, Chitale, Gupta, 2nd Ed 2002, Prentice Hall of India
+IDP5XY Advanced Physical Metallurgy (3-0-0) 3 credits
+Course Outcomes:
+CO1: Importance of Structure -Property relationship in Engineering applications. CO2: Introduction to equilibrium and non-equilibrium process and their importance to industry. CO3: To establish connection between process and microstructure developments. CO4: Calculation of parameters controlling the microstructures.
+Course Contents :
+Introduction to Basic Physical Metallurgy, Role of Strengthening mechanisms in crystalline solids and annealing phenomena, including grain boundary strengthening, dislocation strengthening, solid solution strengthening, precipitation strengthening, the cold-worked state, crystal plasticity, production of crystalline defects, annealing phenomena, recovery, recrystallization, grain growth, secondary recrystallization, tertiary recrystallization, genesis of preferred orientation, deformation and recrystallization textures.
+Importance of rapid solidification technology, metal-matrix composites, dual-phase steels, mechanical alloying, and the Additive manufacturing. Development of structure-mechanical property relationships in Additive manufacturing processes: fundamental concepts by applications and technological developments.
+Text/Reference books:
+A. Kelly and R. B. Nicholson, Strengthening Methods in Crystals. New York: Halstead Press Division, Wiley, 1972, Print.
+F. J. Humphreys and M. Hatherly, Recrystallization and Related Annealing Phenomena, 2 nd ed, Pergamon Press, 2004, Print.
+A. International, "Standard Terminology for Additive Manufacturing Technologies," ed: ASTM International, 2012.
+I. Gibson, D.Rosen and B.Stucker 'Additive Manufacturing Technol ogies: 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing' 2nd Edition, Springer, 2014
+IDP5XY Metallurgical Principles in Additive Manufacturing (3-0-0) 3 credits
+Course Outcomes:
+CO1: Understand the requirement of different materials for engineering microstructure of materials in additive manufacturing processes. CO2: Appreciate the designing approaches, science, and technology of additive manufacturing in the development of advanced materials. CO3: Critical study, analysis of additive manufactured processes/materials coupled with their effect on the structural and functional properties.
+CO4: Appreciate the effects of various process parameters on the properties of AM Products.
+Course Contents:
+Introduction to AM Technologies: History of Materials Additive Manufacturing (AM), evolution, Steps in AM, Classification of processes; Material extrusion, vat polymerization, material jetting, metal additive manufacturing overview, sheet lamination, powder bed fusion, binder jetting, directed energy deposition. Advantages of AM and types of materials used for AM. Influence of process parameter on microstructures, scanning strategy, banding, thermal effects, and power density etc. Classification of Materials for AM: Polymeric materials for 3D printing, Pure metals and alloys powders, multi-component metals/alloys powder mixture, ceramics, metal matrix composites (MMCs) for direct energy deposition and powder fusion bed techniques. Sintering Technologies in AM: Sintering of single & mixed powders, liquid phase sintering, sintering variables, modern sintering techniques. Application of AM for powder metallurgy parts and few case studies on properties and defects analysis in sintered components. Role of Solidification in AM: Role of solidification rate, Nucleation of metals and alloys, melt pool dynamics on morphology. Processing variables controlling melt-pool solidification behaviour, Evolution of non-equilibrium structures, microstructural studies, Structure-property relationship. Post Processing treatments: Support material removal, surface texture, aesthetic and precision improvement, Properties improvement by thermal post processing, hot isostatic pressing, recrystallization, stress relieving, solution treatment and aging. Phase transformations associated with different materials, development of microstructure, alteration of mechanical properties and associated strengthening mechanisms. AM of different materials: Processing techniques and associated issues with 3D printing of Steels, Nickel, Aluminium and Titanium base alloys. AM of dissimilar Metals and associated processes. Case studies on metallurgical aspects including defects and properties using laser-based process, electron
+beam-based process and arc-based process in different Materials.
+Text/Reference books:
+Additive manufacturing technologies. Gibson, Ian, David W. Rosen, Brent Stucker, Mahyar Khorasani, David Rosen, Brent Stucker, and Mahyar Khorasani. Cham, Switzerland: Springer, 2014.
+Sintering of advanced materials. Fang, Zhigang Zak, ed. Elsevier, 2010.
+Phase transformations in metals and alloys. Porter DA, Easterling KE. Third edition, CRC press; 2009.
+Metallurgy and mechanics of welding: processes and industrial applications. Blondeau R, editor. John Wiley & Sons; 2013.
+Additive manufacturing of metals: the technology, materials, design and production. Yang, Li, Keng Hsu, Brian Baughman, Donald Godfrey, Francisco Medina, Mambally kalathil Menon, and Soeren Wiener. Cham: Springer, 2017.
+IDP5XY Mechanical Behavior of Materials (3-0-0) 3 credits
+Course Outcomes
+CO1: To understand the effect of different types of mechanical loading on materials.
+CO2: To understand deformations mechanisms in additive manufactured materials.
+CO3: To understand high temperature deformation and fracture of materials.
+CO4: To know different mechanisms involved in loading of additive manufactured materials.
+Course Contents:
+Elastic and Plastic behaviour of Materials, Engineering Stress - strain curve. flow curve, Important relati ons of flow curve. Concept of stress and strain in two dimensions. Principal stresses, Mohr's circle, Yield Criteria.
+Mechanistic models for elastic, plastic and time-dependant deformation, phenomenological description of plastic deformation in AM materials - slip, twinning, stacking faults etc., strengthening mechanisms, deformation modes and mechanisms for additive manufactured materials.
+Fatigue of engineering materials, S-N Curve, Characteristics of fatigue fracture, Evaluation of fatigue behavior, mechanical and metallurgical aspects of fatigue life.
+High temperature deformation of materials, creep, analysis of creep curve, structural changes during creep, deformation mechanism maps.
+Fracture of materials with focus on AM, types, effect of notch, structure and temperature, concept of toughness and fracture toughness, preliminary concept of LEFM and PYFM, strain energy release rate, stress intensity factors, Fracture toughness of additive manufactured materials, design. Toughening mechanisms in AM materials.
+Text / Reference Books:
+Dieter, George Ellwood, and David Bacon. Mechanical metallurgy. Vol. 3. New York: McGraw-hill, 1976.
+Lewinsohn, C. A. (2000). Mechanical Behavior of Materials by Norman E. Dowling.
+Hosford, William F. Mechanical behavior of materials . Cambridge university press, 2010.
+IDP5XY CAD/CAM for Additive Manufacturing (3-0-0) 3 credits
+Course Outcomes:
+CO1: Identify the need of design for additive manufacturing. CO2: Develop mathematical models to represent synthetic curves and surfaces. CO3: Identify design constraints and choose a polymer and metal AM process. CO4: Develop lattice structures using topology optimization. CO5: Apply AM guidelines in designing mass customised products.
+Course Contents:
+Introduction to Design for Additive Manufacturing (DfAM): Introduction to geometric modelling, Modelling of Synthetic curves like Hermite, Bezier and B-spline, Parametric Representation of freeform surfaces, Design freedom with AM, Need for Design for Additive Manufacturing (DfAM), CAD tools vs. DfAM tools, Requirements of DfAM methods, General Guidelines for DfAM, The Economics of Additive Manufacturing, Design to Minimize Print Time, Design to Minimize Post-processing. Design Guidelines for Part Consolidation: Design for Function, Material Considerations, Number of Fasteners, Knowledge of Conventional DFM/DFA, Assembly Considerations, Moving Parts, Part redesign, Opportunities for part consolidation, challenges with part consolidation. Design for Improved Functionality: Multi scale design for Additive manufacturing, Mass customization, Biomimetics, Generative design, Design of multi-materials and functionally graded materials. Design for Minimal Material Usage: Topology Optimization, Modelling of Design space, defining design and manufacturing constraints, performing analysis for weight reduction, maximize stiffness, minimize displacement, Post-processing and Interpreting Results, Applications of TO, TO tools, Design of cellular and lattice structures, Design of support structures. Computational Tools for Design Analysis: Considerations for Analysis of AM Parts, Material Data, Surface Finish, Geometry, Simplifying Geometry, Mesh-Based Versus Parametric Models, Build Process Simulation: Model Slicing, Contour Data Organization, Layer-by-Layer Simulation, Hatching Strategies, Scan Pattern Simulation and Tool Path Generation. Design for Polymer AM: Anisotropy, Wall Thicknesses, Overhangs, Support Material, Accuracy, Tolerances, Layer Thickness, Resolution, Print Orientation, Warpage, over sintering, Hollowing Parts, Horizontal Bridges, Connections, Fill Style, holes, fillets, ribs, font sizes and small details. Design for Metal AM: Powder Morphology, Powder Size Distribution, Material Characteristics, Designing to Minimize Stress concentrations, Residual Stress, Overhangs, shrinkage, warpage and Support Material, Design Guidelines for Wall Thickness, Clearance Between Moving Parts, Vertical Slots, Circular Holes, fillets, channels, vertical Bosses, circular pins, External Screw Threads and part positioning. Other AM Considerations: Designer Machine Operator Cooperation, Health and Safety, Material Exposure, Gas Monitoring, Gas Exhaust, Material Handling, Risk of Explosion, AM Part Standardization and Certification.
+Text / Reference Books:
+A Practical Guide to Design for Additive Manufacturing, Diegel, Olaf, Axel Nordin, and Damien Motte, Springer, 2020.
+The 3D Printing Handbook: Technologies, Design and Applications, Redwood, Ben, Filemon Schoffer, and Brian Garret, 3D Hubs, 2017.
+Design for Advanced Manufacturing: Technologies and Process, Laroux K, Gillespie, McGrawHill, 2017.
+Additive Manufacturing Technologies, Gibson, Ian, David W. Rosen, Brent Stucker, and Mahyar Khorasani, Springer, 2021.
+Laser-Induced Materials and Processes for Rapid Prototyping, L.Lu, J. Y. H. Fuh and Y.S. Wong, Springer, 2001.
+Rapid Prototyping: Laser-based and Other Technologies, Patri K. Venuvinod and Weiyin Ma, Springer, 2004.
+Mathematical Elements for Computer Graphics, David F. Rogers, J. A. Adams, TMH,2008.
+Geometric Modeling, Michael E.Mortenson, Tata McGrawHill, 2013.
+Online Resources:
+https://courses.gen3d.com/courses/enrolled/988400
+https://markforged.com/resources/blog/design-for-additive-manufacturing-dfam
+https://www.hubs.com/knowledge-base/how-design-parts-metal-3d-printing/
+https://www.rapidmade.com/design-for-additive-manufacturing
+https://all3dp.com/1/design-for-additive-manufacturing-dfam-simply-explained/#where-to- learndfam
+MML5XY Materials Characterization (3-0-0) 3 credits
+Course Outcomes:
+CO1: To understand the basics of crystallography and materials characterization. CO2: To understand details and working of optical microscopy and scanning electron microscope. CO3: To know how to do chemical analysis of a microstructural feature and understand XRD. CO4: To understand the basics and application of thermal characterization and IR spectroscopy.
+CO5: To apply the knowledge gained for each technique and its limitations for a particular application.
+Course Contents:
+Unt I: Basic crystallography SC, BCC, FCC, HCP, CsCl, NaCl, DC and ZnS structure description, Ideal vs real crystals, defects (overview), definition of microstructure. Unit II: Importance of structure-property correlation in materials, structure sensitive/insensitive properties, introduction to materials characterization and its importance in materials engineering, resolution and depth of field/focus in imaging, aberrations. Optical microscopy (OM) - reflected/transmitted light microscopy, theoretical and practical resolution of an optical microscope, principles of image formation, effective/empty magnification, bright field, dark field, polarized light microscopy and applications of each, sample preparation for optical microscopy and limitations. Unit III: Scanning electron microscopy (SEM) - Advantages/disadvantages as compared to OM and other imaging techniques, mechanics of SEM, electron-matter interaction, imaging modes (secondary and backscattered), effect of spot size, effect of apertures, effect of accelerating voltage on SEM imaging, signal detection, atomic number and topological contrast, chemical analysis using SEM (EDS/WDS working principle, construction and analysis, data acquisition modes - spot, line and area scans), resolution of EDS/WDS detector attached to SEM, advantages/disadvantages, working and calibration, qualitative and quantitative analysis. Unit IV: X-ray diffraction (XRD) - Bragg's law, basic powder diffraction, generation of X-rays, characteristic X-ray spectrum, detectors, factors affecting the intensity of diffraction peaks (atomic scattering factor, structure factor, multiplicity, Lorentz factor, Polarization factor, absorption effects), derivation of diffraction conditions for SC, BCC and FCC Bravais lattice, phase identification using XRD. Unit V: Thermal analysis techniques - Importance of thermal characterization techniques. Differential thermal analysis (DTA), differential scanning calorimetry (DSC) and thermogravimetric analysis (TG) analysis. Unit VI: Infrared spectroscopy (conventional and Fourier transform, working principles, differences,
+instrumentation, and applications).
+Text / Reference Books:
+L. Yang, Materials Characterization: Introduction to microscopic and spectroscopic methods, Wiley.
+ASM Handbook, Vol. 9, Metallography and Microstructures, ASM International, USA.
+Goodhew, Humphreys and Beanland, Electron Microscopy and Microanalysis, Taylor and Francis.
+IDP5XY Advanced Physical Metallurgy Lab (0-0-2) 1 credits IDP5XY Additive Manufacturing Processes Lab (0-0-2) 1 credits IDP5XY Mechanical Behaviour of Materials Lab (0-0-2) 1 credits
+Virtual Labs will be developed with Experiments based on the Course Contents.
+PROJECT CREDITS IDP5XY Project Phase I 0-0-4-4 credits IDP5XY Project Phase II 0-0-8-8 credits
+Project/ Dissertation Work: As a part of the dissertation work the student must identify a research problem at his/her workplace. He/she should formulate the objectives in the selected area of research. The candidate must develop a suitable research methodology and prepare a comprehensive technical report. Project Supervisor (s) has to be chosen based on the relevant field of the expertise. There will be two supervisors, one from VNIT, Nagpur and one from his/her industry/institute. The allotment of guide will be done at the beginning of the third semester in line with the research requirements. Student should present the progress of dissertation work periodically based on the schedule arranged as per the academic calendar.
+The following activities are expected from the students during the project work:
+They should be able to identify the experimental/ simulation tools to achieve the research objectives.
+They should allocate sufficient time for the Conduct of experiments/ simulation independently.
+Analyse the experimental/simulation data and document the results in scientific manner.
+Prepare a comprehensive dissertation report by following professional ethics.
+Demonstrate the outcome of dissertation work.
+Supervisors will monitor the work of the student periodically and guide him/her accordingly to complete the credit requirement.
+List of elective courses (DE)
+IDP5XY Powder Manufacturing for AM (3-0-0) 3 credits
+Course Outcomes
+CO1: Understand various manufacturing methods to synthesize the powders for additive manufacturing. CO2: Characterize powders produced through different methods. CO3: Identify suitable compaction and sintering methods to densify powder preforms.
+CO4: Select appropriate powder production method pertinent to various additive manufacturing techniques.
+Course Contents:
+General Introduction: Historical background and introduction to powder manufacturing, Powders for additive manufacturing. Methods of Powder Production: Chemical process of producing powder such as reduction and thermal decomposition technique (carbonylation). Electrolytic methods, precipitation, fused salt electrolysis etc. Atomization methods - gas atomization, water atomization, centrifugal atomization, ultrasonic and others emerging processes. Physical methods of powder production like condensation, evaporation. Mechanical - milling and other impaction techniques, mechanical alloying. Production of metallic, ceramic, cermet and composite powders. Powder Characterization & Treatments: Testing and evaluation of powder characteristics - particle size, shape, morphology & size distributions, surface topography, surface area, shape factors; true, apparent and tap density; mass and volume flow rates, interparticle friction, compressibility and compression ratio etc. Thermal and mechanical treatments given to powders. Powder packing, Annealing and diffusion alloying, Additives - binders, lubricants; Granulation, Coatings on powders. Shaping Techniques: Pressure and Pressure-less compaction methods, die compaction (single / double / multiple actions); isostatic compaction - HIP and CIP; rolling / forging / extrusion / injection moulding as techniques of compaction; slip casting, tape casting, analysis of defects of powder compact. Metal powders for AM: Selection of suitable powders for various AM techniques. Powders for DED, PBF processes, LMD, SLM, Handling of metal powders, flowability properties of powders. Sintering: Theory of sintering, Sintering of single and mixed phase powders, Types of sintering - solid state sintering, liquid phase sintering, spark plasma sintering; Effect of sintering - dimensional changes, microstructural changes, consolidation. Case studies of additive manufactured parts and their structure-property correlations.
+Text/ Reference Books:
+Powder Metallurgy Science, Technology & Applications by P.C. Angelo & R. Subramanian, 2008
+Powder Metallurgy by Anish Upadhyaya and G.S. Upadhyaya, Universities Press, 2011
+Advances in Powder Metallurgy: Properties, Processing & Appln, I. Chang, Y. Zhao, Elsevier, 2013
+IDP5XY Phase transformations and Solidification (3-0-0) 3 credits
+Course Outcomes
+CO1: Importance of Phase transformation and Solidifications in manufacturing. CO2: Introduction to important Thermodynamic process parameters in Ingots, casting and Additive Manufacturing. CO3: To develop quantitative explanation on thermodynamics and phase transformation.
+CO4: Methodological calculation using parameters to understand diffusion related process.
+Course Contents:
+Review of Bulk Thermodynamics and Phase Diagrams, Long-Range Diffusion, Diffusion controlled and Interface controlled processes, Elastic Energy Effects, Interfacial Mobility Effects, Gradient Thermodynamics Description of the Interface, Nucleation, Growth and Coarsening, Solidification in Ingots, Casting and Additive Manufacturing, Origin of Grain Orientation during solidification, Non Equilibrium Solidification during quenching from the Melt, Diffusion Transformation in Solids and Nonequilibrium process .
+Text/ Reference Books:
+D.A. Porter, K.E. Easterling and M.Y. Sherif, Phase Transformations in Metals and Alloys, 4 th Edn., CRC Press (2022).
+Li Yang, Keng Hsu, Brian Baughman, Donald Godfrey, Francisco Medina, Mamballykalathil Menon, Soeren Wiener "Additive manufacturing of metals: the technology, materials, design and production" Springer 2017
+H Vehkamäki "Classical nucleation theory in multicomponent systems" Springer, 2006
+IDP5XY ML for Additive Manufacturing and Research (3-0-0) 3 credits
+Course Outcomes:
+CO1: To learn the basic programming skills in python. CO2: To learn the use of statistical analysis. CO3: To know various algorithms used in machine learning for application in Additive Manufacturing. CO4: To understand the application of deep learning in materials informatics. CO5: To apply the image processing techniques for porosity elimination and fractography in AM.
+Course Contents:
+Introduction to Python programming, Getting started with python, Syntax of coding, data types, conditional execution, use of iteration, Creating Functions, writing of text files, Creating python dictionaries. Python tools used for scientific computation, NumPy, Pandas and Matplotlib, statistical analysis, data analysis algorithms, linear regression, logistic regression, classification, python module for data analysis, scikit-learn library, alloy design using ML. Introduction to deep learning, artificial neural networks (ANN), activation function, gradient descent, back propagation, creating neural networks in python, Machine learning library in python, Keras and TensorFlow, application of machine learning for predicting materials mechanical behaviour. Introduction to image processing and computer vision, convolutional neural networks (CNN), image manipulation techniques, python computer vision library (OpenCV), image classification using CNN, application of computer vision in materials engineering, microstructure analysis, porosity estimation and fractography using computer vision
+Text/Reference books
+William McKinney, Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython (2nd Edition), 2017
+Jeffrey P. Simmons , Lawrence F. Drummy, Charles A. Bouman, Marc De Graef, Statistical Methods for Materials Science: The Data Science of Microstructure Characterization (1st Edition), 2021
+John Slavio, Machine Learning for Beginners: An Introduction to Artificial Intelligence and Machine Learning, 2022
+Geron Aurelien, Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, 2017
+IDP5XY Heat Treatment Technology (3-0-0) 3 credits
+Course Outcomes:
+CO1: Comprehend the necessity of Heat Treatment processes in Additive Manufacturing. CO2: Familiarize oneself with diverse Heat Treatment techniques applicable to fabricated materials. CO3: Understand the principles underlying different Heat Treatment processes and their impact on final properties of 3D-printed materials. CO4: Appreciate the effects of various process parameters on the properties of steels, alloys, and composites prepared using Heat Treatment. CO5: Grasp the diverse applications of Heat Treatment techniques and explore the available options for
+Heat Treatment of additively manufactured parts.
+Course Contents:
+Introduction: Equilibrium phase diagrams, TTT diagrams, characteristics of non-equilibrium phases in metals and alloys developed by Additive Manufacturing, Continuous cooling transformations, critical cooling rate, Concept of Hardenability, effect of various parameters on hardenability.
+Technology of heat treatment: Annealing, Normalizing, Hardening treatments. Effect of heat treatment changes on structure and properties of steels, Non-ferrous alloys and composites. Industrial heattreatment procedures and uses of industrially important alloys.
+Understanding AM products: Difference between AM and Conventional materials and their response to heat treatment practices. Effect of cooling rate on microstructure in different AM technologies. Understanding the anisotropic microstructures and residual stresses in AM materials.
+Post-processing heat treatment: Understanding the effect of rapid solidification. Stress relieving, solidsolution annealing, solution treating and aging operations to improve properties. New Vacuum heat treating processes for AM parts. Hot isostatic pressing (HIP) treatment for densification.
+Case studies on AM processed materials: post-processing heat treatments to improve the properties of 3D printed materials. Case studies on metallurgical aspects including defects and properties using of materials developed by SLM, EBM and DED processes and post processing strategies. Strategies for the development of isotropic properties in AM materials.
+Text / Reference Books:
+Phase transformations in metals and alloys. Porter DA, Easterling KE. Third edition, CRC press; 2009.
+Laleh, Majid, et al. "Heat treatment for metal additive manufacturing." Progress in Materials Science (2022): 101051.
+Froes, Francis H., and Rodney Boyer, eds. Additive manufacturing for the aerospace industry. Elsevier, 2019.
+Additive manufacturing technologies. Gibson, Ian, David W. Rosen, Brent Stucker, Mahyar Khorasani, David Rosen, Brent Stucker, and Mahyar Khorasani. Cham, Switzerland: Springer, 2014.
+IDP5XY Modelling of AM Processes (3-0-0) 3 credits
+Course Outcomes:
+CO1: To provide an understanding of important components in modeling of additive manufacturing processes
+CO2: To offer the importance of thermal gradients inherent in AM to reduce distortion and residual stresses
+CO3: Methods to mitigate the undesirable phenomena
+CO4: Enable to understand methods to improve computational efficiency and simulating various AM
+Course Contents:
+Unit I: Introduction to various AM processes, Principles of AM processes and Applications, Process Parameters in individual processes, Response and Dimensional Accuracies. Unit II: Analytical Models of various AM process (FDM, SLM, SLA, DED, etc.) Unit III: Scan Strategies, Energy assessment, Process optimization, Computational Modeling Unit IV: Residual Stresses and Distortions in AM, Temperature modeling, Defect estimation and prediction. Unit V: Time Model, Thermal Modeling, CFD Modeling, Thermo-Mechanical Modeling, Numerical
+Modeling, Failure Modes and Fracture in AM
+Text/Reference books
+Additive Manufacturing, Andreas Gebhardt and Jan-Steffen Hötter, 2016
+Science, Technology and Applications of Metals in Additive Manufacturing, Bhaskar Dutta, Sudarsanam Babu, Bradley Jared, Additive Manufacturing Materials and Technologies, 2019
+Thermo-Mechanical Modeling of Additive Manufacturing, Michael Gouge, Pan Michaleris, Elsevier, 2017
+IDP5XY Bio-Medical Additive Manufacturing (3-0-0) 3 credits
+Course Outcomes: At the end of the course, the student will be able to
+CO1 Apply the concepts of medical imaging and 3D scanning for accurate 3D model re-construction. CO2 Identify the errors during processing of medical image data and minimize them. CO3 Select the suitable material for a given medical application. CO4 Analyze and select an additive manufacturing technology for a given medical application. CO5 Design and fabricate customized implant for the given medical application.
+Course Contents:
+3D Data Capture and Medical Scanning Technologies: Introduction to medical imaging, Human Anatomy, X-Ray technology, Computed Tomography (CT), Basic Components of CT, Different Types of CT Scanners, Magnetic Resonance Imaging (MRI), Ultrasound imaging, 3-D laser scanners, Industrial CT Scanners, 3D reconstruction and Reverse Engineering (RE), Image Reconstruction Procedure, Digital Communication in Medicine (DICOM) format, Types of Artifacts. Medical Image Processing Software Systems: Processing of medical data from CT/MRI scan to 3D model in MIMICS, 3D-Doctor, Velocity 2 Pro, VoXim, SurgiGuide, SimPlant Software, MIMICS software modules, Importing data, thresholding, segmentation, Editing, region growing, volume reduction, 3D Visualization, surgical simulation, Meshing, Measurement tools, Smoothing tools, STL conversion, Morphological operations, Labelling, volume, RP file generation, Practice on Medical Modelling. Biomaterials: Introduction to Biomaterials, Metallic Biomaterials, Ceramic Biomaterials, Polymeric Biomaterials, Composite Biomaterials, Biodegradable Polymeric Biomaterials, Tissue-derived Biomaterials. Virtual and Diagnostic Models in Medicine: Surgical applications of virtual models in Craniomaxillofacial biomodelling, Oral and Maxillofacial surgery, customized cranio-maxillofacial prosthetics, Biomodel-guided stereotaxy, Vascular biomodelling, Skull-base tumour surgery, Spinal surgery and Orthopaedic biomodelling. Planning and Simulation of Complex Surgeries: Cranioplasty of large cranial defect, Congential malformation of facial bones, Cosmetic facial reconstruction, Separation of conjoined twins, Tumor in the jaw, Cancerous brain, Dental precision planning and Spinal instrumentation. Design and Fabrication of Customized Implants and Prosthesis: Cranium implants, Hip implants, Knee implants, Intervertebral spacers, Buccopharyngeal stent, Tracheobronchial stents, Obturator prosthesis and Tissue engineering scaffolds. A discussion on few benchmark case studies. Design and Production of Medical Devices: Biopsy needle housing, Drug delivery devices, Masks for burnt victims, Functional prototypes help prove design value, Design and fabrication of nonimplantable devices, Tools, Guides, Templates, etc., Design and Fabrication of Medical Support Devices like Arm, Knee Braces, etc., Design and Fabrication of Health Monitoring Devices.
+Additive Manufacturing Related Technology in Sports, Rehabilitation, Device for Elderly, Forensic Science and Anthropology, Tissue Engineering and Organ Printing.
+Text / Reference Books:
+Medical Modelling: The Application of Advanced Design and Rapid Prototyping Techniques in Medicine, Richard Bibb, Dominic Eggbeer and Abby Paterson, Woodhead publishing, 2017.
+Advanced Manufacturing Technology for Medical Applications, Ian Gibson, John Wiley, 2005.
+Bio-Printing: Principles and Applications, Chua Chee Kai and Yeong Wai Yee, World Scientific Publishing, 2015.
+Bio-materials and Prototyping Applications in Medicine, Paulo Bartolo and Bopaya Bidanda, Springer, 2008.
+3D Printing in Medicine, Deepak M Kalaskar, Woodhead publishing, 2017.
+3D Printing in Medicine: A Practical Guide for Medical Professionals, Frak J. Rybicki, Gerald T. Grant, Springer, 2017.
+The Biomedical Engineering Hand Book, Joseph D. Bronzino, 3rd Edition, CRC Press, 2006.
+Online Resources:
+https://medicalfuturist.com/3d-printing-in-medicine-and-healthcare/
+https://zortrax.com/applications/medicine/
+https://amfg.ai/2019/08/30/3d-printing-in-healthcare-where-are-we-in-2019/
+https://tractus3d.com/used-by/branches/healthcare/
+IDP5XY Lasers and Optics in Manufacturing (3-0-0) 3 credits
+Course Outcomes:
+CO1: Provide knowledge of the basic principles and concepts of Lasers CO2: Understand the science in laser engineering CO3: To provide an understanding of type of lasers based on application CO4: The mechanism of pulse generation and control phenomenon
+Course Contents:
+Unit I: Radiation: energy density and pressure of radiation, cavity radiation, modes of oscillation, interaction of radiation with matter (absorption, spontaneous and stimulated emission, Einstein coefficients, photoexcitation cross-section, amplification of radiation) Unit II: Laser pumping systems: optical pumping, electrical pumping, etc. spectral lines shapes, broadening mechanism types, gain calculation, threshold condition. Unit III: Cavity resonator: time constant, quality factor in optics, resonators stability, g-parameters, types of resonators. Unit IV: Types of Lasers: Solid state lasers (Ruby and Nd YAG), Gas lasers (He-Ne, CO2, N2), Liquid lasers (Dye, Semiconductor, Free electron) Unit V: Laser pulse generation (nano, pico and femto pulses), measurement techniques (oscilloscope, time-correlated single photon). Application in optical fibre, fibre laser, harmonic generation, white light generation, optical parametric amplifier Unit VI: Theory, classification and application.
+Text / Reference Books:
+Svelto, Orazio, and David C. Hanna. Principles of lasers. Vol. 1. New York: Springer, 2010.
+Koechner, Walter. Solid-state laser engineering. Vol. 1. Springer, 2013.
+Silfvast, William T. Laser fundamentals. Cambridge university press, 2004.
+Siegman, Anthony E. Lasers. University science books, 1986.
+Young, Matt. Optics and lasers: including fibers and optical waveguides. Springer Science & Business Media, 2000.
+Meschede, Dieter. Optics, light and lasers: the practical approach to modern aspects of photonics and laser physics. John Wiley & Sons, 2017.

@@ -1,0 +1,364 @@
+SOURCE_URL: https://drive.google.com/file/d/1kak3l1lYmflvIn8Klsgv4yiajuyv24yW/view
+TITLE: Course Book for First Year B.Tech. & B.Arch
+FETCHED: 2026-02-04
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Course Book for First Year B.Tech. & B.Arch (dated 2026-02-04)
+9
+comprehensive The course book provides overview of the academic structure and regulations at VNIT. It contains the syllabi along with course objectives, outcomes and mapping to program outcome for the first year of all B. Tech. programs.
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers.
+(+91
+-
+712) 2801370, 2801361
+(+91
+-
+712) 2802200, 2223230
+Contents
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 1. Vision Mission of the Institution | 3
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 2. Credits System | 4-5
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 3. Undergraduate Program Code, Title and Class Section | 6
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 4. Courses to Register in First Year B. Tech. | 7-15
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 5. Program Outcome as defined by NBA | 16-17
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 6. Details of Course Contents | 18-197
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 7. Grading System | 198
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 8. Attendance | 199
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 9. Registration & Enrolment | 199
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 10. Academic Calendar | 200
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 11. Minors offered by various department | 201-202
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 12. Slots for First Semester B. Tech. and Slow wise Master Time Table | 203-213
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 13. Time Table Winter (2025) | 214-218
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 14. List of Faculty Mentors | 221-222
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 15. List of Faculty Coordinator and Student Mentors | 223-224
+Additionally, it includes a convenient reference list of administrative staff, faculty mentors, faculty coordinators, student mentors, and section officers. | Contents: 16. Other Information | 225
+9
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Vision
+To contribute effectively to the national and international endeavour of producing quality human resource of world class standard by developing sustainable technical education system to meet the changing technological needs of the country and the world, incorporating relevant social concerns and to build an environment to create and propagate innovative technologies for the economic development of the Nation.
+Mission
+The mission of VNIT is to achieve high standards of excellence in generating and propagating knowledge in engineering and allied disciplines. VNIT is committed to providing an education that combines rigorous academics with joy of discovery. The Institute encourages its community to engage in a dialogue with society to be able to effectively contribute for the betterment of humankind.
+U9
+Program Outcomes as Defined by NBA (PO)
+Annexure I: Knowledge and Attitude Profile (WK)
+WK1: A systematic, theory-based understanding of the natural sciences applicable to the discipline and awareness of relevant social sciences.
+WK2: Conceptually-based mathematics, numerical analysis, data analysis, statistics and formal aspects of computer and information science to support detailed analysis and modelling applicable to the discipline.
+WK3: A systematic, theory-based formulation of engineering fundamentals required in the engineering discipline.
+WK4: Engineering specialist knowledge that provides theoretical frameworks and bodies of knowledge for the accepted practice areas in the engineering discipline; much is at the forefront of the discipline.
+WK5: Knowledge, including efficient resource use, environmental impacts, whole-life cost, reuse of resources, net zero carbon, and similar concepts, that supports engineering design and operations in a practice area.
+WK6: Knowledge of engineering practice (technology) in the practice areas in the engineering discipline.
+WK7: Knowledge of the role of engineering in society and identified issues in engineering practice in the discipline, such as the professional responsibility of an engineer to public safety and sustainable development.
+WK8: Engagement with selected knowledge in the current research literature of the discipline, awareness of the power of critical thinking and creative approaches to evaluate emerging issues.
+WK9: Ethics, inclusive behavior and conduct. Knowledge of professional ethics, responsibilities, and norms of engineering practice. Awareness of the need for diversity by reason of ethnicity, gender, age, physical ability etc. with mutual understanding and respect, and of inclusive attitudes.
+Annexure-II: Program Outcomes (POs)
+PO1: Engineering Knowledge: Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems.
+PO2: Problem Analysis: Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development. (WK1 to WK4)
+PO3: Design/Development of Solutions: Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required. (WK5)
+PO4: Conduct Investigations of Complex Problems: Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions. (WK8).
+PO5: Engineering Tool Usage: Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems. (WK2 and WK6)
+PO6: The Engineer and The World: Analyze and evaluate societal and environmental
+aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment. (WK1, WK5, and WK7).
+PO7: Ethics: Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)
+PO8: Individual and Collaborative Team work: Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams.
+PO9: Communication: Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences
+PO10: Project Management and Finance: Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one's own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments.
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change. (WK8)
+=========================================================================
+CREDITS SYSTEM
+B. Tech Credit Scheme in line with NEP 2020
+I. Credit Structure for B. Tech:
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Basic Sciences — Symbol: BS; Earned Credit Requirement: 12 - 16*
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Engineering Sciences — Symbol: ES; Earned Credit Requirement: 12 - 16*
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Humanities — Symbol: HU; Earned Credit Requirement: 03
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Institute Core — Symbol: IC; Earned Credit Requirement: 02
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Departmental Core — Symbol: DC; Earned Credit Requirement: 66 - 78 #
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Mandatory Non-Credit — Symbol: MNC; Earned Credit Requirement: At least 4 courses
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Institute Elective — Symbol: IE; Earned Credit Requirement: 6 - 12
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Departmental Elective — Symbol: DE; Earned Credit Requirement: Min. 42
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Humanities & Management — Symbol: HM**; Earned Credit Requirement: 0 - 6
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Open Course — Symbol: OC **; Earned Credit Requirement: 0 - 6
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging... | I. Credit Structure for B. Tech: Category of Course - PC: Total — Earned Credit Requirement: Min. 160
+Program Core (PC)
+Program Elective (PE)
+Institute Core (IC): Institute-wide core course which a student has to compulsorily register.
+Institute Elective (IE): Institute-wide elective course which a student may register. IE courses are open for a student from any discipline / branch.
+Open Course (OC): OC course is offered by a parent department / BoS for a student of departments other than parent department / BoS.
+** Credits for OC + HM should not exceed 06 Credits
+Minimum PC Credits = BS + ES +HU + IC + DC = 12 + 12 + 03 + 02 + 66 = 95
+Branch change after 1 st year is discontinued.
+Institute Core Course Category (Credits - 02):
+IC course: Environmental Studies (2-0-0-2)
+Mandatory Non-Credit Category
+4 MNC courses during 1 st , 2 nd , 3 rd , 4 th , 5 th and 6 th semester.
+Following 3 MNC courses are compulsory
+i SAA101: Health Information and Sports - Part 1 in 1 st Semester
+ii SAA102: Health Information and Sports - Part 2 in 2 nd Semester
+iii Life Skill Management (Venue - VLSC) in 1 st / 2 nd Semester
+Remaining to be register during 3 rd , 4 th , 5 th and 6 th semester.
+Institute Elective (IE) Course Category (Min. Credits -06):
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester
+Undergraduate Program Code, Title and Class Section
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | Undergraduate Program Code, Title and Class Section: Program Code: CSE — Program Title (B. Tech.): Computer Science and Engineering; Section: R
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | Undergraduate Program Code, Title and Class Section: Program Code: ECE — Program Title (B. Tech.): Electronics and Communication Engineering; Section: S
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | Undergraduate Program Code, Title and Class Section: Program Code: EEE — Program Title (B. Tech.): Electrical and Electronic Engineering; Section: T
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | Undergraduate Program Code, Title and Class Section: Program Code: MEC — Program Title (B. Tech.): Mechanical Engineering; Section: U
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | Undergraduate Program Code, Title and Class Section: Program Code: CIV — Program Title (B. Tech.): Civil Engineering; Section: W
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | Undergraduate Program Code, Title and Class Section: Program Code: CME — Program Title (B. Tech.): Chemical Engineering; Section: X
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | Undergraduate Program Code, Title and Class Section: Program Code: MIN — Program Title (B. Tech.): Mining Engineering; Section: Y
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | Undergraduate Program Code, Title and Class Section: Program Code: MME — Program Title (B. Tech.): Metallurgical and Materials Engineering; Section: Z
+1 st Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: ARSA101 — Course Title.Course Title: Basic Design & Visual Arts; Type.Type: PC; STRUCTURE.L: 0; STRUCTURE.T: 0; STRUCTURE.P: 0; STRUCTURE.S: 6; CREDITS.CREDITS: 9
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: ARPA101 — Course Title.Course Title: Graphics I; Type.Type: PC; STRUCTURE.L: 0; STRUCTURE.T: 0; STRUCTURE.P: 4; STRUCTURE.S: 0; CREDITS.CREDITS: 2
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: ARLA101 — Course Title.Course Title: Materials & Construction I; Type.Type: BSAE; STRUCTURE.L: 2; STRUCTURE.T: 0; STRUCTURE.P: 4; STRUCTURE.S: 0; CREDITS.CREDITS: 4
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: ARLA102 — Course Title.Course Title: History of Architecture I; Type.Type: PC; STRUCTURE.L: 3; STRUCTURE.T: 1; STRUCTURE.P: 0; STRUCTURE.S: 0; CREDITS.CREDITS: 4
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: HULA101 — Course Title.Course Title: English & Corporate Communication; Type.Type: HU; STRUCTURE.L: 2; STRUCTURE.T: 0; STRUCTURE.P: 2; STRUCTURE.S: 0; CREDITS.CREDITS: 3; Total.Hours: 29
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: MALA105 — Course Title.Course Title: Mathematics; Type.Type: BS; STRUCTURE.L: 3; STRUCTURE.T: 0; STRUCTURE.P: 0; STRUCTURE.S: 0; CREDITS.CREDITS: 3
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: SAAA101 — Course Title.Course Title: Health Information & Sports- I; Type.Type: MNC; STRUCTURE.L: 0; STRUCTURE.T: 0; STRUCTURE.P: 2; STRUCTURE.S: 0; CREDITS.CREDITS: 0
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Total Credits — Course Title.Course Title: Total Credits; Type.Type: Total Credits; STRUCTURE.L: 10; STRUCTURE.T: 1; STRUCTURE.P: 12; STRUCTURE.S: 6; CREDITS.CREDITS: 25
+2 nd Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: ARS1XX — Course Title.Course Title: Architectural Design I; Type.Type: PC; STRUCTURE.L: 0; STRUCTURE.T: 0; STRUCTURE.P: 0; STRUCTURE.S: 6; CREDITS.Hours: 9; 30
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: ARP165 — Course Title.Course Title: Graphics II; Type.Type: PC; STRUCTURE.L: 0; STRUCTURE.T: 0; STRUCTURE.P: 4; STRUCTURE.S: 0; CREDITS.Hours: 2; 30
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: ARL1XX — Course Title.Course Title: Materials & Construction II; Type.Type: BSAE; STRUCTURE.L: 2; STRUCTURE.T: 0; STRUCTURE.P: 4; STRUCTURE.S: 0; CREDITS.Hours: 4; 30
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: ARL154 — Course Title.Course Title: History of Architecture II; Type.Type: PC; STRUCTURE.L: 3; STRUCTURE.T: 1; STRUCTURE.P: 0; STRUCTURE.S: 0; CREDITS.Hours: 4; 30
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: ARL155 — Course Title.Course Title: Theory of Architecture; Type.Type: PC; STRUCTURE.L: 3; STRUCTURE.T: 0; STRUCTURE.P: 0; STRUCTURE.S: 0; CREDITS.Hours: 3; 30
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: APR1XX — Course Title.Course Title: Model Making Workshop; Type.Type: PC; STRUCTURE.L: 0; STRUCTURE.T: 0; STRUCTURE.P: 2; STRUCTURE.S: 0; CREDITS.Hours: 1; 30
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: AML169 — Course Title.Course Title: Engineering Mechanics; Type.Type: BSAE; STRUCTURE.L: 3; STRUCTURE.T: 0; STRUCTURE.P: 0; STRUCTURE.S: 0; CREDITS.Hours: 3; 30
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: SAA102 — Course Title.Course Title: Health Information & Sports- II; Type.Type: MNC; STRUCTURE.L: 0; STRUCTURE.T: 0; STRUCTURE.P: 2; STRUCTURE.S: 0; CREDITS.Hours: 0; 30
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Total Credits — Course Title.Course Title: Total Credits; Type.Type: Total Credits; STRUCTURE.L: 11; STRUCTURE.T: 1; STRUCTURE.P: 12; STRUCTURE.S: 6; CREDITS.Hours: 26; 30
+Courses to Register in the 1 st Year B.Arch.
+1 st Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Program Core — Course Title: Program Core; L-T-P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: PHLA101 — Course Title: Physics; L-T-P: 3-0-0; Credits: 3; Course Type: BS; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: PHPA101 — Course Title: Physics; L-T-P: 0-0-2; Credits: 1; Course Type: BS; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: CSLA101 — Course Title: Computer Programming; L-T-P: 3-0-2; Credits: 4; Course Type: ES; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: EELA101 — Course Title: Electrical Engineering; L-T-P: 3-0-0; Credits: 3; Course Type: ES; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: EEPA101 — Course Title: Electrical Engineering; L-T-P: 0-0-2; Credits: 1; Course Type: ES; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: MALA101 — Course Title: Mathematics I; L-T-P: 3-1-0; Credits: 4; Course Type: BS; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: ICLA101 — Course Title: Environmental Studies; L-T-P: 2-0-0; Credits: 2; Course Type: IC; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: HULA101 — Course Title: English and Corporate Communications; L-T-P: 2-0-2; Credits: 3; Course Type: HU; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: SAAA101 — Course Title: Health Information and Sports - Part 1; Credits: 0; Course Type: MNC; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Program Elective — Course Title: Program Elective; L-T-P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Credits: 1st Sem — BS: 8; ES: 8; HU: 3; DC: 0; IC: 2; IE/DE/HM/OC: 0; Total: 21
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Credits: Cumulative — BS: 8; ES: 8; HU: 3; DC: 0; IC: 2; IE/DE/HM/OC: 0; Total: 21
+Courses to Register in the 1 st Year B. Tech
+B. Tech Computer Science Engineering (Section - R)
+2 nd Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Program Core — Course Title: Program Core; L-T-P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: ECLA101 — Course Title: Basics of Electronics Engineering; L-T-P: 3-0-2; Credits: 4; Course Type: ES
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: MALA102 — Course Title: Mathematics II; L-T-P: 3-1-0; Credits: 4; Course Type: BS
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: CSLA102 — Course Title: Data Structures and Program Design - I; L-T-P: 3-1-2; Credits: 5; Course Type: DC; Pre- requisites: CSL101:CP
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: CSLA103 — Course Title: Digital Circuits and Microprocessors; L-T-P: 3-0-2; Credits: 4; Course Type: DC; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: CSLA104 — Course Title: Discrete Mathematics and Graph Theory(DMGT); L-T-P: 3-1-2; Credits: 4; Course Type: DC; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: SAAA102 — Course Title: Health information and Sports - Part 2; Credits: 0; Course Type: MNC
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Program Elective — Course Title: Program Elective; L-T-P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Title: IE/OC/HM
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Title: Minor/Honor
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Credits: 2 nd Sem — BS: 4; ES: 4; HU: 0; DC: 13; IC: 0; IE/DE/HM/OC: 0-6; Total: 21-25
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Credits: Cumulative — BS: 12 12; HU: 3; DC: 11; IC: 2; IE/DE/HM/OC: 0-6; Total: 40-46
+1 st Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: Program Core — Course Title: Program Core; L-T-P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MALA101 — Course Title: Mathematics I; L-T-P: 3-1-0; Credits: 4; Course Type: BS; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: PHLA101 — Course Title: Physics; L-T-P: 3-0-0; Credits: 3; Course Type: BS; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: PHPA101 — Course Title: Physics; L-T-P: 0-0-2; Credits: 1; Course Type: ES; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: CSLA101 — Course Title: Computer Programming; L-T-P: 3-0-2; Credits: 4; Course Type: ES; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: EELA101 — Course Title: Electrical Engineering; L-T-P: 3-0-0; Credits: 3; Course Type: ES; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: EEPA101 — Course Title: Electrical Engineering Laboratory; L-T-P: 0-0-2; Credits: 1; Course Type: BS; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: ICLA101 — Course Title: Environmental Studies; L-T-P: 2-0-0; Credits: 2; Course Type: IC; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: SAAA101 — Course Title: Health Information and Sports - Part 1; L-T-P: 0-0-2; Credits: -; Course Type: MNC; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Credits: 1st Sem — BS: 8; ES: 8; HU: 0; IC: 2; DC: 0; IE/DE/HM/O: 0; Minor: 0; Honor: 0; Total: 18
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Credits: Cumulative — BS: 8; ES: 8; HU: 0; IC: 2; DC: 0; IE/DE/HM/O: 0; Minor: 0; Honor: 0; Total: 18
+B. Tech Electronics & Communication Engineering (Section - S)
+2 nd Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: MALA102 — Course Title: Mathematics II; L - T - P: 3-1-0; Credits: 4; Course Type: BS; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: AMLA152 — Course Title: Engineering Mechanics; L - T - P: 3-0-0; Credits: 3; Course Type: ES; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: MEPA104 — Course Title: Computer Aided Drafting and Modelling; L - T - P: 0-1-2; Credits: 2; Course Type: ES; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: HULA101 — Course Title: English and Corporate Communication; L - T - P: 2-0-2; Credits: 3; Course Type: HU; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: ECLA102 — Course Title: Electronic Circuits; L - T - P: 3-1-2; Credits: 5; Course Type: DC; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: ECLA103 — Course Title: Networks and Systems; L - T - P: 3-0-0; Credits: 3; Course Type: DC; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: SAAA102 — Course Title: Health Information and Sports - Part II; L - T - P: 0-0-2; Credits: -; Course Type: MNC; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: SAAA103 — Course Title: Life Skill Management; L - T - P: 0-0-2; Credits: -; Course Type: MNC; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Title: IE — L - T - P: 3-0-0; Credits: 3; Course Type: IE; Pre- requisites: -
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Credits: 2nd Sem 4 — BS: 5; ES: 3; HU: 0; IC: 8; DC: 0-3; IE/DE/HM/OC: 0; Minor: 0; Total: 20-23
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Credits: Cumulative 12 — BS: 13; ES: 3; HU: 2; IC: 8; DC: 0-3; IE/DE/HM/OC: 0; Minor: 0; Honor: 38-41
+1 st Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: AMLA151 — Course: Engineering Mechanics; Type: ES; L-T-P: 3-0-0; Credits: 3; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: HULA101 — Course: English and Corporate Communication; Type: HU; L-T-P: 2-0-2; Credits: 3; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MALA101 — Course: Mathematics I; Type: BS; L-T-P: 3-1-0; Credits: 4; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: CSLA101 — Course: Computer Programming; Type: ES; L-T-P: 3-0-2; Credits: 4; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: PHLA102 — Course: Physics; Type: BS; L-T-P: 2-0-0; Credits: 2; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: PHPA101 — Course: Physics; Type: BS; L-T-P: 0-0-2; Credits: 1; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: EELA102 — Course: Electrical Engineering; Type: ES; L-T-P: 3-1-0; Credits: 4; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: EEPA101 — Course: Electrical Engineering; Type: ES; L-T-P: 0-0-2; Credits: 1; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: SAAA101 — Course: Health Information and Sports Part I; Type: AU; L-T-P: 0-0-2; Credits: 0; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: 6L+2T+4P — Course: 6L+2T+4P; Type: Total Credits= 22; L-T-P: Total Credits= 22; Credits: Total Credits= 22; Pre- requisites: Total Credits= 22
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Credits: 1st Sem — BS: 07; ES: 12; DC: 0; IC: 0; IE/DE/HM/OC: 03; Total: 22
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Credits: Cumulative — BS: 07; ES: 12; DC: 0; IC: 0; IE/DE/HM/OC: 03; Total: 22
+B.Tech. Electrical Engineering (Section-T)
+2 nd Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: CHLA103 — Course: Chemical Science for Energy Components; Type: BS; L-T-P: 2-0-0; Credits: 2; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: MELA102 — Course: Basic Engineering Graphics; Type: ES; L-T-P: 2-0-2; Credits: 3; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: MALA102 — Course: Mathematics II; Type: BS; L-T-P: 3-1-0; Credits: 4; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: EELA103 — Course: Digital Circuit; Type: DC; L-T-P: 3-0-0; Credits: 3; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: EEPA103 — Course: Digital Circuit; Type: DC; L-T-P: 0-0-2; Credits: 1; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: EEPA104 — Course: Electrical Workshop - I; Type: ES; L-T-P: 0-0-2; Credits: 1; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: EELA105 — Course: Measurement and Instrumentation; Type: DC; L-T-P: 3-0-0; Credits: 3; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: EEPA105 — Course: Measurement and Instrumentation; Type: DC; L-T-P: 0-0-2; Credits: 1; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: SAAA102 — Course: Health Information and Sports Part II; Type: AU; L-T-P: 0-0-2; Credits: 0; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: ICLA101 — Course: Environmental Studies; Type: IC; L-T-P: 2-0-0; Credits: 2; Pre- requisites: Nil
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course: Institute Elective (Any One) — Type: IE; L-T-P: 3-0-0; Credits: 3
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: 7L+1T+4P Total — Course: 7L+1T+4P Total; Type: 7L+1T+4P Total; L-T-P: 7L+1T+4P Total; Credits: 7L+1T+4P Total; Pre- requisites: 7L+1T+4P Total
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Code: Credits=20-23 EEXXXX — Course: Summer Internship of Six Weeks DE; Type: Summer Internship of Six Weeks DE; L-T-P: 0-0-2; Credits: 1
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Credits: 2 nd Sem — BS: 06; ES: 04; DC: 08; IC: 02; IE/DE/HM/OC: 3; Total: 20-23
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Credits: Cumulative — BS: 13; ES: 16; DC: 08; IC: 02; IE/DE/HM/OC: 03; Total: 42
+1 st Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: Program Core — Course Title: Program Core; L-T- P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisit es: Program Core
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: CHLA101 — Course Title: Chemical Science for Materials And Energy Systems; L-T- P: 3-0-0; Credits: 3; Course Type: BS
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MALA103 — Course Title: Calculus And Differential Equations; L-T- P: 3-1-0; Credits: 4; Course Type: BS
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: HULA101 — Course Title: English And Corporate Communication; L-T- P: 2-0-2; Credits: 3; Course Type: IC
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MELA102 — Course Title: Engineering Drawing; L-T- P: 3-0-0; Credits: 3; Course Type: ES
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: AMLA151 — Course Title: Engineering Mechanics; L-T- P: 3-0-0; Credits: 3; Course Type: ES
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: CHPA102 — Course Title: Chemistry; L-T- P: 0-0-2; Credits: 1; Course Type: BS
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MEPA102 — Course Title: Engineering Drawing; L-T- P: 0-0-2; Credits: 1; Course Type: ES
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: AMPA151 — Course Title: Engineering Mechanics; L-T- P: 0-0-2; Credits: 1; Course Type: ES
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MEPA103 — Course Title: Workshop; L-T- P: 0-0-4; Credits: 2; Course Type: DC
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: SAAA101 — Course Title: Health Information and Sports Part- I; L-T- P: -; Credits: 0; Course Type: MNC
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: Program Elective — Course Title: Program Elective; L-T- P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisit es: Program Elective
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: BS — Course Title: E S HU; Course Title: IC DC; L-T- P: IE/DE/HM/ OC; Credits: Minor; Course Type: Honor; Pre- requisit es: Total
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: 8 — Course Title: 8 3; Course Title: 0 2; L-T- P: 0; Credits: 0; Course Type: 0; Pre- requisit es: 21
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: 8 — Course Title: 8 3; Course Title: 0 2; L-T- P: 0; Credits: 0; Course Type: 0; Pre- requisit es: 21
+B. Tech. Mechanical Engineering (Section-U)
+2 nd Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: Program Core — Course Title: Program Core; L-T- P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: PHLA101 — Course Title: Physics; L-T- P: 3-0-0; Credits: 3; Course Type: BS
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: MALA106 — Course Title: Complex Variables, Integral Transforms And Partial Differential Equations; L-T- P: 3-1-0; Credits: 4; Course Type: BS
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: CSLA101 — Course Title: Computer Programming; L-T- P: 3-0-2; Credits: 4; Course Type: ES
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: EELA101 — Course Title: Electrical Engineering; L-T- P: 3-0-0; Credits: 3; Course Type: ES
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: ICLA101 — Course Title: Environmental Studies; L-T- P: 2-0-0; Credits: 2; Course Type: IC
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: IE — Course Title: Institute Elective 1; L-T- P: 3-0-0; Credits: 3; Course Type: IE
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: PHPA101 — Course Title: Physics; L-T- P: 0-0-2; Credits: 1; Course Type: BS
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: EEPA101 — Course Title: Electrical Engineering; L-T- P: 0-0-2; Credits: 1; Course Type: ES
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: SAAA102 — Course Title: Health Information and Sports Part- II; L-T- P: -; Credits: 0; Course Type: MNC
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: Program Elective — Course Title: Program Elective; L-T- P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: BS — Course Title: ES; Course Title: HU; Course Title: IC DC; L-T- P: IE/DE/HM/OC; Credits: Minor; Course Type: Honor; Pre- requisites: Total
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: 8 — Course Title: 8; Course Title: 0 2; Course Title: 0; L-T- P: 3; Credits: 0; Course Type: 0; Pre- requisites: 21
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: 16 — Course Title: 16; Course Title: 3 2; Course Title: 2; L-T- P: 3; Credits: 0; Course Type: 0; Pre- requisites: 42
+B. Tech Civil Engineering (Section - W)
+1 st Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: Program Core — Course Title: Program Core; L-T- P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites*: Program Core
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: CHLA101 — Course Title: Chemical Science for Materials and Energy Systems; L-T- P: 3-0-0; Credits: 3; Course Type: BS; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: CHPA102 — Course Title: Chemistry Laboratory; L-T- P: 0-0-2; Credits: 1; Course Type: BS; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MALA101 — Course Title: Mathematics I; L-T- P: 3-1-0; Credits: 4; Course Type: BS; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: AMLA151 — Course Title: Engineering Mechanics; L-T- P: 3-0-0; Credits: 3; Course Type: ES; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: AMPA151 — Course Title: Engineering Mechanics Laboratory; L-T- P: 0-0-2; Credits: 1; Course Type: ES; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MELA102 — Course Title: Engineering Drawing; L-T- P: 3-0-0; Credits: 3; Course Type: ES; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: MEPA102 — Course Title: Engineering Drawing Practical; L-T- P: 0-0-2; Credits: 1; Course Type: ES; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: ICLA101 — Course Title: Environmental Studies; L-T- P: 2-0-0; Credits: 2; Course Type: IC; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: CELA201 — Course Title: Building Materials &; L-T- P: 3-0-0; Credits: 3; Course Type: DC; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: CEPA201 — Course Title: Technology; L-T- P: 0-0-2; Credits: 1; Course Type: DC; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: SAAA101 — Course Title: Health Information & Sports - Part I; Credits: 1×0; Course Type: MNC; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: Program Elective — Course Title: Program Elective; L-T- P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites*: Program Elective
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course Code: NIL — Course Title: NIL; L-T- P: NIL; Credits: NIL; Course Type: NIL; Pre- requisites*: NIL
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Credits: 1 st Sem — BS: 8; ES: 8; HU: 0; IC: 2; DC: 4; IE/OC/HM/DE: 0; Total: 22
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Credits: Cumulative — BS: 8; ES: 8; HU: 0; IC: 2; DC: 4; IE/OC/HM/DE: 0; Total: 22
+2 nd Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: Program Core — Course Title: Program Core; L-T- P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites*: Program Core
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: PHLA103 — Course Title: Physics; L-T- P: 3-0-0; Credits: 3; Course Type: BS; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: PHPA103 — Course Title: Physics; L-T- P: 0-0-2; Credits: 1; Course Type: BS; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: MALA102 — Course Title: Mathematics II; L-T- P: 3-1-0; Credits: 4; Course Type: BS; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: CSLA101 — Course Title: Computer Programming; L-T- P: 3-0-2; Credits: 4; Course Type: ES; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: MEPA102 — Course Title: Workshop; L-T- P: 0-0-4; Credits: 2; Course Type: ES; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: HULA101 — Course Title: English & Corporate Communication; L-T- P: 2-0-2; Credits: 3; Course Type: HU; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: CELA103 — Course Title: Engineering Geology; L-T- P: 2-1-0; Credits: 3; Course Type: DC; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: SAAA102 — Course Title: Health Information & Sports - Part II; Credits: 1×0; Course Type: MNC; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Code: Program Elective — Course Title: Program Elective; L-T- P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites*: Program Elective
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Course Title: Any 1 course from IE Basket — Credits: 3; Course Type: IE; Pre- requisites*: --
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Credits: 2 nd Sem — BS: 8; ES: 6; HU: 3; IC: 0; DC: 3; IE/OC/HM/DE: 3; Total: 23
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 2 nd Semester: Credits: Cumulative — BS: 16; ES: 14; HU: 3; IC: 2; DC: 7; IE/OC/HM/DE: 3; Total: 45
+1 st Semester
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: CHLA101 — Course: Chemical Science for Materials and Energy Systems; Type: BS; L-T-P: 3-0-0; Credits: 3; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: CHPA102 — Course: Chemistry; Type: BS; L-T-P: 0-0-2; Credits: 1; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: CSLA101 — Course: Computer Programming; Type: ES; L-T-P: 3-0-2; Credits: 4; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: EELA101 — Course: Electrical Engineering; Type: ES; L-T-P: 3-0-0; Credits: 3; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: EEPA101 — Course: Electrical Engineering; Type: ES; L-T-P: 0-0-2; Credits: 1; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: MALA101 — Course: Mathematics - I; Type: BS; L-T-P: 3-1-0; Credits: 4; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: MELA102 — Course: Basic Engineering Graphics; Type: ES; L-T-P: 2-0-2; Credits: 3; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: MEPA101 — Course: Engineering Workshop; Type: ES; L-T-P: 0-0-2; Credits: 1; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Code: SAAA101 — Course: Health Information and Sports - Part I; Type: MNC; L-T-P: 0-0-2; Credits: 0; Pre- requisites: None
+Minimum 2 IE courses during 1 st , 2 nd , 3 rd , 4 th and 5 th semester | 1 st Semester: Course: Total Credits — Credits: 20
+L-T-P=3-1-0 Means, Three Theory Hrs + One Tutorial hrs + Zero Laboratory or Practical Hrs per Week.
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week
+B. Tech Chemical Engineering (Section - X)
+2 nd Semester
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: AMLA152 — Course: Engineering Mechanics; Type: ES; L-T-P: 3-0-0; Credits: 3; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: AMPA152 — Course: Engineering Mechanics; Type: ES; L-T-P: 0-0-2; Credits: 1; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: ICLA101 — Course: Environment al Studies; Type: IC; L-T-P: 2-0-0; Credits: 2; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: MALA102 — Course: Mathematics - II; Type: BS; L-T-P: 3-1-0; Credits: 4; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: HULA101 — Course: English and Corporate Communicat ion; Type: HU; L-T-P: 2-0-2; Credits: 3; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: PHLA103 — Course: Physics; Type: BS; L-T-P: 3-0-0; Credits: 3; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: PHPA103 — Course: Physics; Type: BS; L-T-P: 0-0-2; Credits: 1; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: IELA101 — Course: Institute Elective-I; Type: IE; L-T-P: 3-0-0; Credits: 3; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: CMLA101 — Course: Introduction to Chemical Engineering; Type: DC; L-T-P: 3-0-0; Credits: 3; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Code: SAAA102 — Course: Health Information and Sports - Part II; Type: MNC; L-T-P: 0-0-2; Credits: 0; Pre- requisites: None
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course: Total Credits — Type: Total Credits; L-T-P: Total Credits; Credits: 23
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course: Certificate Exit Additional Course — Type: Certificate Exit Additional Course; L-T-P: Certificate Exit Additional Course; Credits: Certificate Exit Additional Course
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course: Chemical Engineering — Type: DC; L-T-P: 0-0-2; Credits: 1; Pre- requisites: None
+L-T-P=3-1-0 Means, Three Theory Hrs + One Tutorial hrs + Zero Laboratory or Practical Hrs per Week.
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week
+1 st Semester
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: Program Core — Course Title: Program Core; L-T-P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: SAAA101 — Course Title: Health Information and Sports Part 1; L-T-P: 0-0-2; Credits: 0; Course Type: MNC
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: MALA101 — Course Title: Mathematics I; L-T-P: 3-1-0; Credits: 4; Course Type: BS
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: CHLA102 — Course Title: Chemistry I; L-T-P: 3-1-0; Credits: 4; Course Type: BS
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: CHPA102 — Course Title: Chemistry Laboratory; L-T-P: 0-0-2; Credits: 1; Course Type: BS
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: AMLA152 — Course Title: Engineering Mechanics; L-T-P: 3-1-0; Credits: 4; Course Type: ES
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: AMPA152 — Course Title: Engineering Mechanics Laboratory; L-T-P: 0-0-2; Credits: 1; Course Type: ES
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: MELA102 — Course Title: Engineering Drawing; L-T-P: 3-0-0; Credits: 3; Course Type: ES
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: MEPA102 — Course Title: Engineering Drawing Practical; L-T-P: 0-0-2; Credits: 1; Course Type: ES
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: CELA202 — Course Title: Mining Geology; L-T-P: 3-0-0; Credits: 3; Course Type: DC
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: CEPA202 — Course Title: Mining Geology; L-T-P: 0-0-2; Credits: 1; Course Type: DC
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Credits: 1 st Sem — BS: 9; ES: 9; DC: 4; HU: 0; IC: 0; IE/DE/HM/OC: 0; Total: 22
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Credits: Cumulative — BS: 9; ES: 9; DC: 4; HU: 0; IC: 0; IE/DE/HM/OC: 0; Total: 22
+B.Tech. Mining Engineering (Section Y)
+2 nd Semester
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: Program Core — Course Title: Program Core; L-T- P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites*: Program Core
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: SAAA102 — Course Title: Health Information and Sports Part 2; L-T- P: 0-0-2; Credits: 0; Course Type: MNC; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: MALA102 — Course Title: Mathematics II; L-T- P: 3-1-0; Credits: 4; Course Type: BS; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: CSLA101 — Course Title: Computer Programming; L-T- P: 3-0-2; Credits: 4; Course Type: ES; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: MNLA101 — Course Title: Principles and Concepts of Mining Technology; L-T- P: 3-1-0; Credits: 4; Course Type: DC; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: MNLA102 — Course Title: Mine Surveying; L-T- P: 3-1-0; Credits: 4; Course Type: DC; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: MNPA102 — Course Title: Mine Surveying; L-T- P: 0-0-2; Credits: 1; Course Type: DC; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: HULA101 — Course Title: English and Corporate Communication; L-T- P: 2-0-2; Credits: 3; Course Type: HU; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: ICLA101 — Course Title: Environmental Studies; L-T- P: 2-0-0; Credits: 2; Course Type: IC; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Code: Program Elective — Course Title: Program Elective; L-T- P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites*: Program Elective
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Course Title: Any 1 course from IE Basket — Credits: 3; Course Type: IE; Pre- requisites*: --
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Credits: 2 nd Sem — BS: 4; ES: 4; DC: 9; HU: 3; IC: 2; IE/DE/HM/OC: 0; Total: 22
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 2 nd Semester: Credits: Cumulative — BS: 13; ES: 13; DC: 13; HU: 3; IC: 2; IE/DE/HM/OC: 0; Total: 44
+1 st Semester
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: Program Core — Course Title: Program Core; L-T-P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: MALA104 — Course Title: Calculus and Matrix Theory; L-T-P: 3-1-0; Credits: 4; Course Type: BS; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: PHLA103 — Course Title: Physics of Materials; L-T-P: 3-0-0; Credits: 3; Course Type: BS; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: PHPA101 — Course Title: Physics; L-T-P: 0-0-2; Credits: 1; Course Type: BS; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: MELA103 — Course Title: Basic Engineering Graphics; L-T-P: 2-0-2; Credits: 3; Course Type: ES; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: HULA101 — Course Title: English and Corporate Communication; L-T-P: 2-0-2; Credits: 3; Course Type: HU; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: ICLA101 — Course Title: Environmental Studies; L-T-P: 2-0-0; Credits: 2; Course Type: IC; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: MMLA201 — Course Title: Introduction To Material Science & Engineering; L-T-P: 3-1-0; Credits: 4; Course Type: DC; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: Non Credit — Course Title: Non Credit; L-T-P: Non Credit; Credits: Non Credit; Course Type: Non Credit; Pre- requisites: Non Credit
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Course Code: SAAA101 — Course Title: Physical Education and Sports - Part 1; L-T-P: 0-0-2; Credits: -; Course Type: MNC
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Credits: 1 st Sem — BS: 8; ES: 3; HU: 3; IC: 2; DC: 4; IE/DE/HM/O: -; Minor: -; Honor: -; Total: 20
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | 1 st Semester: Credits: Cumulative — BS: 8; ES: 4; HU: 3; IC: 2; DC: 4; IE/DE/HM/O: -; Minor: -; Honor: -; Total: 20
+B.Tech. Metallurgy & Material (Section Z)
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: Program Core — Course Title: Program Core; L-T-P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: CSL 101 — Course Title: Computer Programming; L-T-P: 3-0-2; Credits: 4; Course Type: ES; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: MALA107 — Course Title: Mathematical Methods for Engineers; L-T-P: 3-1-0; Credits: 4; Course Type: BS; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: CHLA101 — Course Title: Chemical Science for Materials and Energy Systems; L-T-P: 3-0-0; Credits: 3; Course Type: BS; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: CHPA 102 — Course Title: Chemistry; L-T-P: 0-0-2; Credits: 2; Course Type: BS; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: AMLA 153 — Course Title: Engineering Mechanics; L-T-P: 2-1-0; Credits: 3; Course Type: ES; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: EELA 104 — Course Title: Electrical Engineering; L-T-P: 2-0-0; Credits: 2; Course Type: ES; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: MMLA102 — Course Title: Engineering Physical Metallurgy; L-T-P: 3-0-0; Credits: 3; Course Type: DC; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: MMPA 102 — Course Title: Engineering Physical Metallurgy; L-T-P: 0-0-2; Credits: 1; Course Type: DC; Pre- requisites: -
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: Program Elective — Course Title: Program Elective; L-T-P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: IE — Course Title: Institute Elective - 1; L-T-P: 3-0-0; Credits: 3; Course Type: IE
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: Non-Credit — Course Title: Non-Credit; L-T-P: Non-Credit; Credits: Non-Credit; Course Type: Non-Credit; Pre- requisites: Non-Credit
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Course Code: SAAA101 — Course Title: Physical Education and Sports - Part 1; L-T-P: 0-0-2; Credits: -; Course Type: MNC
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Credits: 2 nd Sem — BS: 8; ES: 9; HU: -; IC: -; DC: 4; IE/DE/HM/O: 3; Minor: -; Honor: -; Total: 24
+L-T-P=0-0-2 Means, Two Hrs of Laboratory Practical per Week | B.Tech. Metallurgy & Material (Section Z): Credits: Cumulative — BS: 16; ES: 12; HU: 3; IC: 2; DC: 8; IE/DE/HM/O: 3; Minor: -; Honor: -; Total: 44

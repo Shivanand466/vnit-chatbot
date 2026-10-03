@@ -1,7 +1,8 @@
 SOURCE_URL: https://vnit.ac.in/iaa-news
 TITLE: IA&A News
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
+VNIT Nagpur Achieves Historic Milestone of 100 International Students in Academic Year 2026–27
 National Coordinator, SPARC, Prof. Rabibrata Mukherjee Visits VNIT, Nagpur
 VNIT Welcomes Distinguished Alumni from the 1992 CSE Batch; Strengthening Lifelong Bonds and Global Alumni Engagement
 Visit of Ms. Camille Triouillois, Representative of ISEN Méditerranée, France, to VNIT Nagpur on May 20, 2026

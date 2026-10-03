@@ -1,0 +1,11 @@
+SOURCE_URL: https://drive.google.com/file/d/1Zar5kShbITQ-RMOa8CeoQNAkJehmCBK1/view
+TITLE: V-ACM
+FETCHED: 2025-02-20
+FOUND_ON: http://vnit.ac.in/student-activity-clubs-vnit
+---
+Document: V-ACM (dated 2025-02-20)
+V-ACM, VNIT Nagpur
+Event: 1st year orientation Date: 20 th Oct 2024
+Topic: Roadmap session for your coding journey
+Event: 2nd year orientation Date: 19 th Oct 2024
+Topic: Roadmap session on upcoming Internship Drive

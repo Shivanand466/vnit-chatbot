@@ -16,20 +16,20 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 
 ---
 
-## 2. Status (as of 2026-09-22)
+## 2. Status (as of 2026-10-03)
 
 | Part | Status |
 |---|---|
 | Web pages | **81** pages crawled from vnit.ac.in |
-| Documents (PDF notices, fee sheets, calendars…) | **148 converted** (`data/raw/doc_*.txt`). 599 found, 456 selected; ~305 still to convert (40 in tier 0, all of tiers 1–2). Resume with `ingest_documents.py convert --tiers N`; it skips finished ones |
-| Chunks in the index | **2,678** (81 web pages + 148 documents) |
-| Retrieval | Title-prefixed chunks → hybrid (sentence embeddings + TF-IDF keywords) → cross-encoder reranking → up to 5 passages per (sub-)question |
-| Page-level benchmark (`evaluate.py`, 19 questions) | **16/19 (84%)**; the misses are now mostly documents out-ranking the expected web page |
-| Answer-chunk ranks (`fact_ranks.py`) | **12/18** facts have the answer-bearing chunk in the top 3 |
-| End-to-end answer check (`check_answers.py`) | **13/18 correct**, 2/2 unanswerable questions correctly refused; failures: 4 honest "not found", 1 partly wrong (see §6) |
+| Documents (PDF notices, fee sheets, calendars…) | **406 converted** (`data/raw/doc_*.txt`). 599 found, 456 selected; of those, 33 excluded as lists of people, 5 no readable text, 3 Hindi-only, 7 failed (3 are dead links on vnit.ac.in). Re-run `ingest_documents.py convert`; it skips finished ones |
+| Chunks in the index | **8,147** |
+| Retrieval | Title-prefixed chunks → hybrid (sentence embeddings + TF-IDF keywords) → programme/year contradiction filter → 60-candidate cross-encoder reranking → up to 5 passages per (sub-)question |
+| Page-level benchmark (`evaluate.py`, 19 questions) | **17/19 (89%)**; 2 misses (see §6) |
+| Answer-chunk ranks (`fact_ranks.py`) | **14/18** facts have the answer-bearing chunk in the top 3; 11 of them rank 1st |
+| End-to-end answer check (`check_answers.py`) | **17/18 correct**, 2/2 unanswerable questions correctly refused; 1 failure (see §6) |
 | LLM | Groq `openai/gpt-oss-20b` (free tier) |
-| API + chat page | Working; one-click start via `start_chatbot.bat` |
-| Deployment | Docker image builds locally; Hugging Face Spaces deploy script ready (`deploy/deploy_to_hf.py`), not yet live |
+| API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-03 |
+| Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
 ---
 
@@ -63,7 +63,8 @@ vnit-chatbot/
     ├── ingest_documents.py    <- discover, select, download, convert documents (crash-safe)
     ├── chunk.py               <- text → ~150-word chunks
     ├── build_index.py         <- embeddings + TF-IDF index; pre-downloads the reranker
-    ├── query.py               <- hybrid search + reranking: retrieve(question, k)
+    ├── programme_terms.py     <- which programme/academic year a text is about
+    ├── query.py               <- hybrid search + contradiction filter + reranking
     ├── agent.py               <- splits compound questions, retrieves per part and whole
     ├── generate.py            <- builds the prompt, calls the LLM, extractive fallback
     ├── evaluate.py            <- page-level benchmark
@@ -108,7 +109,8 @@ This matters twice over:
 1. **Split** (`agent.decompose`): "X and Y" becomes two sub-questions when both parts are real questions. A pronoun in the second part is replaced by the first part's subject ("...and when was **it** announced" → "when was **the 5G lab** announced").
 2. **Retrieve** (`query.retrieve`) for each sub-question, and also for the whole question (splitting can lose shared context):
    1. **Hybrid search:** rank all chunks by meaning (sentence embeddings, `all-MiniLM-L6-v2`) and by keywords (TF-IDF), then fuse the two rankings (keyword weight 0.5, K=30).
-   2. **Rerank:** a cross-encoder (`ms-marco-MiniLM-L-6-v2`) reads the top 30 candidates side by side with the question and re-orders them.
+   2. **Set aside contradictions** (`programme_terms.py`): a candidate that states a different degree programme (B.Tech vs M.Tech, with UG/PG standing for their members) or a different academic year (2025-26 style) than the question asks about is skipped, scanning further down the fused ranking to keep the pool full. A candidate stating neither stays eligible, since many answers come from pages that never spell one out. This is what tells the 19 near-identical hostel fee sheets apart.
+   3. **Rerank:** a cross-encoder (`ms-marco-MiniLM-L-6-v2`) reads the top **60** candidates side by side with the question and re-orders them. No single source may fill more than 6 of those 60, so a long list-shaped document (a placement report's company list) cannot crowd out everything else.
 3. **Compose** (`generate.llm_answer`): the whole-question chunks go in first (up to 3), then up to 5 per sub-question. Limits are 1,000 characters per chunk and 6,000 in total, to stay within Groq's free-tier rate limit. Document chunks are labelled with their date. The LLM is told to:
    - use only these passages and cite them;
    - say plainly when they don't cover something;
@@ -120,19 +122,26 @@ This matters twice over:
 
 ## 6. Measured quality
 
-Run on 2026-09-22 with 81 pages + 148 documents (2,678 chunks). Full answers: `data/processed/answer_check.json`.
+Run on 2026-10-03 with 81 pages + 406 documents (8,147 chunks). Full answers: `data/processed/answer_check.json`.
 
-- **Correct (13):** Civil UG intake, 5G announcement date, Chemical specialisations, Electrical M.Tech specialisations, Director, Dean (Academic) email, Mechanical department founding year, Registrar, SC/ST tuition (nil), Kotak Kanya amount, first-year Winter 2026 start date, plus both unanswerable questions correctly declined.
-- **Honest "not in my sources" (4):**
-  - B.Tech OPEN tuition: fee-estimate PDF not converted yet.
-  - 2025-26 placement numbers: the T&P page is out-ranked by placement-report PDFs.
-  - First-year hostel fee: 19 near-identical hostel fee sheets; "B.Tech" vs "M.Tech" confusion.
-  - IDFC deadline: the poster's layout separates the date from its label.
-- **Partly wrong (1):** end-semester exam dates. The calendar's exam-slot rows (A–H) came out without the word "slot", so the LLM read them as conflicting versions and said 7–14 Dec instead of 7–15 Dec.
+| Check | 148 documents (2026-09-22) | 406 documents (2026-10-03) |
+|---|---|---|
+| `check_answers.py` end-to-end | 13/18 | **17/18** |
+| `fact_ranks.py` answer chunk in top 3 | 12/18 | 14/18 (11 at rank 1) |
+| `evaluate.py` page-level | 16/19 | **17/19** |
+| Unanswerable questions declined | 2/2 | 2/2 |
 
-Changes measured on the way (see EXPERIMENTS-LOG.md):
-- Adding titles to chunks: 11 → 12/18 facts found.
-- Sending 5 passages instead of 3 fixed a confident wrong answer ("classes start 4 Jan 2027", read from "Commencement of Next Session") at the cost of one previously-passing answer turning into an honest "not found". Answers also vary a little between runs.
+- **Correct (17):** Civil UG intake, 5G announcement date, Chemical and Electrical M.Tech specialisations, Director, Registrar, Dean (Academic) email, Mechanical founding year, B.Tech OPEN tuition (₹1,25,000/yr) and SC/ST tuition (nil), Kotak Kanya amount, IDFC deadline, first-year boys' hostel fee for Winter 2026 (₹32,150), Winter 2026 class start (19 Aug 2026), end-semester exams (7–15 Dec 2026), plus both unanswerable questions correctly declined.
+- **The single failure:** 2025-26 placement figures (678 students, 170 companies). Stated in one paragraph of the T&P page, which fuses to rank 293 because two placement reports contribute hundreds of company-list chunks matching the same words. Diagnosed stage by stage in EXPERIMENTS-LOG.md §16; left failing because the chatbot declines rather than quoting the 2024-25 numbers.
+
+What moved the numbers this round (all measured, see EXPERIMENTS-LOG.md §10–16):
+- **Reranking pool 30 → 60** (§12): facts 13 → 15/18 on the same data. The pool had been tuned when the corpus was a quarter of its final size, which had quietly become the main limit on accuracy. A pool of 100 measured no better.
+- **Programme/year contradiction filter** (§13): facts 14 → 15/18; the hostel-fee question >20 → rank 1.
+- **Calendar table fixes** (§“Fix calendar table text” commit): exam-slot rows now labelled, month-day grids dropped, letterhead mojibake removed — the end-semester answer went from wrong to correct.
+- **Two text bugs** (§15): page encoding sniffing (UTF-8 punctuation was stored as mojibake) and rejoining sentences split by inline markup.
+- **Rejected after measuring:** programme tags appended to the keyword index (§10, worse), and capping sources in the *final* results (§14, broke a question needing several chunks of one document).
+
+Earlier rounds: adding titles to chunks 11 → 12/18; sending 5 passages instead of 3 fixed a confident wrong answer ("classes start 4 Jan 2027", read from "Commencement of Next Session"). Answers vary a little between runs — one question passed in one run and failed in the next two with no data change.
 
 ---
 
@@ -143,6 +152,8 @@ Changes measured on the way (see EXPERIMENTS-LOG.md):
   - Keyword search rescues exact-term questions ("Registrar").
   - The reranker stops hundreds of documents from crowding out web-page answers.
   - Both were adopted only after measurement showed they beat the alternatives.
+- **Re-tune the pool when the corpus grows:** the 30-candidate pool was right for 122 sources and quietly wrong for 487. Raising it to 60 was the largest single accuracy gain of the project (§12 in EXPERIMENTS-LOG.md). Any corpus change should be followed by re-running the three checks.
+- **Filter candidates, don't re-weight text:** adding programme tags to the indexed text diluted TF-IDF and measured worse; deciding which candidates compete, and leaving scoring alone, worked (§10 vs §13).
 - **Docling for PDFs, not plain extraction:** plain extraction caused a wrong answer.
 - **Rows as sentences with their lead-in context:** prevents mixing up fee categories and losing column meaning when chunked.
 - **Chunk size 150 words:** best of 60/80/100/150 in testing.
@@ -154,12 +165,13 @@ Changes measured on the way (see EXPERIMENTS-LOG.md):
 
 ## 8. Known limitations
 
-- ~305 selected documents not yet converted; their contents can't be answered.
-- Near-identical documents (hostel fee sheets per year/gender, many calendars) and B.Tech/M.Tech wording are the main retrieval weakness.
-- Grid-shaped tables (calendar day grids, exam slots) and designed posters convert into confusing text.
-- Old documents are included (dated, and the LLM is told to prefer the newest), so questions about past terms may get older answers.
-- Personal-data filtering is heuristic (titles + roll-number/student-email density). It caught every list seen in testing, but it's not a guarantee.
+- **A single paragraph can lose to a long list.** The failure in §6: hundreds of similar chunks from one document outweigh one page's paragraph in both rankings. Pool diversification helps but cannot reach fused rank 293.
+- **Designed posters** can pair a label with the wrong value (the IDFC poster's "Application deadline" landed beside the award amount). The LLM declines rather than guessing.
+- Old documents are included (dated, the LLM is told to prefer the newest, and contradicting years are filtered), so questions about past terms may still get older answers.
+- Personal-data filtering is heuristic (titles + roll-number/student-email density): 33 documents excluded, and all 406 converted documents re-checked against it on 2026-10-03, but it's not a guarantee.
+- 15 selected documents yielded no usable text (7 errors including 3 dead links on vnit.ac.in, 5 empty, 3 Hindi-only); scanned PDFs occasionally contain OCR slips like "Nag pur".
 - The rate limiter's memory is per server process and resets on restart; fine for a demo, not for heavy public use.
+- A conversion run killed between writing a document's text file and saving `status.json` leaves a text file with no status entry (14 such files exist). They are complete, filtered documents — the personal-data check runs before the write — but a later run will convert them again.
 
 ---
 

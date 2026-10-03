@@ -28,90 +28,70 @@ Final-year project (FYP). Built with free and open-source tools only.
 - **Web pages:** a polite crawler (1 request per second, respects robots.txt).
 - **Documents:** most VNIT notices are PDFs on Google Drive. They're downloaded through the official Google Drive API and read with **Docling**, which understands page layout, keeps tables as proper rows and reads scanned pages (OCR).
 - **Privacy:** lists of people (seating plans, merit lists, class-committee lists with phone numbers) are **excluded**, both by title and by checking the content for student roll numbers.
-- **Search:** sentence embeddings (`all-MiniLM-L6-v2`) + keyword search (TF-IDF), combined, then re-ordered by a cross-encoder reranker (`ms-marco-MiniLM-L-6-v2`).
+- **Search:** sentence embeddings (`all-MiniLM-L6-v2`) + keyword search (TF-IDF), combined into 60 candidates, then re-ordered by a cross-encoder reranker (`ms-marco-MiniLM-L-6-v2`). Candidates about a different degree programme or academic year than you asked about are set aside first — that is what tells 19 near-identical hostel fee sheets apart.
 - **Answering:** Groq `openai/gpt-oss-20b`. If the AI can't be reached, the chatbot falls back to showing the best passages, and it always says which mode was used.
 
 ---
 
-## Project status (22 September 2026)
+## Project status (3 October 2026)
 
 | Part | Status |
 |---|---|
 | Web pages | ✅ 81 pages from vnit.ac.in |
-| Documents | 🟡 **148 converted** (fee sheets, 19 hostel fee sheets, academic calendars, scholarships, fee notices, admission instructions, Academic Rule Book, placement brochure…). 599 document links found; 456 selected after filters; **~305 still to convert** (40 top-priority, then 265 general notices) |
-| Search index | ✅ 2,678 chunks (web pages + the 148 documents) |
-| Answer quality | 🟡 13 of 18 test questions answered correctly end to end; both "impossible" questions correctly refused (details below) |
+| Documents | ✅ **406 converted** — every usable document VNIT links: fee sheets, all 19 hostel fee sheets, academic calendars, scholarship notices, admission instructions, timetables, course books, department brochures, placement reports, Academic Rule Book. 599 links found, 456 selected after filters; of those, 33 excluded as lists of people, 5 had no readable text, 3 were Hindi-only and 7 failed (3 are dead links on vnit.ac.in) |
+| Search index | ✅ 8,147 chunks |
+| Answer quality | ✅ **17 of 18** test questions answered correctly end to end; both "impossible" questions correctly refused (details below) |
 | Chat page | ✅ Works; one-click start with `start_chatbot.bat` (Windows) |
-| Safety | ✅ Keys kept outside the project and never printed; per-visitor rate limit; answers can't inject code into the page |
+| Safety | ✅ Keys kept outside the project and never printed; per-visitor rate limit; answers can't inject code into the page; every converted document re-checked against the personal-data filter |
 | Deployment | 🟡 **Public link from the laptop** with `start_public_link.bat` (free Cloudflare tunnel). Not always-online: Hugging Face now charges (PRO) for Docker Spaces, and free hosts with 512 MB of memory are too small (see "Deploying" below) |
 
 ### Measured quality
 
-Three automatic checks, run on 22 Sept 2026 with the 148 documents included:
+Three automatic checks, run on 3 Oct 2026 with all 406 documents included (previous round, 148 documents, in brackets):
 
 | Check | What it measures | Result |
 |---|---|---|
-| `check_answers.py` | Asks the real chatbot 18 questions and checks each answer against facts verified by hand in the source pages | **13/18 correct** |
+| `check_answers.py` | Asks the real chatbot 18 questions and checks each answer against facts verified by hand in the sources | **17/18 correct** (was 13/18) |
 | (same) | Two questions whose answers are *not* in VNIT's material | **2/2 correctly refused** (no made-up answers) |
-| `fact_ranks.py` | Is the passage containing the answer among the top 3 found? | 12/18 |
-| `evaluate.py` | Is the right *page* among the top 3? (19 questions) | 16/19 (84%) |
+| `fact_ranks.py` | Is the passage containing the answer among the top 3 found? | 14/18 (was 12/18) |
+| `evaluate.py` | Is the right *page or document* among the top 3? (19 questions) | **17/19 (89%)** (was 16/19) |
 
-Correct answers include:
-- Civil Engineering intake (120/year);
-- the 5G lab announcement date (27 Oct 2023);
-- Electrical M.Tech specialisations;
-- the Director, the Registrar, and the Dean (Academic)'s email;
-- when the Mechanical department started (1960);
-- SC/ST tuition (nil);
-- the Kotak Kanya scholarship amount (₹1.5 lakh/year);
-- when first-year classes start in Winter 2026 (19 Aug 2026).
+Answered correctly, among others:
+- Civil Engineering intake (120/year) and the 5G lab announcement date (27 Oct 2023);
+- Electrical M.Tech specialisations; the Director, the Registrar, the Dean (Academic)'s email;
+- B.Tech tuition for the OPEN category (₹1,25,000/year) **and** for SC/ST (nil);
+- the first-year B.Tech boys' hostel fee for Winter 2026 (₹32,150);
+- the Kotak Kanya scholarship amount (₹1.5 lakh/year) and the IDFC scholarship deadline;
+- when first-year classes start in Winter 2026 (19 Aug 2026) and when the end-semester exams run (7–15 Dec 2026).
 
-The 5 that failed:
-- **4 honest "not in my sources" answers:**
-  - B.Tech OPEN-category fee: its document isn't converted yet.
-  - Placement numbers 2025-26: out-ranked by the new placement-report documents.
-  - First-year hostel fee: many near-identical hostel fee sheets.
-  - IDFC scholarship deadline: the poster's layout puts the date on a separate line.
-- **1 partly wrong:** end-semester exam dates. The calendar lists exam *slots* A–H, and the AI took them for conflicting versions, giving 7–14 Dec instead of 7–15 Dec.
+Four of the five questions that failed in the previous round now pass, and the fifth (end-semester dates) is no longer partly wrong but correct.
+
+**The one question that still fails:** the 2025-26 placement figures (678 students, 170 companies). They appear in a single paragraph of the T&P page, which is out-ranked by two placement reports whose company lists run to hundreds of passages. The chatbot says it cannot find them rather than quoting the 2024-25 numbers. Diagnosed in full in `EXPERIMENTS-LOG.md` §16.
 
 Full answers are saved in `data/processed/answer_check.json`.
 
 ### Known limitations
 
-- **~305 documents not converted yet** (see "What to do next"). Questions about notices in that group can't be answered yet.
-- **Very similar documents** (e.g. 19 hostel fee sheets for different years and genders, many academic calendars) sometimes get the wrong one picked. "B.Tech" vs "M.Tech" is a known weak spot.
-- **Calendar grids and posters:** tables laid out as grids (exam slots A–H, month-day grids) or designed posters can come out confusing, and the AI may misread them.
-- **Answers can vary slightly between runs**, because the AI model isn't perfectly repeatable.
-- **Old documents** (e.g. 2024 calendars) are included. The AI is told to prefer the newest and each document's date is shown, but a question about an old term could still get a stale answer.
-- A few documents couldn't be read: 1 crashed the PDF reader, 1 had no text, and scanned PDFs sometimes contain small OCR slips like "Nag pur".
+- **One paragraph can lose to a long list.** The 2025-26 placement figures sit in one paragraph of the T&P page, while two placement reports contribute hundreds of company-list passages that match the same words. See `EXPERIMENTS-LOG.md` §16.
+- **Designed posters.** A two-column poster can pair a label with the wrong value: the IDFC scholarship poster's "Application deadline" ended up next to the award amount, leaving the date on its own line. The chatbot declines rather than guessing which label owns the date.
+- **Answers can vary slightly between runs**, because the AI model isn't perfectly repeatable. One test question passed in one run and failed in the next two with no change to the data.
+- **Old documents** (e.g. 2024 calendars) are included. Each document's date is shown, the AI is told to prefer the newest, and passages about a different academic year than you asked about are now set aside — but a question about an old term could still get a stale answer.
+- **Scanned PDFs** occasionally contain small OCR slips like "Nag pur".
+- 15 documents could not be read at all: 7 failed (3 of them are dead links on vnit.ac.in), 5 had no readable text, 3 are Hindi-only.
 - It only knows what was downloaded. Refreshing the data is manual (see `HOW-TO-RUN.md` §5).
+- **Personal-data filtering is heuristic** (titles plus roll-number/student-email density). It excluded 33 documents, and all 406 converted documents were re-checked against it, but it is not a guarantee.
 
 ---
 
 ## What to do next
 
-In order of value:
+The chatbot itself is finished and working. What remains is optional:
 
-1. **Finish converting documents** (about 3–4 hours, runs by itself; keep the laptop plugged in so it doesn't sleep):
-   ```
-   cd pipeline
-   %USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe ingest_documents.py convert --tiers 0
-   %USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe ingest_documents.py convert --tiers 1
-   %USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe ingest_documents.py convert --tiers 2
-   ```
-   It skips finished documents and survives crashes, so it can be stopped and restarted at any time.
-2. **Rebuild the index and re-check quality**:
-   ```
-   python chunk.py
-   python build_index.py
-   python evaluate.py
-   python fact_ranks.py
-   python check_answers.py        (needs GENAI_API_KEY set)
-   ```
-3. **Fix the "similar documents" weak spot**, e.g. by treating "B.Tech", "Bachelor of Technology" and "UG" as the same when searching. Keep the fix only if the three checks above get better, not worse.
-4. **Improve calendar tables:** label exam-slot rows (A–H) as slots and drop the month-day grid rows, then re-check the end-semester question.
-5. **Always-online hosting** (optional): replace PyTorch with the lighter ONNX runtime so the app fits a free 512 MB host such as Render, then re-run the three checks. Or pay for Hugging Face PRO and run `deploy/deploy_to_hf.py` unchanged.
-6. **For the FYP report:** the numbers in "Measured quality", `EXPERIMENTS-LOG.md` (what was tried and why) and `docs/development-history/` (every test round's report) are ready-made evidence.
+1. **For the FYP report:** the numbers in "Measured quality", `EXPERIMENTS-LOG.md` (every change tried, with measurements — including the two that were measured and rejected) and `docs/development-history/` are ready-made evidence. §12 is a good story to tell: a parameter tuned on a small corpus (the reranking pool) silently became the biggest limit on accuracy once the corpus grew four times larger.
+2. **Always-online hosting** (optional): replace PyTorch with the lighter ONNX runtime so the app fits a free 512 MB host such as Render, then re-run the three checks. Or pay for Hugging Face PRO and run `deploy/deploy_to_hf.py` unchanged. For a demo, `start_public_link.bat` already gives a public address from the laptop.
+3. **Refresh the data** before the demo, if VNIT has posted new notices since 3 October 2026 — `HOW-TO-RUN.md` §5 has the commands. New documents are converted at roughly 1–3 minutes each.
+4. **The remaining weak spots**, if there is time: a page-level retrieval stage would fix the placements question (see `EXPERIMENTS-LOG.md`, "Ideas not tried"), and reading two-column posters reliably would fix the IDFC-style layouts.
+5. **Rotate the Groq key** after submission: it was pasted into a chat during development, so treat it as public. Create a new one at https://console.groq.com/keys and save it in `C:\Users\<you>\groq-key.txt`.
 
 ---
 

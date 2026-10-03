@@ -1,0 +1,16 @@
+SOURCE_URL: https://drive.google.com/file/d/1Frs78xMLwmvgZO1sj3ajthnRg2ioXXvF/view
+TITLE: Mathematics
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Mathematics (dated 2026-08-05)
+1Semester
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for2026-27 (Winter 2026)
+M.Sc. In Mathematics
+M.Sc. In Mathematics: Code: MAL511 — Course Title / Name: LINEAR ALGEBRA; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: 35
+M.Sc. In Mathematics: Code: MAL512 — Course Title / Name: REAL ANALYSIS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 35
+M.Sc. In Mathematics: Code: MAL513 — Course Title / Name: THEORY OF ORDINARY DIFFERENTIAL EQUATIONS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 35
+M.Sc. In Mathematics: Code: MAL514 — Course Title / Name: DISCRETE MATHEMATICS; Type: DC; Credit: ε; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 35
+M.Sc. In Mathematics: Code: CSL501 — Course Title / Name: COMPUTER PROGRAMMING; Type: DC; Credit: ε; Exam Slot: A; Offered (YES / NO): Offered
+M.Sc. In Mathematics: Code: HUL505 — Course Title / Name: COMMUNICATION SKILLS; Type: AU; Credit: 0; Exam Slot: G; Offered (YES / NO): Offered
+M.Sc. In Mathematics: Course Title / Name: Total Credits (DC + DE) — Credit: 15

@@ -1,0 +1,30 @@
+SOURCE_URL: https://drive.google.com/file/d/11fmNmcHLNBiM2ycDHJhZHlBYAZ0Sv45X/view
+TITLE: Process for Registration
+FETCHED: 2024-05-21
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Process for Registration (dated 2024-05-21)
+Procedure of Online Course Registration
+For Students admitting in First Semester of M Tech Program
+Course Registration and AIMS Login instructions for M Tech Admitted students.
+All M Tech student admitted to VNIT, Nagpur need to follow following procedure for Self-registering (online) for the courses offered by their Respective Department.
+Names of Faculty Advisor for the students admitted is shown in the Provisional Admission Letter (PRL).
+Student can locate their Enrolment Number & ID Number in the Provisional Reporting Letter received at the time of Online Reporting.
+They need to complete their Course registration by logging into AIMS (Academic Information Management System) , procedure for the same is mentioned below:
+Go to Link https://aims.vnit.ac.in/exam
+Login with your ID Number as User Name
+After Entering ID Number as user name student need to press Reset Password (please read the instructions appearing on the screen after pressing Reset Password), this will generate New Password.
+Now login with your ID Number and New Password (generated).
+Before proceeding to course registration student need to follow one 'Update Student Details' procedure, here student will update their Bank Account details along with their Name in Hindi Script and some more information. After completion of this procedure, successfully student can proceed with the course registration.
+For updating Student details go to Browse >> Registration >> Masters >> Update Student Details. Please mentioned correct Bank Account details (this must be of student account details not of their parents or relatives) these details will be used for Stipend / Scholarship / Refund Purpose (if any). Also, student need to enter their name in the Hindi Script. Please press the 'English To Hindi Translator' button, after pressing this button one windows will pop up showing an application, in which you can easily paste your English name and it will automatically convert your name to Hindi Script, again copy this Hindi Script name ( Use Key boards for Copy and Paste - Ctrl + c for copy & Ctrl + v for Paste ) and paste it back to AIMS login.
+After updating Student Details go to Browse >> Registration >> Transactions >> Student Registration (Make Sure Session Selected at the top of the page is [2023-24/S24]) , you will see List of Courses to be registered for current Session (Summer 24 i.e. [S24]) . You need to SELECT (Tick √) the course you want to register. List of courses, for your M Tech Program is attached herewith this Notice.
+After selecting the desired courses, please click on 'Apply for Registration', student will get a message as 'Student has applied for Registration Successfully'
+After this, Student need to approach their Faculty Advisor (FA) for approval of their Course Registration. Student must keep in mind that, without approval of course Registration from Faculty Advisor their name will not appear in the Roll List of the courses they have registered / enrol themselves.
+After approval from Faculty Advisor, student can check that all the courses are registered and approved by Faculty Advisor or not. For this student need to login again to AIMS with the credentials they have and then select Browse >> Registration >> Report >> Registration Form Print (Make Sure Session Selected at the top of the page is [2023-24/S24]). Student need to press 'View Report' this will generate a PDF mentioning the details of Courses registered also on the Top of the report a message as 'Final Submitted' , this message shows that you have completed successfully the Courses registration procedure for Summer 2024.
+If ' Registration Form Print' is generated as blank report, then your course registration approval from Faculty Advisor must be pending, please approach your Faculty Advisor for Approval.
+Further, after successful generation of Registration Form (Marked as Final Submitted at the top of the page) from AIMS, students are requested to send (Email) this pdf to, their Faculty advisor for information and keep a copy for future reference.
+If you face any problems / discrepancies in above process / registered courses please contact by Email:
+For Enrolment No / Faculty Advisor : dr_acd@vnit.ac.in / supdtacd@vnit.ac.in
+For Course Registration / Approval : asst_registrar@vnit.ac.in / supdtexam@vnit.ac.in
+Important Note: Please do not use your Mobile Device(s) for above-mentioned Course Registration process, please use Personal Computer / Laptop for Course Registration.
+Dy. Registrar (Academic Exam)

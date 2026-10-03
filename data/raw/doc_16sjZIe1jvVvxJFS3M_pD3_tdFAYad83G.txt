@@ -1,0 +1,13 @@
+SOURCE_URL: https://drive.google.com/file/d/16sjZIe1jvVvxJFS3M_pD3_tdFAYad83G/view
+TITLE: Access Shodhganga & Shodhgangotri
+FETCHED: 2025-06-03
+FOUND_ON: https://vnit.ac.in/library-and-information-center/
+---
+Document: Access Shodhganga & Shodhgangotri (dated 2025-06-03)
+Shodhganga & Shodhgangotri repository
+Shodhganga: Shodhganga is a digital repository of full-text Ph.D. theses and dissertations submitted to Indian universities. Maintained by the INFLIBNET Centre (an autonomous body of the UGC), it provides open access to this valuable research output. Its primary goal is to prevent duplication of research, promote wider accessibility of Indian academic work, and enhance the quality and visibility of research. The platform also integrates plagiarism detection software to ensure academic integrity.
+Shodhganga
+Link: https://shodhganga.inflibnet.ac.in/simple-search
+Shodhgangotri: is an initiative by the INFLIBNET Centre, under the Ministry of Education, Government of India. It serves as a repository for research synopses submitted by scholars to Indian universities for registration in Ph.D. programs. Its primary purpose is to provide a comprehensive database of ongoing research work, allowing researchers, academics, and funding agencies to understand current trends and directions in Indian universities. This helps in avoiding duplication of research efforts by making proposed research topics openly accessible. Essentially, Shodhgangotri acts as a pre-cursor to "ShodhGanga," which hosts the full-text theses and dissertations.
+Shodhgangotri
+Link: https://shodhgangotri.inflibnet.ac.in/simple-search

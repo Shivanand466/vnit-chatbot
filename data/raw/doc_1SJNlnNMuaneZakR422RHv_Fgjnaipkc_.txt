@@ -1,0 +1,61 @@
+SOURCE_URL: https://drive.google.com/file/d/1SJNlnNMuaneZakR422RHv_Fgjnaipkc_/view
+TITLE: Registration Procedure & Instructions W-26-PhD
+FETCHED: 2026-07-30
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Registration Procedure & Instructions W-26-PhD (dated 2026-07-30)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Notice Notice
+Instructions:
+Online Registration for students will be available during above given dates.
+NO REGISTRATION WOULD BE ALLOWED AFTER the last date as mentioned (FOR All Ph.D. RESEARCH STUDENTS).
+Procedure:
+Pay the fees as per instructions given in a separate Notice on, vnit.ac.in >> Student Notice Board >> Sem. Course Registration >> Fee Notice- Odd Term – Academic Year 2026-27 Winter 2026
+Online Registration module is available on URL-
+https://vnitaims.vnit.ac.in/mproaims/#/
+Eo or o or or So o o Sor sr Csee Registration >> Ph.D. Winter 2026 Registration, tab of VNIT website to know Progress seminar code pertaining to your admission year and department.
+Only after finalizing courses to be register from the Supervisor and RPC, student shall proceed for online registration.
+Login to AlMs using User Name as your ID Number & Password (Same as used earlier), if your entered password is not working, then press "Forgot Password" you will see instructions appearing on screen for new password.
+After Successful login, please select session as "2026-27/W26", then Go to Browse >> Registration >> Transactions >> Student Registration, select the proper course.
+Complete registration & click"APPLY FOR REGISTRATION" button.
+After applying for the course registration you can see the selected courses under Registration Management >> Reports >> Registration Form Print >> View Report. Here you can see the list of courses you have selected and the status (for fee / for registration approval). Status will be shown as "Watermark" and it will be one of the following,
+"PENDING FOR FEES" "PENDING FOR ARROVAL"&
+After Approval by Faculty advisor
+"REGISTRATION APPROVED"
+Exam/W-26/Reg./
+Date: June 22, 2026
+Procedure for online registration of Ph.D. students (Admitted in January 2026 and earlier) for Winter-2026
+All Students are required to select all backlog courses (Compulsorily) (if any), without selecting Backlog courses (if offered by the department) registration process will not move ahead.
+Approach Faculty Advisor (FA) for Approval of Registration. FA will do Approval online.
+Student will have to abide by the suggestions of FA on changes in the registered courses. Without Approval of registration by FA, student's registration will remain incomplete and student name will not appear in the roll list of the subjects he is registering for.
+After approval of registration by FA, student shall login to his/her LOGIN area and ensure that registration status has become "REGISTRATION APPROVED". Else, registration will be treated as incomplete & name of student will not appear in roll list.
+3s t e e ss etas s t es Se e sa t tl ect both the course (as it will show message "You Cannot Select 2 Courses in Same Slot"), OR student do not want to register for the backlog, then these students are instructed to report to Exam Section by Email (Given below)or in-person through their Faculty Advisor, mentioning the backlog course to be register / not to be register for W26.
+W26 course registration of these students will be initiated / completed by Exam Section and remaining courses (if any) are to be added by their respective Faculty Advisor / Exam Section.
+Student under extended duration of the PhD Program (or converted to Part Time) are requested to check for the Progress Seminar code available in AlMS login, if correct code is not available, please send a request to Exam Section on Email only (asst_registrar@vnit.ac.in / supdtexam@vnit.ac.in) through their Supervisor and Head of the Department. So that the requested Seminar code will be made available for registration.
+Student should take a print of Registration form under, Registration Management >> Reports >> Registration Form Print >> View Report. (Make Sure Session Selected as 202627/W26), sign that copy of registration. Scan Copy of that Signed Registration Form is to be sent to examination section by Email (Email ID: vnitsemregister@vnit.ac.in). The scanned PDF file have to be named as ?????.pdf (????? should be the ID No. of the student).
+Important Note: Students should carefully select the Progress Seminar and courses to be registered. If the desired Progress Seminar / Course(s) are not appearing in their AlMS login then contact Exam Section on Email only (asst_registrar@vnit.ac.in / supdtexam@vnit.ac.in)
+Please Note that modifications in the course after registration completely approved, will not be done in any case.
+NO REGISTRATION WOULD BE ALLOWED AFTER THE LAST DATE MENTIONED.
+Important Note: PhD Scholars willing to opt courses along with the Progress Seminar for Winter2026 are instructed to submit the Form available with this Notice to Exam Section before proceeding for actual course registration. Without submitting the form to the Exam Section, the required courses will not be available in their AlMS Login.
+To, All HoDs, AR (Hostel) for display on Student's Notice Board
+Dean (Academic)
+COURSE CODE OF 'PROGRESS SEMINAR' FOR VARIOUS DEPARTMENTS - Winter 2026
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: July 2026 AMR601 — AM: CER601; CIV: CMR601; CHEMICAL: CSR601; CSE: EER601; EEE: ECR601; ECE: ENR601; VLSI: MER601; MEC: MMR601; MME: MNR601; MIN: ARR601; ARC: CHR601; CHEMISTRY: PHR601; PHY: HUR601; HUM MATHS: MAR601; Inter Disciplinary: IDR601
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: January 2026 AMR602 — AM: CER602; CIV: CMR602; CHEMICAL: CSR602; CSE: EER602; EEE: ECR602; ECE: ENR602; VLSI: MER602; MEC: MMR602; MME: MNR602; MIN: ARR602; ARC: CHR602; CHEMISTRY: PHR602; PHY: HUR602; HUM MATHS: MAR602; Inter Disciplinary: IDR602
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: July 2025 AMR603 — AM: CER603; CIV: CMR603; CHEMICAL: CSR603; CSE: EER603; EEE: ECR603; ECE: ENR603; VLSI: MER603; MEC: MMR603; MME: MNR603; MIN: ARR603; ARC: CHR603; CHEMISTRY: PHR603; PHY: HUR603; HUM MATHS: MAR603; Inter Disciplinary: IDR603
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: January 2025 AMR604 — AM: CER604; CIV: CMR604; CHEMICAL: CSR604; CSE: EER604; EEE: ECR604; ECE: ENR604; VLSI: MER604; MEC: MMR604; MME: MNR604; MIN: ARR604; ARC: CHR604; CHEMISTRY: PHR604; PHY: HUR604; HUM MATHS: MAR604; Inter Disciplinary: IDR604
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: July 2024 AMR605 — AM: CER605; CIV: CMR605; CHEMICAL: CSR605; CSE: EER605; EEE: ECR605; ECE: ENR605; VLSI: MER605; MEC: MMR605; MME: MNR605; MIN: ARR605; ARC: CHR605; CHEMISTRY: PHR605; PHY: HUR605; HUM MATHS: MAR605; Inter Disciplinary: IDR605
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: January 2024 AMR606 — AM: CER606; CIV: CMR606; CHEMICAL: CSR606; CSE: EER606; EEE: ECR606; ECE: ENR606; VLSI: MER606; MEC: MMR606; MME: MNR606; MIN: ARR606; ARC: CHR606; CHEMISTRY: PHR606; PHY: HUR606; HUM MATHS: MAR606; Inter Disciplinary: IDR606
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: July 2023 AMR607 — AM: CER607; CIV: CMR607; CHEMICAL: CSR607; CSE: EER607; EEE: ECR607; ECE: ENR607; VLSI: MER607; MEC: MMR607; MME: MNR607; MIN: ARR607; ARC: CHR607; CHEMISTRY: PHR607; PHY: HUR607; HUM MATHS: MAR607; Inter Disciplinary: IDR607
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: January 2023 AMR608 — AM: CER608; CIV: CMR608; CHEMICAL: CSR608; CSE: EER608; EEE: ECR608; ECE: ENR608; VLSI: MER608; MEC: MMR608; MME: MNR608; MIN: ARR608; ARC: CHR608; CHEMISTRY: PHR608; PHY: HUR608; HUM MATHS: MAR608; Inter Disciplinary: IDR608
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: July 2022 AMR609 — AM: CER609; CIV: CMR609; CHEMICAL: CSR609; CSE: EER609; EEE: ECR609; ECE: ENR609; VLSI: MER609; MEC: MMR609; MME: MNR609; MIN: ARR609; ARC: CHR609; CHEMISTRY: PHR609; PHY: HUR609; HUM MATHS: MAR609; Inter Disciplinary: IDR609
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: January 2022 AMR610 — AM: CER610; CIV: CMR610; CHEMICAL: CSR610; CSE: EER610; EEE: ECR610; ECE: ENR610; VLSI: MER610; MEC: MMR610; MME: MNR610; MIN: ARR610; ARC: CHR610; CHEMISTRY: PHR610; PHY: HUR610; HUM MATHS: MAR610; Inter Disciplinary: IDR610
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: July 2021 AMR611 — AM: CER611; CIV: CMR611; CHEMICAL: CSR611; CSE: EER611; EEE: ECR611; ECE: ENR611; VLSI: MER611; MEC: MMR611; MME: MNR611; MIN: ARR611; ARC: CHR611; CHEMISTRY: PHR611; PHY: HUR611; HUM MATHS: MAR611; Inter Disciplinary: IDR611
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: January 2021 AMR612 — AM: CER612; CIV: CMR612; CHEMICAL: CSR612; CSE: EER612; EEE: ECR612; ECE: ENR612; VLSI: MER612; MEC: MMR612; MME: MNR612; MIN: ARR612; ARC: CHR612; CHEMISTRY: PHR612; PHY: HUR612; HUM MATHS: MAR612; Inter Disciplinary: IDR612
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: July 2020 AMR613 — AM: CER613; CIV: CMR613; CHEMICAL: CSR613; CSE: EER613; EEE: ECR613; ECE: ENR613; VLSI: MER613; MEC: MMR613; MME: MNR613; MIN: ARR613; ARC: CHR613; CHEMISTRY: PHR613; PHY: HUR613; HUM MATHS: MAR613; Inter Disciplinary: IDR613
+To, All HoDs, AR (Hostel) for display on Notice Board | COURSE CODE OF FOR VARIOUS DEPARTMENTS - Winter 2026: ADMISSON YEAR: January 2020 AMR614 — AM: CER614; CIV: CMR614; CHEMICAL: CSR614; CSE: EER614; EEE: ECR614; ECE: ENR614; VLSI: MER614; MEC: MMR614; MME: MNR614; MIN: ARR614; ARC: CHR614; CHEMISTRY: PHR614; PHY: HUR614; HUM MATHS: MAR614; Inter Disciplinary: IDR614
+Course Code for 'Research Methodology' is IDC501
+Example:
+Student admitted in January 2023 of Electrical will register for EER608 in Winter 2026 session (Odd)
+Student admitted in July 2020 of Metallurgy will register for MMR613 in Winter 2026 session (Odd)
+These are not exact seminar code student need to register. Students are advised to refer previous Semester (Code) for registering Winter 2026 Progress Seminar.

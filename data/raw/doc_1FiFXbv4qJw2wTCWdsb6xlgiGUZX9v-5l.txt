@@ -1,0 +1,37 @@
+SOURCE_URL: https://drive.google.com/file/d/1FiFXbv4qJw2wTCWdsb6xlgiGUZX9v-5l/view
+TITLE: Fees Information B Tech B Arch Admission Through JoSAA
+FETCHED: 2024-04-16
+FOUND_ON: https://vnit.ac.in/section/academics/fees/
+---
+Document: Fees Information B Tech B Arch Admission Through JoSAA (dated 2024-04-16)
+Visvesvaraya National Institute of Technology, Nagpur
+ Fees for Indian Nationals through JoSAA [For B Tech / B Arch Admission]
+Fees - One Time:
+( To be paid in the admission year )
+( To be paid in the admission year ) | Fees - One Time: Library Deposit — B Tech ( Rs): 5000; B Arch (Rs): 5000
+( To be paid in the admission year ) | Fees - One Time: Caution Deposit — B Tech ( Rs): 5000; B Arch (Rs): 5000
+( To be paid in the admission year ) | Fees - One Time: Identity Card — B Tech ( Rs): 200; B Arch (Rs): 200
+( To be paid in the admission year ) | Fees - One Time: Medical Exam — B Tech ( Rs): 100; B Arch (Rs): 100
+( To be paid in the admission year ) | Fees - One Time: Welfare Fund — B Tech ( Rs): 1200; B Arch (Rs): 1500
+( To be paid in the admission year ) | Fees - One Time: Medical Aid Fund — B Tech ( Rs): 4000; B Arch (Rs): 5000
+( To be paid in the admission year ) | Fees - One Time: Total — B Tech ( Rs): 15500; B Arch (Rs): 16800
+Fees per year:
+( To be paid semester wise )
+( To be paid in the admission year ) | ( To be paid semester wise ): Tuition Fee — B Tech ( Rs): 125000; B Arch (Rs): 125000
+( To be paid in the admission year ) | ( To be paid semester wise ): Registration Fee — B Tech ( Rs): 500; B Arch (Rs): 500
+( To be paid in the admission year ) | ( To be paid semester wise ): Library Fee — B Tech ( Rs): 750; B Arch (Rs): 750
+( To be paid in the admission year ) | ( To be paid semester wise ): Student Activity Fee — B Tech ( Rs): 1250; B Arch (Rs): 1250
+( To be paid in the admission year ) | ( To be paid semester wise ): Sports Fee* — B Tech ( Rs): 2500; B Arch (Rs): 2500
+( To be paid in the admission year ) | ( To be paid semester wise ): Internet & Computer Maint. Fee — B Tech ( Rs): 750; B Arch (Rs): 750
+( To be paid in the admission year ) | ( To be paid semester wise ): Training & Placement Fee — B Tech ( Rs): 400; B Arch (Rs): 400
+( To be paid in the admission year ) | ( To be paid semester wise ): Industry Institute Interaction Fee — B Tech ( Rs): 300; B Arch (Rs): 300
+( To be paid in the admission year ) | ( To be paid semester wise ): Development Fee — B Tech ( Rs): 3000; B Arch (Rs): 3000
+( To be paid in the admission year ) | ( To be paid semester wise ): End Semester Examination Fee — B Tech ( Rs): 1000; B Arch (Rs): 1000
+( To be paid in the admission year ) | ( To be paid semester wise ): Total — B Tech ( Rs): 135450; B Arch (Rs): 135450
+( To be paid in the admission year ) | ( To be paid semester wise ): July to Nov Sem (Odd Term) — B Tech ( Rs): 67725; B Arch (Rs): 67725
+( To be paid in the admission year ) | ( To be paid semester wise ): Jan to May Sem (Even Term) — B Tech ( Rs): 67725; B Arch (Rs): 67725
+*Revised fee from July 2024.
+No Tuition Fees is charged from SC/ ST/ PwD candidates.
+In addition to above fees, Convocation fees of Rs 750/- and Thesis/Dissertation evaluation fees Rs 750/- to B Arch shall be charged in final semester of program. Hostel charges are separate.
+For admission of NRI/Foreign Nationals through DASA /Ministry of External affairs, fees structure is different.
+NOTE - Total fees to be paid at the time of admission reporting includes One Time Fees plus First Semester fees. An initial fee paid at the Counseling is adjusted against the total fees to be paid during admission reporting.

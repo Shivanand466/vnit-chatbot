@@ -1,0 +1,20 @@
+SOURCE_URL: https://vnit.ac.in/wp-content/uploads/2023/11/Network-policy.pdf
+TITLE: Network-policy
+FETCHED: 2023-11-01
+FOUND_ON: https://vnit.ac.in/network-centre
+---
+Document: Network-policy (dated 2023-11-01)
+NOTE:
+Subject: Regarding network related complaints
+As a few of the staff members of the Network/computer center have been detected Covid positive, they are in isolation and undergoing treatment at home/hospital. Some of them are working from home, remaining staff members are working in staggered manner by maintaining social distancing and obeying Covid precautions/protocols. It is requested not to call the NW staff directly on their mobiles for complaints/queries during this period as much as possible, as they may not always be in a position to attend the call immediately.
+Hence, in this situation, all are requested to kindly raise their queries (regarding internet connectivity, website or MIS related) through email at nc_complaint@vnit.ac.in or through the link provided in Network troubleshooting tab of VNIT website (link is already shared earlier and is as follows: http://192.168.2.65/idcard/login.php for permanent staff. This link will work only from inside the campus).
+Some of the complaints/requests may get delayed response for the reasons mentioned. However, the exam related network availability queries will be attended on priority during 9.30 am to 1.30 pm daily during exam-period i.e. upto 27thApril 2021. The exam related queries can be immediately raised on extension number1878duringthe exam duration.
+This is for you kind information. Thanks a lot for your cooperation.
+Ms. M.B.Bhivgade Sr. Tech Officer, Network Center and I/c CC, CSED, VNIT
+Network Center, CSED, VNIT, NAGPUR
+Date:22d April, 2021
+Dr.R.B.Keskar
+Associate Dean (IT)
+Associate Dean(IT)
+Network Centre
+VNIT, NAGPUR-10

@@ -1,0 +1,24 @@
+SOURCE_URL: https://drive.google.com/file/d/1Yv5dfp7zVOu5hKod68aOO5_3gTdaKONE/view
+TITLE: Urban Planning
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Urban Planning (dated 2026-08-05)
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (URBAN PLANNING)
+I Semester
+M. Tech in (URBAN PLANNING): Code: ARL501 — Course Title / Name: PLANNING THEORY AND PRINCIPLES; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: ARL509 — Course Title / Name: TRANSPORTATION PLANNING; Type: DC; Credit: 3; Exam Slot: 8; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: ARL520 — Course Title / Name: RS AND GIS APPLICATION; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: ARL502 — Course Title / Name: CLIMATE CHANGE AND DISASTER RESILIENT URBAN INFRASTRUCTURE; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: ARP501 — Course Title / Name: PLANNING STUDIO - 1; Type: DC; Credit: 4; Exam Slot: B2C2; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: Elective Courses — Course Title / Name: Elective Courses
+M. Tech in (URBAN PLANNING): Code: ARL436 — Course Title / Name: HISTORY OF HUMAN SETTLEMENTS; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: ARL438 — Course Title / Name: URBAN LANDSCAPE; Type: DE; Credit: ε; Offered (YES / NO): Not-offered
+M. Tech in (URBAN PLANNING): Code: ARL489 — Course Title / Name: URBAN CLIMATOLOGY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: ARL504 — Course Title / Name: URBAN SOCIOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+M. Tech in (URBAN PLANNING): Code: ARL508 — Course Title / Name: HOUSING; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: ARL511 — Course Title / Name: ECOLOGY & ENVIRONMENTAL PLANNING; Type: DE; Credit: 3; Offered (YES / NO): Not-offered
+M. Tech in (URBAN PLANNING): Code: ARL512 — Course Title / Name: URBAN DESIGN AND CONSERVATION; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Code: MAL506 — Course Title / Name: STATISTICAL METHODS FOR URBAN PLANNING; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. Students: 25
+M. Tech in (URBAN PLANNING): Course Title / Name: Total Credits (DC +DE) — Credit: 22

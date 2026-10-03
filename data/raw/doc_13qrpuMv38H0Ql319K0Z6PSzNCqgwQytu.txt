@@ -1,0 +1,211 @@
+SOURCE_URL: https://drive.google.com/file/d/13qrpuMv38H0Ql319K0Z6PSzNCqgwQytu/view
+TITLE: Civil Engineering
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Civil Engineering (dated 2026-05-22)
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+B. Tech. in Civil Engineering
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: CELA203 — Course Title / Name: SOIL MECHANICS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: CEPA203 — Course Title / Name: SOIL MECHANICS; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: CELA204 — Course Title / Name: ELEMENTS OF SURVEYING; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: CEPA204 — Course Title / Name: ELEMENTS OF SURVEYING; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: CELA205 — Course Title / Name: BUILDING DESIGN AND DRAWING; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: CELA301 — Course Title / Name: CONCRETE ENGINEERING; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: CEPA301 — Course Title / Name: CONCRETE ENGINEERING; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: AMLA201 — Course Title / Name: MECHANICS OF SOLIDS; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: AMPA201 — Course Title / Name: MECHANICS OF SOLIDS; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Course Title / Name: MNC Optional Program Elective — Type: MNC; Credit: 0; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: Any — Course Title / Name: 1 Course from IE; Credit: 3; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Civil Engineering: Code: Total — Course Title / Name: Credits (DC + IE); Credit: 23
+V Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): Code: AML361 — Course Title / Name: STRUCTURAL ANALYSIS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: AMP361 — Course Title / Name: STRUCTURAL ANALYSIS; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEL303 — Course Title / Name: ENVIRONMENTAL ENGINEERING II; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEL313 — Course Title / Name: CONCRETE ENGINEERING; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEP313 — Course Title / Name: CONCRETE ENGINEERING; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEL401 — Course Title / Name: IRRIGATION ENGINEERING; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEL314 — Course Title / Name: ESTIMATING AND COSTING; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEP314 — Course Title / Name: ESTIMATING AND COSTING; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: Elective Courses (Any One) — Course Title / Name: Elective Courses (Any One); Type: Elective Courses (Any One); Credit: Elective Courses (Any One); Exam Slot: Elective Courses (Any One); Offered (YES / NO): Elective Courses (Any One); Max No. of Students: Elective Courses (Any One)
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEL315 — Course Title / Name: FLUID MECHANICS; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEP315 — Course Title / Name: FLUID MECHANICS; Type: DE; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MAL203 — Course Title / Name: NUMERICAL METHODS AND COMPUTATION; Type: DE; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 30
+List of courses to be offered for 2026-27 (Winter 2026): Code: AML364 — Course Title / Name: ADVANCED MECHANICS OF SOLID; Type: DE; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 30
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: OC / HM — Credit: 0
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE) — Credit: 23-24
+VII Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CED401 — Course Title / Name: PROJECT PHASE I; Type: DC; Credit: 2; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Elective Courses (Any six) (Must choose credits 20-21)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: AML461 — Course Title / Name: ADVANCED STRUCTURAL ANALYSIS; Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 40
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL413 — Course Title / Name: PRE-STRESSED CONCRETE STRUCTURES; Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: AML467 — Course Title / Name: ADVANCE RCC; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 40
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL409 — Course Title / Name: QUALITY AND SAFETY IN CONSTRUCTION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL552 — Course Title / Name: CONSTRUCTION CONTRACTS & SPECIFICATION; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL442 — Course Title / Name: GEOTECHNICAL INVESTIGATION OF CONSTRUCTION PROJECT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL419 — Course Title / Name: RIVER ENGINEERING; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 35
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL436 — Course Title / Name: COMPUTER AIDED DESIGN AND ANALYSIS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 50
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEP436 — Course Title / Name: COMPUTER AIDED DESIGN AND ANALYSIS; Type: DE; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 50
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL429 — Course Title / Name: HYDRAULIC TRANSIENT; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 30
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: AML469 — Course Title / Name: BASICS OF FINITE ELEMENT METHOD; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL404 — Course Title / Name: RAILWAY, AIRPORT, PORTS & HARBOR ENGINEERING; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 50
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL417 — Course Title / Name: DISASTER MANAGEMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL408 — Course Title / Name: CONSTRUCTION SITE ADMINISTRATION AND CONTROL; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL438 — Course Title / Name: TRAFFIC ENGINEERING; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 50
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL415 — Course Title / Name: ADV. STRUCTURAL DESIGN RCC; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL422 — Course Title / Name: HAZARDOUS WASTE MANAGEMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL425 — Course Title / Name: FINANCIAL AND BUSINESS MANAGEMENT; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 40
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL471 — Course Title / Name: FUNDAMENTALS OF SOIL BEHAVIOUR; Type: DE; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 50
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL472 — Course Title / Name: SOLID & HAZARDOUS WASTE MANAGEMENT; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 30
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CEL473 — Course Title / Name: DESIGN OF CULVERTS & BRIDGES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: OC / HM
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE) — Credit: 22-23
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (Construction Technology & Management)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL406 — Course Title / Name: ADVANCED CONCRETE TECHNOLOGY; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEP406 — Course Title / Name: ADVANCED CONCRETE TECHNOLOGY; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL409 — Course Title / Name: QUALITY AND SAFETY IN CONSTRUCTION; Type: DC; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL519 — Course Title / Name: CONSTRUCTION PLANNING AND CONTROL; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL552 — Course Title / Name: CONSTRUCTION CONTRACTS & SPECIFICATION; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: Elective — Course Title / Name: Elective
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL559 — Course Title / Name: Courses (Any Three) ENERGY EFFICIENT BUILDINGS; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL413 — Course Title / Name: PRE-STRESSED CONCRETE STRUCTURES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL442 — Course Title / Name: GEOTECHNICAL INVESTIGATION OF CONSTRUCTION PROJECT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL558 — Course Title / Name: BUILDING SERVICE; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL561 — Course Title / Name: RISK ANALYSIS AND DECISION MAKING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL418 — Course Title / Name: ENERGY CONVERSION AND ENVIRONMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL408 — Course Title / Name: CONSTRUCTION SITE ADMINISTRATION AND CONTROL; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: CEL425 — Course Title / Name: FINANCIAL AND BUSINESS MANAGEMENT; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Construction Technology & Management): Code: Total — Course Title / Name: Credits (DC + DE); Credit: 19
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: CED501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 6
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environmental Engineering)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL501 — Course Title / Name: ENVIRONMENTAL CHEMISTRY AND MICROBIOLOGY; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL502 — Course Title / Name: MUNICIPAL & INDUSTRIAL WATER TREATMENT; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL503 — Course Title / Name: MUNICIPAL WASTEWATER TREATMENT; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL504 — Course Title / Name: WATER SUPPLY AND WASTEWATER COLLECTION; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL506 — Course Title / Name: AIR POLLUTION CONTROL; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEP501 — Course Title / Name: ENVIRONMENTAL MONITORING LAB.-I; Type: DC; Credit: 2; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Course Title / Name: Elective Courses (any one)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL508 — Course Title / Name: ENVIRONMENTAL GEOTECHNIQUES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL513 — Course Title / Name: ENVIRONMENTAL SYSTEMS MODELLING; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL559 — Course Title / Name: ENERGY EFFICIENT BUILDINGS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEP531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL418 — Course Title / Name: ENERGY CONVERSION AND ENVIRONMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL432 — Course Title / Name: ENVIRONMENTAL IMPACT ASSESSMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL561 — Course Title / Name: RISK ANALYSIS AND DECISION MAKING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Code: CEL568 — Course Title / Name: APPLICATION OF SOFT COMPUTING TECHNIQUES; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in ( Environment: Course Title / Name: Total Credits (DC + DE) — Credit: 20-21
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: CED501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: CEL541 — Course Title / Name: WATER DISTRIBUTION SYSTEMS DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 6
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (Transportation Engineering)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL570 — Course Title / Name: ADVANCED TRAFFIC ENGINEERING; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL572 — Course Title / Name: URBAN TRANSPORT PLANNING; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL585 — Course Title / Name: PAVEMENT ANALYSIS & DESIGN; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEP585 — Course Title / Name: PAVEMENT ANALYSIS & DESIGN; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL536 — Course Title / Name: TRAFFIC CONTROL AND MANAGEMENT; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEP570 — Course Title / Name: ADVANCED TRAFFIC ENGINEERING; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEP572 — Course Title / Name: URBAN TRANSPORT PLANNING; Type: DC; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEP536 — Course Title / Name: TRAFFIC CONTROL AND MANAGEMENT; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Course Title / Name: Elective Courses (Any One) — Type: 0; Credit: 0
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: ARP501 — Course Title / Name: PLANNING STUDIO - I; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEP531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL534 — Course Title / Name: TRANSPORTATION ANALYSIS AND MODELING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL535 — Course Title / Name: TRANSPORTATION SYSTEM ANALYSIS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL537 — Course Title / Name: HIGHWAY PLANNING AND DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL533 — Course Title / Name: PAVEMENT MATERIALS; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL589 — Course Title / Name: TRANSPORTATION ECONOMICS AND EVALUATION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL592 — Course Title / Name: TRANSPORTATION NETWORK ANALYSIS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL564 — Course Title / Name: PLANNING AND DESIGNING OF LOW VOLUME ROADS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL566 — Course Title / Name: TRANSPORT POLICY AND FINANCE; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL567 — Course Title / Name: LAND-USE AND REGIONAL TRANSPORT PLANNING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL548 — Course Title / Name: TRANSPORTATION LOGISTICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: MAL407 — Course Title / Name: STATISTICS AND OPTIMIZATION TECHNIQUES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: MAL408 — Course Title / Name: STATISTICAL ANALYSIS & QUEING THEORY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: MAL534 — Course Title / Name: PROBABILITY AND STATISTICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: MAL502 — Course Title / Name: DEMOGRAPHY AND STATISTICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Transportation Engineering): Code: CEL561 — Course Title / Name: RISK ANALYSIS AND DECISION MAKING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): CEL552 | CONSTRUCTION CONTRACTS & SPECIFICATION | DE | 3 | D | Offered | -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): CEL409 | QUALITY AND SAFETY IN CONSTRUCTION | DE | 3 | Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): CEL571 | HIGHWAY SOIL MECHANICS | DE | 3 | Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): CEL442 | GEOTECHNICAL INVESTIGATION OF CONSTRUCTION PROJECT | DE | 3 | Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): CEL436 | COMPUTER AIDED DESIGN AND ANALYSIS | DE | 3 | Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): CEP436 | COMPUTER AIDED DESIGN AND ANALYSIS | DE | 1 | Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Total No of Credits | 19-20-21 | 19-20-21 | 19-20-21
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: CED501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 6
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resource Engineering)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: MAL401 — Course Title / Name: FINITE DIFFERENCE METHODS FOR DIFFERENTIAL EQUATIONS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL526 — Course Title / Name: GROUND WATER HYDROLOGY; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEP531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DC; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEP503 — Course Title / Name: WATER RESOURCES ENGINEERING; Type: DC; Credit: 2; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL527 — Course Title / Name: FREE SURFACE FLOWS Courses (Any Two); Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: Elective — Course Title / Name: Elective
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL406 — Course Title / Name: ADVANCED CONCRETE TECHNOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEP406 — Course Title / Name: ADVANCED CONCRETE TECHNOLOGY; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL515 — Course Title / Name: ADVANCED FLUID MECHANICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL419 — Course Title / Name: RIVER ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL517 — Course Title / Name: HYDRAULIC STRUCTURE - II; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL418 — Course Title / Name: ENERGY CONVERSION AND ENVIRONMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL541 — Course Title / Name: WATER DISTRIBUTION SYSTEMS DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL561 — Course Title / Name: RISK ANALYSIS AND DECISION MAKING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL431 — Course Title / Name: WATER QUALITY MODELING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL596 — Course Title / Name: DESIGN OF HYDRAULIC STRUCTURE; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: CEL525 — Course Title / Name: EARTHEN DAMS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resour: Code: Total — Course Title / Name: Credits (DC + DE); Type: 0; Credit: 21-22
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): Code: CED501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: CEL541 — Course Title / Name: WATER DISTRIBUTION SYSTEMS DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE) — Credit: 6
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (Geotechnical Engineering)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL520 — Course Title / Name: ADVANCED SOIL MECHANICS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL423 — Course Title / Name: INTRODUCTION TO SOIL DYNAMICS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL442 — Course Title / Name: GEOTECHNICAL INVESTIGATION OF CONSTRUCTION PROJECT; Type: DC; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL522 — Course Title / Name: GEOMECHANICS; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEP504 — Course Title / Name: GEOTECHNICAL ENGINEERING LABORATORY WORK; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL508 — Course Title / Name: ENVIRONMENTAL GEOTECHNIQUES; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL575 — Course Title / Name: GROUND IMPROVEMENT TECHNIQUE; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Course Title / Name: Elective Courses (Any One)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL526 — Course Title / Name: GROUND WATER HYDROLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL417 — Course Title / Name: DISASTER MANAGEMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: MAL401 — Course Title / Name: FINITE DIFFERENCE METHODS FOR DIFFERENTIAL EQUATIONS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL409 — Course Title / Name: QUALITY AND SAFETY IN CONSTRUCTION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL571 — Course Title / Name: HIGHWAY SOIL MECHANICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL436 — Course Title / Name: COMPUTER AIDED DESIGN AND ANALYSIS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEP436 — Course Title / Name: COMPUTER AIDED DESIGN AND ANALYSIS; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEP531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Code: CEL525 — Course Title / Name: EARTHEN DAMS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (Geotechnical Engineering): Course Title / Name: Total Credits (DC + DE) — Credit: 20-21
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: CED501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 6

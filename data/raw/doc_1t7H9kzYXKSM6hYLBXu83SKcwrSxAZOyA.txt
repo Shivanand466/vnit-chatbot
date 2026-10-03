@@ -1,0 +1,64 @@
+SOURCE_URL: https://drive.google.com/file/d/1t7H9kzYXKSM6hYLBXu83SKcwrSxAZOyA/view
+TITLE: The Department of Civil Engineering, VNIT Nagpur, is organizing a two-day workshop on “Application of Artificial Intelligence/Machine Learning and Opt
+FETCHED: 2026-07-06
+FOUND_ON: https://vnit.ac.in/category/events
+---
+Document: The Department of Civil Engineering, VNIT Nagpur, is organizing a two-day workshop on “Application of Artificial Intelligence/Machine Learning and Opt (dated 2026-07-06)
+TWO-DAY WORKSHOP ON
+APPLICATION OF AI, ML AND OPTIMIZATION IN WATER MANAGEMENT
+(Funded by Centre of Australia-India Relations Maitri Grant Program, Australian Department of Foreign Affairs and Trade)
+Organized by: Department of Civil Engineering, VNIT, Nagpur
+In association with Victoria University Australia, IIT Roorkee and RV College of Engineering, Bengaluru
+Date: December 15-16, 2026
+Venue: Department of Civil Engineering, VNIT, Nagpur
+Time: 9:00 AM - 5:00 PM
+ Key Topics Covered
+Water management: specific challenges and actions to address
+Smart sensing and real-time monitoring of water and case studies
+Predictive modelling through AI/ML for water management
+Optimization practices in urban and agriculture water management
+Current status of AI/ML adoption and policy needs (technical and governance)
+Future of AI/ML and sensor technology in water management
+ Who Can Attend?
+Faculty Members from Engineering Institutions
+Scientist and Researchers from Research Institute
+Water Supply Policy makers
+Industry Professionals, Irrigation and Water supply, CWC, State Water Corporations, Water Supply Service Providers
+·
+Smart Water technologies developers/ manufacturers
+Research gaps/needs in mainstream adoption of new technologies
+PG/PhD scholars
+ Free accommodation and meals will be provided for all the participants.
+Certificates Provided | Limited Seats Available (80)
+ Registration Fees
+Students (UG/PG/PhD: Rs.1770 (including GST)
+Faculty Members/ Industry professional: Rs.2950 (including GST)
+ Speakers Include:
+Experts from Academia and Industry
+AI/ML Practitioners
+Water Resource Engineers
+Managers from Water service providers
+ How to apply:
+This workshop will be conducted in-person at VNIT, Nagpur.
+Registration form Link:
+https://forms.gle/RfjcGFscQE7FWpJ99
+Payment Link:
+https://pay.vnit.ac.in/home
+Select payment category as Conf./int. sympos./seminar/workshop, and Name of Event.
+📞 For Queries Contact
+Dr. Ashok Sharma
+Dr. Rajesh Gupta Professor, VNIT Nagpur
+Mobile:
++91- 9823640157
+Email: rajeshguptavnit@gmail.com
+Dr. Shilpa Dongre Assist. Professor, VNIT Nagpur
+Mobile:
++91- 9960391401
+Email: shilpavnit@gmail.com
+PRF, Victoria University, Australia
+Email: ashok.sharma@vu.edu.au
+Dr. Pramod Kumar Sharma Professor, IIT Roorkee
+Email: pramod.sharma@ce.iitr.ac.in
+Dr. Jyoti Shetty
+Assoc. Professor, RVCE Bengaluru
+Email: jyothis@rvce.edu.in

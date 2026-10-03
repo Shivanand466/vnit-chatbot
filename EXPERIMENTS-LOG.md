@@ -137,6 +137,20 @@ Scores were unchanged by the pair (16/19, 15/18), and the miss set shifted sligh
 
 Left failing deliberately. The chatbot says it cannot find the figures rather than quoting the 2024-25 ones, which is the behaviour this project values; the fix would be a page-level retrieval stage (see "Ideas not tried"), not another ranking tweak.
 
+## 17. Final measurement: the full corpus (2026-10-03)
+
+Experiments 10–16 were measured with 185 documents indexed. Re-measured after converting everything VNIT links — 81 pages + 406 documents, 8,147 chunks, 2.2× the chunks of the §12–16 runs:
+
+| Check | 148 docs (09-22) | 185 docs (10-02) | **406 docs (10-03)** |
+|---|---|---|---|
+| `check_answers.py` | 13/18 | 17/18 | **17/18** |
+| `fact_ranks.py` | 12/18 | 15/18 | 14/18 |
+| `evaluate.py` | 16/19 | 16/19 | **17/19** |
+
+Worth noting honestly: end-to-end answers held at 17/18 and page-level rose, while the answer-chunk measure slipped by one — tripling the corpus adds competition, and two facts moved from rank 3 to rank 4 (end-semester exams, which the LLM still answers correctly, because `generate.py` sends up to 5 passages per sub-question). That gap between "chunk ranked in the top 3" and "answer is correct" is the reason all three checks are kept rather than one.
+
+Also re-ran during this round: the personal-data filter over all 406 converted documents, with nothing flagged. That check matters because a run killed between writing a document's text and saving `status.json` leaves a text file whose result was never recorded (14 such files); the filter runs before the write, so they were already screened, and this confirmed it.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

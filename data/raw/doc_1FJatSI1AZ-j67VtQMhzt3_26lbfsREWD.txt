@@ -1,0 +1,22 @@
+SOURCE_URL: https://drive.google.com/file/d/1FJatSI1AZ-j67VtQMhzt3_26lbfsREWD/view
+TITLE: Payment Instruction
+FETCHED: 2026-06-03
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Payment Instruction (dated 2026-06-03)
+Fee Payable (for details please refer Information Brochure)
+- Ph.D. Full Time - 22100/- (1st Semester)
+Ph.D. Part Time - 25000/- (Per Semester Fees)
+Procedure for payment:
+1. Re-login student registration portal after completing Step 1 with the Registration ID (viz. 2026*****) 2. Amount to be paid will appear as per the 'Fees Category' you have selected (please select correct fee category carefully from the table below. Once selected fees category will not be modified) 3. Make the payment through payment gateway. 4. Download the receipt generated after payment for future reference. After making the payment again Go to Link http://aimsreg.vnit.ac.in/mproaimsreg/#/ and login with the Registration ID (viz. 2026*****) you will get the 1st page for entering the fees details (Balance Institute Reporting fees). Enter the details as:-
+Payment Ref. No.:- enter Bank Transaction no mentioned on the payment receipt
+Date:- Date of transaction mentioned on payment receipt
+For amount Rs.:- amount paid as per the payment receipt
+click on submit button and complete the remaining online registration process
+FEES CATEGORY TO BE SELECTED IN ADMISSION REGISTRATION PORTAL
+click on submit button and complete the remaining online registration process | FEES CATEGORY TO BE SELECTED IN ADMISSION REGISTRATION PORTAL: Assistantship/ Fellowship: Institute (MoE, GOI) — Admission Category: Cat. 1A; Fees Category: PHD FULL TIME
+click on submit button and complete the remaining online registration process | FEES CATEGORY TO BE SELECTED IN ADMISSION REGISTRATION PORTAL: Assistantship/ Fellowship: Sponsored Project — Admission Category: Cat. 1B; Fees Category: PHD FULL TIME
+click on submit button and complete the remaining online registration process | FEES CATEGORY TO BE SELECTED IN ADMISSION REGISTRATION PORTAL: Assistantship/ Fellowship: External Fellowship — Admission Category: Cat. 1C; Fees Category: PHD FULL TIME
+click on submit button and complete the remaining online registration process | FEES CATEGORY TO BE SELECTED IN ADMISSION REGISTRATION PORTAL: Assistantship/ Fellowship: Sponsored — Admission Category: Cat. 1D; Fees Category: PHD FULL TIME
+click on submit button and complete the remaining online registration process | FEES CATEGORY TO BE SELECTED IN ADMISSION REGISTRATION PORTAL: Assistantship/ Fellowship: No Assistantship from VNIT Nagpur — Admission Category: Cat. 2A; Fees Category: PHD PART TIME
+click on submit button and complete the remaining online registration process | FEES CATEGORY TO BE SELECTED IN ADMISSION REGISTRATION PORTAL: Assistantship/ Fellowship: No Assistantship from VNIT Nagpur — Admission Category: Cat. 2B; Fees Category: PHD PART TIME

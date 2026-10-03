@@ -1,10 +1,9 @@
 SOURCE_URL: https://vnit.ac.in/s-tic-vnit
 TITLE: S-TIC VNIT
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Proposals invited under ISRO Space Technology Incubation Centre,
-“In view of Pandemic , ISRO has extended the date. If PI/Co-PIs wish, they may approach the mentors and resubmit the proposals. Also, Fresh proposals may also be submitted. The last date of accepting fresh/ modified proposals at VNIT is extended to 20
-th
+“In view of Pandemic , ISRO has extended the date. If PI/Co-PIs wish, they may approach the mentors and resubmit the proposals. Also, Fresh proposals may also be submitted. The last date of accepting fresh/ modified proposals at VNIT is extended to 20 th
 July 2021.”
 Appeal from Director
 Brochure of S-TIC VNIT

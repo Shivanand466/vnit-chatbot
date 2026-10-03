@@ -1,0 +1,46 @@
+SOURCE_URL: https://drive.google.com/file/d/1uBxqJ7maSsIwXIzbCDl2d3Gh_RCtnXhK/view
+TITLE: Click here for Brochure
+FETCHED: 2024-05-31
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Click here for Brochure (dated 2024-05-31)
+,
+Visvesvaraya National Institute of Technology, Nagpur
+Two Credit Course
+Certificate Course on
+Internet of Things (IoT): Fundamentals to Implementation
+Who can Join?
+Any student / working person who is interested in upgrading their knowledge and technical skills in the field of IoT applied to various sectors like
+Agriculture
+Education Healthcare Transportation
+Home Automation Smart Cities
+Smart Grid Other Industries
+With Educational Qualifications:
+ XII th Science passed
+ Diploma / Graduate from any Branch
+When course starts?
+Tentative Starting Date:
+22 nd June, 2024 (Saturday)
+Tentative Ending Date: 22 nd Sept., 2024 (Sunday)
+Classes will be held for only 04 Hours a week during weekend days.
+The course will be delivered in Online (Hybrid if required) mode.
+How to Register?
+Scan here to register after making payment 
+Registration Closes on 21.06.2024 by 05:00 PM IST
+Course Content
+Below is the brief course content but not limited to:
+ IoT Char.'s, Protocols and System Architecture
+ IoT Device Connectivity & Protocols
+ Various IoT Communication Models
+ IoT Device Deployment and Implementation using Python
+ Integration of IoT devices to Cloud
+ Hands-on-practical & programming Arduino UNO, Arduino 2560, ESP32, ESP8266 and Raspberry PI
+ Sensors, Actuators connectivity to MySQL database via AWS Cloud
+ Industrial IoT Application like Smart Grid, Smart Factories, Electrical Vehicles
+ Implementation of IoT Solution for example, Smart Agriculture, Smart Cities, Home/Office Automation etc.
+How much to PAY?
+Course Fee : Rs. 15,000 + 18% GST
+Payment Mode: Use Link / QR Code
+https://pay.vnit.ac.in/event
+Choose the Certificate Course Name and Proceed for Payment
+Contact Details

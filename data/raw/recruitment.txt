@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/recruitment
 TITLE: Recruitment
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Advertisement No. 01/2026 dated 24th January, 2026
 Non Teaching Cadre  Officer /Staff  Recruitment​
@@ -36,6 +36,8 @@ Recruitment of Professor at VNIT, Nagpur
 Recruitment of Associate Professor / Level-13A2 (AGP-9500)
 Recruitment of Assistant Professor Grade-II / Level-10 (AGP-6000) & Grade-I / Level-12 (AGP-8000)
 JRF / SRF Recruitment​
+Walk-in Interview for the Post of Junior Research Fellow (JRF) to Work on a DST-INAE Funded Research Project at the Centre for VLSI and Nanotechnology, VNIT Nagpur.(Date : 06th October, 2026)
 Applications are invited for  PROJECT ASSOCIATE – I (No. of Posts – 02) position under ANRF sponsored project at the Department of Electronics and Communication Engineering
 Applications are invited for PROJECT RESEARCH SCIENTIST – I (NM) position under ICMR-sponsored project at the Department of Electronics and Communication Engineering
 Contract Basis Recruitment​
+M/s Great Sherlock EFMS Private Limited, an empaneled Manpower Outsourcing Agency with  VNIT, Nagpur under GeM Contract invites applications from eligible candidates for the position of Electrical Safety Officer on fixed-remuneration contractual basis for deployment at VNIT Nagpur.

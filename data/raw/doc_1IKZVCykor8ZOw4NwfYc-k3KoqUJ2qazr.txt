@@ -1,0 +1,370 @@
+SOURCE_URL: https://drive.google.com/file/d/1IKZVCykor8ZOw4NwfYc-k3KoqUJ2qazr/view
+TITLE: Annexure 1
+FETCHED: 2024-05-02
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Annexure 1 (dated 2024-05-02)
+M. Tech in Applied Artificial Intelligence
+M. Tech in Applied Artificial Intelligence: Semester: Semester 1 15 credits — Course Name: Programming for Data Science; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 1 15 credits — Course Name: Statistics For Machine Learning; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 1 15 credits — Course Name: Computer Vision; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 1 15 credits — Course Name: Data Transformation; Type: DC; L: 2; T: 0; P: 2; Credits: 3
+M. Tech in Applied Artificial Intelligence: Semester: Semester 2 20 credits — Course Name: Neural Networks; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 2 20 credits — Course Name: Machine Learning Algorithms And Applications; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 2 20 credits — Course Name: Elective 1; Type: DE; L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 2 20 credits — Course Name: Elective 2; Type: DE; L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 2 20 credits — Course Name: Mini Project; Type: DC; L: -; T: -; P: -; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 3 10 credits — Course Name: Elective 3; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Semester: Semester 3 10 credits — Course Name: Elective 4; Type: DE; L: 3; T: 0; P: 0; Credits: 3
+M. Tech in Applied Artificial Intelligence: Semester: Semester 3 10 credits — Course Name: Dissertation - Phase I; Type: DC; L: -; T: -; P: -; Credits: 3
+M. Tech in Applied Artificial Intelligence: Semester: Semester 4 9 credits — Course Name: Dissertation - Phase II; Type: DC; L: -; T: -; P: -; Credits: 9
+M. Tech in Applied Artificial Intelligence: Semester: Semester 4 9 credits — Course Name: Personality Development And Communication Skills; Type: Audit; L: -; T: -; P: -; Credits: 0
+M. Tech in Applied Artificial Intelligence: Electives: Internet of Things And Embedded Systems — L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Electives: Deep Learning Techniques — L: 3; T: 0; P: 2; Credits: 4
+M. Tech in Applied Artificial Intelligence: Natural Language Processing | 3 | 0 | 2 | 4
+M. Tech in Applied Artificial Intelligence: Big Data Analytics | 3 | 0 | 2 | 4
+M. Tech in Applied Artificial Intelligence: Deployment Of ML Models | 2 | 0 | 2 | 3
+M. Tech in Applied Artificial Intelligence: AI in Healthcare | 3 | 0 | 2 | 4
+M. Tech in Applied Artificial Intelligence: Applied Signal Processing | 3 | 0 | 2 | 4
+M. Tech in Applied Artificial Intelligence: AI Workshop | 1 | 0 | 4 | 3
+M. Tech in Applied Artificial Intelligence: Category of Course..Program Core: Departmental core — Symbol..Program Core: DC; Credit Requirement.M. Tech. in Applied AI (2 Year).Program Core: 39
+M. Tech in Applied Artificial Intelligence: SN.Program Core: Program Elective — Category of Course..Program Core: Program Elective; Symbol..Program Core: Program Elective; Credit Requirement.M. Tech. in Applied AI (2 Year).Program Core: Program Elective
+M. Tech in Applied Artificial Intelligence: Category of Course..Program Core: Departmental Elective — Symbol..Program Core: DE; Credit Requirement.M. Tech. in Applied AI (2 Year).Program Core: 15
+M. Tech in Applied Artificial Intelligence: SN.Program Core: Total requirement : DC+ DE = — Category of Course..Program Core: Total requirement : DC+ DE =; Symbol..Program Core: Total requirement : DC+ DE =; Credit Requirement.M. Tech. in Applied AI (2 Year).Program Core: 54
+M. Tech in Applied Artificial Intelligence: Course Code | - | Course Title | Programming For Data Science | Programming For Data Science | Programming For Data Science | Programming For Data Science
+M. Tech in Applied Artificial Intelligence: Category | - | Credit Assigned: | L | T | P | C
+M. Tech in Applied Artificial Intelligence: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+M. Tech in Applied Artificial Intelligence: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Understand syntactical and programming concepts.
+Understand object-oriented concepts.
+Analyze and apply different methods for error handling.
+Understand important Python libraries related to data science and how to apply them to given programming tasks.
+Understand concepts like environments and version control.
+Course Content:
+Module 1 : Introduction to Data Science using Python
+What is Data Science, what does a data scientist do? Various examples of Data Science in the industries, How Python is deployed for Data Science applications, Various steps in the Data Science process like data wrangling, data exploration and selecting the model. Introduction to Python programming language, Important Python features, how is Python different from other programming languages, Python installation, Anaconda Python distribution for Windows, Linux and Mac, How to run a sample Python script, Python IDE working mechanism, Running some Python basic commands, Python variables, data types and keywords.
+Module 2 : Python basic constructs
+Introduction to a basic construct in Python, Understanding indentation like tabs and spaces, Python built-in data types, Basic operators in Python, Loop and control statements like break, if, for, continue, else, range() and more., File Handling (I/O) and Exception Handling, Pandas, Understanding the OOP paradigm like encapsulation, inheritance, polymorphism and abstraction ,What are access modifiers, instances, class members, Classes and objects, Function parameter and return type functions, Lambda expressions.
+Module 3 : NumPy for Data Transformation
+Introduction to mathematical computing in Python, What are arrays and matrices, array indexing, array math, Inspecting a NumPy array, NumPy array manipulation
+Module 4 : Scipy for Mathematical Computing
+Introduction to SciPy, Functions building on top of NumPy, cluster, linalg, signal, optimize, integrate, subpackages, SciPy with Bayes Theorem.
+Module 5 : Data manipulation & Data Visualization
+Loading data from various files (.dat, .json, .h5, .txt, .csv, .xlsx etc.), Example applications, Introduction to Matplotlib, Using Matplotlib for plotting graphs and charts like Scatter, Bar, Pie, Line etc., Histogram and more, Matplotlib APIs
+Text Books:
+Wes McKinney: Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, O'Reilly Media, 2017
+How to think like a computer scientist: Learning with Python by Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+Reference Books:
+"Python Programming: A Complete Guide For Beginners To Master And Become An Expert" by Brian Draper
+Programming: A Complete Guide For Beginners To Master And Become An by Brian Draper | Reference Books: Course Code | - | Course Title | Statistics For Machine Learning | Statistics For Machine Learning | Statistics For Machine Learning | Statistics For Machine Learning
+Programming: A Complete Guide For Beginners To Master And Become An by Brian Draper | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Programming: A Complete Guide For Beginners To Master And Become An by Brian Draper | Reference Books: Category | - | Credit Assigned: | 3 | 0 | 0 | 3
+Programming: A Complete Guide For Beginners To Master And Become An by Brian Draper | Reference Books: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Have an understanding of descriptive and inferential statistics constructs for statistical analysis
+Gain Knowledge of probability theory and its implementation for data analysis.
+Course Content:
+Module 1 : Fundamentals of Probability and Statistics
+Probability spaces, Conditional probability, Independence, Random Variables, Discrete and Continuous random variables, Expectation Operator, Functions of random variables, Generating random variables, Multivariate Random Variables, Joint distributions of discrete and continuous variables, Functions of several random variables, Joint Moments, Generating multivariate random variables
+Module 2 : Random Processes - Convergence, Markov Chains and Applications
+Definition, Stationary of random processes, Mean and autocovariance, functions, Independent identicallydistributed sequences, Power spectral density, Gaussian process, Poisson process, Random walk, Convergence of Random Processes, Types of convergence, Law of large numbers, Central limit theorem, Monte Carlo simulation, Time-homogeneous discrete-time Markov chains, Recurrence, Periodicity, Convergence, Markovchain Monte Carlo, Descriptive statistics, Histogram, Sample mean and variance, Order statistics, Sample covariance, Sample covariance matrix
+Module 3 : Frequentist Statistics, Regression, Bayesian Statistics and Hypothesis Testing
+Independent identically-distributed sampling, Mean square error, Consistency, Confidence intervals, Nonparametric model estimation, Parametric model estimation, Linear Regression models, Least-squares estimation, Overfitting, Global warming. Bayesian parametric models, Conjugate prior, Bayesian estimators, The hypothesis-testing framework, Parametric testing, Nonparametric testing: The permutation test, Multiple testing
+Module 4 : Linear Algebra
+Vector space, norm, linear mapping, range, null space, matrix multiplication
+Module 5 : Optimization Techniques
+Normal equation, Steepest Descent, Conjugate gradient, Optimality condition, Methods based on a local quadratic model, Line search methods
+Text Books:
+Probability and Statistics for Data Science, by Carlos Fernandez-Granda
+Probability for Statistics and Machine Learning: Fundamentals and Advanced Topics, by Anirban Das
+Gupta
+Probability, random variables, and stochastic processes, by Athanasios Papoulis.
+S. Lang, Introduction to Linear Algebra , Springer-Verlag, 2/e, 1997
+Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning.Cambridge University Press, 2020.
+Reference Books:
+Machine learning: a probabilistic perspective by Kevin Murphy
+Statistical Learning Theory by Vladimir N. Vapnik
+Machine learning: a probabilistic perspective by Kevin Murphy | Reference Books: Course Code | - | Course Title | Computer Vision | Computer Vision | Computer Vision | Computer Vision
+Machine learning: a probabilistic perspective by Kevin Murphy | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Machine learning: a probabilistic perspective by Kevin Murphy | Reference Books: Category | - | Credit Assigned: | 3 | 0 | 0 | 3
+Machine learning: a probabilistic perspective by Kevin Murphy | Reference Books: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students will:
+know computer vision fundamentals (image formation and image processing).
+be familiar with different feature extraction techniques and their applications.
+be conversant with basics of image segmentation and different image segmentation algorithms.
+be familiar with basic pattern recognition methods.
+be conversant with basics of multi view imaging and depth estimation.
+Course Content:
+Module 1
+Introduction about computer vision: What is computer vision, advantages and disadvantages of computer vision, general applications of computer vision.
+Feature Extraction: Edges - Canny, LOG, DOG; Line detectors (Hough Transform), Corners - Harris and Hessian Affine, Orientation Histogram, SIFT, SURF, HOG.
+Module 2
+Image Segmentation: Region Growing, Edge Based approaches to segmentation, Graph-Cut, Mean-Shift, MRFs, Texture Segmentation; Object detection.
+Module 3
+Pattern Analysis: Clustering: K-Means, Mixture of Gaussians, Classification: Discriminant Function, Supervised, Un-supervised, Semi-supervised; Classifiers: Bayes, KNN, Dimensionality Reduction: PCA, LDA, ICA; Non-parametric methods.
+Module 4
+Computational imaging: Image sensor, noise, HDR, super resolution, blur removal, compressive sensing, Depth estimation and Multi-camera views: projective geometry, binocular stereo, stereo matching, Perspective, Binocular Stereopsis: Camera and Epipolar Geometry; Homography, Rectification, DLT, RANSAC, 3-D reconstruction framework; Auto-calibration.
+Case studies: ADAS, 3D modeling from LiDar point clouds etc.
+Text Books:
+1 Shapiro and Stockman Computer Vision Illustrated edition Prentice Hall
+Rafael C. Gonzalez and Richard E. Woods Digital image processing 3 rd edition Pearson Education
+Christopher Bishop Pattern Recognition and Machine learning Illustrated edition Springer
+4 Richard Hartley and Andrew Zisserman Multiple View Geometry in Computer Vision 2 nd edition Cambridge University Press
+Reference Books:
+Richard Szeliski Computer Vision: Algorithms and Applications Springer
+Richard Szeliski Computer Vision: Algorithms and Applications Springer | Reference Books: Course Code | - | Course Title | Data Transformation | Data Transformation | Data Transformation | Data Transformation
+Richard Szeliski Computer Vision: Algorithms and Applications Springer | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Richard Szeliski Computer Vision: Algorithms and Applications Springer | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Richard Szeliski Computer Vision: Algorithms and Applications Springer | Reference Books: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+You will have an Understanding and knowledge of Database Management System and various characteristics of DBMS
+Understanding of Relational Models and Structured Query Language
+Writing sql queries for data transformation
+Course Content:
+Module 1 : Introduction to Querying Language and RDBMS
+Introduction to Structured Query Language, Various types of databases, Distinction between client server and file server databases, Understanding SQL Server Management Studio, SQL Table basics, Data types and functions, Transaction-SQL, Authentication for Windows, Data control language, Identification of the keywords in SQL
+Module 2 : Database normalization and entity-relationship model
+Entity-Relationship Model, Entity and Entity Set, Attributes and types of Attributes, Relationship Sets, Degree of Relationship, Mapping Cardinalities, One-to-One, One-to-Many, Many-to-one, Many-to- many, Symbols used in E-R Notation, Normalization and functional Dependencies: 1NF, 2NF, 3NF, Boyce Codd NF, 4NF and 5NF
+Module 3 : Operators for Querying Databases
+Introduction to relational databases, Fundamental concepts of relational rows, tables, and columns, Several operators (such as logical and relational), constraints, domains, indexes, stored procedures, primary, foreign and unique keys, Understanding group functions
+Module 4 : Querying Databases using Join, tables, and variables
+Advanced concepts of SQL tables, SQL functions, Operators & queries, Table creation, Data retrieval from tables, Combining rows from tables using inner, outer, cross, and self joins, Deploying operators such as intersect, except, union, Temporary table creation, Set operator rules, Table Variables, Understanding SQL functions, Scalar functions, Aggregate functions, Functions that can be used on different datasets, such as numbers, characters, strings, and dates, Inline SQL functions, General functions, Duplicate Functions, Understanding SQL subqueries and their rules, Statements and operators with which subqueries can be used, Using the set clause to modify subqueries, Understanding different types of subqueries, such as where, select, insert, update, delete, etc., Methods to create and view subqueries
+Module 5 : Advanced Queries for Large Databases
+Learning SQL views, Methods of creating, using, altering, renaming, dropping, and modifying views, Understanding stored procedures and their key benefits, Working with stored procedures, Studying user-defined functions, Error handling, User-defined functions and rank, Types of UDFs such as scalar, Inline table value, Multi-statement table, Stored procedures, Triggers, Records grouping, searching, sorting, modifying data, Clustered indexes creation, Use of indexes to cover queries, Common table expressions, Index guidelines, Python as front end, Large datasets, Querying using No-SQL
+Text Books:
+Fundamentals of Database Systems by R. Elmasri and S. B. Navathe
+Database Systems Design, Implementation, & Management by Carlos Coronel Steven Morris
+Database Management Systems by Raghu Ramakrishnan, Johannes Gehrke
+An Introduction to Database Systems By C. J. Date
+Reference Books:
+"Database Systems : A Practical Approach to Design, Implementation and Management" by CONNOLLY
+Systems : A Practical Approach to Design, Implementation and by CONNOLLY | Reference Books: Course Code | - | Course Title | Neural Networks | Neural Networks | Neural Networks | Neural Networks
+Systems : A Practical Approach to Design, Implementation and by CONNOLLY | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Systems : A Practical Approach to Design, Implementation and by CONNOLLY | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Systems : A Practical Approach to Design, Implementation and by CONNOLLY | Reference Books: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+You will be proficient in Basic concepts of artificial intelligence
+Have an Understanding of neural networks and their applications
+Gain Knowledge of deep neural networks and their implementations.
+Course Content:
+Module 1:
+Neural network working, Backpropagation and Gradient Descent algorithms. Introduction to deep neural network, Role of vectorization in various operations in deep learning. Comparisons of shallow and deeper networks.
+Module 2:
+Hyperparameter and its tuning in converging deep networks. Gradient descent optimization algorithms and its importance such as Adam's algorithm and RMSProp. Introduction and importance of domain knowledge in deep learning.
+Module 3:
+Convolutional neural networks, its architecture, deep CNN, parameter sharing, and applications. Recurrent neural networks and its architectural variants such as LSTM, GRU. Architectural aspects and applications. Hybridization of deep models.
+Module 4:
+Popular and State-of-the-art Models-, AlexNet, VGG16, Inception, Xception etc., Auto-encoders (AE), Variational AE, Generative Adversarial Networks
+Module 5 :
+Applications of deep learning models to computer vision, natural language processing, and wind estimation. Research direction in deep learning.
+Text Books: Ian Goodfellow and Yoshua Bengio and Aaron Courville, "Deep Learning", MIT Press, 2016.
+Reference Books:
+Dive into Deep Learning, Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
+François Chollet, Deep Learning with Python, Manning Publications, 2017.
+N. CRISTIANINI, J. S-TAYLOR (2000), An Introduction to Support Vector Machines and Other Kernel- based Learning Methods, Cambridge University Press, 1st Edition.
+N. CRISTIANINI, J. S-TAYLOR (2000), An Introduction to Support Vector Machines and Other Kernel- based Learning Methods, Cambridge University Press, 1st Edition. | Reference Books: Course Code | - | Course Title | Machine Learning Algorithms And Applications | Machine Learning Algorithms And Applications | Machine Learning Algorithms And Applications | Machine Learning Algorithms And Applications
+N. CRISTIANINI, J. S-TAYLOR (2000), An Introduction to Support Vector Machines and Other Kernel- based Learning Methods, Cambridge University Press, 1st Edition. | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+N. CRISTIANINI, J. S-TAYLOR (2000), An Introduction to Support Vector Machines and Other Kernel- based Learning Methods, Cambridge University Press, 1st Edition. | Reference Books: Category | - | Credit Assigned: | 3 | 0 | 0 | 3
+N. CRISTIANINI, J. S-TAYLOR (2000), An Introduction to Support Vector Machines and Other Kernel- based Learning Methods, Cambridge University Press, 1st Edition. | Reference Books: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+You will be proficient in Supervised and Unsupervised Learning
+Learn and master Various machine learning algorithms to solve classification, regression and clustering problems.
+Understand Predictive analytics and modeling
+Overcome challenges for Model optimization and evaluation metrics
+Course Content:
+Module 1: Introduction to Machine Learning
+Introduction to machine learning, types of learning, Learning Hypothesis, Linear Regression, Inductive classification, applications of Machine Learning ,
+Module 2: Hypothesis Evaluation
+Training and test splits, Data Pre-processing, cross-validation and parameter tuning, Kfold cross validation, Confusion matrix, Estimating hypothesis accuracy, sample and true error.
+Module 3: Decision Trees: Representing concepts as decision trees. Recursive induction of decision trees. Picking the best splitting attribute: entropy and information gain. Searching for simple trees and computational complexity. Occam's razor. Overfitting, noisy data, and pruning.
+Module 4: Support vector machine
+Kernel trick, SVM for classification, SVM for Regression
+Module 5: Bayesian learning and unsupervised learning
+Bayesian Learning: Naive Bayes learning algorithm. Parameter smoothing. Bayes nets and Markov nets for representing dependencies. Hidden Markov Model, and Bayesian networks.
+Clustering and unsupervised learning: Clustering. Hierarchical Agglomerative Clustering. k-means partitional clustering. Expectation maximization (EM) for soft clustering.
+Text Books:
+Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Bishop C., Pattern Recognition and Machine Learning, Springer-Verlag (2006).
+Reference Books:
+Machine learning: a probabilistic perspective by Kevin Murphy
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998).
+Mitchell Tom, Machine Learning. McGraw Hill, 1997.
+Ethem Alpaydin, Introduction to Machine Learning, PHI
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998). | Reference Books: Course Code | - | Course Title | Internet of Things and Embedded Systems | Internet of Things and Embedded Systems | Internet of Things and Embedded Systems | Internet of Things and Embedded Systems
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998). | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998). | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998). | Reference Books: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Define and explain various fundamentals of the Internet of Things
+Learn various fundamentals of embedded C and Micropython programming
+Examine the evolution of embedded systems, interfacing
+Learn various wireless and low-energy protocols
+Create, interface, and develop an application programming frameworrk for cloud connectivity.
+Course Content:
+Module 1: Getting Started with Fundamentals of Programming using C, Micropython :: Introduction of IoT boards and platforms, Installing IoT integrated development environment. Overview, essentials, and GPIO configurations of IoT platforms. Hands-on IDE, exploring the IoT board GPIOs: Digital Inputs and Outputs, Touch Sensor, Pulse-Width Modulation (PWM), Reading Analog Inputs. Concepts of serial communication, monitoring, plotting, and debugging.
+Module 2: Sensor Operation and Interfacing: Interfacing of various sensors like Hall Effect Sensor, Motion Sensor, pressure, temperature, humidity sensor, etc. used in various engineering applications.
+Module 3: Interrupts and Timers, Flash Memory, Web Servers: Store Permanent Data (Write and Read), Deep Sleep Mode: Timer, Touch, External Wake Up. Control Outputs: HTML and CSS Basics, Password Protection, Display Sensor Readings, Remote controlling of devices.
+Module 4: BLE and Wi-Fi, Cloud-based IoT platform: Bluetooth Low Energy: Introduction, Notify and Scan, Server and Client. Wi-Fi: Access Point, Station modes. Integration of IoT boards with cloud services and their operations.
+Module 5: Design and Applications of IoT systems: Design of various industrial, home, medical, agricultural, smart city, automation, wearable, consumer, and transportation applications of IoT.
+Text Books:
+Reference Books:
+Module 5: Design and Applications of IoT systems: Design of various industrial, home, medical, agricultural, smart city, automation, wearable, consumer, and transportation applications of IoT. | Course Content: Course Code | - | Course Title | Deep Learning Techniques | Deep Learning Techniques | Deep Learning Techniques | Deep Learning Techniques
+Module 5: Design and Applications of IoT systems: Design of various industrial, home, medical, agricultural, smart city, automation, wearable, consumer, and transportation applications of IoT. | Course Content: Category | - | Credit Assigned: | L | T | P | C
+Module 5: Design and Applications of IoT systems: Design of various industrial, home, medical, agricultural, smart city, automation, wearable, consumer, and transportation applications of IoT. | Course Content: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Module 5: Design and Applications of IoT systems: Design of various industrial, home, medical, agricultural, smart city, automation, wearable, consumer, and transportation applications of IoT. | Course Content: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+to implement different artificial neural networks for solving different problems with python
+to employ various convolution neural networks for solving different problems with python
+to design unsupervised learning algorithms like PCA and autoencoders for solving different problems using python
+to employ different complex algorithms to handle time series analysis like recurrent neural networks
+to implement different deep networks using dedicated low cost embedded systems
+Course Content:
+Module 1
+Different state of the art CNNs, VGG Net, ResNet, Efficient Net. Object detection and tracking, Basic architecture of Mask R CNN, YOLO, YOLO V5, Yolo V7, Deep Sort
+Module 2
+Synthetic data generation, Variation AE, Adversarial Networks, GAN, Different GANs. GAN vs Variation AE for synthetic data generation.
+Module 3
+Query, Keys, Value, Attention pooling, Multihead attention, Transformer Architecture, Vision Transformer, Large Scale Pre training with Transformer.
+Module 4
+Reinforcement Learning, Markov Decision Process, Value Iteration, Q Learning.
+Module 5:
+Case Studies: DeepFake, etc.
+Text Books:
+Ian Goodfellow and Yoshua Bengio and Aaron Courville, "Deep Learning", MIT Press, 2016.
+Reference Books:
+Dive into Deep Learning, Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
+François Chollet, Deep Learning with Python, Manning Publications, 2017.
+N. CRISTIANINI, J. S-TAYLOR (2000), An Introduction to Support Vector Machines and Other Kernel- based Learning Methods, Cambridge University Press, 1st Edition.
+B. SCHOLKOPF, A. J. SMOLA (2001), Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, The MIT Press, 2001, 1st Edition.
+B. SCHOLKOPF, A. J. SMOLA (2001), Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, The MIT Press, 2001, 1st Edition. | Reference Books: Course Code | - | Course Title | Personality Development & Communication Skills - I
+Course Content:
+Module 1 : Personal Skills
+Self-Assessment; Identifying Strength & Limitations, Habits, Will-Power and Drives, Developing Self-Esteem and Building Self-Confidence, Significance of Self-Discipline, Understanding Perceptions, Attitudes, and Personality Types Mind-Set: Growth and Fixed; Values and Beliefs, Motivation and Achieving Excellence; SelfActualisation Need, Goal Setting, Life and Career Planning; Constructive Thinking
+Module 2: Conflict Resolution Skills
+Interpersonal Conflicts, Types Of Conflicts: Becoming A Conflict Resolution Expert, Types Of Stress: SelfAwareness About Stress, Regulating Stress: Making The Best Out Of Stress
+Module 3 : Habits Guiding Principles
+Habits: Identifying Good And Bad Habits , Habits: Habit Cycle, Breaking Bad Habits, Using The Zeigarnik Effect For Productivity And Personal Growth, Forming Habits Of Success
+Module 4 : Professional skills
+Organizational skills- teamwork- business and technical correspondence- job oriented skills-professional etiquettes.
+Module 5 : Management Skills
+Managing Time and Beating Procrastination, Managing People: Leading and Working with Team (Coordination and Cooperation); Developing Accountability, Commitment and Responsibility; Behaving Conscientiously, Managing Stress and Maintaining Positive Outlook, Managing Health, Boosting Memory, Enhancing Study Skills, Managing Money and Love; Balancing Personal and Professional Life
+Text Books:
+Dorch, Patricia. What Are Soft Skills? New York: Execu Dress Publisher, 2013.
+Reference Books:
+Klaus, Peggy, Jane Rohman & Molly Hamaker. The Hard Truth about Soft Skills. London: HarperCollins E-books, 2007.
+Kamin, Maxine. Soft Skills Revolution: A Guide for Connecting with Compassion for Trainers, Teams, and Leaders. Washington, DC: Pfeiffer & Company, 2013.
+Stein, Steven J. & Howard E. Book. The EQ Edge: Emotional Intelligence and Your Success. Canada: Wiley & Sons, 2006.
+Electives
+Stein, Steven J. & Howard E. Book. | Electives: Course Code | - | Course Title | Natural Language Processing | Natural Language Processing | Natural Language Processing | Natural Language Processing
+Stein, Steven J. & Howard E. Book. | Electives: Category | - | Credit Assigned: | L | T | P | C
+Stein, Steven J. & Howard E. Book. | Electives: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Stein, Steven J. & Howard E. Book. | Electives: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Formulate natural language understanding tasks
+Design and implement basic applications of Natural Language Understanding
+Course Content:
+Module 1 : Natural Language Understanding
+Introduction to natural language understanding, Inception, applications, challenges and best practices
+Module 2 : Text Mining, Cleaning, and Pre-processing Various Tokenizers, Tokenization, Frequency Distribution, Stemming, POS Tagging, Lemmatization, Bigrams, Trigrams & Ngrams, Lemmatization, Entity Recognition
+Module 3 : Text classification, sentiment analysis
+Overview of Machine Learning, Words, Term Frequency, Countvectorizer, Inverse Document Frequency, Text conversion, Confusion Matrix, Naive Bayes Classifier
+Module 4 : Sentence Structure, Sequence Tagging, Sequence Tasks, and Language Modeling
+Language Modeling, Sequence Tagging, Sequence Tasks, Predicting Sequence of Tags, Syntax Trees, Context-
+Free Grammars, Chunking, Automatic Paraphrasing of Texts, Chinking
+Module 5 : AI Chatbots and Recommendation Engine
+Using the NLP concepts, build a recommendation engine and an AI chatbot assistant using AI
+Text Books:
+Speech and Language Processing, Daniel Jurafsky, James H.Martin,
+E. BENDER (2013), Linguistic Fundamentals for NLP, Morgan Claypool Publishers..
+J. ALLEN (1995), Natural Language Understanding, Pearson Education, 1995.
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017)
+Reference Books:
+Introduction to Natural Language Processing, Jacob Eisenstein
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017) | Reference Books: Course Code | - | Course Title | Big Data Analytics | Big Data Analytics | Big Data Analytics | Big Data Analytics
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017) | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017) | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017) | Reference Books: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Gain expertise in Big Data Engineering with concepts like big data frameworks, RDDs, and many more.
+Course Content:
+Module 1 : Working with Big Data Tools and technology
+Dimensions of Big Data, Different data types, HDFS, MapReduce Brief and Architecture, Working with Apache Spark
+Module 2 : Hadoop Framework
+Hadoop Framework (Installation single/multi-node), Data format and movement, Map-Reduce for Hadoop Applications
+Module 3 : Introduction to Spark
+Introduction to Spark, Spark overcomes the drawbacks of working on MapReduce, Understanding in-memory MapReduce, Interactive operations on MapReduce, Spark stack, fine vs. coarse-grained update, Spark Hadoop YARN, overview of Spark and how it is better than Hadoop, Deploying Spark without Hadoop, Spark history server and Cloudera distribution
+Module 4 : Spark Basics and Working with RDDs in Spark
+Spark installation guide, Spark configuration, Memory management, Executor memory vs. driver memory, Working with Spark Shell, resilient distributed datasets (RDD), Learning to do functional programming in Spark, architecture of Spark, Spark RDD, Creating RDDs, RDD partitioning, Operations and transformation, Deep dive into Spark RDDs, RDD general operations, Read-only partitioned collection of records, Using the concept of RDD for faster and efficient data processing, RDD action for the collect, count, collects map, save-astext-files, and pair RDD functions
+Module 5 : Advanced Spark and RDD Operations
+Aggregating Data with Pair RDDs, Writing and Deploying Spark Applications, Parallel Processing, Spark RDD Persistence, Spark Mllib, Integrating Apache Flume and Apache Kafka, Spark Streaming, Spark SQL and Data Frames
+Text Books:
+Donald Miner and Adam Shook: MapReduce Design Patterns, O'Reilly Media
+Tom White: Hadoop Definitive Guide, O'Reilly Media
+Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia: Learning Spark: Lightning-Fast Big Data Analysis
+Reference Books:
+Big Data & Hadoop, V.K. Jain, Khanna Publishing House
+Big Data Black Book, DT Editorial Services, Wiley India
+Big Data Black Book, DT Editorial Services, Wiley India | Reference Books: Course Code | - | Course Title | Deployment of ML Models
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Design ML Systems to solve practical problems.
+Know how ML system works in production and insights about challenges
+Identify systems faults and apply strategies to identify root causes in ML systems.
+Pick up the right framework and compute infrastructure and trade-off space.
+Troubleshoot training and ensuring the reproducibility of results.
+Course Content:
+Module 1 : Introduction to MLOps
+What is MLOps, how and why we use MLOps, MLOps challenges, advantages, applications
+Module 2 : MLOps Workflow Management
+Introduction to MLOps workflow management, Phases in the analysis life cycle, Evaluation, testing
+Module 3 : MLOps Data Lifecycle
+MLOps Lifecycle, Components of MLOps life cycle, Challenges, Advantages and best practices
+Module 4 : Modeling Pipelines for Scale
+Model Resource Management Techniques, High-Performance Modeling, Model Analysis, Interpretability
+Module 5 : Deploying Machine Learning Models in Production
+Introduction to Machine Learning using Cloud, Deploying Machine Learning Models using Cloud Computing
+Text Books:
+'Machine Learning Engineering' by Andriy Burkov, 2020
+"ML Ops: Operationalizing Data Science" by David Sweenor, Steven Hillion, Dan Rope, Dev Kannabiran, Thomas Hill, Michael O'Connell
+"Building Machine Learning Powered Applications" by Emmanuel Ameisen
+"Building Machine Learning Pipelines" by Hannes Hapke, Catherine Nelson, 2020, O'Reilly
+Reference Books:
+"Introducing MLOps" by Mark Treveil, et al. O'Reilly Media, Inc. 2020
+"Machine Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald`a,icard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018
+Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald`a,icard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018 | Reference Books: Course Code | - | Course Title | AI in Healthcare | AI in Healthcare | AI in Healthcare | AI in Healthcare
+Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald`a,icard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018 | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald`a,icard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018 | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald`a,icard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018 | Reference Books: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Course Content:
+Text Books:
+Reference Books:
+Course Code
+-
+Course Title Applied Signal Processing
+On successful completion of the course, students shall be able to | Course Outcomes: Category..: Prerequisite(if Any) — -.: -; Credit Assigned:..: Type of Course; L.2: ME Applied Artificial Intelligence; T.0: ME Applied Artificial Intelligence; P.2: ME Applied Artificial Intelligence; C.3: ME Applied Artificial Intelligence
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Course Content:
+Text Books:
+Reference Books:
+On successful completion of the course, students shall be able to | Course Outcomes: Course Code | - | Course Title | AI Workshop | AI Workshop | AI Workshop | AI Workshop
+On successful completion of the course, students shall be able to | Course Outcomes: Category | - | Credit Assigned: | L | T | P | C
+On successful completion of the course, students shall be able to | Course Outcomes: Category | - | Credit Assigned: | 1 | 0 | 4 | 3
+On successful completion of the course, students shall be able to | Course Outcomes: Prerequisite(if Any) | - | Type of Course | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence | ME Applied Artificial Intelligence
+On successful completion of the course, students shall be able to | Course Outcomes: Course Outcomes: On successful completion of the course, students shall be able to: | Course Outcomes: On successful completion of the course, students shall be able to: | Course Outcomes: On successful completion of the course, students shall be able to: | Course Outcomes: On successful completion of the course, students shall be able to: | Course Outcomes: On successful completion of the course, students shall be able to: | Course Outcomes: On successful completion of the course, students shall be able to: | Course Outcomes: On successful completion of the course, students shall be able to:
+On successful completion of the course, students shall be able to | Course Outcomes: Course Content:
+On successful completion of the course, students shall be able to | Course Outcomes: Text Books:
+On successful completion of the course, students shall be able to | Course Outcomes: Reference Books:

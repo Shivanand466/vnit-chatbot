@@ -22,6 +22,7 @@ What is deliberately NOT ingested (see select()):
 """
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -41,7 +42,11 @@ DOC_DIR = ROOT / "data" / "documents"
 INVENTORY = DOC_DIR / "inventory.json"
 STATUS = DOC_DIR / "status.json"
 IN_PROGRESS = DOC_DIR / "in_progress.txt"
-DOC_TIMEOUT_SECONDS = 900
+# 15 minutes is enough for all but the longest documents. Course books and FAQ
+# sheets (dense, often scanned, so every page goes through OCR) timed out at
+# this limit; retry those few with VNIT_DOC_TIMEOUT set higher rather than
+# making every document wait longer before it is given up on.
+DOC_TIMEOUT_SECONDS = int(os.environ.get("VNIT_DOC_TIMEOUT", "900"))
 CACHE_DIR = Path.home() / ".cache" / "vnit-chatbot" / "pdfs"   # outside OneDrive: ~1GB of PDFs
 
 MAX_PDF_BYTES = 25 * 1024 * 1024

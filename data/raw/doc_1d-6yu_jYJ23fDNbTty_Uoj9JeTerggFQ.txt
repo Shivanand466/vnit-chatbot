@@ -1,0 +1,13 @@
+SOURCE_URL: https://drive.google.com/file/d/1d-6yu_jYJ23fDNbTty_Uoj9JeTerggFQ/view
+TITLE: PEO's
+FETCHED: 2024-03-02
+FOUND_ON: https://vnit.ac.in/engineering/mech/
+---
+Document: PEO's (dated 2024-03-02)
+Programme Educational Objectives (PEOs)
+To impart to the students knowledge of contemporary science and mechanical engineering related subjects
+To enhance analytical skills of the students for decision making.
+To provide opportunity to the students to expand their horizon beyond mechanical engineering.
+To prepare the students to take-up career in different industries or to pursue higher studies in mechanical and interdisciplinary programs.
+To create awareness amongst the students towards social, environmental and energy related issues.
+To introduce the students to the professionalism and effective communication skills.

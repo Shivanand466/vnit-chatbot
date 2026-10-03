@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/arch/
 TITLE: VNIT Nagpur Departrnent of Architecture And Planning Engineering
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Specialization
 Urban Planning
@@ -22,14 +22,9 @@ The mission is to facilitate the Architecture and Urban Planning education by th
 Vision
 The vision is to nurture and groom future architects and urban planners by inculcating a sense of commitment, professionalism and consciousness to meet the emerging challenges in the fields of Architecture and Urban Planning professions and to fulfil the aspirations of the society.
 Department Stats
-PG Specialisations
-0
-Faculty (RF+AAP+VF=31)
-15+06+
-Students
-0
-Publications (This Year)
-0
-Patents (This Year)
-0
+PG Specialisations 0
+Faculty (RF+AAP+VF=31) 15+06+
+Students 0
+Publications (This Year) 0
+Patents (This Year) 0
 News & Upcoming Events

@@ -1,9 +1,8 @@
 SOURCE_URL: https://vnit.ac.in/vnit-nagpur-inspires-freshers-with-purpose-driven-education-healthy-living-and-creative-expression
 TITLE: VNIT Nagpur Inspires Freshers with Purpose-Driven Education, Healthy Living and Creative Expression
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
-VNIT Nagpur Inspires Freshers with Purpose-Driven Education, Healthy Living and Creative Expression
-vnit_web
+VNIT Nagpur Inspires Freshers with Purpose-Driven Education, Healthy Living and Creative Expression vnit_web
 August 25, 2026
 News
 Nagpur, 22nd August 2026:

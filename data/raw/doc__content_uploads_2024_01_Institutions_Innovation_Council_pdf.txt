@@ -1,0 +1,175 @@
+SOURCE_URL: https://vnit.ac.in/wp-content/uploads/2024/01/Institutions-Innovation-Council.pdf
+TITLE: Institution’s Innovation Council
+FETCHED: 2024-01-01
+FOUND_ON: https://vnit.ac.in/5g-lab-vnit-nagpur
+---
+Document: Institution’s Innovation Council (dated 2024-01-01)
+Following Committee is constituted for Institution's Innovation Council.
+Following Committee is constituted for Innovation Council.: President | Dr. A. G. Keskar , Electronics Dept
+Following Committee is constituted for Innovation Council.: Convenor | Dr. S. S. Bhat, Electrical Dept
+Following Committee is constituted for Innovation Council.: Innovation Activity Coordinator | Dr. Sachin Mandavgane, Chemical Dept
+Following Committee is constituted for Innovation Council.: Start-up Activity Coordinator | Dr. M. P. Kurhekar, Computer Science Dept
+Following Committee is constituted for Innovation Council.: Internship Coordinator | Dr. Rahul Ralegaonkar, Civil Dept
+Following Committee is constituted for Innovation Council.: IPR Coordinator | Dr. R. B .Keskar, Computer Science Dept
+Following Committee is constituted for Innovation Council.: Social Media Coordinator | Dr. K. L. Wasewar, Chemical Dept
+Following Committee is constituted for Innovation Council.: ARIIR Coordinator | Dr. S. S. Chiddarwar, Mechanical Dept
+Following Committee is constituted for Innovation Council.: NIRF Coordinator | Dr. S. S. Chiddarwar, Mechanical Dept
+Following Committee is constituted for Innovation Council.: Members | Dr. R. B.Deshmukh, VLSI Dept
+Following Committee is constituted for Innovation Council.: Members | Dr. Ritesh Kumar Keshri, Electrical Dept
+Following Committee is constituted for Innovation Council.: Members | Dr. Bhooshan Rajpathak, Electrical Dept
+Following Committee is constituted for Innovation Council.: Members | Dr. T. V. K. Gupta, Mechanical Dept
+Following Committee is constituted for Innovation Council.: Members | Dr. Mangesh Madurwar, Civil Dept
+Following Committee is constituted for Innovation Council.: Members | Dr. Akshay Patil, Arch Dept
+Following Committee is constituted for Innovation Council.: Members | Dr. R.S.Gedam, Physics Dept
+Manish Kurhekar
+Start-up Activity Coordinator
+Associate Professor, Department of Computer Science & Engineering, Visvesvaraya National Institute of Technology (VNIT), South Ambazari Road, Nagpur - 440010,India.
+(Email:manishkurhekar@cse.vnit.ac.in, Phone:+91-712-280-1597, Fax:+91-712- 2223969)
+ Work Experience:
+Visvesvaraya National Institute of Technology, Nagpur, July 2010 - Present (Designation: Associate Professor, Dept. of Comp. Sci. & Engg.)
+Persistent Systems Limited, Nagpur, Dec 2003 - July 2010
+(Designation: Senior Technical Lead/ Project Manager)
+IBM India Research Lab, New Delhi, Jun 2000 - Nov 2003 (Designation: Research Staff Member)
+Texas Instruments, Bangalore, Mar 1999 - May 2000
+ 11 years of software product development with industrial research experience and 9 years of teaching experience with eight journal publications, thirteen conference publications, three patents, and two IBM research reports. Have technically lead/managed small and medium industry projects.
+ Research interests: Theoretical Computer Science, Systems Biology, BioInformatics, and Machine Learning
+(Designation: Software Engineer)
+Education
+ Ph. D., Department of Computer Science and Engineering, VNIT, Nagpur, 2015.
+ M. Tech. (Computer Science), IIT Bombay, Mumbai, 1999.
+ B. E. (Computer Science), VRCE (now VNIT), Nagpur, 1997.
+Courses Teaching
+M.Tech. - Topics in BioInformatics, Software Lab
+B.Tech. - C Programming, Language Processors, Theory of Computation
+Dr. Sachin A. Mandavgane Associate Professor
+Innovation Activity Coordinator
+Research Interest
+ Solid Waste Utilization
+ Nano Catalyst
+ Adsorption
+ Green Chemistry
+ Ancient Sciences
+ Green building materials
+ Engineering Education and Social Media
+ Alternate Construction materials
+Education
+ B.Tech (Laxminarayan Inst. of Tech., Nagpur, India)
+ M.Tech (Laxminarayan Inst. of Tech., Nagpur, India)
+ Ph.D. (Laxminarayan Inst. of Tech., Nagpur, India)
+Contact Details
+CHE-017, Department of Chemical Engineering, VNIT Nagpur,
+Maharashtra-440010, India
+Email: sam@che.vnit.ac.in
+mandavgane@gmail.com
+Phone: 91-712-280-1563
+Dr. Rahul V. Ralegaonkar
+(Ph.D.(Energy Efficient Buildings), M.E.(Civil), B.E.(Civil), PE, AM-ASCE, M-IALCCE, MIE, LM-IWWA, LM-ACCE, LM-ICI)
+Professor, Department of Civil Engineering, VNIT, Nagpur-10, Maharashtra, India
+Resume Summary
+Dr. Rahul V. Ralegaonkar has completed B.E. (Civil-1998), M.E. (Civil-2000) & Ph.D. (Energy Efficient Buildings-2005). He worked for a year in industry at managerial post in GIS industry and Civil Construction industry. Rest 17 years he has been associated with academics including research, testing, consultancy of civil engineering materials, projects etc. He was awarded one of the most prestigious Indo-US BHAVAN Fellowship by DST, New Delhi to work at University of Texas, US during 2016. He has been awarded Visiting Professor post at Liverpool John Moores University, UK for the track February 2019-January 2022. He has 3 international and 3 national awards to his credit for novel product design which are used as energy efficient construction materials. He was also awarded doctoral fellowship by National Renewable Energy Fellowship by Ministry of Non-Conventional Energy Sources, New Delhi. He holds international diploma certification to serve as sustainability practioner for CSR activities and rendered his services to Fondazione Cariplo, Italy for bio-economy related research projects.
+He is presently working as Professor in Department of Civil Engineering, at Visvesvaraya National Institute of Technology, Nagpur, India with keen interest in broad areas of Sustainable Construction Engineering . He has completed several R & D sponsored projects of National and International repute. Currently one R & D sponsored project funded by Ministry of Mines, GoI and one at International Level funded by British Council is ongoing. Six Indian patents were filled for several sustainable construction materials. Two software tools were designed and received copyright for design of carbon minus building designs & implementation of sustainable technologies in large scale construction projects. Till date over 140 publications were brought out at international and national level. He contributed couple of chapters in international handbooks published by Elsevier and IGI global publishers.
+Presently 8 doctoral candidates, over 40 master's candidates and 10 graduating student groups have completed their projects under his supervision. As the interactions with other professionals are concerned, the lecture notes were published and presented in more than 15 training programs. More than 100 lectures were delivered as invited speaker on several management and engineering topics like energy management, energy economics, application of sustainable technologies in construction industry and disaster management, etc. at various national and international level interactive platforms. As an organising committee member including principal coordinator and secretary for workshops, training program and national conference more than 60 events were participated. He is also actively involved with technical forums as an editorial board member and the reviewer for several journals and conferences at national and international level. He was also associated with National Mission projects like Principal Nodal Officer for E-hub of Ministry of Skill development program, Nodal coordinator for Housing for all program of Ministry of Housing & Urban Poverty Alleviation, New Delhi and Member for Environmental clearance cell constituted by Local Improvement trust.
+Dr. R.B. Keskar
+Associate Professor Visvesvaraya National Institute of Technology IPR Coordinator
+Areas of interest:
+ Real Time and Distributed Systems
+ Machine Learning
+ Cloud Computing
+ Compiler Optimizations
+Research Interest
+ Separation Processes
+ Reaction Engineering
+ Process Intensification
+Experience
+ Associate Professor, VNIT Nagpur, India (December 2008 - present)
+ Assistant Professor, IIT Roorkee, India (May 2006 - December 2008)
+ Lecturer, BITS Pilani, India (June 2004 - May 2006)
+Education
+ B.Tech (Laxminarayan Inst. of Tech., Nagpur, India, 1995)
+ M.Tech (Institute of Chemical Tech., India, 2000)
+ Ph.D. (Institute of Chemical Tech., India, 2004)
+Contact Details
+CHE-018, Department of Chemical Engineering, VNIT Nagpur,
+Maharashtra-440010 India
+Email: klwasewar@che.vnit.ac.in
+k_wasewar@rediffmail.com
+Phone: 0712-280-1561
+Dr. Kailas L. Wasewar Associate Professor Social Media Coordinator
+Areas of interest:
+ Digital Design
+ CMOS Design
+ Reconfigurable FPGA Design
+Dr. Shital S. Chiddarwar Professor, Mechanical Dept ARIIR Coordinator NIRF Coordinator
+Dr. Shital S. Chiddarwar is specialized in Robot Motion Planning, Machine Vision, Artificial Intelligence, Adaptive Control. She has done B.E. (Mechanical Engineering) from VRCE (now VNIT) Nagpur and M.Tech. (Production Engineering) from Nagpur University. She has done Ph.D. in Robot Motion Planning from IIT Madras. She has 10 years of teaching experience. She has taught Manufacturing process automation, Industrial robotics, Robotics and Machine Vision, Machine Vision and its Applications, Artificial Intelligence to undergraduate as well as post graduate students. She has published 14 papers in SCI journals and 5 in reputed journals, 47 international conferences and 2 books to her credential. She is the member of Association for Machines and Mechanisms, IEEE, Robotics Society of India, IIIE and ISTE. She has completed DST Fast Track Project and COE Humanoid project. She has filedseven patents with her students. She has guided 5 Ph.D. students and currently 3 are pursuing PhD in her guidance
+Dr. Raghvendra. B. Deshmukh
+Professor VLSI Member
+Dr. Keshri Ritesh Kumar
+Assistant Professor, Sr. Member IEEE Visvesvaraya National Institute of Technology Member
+Research area: Power electronics and drives for Electric Vehicle Propulsion and Electric Vehicle Charging
+Most important awards:
+Visvesvaraya Young Faculty Research Award, MIETY, India
+2016 Best Paper Award of IEEE Transaction on Industrial Electronics
+Erasmus Mundus Doctoral Research Fellowship, European Union
+Young Resercher Award, MIUR,
+Dr. Bhooshan Rajpathak Assistant Professor
+Visvesvaraya National Institute of Technology
+Member
+Current Courses :
+ UG
+ PG
+ Phd
+
+Areas of interest: Bifurcations, Chaos, Piecewise-smooth Dynamical Systems, Nonlinear Control Theory
+T.V.K. Gupta Assistant Professor
+Mechanical Engineering Department Visvesvaraya National Institute of Technology Member
+Name:
+Dr. Mangesh Madurwar
+Designation:
+Assistant Professor
+Qualification:
+B.E.(Civil Engineering),
+M.E. (Infrastructure
+Systems), Ph.D.(Sustainable Construction Materials)
+Areas of interest: New Construction Materials & Technology, Construction Management, Project Management, Project Management Software, Construction Site Administration and Control, and Quantity Surveying.
+Contact No. :
+0712-2801806
+Designation: Associate Professor
+Dr. A. P. Patil Member
+Qualification:
+B.Arch., PG Dip. In Urban Design, Ph.D
+Areas of interest:
+Urban Design, Urban Complexity, Complexity Science,
+Emergence, Agent-Based-Modelling, Public Realm, Informal Sector, and Human Settlements.
+E-mail id: appatil@arc.vnit.ac.in
+Current Courses :
+UG
+History of Human Settlements, Urban Design, Design Studio
+PG
+History of Human Settlements, Planning for Informal Sector.
+Phd
+Module on 'Complexity Science - Paradigm Shift' for the course - Research Methodology.
+Areas of interest:
+Urban Design, Complexity Science, Agent-Based Modelling, Emergent Properties, Informal Sector, Public Realm, Complex Adaptive Systems.
+Dr. Rupesh S. Gedam Bio-Data Member
+Name : Dr. Rupesh S. Gedam
+Academic Qualification : M.Sc ( Physics), Ph.D.
+Designation : Professor and Head
+Address
+: Department of Physics,
+Email
+Visvesvaraya National Institute of
+Technology, Nagpur-440011
+: rupesh_gedam@rediffmail.com
+Nationality
+rupeshgedam411@gmail.com
+rsgedam@phy.vnit.ac.in
+: Indian
+Experience
+: 22 Yrs ( Teaching)
+Research and Development :
+Area of Research
+: Quantum dots containing Glasses, Photoluminescence
+Guiding Experience
+Ph.D. - 6 ( 4 Awarded & 2 Ongoing)
+M.Sc (Phy) Project - 10 ( 8 Completed & 2 ongoing)
+B.Tech Project - 6

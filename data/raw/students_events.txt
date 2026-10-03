@@ -1,15 +1,8 @@
 SOURCE_URL: https://vnit.ac.in/students-events
 TITLE: Students’ Events
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
-Vihang 2026
-1
-2
-3
-4
-7
-8
-15
+Vihang 2026 1 2 3 4 7 8 15
 Consortium’26
 IMG_0737
 CLUB CAPTURE_14

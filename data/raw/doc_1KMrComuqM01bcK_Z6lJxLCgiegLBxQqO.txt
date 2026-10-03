@@ -1,0 +1,22 @@
+SOURCE_URL: https://drive.google.com/file/d/1KMrComuqM01bcK_Z6lJxLCgiegLBxQqO/view
+TITLE: Excavation Engineering
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Excavation Engineering (dated 2026-08-05)
+Visvesvaraya National Institute of Technology, Nagpur
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026)
+M. Tech in (Excavation & Tunnel Engineering)
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MAL505 — Course Title / Name: MATHEMATICAL ELEMENTS FOR ENGINEERS; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNL522 — Course Title / Name: GEO-MECHANICS IN EXCAVATIONS; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNP522 — Course Title / Name: GEO-MECHANICS IN EXCAVATIONS; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNL526 — Course Title / Name: TUNNEL AND CAVERN ENGINEERING; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNL535 — Course Title / Name: EXCAVATION EQUIPMENT & TECHNOLOGY; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Course Title / Name: Elective Courses (Any two)
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNL529 — Course Title / Name: CONTRACT AND CONSTRUCTION MANAGEMENT; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNL532 — Course Title / Name: ADVANGE ENGINEERING GEOLOGY; Credit: 3; Offered (YES / NO): Notoffered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNL533 — Course Title / Name: INSTRUMENTATION IN EXCAVATION; Type: DE; Credit: €; Offered (YES / NO): Notoffered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNL534 — Course Title / Name: GROUTING TECHNOLOGY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Code: MNL536 — Course Title / Name: PRINCIPLES AND CONCEPTS OF MINING; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026) | M. Tech in (Excavation & Tunnel Engineering): Course Title / Name: Total Credits (DC + DE) — Credit: 20
+I Semester

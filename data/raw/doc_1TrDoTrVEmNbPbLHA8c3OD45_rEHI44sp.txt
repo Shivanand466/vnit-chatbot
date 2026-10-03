@@ -1,0 +1,446 @@
+SOURCE_URL: https://drive.google.com/file/d/1TrDoTrVEmNbPbLHA8c3OD45_rEHI44sp/view
+TITLE: Electric Vehicle Technology (Hybrid)
+FETCHED: 2024-06-13
+FOUND_ON: https://vnit.ac.in/engineering/mech/
+---
+Document: Electric Vehicle Technology (Hybrid) (dated 2024-06-13)
+DEPARTMENT OF MECHANICAL ENGINEERING
+Course Book for
+M. Tech. in Electric Vehicle Technology
+For
+Academic Year 2023 - 2024
+Visvesvaraya National Institute of Technology,
+Nagpur-440 010 (MH)
+Institute Vision Statement
+To contribute effectively to the National and International endeavour of producing quality human resource of world class standard by developing a sustainable technical education system to meet the changing technological needs of the Country and the World incorporating relevant social concerns and to build an environment to create and propagate innovative technologies for the economic development of the Nation.
+Institute Mission Statement
+The mission of VNIT is to achieve high standards of excellence in generating and propagating knowledge in engineering and allied disciplines. VNIT is committed to providing an education that combines rigorous academics with joy of discovery. The Institute encourages its community to engage in a dialogue with society to be able to effectively contribute for the betterment of humankind.
+Department Vision Statement
+To produce quality human resource of high standard in mechanical engineering who can contribute favorably to the technological and socio-economic development of the nation.
+Department Mission Statement
+To develop state of the art facilities related to mechanical engineering. To attract highly qualified faculty to the mechanical engineering department. To promote participation of industries in academics, research and consultancy. To undertake research at regional and national level.
+Brief about Mechanical Department
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. Faculty members of the department are highly motivated for teaching and conducting research in the diversified fields of mechanical engineering.
+List of Faculty Members
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. A. S. Dhoble — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. Ritesh Keshri — Areas of specialization: Electrical Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Rahul Bagdia — Areas of specialization: Policy, Regulations & Energy
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Vikrant Vaidya — Areas of specialization: Vehicle Integration & 1-D Simulation
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. Kamal Vora — Areas of specialization: EV Verification & Validation
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. Jose Biona (Manny) — Areas of specialization: EV Design & Prototyping
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Hemant Padhye — Areas of specialization: Program Management
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Vivek Sahasrabuddhey — Areas of specialization: EV Value Chain
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. Raghavendra G — Areas of specialization: Vehicle Electronics & Telematics
+UG/ PG Programmes Offered by Mechanical Department:
+The department offers following undergraduate and postgraduate programmes
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: UG — Program: B. Tech in Mechanical Engineering; Description: Intake: 115
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: PG — Program: M. Tech. in 1. Computer Aided Design & Manufacturing 2. Industrial Engineering 3. Heat Power Engineering 4. Engineering Aided Medical Science (Interdisciplinary) 5. Electric Vehicle Technology - Online (Interdisciplinary); Description: Intake : 23 Intake : 23 Intake : 23 Intake : 14 Intake : 50
+Credit System at VNIT:
+Education at the Institute is organized around the semester-based credit system of study. The prominent features of the credit system are a process of continuous evaluation of a student's performance / progress and flexibility to allow a student to progress at an optimum pace suited to his/her ability or convenience, subject to fulfilling minimum requirements for continuation. A student's performance/progress is measured by the number of credits he/she has earned, i.e. completed satisfactorily. Based on the course credits and grades obtained by the student, grade point average is calculated. A minimum number of credits and a minimum grade point average must be acquired by a student in order to qualify for the degree.
+Course credits assignment
+Each course, except a few special courses, has certain number of credits assigned to it depending on lecture, tutorial and laboratory contact hours in a week.
+For Lectures and Tutorials: One lecture hour per week per semester is assigned one credit and For Practical/ Laboratory/ Studio: One hour per week per semester is assigned half credit.
+Example: Course XXXXXX with (3-0-2) as (L-T-P) structure, i.e. 3 hr Lectures + 0 hr Tutorial + 2 hr Practical per week, will have (3x1 + 0x1 + 2x0.5 =) 4 credits.
+Grading System
+The grading reflects a student's own proficiency in the course. While relative standing of the student is clearly indicated by his/her grades, the process of awarding grades is based on fitting performance of the class to some statistical distribution. The course coordinator and associated faculty members for a course formulate appropriate procedure to award grades. These grades are reflective of the student's performance vis-à-vis instructor's expectation. If a student is declared pass in a subject, then he/she gets the credits associated with that subject.
+Depending on marks scored in a subject, a student is given a Grade. Each grade has got certain grade points as follows:
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AA — Grade points: 10; Description: Outstanding
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AB — Grade points: 9; Description: Excellent
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BB — Grade points: 8; Description: Very good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BC — Grade points: 7; Description: Good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CC — Grade points: 6; Description: Average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CD — Grade points: 5; Description: Below average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: DD — Grade points: 4; Description: Marginal (Pass Grade)
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: FF — Grade points: 0; Description: Poor (Fail) /Unsatisfactory / Absence from end-sem exam
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NP — Grade points: -; Description: Audit pass
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NF — Grade points: -; Description: Audit fail
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: SS — Grade points: -; Description: Satisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: ZZ — Grade points: -; Description: Unsatisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: W — Grade points: -; Description: Insufficient attendance
+Performance Evaluation
+The performance of a student is evaluated in terms of two indices, viz, the Semester Grade Point Average (SGPA) which is the Grade Point Average for a semester and Cumulative Grade Point Average (CGPA) which is the Grade Point Average for all the completed semesters at any point in time. CGPA is rounded up to second decimal.
+The Earned Credits (ECR) are defined as the sum of course credits for courses in which students have been awarded grades between AA to DD. Grades obtained in the audit courses are not counted for computation of grade point average.
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AA- DD grade has been obtained
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded CGPA= EGP / Σ(Course credits) for courses passed in all completed semesters in which AADD grades are awarded
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded CGPA= EGP / Σ(Course credits)... | Performance Evaluation: Category of Course: Program Core — Symbol: Program Core; Credit Requirement.M. Tech. (Electric Vehicle Technology) (2 Year): Program Core
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded CGPA= EGP / Σ(Course credits)... | Performance Evaluation: Category of Course: Departmental core — Symbol: DC; Credit Requirement.M. Tech. (Electric Vehicle Technology) (2 Year): 36
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded CGPA= EGP / Σ(Course credits)... | Performance Evaluation: Category of Course: Program Elective — Symbol: Program Elective; Credit Requirement.M. Tech. (Electric Vehicle Technology) (2 Year): Program Elective
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded CGPA= EGP / Σ(Course credits)... | Performance Evaluation: Category of Course: Departmental Elective — Symbol: DE; Credit Requirement.M. Tech. (Electric Vehicle Technology) (2 Year): 16 (Minimum)
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded CGPA= EGP / Σ(Course credits)... | Performance Evaluation: Category of Course: Total requirement : DC+ DE = — Symbol: Total requirement : DC+ DE =; Credit Requirement.M. Tech. (Electric Vehicle Technology) (2 Year): 52
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded CGPA= EGP / Σ(Course credits)... | Performance Evaluation: Category of Course: Minimum Cumulative Grade Point Average required for the award of degree — Symbol: Minimum Cumulative Grade Point Average required for the award of degree; Credit Requirement.M. Tech. (Electric Vehicle Technology) (2 Year): 6.00
+Overall Credits Requirement for Award of Degree of M.Tech in Electric Vehicle Technology
+Attendance Rules
+All students must attend every class and 100% attendance is expected from the students. However, in consideration of the constraints/ unavoidable circumstances, the attendance can be relaxed by course coordinator only to the extent of not more than 25%. Every student must attend minimum of 75% of the classes actually held for that course.
+A student with less than 75% attendance in a course during the semester, will be awarded W grade. Such a student will not be eligible to appear for the end semester and re-examination of that course. Even if such a student happens to appear for these examinations, then, answer books of such students will not be evaluated.
+A student with W grade is not eligible to appear for end semester examination, reexamination & summer term.
+Program Outcomes for M. Tech (Common to all PG programmes):
+PO1 → An ability to apply Systems Engineering principles to Electric Vehicle design, development and integration using Virtual Model-based Development.
+PO2 → An ability to write and present a substantial technical report/document.
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program.
+Scheme for M. Tech EV Technology
+(July - 2021 onwards)
+List of core courses (DC)
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVT001 — Course Name.Course Name: Energy Sources and Powertrain Electrification - Hybrid, BEV, Fuel Cell; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVT010 — Course Name.Course Name: Control Systems as applied to Electric Powertrains; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVT002 — Course Name.Course Name: EV Systems Engineering: Design and Integration; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-2-4; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVT005 — Course Name.Course Name: EV Design Verification & Validation Planning; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 2
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVT012 — Course Name.Course Name: Advanced Energy Storage & Battery Systems in e-Mobility New Batteries, Ultracapacitors, Fuel Cells; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 2
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVT011 — Course Name.Course Name: Motors, Generators & Power Converters: Design for EVs; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-2-4; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 2
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVT003 — Course Name.Course Name: EV Modeling and Simulation for Product Development; Structure L-T-P- Cr.Structure L-T-P- Cr: 2-2-0-4; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 3; Pre-requisite(s) and / or any other condition for registration.Course code: EVT002; Pre-requisite(s) and / or any other condition for registration.Course name: EV Systems Engineering: Design and Integration
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVP001 — Course Name.Course Name: Project Phase 1; Structure L-T-P- Cr.Structure L-T-P- Cr: 0-0-12-6; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 3; Pre-requisite(s) and / or any other condition for registration.Course code: 26 credits
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: EVP002 — Course Name.Course Name: Project Phase 2; Structure L-T-P- Cr.Structure L-T-P- Cr: 0-0-12-6; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 4; Pre-requisite(s) and / or any other condition for registration.Course code: 39 credits + Project Phase 1
+List of Elective Courses (DE)
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: MEL432 — Course Name.Course Name: Automobile Engineering; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: ESC101 — Course Name.Course Name: Basic Electrical Engineering (Theory Only); Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: EVT007 — Course Name.Course Name: EV Thermal Management: Batteries & Motors; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 2
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: EVT013 — Course Name.Course Name: Charging & Energy Infrastructure; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 2
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: EVT006 — Course Name.Course Name: Smart Mobility: ADAS, Autonomous, Connected; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 3
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: EVT014 — Course Name.Course Name: EV Fleet Planning & Optimization; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 3
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: EVT008 — Course Name.Course Name: EV Range Extension Technologies: Hydrogen Fuel Cell & Runtime Charging; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 4
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: EVT015 — Course Name.Course Name: EV Maintenance, Safety, Salvage and Recycling; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-2-4; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 4
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: EVT016 — Course Name.Course Name: EV Value Chain and Circular Economy; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 4
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of Elective Courses (DE): Course code.Course code: EVT004 — Course Name.Course Name: EV Diagnostics and Prognostics: Leveraging IoT, Data Analytics; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-2-4; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 4
+Credits for semester wise registration of a student.
+(Typical values to be mentioned, actual credits may vary from student to student).
+(Typical values to be mentioned, actual credits may vary from student to student). | List of Elective Courses (DE): Type: DC — I Sem: 10; II Sem: 10; III Sem: 10; IV Sem: 6; Total: 36
+(Typical values to be mentioned, actual credits may vary from student to student). | List of Elective Courses (DE): Type: DE/OC/HM — I Sem: 3; II Sem: 3; III Sem: 3; IV Sem: 7; Total: 16
+(Typical values to be mentioned, actual credits may vary from student to student). | List of Elective Courses (DE): Type: Total (per sem) — I Sem: 13; II Sem: 13; III Sem: 13; IV Sem: 13; Total: 52
+Odd Semester
+9
+MEL432 Automobile Engineering
+3 credits (3-0-0)
+Pre-requisites: Nil
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course students will demonstrate the ability to,
+Understand the broad classifications of automotive vehicles.
+Understand the function of various vehicle sub-systems.
+Understand the various vehicle functional attributes and performance metrics.
+Identify & analyze various on-board energy sources of a vehicle.
+Mapping with POs:
+Identify & analyze various on-board energy sources of a vehicle. | Mapping with POs: POs → COs ↓: CO1 — PO1: M; PO2: M; PO3: M
+Identify & analyze various on-board energy sources of a vehicle. | Mapping with POs: POs → COs ↓: CO2 — PO1: H; PO2: M; PO3: M
+Identify & analyze various on-board energy sources of a vehicle. | Mapping with POs: POs → COs ↓: CO3 — PO1: H; PO2: H; PO3: M
+Identify & analyze various on-board energy sources of a vehicle. | Mapping with POs: POs → COs ↓: CO4 — PO1: M; PO2: M; PO3: M
+Identify & analyze various on-board energy sources of a vehicle. | Mapping with POs: POs → COs ↓: Overall — PO1: H; PO2: M; PO3: M
+Content:
+Module 1: Automobiles Classification & Segmentation
+Types of automobiles, vehicle construction and layouts, chassis, frame and body, vehicle aerodynamics, etc.
+Module 2: IC Engines
+IC engines- components, function and materials, variable valve timing (VVT). Engine auxiliary systems, electronic injection for SI and CI engines, unit injector system, rotary distributor type and common rail direct injection system, transistor-based coil ignition & capacitive discharge ignition systems, turbo chargers (WGT, VGT), engine emission control by 3-way catalytic converter system, Emission norms (Euro & BS)
+Module 3: Transmissions & Drivetrain
+Transmission systems, clutch types & construction, gear boxes- manual and automatic gear shift mechanisms, Over drive, transfer box, flywheel, torque converter, propeller shaft, slip joints, universal joints, differential and rear axle, Hotchkiss drive and Torque tube drive.
+Module 4: Suspension, Steering, Chassis & Body
+Steering geometry and types of steering gear box, power steering, types of front axle, types of suspension systems, pneumatic and hydraulic braking systems, antilock braking system (ABS), electronic brake force distribution (EBD) and traction control.
+Module 5: Energy
+Alternative energy sources, natural gas, LPG, biodiesel, bio-ethanol, gasohol and hydrogen fuels in automobiles, modifications needed, performance, combustion & emission characteristics of alternative fuels in SI and CI engines, Electric and Hybrid vehicles, application of Fuel Cells
+Text/References:
+William Crouse and Donald Anglin, Automotive Mechanics, McGraw Hill Education; 10th edition (1 July 2017)
+Kirpal Singh, Automobile Engineering, 7th ed., Standard Publishers, New Delhi, 1997.
+Jain K.K. and Asthana R.B., Automobile Engineering, Tata McGraw Hill, New Delhi, 2002. Heitner J., Automotive Mechanics, 2nd ed., East-West Press, 1999.
+Heisler H., Advanced Engine Technology, SAE International Publ., USA, 1998.
+ESC101 Basic Electrical Engineering (Theory only)
+3 credits (3-0-0)
+Pre-requisites: Nil
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course students will demonstrate the ability to,
+Understand and analyze basic electric and magnetic circuits.
+Study the working principles of electrical machines and power converters.
+Understand the components of low voltage electrical installations.
+Mapping with POs:
+Understand the components of low voltage electrical installations. | Mapping with POs: POs → ↓: COs CO1 — PO1: M; PO2: L; PO3: L
+Understand the components of low voltage electrical installations. | Mapping with POs: POs → ↓: CO2 — PO1: H; PO2: M; PO3: M
+Understand the components of low voltage electrical installations. | Mapping with POs: POs → ↓: CO3 — PO1: H; PO2: M; PO3: L
+Understand the components of low voltage electrical installations. | Mapping with POs: POs → ↓: Overall — PO1: H; PO2: M; PO3: L
+Content:
+Module 1: DC Circuits
+Electrical circuit elements (R, L and C), voltage and current sources, Kirchoff current and voltage laws, analysis of simple circuits with dc excitation. Superposition, Thevenin and Norton Theorems. Time-domain analysis of first-order RL and RC circuits.
+Module 2: AC Circuits
+Representation of sinusoidal waveforms, peak and rms values, phasor representation, real power, reactive power, apparent power, power factor. Analysis of single-phase ac circuits consisting of R, L, C, RL, RC, RLC combinations (series and parallel), resonance. Three phase balanced circuits, voltage and current relations in star and delta connections
+Module 3: Transformers
+Magnetic materials, BH characteristics, ideal and practical transformer, equivalent circuit, losses in transformers, regulation and efficiency. Auto-transformer and three-phase transformer connections.
+Module 4: Electrical Machines
+Generation of rotating magnetic fields, Construction and working of a three-phase induction motor, Significance of torque-slip characteristic. Loss components and efficiency, starting and speed control of induction motor. Single-phase induction motor. Construction, working, torque-speed characteristic and speed control of separately excited dc motor. Construction and working of synchronous generators..
+Module 5: Power Converters
+DC-DC buck and boost converters, duty ratio control. Single-phase and three-phase voltage source inverters; sinusoidal modulation.
+Module 6: Electrical Installations
+Components of LT Switchgear: Switch Fuse Unit (SFU), MCB, ELCB, MCCB, Types of Wires and Cables, Earthing. Types of Batteries, Important Characteristics for Batteries. Elementary calculations for energy consumption, power factor improvement and battery backup.
+Text/References:
+P. Kothari and I. J. Nagrath, 'Basic Electrical Engineering', Tata McGraw Hill, 2010.
+C. Kulshreshtha, 'Basic Electrical Engineering', McGraw Hill, 2009.
+S. Bobrow, 'Fundamentals of Electrical Engineering', Oxford University Press, 2011.
+Hughes, 'Electrical and Electronics Technology', Pearson, 2010.
+V. D. Toro, 'Electrical Engineering Fundamentals', Prentice Hall India, 1989..
+EVT001 Energy Sources and Powertrain Electrification - Hybrid, BEV, Fuel Cell 3 credit (3-0-0)
+Pre-requisites: Nil
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course students will demonstrate the ability to,
+Understand the various automotive powertrain layouts and architectures.
+Analyze and evaluate various automotive powertrain architectures against vehicle propulsion requirements.
+Analyze and evaluate various energy sources and on-board energy storage along with their conversion devices.
+Analyze the tank to wheel efficiency for various powertrain architectures and on-board energy storage mix.
+Mapping with POs:
+Analyze the tank to wheel efficiency for various powertrain architectures and on-board energy storage mix. | Mapping with POs: POs → COs ↓: CO1 — PO1: M; PO2: M; PO3: M
+Analyze the tank to wheel efficiency for various powertrain architectures and on-board energy storage mix. | Mapping with POs: POs → COs ↓: CO2 — PO1: H; PO2: M; PO3: H
+Analyze the tank to wheel efficiency for various powertrain architectures and on-board energy storage mix. | Mapping with POs: POs → COs ↓: CO3 — PO1: H; PO2: M; PO3: H
+Analyze the tank to wheel efficiency for various powertrain architectures and on-board energy storage mix. | Mapping with POs: POs → COs ↓: CO4 — PO1: H; PO2: H; PO3: H
+Analyze the tank to wheel efficiency for various powertrain architectures and on-board energy storage mix. | Mapping with POs: POs → COs ↓: Overall — PO1: H; PO2: M; PO3: H
+Content:
+Module 1: Basics and Evolution of ICE Powertrains
+ICE basics (processes, cycles, combustion, volumetric efficiency, IP,BP & FP, etc.)
+Evolution of ICE past to present by displacement, by air-induction, by other technologies Evolution by fuels Petrol, Diesel, Blended Fuels (Ethenol, Biodiesel, etc.), CNG/LNG, Hydrogen IC engine
+Evolution of emission regulations and exhaust aftertreatment technologies
+Module 2: Electrification of Automotive Powertrains
+ICE --> start-stop systems, Microhybrids (BAS & BAS+), Strong Hybrids (HEV), Plug-in Hybrids (PHEV)
+Extended Range Electric Vehicles (EREVs), Battery Electric Vehicles (BEVs) and Fuel Cell Electric Vehicles (FCEVs)
+ICE layout connstraints v/s options with motor (mid motor, eAxles, hub motors - independent wheel drive, etc.)
+Need of clutch/torque converter/n-speed gearbox/differential in ICE v/s BEV
+Prime-mover and driveline efficiencies (ICE v/s motor - mid, axle & hub)
+Key performance attributes (starting from rest & initial vehicle movement, acceleration & deceleration, energy efficiency, energy density & range, etc.) and accessory drive
+Energy Management & HEV Mode Selection Strategies (fuel consumption based cost function, etc.), Gasoline Gallon Equivalent & equivalent fuel economy (e.g. EPA MPGge)
+Module 3: On-board Energy Devices
+Basics of battery (electrochemistry, unit cells, modules and packs)
+Future of batteries
+Basics of ultracapacitors (dielectric properties, capacitor banks v/s large capacitors, etc.)
+Basics of fuel cells, why PEM fuel cells
+FC stacking, sizing fuel cell stacks and hydrogen tank
+System efficiencies - Fossil fuel ICE v/s Hydrogen ICE v/s BEVs v/s FCEVs
+Hybrid energy storage solutions
+Module 4: Various Fuels
+Fossil fuels: Petrol / gasoline, diesel, LPG / autogas. Properties & specifications for automotive use (RON/PON/MON, RVP, heating value, composition, etc.)
+Fossil fuels extraction & refinement processes, composition of outputs of 1 barrel of crude oil Fossil fuel storage & distribution, global reserves, supply chains and self sufficiency challenges
+CNG & LNG: Properties & specifications for automotive use
+Sources of CNG & reforming
+CNG storage, compression + refrigeration and distribution
+CNG & LNG: Tailpipe emissions & their impact v/s fossil fuels
+Methanol / Ethanol / biodiesel / blended fuels. Properties & specifications for automotive use Biofuels sources (competition with food products), storage & distribution
+Biofuels: Tailpipe emissions v/s fossil fuels & CNG, impact of source on carbon capture before harvest
+Hydrogen properties & specifications for automotive use Hydrogen sources and colour coding, production (electrolysis, etc.), storage, distribution, dealing with corrosion Hydrogen on-board storage - compression & cryo-refrigeration Module 5: Electricity - Generation, Transmission & Distribution Sources of electricity in fixed generation - non-renewable: Coal, Gas, Diesel, Nuclear Fission, Large Hydroelectric and Geo-thermal Sources of electricity in fixed generation - renewable: Solar, Wind, Small Hydroelectric, Flex-fuel fuel cells (Solid Oxide Fuel Cells) and Nuclear Fusion Transmission, Distribution & Charging: Intermittency in generation v/s demand, Base load - Peak load - Load balancing, fixed battery energy storage systems, Transmission infrastructure, distribution infrastructure, Micro-grid & off-grid systems EV charging and supply infrastructure, Charger ratings and charging rates Emerging on-board energy technologies - Metal-air cells, higher efficiency IC Engines (Rotary, 6-stroke??), micro-jet engines, Co-generation with ICE & fuel cells.
+Module 6: Lifecycle Energy and Hybrid Energy Solutions
+Introduction to Lifecycle Energy Analysis
+Technology assessment based on lifecycle energy
+Total energy efficiency approach
+Opportunities to mix various energy sources
+Optimization for minimum losses / emissions
+Text/References:
+M. Ehsani, Y. Gao and A. Emadi, 'Modern Electric, Hybrid Electric and Fuel cell vehicles: Fundamentals, theory and design,' second edition, CRC Press, Taylor and Francis, 2010.
+Energy Studies (3rd Edition) by William Shepherd (Author), David William Shepherd, 2014.
+Special issue, 'State of Art Electric Vehicle Technologies,' Proceedings of IEEE, vol. 95, no. 4, Sept 2007.
+EVT010 Control Systems as applied to Electric Powertrains
+3 credit (3-0-0)
+Pre-requisites: Nil
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course students will demonstrate the ability to,
+Understand automotive controller development process.
+Understand various controller design specifications.
+Design controllers to satisfy the desired design specifications using simple controller structures (P, PI, PID, compensators).
+Design controllers using the state-space approach.
+Mapping with POs:
+Design controllers to satisfy the desired design specifications using simple controller structures (P, PI, PID, compensators). | Mapping with POs: POs → COs ↓: CO1 — PO1: H; PO2: M; PO3: H
+Design controllers to satisfy the desired design specifications using simple controller structures (P, PI, PID, compensators). | Mapping with POs: POs → COs ↓: CO2 — PO1: H; PO2: M; PO3: H
+Design controllers to satisfy the desired design specifications using simple controller structures (P, PI, PID, compensators). | Mapping with POs: POs → COs ↓: CO3 — PO1: M; PO2: M; PO3: M
+Design controllers to satisfy the desired design specifications using simple controller structures (P, PI, PID, compensators). | Mapping with POs: POs → COs ↓: CO4 — PO1: H; PO2: M; PO3: M
+Design controllers to satisfy the desired design specifications using simple controller structures (P, PI, PID, compensators). | Mapping with POs: POs → COs ↓: Overall — PO1: H; PO2: M; PO3: H
+Content:
+Module 1: Introduction to EV Control and Design Specifications
+Various EV controllers - BMS, MCU, VCU, etc. Control strategy selection criteria. Sensors & actuators with EV examples. Virtual sensors. Automotive controller development process - model-based development, MiL, SiL, HiL. Introduction to design problem and philosophy. Introduction to time domain and frequency domain design specification and its physical relevance. Effect of gain on transient and steady state response. Effect of addition of pole on system performance. Effect of addition of zero on system response.
+Module 2: Design of Classical Control System in the time domain
+Introduction to compensator. Design of Lag, lead lag-lead compensator in time domain. Feedback and Feed forward compensator design. Feedback compensation. Realization of compensators. EV example for classical control system in time domain.
+Module 3: Design of Classical Control System in frequency domain
+Compensator design in frequency domain to improve steady state and transient response. Feedback and Feed forward compensator design using bode diagram. EV example for classical control system in frequency domain.
+Module 4: Design of PID controllers
+Design of P, PI, PD and PID controllers in time domain and frequency domain for first, second and third order systems. Control loop with auxiliary feedback - Feed forward control. EV example for PID controller.
+Module 5: Control System Design in state space
+Review of state space representation. Concept of controllability & observability, effect of pole zero cancellation on the controllability & observability of the system, pole placement design through state feedback. Ackerman's Formula for feedback gain design. Design of Observer. Reduced order observer. Separation Principle.
+Module 6: Nonlinearities and its effect on system performance
+Various types of non-linearities. Effect of various non-linearities on system performance. Singular points. Phase plot analysis.
+Text/References:
+M. Gopal, 'Control Systems: Principles and Design', McGraw Hill Education, 1997. Text Book
+B. C. Kuo, 'Automatic Control System', Prentice Hall, 1995.
+K. Ogata, 'Modern Control Engineering', Prentice Hall, 1991.
+I. J. Nagrath and M. Gopal, 'Control Systems Engineering', New Age International, 2009.
+EVT002 EV Systems Engineering: Design and Integration
+4 credits (3-0-1)
+Pre-requisites: Nil
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course students will demonstrate the ability to,
+Understand the need of an electric vehicle, components of the subsystems and dynamics.
+Understand and use the control strategies for vehicle control, battery management and the required communication link.
+Model the batteries, motor and other auxiliary loads and integration for component-wise and system level performance.
+Analyze the use pattern and dependency on the charging infrastructure.
+Mapping with POs:
+Analyze the use pattern and dependency on the charging infrastructure. | Mapping with POs: POs → COs ↓: CO1 — PO1: M; PO2: M; PO3: M
+Analyze the use pattern and dependency on the charging infrastructure. | Mapping with POs: POs → COs ↓: CO2 — PO1: H; PO2: M; PO3: H
+Analyze the use pattern and dependency on the charging infrastructure. | Mapping with POs: POs → COs ↓: CO3 — PO1: H; PO2: M; PO3: M
+Analyze the use pattern and dependency on the charging infrastructure. | Mapping with POs: POs → COs ↓: CO4 — PO1: H; PO2: M; PO3: M
+Analyze the use pattern and dependency on the charging infrastructure. | Mapping with POs: POs → COs ↓: Overall — PO1: H; PO2: M; PO3: M
+Content
+Module 1: EV Technologies and Integration Aspects
+Need of Electrical Vehicles; Traction Motors; Batteries; Regeneration; Power electronics; Vehicle systems & dynamics, ePowertrain architectures
+Module 2: Energy Management & Control
+Basics of control systems; Types of control strategies; Battery Management System; Motor Controllers, Vehicle Controllers; System Functional Safety.
+Module 3: System Engineering Tools
+Introduction to systems engineering as applied to EVs, Virtual Model Based Development; Introduction to system modelling techniques; Root Cause Analysis, & Failure Mode Effect Analysis
+Module 4: Application Engineering
+Legacy ICE vehicles Users v/s First time EV buyers; Individual Users v/s Fleets Vehicle Performance Attributes; Introduction to APQP; Mapping customer expectations; Data collection & analysis; Vehicle Requirements to Technical Specifications; Vehicle Performance Integration;
+Module 5: Supply Chains & Supplier Qualification
+ePowertrain System, Sub-System & Component Level value chains, Introduction to Global Supply Chains, Supplier Evaluation & Qualification Processes, Introduction to Supplier Quality Management
+Module 6: Infrastructure Dependencies
+Charging & grid liability; Charging protocols & safety; Telematics & connected vehicles; Renewable energy; EV Policies & Regulations, Introduction to EV Safety.
+Laboratory 1: EV Technology Familiriazation
+EV vs ICE vehicle system comparison, EV vs ICE vehicle dirving feel comparison, EV subsystems identification on vehicle, ePowertrain physical integration aspects (packaging, cooling & ventilattion, cables, electrical connectors, controller, etc.)
+Laboratory 2: ePowertrain Subsystems Familiarization
+ePowertrain disassembly to sub-system level (motor, gearbox, battery, power converter, controllers - BMS, motor drive, and on-board charger), ePowertrain sub-Systems high-level characterization, EV sub-Systems reassembly
+Laboratory 3: Data Acquisition on vehicles
+Data collection on electric vehicle using loggers, data analysis for driver behaviour, data analysis for operating conditions, use-case creation for various functional validation
+Text/References:
+"
+Iqbal Husain, 'Electric and Hybrid Vehicles: Design Fundamentals,' CRC Press, Taylor and Francis, 2005.
+R. Rajamani, 'Vehicle dynamics and Control,' second edition, Springer, 2012.
+M. Ehsani, Y. Gao and A. Emadi, 'Modern Electric, Hybrid Electric and Fuel cell
+vehicles: Fundamentals, theory and design,' second edition, CRC Press, Taylor and Francis, 2010.
+EVT003 EV Modeling and Simulation for Product Development 4 credits (2-2-0)
+Pre-requisites: EVT002 EV Systems Engineering: Design and Integration Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course, students will demonstrate the ability to,
+Understand the modelling of linear-time-invariant systems using transfer function and state-space representations.
+2.
+Understand the concept of stability and its assessment for linear-time invariant systems.
+Design simple feedback controllers.
+Mapping with POs:
+Understand the concept of stability and its assessment for linear-time invariant systems. | Mapping with POs: POs →: COs ↓
+Understand the concept of stability and its assessment for linear-time invariant systems. | Mapping with POs: POs →: CO1 — PO1: H; PO2: L; PO3: H
+Understand the concept of stability and its assessment for linear-time invariant systems. | Mapping with POs: POs →: CO2 — PO1: H; PO2: L; PO3: H
+Understand the concept of stability and its assessment for linear-time invariant systems. | Mapping with POs: POs →: CO3 — PO1: M; PO2: M; PO3: M
+Understand the concept of stability and its assessment for linear-time invariant systems. | Mapping with POs: POs →: Overall — PO1: H; PO2: L; PO3: H
+Content:
+Module 1: Introduction to 1-D System Model based product development.
+Need of virtual system model-based development, application in EV development - requirement to vehicle specifications, competitive benchmarking studies, vehicle technical specifications to ePowertrain technical specifications, inputs required for technology selection & first sub-system sizing, sub-system and vehicle level validations, generating design and validation load cases for sub-system and components, and systems engineering dependencies
+Module 2: System Modeling Basics
+Approaches to system modeling - physics-based (first principle) modeling, data (math) based modeling, hybrid physics & data based modeling, static models, kinematic models, dynamic models, time-domain analysis, state-space modeling technique, parametrized models, model accuracy vs inputs required vs resources vs reusability tradeoffs
+Module 3: Data Based Models in ePowertrain
+Simple electric motor model from characterization data in specification sheet, battery charge capacity correction model for temperature, c-rate and State-of-Health (SoH), battery internal resistance modeling for c-rate, State-of-Charge (SoC) and SoH, Open Circuit Voltage (OCV) characteristics for temperature & SoC, road profiling and duty cycle from real-world measurements
+Module 4: Physics Based Models in ePowertrain
+Simple battery SoC & cell voltage model with data based correction factors, battery packlevel modeling techniques - cell imbalance, charge neutralization, impact of one bad cell, etc., motor efficiency model based on various losses - copper loss, core loss & mechanical loss estimation, vehicle longitudinal dynamics 1 & 2 wheel models, driveline modeling with finite stiffness.
+Module 5: Hybrid Physics & Data Based Models in ePowertrain Integration of battery model - physics based SoC & cell voltage models with data based corrections & compensations, vehicle road load coefficient derivation from coast down test data, various driver behaviour models from test data, integration of full vehicle model - vehicle, driver, motor, battery, road profile, duty cycle, regeneration, accessories, etc.
+Module 6: Setting Up Simulations, Post-processing & Decision-making
+Setting up system simulations - parametrized models for vehicles, load cases and drivers, selecting solvers & setting up solver parameters, live visualizations & data logging, postprocessing results, cascading vehicle-level loads to sub-system & component level, making product decisions based on simulation results.
+EVT014 EV Fleet Planning & Optimization
+3 credits (3-0-0)
+Pre-requisites: Nil
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course students will demonstrate the ability to,
+Understand elements of EV fleets ecosystem and their interlinkages.
+Understand how EV key elements (battery, eDrive & charging) technology & sizing affect technical feasibility.
+Analyze and evaluate various overall fleet requirements planning, and economics.
+Do real time problem solving and building future scenarios for desired EV operations. Mapping with POs:
+Do real time problem solving and building future scenarios for desired EV operations. | EVT014 EV Fleet Planning & Optimization: POs →: COs ↓
+Do real time problem solving and building future scenarios for desired EV operations. | EVT014 EV Fleet Planning & Optimization: POs →: CO1 — PO1: M; PO2: L; PO3: M
+Do real time problem solving and building future scenarios for desired EV operations. | EVT014 EV Fleet Planning & Optimization: POs →: CO2 — PO1: H; PO2: M; PO3: H
+Do real time problem solving and building future scenarios for desired EV operations. | EVT014 EV Fleet Planning & Optimization: POs →: CO3 — PO1: H; PO2: M; PO3: H
+Do real time problem solving and building future scenarios for desired EV operations. | EVT014 EV Fleet Planning & Optimization: POs →: CO4 — PO1: H; PO2: M; PO3: H
+Do real time problem solving and building future scenarios for desired EV operations. | EVT014 EV Fleet Planning & Optimization: POs →: Overall — PO1: H; PO2: M; PO3: H
+Content:
+Module 1: Basics of EV Fleets
+Electric vehicle basics, personal shared mobility fleets, e-commerce delivery fleets, public & private bus fleets, individual subscribed to fleets, data collection on fleet vehicle using tracking systems or mobile phone GPS logging, data analysis for route characterization, data analysis for driver behaviour & operating conditions.
+Module 2: Fleet Modeling
+Introduction to fleet modelling & tools, vehicle energy modeling, route planning, 1-Bus 1Route scheduling, battery technology selection & pack sizing, 1-Route fleet scheduling, charger selection & scheduling, charging & energy infrastructure sizing.
+Module 3: EV Fleet Disruptions
+Vehicle disruptions, route disruptions, power disruptions, technological disruptions, change in regulations & policies, modeling vehicle & route disruptions, modeling power and technological disruptions.
+Module 4: EV Adoption in Existing Fleets
+Electric vs ICE vehicles, vehicle specs from requirements, new EVs vs ICE vehicle conversion, mixed fleet dynamics, modeling mixed fleet operations.
+Module 5: Cost Analysis
+Various fleet revenue models, capital expenses, operating expenses, Total Cost of Ownership (TCO), financing models, introduction to cost analysis tools - revenues, expenses, etc., TCO modeling for various types of fleets and vehicle segments.
+Text/References:
+Schenzen City public transport fleet electrification study report SBG
+EV fleet deployment study reports by pManifold in Pacific islands, Philippines, India,
+Kazakhstan, Ghana, Zimbabwe, Turkey, etc.
+Trans-Jakarta public transport fleet electrification study report by ITDP.
+EVT006 Smart Mobility: ADAS, Autonomous, Connected
+3 credits (3-0-0)
+Pre-requisites: Nil
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course students will demonstrate the ability to
+Identify and analyze effectiveness of various Advanced Driver Assist Systems (ADAS) functions.
+Understanding basics concepts of automation such as AI, DL, ML, etc. as applied to autonomous driving.
+Map various individual ADAS functions to specific requirements of autonomous driving and perform system-level integration.
+Understand the functional risks and legal challenges around autonomous driving and their possible mitigation.
+Mapping with POs:
+Understand the functional risks and legal challenges around autonomous driving and their possible mitigation. | Mapping with POs: POs → COs ↓ | PO1 | PO2 | PO3
+Understand the functional risks and legal challenges around autonomous driving and their possible mitigation. | Mapping with POs: CO1 | M | M | H
+Understand the functional risks and legal challenges around autonomous driving and their possible mitigation. | Mapping with POs: CO2 | M | M | M
+Understand the functional risks and legal challenges around autonomous driving and their possible mitigation. | Mapping with POs: CO3 | H | M | H
+Understand the functional risks and legal challenges around autonomous driving and their possible mitigation. | Mapping with POs: CO4 | H | M | H
+Understand the functional risks and legal challenges around autonomous driving and their possible mitigation. | Mapping with POs: Overall | H | M | H
+Content:
+Module 1: Introduction to Autonomous Driving
+Understanding Driver Functions: Basic automotive driver controls (steering, accelerator, brake, clutch and gearshift, indication systems, etc.), co-ordination of various driver controls, impact of automation of individual functions already achieved in road vehicles (autogearshift, traction control, brake and steering correction, etc.)
+Safety critical aspects of driving - collision prevention, adaptation to abnormal road adhesion, critical indicators to others on the road, manual power off in case of emergencies, etc.
+Module 2: Advanced Driver Assist Systems (ADAS)
+Evolution of ADAS, major ADAS modules - Alerts and Warnings, Crash Mitigation, Driving Task Assistance, Visual and Environmental Monitoring - and their individual functionalities, interactions and synergies between various ADAS functionalities, integration challenges and current ADAS deployments
+Driver preferences and self-tuning functions, impact of self-tuning systems on ADAS integration and functional safety.
+Module 3: Basics of Driver Automation and Mapping ADAS Functions
+Introduction to Artificial Intelligence (AI), Deep Learning (DL) and Machine Learning (ML), Clustering, Reinforcement Learning, Logical Reasoning, PAC Learning, etc. as applied to Autonomous Driving
+Intelligent Decision-Making and Motion Planning
+ADAS Vision System
+3D plans to Visual Odometry
+Environmental modeling: lights, shadows, materials and textures
+Object Detection, Tracking and Trajectory Prediction
+Lane Detection, Prediction, and Path Planning
+Artificial Detection and Ranging Methods (LIDAR, RADAR, GNSS, etc.)
+Multi-agent Systems
+Decision Arbitration Techniques - Cost Functions, safety-related overrides, etc.
+Module 4: Autonomous Vehicles - Policies and Regulations
+ADAS and AV Legal Issues and Liabilities: Human Factors of Automated Driving Systems, Legal Issues Surrounding Cyber Security and Privacy on Automated Vehicle Cooperative Intelligent Transport Systems (C-ITS) Standards, Localized Vehicle Communications (V2X), ADAS standards and regulations, etc.
+Legal framework and experiments: The notion of the 'driver', ""Custodian"", ""Autonomy"" and ""Liability"", Self-driving vehicle insurance, need for uniform regulation.
+Text/References:
+Abdelaziz Bensrhair and Thierry Bapin, 'From AI to Autonomous and Connected Vehicles: Advanced Driver-Assistance Systems (ADAS)', Wiley-ISTE, September 2021
+Amit Kumar Mondal & Lentin Joseph ""Autonomous Driving and Advanced DriverAssistance Systems (ADAS): Applications, Development, Legal Issues, and Testing"", CRC Press; 1st edition (16 December 2021)
+Yan Li & Hualiang Shi, ""Advanced Driver Assistance Systems and Autonomous Vehicles: From Fundamentals to Applications"", Kindle Edition
+EVP001 Project Phase - I: Problem Definition and Approach & Methodology
+6 credits
+Pre-requisites: 26 credits
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+To identify product development decision or operational problem.
+To review literature for best practices.
+To present research report.
+To present approach and methodology to enable the decision or solve the problem. Mapping with POs:
+To present approach and methodology to enable the decision or solve the problem. | EVP001 Project Phase - I: Problem Definition and Approach & Methodology: POs → COs ↓: CO1 — PO1: M; PO2: L; PO3: L
+To present approach and methodology to enable the decision or solve the problem. | EVP001 Project Phase - I: Problem Definition and Approach & Methodology: POs → COs ↓: CO2 — PO1: L; PO2: H; PO3: H
+To present approach and methodology to enable the decision or solve the problem. | EVP001 Project Phase - I: Problem Definition and Approach & Methodology: POs → COs ↓: CO3 — PO1: M; PO2: H; PO3: H
+To present approach and methodology to enable the decision or solve the problem. | EVP001 Project Phase - I: Problem Definition and Approach & Methodology: POs → COs ↓: CO4 — PO1: M; PO2: H; PO3: H
+To present approach and methodology to enable the decision or solve the problem. | EVP001 Project Phase - I: Problem Definition and Approach & Methodology: POs → COs ↓: Overall — PO1: M; PO2: H; PO3: H
+Even Semester
+23
+EVT005 EV Design, Verification & Validation Planning
+3 credits (3-0-0)
+Pre-requisites: Nil
+Overlaps with: Nil
+Course Outcomes/ Objectives:
+At the end of this course students will demonstrate the ability to
+Understand the industry followed processes and practices for vehicle development and validation.
+Understand various types of verification and validation testing including virtual validation techniques.
+Collect and analyze real-world usage data and extract design and validation load cases.
+Design a complete validation & verification plan and align it with vehicle development process.
+Mapping with POs:
+Design a complete validation & verification plan and align it with vehicle development process. | Mapping with POs: POs → COs ↓: CO1 — PO1: H; PO2: L; PO3: H
+Design a complete validation & verification plan and align it with vehicle development process. | Mapping with POs: POs → COs ↓: CO2 — PO1: M; PO2: M; PO3: H
+Design a complete validation & verification plan and align it with vehicle development process. | Mapping with POs: POs → COs ↓: CO3 — PO1: H; PO2: M; PO3: H
+Design a complete validation & verification plan and align it with vehicle development process. | Mapping with POs: POs → COs ↓: CO4 — PO1: H; PO2: M; PO3: H
+Design a complete validation & verification plan and align it with vehicle development process. | Mapping with POs: POs → COs ↓: Overall — PO1: H; PO2: M; PO3: H
+Content:
+Module 1: Introduction to Vehicle Development Process
+Vehicle development process, ePowertrain development process, APQP (Advanced Product Quality Planning), PPAP (Production Part Approval Process), Program Management, Product Development Processes, etc.
+Introduction to DVVP & vehicle validation planning and Failure Mode Effect Analysis (FMEA)
+Module 2: Types of Verification and Validation
+Vehicle Level: Functional integration tests, regulatory compliance tests, on-road durability tests, hot & cold climate tests, endurance tests, reliability tests, etc.
+Sub-system Level: Functional integration tests, regulatory compliance tests, bench durability tests, endurance tests, reliability tests, etc.
+Component Level: Materiel tests, rig durability tests, endurance tests, reliability tests, etc.
+Controllers: Compliance, Hardware tests - HiL (Hardware-in-Loop), sensors and actuators reliability & robustness, Software tests - SiL (Software-in-Loop) & MiL (Model-in-Loop), Unit functionality testing, FTA & System FMEA, etc.

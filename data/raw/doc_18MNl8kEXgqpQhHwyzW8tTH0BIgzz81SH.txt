@@ -1,0 +1,23 @@
+SOURCE_URL: https://drive.google.com/file/d/18MNl8kEXgqpQhHwyzW8tTH0BIgzz81SH/view
+TITLE: Process for patent filing through patent attorneys empaneled by the Institute
+FETCHED: 2026-08-17
+FOUND_ON: https://vnit.ac.in/section/rnc/ipr-innovation
+---
+Document: Process for patent filing through patent attorneys empaneled by the Institute (dated 2026-08-17)
+Process for patent filing through patent attorneys empanelled by the Institute
+Inventors (VNIT faculty/students) initiate patentability search for their invention contacting institute's empanelled patent attorneys. The list and their details of empanelled patent attorneys are available on the Dean R&C page (section - IPR and Innovation): https://vnit.ac.in/section/mnc/ipr-innovation/
+After receiving the positive patentability search report from the empanelled attorney, inventors are required to fill up the Invention Disclosure Form (IDF) available on the Dean R&C Page. (This form is to be filled only once for the given invention by a VNIT staff/student). The filled up IDF is attached with the patentability search report and submit it along with a covering letter (through HoD) to the Dean R&C office.
+Newly submitted applications are considered in IP Cell meetings held regularly. Approval for patent filing is provided by the IP Cell with the permission of the competent authority, and an internal institute level patent application/tracking id is assigned to the patent application. This patent application/tracking number is to be used for all further internal communication. The MoM with the details/remarks is shared on emailwith inventors whose applications were considered.
+The patentability search charges by the empanelled attorney are paid by the inventor faculty directly throughCPDA.
+Patent attorney drafts patent claims and submits the complete patent application in the name of the institute. This also involves a step for giving power of attorney to the patent lawyer thr , r o thes patent application and early publication", the charges for the same are to be paid by the inventor faculty through CPDA.
+After patent is filed Patent attorney firm will raise an invoice for patenting in the name of "Director VNIT Nagpur" and it will be shared with the inventor faculty by the patenting attorney.
+Inventor faculty authenticates the invoice and fills up a specialised patent related Financial Approval (FA) form available on Dean R&C link shared above, and shares these with Dean R&C office along with a covering letter through HoD. Along with, the details for the patent filed (patent application id received from Patents office, date of patent filing, whether published or not, date of publication) need to be mentioned in the cover letter and corresponding documentary proof attached for reference.
+Dean R&C office notes down the details of the patent filed to update the patents database. The bills are entered into a register kept at Dean R&C office, and then are forwarded to Accounts section for third party payments through the ledger titled "Patents" under OH-35.
+Inventor and Empanelment Patent Firm should inform Dean R&C office regarding any update in the patent's status like patent publication, patent granted and corresponding details (id, date etc).
+Same processis to be used for other IPR filings (design, trademark, copyright etc) as well.
+Dr. R. B. Keskar
+Associate Dean (IPRand Innovation)
+To,
+The Director, for approval6.04.202 6
+20l lek
+Prof. Y. B. Katpatal Dean (R&C)

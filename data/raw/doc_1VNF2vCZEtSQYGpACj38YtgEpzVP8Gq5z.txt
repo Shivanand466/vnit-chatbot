@@ -1,0 +1,70 @@
+SOURCE_URL: https://drive.google.com/file/d/1VNF2vCZEtSQYGpACj38YtgEpzVP8Gq5z/view
+TITLE: Student Advisory on Smart India Hackathon 2026
+FETCHED: 2026-08-21
+FOUND_ON: https://vnit.ac.in/index.php/category/news
+---
+Document: Student Advisory on Smart India Hackathon 2026 (dated 2026-08-21)
+विश्वेश्वरय्या राष्ट्रीय प्रौद्योगिकी संस्थान , नागपुर & 440 010 ( भारत )
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR - 440 010 (INDIA)
+संगणक विज्ञान एवं अभियांत्रिकी विभाग , नागपुर
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, NAGPUR
+PABX: (0712) 2801322, 2801272, 2801296
+Fax: (0712) 2223969(D), 2223230 (Gen.)
+Gram : VISRENCOL Web-site : www.vnit.ac.in
+Smart India Hackathon (SIH) 2026
+Student Advisory for Internal Hackathon Date: 21 Aug 2026
+The Smart India Hackathon (SIH) 2026 provides an excellent opportunity for students to solve real-world problems proposed by various Ministries, Government Departments, Industries, and Organizations. Students interested in participating are advised to start preparing immediately.
+What Should You Do?
+Visit the Official SIH 2026 Website
+Carefully study the published Problem Statements .
+Select problem statements that match your interests, skills, and domain knowledge.
+Understand the background, objectives, expected outcomes, and constraints of the chosen problem statement(s).
+2. Form Your Team
+Teams must consist of six (6) students .
+At least one member must be a female student.
+All team members must belong to VNIT.
+Students from different branches are encouraged to form multidisciplinary teams , as diverse expertise often leads to better solutions.
+Teams may consist of UG, PG, and Research Scholars (pursuing PhD) across any branch, any Class/Year.
+3. Begin Your Preparation
+Study the domain related to your chosen problem statement.*
+Review existing solutions and identify gaps.
+Brainstorm innovative, practical, scalable, and implementable ideas.
+Prepare an initial concept note, architecture, and implementation strategy.
+Build a Proof-of-Concept (PoC), if possible, before the internal hackathon.
+Focus on Innovation
+Your solution should aim to be:
+Innovative
+Technically feasible
+Scalable
+Sustainable
+User-centric
+Capable of creating measurable social or industrial impact
+The Problem Statements are displayed on the SIH2026 website:
+https://sih.gov.in/
+विश्वेश्वरय्या राष्ट्रीय प्रौद्योगिकी संस्थान , नागपुर & 440 010 ( भारत )
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR - 440 010 (INDIA)
+संगणक विज्ञान एवं अभियांत्रिकी विभाग , नागपुर DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, NAGPUR
+PABX: (0712) 2801322, 2801272, 2801296
+Fax: (0712) 2223969(D), 2223230 (Gen.)
+Gram : VISRENCOL Web-site : www.vnit.ac.in
+Internal Hackathon - VNIT Nagpur
+The institute will conduct the SIH 2026 Internal Hackathon during September 2026 . The exact date and schedule will be announced next week.
+Participation in the Internal Hackathon is mandatory for teams seeking nomination to represent the institute in Smart India Hackathon 2026 . The institute will evaluate all participating teams, and only the best-performing teams will be nominated for SIH 2026, as per the guidelines.
+Important SIH 2026 Guidelines
+Teams must consist of 6 members .
+Every team must include at least one female member .
+All team members should be from VNIT.
+Multidisciplinary teams are encouraged.
+Teams may choose problem statements from any theme available on the official SIH 2026 portal.
+Maximum student participation is encouraged to foster healthy competition.
+Start Early!
+The best SIH teams usually spend several weeks refining their ideas before the internal hackathon.
+Students are therefore advised to begin:
+exploring problem statements,
+forming teams,
+studying the domain,
+identifying mentors,
+and developing innovative solutions well before the Internal Hackathon .
+We look forward to enthusiastic participation from all departments and wish every team success in
+Best Regards
+Anil Mokhade Single Point of Contact for VNIT Smart India Hackathon 2026 . Department of Computer Science & Engineering VNIT Nagpur

@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/engineering/electrical/
 TITLE: Electrical Engineering  VNIT Nagpur MH
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Specialization
 Power and Energy Systems (PES)
@@ -18,17 +18,12 @@ Student Chapter
 The Electrical Engineering Department at VNIT offers a comprehensive M.Tech program, which spans two years and includes core courses, electives, and a research project in the last year under faculty supervision. The department specializes in Integrated Power System (IPS) and Power Electronics and Drives (PED), aiming to provide in-depth knowledge and practical experience in these fields.
 Department
 Stats
-PG Specialisations
-0
-Faculty
-0
-Students
-0
-Publications (This Year)
-0
+PG Specialisations 0
+Faculty 0
+Students 0
+Publications (This Year) 0
 +
-Patents (This Year)
-0
+Patents (This Year) 0
 +
 Department
 Digital Profile

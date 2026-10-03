@@ -1,0 +1,28 @@
+SOURCE_URL: https://drive.google.com/file/d/1Z1yEHhdjSTimU1XfW1oVkTxLEDubhCSV/view
+TITLE: Standard Operating Procedure for AIMS Login & Course Registration Winter 2026
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Standard Operating Procedure for AIMS Login & Course Registration Winter 2026 (dated 2026-08-05)
+Procedure of Online Course Registration For Students admitting in First Semester of M Tech, M Sc & MBA (ACM) Program
+Course Registration and AIMS Login instructions for M Tech, M Sc & MBA (ACM) Admitted students.
+All student admitted to VNIT, Nagpur for M Tech, M Sc & MBA (ACM) need to follow following procedure for Self-registering (online) for the courses offered by their Respective Department.
+All M Tech, M Sc & MBA (ACM) students admitted in First Semester of their PG Program take note of the following:
+Names of FacultyAdvisor (programme wise) for the students admitted for M Tech, M Sc & MBA (ACM) are displayed along with this note.
+Student can locate their Enrolment Number & ID Number in the Provisional Reporting Letter received at the time of Physical Reporting.
+They need to complete their Course registration by logging into AlMs (Academic Information Management System), procedure for the same is mentioned below:
+Go to Link https://vnitaims.vnit.ac.in/mproaims/#/
+Login with yourID Number as User Name
+Student can use the Passwordreceived on their Email at the time ID Generation.
+If student do not have password for logging in, then student need to press Forget Password (to generate reset password link for the first time), this will initiate an email link for generating New Password for AlMS Login. Link for the same will be sent to the Email id mentioned at the time of Admission. Student are instructed to follow the procedure given in the mail to Reset / Set the password (see the information given carefully and follow).
+Now login with your ID Number and New Password you had reset, at the login screen make sure Session Selected as2026-27/W26.
+After logging in, Click "Registration Management", under this Go to Transaction >> Student Course Registration, you will see List of Courses to be registered for the Session (Winter 2026 i.e. [W26]).
+Student are instructed to search for the course he / she want to register. Select the courses students wants to register by clicking the check boxes that is available in front of the Course CODE. Candidates make sure that they are selecting only those courses which are suggested by their Faculty Advisor for the Session Winter 2026.
+After selecting the desired courses, please click on "Apply for Registration", student will get a message as "Student Course Registration Updated successfully".
+After this step, Student need to approach their Faculty Advisor (FA)for approval of their Course Registration. Student must keep in mind that, without approval of course Registration from Faculty Advisor their name will not appear in the Roll List of the courses they have registered / enrol themselves. Contact details of FA are available along with this note in the Faculty Advisor List.
+After approval, again login to AlMS >> Click "Registration Management", under this Go to Reports >> Registration Form Print (Make Sure Session Selected at the top of the page is 2026-27 / W26], you will see List of Courses registered for current Session (Winter 2026 i.e. [W26]). You can see / save this report or can take print for your reference.
+If "Registration Form Print" is generated with a Watermark "Pending for Approval", then your course registration approval from Faculty Advisor must be pending, please approach your Faculty Advisor for Approval.
+After successful generation of Registration Form Print, you can save this PDF or you can take print for your reference.
+If you face any problems / discrepancies in above process / registered courses please contact by Email:
+For Enrolment No / Faculty Advisor : dr_acd@vnit.ac.in / supdtacad@vnit.ac.in For Course Registration /Approval : asst_registrar@vnit.ac.in /supdtexam@vnit.ac.in In both above cases through your FacultyAdvisor only.
+Important Note: Please do not use your Mobile Device(s)for above-mentioned Course Registration process, please use Personal Computer/ Laptop for Course Registration.

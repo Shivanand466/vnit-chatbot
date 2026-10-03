@@ -1,0 +1,124 @@
+SOURCE_URL: https://drive.google.com/file/d/1ienXcluW2xoM7UmYoresBTsV3JKzVYj9/view
+TITLE: Civil Engineering – All PG Programs
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Civil Engineering – All PG Programs (dated 2026-08-05)
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for2026-27 (Winter 2026)
+M. Tech in (Construction Technology & Management)
+M. Tech in (Construction Technology & Management): Code: CEL406 — Course Title / Name: ADVANCED CONCRETE TECHNOLOGY; Type: DC; Credit: ε; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech in (Construction Technology & Management): Code: CEP406 — Course Title / Name: ADVANCED CONCRETE TECHNOLOGY; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech in (Construction Technology & Management): Code: GEL409 — Course Title / Name: QUALITY AND SAFETY IN CONSTRUCTION; Type: DG; Credit: 3; Offered (YES / NO): Not offered
+M. Tech in (Construction Technology & Management): Code: CEL519 — Course Title / Name: CONSTRUCTION PLANNING AND CONTROL; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+M. Tech in (Construction Technology & Management): Code: CEL552 — Course Title / Name: CONSTRUCTION CONTRACTS & SPECIFICATION; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+M. Tech in (Construction Technology & Management): Course Title / Name: Elective Courses (Any Three)
+M. Tech in (Construction Technology & Management): Code: CEL559 — Course Title / Name: ENERGY EFFICIENT BUILDINGS; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+M. Tech in (Construction Technology & Management): Code: GEL413 — Course Title / Name: PRE-STRESSED CONCRETE STRUCTURES; Type: DB; Credit: ε; Offered (YES / NO): Notoffered
+M. Tech in (Construction Technology & Management): Code: CEL442 — Course Title / Name: GEOTECHNICAL-INVESTIGATION OF CONSTRUCTION PROJECT; Type: DE; Credit: 3; Offered (YES / NO): Not-offered
+M. Tech in (Construction Technology & Management): Code: GEL558 — Course Title / Name: BUILDING-SERVIGE; Type: DB; Credit: 3; Offered (YES / NO): Notoffered
+M. Tech in (Construction Technology & Management): Code: CEL561 — Course Title / Name: RISK ANALYSIS AND DECISION MAKING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered
+M. Tech in (Construction Technology & Management): Code: CEL418 — Course Title / Name: ENERGY CONVERSION AND ENVIRONMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+M. Tech in (Construction Technology & Management): Code: CEL408 — Course Title / Name: CONSTRUCTION SITE ADMINISTRATION AND CONTROL; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+M. Tech in (Construction Technology & Management): Code: CEL425 — Course Title / Name: FINANCIAL AND BUSINESS MANAGEMENT; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered
+M. Tech in (Construction Technology & Management): Course Title / Name: Total Credits (DC + DE) — Credit: 19
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Environmental Engineering)
+Code: CEL501 — Course Title / Name: ENVIRONMENTAL CHEMISTRY AND MICROBIOLOGY; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+Code: CEL502 — Course Title / Name: MUNICIPAL & INDUSTRIAL WATER TREATMENT; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+Code: CEL503 — Course Title / Name: MUNICIPAL WASTEWATER TREATMENT; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered
+Code: CEL504 — Course Title / Name: WATER SUPPLY AND WASTEWATER COLLECTION; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+Code: CEL506 — Course Title / Name: AIR POLLUTION CONTROL; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+Code: CEP501 — Course Title / Name: ENVIRONMENTAL MONITORING LAB.-I; Type: DC; Credit: 2; Exam Slot: G; Offered (YES / NO): Offered
+Course Title / Name: Elective Courses (any one)
+Code: CEL508 — Course Title / Name: ENVIRONMENTAL GEOTECHNIQUES; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+Code: CEL513 — Course Title / Name: ENVIRONMENTAL SYSTEMS MODELLING; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+Code: CEL559 — Course Title / Name: ENERGY EFFIGIENT BUILDINGS; Type: DE; Credit: 3; Offered (YES / NO): Not-offered
+Code: CEL531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+Code: CEP531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered
+Code: CEL418 — Course Title / Name: ENERGY CONVERSION AND ENVIRONMENT; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+Code: CEL432 — Course Title / Name: ENVIRONMENTALIMPAGT-ASSESSMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+Code: CEL561 — Course Title / Name: RISK ANALYSIS AND DECISION MAKING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered
+Code: CEL568 — Course Title / Name: APPLICATION OF SOFT COMPUTING TECHNIQUES; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+Course Title / Name: Total Credits (DC + DE) — Credit: 20-21
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical Engineering)
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL520 — Course Title / Name: ADVANCED SOIL MECHANICS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL423 — Course Title / Name: INTRODUCTION TO SOIL DYNAMICS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CBL442 — Course Title / Name: GEOTECHNICAL INVESTIGATION OF CONSTRUCTION PROJECT; Type: DG; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL522 — Course Title / Name: GEOMECHANICS; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEP504 — Course Title / Name: GEOTECHNICAL ENGINEERING LABORATORY WORK; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL508 — Course Title / Name: ENVIRONMENTAL GEOTECHNIQUES; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL575 — Course Title / Name: GROUND IMPROVEMENT TECHNIQUE; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: Elective Courses (Any One) — Course Title / Name: Elective Courses (Any One); Type: Elective Courses (Any One); Credit: Elective Courses (Any One); Exam Slot: Elective Courses (Any One); Offered (YES / NO): Elective Courses (Any One); Max No. of Students: Elective Courses (Any One)
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL526 — Course Title / Name: GROUND WATER HYDROLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL417 — Course Title / Name: DISASTER MANAGEMENT; Type: DE; Credit: €; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: MAL401 — Course Title / Name: FINITE DIFFERENCE METHODS FOR DIFFERENTIAL EQUATIONS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL409 — Course Title / Name: QUALITY AND SAFETY IN GONSTRUCTION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL571 — Course Title / Name: HIGHWAY SOIL MECHANICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL436 — Course Title / Name: COMPUTER AIDED DESIGN AND ANALYSIS; Type: DE; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: GEP436 — Course Title / Name: COMPUTER AIDED DESIGN AND ANALYSIS; Type: DE; Credit: 1; Offered (YES / NO): Nored
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEP531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: CEL525 — Course Title / Name: EARTHEN DAMS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Geotechnical: Code: Total Credits (DC + DE) — Course Title / Name: Total Credits (DC + DE); Type: Total Credits (DC + DE); Credit: 20-21; Exam Slot: 20-21; Offered (YES / NO): 20-21
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for2026-27 (Winter 2026) M.Tech in (Transportation Engineering)
+Code: CEL570 — Course Title / Name: ADVANCED TRAFFIC ENGINEERING; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+Code: CEL572 — Course Title / Name: URBAN TRANSPORT PLANNING; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+Code: CEL585 — Course Title / Name: PAVEMENT ANALYSIS & DESIGN; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+Code: CEP585 — Course Title / Name: PAVEMENT ANALYSIS & DESIGN; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered
+Code: CEL536 — Course Title / Name: TRAFFIC CONTROL AND MANAGEMENT; Type: DC; Credit: 3; Exam Slot: 0; Offered (YES / NO): Offered
+Code: CEP570 — Course Title / Name: ADVANCED TRAFFIC ENGINEERING; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered
+Code: CEP572 — Course Title / Name: URBAN TRANSPORT PLANNING; Type: DC; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered
+Code: CEP536 — Course Title / Name: TRAFFIC CONTROL AND MANAGEMENT; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered
+Course Title / Name: Elective Courses (Any One) — Type: 0; Credit: 0
+Code: ARP501 — Course Title / Name: PLANNING STUDIO-1; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+Code: CEL531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+Code: CEP531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DE; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered
+Code: CBL534 — Course Title / Name: TRANSPORTATION ANALYSIS AND MODELING; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+Code: CEL535 — Course Title / Name: TRANSPORTATION SYSTEM ANALYSIS; Type: DE; Credit: ε; Offered (YES / NO): Not-offered
+Code: CBL537 — Course Title / Name: HIGHWAY PLANNING AND DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not-offered
+Code: CEL533 — Course Title / Name: PAVEMENT MATERIALS; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+Code: GEL589 — Course Title / Name: TRANSPORTATION ECONOMICS AND EVALUATION; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+Code: CEL592 — Course Title / Name: TRANSPORTATION NETWORKANALYSIS; Type: DE; Credit: 3; Offered (YES / NO): Not-offered
+Code: GEL564 — Course Title / Name: PLANNING AND DESIGNING OF LOW VOLUME ROADS; Type: DE; Credit: €; Offered (YES / NO): Not offered
+Code: GBL566 — Course Title / Name: TRANSPORT POLICY AND FINANCE; Type: DE; Offered (YES / NO): Notoffered
+Code: GEL567 — Course Title / Name: LAND-USE-AND REGIONALTRANSPORT PLANNING; Type: DE; Credit: €; Offered (YES / NO): Notoffered
+Code: GEL548 — Course Title / Name: TRANSPORTATION LOGISTIGS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+Code: MAL407 — Course Title / Name: STATISTICS AND OPTIMIZATION TEGHNIQUES; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+Code: MAL408 — Course Title / Name: STATISTICAL ANALYSIS & QUEING THEORY; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+Code: MAL534 — Course Title / Name: PROBABILITY AND STATISTICS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+Code: MAL502 — Course Title / Name: DEMOGRAPHY AND STATISTICS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+Code: CEL561 — Course Title / Name: RISK ANALYSIS AND DECISION MAKING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for2026-27 (Winter 2026)
+List of courses to be offered for2026-27 (Winter 2026): CEL552 | CONSTRUCTION CONTRACTS & SPECIFICATION | DE | 3 | D | Offered
+List of courses to be offered for2026-27 (Winter 2026): CEL409 | QUALITY AND SAFETYIN GONSTRUCTION | DE | 3 | Not offered
+List of courses to be offered for2026-27 (Winter 2026): CEL571 | HIGHWAY SOIL MECHANIGS | DE | 3 | Notoffered
+List of courses to be offered for2026-27 (Winter 2026): CEL442 | GEOTEGHNICAL INVESTIGATION OFCONSTRUCTION PROJEGT | DE | 3 | Not-offered
+List of courses to be offered for2026-27 (Winter 2026): CEL436 | COMPUTERAIDED-DESIGN AND ANALYSIS | DE | 3 | Not offered
+List of courses to be offered for2026-27 (Winter 2026): CEP436 | COMPUTER AIDED DESIGN AND ANALYSIS | DE | Notoffered
+List of courses to be offered for2026-27 (Winter 2026): Total No of Credits | 19-20-21 | 19-20-21
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Water Resource Engineering)
+Code: MAL401 — Course Title / Name: FINITE DIFFERENCE METHODS FOR DIFFERENTIAL EQUATIONS; Type: DC; Credit: 3; Offered (YES / NO): Offered
+Code: CEL526 — Course Title / Name: GROUND WATER HYDROLOGY; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+Code: CEL531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+Code: CEP531 — Course Title / Name: SPATIAL ANALYSIS FOR RESOURCES MANAGEMENT; Type: DC; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered
+Code: CEP503 — Course Title / Name: WATER RESOURCES ENGINEERING; Type: DC; Credit: 2; Exam Slot: D; Offered (YES / NO): Offered
+Code: CEL527 — Course Title / Name: FREE SURFACE FLOWS; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+Code: Electíve Courses (Any Two) — Course Title / Name: Electíve Courses (Any Two)
+Code: GEL406 — Course Title / Name: ADVANGED CONGRETE TECHNOLOGY; Type: D; Offered (YES / NO): Notoffered
+Code: GEP406 — Course Title / Name: ADVANCED GONCRETE TECHNOLOGY; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+Code: CEL515 — Course Title / Name: ADVANCED FLUID MECHANICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+Code: GEL419 — Course Title / Name: RIVER ENGINEERING; Type: DE; Credit: ε; Offered (YES / NO): Not offered
+Code: CEL517 — Course Title / Name: HYDRAULIC STRUCTURE-II; Type: DE; Credit: ε; Offered (YES / NO): Not offered
+Code: CEL418 — Course Title / Name: ENERGY CONVERSION AND ENVIRONMENT; Type: DB; Offered (YES / NO): Not offered
+Code: GEL541 — Course Title / Name: WATER DISTRIBUTION SYSTEMS DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+Code: CEL561 — Course Title / Name: RISK ANALYSIS AND DECISION MAKING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered
+Code: CEL431 — Course Title / Name: WATER QUALITY MODELING; Type: DB; Offered (YES / NO): Not offered
+Code: CEL596 — Course Title / Name: DESIGN OF HYDRAULIC STRUCTURE; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+Code: CEL525 — Course Title / Name: EARTHEN DAMS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+Code: Total Credits (DC + DE) — Course Title / Name: Total Credits (DC + DE); Type: 0; Credit: 21-22

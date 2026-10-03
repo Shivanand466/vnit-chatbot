@@ -1,0 +1,26 @@
+SOURCE_URL: https://drive.google.com/file/d/1HW4oxGuaH2r89NxJ6lKcgSfPzn17pp2E/view
+TITLE: Notice & Procedure
+FETCHED: 2024-08-30
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Notice & Procedure (dated 2024-08-30)
+Notice
+Subject: Submission of ABC (APAAR) Account / ID details
+After implementation of NEP, it is mandatory for all the UG / PG students to have an ABC account. Hence all the students are required to open an ABD account and get ABC ID (also known as APAAR ID) on or before 5th September 2024 and submit the details via google form (https://forms.gle/F96kDnBRWhpcvY2FA). Details regarding how to create ABC account are enclosed with this notice.
+Please note that creation of ABC/APAAR ID is compulsory for all the students
+'o1 Students Notice Board / Website Copy for kind information to (by email) AllHoDs The Dean (Acad.)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Exam/W-24/1017 August 28, 2024
+The process of ABC/APAAR ID registration online is as follows:
+Visit the Academic Bank of Credits (ABC Bank) website. (i.e. https://www.abc.gov.in/)
+Click on 'My Account' and select the 'Student' option.
+Click 'Sign up' and enter the mobile, address and Aadhaar card details to create a DigiLocker account.
+Log in to the DigiLocker account using the credentials.
+DigiLocker will ask for your consent to share the Aadhaar card details with ABC for KYC verification. Select 'I agree'.
+Enter the academic details:
+ID type: select Enrolment Number from drop down list
+Enrolment Value: enter your VNIT enrolment number ●
+I am a student at: select Visvesvaraya National Institute of Technology, Nagpur ● from drop down list
+Year of admission: select your year of admission at VNIT ●
+Submit the form, and the APAAR ID card will be generated.
+*****

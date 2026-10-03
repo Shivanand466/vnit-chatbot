@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/registrar
 TITLE: Registrar
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 REGISTRAR: CMA S. S. JAGDALE.
 CMA Shri S.S. Jagdale joined VNIT Nagpur as Dy Registrar in Aug-2016 and worked as Section Head of Accounts Section. He was granted up-gradation as Joint Registrar w.e.f. 04th October 2021. He is B.E. (Mechanical Engg.), M.B.A. (Financial Management) and a qualified Cost and Management Accountant (CMA). He is a fellow member of the Institute of Cost Accountants of India.
@@ -12,7 +12,5 @@ He is the custodian of record and common seal of the Institute and such other pr
 He deals with legal matters pertaining to administration.
 He is the Chief Administrative Officer of the Institute.
 Contact Details :
-OFFICE
-0712-2801364
-E-MAIL ID
-registrar@vnit.ac.in
+OFFICE 0712-2801364
+E-MAIL ID registrar@vnit.ac.in

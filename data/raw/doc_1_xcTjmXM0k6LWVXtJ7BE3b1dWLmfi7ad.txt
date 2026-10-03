@@ -1,0 +1,116 @@
+SOURCE_URL: https://drive.google.com/file/d/1_xcTjmXM0k6LWVXtJ7BE3b1dWLmfi7ad/view
+TITLE: Electronics & Communication Engineering
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Electronics & Communication Engineering (dated 2026-05-22)
+III Semester
+III Semester: Code: ECLA301 — Course Title / Name: LINEAR ALGEBRA FOR MACHINE LEARNING APPLICATIONS; Type: DC; Credit: 3; Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: ECLA201 — Course Title / Name: DIGITAL CIRCUITS AND HARDWARE DESIGN; Type: DC; Credit: 5; Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: ECLA202 — Course Title / Name: SIGNALS AND SYSTEMS ANALYSIS; Type: DC; Credit: 4; Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: ECLA302 — Course Title / Name: ELECTROMAGNETIC FIELDS; Type: DC; Credit: 4; Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: ECLA303 — Course Title / Name: ANALOG CIRCUIT DESIGN; Type: DC; Credit: 4; Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Code: ECLA203 — Course Title / Name: MEASUREMENTS AND INSTRUMENTATION Program Elective; Type: DC; Credit: 4; Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Course Title / Name: IE — Type: IE; Credit: 3; Offered (YES / NO): Offered; Max No. of Students: -
+III Semester: Course Title / Name: Total Credits (DC/IE/DE/OC/HM) — Credit: 24-27
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+B. Tech. in Electronics and Communication Engineering
+V Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL312 — Course Title / Name: CONTROL ENGINEERING; Type: DC; Credit: 3; Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECP312 — Course Title / Name: CONTROL ENGINEERING; Type: DC; Credit: 1; Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL303 — Course Title / Name: DIGITAL COMMUNICATION; Type: DC; Credit: 4; Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECP303 — Course Title / Name: DIGITAL COMMUNICATION; Type: DC; Credit: 1; Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL404 — Course Title / Name: RF & MICROWAVE ENGINEERING; Type: DC; Credit: 3; Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECP404 — Course Title / Name: RF & MICROWAVE ENGG.; Type: DC; Credit: 1; Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL317 — Course Title / Name: INTEGRATED CIRCUIT DESIGN; Type: DC; Credit: 3; Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECP317 — Course Title / Name: INTEGRATED CIRCUIT DESIGN; Type: DC; Credit: 1; Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL405 — Course Title / Name: WAVE GUIDES AND ANTENNAS; Type: DC; Credit: 3; Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Elective Courses (Any Two) — Type: 0; Credit: 0
+List of courses to be offered for 2026-27 (Winter 2026): Code: CSL311 — Course Title / Name: COMPUTER ARCHITECTURE & ORGANIZATION; Type: DE; Credit: 3; Slot: A; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL411 — Course Title / Name: DIGITAL IMAGE PROCESSING; Type: DE; Credit: 4; Slot: C; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL412 — Course Title / Name: ADVANCED DIGITAL SIGNAL PROCESSING; Type: DE; Credit: 4; Slot: C; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL408 — Course Title / Name: BIO MEDICAL ENGG.; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL311 — Course Title / Name: AUTOMOTIVE ELECTRONICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL414 — Course Title / Name: ELECTRONIC PRODUCT DESIGN AND RELIABILITY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL307 — Course Title / Name: STATISTICAL SIGNAL PROCESSING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: OC / HM — Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE) — Credit: 26 TO 28
+VII Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECD401 — Course Title / Name: PROJECT PHASE I; Type: DC; Credit: 3; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Elective Courses (Maximum SIX theory and THREE labs)
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL429 — Course Title / Name: COMMUNICATION NETWORKS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECP429 — Course Title / Name: COMMUNICATION NETWORKS; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL407 — Course Title / Name: RADAR ENGINEERING; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL410 — Course Title / Name: SATELLITE COMMUNICATION; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL430 — Course Title / Name: BIOMEDICAL SIGNAL PROCESSING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL436 — Course Title / Name: OPTIMAL SYSTEMS; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL437 — Course Title / Name: FUNDAMENTALS OF INFORMATION THEORY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL421 — Course Title / Name: ADVANCED SENSORS AND INSTRUMENTATION; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL438 — Course Title / Name: PROJECT DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL439 — Course Title / Name: WIRELESS COMMUNICATION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL426 — Course Title / Name: ADVANCED MICROPROCESSOR AND INTERFACING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECP426 — Course Title / Name: ADVANCED MICROPROCESSORS & INTERFACING; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECP423 — Course Title / Name: IMAGE ANALYSIS & COMPUTER VISION; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL423 — Course Title / Name: IMAGE ANALYSIS & COMPUTER VISION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECP413 — Course Title / Name: ADAPTIVE SIGNAL PROCESSING; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL443 — Course Title / Name: MACHINE LEARNING WITH PYTHON; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL314 — Course Title / Name: POWER ELECTRONIC DEVICES AND CIRCUITS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CSL311 — Course Title / Name: COMPUTER ARCHITECTURE & ORGANIZATION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL411 — Course Title / Name: DIGITAL IMAGE PROCESSING; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL412 — Course Title / Name: ADVANCED DIGITAL SIGNAL PROCESSING; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL419 — Course Title / Name: WIRELESS SENSOR NETWORKS; Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL440 — Course Title / Name: CELLULAR SYSTEMS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL427 — Course Title / Name: BROADBAND COMMUNICATION; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL446 — Course Title / Name: QUANTUM COMPUTING AND QUANTUM COMMUNICATION; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026): Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL447 IDL402 — Course Title / Name: EMBEDDED SYSTEMS FOR IOT DEEP LEARNING; Type: DE DE; Credit: 4 3; Exam Slot: G B; Offered (YES / NO): Offered Offered; Max No. of Students: 55 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECD405 — Course Title / Name: INDUSTRY INTERNSHIP VII SEM.; Type: DE; Credit: 6; Exam Slot: I; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: ECL454 — Course Title / Name: MULTIVARIATE STATISTICAL ANALYSIS; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Code: IDL401 — Course Title / Name: MACHINE LEARNING; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: 55
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: OC / HM — Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE) — Credit: 23
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech. in Communication Systems
+I Semester
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL525 — Course Title / Name: SIGNAL PROCESSING FOR COMMUNICATION SYSTEM; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL524 — Course Title / Name: STATISTICAL SIGNAL ANALYSIS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL521 — Course Title / Name: INFORMATION THEORY AND CODING; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL523 — Course Title / Name: WIRELESS CHANNELS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL 520 — Course Title / Name: COMPUTATIONAL ELECTROMAGNETISM; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECP518 — Course Title / Name: COMMUNICATION SYSTEM -I; Type: DC; Credit: 1; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECP525 — Course Title / Name: SIGNAL PROCESSING FOR COMMUNICATION SYSTEM; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Course Title / Name: Elective Courses
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL402 — Course Title / Name: COMMUNICATION NETWORKS & NETWORK APPLICATIONS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECP402 — Course Title / Name: COMMUNICATION NETWORKS & NETWORK APPLICATION; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL416 — Course Title / Name: FUZZY LOGIC AND NURAL NETWORKS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL418 — Course Title / Name: NETWORK PLANNING AND MANAGEMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL513 — Course Title / Name: SYNCHRONIZATION AND TRACKING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL428 — Course Title / Name: INDUSTRIAL COMMUNICATION SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECP440 — Course Title / Name: CYBER LAW AND TELECOM REGULATION WORKSHOP; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECP441 — Course Title / Name: NETWORK STANDARDS WORKSHOP; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECP442 — Course Title / Name: SOFTWARE ENGINEERING WORKSHOP; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL526 — Course Title / Name: COMPUTER VISION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECP526 — Course Title / Name: COMPUTER VISION; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ECL530 — Course Title / Name: CONTEMPORARY EMBEDDED SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): ECL531 — WAVELETS AND MULTI-MEDIA APPLICATIONS: MACHINE LEARNING AND LEARNING MACHINES; DE; 3; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): MAL503 — WAVELETS AND MULTI-MEDIA APPLICATIONS: STATISTICAL METHODS FOR URBAN PLANNING; DE; 3; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): MAL504 — WAVELETS AND MULTI-MEDIA APPLICATIONS: APPLIED LINEAR ALGEBRA; DE; 3; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): ECL430 — WAVELETS AND MULTI-MEDIA APPLICATIONS: BIOMEDICAL SIGNAL PROCESSING; DE; 3; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): ECL410 — WAVELETS AND MULTI-MEDIA APPLICATIONS: SATELLITE COMMUNICATION; DE; 3; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): ECL534 — WAVELETS AND MULTI-MEDIA APPLICATIONS: PHOTONIC INTEGRATED CIRCUITS AND COMMUNICATION SYSTEMS; DE; 3; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): ECP534 — WAVELETS AND MULTI-MEDIA APPLICATIONS: PHOTONIC INTEGRATED CIRCUITS AND COMMUNICATION SYSTEMS; DE; 3: 1; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): ECP514 — WAVELETS AND MULTI-MEDIA APPLICATIONS: ELECTROMAGNETIC INTERFERENCE AND COMPATIBILITY; DE; 3: 1; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): ECP430 — WAVELETS AND MULTI-MEDIA APPLICATIONS: BIOMEDICAL SIGNAL PROCESSING; DE; 3: 1; Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): ECL549 — WAVELETS AND MULTI-MEDIA APPLICATIONS: MICROWAVE INTEGRATED CIRCUITS & SYSTEMS; DE; 3: 4; C; Not offered: Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): WAVELETS AND MULTI-MEDIA APPLICATIONS: Total Credits (DC + DE) — 3: 20-21
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: ECD501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 6

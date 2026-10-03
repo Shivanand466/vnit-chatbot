@@ -1,0 +1,38 @@
+SOURCE_URL: https://drive.google.com/file/d/1tjXtlxr5MpH1aM4cI-Vcyhrw5zpdUnlg/view
+TITLE: Computer Science & Engineering
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Computer Science & Engineering (dated 2026-08-05)
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for2026-27 (Winter 2026)
+M. Tech. in Computer Science Engineering
+M. Tech. in Computer Science Engineering: Code: CSL514 — Course Title / Name: ADVANCES IN ALGORITHMS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSL503 — Course Title / Name: MATHEMATICAL FOUNDATION FOR COMPUTER SCIENCE; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSP502 — Course Title / Name: SOFTWARE LAB - I; Type: DC; Credit: 2; Exam Slot: F; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSP529 — Course Title / Name: TECHNICAL WRITING AND PUBLISHING; Type: DC; Credit: 2; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: Elective (Any Three) — Course Title / Name: Elective (Any Three)
+M. Tech. in Computer Science Engineering: Code: CSL517 — Course Title / Name: PATTERN RECOGNITION; Type: DE; Credit: 4; Exam Slot: A; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSL512 — Course Title / Name: CLOUD ARCHITECTURE, INFRASTRUCTURE AND TECHNOLOG; Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: EGL412 — Course Title / Name: ADVANCED DIGITAL SIGNAL PROCESSING; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+M. Tech. in Computer Science Engineering: Code: CSL412 — Course Title / Name: ARTIFICIALINTELLIGENCE; Type: DE; Credit: 4; Offered (YES / NO): Netoffered
+M. Tech. in Computer Science Engineering: Code: CSL522 — Course Title / Name: ADVANCES IN COMPILER CONSTRUCTION; Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL536 — Course Title / Name: GOMPUTER VISION; Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL510 — Course Title / Name: INTRODUCTION TO SYSTEMS ENGINEERING; Type: DE; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSL539 — Course Title / Name: FORMAL METHODS IN PROGRAM DESIGN; Type: 30; Credit: 3; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL443 — Course Title / Name: SYSTEM AND NETWORK SEGURITY; Credit: 4; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL516 — Course Title / Name: SOFT COMPUTING TECHNIQUES; Type: DE; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSL506 — Course Title / Name: MULTIVARIATE DATA ANALYSIS; Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL533 — Course Title / Name: DIGITAL FORENSICS; Type: 30; Credit: 3; Offered (YES / NO): Not-offered
+M. Tech. in Computer Science Engineering: Code: CSL534 — Course Title / Name: SECURE SOFTWARE ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL535 — Course Title / Name: OPTIMIZATION IN COMPUTER SCIENCE; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL538 — Course Title / Name: TOPICS IN MATHEMATICAL MODELING AND ANALYSIS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL505 — Course Title / Name: PROVABLE AND MODERN CRYPTOSYSTEMS; Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: GSL508 — Course Title / Name: MACHINE LEARNING; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: GSL407 — Course Title / Name: DATA MINING AND DATA WAREHOUSING; Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL429 — Course Title / Name: INTRODUCTION TO INTERNET OF THE THINGS; Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+M. Tech. in Computer Science Engineering: Code: CSL532 — Course Title / Name: MATHEMATICS FOR MACHINE LEARNING; Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSL540 — Course Title / Name: INTELLIGENT SYSTEMS; Type: DE; Credit: 4; Exam Slot: B; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSL444 — Course Title / Name: IMAGE PROCESSING AND UNDERSTANDING; Type: DE; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: CSL547 — Course Title / Name: ETHICS IN INTELLIGENT SYSTEMS; Type: DE; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech. in Computer Science Engineering: Code: Total Credits (DC + DE) — Course Title / Name: Total Credits (DC + DE); Credit: 19-22

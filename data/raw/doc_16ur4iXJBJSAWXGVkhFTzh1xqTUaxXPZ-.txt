@@ -1,0 +1,39 @@
+SOURCE_URL: https://drive.google.com/file/d/16ur4iXJBJSAWXGVkhFTzh1xqTUaxXPZ-/view
+TITLE: Summer Term 2026 Notice
+FETCHED: 2026-05-29
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Summer Term 2026 Notice (dated 2026-05-29)
+NOTE:
+Sub:
+Summer Term Course (STC) 2026
+Important Instructions for Student Seeking for Summer Term 2026 Registration:
+As per the new Senate resolution Summer Term will be offered to all the students, who got FF grade in the courses, both in the Session W25 / RW25 or S26 / RS26 (if offered by the concerned Department).
+Student seeking registration in ST 2026 will do registration through AlMS only. Also, students are required to pay the fees of Rs. 3000/- per course (Max 3 Courses) in the form of challan which will be generated in students AIMS Login, immediately after applying for ST26 course registration OR students can see / pay the ST Fees (Challan) under >>AlMs login >> under >> Fee Management >> Transaction >> Online Payment, Select Session as 2025-26/ST26. All Students take note that Fees Challan (Amount) generated in the AlMS login is based on selection Course (Max 3) & Eligibility (based on conditions given below).
+Conditions to apply for STC 2026 are -
+1)A student can register Max. 3 (three-theory) courses.
+Student must have appeared and obtained FF grade in both examinations (i.e., main as well as re-examination) in courses he / she wishes to register.
+Student must check eligibility for the sessions, as: Student must check FF grade Eligibility in the session "W25 & RW25" / "S26 & RS26" for all Year students including Extra year.
+Student should not have got W or LL grade (If student has LL Grade, see 3.11.1.4 of Academic Rule Book for further details) in the requested course.
+Student should not have been involved in any act of indiscipline / unfair means.
+Students are instructed to apply for ST26 through AlMS Login only after satisfying the conditions mentioned above. Any inadvertent submission by student who do not comply the conditions mentioned above, his /her registration shall be treated withdrawn at any stage even if they have completed the course with pass grade. Fees paid in such cases shall not be refunded. Hence, before applying for the ST26 Course registration, all students are requested to confirm that they are satisfying all the ST26 eligibility conditions.
+After successful applying for course registration for ST26, Challan for the requested courses (max. 3) will be generated automatically in AIMS and student can pay the requested fees ONLINE imnt s ,t t t t t (ttht basis of the student's eligibility and actual selection for the courses he / she wants to opt which finally decides the eligibility for Summer Term 2026.]
+VISVESVARYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR EXAMINATION SECTION
+Exam/STC/2026/14oS May 29, 2026
+Paying Summer Term Fees:
+Students are instructed to pay the Summer Term 2026 fees as soon as the challan generated in his / her AIMS Login. Students are instructed to pay and confirm the Summer Term-26 fees. Registration of students whose fees (for ST26) is pending for confirmation will be kept on hold by Exam Section, hence students are requested to pay and confirm their fees (for ST26) well before 31-May-2026 (Last Date of Summer Term 2026 Registration). After Confirm Payment of fees, Students can check Fee Receipt in AIMS under, Fee Management >> Reports >> Fee Receipt Report >> Search Session (ST26) >> Select Challan No. >> View Report, if blank report is generated, then student need to confirm the fees from Account Section ((feesvnit@gmail.com or supdt_account@vnit.ac.in) or on 0712-2801548/0712-2801240)).
+Registration for Summer Term 26 courses and approval only after confirmation of payment of the given fees will be done by Respective Faculty Advisor. Student can check the registration by clicking, Registration Management >> Reports >> Registration Form Print (make sure session selected as 2025-26/ST26), Here, after applying for the course registration, student can see list of courses student have selected and the status (for Fee / for Registration Approval). Status will be shown as "WATERMARK" and it will be one of the following,
+"PENDING FOR FEES" (Pay the Fees if not paid)
+(After Payment of Fees) "PENDING FOR APPROVAL" & (After Approval by Faculty Advisor) "REGISTRATION APPROVED"
+Students are instructed to approach their Faculty Advisor (after successful Fees Payment) for ST26 Course Registration Approval.
+All students strictly instructed to ensure that his / her ST26 Course Registration will be approved by Faculty Advisor, without their Approval Students name will not appear in the Roll list of selected courses (Even if Fess is paid).
+Steps for Registration/ Payment of fee
+Login in AlMS >> Registration Management >> Transaction >> Summer Term Course Registration >> Check for the Courses you want to select >> Tick the Courses >> Press Apply for registration >> Before Pressing Apply for Registration, students are instructed to double cross check the selected courses properly, because, after pressing the Apply for Registration button, the course registration will be freeze and no further modification is possible. This is due to dependency of Fee Challan generation on selection of number of courses. So, students are instructed to make sure about courses before selection of courses.
+After Pressing Apply for Registration >> Student will be re-directed to Payment Gateway, student will pay the fees and after successful payment, student will approach the Faculty Advisor for Approval.
+Student after Course Registration Approval >> will Check Registration Form Print online (from AIMS login of student) then Email the scan copy (PDF) of approved Registration Form to vnitsemregister@vnit.ac.in with subject line "Registration Form for ST2026". Name pdf file as 'xxxxxST2026.pdf' (xxxxx is IDno of student).
+List of theory courses offered by the various departments, that will be offered in ST2026 is enclosed here with.
+Important Timeline:-
+Opening of ST-2026 registration- 29 May to 31 May 2026 Self-Registration & Fee Payment for Summer Term 2026 –29 May to 31 May2026 Commencement of classes – Monday June 1, 2026
+Student shall contact respective department (which offered ST 2026 Courses) for class schedule.
+Copy to - All HoDs for information and n.a. Students notice board, Website
+Dean (Acad.)

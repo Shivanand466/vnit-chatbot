@@ -1,0 +1,278 @@
+SOURCE_URL: https://drive.google.com/file/d/1TSOvR-31mWM1lGFEaNAtmrNSDPvDTg7O/view
+TITLE: Faculty profile
+FETCHED: 2026-02-09
+FOUND_ON: https://vnit.ac.in/engineering/ece/
+---
+Document: Faculty profile (dated 2026-02-09)
+DEPARTMENTOF ELECTRONICS AND COMMUNICATION ENGINEERING
+ABOUT T THEI DEPARTMENT
+Th s he current intake for the UG program of B.Tech ECE is 125, and that of the PG program, namely M.Tech in Communication System Engineering, is 25. The department also offers PhD and Post-Doctoral programs. The department remains the most sought after within the first two choices. The department has a good number of highly qualified and experienced faculties. The average experience of the faculty is 15 years, and the Professors have experience of 25 to 35 years. The IPR of the department is very good in terms of faculty research publications with high citations in Google Scholar and SCl-indexed Journals and granted patents. There are always a good number of externally funded or sponsored research projects ongoing. The departmenthas averyactive and fruitfulinstitute-industryinteraction.
+The department has the following centers of excellence: 1) Center of Excellence in Embedded Systems established with ra r s s r n ng g ng Center of Excellence of AI 3) 5G LAB Center 4) Center of Excellence of EMC-EMI.
+The department works in upcoming and niche areas of electronics and communication engineering like 5G/6G, RF and Antennas, Signal Processing, Al/ML, Generative Al, Natural language Processing, Optoelectronics and Photonics, loT, Auo r s h der ts an nn s h considerable hands-on component. On the consultancy front, the departmentis growingnow.
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr. Ashwin Kothari Professor
+ashwinkothari@ece.vnit.ac.in
+Phone: +91-712-2801049
+Key Research Areas
+Wireless communication
+RF Circuits
+EMI/EMC Testing
+Computer networks and telecom.
+Research Link
+https://orcid.org/0009-0004-3249-7135
+https://scholar.google.com/citations?user=5QggqM8AAAAJ&hl=en
+Laboratory
+RF Circuit Design Lab
+EMI and EMC lab
+Analog and Digital Communication Labs
+Key Research Areas
+Antenna
+EMC/EMI testing
+Communications
+Commbedded systems: Communication and embedded
+System Hybridization
+Image Processing and Pattern Classification using Al?ML/Rough Sets
+Research Link
+https://orcid.org/0000-0001-6149-5607
+https://www.scopus.com/authid/detail.uri?authorld=55253537500
+https://www.webofscience.com/wos/author/record/AFG-0522-2022
+https://ece.vnit.ac.in/people/ashwinkothari/
+Laboratory
+EMI and EMC lab
+Analog and Digital Communication Labs
+Advanced communication Lab
+Communication Network lab
+Dr. Abhay Gandhi Professor
+asgandhi@ece.vnit.ac.in
+Phone: +91-712-2801217
+_
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr. Kishore Bhurchandi Professor
+bhurchandikm@ece.vnit.ac.in
+Phone:+91-9822939421
+Key Research Areas
+Image, Video Processing and Computer Vision, Video surveilence Image Cryptography and Underwater Image Processing
+loT and Smart Farming
+Human Activity Detection and Crowd Behavior Analysis Deep Learning and Artificial Intelligence
+Research Link
+https://vnit.ac.in/engineering/ece/dr-vishal-r-satpute/
+https://orcid.org/0000-0001-9944-9489
+https://www.scopus.com/authid/detail.uri?authorld=54396129600
+https://www.webofscience.com/wos/author/record/AAA-7713-2022
+Laboratory
+●Image Processing and Computer Vision Lab, Image Acquisition Lab
+O Digital and Microprocessors Lab
+Key Research Areas
+Embedded Systems Image and video processing Al and ML applications
+Research Link
+https://vnit.ac.in/engineering/ece/dr-k-m-bhurchandi/
+https://www.scopus.com/authid/detail.uri?authorld=35482941100
+https://g.co/kgs/3JF1Cc5
+Laboratory
+Centre for Artificial Intelligence (CAI)
+Embedded Systems
+Image Processing.
+Dr. Vishal Satpute Associate Professor
+vrsatpute@ece.vnit.ac.in
+Phone:+91-712-2801038
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr. Prabhat Sharma Assistant Professor
+prabhatsharma@ece.vnit.ac.in Phone: +91-712-2801851
+Key Research Areas
+Al in computer Vision, Natural Language Processing, Remote Sensing Medical Image and Video analysis.
+Research Link
+https://vnit.ac.in/engineering/ece/dr-saugata-sinha/
+https://orcid.org/0000-0003-2835-329X
+https://www.scopus.com/authid/detail.uri?authorld=56192245700
+●https://www.webofscience.com/wos/author/record/AAA-7696-2022
+Laboratory
+Artificial Intelligence and Deep Learning Lab.
+Medical Imaging and Video Processing Lab.
+●Signal and Image Processing Lab
+Key Research Areas
+5G/6G wireless communication systems
+Research Link
+https://orcid.org/0000-0003-2906-9207
+https://www.scopus.com/authid/detail.uri?authorld=37013879800
+●https://www.webofscience.com/wos/author/record/l-3485-2014
+https://vnit.ac.in/engineering/ece/dr-prabhat-kumar-sharma/
+Laboratory
+VNIT 5G Lab
+Photonic Integrated Circuit and Next-Gen Intelligent Communications
+Communication Systems 2 Lab
+Dr. Saugata Sinha Assistant Professor
+saugata.sinha@ece.vnit.ac.in
+Phone:+91-712-2801857
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr. Deep Gupta Assistant Professor
+deepgupta@ece.vnit.ac.in
+Phone: +91-712-2801855
+Key Research Areas
+Wireless sensor network
+EEG signal processing, Body sensor networks
+Precision agriculture
+Research Link
+https://orcid.org/my-orcid?orcid=0000-0003-0576-1821
+https://www.scopus.com/authid/detail.uri?authorld=37019961100
+https://www.webofscience.com/wos/author/record/GXF-8576-2022
+https://vnit.ac.in/engineering/ece/dr-pradnya-h-ghare/
+Laboratory
+Wireless sensor network laboratory
+Analog circuit Design lab
+Communication Networks lab
+Key Research Areas
+●
+Medical Image Analysis
+Computer Vision
+Al in Healthcare
+Multimodal Signal and Image Processing
+Research Link
+https://vnit.ac.in/engineering/ece/dr-deep-gupta/
+https://orcid.org/0000-0002-7408-656X
+https://www.scopus.com/authid/detail.uri?authorld=57202197339#
+https://www.webofscience.com/wos/author/record/AAF-8902-2021
+Laboratory
+Medical Image Analysis (MedIA Lab)
+Centre for Artificial Intelligence (CAl)
+Control Engineering and Signal Processing Lab.
+Dr. Pradnya Ghare Assistant Professor
+phghare@ece.vnit.ac.in
+Phone:+91-712-2801022 9423633401
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr.Joydeep Sengupta Assistant Professor
+jsengupta@ece.vnit.ac.in
+Phone:+91-9673701738
+Key Research Areas
+Non-Destructive Testing Evaluation using electromagnetic waves (Structure Health Monitoring). Metamaterial and Metasurface for Aircraft Stealth Applications and Microstrip Antenna.
+Research Link
+https://vnit.ac.in/engineering/ece/dr-neeraj-rao/
+Key Research Areas
+Solid state microwave device, optical and Rf Communication, Antenna , Biomedical Engineering
+Research Link
+https://vnit.ac.in/engineering/ece/dr-joydeep-sengupta
+https://www.scopus.com/authid/detail.uri?authorld=55596935200
+https://www.webofscience.com/wos/author/record/ADC-3287-2022
+https://orcid.org/0000=0002-2246-8806
+https://www.researchgate.net/profile/Joydeep-Sengupta-3
+Laboratory
+Center for EMI & EMC (Center of Excellence)
+●RF & Optical lab
+Dr. Neeraj Rao Assistant Professor
+neerajrao@ece.vnit.ac.in
+Phone:+91-712-2801858
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr. Ankit A. Bhurane Assistant Professor
+ankitbhurane@ece.vnit.ac.in Phone:+91-9673701918 9960402260
+Key Research Areas
+Control System Design, Modeling of renewable energy systems, State Estimation for real time Applications, Optimization
+Research Link
+https://orcid.org/0000-0002-2451-6576
+https://www.scopus.com/authid/detail.uri?authorld=57202550796
+●https://www.webofscience.com/wos/author/record/JOK-6745-2023
+Laboratory
+Measurement and Instrumentation Laboratory
+Key Research Areas
+Al For Everything, Healthcare, Wearables, Affordable Electronic Product Engineering, Multimodal Signal Processing, Video Coding. Green Communication.
+Research Link
+https://orcid.org/0000-0001-8181-7685
+https://www.scopus.com/authid/detail.uri?authorld=46160910200
+Laboratory
+loT, Embedded Systems, Product Engineering
+Dr. K. Surender Assistant Professor
+ksureder@ece.vnit.ac.in
+Phone: +91-712-2801025
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr. Punitkumar Bhavsar Assistant Professor
+punitbhavsar@ece.vnit.ac.in
+Phone: +91-0712-2801594
+Key Research Areas
+Quantum Communications, Silicon Photonics Integrated Circuits
+Research Link
+https://vnit.ac.in/engineering/ece/dr-anamika-singh/
+https://www.scopus.com/authid/detail.uri?authorld=59093368600
+https://orcid.org/0000-0002-8520-420X
+Laboratory
+Photonic Integrated Circuit and Next-Gen Intelligent Communications Lab
+Key Research Areas
+Modeling of cyber physical systems, Signal Processing, Quantum Communication
+Research Link
+https://vnit.ac.in/engineering/ece/dr-punitkumar-bhavsar/
+https://www.scopus.com/authid/detail.uri?authorld=56958013900
+https://orcid.org/my-orcid?orcid=0000-0001-6473-7288
+Laboratory
+Control Engineering Lab,
+Signal Processing Lab
+Dr. Anamika Singh Assistant Professor
+anamikasingh@ece.vnit.ac.in
+Phone:+91-7506188386
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr. Praveen Pawar Assistant Professor
+Phone:+91-712-2801912 7987231873 praveenpawar@ece.vnit.ac.in
+Key Research Areas
+5G/6G communications
+Developing and mathematical modelling of novel and energy efficient communication strategies, Mathematical modelling of Visible light Communications based communication systems, Integrated sensing and communication setups analysis
+Research Link
+https://www.scopus.com/search/form.uri?display=basic#author
+https://www.webofscience.com/wos/author
+https://www.researchgate.net/
+https://orcid.org/signin
+Laboratory
+Communication lab
+Key Research Areas
+Wireless Communication,
+5G/6G Technologies.
+Internet of Things (loT),
+Data Analytics,
+AI/ML
+Research Link
+https://orcid.org/0000-0002-0374-9071
+https://www.scopus.com/authid/detail.uri?authorld=57213325936
+https://vnit.ac.in/engineering/ece/dr-praveen-pawar/
+Laboratory
+Communication Lab,
+loT Lab
+Dr. Amit Agarwal Assistant Professor
+amit.agarwal@ece.vnit.ac.in Phone: +91-0712-2801919
+Details of Faculty Member of the Department of Electronics and Communication Engineering
+Dr. Arvind Kumar Assistant Professor
+arvindkumar@ece.vnit.ac.in Phone: +91-712-2801853
+Key Research Areas
+Antennas, EMI/EMC Measurement & Testing Microwave/Millimeter wave Integrated Circuits.
+Research Link
+https://www.researchgate.net/profile/Arvind-Kumar-64?ev=hdr_xprf
+https://scholar.google.co.in/citations?user=rGZmioMAAAAJ&hl=en
+https://sites.google.com/view/arvindk/home?authuser=0
+https://vnit.ac.in/engineering/ece/dr-arvind-kumar/
+Laboratory
+Center for EMI & EMC (Center of Excellence)
+Key Research Areas
+Signal, Image & Video Processing
+Research Link
+https://www.scopus.com/authid/detail.uri?authorld=56641023200
+https://www.webofscience.com/wos/author/record/K-7545-2018
+https://orcid.org/my-orcid?orcid=0000-0002-9563-9514
+Laboratory
+Image Processing and Computer Vision Laboratory
+Dr. Vipin Kamble Assistant Professor
+vipinkamble@ece.vnit.ac.in
+Phone: +91-0712-2801913
+Equipment Image
+Research and Testing Facility
+Centre for EMI & EMC
+Key Features of Equipment
+Complete set up for pre compliance test
+Associated Laboratory
+Anechoic Chamber (Frequency range 30MHz-40GHz)
+Research and Testing Facility
+5Glab
+Key Features of Equipment
+Complete setup of Standalone private 5G Network
+Associated Laboratory
+PICNIC Lab Communication System Lab
+Equipment Image
+Research and Testing Facility
+Machine Learning and UG Project Lab
+Key Features of Equipment
+High Performance GPU workstations. Special purpose embedded systems for Al applications
+Associated Laboratory
+Centre for Artificial intelliagence Medical Image and Video Processing Lab Image Analysis and Computer Vision Lab.

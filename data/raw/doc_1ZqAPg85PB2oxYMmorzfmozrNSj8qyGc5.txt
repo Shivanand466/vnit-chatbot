@@ -1,0 +1,37 @@
+SOURCE_URL: https://drive.google.com/file/d/1ZqAPg85PB2oxYMmorzfmozrNSj8qyGc5/view
+TITLE: Fees Information M Tech Admission Through CCMT
+FETCHED: 2024-04-16
+FOUND_ON: https://vnit.ac.in/section/academics/fees/
+---
+Document: Fees Information M Tech Admission Through CCMT (dated 2024-04-16)
+Visvesvaraya National Institute of Technology, Nagpur
+ Fees for Indian Nationals through CCMT [For M Tech Admission]
+Fees - One Time:
+( To be paid in the admission year )
+( To be paid in the admission year ) | Fees - One Time: Library Deposit — M Tech (Rs): 5000
+( To be paid in the admission year ) | Fees - One Time: Caution Deposit — M Tech (Rs): 5000
+( To be paid in the admission year ) | Fees - One Time: Identity Card — M Tech (Rs): 200
+( To be paid in the admission year ) | Fees - One Time: Medical Exam — M Tech (Rs): 100
+( To be paid in the admission year ) | Fees - One Time: Welfare Fund — M Tech (Rs): 600
+( To be paid in the admission year ) | Fees - One Time: Medical Aid Fund — M Tech (Rs): 2000
+( To be paid in the admission year ) | Fees - One Time: Total — M Tech (Rs): 12900
+Fees per year:
+( To be paid semester wise )
+( To be paid in the admission year ) | ( To be paid semester wise ): Tuition Fee — M Tech (Rs): 70000
+( To be paid in the admission year ) | ( To be paid semester wise ): Registration Fee — M Tech (Rs): 500
+( To be paid in the admission year ) | ( To be paid semester wise ): Library Fee — M Tech (Rs): 750
+( To be paid in the admission year ) | ( To be paid semester wise ): Student Activity Fees — M Tech (Rs): 1250
+( To be paid in the admission year ) | ( To be paid semester wise ): Sports Fee — M Tech (Rs): 2500
+( To be paid in the admission year ) | ( To be paid semester wise ): Internet & Computer Maint. Fee — M Tech (Rs): 750
+( To be paid in the admission year ) | ( To be paid semester wise ): Training & Placement Fee — M Tech (Rs): 400
+( To be paid in the admission year ) | ( To be paid semester wise ): Industry Institute Interaction Fee — M Tech (Rs): 300
+( To be paid in the admission year ) | ( To be paid semester wise ): Development Fee — M Tech (Rs): 5000
+( To be paid in the admission year ) | ( To be paid semester wise ): End Semester Examination Fee — M Tech (Rs): 1000
+( To be paid in the admission year ) | ( To be paid semester wise ): Total — M Tech (Rs): 82450
+( To be paid in the admission year ) | ( To be paid semester wise ): July to Nov Sem (Odd Term) — M Tech (Rs): 41225
+( To be paid in the admission year ) | ( To be paid semester wise ): Jan to May Sem (Even Term) — M Tech (Rs): 41225
+Revised fee from July 2024.
+No Tuition Fees is charged from SC/ ST/ PwD candidates.
+In addition to above fees, Convocation fees of Rs 750/- and Thesis/Dissertation evaluation fees of Rs 5,000/- to M Tech, shall be charged in final semester of program. Hostel charges are separate.
+For admission of NRI/Foreign Nationals through DASA fees structure is different.
+NOTE - Total fees to be paid at the time of admission reporting includes One Time Fees plus First Semester fees. An initial fee paid at the Counseling is adjusted against the total fees to be paid during admission reporting.

@@ -1,0 +1,413 @@
+SOURCE_URL: https://drive.google.com/file/d/1ryERrEMqvSeJt8Ie7ShjO53o9wUFSlhM/view
+TITLE: Bio-Medical Engineering
+FETCHED: 2024-06-11
+FOUND_ON: https://vnit.ac.in/engineering/mech/
+---
+Document: Bio-Medical Engineering (dated 2024-06-11)
+DEPARTMENT OF MECHANICAL ENGINEERING
+Course Book for
+M. Tech. in Biomedical Engineering
+For
+Academic Year: 2024-2025
+Visvesvaraya National Institute of Technology, Nagpur-440 010 (MH)
+Institute Vision Statement
+To contribute effectively to the National and International endeavor of producing quality human resource of world class standard by developing a sustainable technical education system to meet the changing technological needs of the Country and the World incorporating relevant social concerns and to build an environment to create and propagate innovative technologies for the economic development of the Nation.
+Institute Mission Statement
+The mission of VNIT is to achieve high standards of excellence in generating and propagating knowledge in engineering and allied disciplines. VNIT is committed to providing an education that combines rigorous academics with joy of discovery. The Institute encourages its community to engage in a dialogue with society to be able to effectively contribute for the betterment of humankind.
+Department Vision Statement
+To produce quality human resource of high standard in mechanical engineering who can contribute favorably to the technological and socio-economic development of the nation.
+Department Mission Statement
+To develop state of the art facilities related to mechanical engineering. To attract highly qualified faculty to the mechanical engineering department. To promote participation of industries in academics, research and consultancy. To undertake research at regional and national level.
+Brief about Mechanical Engineering Department
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. Faculty members of the department are highly experienced and motivated for teaching and conducting research in the diversified fields of mechanical engineering.
+List of Coordinators of the courses of MTech Biomedical engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. A. M. Kuthe — Coordinator for the Course/s: Design of devices for medical applications, Implant design and tissue engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. R. V. Uddanwadiker — Coordinator for the Course/s: Biomechanics of Musculoskeletal system
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. D. A. Jolhe — Coordinator for the Course/s: Methods Engineering and Ergonomics
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. V. M. Nistane — Coordinator for the Course/s: Bio Medical Data Science
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Amrut Agasti — Coordinator for the Course/s: Materials for Biomedical Applications
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Meera Dhabu — Coordinator for the Course/s: ANN and Deep Learning
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Pradnya Ghare — Coordinator for the Course/s: Body sensor network
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Wasewar — Coordinator for the Course/s: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Saugata Sinha — Coordinator for the Course/s: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Maithali Paikhane — Coordinator for the Course/s: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Prabhat Sharma — Coordinator for the Course/s: Biomedical Sensors and Applications
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Deep Gupta — Coordinator for the Course/s: Bioelectric Signal Processing
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Rajesh Khatrikar — Coordinator for the Course/s: Structural and Mechanical Characterization of Materials
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Manish Kurhekar — Coordinator for the Course/s: Bioinformatics
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. V.S Adane — Coordinator for the Course/s: Hospital architecture
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. Kotambkar — Coordinator for the Course/s: Bioengineering Bridge course-1
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 3 PG programs. | List of Coordinators of the courses of MTech Biomedical engineering: Faculty Name: Dr. G.P. Singh — Coordinator for the Course/s: Bioengineering Bridge course II
+UG/ PG Programmes Offered by Mechanical Department:
+The department offers following undergraduate and postgraduate programmes
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: UG — Program: B. Tech in Mechanical Engineering
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: PG — Program: M. Tech. in 1 Computer Aided Design & Manufacturing 2 Industrial Engineering 3 Heat Power Engineering 4 Biomedical Engineering
+Credit System at VNIT:
+Education at the Institute is organized around the semester-based credit system of study. The prominent features of the credit system are, it's a process of continuous evaluation of a student's performance / progress and flexibility to allow a student to progress at an optimum pace suited to his/her ability or convenience, subject to fulfilling minimum requirements for continuation. A student's performance/progress is measured by the number of credits he/she has earned, i.e. completed satisfactorily. Based on the course credits and grades obtained by the student, grade point average is calculated. A minimum number of credits and a minimum grade point average must be acquired by a student in order to qualify for the degree.
+Course credits assignment
+Each course, except a few special courses, has certain number of credits assigned to it depending on lecture, tutorial and laboratory contact hours in a week.
+For Lectures and Tutorials: One lecture hour per week per semester is assigned one credit and
+For Practical/ Laboratory/ Studio: One hour per week per semester is assigned half credit.
+Example: Course XXXXXX with (3-0-2) as (L-T-P) structure, i.e. 3 hr Lectures + 0 hr Tutorial + 2 hr Practical per week, will have (3x1 + 0x1 + 2x0.5 =) 4 credits.
+Grading System
+The grading reflects a student's own proficiency in the course. While relative standing of the student is clearly indicated by his/her grades, the process of awarding grades is based on fitting performance of the class to some statistical distribution. The course coordinator and associated faculty members for a course formulate appropriate procedure to award grades. These grades are reflective of the student's performance vis-à-vis instructor's expectation. If a student is declared pass in a subject, then he/she gets the credits associated with that subject.
+Depending on marks scored in a subject, a student is given a Grade. Each grade has got certain grade points as follows:
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AA — Grade points: 10; Description: Outstanding
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AB — Grade points: 9; Description: Excellent
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BB — Grade points: 8; Description: Very good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BC — Grade points: 7; Description: Good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CC — Grade points: 6; Description: Average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CD — Grade points: 5; Description: Below average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: DD — Grade points: 4; Description: Marginal (Pass Grade)
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: FF — Grade points: 0; Description: Poor (Fail) /Unsatisfactory / Absence from end-sem exam
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NP — Grade points: -; Description: Audit pass
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NF — Grade points: -; Description: Audit fail
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: SS — Grade points: -; Description: Satisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: ZZ — Grade points: -; Description: Unsatisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: W — Grade points: -; Description: Insufficient attendance
+Performance Evaluation
+The performance of a student is evaluated in terms of two indices, viz, the Semester Grade Point Average (SGPA) which is the Grade Point Average for a semester and Cumulative Grade Point Average (CGPA) which is the Grade Point Average for all the completed semesters at any point in time. CGPA is rounded up to second decimal.
+The Earned Credits (ECR) are defined as the sum of course credits for courses in which students have been awarded grades between AA to DD. Grades obtained in the audit courses are not counted for computation of grade point average.
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AA- DD grade has been obtained.
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded.
+Overall Credits Requirement for Award of Degree
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Program Core — Symbol: Program Core; Credit Requirement.B. Tech. (4-Year): Program Core; Credit Requirement.B. Arch. ( 5 Year): Program Core; Credit Requirement.M. Tech. (2 Year): Program Core; Credit Requirement.M. Sc. (2 Year): Program Core
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Basic Sciences (BS) — Symbol: BS; Credit Requirement.B. Tech. (4-Year): 18; Credit Requirement.B. Arch. ( 5 Year): 04; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Engineering Arts & Sciences (ES) — Symbol: ES; Credit Requirement.B. Tech. (4-Year): 20; Credit Requirement.B. Arch. ( 5 Year): 18; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Humanities — Symbol: HU/ HM *; Credit Requirement.B. Tech. (4-Year): 05; Credit Requirement.B. Arch. ( 5 Year): 06; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Departmental core — Symbol: DC; Credit Requirement.B. Tech. (4-Year): 79-82; Credit Requirement.B. Arch. ( 5 Year): 168; Credit Requirement.M. Tech. (2 Year): 33-39; Credit Requirement.M. Sc. (2 Year): 54-57
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Program Elective — Symbol: Program Elective; Credit Requirement.B. Tech. (4-Year): Program Elective; Credit Requirement.B. Arch. ( 5 Year): Program Elective; Credit Requirement.M. Tech. (2 Year): Program Elective; Credit Requirement.M. Sc. (2 Year): Program Elective
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Departmental Elective — Symbol: DE; Credit Requirement.B. Tech. (4-Year): 33-48; Credit Requirement.B. Arch. ( 5 Year): 17-23; Credit Requirement.M. Tech. (2 Year): 13-19; Credit Requirement.M. Sc. (2 Year): 06-09
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Humanities & Management — Symbol: HM; Credit Requirement.B. Tech. (4-Year): 0-6; Credit Requirement.B. Arch. ( 5 Year): 0-3; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Open Course — Symbol: OC; Credit Requirement.B. Tech. (4-Year): 0-6; Credit Requirement.B. Arch. ( 5 Year): 0-3; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Total requirement :BS + ES + DC+ DE + HM + OC = — Symbol: Total requirement :BS + ES + DC+ DE + HM + OC =; Credit Requirement.B. Tech. (4-Year): 170; Credit Requirement.B. Arch. ( 5 Year): 219; Credit Requirement.M. Tech. (2 Year): 52; Credit Requirement.M. Sc. (2 Year): 63
+CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AADD grades are awarded. | Overall Credits Requirement for Award of Degree: Category of Course: Minimum Cumulative Grade Point Average required for the award of degree — Symbol: Minimum Cumulative Grade Point Average required for the award of degree; Credit Requirement.B. Tech. (4-Year): 4.00; Credit Requirement.B. Arch. ( 5 Year): 4.00; Credit Requirement.M. Tech. (2 Year): 6.00; Credit Requirement.M. Sc. (2 Year): 4.00
+Attendance Rules
+All students must attend every class and 100% attendance is expected from the students. However, in consideration of the constraints/ unavoidable circumstances, the attendance can be relaxed by course coordinator only to the extent of not more than 25%. Every student must attend minimum of 75% of the classes actually held for that course.
+A student with less than 75% attendance in a course during the semester will be awarded W grade. Such a student will not be eligible to appear for the end semester and reexamination of that course. Even if such a student happens to appear for these examinations, then, answer books of such students will not be evaluated.
+A student with W grade is not eligible to appear for end semester examination, reexamination & summer term.
+Program Outcomes for M. Tech (Common to all PG programmes):
+An ability to independently carry out research /investigation and development work to solve practical problems.
+An ability to write and present a substantial technical report/document.
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program.
+Complete Scheme of M.Tech Program in Biomedical Engineering
+M.Tech in Biomedical engineering
+Program Outcomes
+PO1 : An ability to independently carry out research /investigation and development work to solve practical problems
+PO2 : An ability to write and present a substantial technical report/document
+PO3 : Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program
+Program Specific Objectives
+PSO4 : To augment the student's capacity in pursuing research and higher education in emerging areas of Biomedical engineering to enable them to solve complex problems related to technology in medical sciences.
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems.
+FIRST SEMESTER
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FIRST SEMESTER: Course Code: MXXXX — Course name: Bioengineering Bridge Course -I +Lab; Type: DC; Credits: 3-0-2-4
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FIRST SEMESTER: Course Code: MXXXX — Course name: Bioengineering Bridge Course -II; Type: DC; Credits: 3-0-0-3
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FIRST SEMESTER: Course Code: MEXXX — Course name: Biomechanics of musculo skeletal system; Type: DC; Credits: 3-0-2-4
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FIRST SEMESTER: Course Code: MML531 — Course name: Materials for Biomedical applications; Type: DC; Credits: 3-0-0-3
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FIRST SEMESTER: Course Code: MEL 502 MEP502 MEXXXX — Course name: • Methods Engineering and Ergonomics • Methods Engineering and Ergonomics Lab • Design of Devices for Medical Applications +lab; Type: DE; Credits: 3-0-0-3 0-0-2-1 3-0-2-4
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FIRST SEMESTER: CSLXXX | • ANN and Deep Learning | 3-0-2-4
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FIRST SEMESTER: ECL502 MEL536 | • Body sensor network • Bio-Medical Data Science | DE | 3-0-0-3 3-0-0-3
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FIRST SEMESTER: Total credits | Total credits | Total credits | Total credits | 21
+SECOND SEMESTER
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | SECOND SEMESTER: Course Code: MEL541 — Course Name: Implant design and Tissue engineering + lab; Typ e: DC; Credits: 3-0-2-4
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | SECOND SEMESTER: Course Code: CML510 — Course Name: Biological Transport Phenomena; Typ e: DC; Credits: 3-0-0-3
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | SECOND SEMESTER: Course Code: ECL 509 — Course Name: Biomedical imaging Systems and Image analysis; Typ e: DC; Credits: 3-0-0-3
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | SECOND SEMESTER: Course Code: HUL501 ECL501 — Course Name: • Introduction to Medical Humanities • Biomedical sensors and Applications; Typ e: DE; Credits: 3-0-0-3 3-0-0-3
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | SECOND SEMESTER: Course Code: ECL510 MML532 — Course Name: • Bioelectric Signal Processing • Structural And Mechanical Characterization Of Materials; Typ e: DE; Credits: 3-0-0-3 3-0-2-4
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | SECOND SEMESTER: Course Code: MEL543 CSL513 AXXXX — Course Name: • Clinical trials and & regulatory requirements • Bioinformatics • Hospital Architecture; Typ e: DE; Credits: 3-0-0-3 3-0-0-3 3-0-0-3 Total 19
+2
+THIRD SEMESTER
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | THIRD SEMESTER: Sr No. | Course Code | Course Name | Type | Credits
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | THIRD SEMESTER: MED501 | Project Phase I | DC | 3
+FOURTH SEMESTER
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FOURTH SEMESTER: Sr No. | Course Code | Course Name | Type | Credits
+PSO5 : To make students ready to understand professional ethics and responsibilities as an entrepreneur and start their own companies to address the societal problems. | FOURTH SEMESTER: MED502 | Project Phase II | DC | 9
+Total credits to be earned for completion of degree Through DC Category courses - (Odd Sem) = 17 (Even Sem) = 19 Total = 36 credits Through DE Category courses - (Odd Sem) = 7 (Even Sem) = 9 Total= 16 credits Total credits from all four semesters = 52
+Eligibility criteria -
+All B.E, B.Tech, B.Arch, M.Sc with GATE in respective courses and MBBS, BDS, BAMS and BHMS students with GATE in Life Sciences.
+Syllabi of new subjects
+For Odd Semester
+1. Bioengineering Bridge Course -I
+L-T-P-C structure: 3-0-2-4
+Course Objective/Outcomes (CO):
+This course will make students aware of basics of Bioengineering
+Students will learn about concepts to carry out research
+Students will be well prepared to study the advanced subjects in Biomedical Engineering
+Section A (Only students with Engineering, Technology, Architecture and basic Sciences will be eligible for this section)
+Course Contents:
+UNIT I. Basic Cell Physiology, Introduction of General Anatomy UNIT II. Physiology of Neuromuscular System and Reproductive System UNIT III. Study of Osteology UNIT IV. Anatomy and Physiology of Respiratory System UNIT V Anatomy and Physiology Cardiovascular System
+Text & Reference Books:
+Arthur C. Guyton: Textbook of Medical Physiology, 8th ed, Prism Books (Pvt) Ltd & W.B. Saunders Company, 1991.
+The Human Body, Gillian Pocock & Christopher D.Richards, Oxford University Press, 2009.
+Guyton 'Text book of Medical Physiology - WB Jaunder company Philadelphia - 10
+edition 2002
+Ranganathan T S, Text Book of human Anatomy S. Chand and company New Delhi - 1994.
+Practicals:
+Study of Neuromuscular System
+Study of Respiratory and Cardiovascular System
+Study of Reproductive System
+Study of Osteology
+Study of Heart, lungs
+Section B (Only students with MBBS, BDS, BHMS and BAMS will be eligible for this section)
+Course Contents
+UNIT I. History of biomaterials, General Properties of Bio-materials, Classes of materials used in medicine. UNIT II. Concepts of stress and strain, Mechanical properties of materials. UNIT III. Stainless steels, Cobalt Chromium alloys, Titanium based alloys, Nitinol, Other metals, Metallic corrosion UNIT IV. Properties of materials - Bulk and surface properties and their characterization. UNIT V. Axial load, torsion, bending and shear, and combined loadings. Stress and strain transformations, principal stresses and strains.
+Text Book
+Michael F. Ashby, Hugh Shercliff, David Cebon, 'Materials: engineering, science, processing and design', 2013, 3rd Edition, Elsevier Ltd, Cambridge
+Ratner, Hoffman, Schoen, Lemons, 'Biomaterials Science', 2012, 1st Edition, Academic Press, Massachusetts.
+Steven M. Kurtz, 'PEEK Biomaterials Handbook', 2011, 1st Edition, Elsevier, Atlanta.
+Practicals:
+Stress Strain study.
+Torsion testing.
+Bending test experiment.
+Study of principal stress and strain.
+Impact testing Design
+CO-PO mapping:
+Steven M. Kurtz, Biomaterials Handbook', 2011, 1st Edition, Elsevier, Atlanta. | CO-PO mapping: CO1 — PO1: H; PO3: M; PSO4: H; PSO5: M
+Steven M. Kurtz, Biomaterials Handbook', 2011, 1st Edition, Elsevier, Atlanta. | CO-PO mapping: CO2 — PO1: M; PO2: L; PO3: H; PSO4: M; PSO5: H
+Steven M. Kurtz, Biomaterials Handbook', 2011, 1st Edition, Elsevier, Atlanta. | CO-PO mapping: CO3 — PO2: M; PO3: L; PSO4: H; PSO5: H
+2. Bioengineering Bridge Course -II
+L-T-P-C structure: 3-0-0-3
+Course Objective/Outcomes (CO):
+On completion of the course, the student should be able to:
+To acquaint students with important techniques
+To understand the data for decision making
+To conduct research and process data.
+Course Objective/Outcomes (CO):
+On completion of the course, the student should be able to: 1. To acquaint students with important techniques and functions. 2. To understand quantitative models for decision making .
+To conduct research and process data.
+Course Contents
+Section A (Only students with Engineering, Technology, Architecture and basic Sciences will be eligible for this section)
+UNIT I. Introduction to Molecular Genetics UNIT II. Cell Structure and Function UNIT III. Bacteria, Viruses and other Pathogens UNIT IV. Pharmacodynamics, Pharmacokinetics UNIT V. Drug Delivery System Text & Books: 1) Muhammad Ateeq Qureshi, Harper&#39;s Illustrated Biochemistry 30th edition , 2018 2) U. Satyanarayana &amp; U. Chakrapani, Textbook of Biochemistry 978-81-312-3601-7, Elsevier, 4th Revised Edition 3) Lehninger Principles of Biochemistry, David L. Nelson, Michael M. Cox, 7th edition
+Ananthanarayan and Paniker's Textbook of Microbiology, 10th edition
+Section B (Only students with MBBS, BDS, BHMS and BAMS will be eligible for this section)
+Course Contents
+UNIT I. Probability: Definition, Conditional probability, Independent events, Baey's theorem. Basics of Binomial, Geometric, Poisson, Normal distributions and their applications related to preferably medical science. UNIT II. Correlation, regression, curve fitting of data. UNIT III. Sampling theory: Basic concept of sampling, small and large samples, Sampling distributions, UNIT IV. Estimation theory: point and interval estimation for population parameters. UNIT V. Testing of hypotheses for large and small samples using normal, t, F and Chi square distributions [Basic concepts and applications related to preferably medical science]
+Books
+1. MEDICAL STATISTICS, FIFTH EDITION by Stephen J. Walters, Michael J. Campbell and, David Machin, Willey Blackwell 2. S. P. Gupta, Statistical Methods, Sultan Chand & Sons. 3. C.R. Kothari, Research Methodology Methods and Techniques, 2/e, Vishwa Prakashan. 4. Bendat and Piersol, Random data: Analysis and Measurement Procedures, Wiley Interscience. D.C. Sancheti, V.K. Kapoor, Statistics, Theory methods and Application, Sultan Chand
+& Sons.
+CO-PO mapping:
+1. MEDICAL STATISTICS, FIFTH EDITION by Stephen J. Walters, Michael J. Campbell and, David Machin, Willey Blackwell 2. S. P. Gupta, Statistical Methods, Sultan Chand... | CO-PO mapping: CO1 — PO1: L; PO3: M; PSO4: -; PSO5: -
+1. MEDICAL STATISTICS, FIFTH EDITION by Stephen J. Walters, Michael J. Campbell and, David Machin, Willey Blackwell 2. S. P. Gupta, Statistical Methods, Sultan Chand... | CO-PO mapping: CO2 — PO1: L; PO2: H; PO3: H; PSO4: L; PSO5: -
+1. MEDICAL STATISTICS, FIFTH EDITION by Stephen J. Walters, Michael J. Campbell and, David Machin, Willey Blackwell 2. S. P. Gupta, Statistical Methods, Sultan Chand... | CO-PO mapping: CO3 — PO1: H; PO2: M; PO3: H; PSO4: -; PSO5: L
+3. BIOMECHANICS OF MUSCULO SKELETAL SYSTEM
+L-T-P-C
+structure: 3-0-2-4
+Course Objective/Outcomes (CO):
+The student will be exposed to principles of mechanics
+The student will learn the mechanics of physiological systems
+The student will be familiar with the mathematical models used in the analysis of biomechanical systems
+Course Contents:
+UNIT I.
+Introduction to Mechanics
+Principles of Mechanics, Vector mechanics, Mechanics of motion-Newton's laws of motion, Kinetics, Kinematics of motion, Fluid mechanics-Euler equations and Navier Stoke's equations, Viscoelasticity, Constitutive equations, Stress transformations, Strain energy function.
+UNIT II.
+Measuring Techniques
+Measurement of Forces, pressure, acceleration, Optical methods, Strain measurement
+UNIT III.
+Bio solid Mechanics
+Hard Tissues: Bone structure & composition mechanical properties of bone, cortical and cancellous bones, viscoelastic properties, and Maxwell & Voight models - anisotropy. Soft Tissues: Structure, functions, material properties and modeling of Soft Tissues: Cartilage, Tendon, Ligament, and Muscle
+UNIT IV.
+Biomechanics of Joints and Implants
+Skeletal joints, forces and stresses in human joints, Analysis of rigid bodies in equilibrium, free body diagrams, types of joint, biomechanical analysis of elbow, shoulder, spinal column, hip knee and ankle. Design of orthopedic implant, specifications for a prosthetic joint, biocompatibility, requirement of a biomaterial, characteristics of different types of biomaterials, manufacturing process of implants, fixation of implants
+Text & Reference Books:
+Jay D. Humphrey, Sherry De Lange, 'An Introduction to Biomechanics: Solids and Fluids, Analysis and Design', Springer Science + Business Media, 2004.
+Shrawan Kumar, 'Biomechanics in Ergonomics', Second Edition, CRC Press 2007.
+Y.C. Fung, 'Bio-Mechanics- Mechanical Properties of Tissues', Springer-Verlag, 1998.
+Duane Knudson, 'Fundamentals of Biomechanics', Second Edition Springer Science + Business Media, 2007.
+Marcelo Epstein, 'The Elements of Continuum Biomechanics', ISBN: 978-1-119-999232, 2012.
+Practicals
+Study of medical forceps
+Study of Silicon implants
+Study of metallic moulds
+Dental projects
+Case studies
+CO-PO mapping:
+Marcelo Epstein, Elements of Continuum Biomechanics', ISBN: 978-1-119-999232, 2012. | CO-PO mapping: CO1 — PO1: H; PO2: L; PO3: L; PSO4: L; PSO5: M
+Marcelo Epstein, Elements of Continuum Biomechanics', ISBN: 978-1-119-999232, 2012. | CO-PO mapping: CO2 — PO1: M; PO3: M; PSO5: L
+Marcelo Epstein, Elements of Continuum Biomechanics', ISBN: 978-1-119-999232, 2012. | CO-PO mapping: CO3 — PO1: H; PO2: M; PO3: H; PSO4: M
+4. MATERIALS FOR BIOMEDICAL APPLICATIONS
+L-T-P-C structure: 3-0-0-3
+Course Objective/Outcomes (CO):
+On completion of the course, the student should be able to:
+Understand basics of materials science and its application to biomaterials science.
+Evaluate structure-property-processing of various bio-metallic alloys, bio-ceramics and composite materials and bio-polymeric materials.
+Learn about the development of new biomaterials used in various applications.
+Course Contents
+UNIT-I
+Brief introduction to Materials Science, Classes of materials - metals, ceramics, polymers, composites, Structure-Property-Processing-Performance co-relationship.
+Introduction to Biomaterials, its classification, applications, problems with biomaterials, evolution of biomaterials etc.
+UNIT-II
+Important properties of biomaterials, Structure and properties of biological cells and tissues; cell-material interactions and foreign body response; assessment of biocompatibility of biomaterials, in vitro biochemical assays; In vivo testing, concept of biofilm and its characterization.
+UNIT-III
+Bio-metallic alloys: Processing, microstructure, properties of Ti based alloys, stainless steel, Shape memory alloys (nitinol), Co-Cr-Mo Alloys, Dental metals, corrosion of metallic implants.
+UNIT-IV
+Bio-Ceramics materials: Processing and properties of bio-inert, bio-active and bio-resorbable ceramics, development of hydroxyapatite based bio-ceramic composites, glass ceramics for dental application.
+UNIT-V
+Polymers used as biomaterials - Polyvinylchloride (PVC), Polyethylene (PE), Polypropylene(PP), Polymethylmethacrylate (PMMA), Polystyrene (PS), etc. Degradable and biodegradable polymers, Bio-polymeric implants.
+UNIT-VI
+Importance of thin film and coatings, Synthesis of biocompatible coatings on structural implant materials. Design concept of developing new materials for bio-implant applications, Case studies related to use of biomaterials in various applications.
+Text/Reference Books
+Biomaterials by Sujata V. Bhat: Kluwer Academic Publishers/ Narosa Publication.
+Biomaterials, Principle and Applications by J.B.Park : CRC press , New York.
+Biomaterials Science, an introduction to materials in medicine by B.D. Ratner and A.S.Hoffman: Academic press New York.
+Biological performance of materials, Fundamental of Biocompatibility by JonathanBlack: Taylor and Francis.
+CO-PO mapping:
+Credits: 3
+Biological performance of materials, Fundamental of Biocompatibility by JonathanBlack: Taylor and Francis. | CO-PO mapping: CO1 — PO1: -; PO2: L; PO3: M; PSO4: -; PSO5: -
+Biological performance of materials, Fundamental of Biocompatibility by JonathanBlack: Taylor and Francis. | CO-PO mapping: CO2 — PO1: L; PO2: H; PO3: H; PSO4: L; PSO5: -
+Biological performance of materials, Fundamental of Biocompatibility by JonathanBlack: Taylor and Francis. | CO-PO mapping: CO3 — PO1: H; PO2: M; PO3: H; PSO4: -; PSO5: L
+5. PROJECT PHASE I
+6. Methods Engineering and Ergonomics
+(An existing course in Mechanical Engg. Dept with course code MEL 502)
+L-T-P-C structure: 3-0-0-3
+Course Objective/Outcomes (CO):
+Understanding the fundamental principles and concepts of work study with emphasize on method study and work measurement.
+Understanding the fundamental principles and concepts of ergonomics with its applications in various domains like, product design, workplace design, system design, anthropometry, psychology, etc.
+Developing the analytical and problem-solving abilities, using appropriate tools and techniques, in the related areas through individual or group exercises.
+Course Contents :
+UNIT I.
+Method Study (including various recording techniques)
+Principles of motion economy, Micro motion study, Work measurement- Stop watch time study, Work sampling, MTM, PMTS, MOST, Concepts of performance rating, allowances and learning curve
+UNIT II.
+Man-Machine System
+Human physiology and anatomy, Human limitations, Anthropometry (including statistical treatment), Anthropometric design procedure, Behaviour, perception and psychological aspects of ergonomics, Information processing, Cognitive ergonomics, Mental workload
+UNIT III.
+Occupational Hazards & Ergonomic Intervention
+WSMD, Ergonomic assessments such as REBA, RULA, Single action biomechanics analysis, HAMA, Stress indexes etc., NIOSH & OSHA guidelines, Postural and movement analysis
+UNIT IV.
+Environmental Factors
+Effect of noise, illumination, ventilation and vibrations on human performance, Thermal comfort, Heat exchange process, Acclimatization, Metabolism, Physiological costs and energy expenditure.
+UNIT V.
+Design of Workplace and Work Systems.
+Reach envelop analysis, Applications of ergonomics in product/system development such as automotive design, Usability analysis, Design of displays and controls, Speech intelligibility and communication design, Manual material handling and its biomechanics.
+UNIT VI.
+Digital Human Modelling and Analysis in Virtual Environment Using Appropriate Software Case studies/mini projects in ergonomics and work study.
+Text & Reference Books :
+Kanawaty, George (Ed.), Introduction to Work study, ILO
+Bridger, R. S., Introduction to Ergonomics, CRC Press
+G. Salvendy (Ed.), Handbook of Human Factors and Ergonomics, John Wiley & Sons.
+Sanders, M. S. and McCormick, E. J., Human Factors in Engineering and Design, McGraw-Hill.
+CO-PO mapping:
+Sanders, M. S. and McCormick, E. J., Human Factors in Engineering and Design, McGraw-Hill. | CO-PO mapping: CO1 — PO1: M; PO2: L; PO3: M; PSO4: M; PSO5: M
+Sanders, M. S. and McCormick, E. J., Human Factors in Engineering and Design, McGraw-Hill. | CO-PO mapping: CO2 — PO1: L; PO3: H; PSO4: H
+Sanders, M. S. and McCormick, E. J., Human Factors in Engineering and Design, McGraw-Hill. | CO-PO mapping: CO3 — PO1: H; PO3: L; PSO4: L; PSO5: L
+7. Methods Engineering and Ergonomics Lab
+(An existing course in Mechanical Engg. Dept with course code MEP 502)
+L-T-P-C
+structure: 0-0-2-1
+Course Objectives (CO):
+To demonstrate methods engineering techniques (such as method & motion study, work measurement techniques) in a laboratory setting.
+To inculcate the critical understanding of various ergonomic design principles.
+To demonstrate various ergonomic assessment/analysis methods with appropriate software.
+List of Experiments (8 to 10 experiments from the following list):
+Study of charting techniques
+Study of principles of motion economy
+Study of Therbligs
+Stop watch time study
+Work sampling study
+Training for performance rating
+Application of MTM & PMTS
+Application of MOST
+Ergonomic assessment of different types of chair/tables
+Response time measurement
+Speech intelligibility test
+Design of workstation
+Design of displays
+Design of controls
+Physiological cost of activity
+Rapid Upper Limb Assessment (RULA)
+Rapid Entire Body Assessment (REBA)
+Anthropometric data collection and application
+Ergonomic assessment methods such as OWAS, NIOSH etc.
+Gait analysis techniques
+Digital human modelling
+22. Case study-based exercises on the relevant topics
+CO-PO mapping:
+Ergonomic assessment methods such as OWAS, NIOSH etc. | CO-PO mapping: CO1 — PO1: M; PO2: L; PO3: M; PSO4: L; PSO5: M
+Ergonomic assessment methods such as OWAS, NIOSH etc. | CO-PO mapping: CO2 — PO1: L; PO2: M; PO3: H; PSO5: M
+Ergonomic assessment methods such as OWAS, NIOSH etc. | CO-PO mapping: CO3 — PO1: H; PO3: L; PSO4: M; PSO5: M
+8. Design of Devices for Medical Applications
+L-T-P-C
+structure: 3-0-2-4
+Course Objective/Outcomes (CO):
+To understand the relationship of art and science to design.
+To develop proficiency in design skills and methodologies.
+To gain first-hand experience of the design process in the context of a 'real', openended multidisciplinary design project.
+To apply engineering analysis tools in the design process.
+To understand the holistic context of design, including global, societal, ethical, economic and environmental concerns.
+Course Contents:
+UNIT I DEFINITION:
+Product Design by Evolution, Design by Innovation, Essential Factors of Product Design, Production Consumption Cycle. Product Design Practice and Industry:
+UNIT II INTRODUCTION, PRODUCT STRATEGIES:
+Classification of medical products as Class I, Class II and Class III Global and Indian medical device market; Customer pull factors; Technology push factors Innovation process: Defining unmet needs; Developing novel solutions; Delivering tested products; Deploying in practice.
+UNIT III IDEATION AND CONCEPTUALIZATION OF PRODUCT USING TRIZ
+Clinical immersion: Domain familiarization; Observing clinical procedures; Permissions and privacy; Voice of the customer. Problem definition: Problem statement; Functional requirements; Constraints; Evidence-gathering and cross-checking. Concept and feasibility: Creativity toolbox; Concept generation; Proof-of-concept fabrication; Feasibility evaluation
+UNIT IV THE DESIGNER:
+Myth and Reality, Basic Design Considerations, Role of Aesthetics in Product Design, Functional Design Practice. Economic Factors Influencing Design: Product Value, Design for Safety, Reliability and Environmental Considerations. Manufacturing Operations in relation to Design, Economic Analysis, Profit and Competitiveness, Break-even Analysis, Economics of a New Product Design. Human Engineering Considerations in Product Design.
+Detailed design: Product architecture; Component design; Biomaterials and selection; Product assembly. Virtual prototyping: 3D modelling; Mechanism simulation; Stress simulation; Verification and validation. Rapid prototyping: Laser cutting & 3D printing (plastics); Simple metal parts; Electronics prototyping; Software apps. Functional prototyping: Metal parts machining; Plastic injection moulding; PCB fabrication; Pilot batch production.
+UNIT V Introduction to Bionics and commercialization of product
+Quality management system: Medical-grade manufacturing; Cleanroom and sterilization; ISO 13485 QMS; SOPs and records. Pre-clinical testing: Biocompatibility testing; Mechanical safety testing; Electrical safety testing; Device specific standards & testing. Human clinical trials: Investigation proposal; IEC and CDSCO approvals; Pilot and pivotal human trials; Results documentation. Device certification: Risk class & regulatory pathway; Device dossier; Manufacturing license; CE and FDA certification. Commercialization: Product/service/hybrid offering; Business model and partnerships; Financial sustainability; Scaling up.
+Text& References:
+Chitale, Gupta, 'Product Design & Manufacturing', 2nd Ed 2002, Prentice Hall of India
+B.Ravi 'The Essence of Medical Device Innovation' The Write Place, Mumbai, ISBN: 978-9-38728-218-6, 2018
+Practicals:
+Study of Class I /II medical products.
+To find usefulness of idealist concept in design improvement of existing product.
+To study Contradiction matrix for innovation of need based product.
+To study the application of Substance field analysis in product development.
+To study use of Bionics in product development.
+Study of Class III medical products.
+Study of reverse engineering for implant development.
+Case study: Medical application.
+CO-PO mapping:
+To study use of Bionics in product development. | CO-PO mapping: CO1 — PO1: H; PO3: H; PSO4: M
+To study use of Bionics in product development. | CO-PO mapping: CO2 — PO1: H; PO2: L; PO3: M; PSO4: L; PSO5: M
+To study use of Bionics in product development. | CO-PO mapping: CO3 — PO1: H; PO3: H
+To study use of Bionics in product development. | CO-PO mapping: CO4 — PO2: L; PO3: L; PSO4: L; PSO5: L
+To study use of Bionics in product development. | CO-PO mapping: CO5 — PO1: M; PO3: M; PSO5: M
+9. ARTIFICIAL NEURAL NETWORK AND DEEP LEARNING
+L-T-P-C
+structure: 3-0-2-4
+Course Objective/Outcomes (CO):
+Introduce major ANN & amp; deep learning algorithms, the problem settings, and their applications to solve real world problems. The course will foster abilities in designing and implementing ANN & amp; DL based solutions for real-world problems.
+Identify the ANN &amp; deep learning algorithms and modelling which are more appropriate for various types of learning tasks in various domains (Understanding).
+Perform detailed analysis of leading machine learning approaches and popular NN like Perceptron, Multi-layer Perceptron, Recurrent network, CNN, FCNN, ImageNet, ResNet, and RNN (Applying, Analyzing, and Evaluating).
+Implement ANN and Deep learning algorithms and solve real-world problems such as image classification, image segmentation and natural language processing (NLP), etc. (Applying, Analysing, Creating).
+Course Contents:
+UNIT I.
+Neural Network
+History, overview of biological Neuro-system, Mathematical Model of Neuron, ANN architecture, learning rules, Learning Paradigms - Supervised, Unsupervised and reinforcement Learning.
+UNIT II.
+ANN training algorithms
+Perceptron, Delta, Multilayer Perceptron Model -Back propagation, Associative Memories, Self-organizing Maps, Neuro-Dynamics, Hopfield Networks, Applications of ANN.
+UNIT III.
+Introduction to Deep Learning Feed forward Deep Networks - Architecture, Backpropagation - Introduction, Gradient Descent, Regularization for Deep Learning.
+UNIT IV.
+Convolutional Neural Networks - Introduction, Visualizing Convolutional Networks, Variants (Locally Connected Networks).
+UNIT V.
+Sequence Learning with NNs - Recurrent Neural Networks, Design Patterns for RNNs.
+Text & Reference Books:
+Neural Network: A Comprehensive Foundation; Simon Haykin, PHI.
+Elements of artificial Neural Networks; KishanMehtrotra, S. Ranka, Penram International Publishing (India).
+Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville (MIT Press, 2016).
+Neural Networks and Deep Learning by Michael Nielsen.
+Deep Learning in Neural Networks: An Overview, Technical Report by Jurgen Schmidhuber.
+Practicals
+Implement McCllouch-Pitts neuron network for all possible logic gates.
+Implementation of different activation functions to train Neural Network.
+Implementation of different Learning Rules.
+Implementation of Perceptron,Adeline and Madeline Networks.
+Implementation of CNN architecture for Image classification.
+Implementation of Sequence network.
+Project related to application of Deep Network in healthcare /business analysis.
+CO-PO mapping:
+Project related to application of Deep Network in healthcare /business analysis. | CO-PO mapping: CO1 — PO1: H; PO3: H; PSO4: H; PSO5: M
+Project related to application of Deep Network in healthcare /business analysis. | CO-PO mapping: CO2 — PO1: H; PO2: L; PO3: M; PSO4: L; PSO5: H
+Project related to application of Deep Network in healthcare /business analysis. | CO-PO mapping: CO3 — PO1: H; PO3: H; PSO4: M
+10. BODY SENSORS NETWORK
+L-T-P-C
+structure: 3-0-0-3
+Course Objective/Outcomes (CO):
+Understand the basics of body sensor networks
+Acquire knowledge about wireless standards needed for BSN

@@ -1,0 +1,415 @@
+SOURCE_URL: https://drive.google.com/file/d/1bFyHCUpagNUThwLBf_GkryhUnPuFaQRv/view
+TITLE: CAD/CAM
+FETCHED: 2025-09-22
+FOUND_ON: https://vnit.ac.in/engineering/mech/
+---
+Document: CAD/CAM (dated 2025-09-22)
+DEPARTMENT OF MECHANICAL ENGINEERING
+Teaching Scheme
+M. Tech. in Computer Aided Design & Manufacturing
+For
+Academic Year:
+2025 - 2026 Onwards
+Visvesvaraya National Institute of Technology, Nagpur-440 010 (MH)
+Institute Vision Statement
+To contribute effectively to the National and International endeavor of producing quality human resource of world class standard by developing a sustainable technical education system to meet the changing technological needs of the Country and the World incorporating relevant social concerns and to build an environment to create and propagate innovative technologies for the economic development of the Nation.
+Institute Mission Statement
+The mission of VNIT is to achieve high standards of excellence in generating and propagating knowledge in engineering and allied disciplines. VNIT is committed to providing an education that combines rigorous academics with joy of discovery. The Institute encourages its community to engage in a dialogue with society to be able to effectively contribute for the betterment of humankind.
+Department Vision Statement
+To produce quality human resource of high standard in mechanical engineering who can contribute favorably to the technological and socio-economic development of the nation.
+Department Mission Statement
+To develop state of the art facilities related to mechanical engineering. To attract highly qualified faculty to the mechanical engineering department. To promote participation of industries in academics, research and consultancy. To undertake research at regional and national level.
+Brief about Mechanical Engineering Department
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 3 PG programs. Faculty members of the department are highly experienced and motivated for teaching and conducting research in the diversified fields of mechanical engineering.
+UG/ PG Programmes Offered by Mechanical Department:
+The department offers following undergraduate and postgraduate programmes
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: Program: B. Tech in Mechanical Engineering — Intake: 115; Description: UG
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: Program: M. Tech. in 1. Computer Aided Design 2. Industrial Engineering 3. Heat Power Engineering — Intake: 25 each; Description: PG & Manufacturing
+Credit System at VNIT:
+Education at the Institute is organized around the semester-based credit system of study. The prominent features of the credit system are, it is a process of continuous evaluation of a students performance / progress and flexibility to allow a student to progress at an optimum pace suited to his/her ability or convenience, subject to fulfilling minimum requirements for continuation. A students performance/progress is measured by the number of credits he/she has earned, i.e. completed satisfactorily. Based on the course credits and grades obtained by the student, grade point average is calculated. A minimum number of credits and a minimum grade point average must be acquired by a student in order to qualify for the degree.
+Course credits assignment
+Each course, except a few special courses, has certain number of credits assigned to it depending on lecture, tutorial and laboratory contact hours in a week.
+For Lectures and Tutorials: One lecture hour per week per semester is assigned one credit and
+For Practical/ Laboratory/ Studio: One hour per week per semester is assigned half credit.
+Example: Course XXXXXX with (3-0-2) as (L-T-P) structure, i.e. 3 hr Lectures + 0 hr Tutorial + 2 hr Practical per week, will have (3x1 + 0x1 + 2x0.5 =) 4 credits.
+Grading System
+The grading reflects a student ' s own proficiency in the course. While relative standing of the student is clearly indicated by his/her grades, the process of awarding grades is based on fitting performance of the class to some statistical distribution. The course coordinator and associated faculty members for a course formulate appropriate procedure to award grades. These grades are reflective of the student ' s performance vis-à-vis instructor ' s expectation. If a student is declared pass in a subject, then he/she gets the credits associated with that subject.
+Depending on marks scored in a subject, a student is given a Grade. Each grade has got certain grade points as follows:
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AA — Grade points: 10; Description: Outstanding
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AB — Grade points: 9; Description: Excellent
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BB — Grade points: 8; Description: Very good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BC — Grade points: 7; Description: Good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CC — Grade points: 6; Description: Average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CD — Grade points: 5; Description: Below average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: DD — Grade points: 4; Description: Marginal (Pass Grade)
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: FF — Grade points: 0; Description: Poor (Fail) /Unsatisfactory / Absence from end-sem exam
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NP — Grade points: -; Description: Audit pass
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NF — Grade points: -; Description: Audit fail
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: SS — Grade points: -; Description: Satisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: ZZ — Grade points: -; Description: Unsatisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: W — Grade points: -; Description: Insufficient attendance
+Performance Evaluation
+The performance of a student is evaluated in terms of two indices, viz, the Semester Grade Point Average (SGPA) which is the Grade Point Average for a semester and Cumulative Grade Point Average (CGPA) which is the Grade Point Average for all the completed semesters at any point in time. CGPA is rounded up to second decimal.
+The Earned Credits (ECR) are defined as the sum of course credits for courses in which students have been awarded grades between AA to DD. Grades obtained in the audit courses are not counted for computation of grade point average.
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded CGPA= EGP / Σ (Course credits) for courses passed in all completed semesters in which AA - DD grades are awarded.
+Overall Credits Requirement for Award of Degree
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Program Core — Symbol: Program Core; Credit Requirement.B. Tech. (4-Year): Program Core; Credit Requirement.B. Arch. (5 Year): Program Core; Credit Requirement.M. Tech. (2 Year): Program Core; Credit Requirement.M. Sc. (2 Year): Program Core
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Basic Sciences (BS) — Symbol: BS; Credit Requirement.B. Tech. (4-Year): 18; Credit Requirement.B. Arch. (5 Year): 04; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Engineering Arts & Sciences (ES) — Symbol: ES; Credit Requirement.B. Tech. (4-Year): 20; Credit Requirement.B. Arch. (5 Year): 18; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Humanities — Symbol: HU/ HM*; Credit Requirement.B. Tech. (4-Year): 05; Credit Requirement.B. Arch. (5 Year): 06; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Departmental core — Symbol: DC; Credit Requirement.B. Tech. (4-Year): 79-82; Credit Requirement.B. Arch. (5 Year): 168; Credit Requirement.M. Tech. (2 Year): 33-39; Credit Requirement.M. Sc. (2 Year): 54-57
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Program Elective — Symbol: Program Elective; Credit Requirement.B. Tech. (4-Year): Program Elective; Credit Requirement.B. Arch. (5 Year): Program Elective; Credit Requirement.M. Tech. (2 Year): Program Elective; Credit Requirement.M. Sc. (2 Year): Program Elective
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Departmental Elective — Symbol: DE; Credit Requirement.B. Tech. (4-Year): 33-48; Credit Requirement.B. Arch. (5 Year): 17-23; Credit Requirement.M. Tech. (2 Year): 13-19; Credit Requirement.M. Sc. (2 Year): 06-09
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Humanities & Management — Symbol: HM; Credit Requirement.B. Tech. (4-Year): 0-6; Credit Requirement.B. Arch. (5 Year): 0-3; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Open Course — Symbol: OC; Credit Requirement.B. Tech. (4-Year): 0-6; Credit Requirement.B. Arch. (5 Year): 0-3; Credit Requirement.M. Tech. (2 Year): -; Credit Requirement.M. Sc. (2 Year): -
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Total requirement :BS + ES + DC+ DE + HM + OC = — Symbol: Total requirement :BS + ES + DC+ DE + HM + OC =; Credit Requirement.B. Tech. (4-Year): 170; Credit Requirement.B. Arch. (5 Year): 219; Credit Requirement.M. Tech. (2 Year): 52; Credit Requirement.M. Sc. (2 Year): 63
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AADD grade has been obtained. | Overall Credits Requirement for Award of Degree: Category of Course: Minimum Cumulative Grade Point Average required for the award of degree — Symbol: Minimum Cumulative Grade Point Average required for the award of degree; Credit Requirement.B. Tech. (4-Year): 4.00; Credit Requirement.B. Arch. (5 Year): 4.00; Credit Requirement.M. Tech. (2 Year): 6.00; Credit Requirement.M. Sc. (2 Year): 4.00
+Attendance Rules
+All students must attend every class and 100% attendance is expected from the students. However, in consideration of the constraints/ unavoidable circumstances, the attendance can be relaxed by course coordinator only to the extent of not more than 25%. Every student must attend minimum of 75% of the classes actually held for that course.
+A student with less than 75% attendance in a course during the semester will be awarded W grade. Such a student will not be eligible to appear for the end semester and reexamination of that course. Even if such a student happens to appear for these examinations, then, answer books of such students will not be evaluated.
+A student with W grade is not eligible to appear for end semester examination, reexamination & summer term.
+Program Outcomes for M. Tech (Common to all PG programmes):
+An ability to independently carry out research /investigation and development work to solve practical problems.
+An ability to write and present a substantial technical report/document.
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program.
+Scheme for M. Tech Computer Aided Design & Manufacturing
+(July - 2021 onwards)
+List of core courses (DC)
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEL410 — Course Name.Course Name: Computer Aided Design; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEP410 — Course Name.Course Name: Computer Aided Design; Structure L-T-P- Cr.Structure L-T-P- Cr: 0-0-2-1; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEL5XX — Course Name.Course Name: Advanced Finite Element Method; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEP5XX — Course Name.Course Name: Advanced Finite Element Method; Structure L-T-P- Cr.Structure L-T-P- Cr: 0-0-2-1; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEL522 — Course Name.Course Name: Computer Aided Manufacturing; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEP522 — Course Name.Course Name: Computer Aided Manufacturing; Structure L-T-P- Cr.Structure L-T-P- Cr: 0-0-2-1; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MAL505 — Course Name.Course Name: Mathematical Elements for Engineers; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MED501 — Course Name.Course Name: Project Phase I; Structure L-T-P- Cr.Structure L-T-P- Cr: 6; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 3; Pre-requisite(s) and / or any other condition for registration.Course code: 25 Credits
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEL418 — Course Name.Course Name: Advanced Stress Analysis; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEL520 — Course Name.Course Name: Non - Linear Optimization; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-1-0-4; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MEL523 — Course Name.Course Name: Computer Integrated Manufacturing; Structure L-T-P- Cr.Structure L-T-P- Cr: 3-0-0-3; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of core courses (DC): Course code.Course code: MED502 — Course Name.Course Name: Project Phase-II; Structure L-T-P- Cr.Structure L-T-P- Cr: 6; Conducted in Sem (1/2/3/4).Conducted in Sem (1/2/3/4): 4; Pre-requisite(s) and / or any other condition for registration.Course code: 35 Credits+ Project Phase I
+List of elective courses (DE)
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): Course code.Course code: MEL402 — Course Name.Course Name: Surface Engineering; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): Course code.Course code: MEL407 — Course Name.Course Name: Bio Mechanics; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): Course code.Course code: MEL414 — Course Name.Course Name: Tribology; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): Course code.Course code: MEL431 — Course Name.Course Name: Advanced Mechanism; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): Course code.Course code: MEL433 — Course Name.Course Name: Design for Manufacturing and Assembly; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): Course code.Course code: MEL437 — Course Name.Course Name: Composite Materials; Structure L-T-P-Cr.Structure L-T-P-Cr: 3-0-0-3; Conducted in sem (1/2/3/4).Conducted in sem (1/2/3/4): 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL439 | Product Design and Development | 3-0-0-3 | 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL452 | Advanced Machining Processes | 3-0-0-3 | 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL515 | Robotics and Machine Vision | 3-0-0-3 | 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL533 | Failure Analysis | 3-0-0-3 | 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL537 | Product Ideation and Design | 3-0-0-3 | 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL527 | Hydraulics and Pneumatics | 3-0-0-3 | 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEP527 | Hydraulics and Pneumatics | 0-0-2-1 | 1
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL415 | Mechanical Vibration | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL510 | Manufacturing System Simulation and Design | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL529 | Industrial Product Development | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL530 | Machine Condition Monitoring | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL518 | Fracture Mechanics and Non Destructive Testing | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEP518 | Fracture Mechanics and Non Destructive Testing | 0-0-2-1 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL526 | Adhesion, Friction and Contact Mechanics | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEP526 | Adhesion, Friction And Contact Mechanics | 0-0-2-1 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL532 | Layered Manufacturing | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEP532 | Layered Manufacturing | 0-0-2-1 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL456 | Design of Fixtures in Manufacturing | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL5XX | Reliability Engineering | 3-0-0-3 | 2
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. | List of elective courses (DE): MEL552 | Production system Modelling and Simulation | 3-0-0-3 | 2
+Credits for semester wise registration of a student.
+(Typical values to be mentioned, actual credits may vary from student to student).
+(Typical values to be mentioned, actual credits may vary from student to student). | List of elective courses (DE): Sr. No. | Type | I Sem | II Sem | III Sem | IV Sem | Total
+(Typical values to be mentioned, actual credits may vary from student to student). | List of elective courses (DE): DC | 15 | 10 | 6 | 6 | 37
+(Typical values to be mentioned, actual credits may vary from student to student). | List of elective courses (DE): DE/OC/HM | 6 | 9 | 0 | 0 | 15
+(Typical values to be mentioned, actual credits may vary from student to student). | List of elective courses (DE): Total (per sem) | 21 | 19 | 6 | 6 | 52
+ODD SEMESTER
+MEL410 COMPUTER AIDED DESIGN
+3 credits (3-0-0) Pre-
+requisite: Nil Overlaps
+with:
+Course Outcomes/ Objectives:
+Upon successful completion of this course, you should be able to:
+Understand the engineering design process and its role in graphic communication process.
+Generate and interpret engineering technical drawings of parts and assemblies according to engineering design standards.
+Use CAD software to generate a computer model and technical drawing for a simple, welldefined part or assembly.
+Fluent application of engineering techniques, tools and resources
+Effective oral and written communication in professional and lay domains
+Mapping with POs:
+Effective oral and written communication in professional and lay domains | MEL410 COMPUTER AIDED DESIGN: POs→: COs ↓ CO1 — PO1: M; PO2: M; PO3: M
+Effective oral and written communication in professional and lay domains | MEL410 COMPUTER AIDED DESIGN: POs→: CO2 — PO1: H; PO2: H; PO3: H
+Effective oral and written communication in professional and lay domains | MEL410 COMPUTER AIDED DESIGN: POs→: CO3 — PO1: H; PO2: H; PO3: H
+Effective oral and written communication in professional and lay domains | MEL410 COMPUTER AIDED DESIGN: POs→: CO4 — PO1: H; PO2: M; PO3: H
+Effective oral and written communication in professional and lay domains | MEL410 COMPUTER AIDED DESIGN: POs→: CO5 — PO1: M; PO2: H; PO3: M
+Effective oral and written communication in professional and lay domains | MEL410 COMPUTER AIDED DESIGN: POs→: Overall — PO1: H; PO2: H; PO3: H
+Content:
+CAD Introduction: Need of machine design, use of computer, computer fundamentals, computer aided design process, CAD configuration, CAD tools, positive and negative points of CAD, CAD and CAM integration.
+CAD Hardware: Introduction to hardware specific to CAD, CRT, Random scan technique, raster scan technique, DVST, Raster display, Display systems, sequential scanning and interlaced scan.
+CAD Software: Introduction to software specific to CAD, output primitives, line generation algorithm, circle generation, plane curve, transformation, windowing and clipping, line clipping technique, geometrical modeling, CSG technique & B-rep technique.
+Finite element method:Introduction, principle of minimum potential energy, types of element, shape function, elemental strain displacement matrix, types of forces, elemental stiffness matrix, elemental force matrix, assembly, truss, introduction to 2 dimensional finite element method.
+Optimization: Introduction, Johnson method of optimization normal specification problem, redundant specification problem, introduction to genetic algorithm.
+Newer techniques of CAD: Rapid prototyping, laser and non-laser process of rapid prototyping, STL formal of CAD file, introduction to reverse engineering and related software's viz. rapid form.
+Text Books/ Reference Books:
+Zeid I., 'CAD / CAM problem & practice', 3rd Edition, Tata McGraw Hill, 2001.
+Newman, Sproull. 'Principles of interactive computer graphics', McGraw Hill book Co., 1981.
+Bathe K.K., 'Finite Element Procedures', Prentice Hall of India, 1996.
+Kuthe A.M., 'Computer Graphics including CAD, AutoCAD & C', 1st Edition, S. Chand, 2005
+Rao P.N., 'CAD/CAM principles &applications', Tata McGraw Hill, 2002.
+MEP410 COMPUTER AIDED DESIGN (Lab)
+1 credit (0-0-2)
+Pre-requisites: Nil Overlaps
+with:
+Course Outcomes/ Objectives:
+Upon successful completion students will be able to:
+Operate graphics software for various Cad applications
+Carry out programming for optimization of design
+Use customized FEM software for real application of CAD
+Mapping with POs:
+Use customized FEM software for real application of CAD | Mapping with POs: POs →: COs ↓ CO1 — PO1: H; PO2: M; PO3: H
+Use customized FEM software for real application of CAD | Mapping with POs: POs →: CO2 — PO1: H; PO2: M; PO3: H
+Use customized FEM software for real application of CAD | Mapping with POs: POs →: CO3 — PO1: M; PO2: M; PO3: M
+Use customized FEM software for real application of CAD | Mapping with POs: POs →: Overall — PO1: H; PO2: M; PO3: H
+Content:
+Development of software for design of any mechanical element and system.
+Development of menu driven software for graphics using output primitives.
+Development of software for transformation using scaling, rotation, reflection.
+Development of software for clipping of graphical entities.
+Development of software for analysis of one dimensional element using FEM technique.
+Software operation of customized FEM software.
+Development of computer program for analysis of mechanical element using FEM for user input values.
+Development of software for analysis of stress problem using FEM.
+Development of software for design optimization of mechanical element using Johanson method. Use of commands of any computer aided drafting software package viz. AutoCAD, Proengineer.
+Text Books/ Reference Books:
+MEL5XX ADVANCED FINITE ELEMENT METHOD
+3 credits (3-0-0) Pre-
+requisites: Nil Overlaps
+with:
+Course Outcomes/ Objectives:
+Upon completing this course, the students will be able to:
+Understand and apply advanced concepts of the Finite Element Method (FEM).
+Develop and analyse two- and three-dimensional finite element models for engineering applications.
+Utilize industry-standard FEA software to solve complex engineering problems.
+Interpret and validate FEA results for design optimization and decision-making. Address real-world challenges, including nonlinearities, dynamic effects, and Multiphysics simulations.
+Mapping with POs*:
+Content
+Preliminary concept and Linear Finite Element
+Method of weighted residuals - Galerkin and Petrov-Galerkin approach; governing equations, derivation of element equation, Higher order elements, Weak Form of PDEs, Linear TimeDependent Heat Equation, Time Integration.
+Introduction to Nonlinear Finite Element Analysis
+Nonlinear Finite Element Analysis-Introduction, Mechanics of material and elasticity, Mechanics of continuous body, geometric nonlinearity, material nonlinearity, Nonlinear Finite Element Problem, Newton-Raphson Method, Nonlinear Heat Equation, Nonlinear Continuum Mechanics of Solids, Lagrangian Approaches.
+Nonlinear Bending of Plates and Shells
+Plate elements (Kirchoff theory, Mindlin plate element, triangular and rectangular, conforming & nonconforming elements),
+Shell elements (flat faced triangular and rectangular elements, Degenerated shell elements), Axisymmetric plate & shell elements, Ring elements.
+Shell elements (flat faced triangular and rectangular elements, Degenerated shell elements), Axisymmetric plate & shell elements, Ring elements. | Nonlinear Bending of Plates and Shells: POs → ↑SOO: CO1 — PO1: H; PO2: L; PO3: H
+Shell elements (flat faced triangular and rectangular elements, Degenerated shell elements), Axisymmetric plate & shell elements, Ring elements. | Nonlinear Bending of Plates and Shells: POs → ↑SOO: CO2 — PO1: H; PO2: H; PO3: M
+Shell elements (flat faced triangular and rectangular elements, Degenerated shell elements), Axisymmetric plate & shell elements, Ring elements. | Nonlinear Bending of Plates and Shells: POs → ↑SOO: CO3 — PO1: H; PO2: M; PO3: H
+Shell elements (flat faced triangular and rectangular elements, Degenerated shell elements), Axisymmetric plate & shell elements, Ring elements. | Nonlinear Bending of Plates and Shells: POs → ↑SOO: CO4 — PO1: H; PO2: H; PO3: H
+Shell elements (flat faced triangular and rectangular elements, Degenerated shell elements), Axisymmetric plate & shell elements, Ring elements. | Nonlinear Bending of Plates and Shells: POs → ↑SOO: CO5 — PO1: M; PO2: M; PO3: H
+Shell elements (flat faced triangular and rectangular elements, Degenerated shell elements), Axisymmetric plate & shell elements, Ring elements. | Nonlinear Bending of Plates and Shells: POs → ↑SOO: Overall — PO1: H; PO2: M; PO3: H
+Finite element formulation for two-dimensional problems
+Nonlinear Finite Elements of Solids. 2-D problems with constant strain triangles, completeness and continuity, different elements (triangular, rectangular, quadrilateral etc.), shape functions, Gauss quadrature technique for numerical integration
+Nonlinear Finite Element formulation
+Advanced elements- Mixed formulation, Infinite elements. Formulation for Geometrical Nonlinear problems. Formulation for Material Nonlinear problems. Formulation of Dynamic problems, Consistent and lumped mass matrices. Implicit and Explicit numerical integration. FEA for Nonlinear Elastic Problem, ElastoPlastic Problem, Contact problem (boundary nonlinearity) Dynamic Fracture,
+Text Books/ Reference Books:
+J. N. Reddy, ' Introduction to the Finite Element Method ', 4 th edition, McGraw-Hill Education.
+Cook, R.D, 'Concepts and application in Finite Element Analysis', 3rd Ed, The Wiley & Sons
+P. Seshu, 'Textbook of Finite Element Analysis', Kindle Edition
+Chandragupta, Bellegundu, 'Introduction to Finite Element Engineering', 2nd Ed , Prentice Hall
+Krishnamurthy, 'Finite Element Analysis', 2nd Ed, Tata McGraw Hill
+Tirupathi R Chandrupatla, 'Finite Element Analysis for Engineering & Technology', Universities Press (India) Pvt. Ltd.
+MEP5XX ADVANCED FINITE ELEMENT METHOD
+1 credit (0-0-2)
+Pre-requisites: Nil Overlaps
+with:
+Course Outcomes/ Objectives:
+Equip the students with the Finite Element Analysis fundamentals,
+Enable the students to formulate the design problems into FEA,
+Enable the students to perform engineering simulations using Finite Element Analysis software (ANSYS & LSDYNA).
+Enable the students to understand the ethical issues related to the utilization of FEA in the industry
+Mapping with POs*:
+Enable the students to understand the ethical issues related to the utilization of FEA in the industry | Mapping with POs*: POs → COs↓: col — PO1: H; PO2: M; PO3: H
+Enable the students to understand the ethical issues related to the utilization of FEA in the industry | Mapping with POs*: POs → COs↓: CO2 — PO1: H; PO2: M; PO3: H
+Enable the students to understand the ethical issues related to the utilization of FEA in the industry | Mapping with POs*: POs → COs↓: CO3 — PO1: H; PO2: H; PO3: H
+Enable the students to understand the ethical issues related to the utilization of FEA in the industry | Mapping with POs*: POs → COs↓: CO4 — PO1: M; PO2: M; PO3: M
+Enable the students to understand the ethical issues related to the utilization of FEA in the industry | Mapping with POs*: POs → COs↓: Overall — PO1: H; PO2: M; PO3: H
+Content
+Structural Analysis using FEA
+1D, 2D, and 3D elements (truss, beam, shell, and solid elements)
+Static structural analysis
+Case studies in mechanical engineering
+Thermal and Fluid Flow Analysis
+Heat conduction and convection modelling using FEA
+Introduction to computational fluid dynamics (CFD) with FEA
+Multiphysics simulations
+Nonlinear and Dynamic Analysis
+Material nonlinearity, geometric nonlinearity
+Dynamic analysis (modal, harmonic, transient)
+Fatigue and failure analysis
+Case Studies and Industrial Applications
+Real-world case studies from Mechanical engineering
+Ethical considerations in FEA (misuse, over-reliance, validation issues)
+Industry best practices
+Text Books/ Reference Books:
+MEL522 COMPUTER AIDED MANUFACTURING
+3 credits (3-0-0)
+Pre-requisites: Nil
+Overlaps with:
+Course Outcomes/ Objectives:
+The students which finish this course in a satisfactory manner will be able
+To demonstrate a basic understanding of machining fundamentals including speed and feed calculations, tooling systems, and work-holding systems for CNC milling and turning equipment
+To demonstrate a basic and advanced understanding of numerical controlled (NC) programming strategies
+To demonstrate ability to set-up, program, and operate CNC milling and turning equipment.
+To demonstrate an ability to generate NC code using G-codes to machine parts to specifications.
+Mapping with POs:
+To demonstrate an ability to generate NC code using G-codes to machine parts to specifications. | MEL522 COMPUTER AIDED MANUFACTURING: POs → COs ↓: CO1 — a: H; b: H; c: L
+To demonstrate an ability to generate NC code using G-codes to machine parts to specifications. | MEL522 COMPUTER AIDED MANUFACTURING: POs → COs ↓: CO2 — a: H; b: H; c: L
+To demonstrate an ability to generate NC code using G-codes to machine parts to specifications. | MEL522 COMPUTER AIDED MANUFACTURING: POs → COs ↓: CO3 — a: M; b: H; c: M
+To demonstrate an ability to generate NC code using G-codes to machine parts to specifications. | MEL522 COMPUTER AIDED MANUFACTURING: POs → COs ↓: CO4 — a: H; b: M; c: H
+To demonstrate an ability to generate NC code using G-codes to machine parts to specifications. | MEL522 COMPUTER AIDED MANUFACTURING: POs → COs ↓: Overall — a: H; b: H; c: M
+Content:
+CAM - Concept and definition: NC (Numerical Control), CNC (Computerized Numerical Control) and DNC (Direct Numerical Control) - concept, features and differences. Advantages and limitations of CNC, Selection criteria for CNC machines.(CO1)
+CNC machines: Types, classification, working and constructional features. Spindle drives and axes drives on CNC machines. Machine structure- Requirements and reasons. Elements of CNC machines - Types, working and importance of: Slide ways, Re-circulating ball screw, Feedback devices (transducers, encoders), Automatic tool changer (ATC), Automatic pallet changer
+(APC), CNC axes and motion nomenclature. CNC tooling: i. Tool presetting-concept and importance, Qualified tools-definition need and advantages, . Tool holders- types and applications. CNC turning and Milling centers: Types, Features, Axes nomenclature, Specification, Work holding devices -types, working and applications, Tool holding and changing devices - types, working and applications. (CO1)
+CNC part programming: Definition and importance of various, positions like machine zero, home position, work piece zero and program zero, programming format and structure of part program. ISO G and M codes for turning and milling-meaning and applications of important codes. Simple and Complex part programming for turning and milling using ISO format having straight turning, taper turning (linear interpolation) and convex/concave turning (circular interpolation), ISO format milling. (CO2)
+Important, types, applications and format for: i. Canned cycles ii. Macro iii. Do loops iv. Subroutine CNC turning and milling part programming using canned cycles, Do loops and Subroutine, Need and importance of various compensations: i. Tool length compensation. ii. Pitch error compensation. iii. Tool radius compensation. iv. Tool offset. Simple and Complex part programming using various compensations. (CO3)
+Recent Trends in CAM : Interfacing standards for CAD/CAM - Types and applications, Adaptive control- definition, meaning, block diagram, sources of variability and applications. Flexible Manufacturing System (FMS) - concept, evaluation, main elements and their functions, layout and its importance, applications, Computer Integrated Manufacturing (CIM) - Concept, definition, areas covered, benefits. Robotics- definition, terminology, classification and types, elements and applications. Rapid prototyping - Concept and application. (CO4) Text Books/ Reference Books:
+Pabla B.S., Adithan M.., 'CNC Machines', New Age International, New Delhi, 2014 (reprint)
+Quesada Robert, 'Computer Numerical Control Turning and Machining centers.', Prentice Hall 2014.
+Groover, M. P., Zimmer, W.E., 'CAD/CAM: computer aided design and manufacturing', Prentice Hall, 2011.
+Rao, P. N., Tiwari, N. K., Kundra, T., 'Computer Aided Manufacturing.', CBS Publ. NDelhi, 1995.
+MEP522 COMPUTER AIDED MANUFACTURING
+1 credit (0-0-2)
+Pre-requisites: Nil
+Overlaps with:
+Course Outcomes/ Objectives:
+The students which finish this course in a satisfactory manner will be able
+To demonstrate a basic understanding of machining fundamentals including speed and feed calculations, tooling systems, and work-holding systems for CNC milling and turning equipment
+To demonstrate a basic and advanced understanding of numerical controlled (NC) programming strategies
+To demonstrate ability to set-up, program, and operate CNC milling and turning equipment.
+To demonstrate an ability to generate NC code using G-codes to machine parts to specifications.
+Mapping with POs:
+Content:
+Study of CNC VMC part programming fundamentals and writing part program. (CO1)
+Study and demonstration of CNC VMC (CO3, CO4)
+Study and demonstration of WEDM (CO1 , CO3)
+Study and demonstration of CNC CMM (CO1, CO2)
+Study and demonstration of CNC CMM (CO1, CO2) | Content: POs → COs ↓: CO1 — a: H; b: H; c: L
+Study and demonstration of CNC CMM (CO1, CO2) | Content: POs → COs ↓: CO2 — a: H; b: H; c: L
+Study and demonstration of CNC CMM (CO1, CO2) | Content: POs → COs ↓: CO3 — a: M; b: H; c: M
+Study and demonstration of CNC CMM (CO1, CO2) | Content: POs → COs ↓: CO4 — a: H; b: M; c: H
+Study and demonstration of CNC CMM (CO1, CO2) | Content: POs → COs ↓: Overall — a: H; b: H; c: M
+Study and demonstration of RP machine. (CO2, CO4)
+Study and demonstration of Die sinking EDM. (CO2)
+Study and demonstration of various Sensors. (CO1)
+Study and demonstration of Various Actuators. (CO1)
+Text Books/ Reference Books:
+MAL505 MATHEMATICAL ELEMENTS FOR ENGINEERS
+3 credits (3-0-0)
+Pre-requisites: Nil
+Overlaps with:
+Course Outcomes/ Objectives:
+On completion of this course, students will be
+CO 1: able to understand the basic importance of Linear Algebra and numerical techniques to solve scientific problems and improve ability to think logically, analytically, and abstractly.
+CO2: able to implement fundamentals of Linear Algebra and numerical techniques to CAD-CAM engineering problems.
+CO3: able to formulate and solve physical problems mathematically.
+Mapping with POs:
+CO3: able to formulate and solve physical problems mathematically. | MAL505 MATHEMATICAL ELEMENTS FOR ENGINEERS: RQs → COs ↓: CO1 — PO1: M; PO2: L; PO3: L
+CO3: able to formulate and solve physical problems mathematically. | MAL505 MATHEMATICAL ELEMENTS FOR ENGINEERS: RQs → COs ↓: CO2 — PO1: H; PO2: M; PO3: H
+CO3: able to formulate and solve physical problems mathematically. | MAL505 MATHEMATICAL ELEMENTS FOR ENGINEERS: RQs → COs ↓: CO3 — PO1: H; PO2: H; PO3: M
+CO3: able to formulate and solve physical problems mathematically. | MAL505 MATHEMATICAL ELEMENTS FOR ENGINEERS: RQs → COs ↓: OVERALL — PO1: H; PO2: M; PO3: M
+Content:
+Linear algebra and Matrices: Linear vector spaces, Linear dependence, basis and dimensions. Four fundamental subspaces, Linear transformations. Transformation from one linear space to another.
+Inner product space and applications. Eigen values and Eigen vectors, diagonalization, complex matrices, similarity transformations, matrix norms & condition number, iterative methods for solving AX = b.
+Numerical techniques: Review of topics in elementary numerical analysis. Basic principles, Construction. Approximate integration formulae using method of undermined weights and nodes, Gauss Legendre formula, Gauss- Chebyshev formula, Gauss- Hermite formula. Errors in numerical integration.
+Finite Difference method: Approximation of derivatives (ordinary and partial) in terms of pivotal value. Applications to solve:
+Boundary value problems in ordinary differential equations
+Boundary value problems in partial differential equations, Laplace equation, one dimensional heat equation and one dimensional wave equation.
+Introduction to mathematical modeling: Study of cases of modeling through linear equations and different equations.
+Text Books/ Reference Books:
+G. D. Smith, 'Numerical solution of partial differential equations, Finite difference methods', Oxford University Press, 1985.
+R. K. Jain and S. R. Iyengar, 'Advanced Engineering Mathematics', Narosa Publishing, 2008
+Kreyszig, E. 'Advanced Engineering Mathematics', John Wiley & Sons, 8th Edition, 2008.
+M. K. Jain, S. R. Iyengar and R. K. Jain,', 'Numerical methods for Scientific and Engineering Computation', New Age International, 2008.
+G. Strang, 'Linear Algebra and Its Applications', Thompson Publications, 2006
+MED501 PROJECT PHASE I
+3 credits
+Pre-requisites: Nil
+Overlaps with:
+Course Outcomes/ Objectives: Students will be able to
+To identify research problem
+To review literature
+To present research report
+To carry out scientific investigation
+Mapping with POs*:
+Course Outcomes/ Objectives: Students will be able to | Mapping with POs*: POs → ↑SOO: C01 — PO1: H; PO2: M; PO3: M
+Course Outcomes/ Objectives: Students will be able to | Mapping with POs*: POs → ↑SOO: CO2 — PO1: H; PO2: M; PO3: M
+Course Outcomes/ Objectives: Students will be able to | Mapping with POs*: POs → ↑SOO: CO3 — PO1: M; PO2: H; PO3: H
+Course Outcomes/ Objectives: Students will be able to | Mapping with POs*: POs → ↑SOO: CO4 — PO1: H; PO2: H; PO3: H
+Course Outcomes/ Objectives: Students will be able to | Mapping with POs*: POs → ↑SOO: Overall — PO1: H; PO2: H; PO3: H
+Content
+Text Books/ Reference Books:
+MEL402 SURFACE ENGINEERING
+3 credits (3-0-0) Pre-
+requisites: Nil Overlaps
+with:
+Course Outcomes/ Objectives:
+Upon completing this course: Students will be able to
+Demonstrate an understanding and critical awareness of the concepts of surface
+engineering
+Demonstrate a sound knowledge for the systematic application of alternative technologies used to fabricate coating systems.
+Recommend techniques used to characterize the surface and explain the principles behind their operation.
+Select the most suitable surface engineering techniques that would give the required properties Mapping with POs:
+Select the most suitable surface engineering techniques that would give the required properties Mapping with POs | MEL402 SURFACE ENGINEERING: POs → COs ↓: CO1 — PO2: -; PO3: H
+Select the most suitable surface engineering techniques that would give the required properties Mapping with POs | MEL402 SURFACE ENGINEERING: POs → COs ↓: CO2 — PO1: -; PO2: -; PO3: H
+Select the most suitable surface engineering techniques that would give the required properties Mapping with POs | MEL402 SURFACE ENGINEERING: POs → COs ↓: CO3 — PO1: L; PO2: -; PO3: M
+Select the most suitable surface engineering techniques that would give the required properties Mapping with POs | MEL402 SURFACE ENGINEERING: POs → COs ↓: CO4 — PO1: L; PO2: L; PO3: H
+Select the most suitable surface engineering techniques that would give the required properties Mapping with POs | MEL402 SURFACE ENGINEERING: POs → COs ↓: Overall — PO1: L; PO2: L; PO3: H
+Content
+Need for surface engineering, Classification of surface engineering methods and Surface Preparation. Surface Hardening without modification of surface chemistry - Induction hardening, Flame hardening, Laser beam hardening and Electron beam hardening.
+Thermo Chemical Diffusion Treatments - Carburizing, nitriding and boriding techniques.
+Mechanical treatments - Cold working, Shot peening and SMAT processes and Laser peening. Friction based - friction surfacing and friction stir processing techniques.
+Hard facing - selection of hard facing materials and techniques. Laser cladding and laser surface alloying.
+Thermal spraying techniques - Flame spraying, Oxy-fuel powder spraying, D-gun spraying, HVOF coating, Plasma spraying and Cold/kinetic spraying. Physical vapour deposition - PVD system, Thermal evaporation, Sputtering, Pulsed laser deposition, Electron beam deposition. Chemical Vapour Deposition (CVD) - CVD system, Hot wall and Cold wall reactors, Thermally activated and Plasma assisted CVD techniques. CVD diamond - A case study.
+Protective coatings for high temperature applications - Diffusion coatings, Overlay coatings, Pack cementation. Thermal Barrier Coatings (TBC) - Coating architecture, deposition methods and applications.
+Structural, microstructural and mechanical characterization techniques with focus on surface engineering.
+Text Books/ Reference Books:
+Budinski ,K.G., 'Surface Engineering for Wear Resistances', Prentice Hall, Englewood Cliffs, 1988
+Ohring, M., ' The Materials Science of Thin Films', Academic Press Inc, 2005
+Morton, P.H., 'Surface Engineering & Heat Treatment', Brooke field, 1991
+MEL407 BIOMECHANICS
+3 credits (3-0-0) Pre-
+requisites: Nil Overlaps
+with:
+Course Outcomes/ Objectives:
+Apply a broad and coherent knowledge of the underlying principles and concepts of biomechanics, particularly in the fields of kinematics and kinetics as applied to human and projectile motion.
+Safely and effectively use biomechanics instrumentation and equipment to record and assess human and object motion.
+Record, extract and analyse key information about teeth, muscles, bones etc.
+Mapping with POs:
+Record, extract and analyse key information about teeth, muscles, bones etc. | MEL407 BIOMECHANICS: POs →: COs ↓ CO1 — PO1: M; PO2: H; PO3: M
+Record, extract and analyse key information about teeth, muscles, bones etc. | MEL407 BIOMECHANICS: POs →: CO2 H M - — PO1: CO3 L; PO2: H --
+Record, extract and analyse key information about teeth, muscles, bones etc. | MEL407 BIOMECHANICS: POs →: Overall — PO1: M; PO2: H; PO3: L
+Content
+Definition of Biomechanics, Selected Historical highlights, The Italian Renaissance, Gait century, Mechanics, Newton's laws of motion, Equation of motion for rigid Body. Biological materials, Brief Anatomy, Bone, cartilage, ligament, tendon, Muscles, their physical properties, degree of freedom of joints.Dental Biomechanics, Function of dentin, pulp, periodontal ligament. prosthodontistry, orthodontistry. Measuring techniques for force, pressure distribution, acceleration, Optical methods, strain measurement, inertial properties of human body. General considerations for modeling, types of model, validation of model, force system analysis, assumptions, free body diagrams, Simulation, Numerical solution methods, Muscle models, modeling of external forces, optimization studies, simulation as a scientific tool. Introduction Biomedical engineering, application of advanced engineering techniques to human body, case studies.
+Text Books/ Reference Books:
+Nigg, B.M.and Herzog, W., 'BIOMECHANICS of Musculo skeleton system', John Willey & Sons, 1 st Edition.
+Saltzman, W.L., 'BIOMEDICAL ENGINEERING: Bridging medicine and Technology', Cambridge Text, First Edition.
+Winter, D., 'BIOMECHANICS and Motor Control of Human Movement', WILEY InterscienceSecond edition
+MEL414 TRIBOLOGY
+3 credits (3-0-0)
+Pre-requisites: Nil
+Overlaps with:
+Course Outcomes/ Objectives:
+The focus of Tribology & Lubrication is the fundamentals of interfacial contact, adhesion, friction, wear and lubrication. By the end of the course student should:
+Have a knowledge of surface topography and know how to model a rough engineering
+surface.
+Have a clear overall picture about the basics of tribology and related sciences, theoretical background about processes in tribological system, mechanisms and interaction of friction surfaces.
+Understand Hertz contact and rough surface contact.
+Be familiar with adhesion theories and the effect of adhesion on friction and wear.
+Have a mastery of the friction/lubrication mechanisms and know how to apply them to the practical engineering problem.
+Mapping with POs:
+Have a mastery of the friction/lubrication mechanisms and know how to apply them to the practical engineering problem. | Mapping with POs: POs→ COs: C01 — a: H; b: H; c: M
+Have a mastery of the friction/lubrication mechanisms and know how to apply them to the practical engineering problem. | Mapping with POs: POs→ COs: CO2 — a: H; b: H; c: H
+Have a mastery of the friction/lubrication mechanisms and know how to apply them to the practical engineering problem. | Mapping with POs: POs→ COs: CO3 — a: H; b: H; c: H
+Have a mastery of the friction/lubrication mechanisms and know how to apply them to the practical engineering problem. | Mapping with POs: POs→ COs: CO4 — a: H; b: M; c: M
+Have a mastery of the friction/lubrication mechanisms and know how to apply them to the practical engineering problem. | Mapping with POs: POs→ COs: CO5 — a: H; b: H; c: H
+Have a mastery of the friction/lubrication mechanisms and know how to apply them to the practical engineering problem. | Mapping with POs: POs→ COs: Overall — a: H; b: H; c: H
+Content: (CO wise, mention applicable COs at the end of each unit or paragraph):
+Component, Selection, Design and Performance Bearings: Selection criterion of journal, Antifriction bearings, thrust bearings; dry rubbing bearings, general design considerations and procedure of these bearings. (CO1,CO2,CO5)
+Study of special types of bearings: Porous metal bearing, Hydrostatics bearings, gas bearings, crankshaft bearings. Oscillatory journal bearings, spherical bearings, universal couplings. Study of following machine elements from the point of view of friction, gear and lubrication, cams, all types of gears, power transmission chain, clutches and brakes. (CO2, CO3,CO4,CO5)
+Design of following from the point of view of friction, gear and lubrication: wire cables / control cables, slides, valves, piston rings, cylinders & liners, seals. Gear: Analytical methods of gear analysis, zero and non-zero gear consideration, gear measuring methods, gear resistant parts, material selection, hard surface coatings: selection and applications. (CO2, CO3,CO4,CO5)

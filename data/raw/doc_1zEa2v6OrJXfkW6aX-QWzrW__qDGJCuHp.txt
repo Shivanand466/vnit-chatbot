@@ -1,0 +1,108 @@
+SOURCE_URL: https://drive.google.com/file/d/1zEa2v6OrJXfkW6aX-QWzrW__qDGJCuHp/view
+TITLE: Click here for the Advertisement
+FETCHED: 2025-08-11
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Click here for the Advertisement (dated 2025-08-11)
+Advertisement for Post-Doctoral Fellow (PDF) applications under the Visvesvaraya Scheme of MeitY
+Applications are invited for Postdoctoral Fellowship (PDF) positions under the "Visvesvaraya PhD Scheme for Electronics and IT: Phase II" Sponsored by MeitY, Govt. of India, for the Academic Year 2025-26. Candidates who meet the eligibility criteria for admission may apply through the available form on the institute's website.
+1. Eligibility and Duration
+The PDF will be awarded to researchers with a proven academic record, including peer-reviewed publications and recognitions.
+It is a full-time, non-transferable, temporary position tenable in India only.
+The fellowship is valid for 1 year.
+The PDF applicant should be an Indian citizen.
+PDF applicants currently in regular employment will not be considered. However, scientists or esearchers with temporary positions in academia or research institutions would be considered, but they would be required to relinquish their current roles if selected for the fellowship.
+The PDF applicant must have obtained a PhD degree from a recognized University with a first class (in terms of grades, etc.) in all preceding levels and a good academic record throughout.
+The PDF applicant must have completed a PhD within the past 5 years on the last date of submission of the application to the institution.
+PDF applicants should not have completed their PhD from VNIT Nagpur.
+The upper age limit for the fellowship is 40 years on the date of submission of the application.
+The research proposal of the PDF applicant, to be submitted to the VNIT Nagpur, should define clear objectives, outcomes and deliverables against the award.
+Preference would be given to PDF applicants who have active industry linkages, and their research proposal is directed towards industry-specific problems.
+2. Responsibilities of the PDF Awardee
+In addition to their research work, the awardees need to participate in activities under the Visvesvaraya PhD Scheme as assigned by the PhD Cell, such as:
+o Evaluation of research work of PhD Candidates
+0Mentoring of PhD candidates
+o Participation in collaborative research under the scheme
+o Participation in workshops and events
+o Other assignments by PhD Cell
+Provide research proposals including specific timelines, deliverables, etc. and monthly progressreports.
+Report significant achievements during the tenure.
+Promptly follow the directions of the PhD Cell.
+. 5. Acknowledge the scheme at all significant forums, including publications/achievements/recognitions, etc., using the following template:
+"This publication/achievement/recognitionis an outcome of the R&D work undertaken during the tenure of the PDF award under the Visvesvaraya PhD Scheme, being implemented by the PhD Cell, Digital India Corporation, MeitY."
+Inform thePhD Cell at least one month in advanceof anylong-term leave (e.g., study leave, sabbatical, etc.).
+Must not receive any other fellowship during the award period.
+If the awardee wishes to discontinue the fellowship, one month's notice is to be given by the institution before the date of discontinuation.
+3. Financial Support
+●Fellowship:1,08,393/month
+Contingency Grant: 1,00,000/- (disbursed on a pro-rata basis, e.g. 25,000/quarter)
+Contingency Grant usage is restricted to:
+Minor equipment
+Consumables
+Research-related items
+4. Review and Monitoring
+Performance will be periodically reviewed by theMeitY PhD Cell via:
+Reports
+Expert visits
+Workshops andinteractions
+Any other methods asdeemedappropriate by the PhD Cell
+5. Other Guidelines
+Candidates can apply through the downloaded application form only.
+Candidates are required to attach their academic profile. The academic profile includes the following information:
+Details of publications/conference papers
+Awards, patents, prizes etc.,
+Other activities
+If the candidate is employed, a relieving certificate from the employer should be produced at the time of admission.
+The institute will not be responsible for any errors in the application process.
+The date and time of the interview for the shortlisted candidates will be communicated to them through email.
+No separate intimation will be given to the individual applicant.
+The institute reserves the right not to fill up the position, cancel the advertisement in whole or in part, without assigning any reason, and the decision of the Director, VNIT Nagpur in this regard shall be final.
+The decision of the committees involved in the selection process is final and binding for nomination. However, the final award of the post-doctoral fellowship will be done by the Visvesvaraya Ph.D. Scheme Phase 2, Digital India Corporation, MEITY.
+No interim correspondence/inquiries will be entertained from the candidates in connection with the process of shortlisting/selection. Any dispute with regard to selection process will be subject to court/tribunal having jurisdiction at Bombay High Court.
+A non-refundable processing fee of Rs. 500/- (for GEN/OBC-NCL/EWS) and Rs. 200/- (for SC/ST/PwD) are required to be paid in the form of DD in favour of, Director VNIT, Nagpur.
+The duly filled-in application form along with enclosures and a non-refundable application fee receipt should be sent to the HOD, Computer Science, before 15th August 2025.
+DIRECTOR VNIT
+Advertisement in News Papers
+Visvesvaraya National Institute of Technology,Nagpur POST DOCTORAL Admissions (01 Seat)
+Visvesvaraya Ph.D. Scheme of Ministry of Electronics and Information Technology (MEITY), Government of India
+Under
+The institute has one full time Post Doctoral position in Center for VLSI and Nanotechnology/Department of Computer Science and Engineering under the Visvesvaraya PhD scheme of MEITY, Govt of India. If suitable candidates are not available in Center for VLSI and Nanotechnology, the seat can be allotted can be allotted to CSE Department. The candidates working under the scheme has to work in the specialized, thrust and high priority areas of the Scheme under MEITY. The research areas are mainly under core areas of Electronics, Information Technology, Computer Science, all Al and ML areas and applications. The candidates willing to work under the Visvesvaraya Ph. D. Scheme must be ready to follow all the terms and conditions of the scheme. The formats and documents for applying under the scheme are available on the website link www.vnit.ac.in at the VNIT Nagpur website under the POST DOC admissions sub-link, under the ADMISSIONS Link. The copy of the Terms and conditions of the scheme are also available on the institute website www.vnit ac.in in the ADMISSIONS link and the scheme websitehttps://phd.dic.gov.in . The Applications should reach the VNITOffice Before 20thAugust 2025. The envelope and Application should clearly mark on the top, 'POST DOcTORAL Application, Deptt of VLSI/CSE (as applicable) under 'Visvesvaraya Ph.D. Scheme of MEITY, Govt of India' and addressed to 'The HOD, Department Name, VNIT, Nagpur, South Ambazari Road, Abhyankarnagar, Nagpur 440010'. In complete applications will be summarily rejected.
+Introduction
+Ministry of Electronics and Information Technology, Government of India initiated Visvesvaraya PhD Scheme for Electronics and IT"in the year 2014 with an objective to enhance the number of PhDs in Electronics System Design & Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES) sectors in the country.
+Phase-II of the Visvesvaraya PhD Scheme for Electronics and IT" was launched in 2021 for a period of nine years with a total estimated cost of Rs. 481.93 crore.
+Objectives
+Give thrust to R&D. create an innovative ecosystem and enhance India's competitiveness in these knowledge intensive sectors.
+To enhance the number of PhDs in Electronics System Design & Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES) sectors in the country.
+To achieve the above objectives. 1016Full Time and 330 Part Time PhD candidates were enrolled at eligible institutions across the country under Phase-I of the scheme. Further, 158 Young Faculty Research Fellowships (YFRFs) were awarded.
+Under Phase-II of the scheme, 1000 Full Time and 153 Part Time PhD seats have been allotted to the eligible institutions. Further, as on date, 125 Post Doctoral Fellowships (PDFs) seats have been allotted to eligible institutions. In addition to this, 11 YFRFs awards have been given to selected candidates as on date.
+Salient features of the PhD Scheme (Phase II):
+1. Full Time PhD Candidates
+1000 Full Time PhD seats (support upto 5 years or thesis submission) in the areas of ESDM & IT/ITES
+Monthly fellowship rates under the scheme: Rs. 38,750/- (1st & 2ndYr.). then Rs. 43,750/- (3rd to 5th Yr.)
+Support to attend selected International Conferences up to Rs. 1.5 Lakh per Full Time PhD candidate from 3rd year
+One time support for 250 Full Time PhD candidates from 3rd year for 6 months "Visit to Labs Abroad".
+Contingency Research Grant @ Rs. 1.20 Lakh/year per Full Time PhD candidate
+2. Part-time PhD Candidate
+150 Part Time PhD seats in the areas of ESDM & IT/ITES
+b)One time incentive of Rs. 3,00,000/- on successful completion of the PhD.
+3. Young Faculty Research Fellowships (YFRFs)
+50 YFRFs to be awarded under the scheme.
+Fellowship of Rs. 20,000/- per month in addition to the regular income
+Research/Contingency Grant of Rs. 5,00,000/- per year for research expenses and presenting research work, to be granted for a maximum period of 5 years.
+The initial tenure of the award is 2 years, which is extendable based on the performance.
+Visvesvaraya PhD Scheme for Electronics and IT
+4. Post-Doctoral Fellowships
+Fellowship Rs. 1.08 Lakhs per month
+a)225 Post-Doctoral Fellowships (PDFs) under the scheme for a duration of 1 year
+c)Contingency Grant of Rs. 1.00 Lakh
+Duration
+The duration of the scheme is five years for the purpose of selecting candidates for support under the scheme. However, the funding would be continued till 9th year for the commitments already made during the selection period.
+Achievements of Visvesvaraya PhD Scheme Phase-I: Started in Mar 2014 for 9 years with an outlay of Rs.466 crore. Status as on 30thApr 2025:
+a)943 PhD candidates (773 Full Time + 170 Part Time) have completed their PhDs
+159 PhD candidates (63 Full Time + 96 Part Time) are currently pursuingPhDs
+58 PhD candidates (51 Full Time + 07 Part Time) have submitted Theses
+d)158Young Faculty Research Fellowship (YFRFs) was supported
+Total Patents: 90 (20Granted; 07 Published; 63 Filed)
+e)5750 publications reported by PhD candidates and YFRF awardees
+Research has been undertaken under the scheme in emerging research areas viz. Image Processing/ DSP/ Pattern Recognition. 3D Printing. 5G Communications, Artificial Intelligence, Big Data, Blockchain/ Distributed Computing. Cyber Security, Green and Sustainable ICT, Quantum Computing/ Communication, Semiconductor Design etc.
+Please refer to https: phd.dic.gov.in for more detail.

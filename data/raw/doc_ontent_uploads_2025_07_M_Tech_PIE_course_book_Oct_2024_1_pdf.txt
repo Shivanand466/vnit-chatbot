@@ -1,0 +1,488 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/wp-content/uploads/2025/07/M.-Tech.-PIE-course-book-Oct-2024-1.pdf
+TITLE: Production and Industrial Engineering
+FETCHED: 2025-07-01
+FOUND_ON: https://vnit.ac.in/engineering/mech/
+---
+Document: Production and Industrial Engineering (dated 2025-07-01)
+DEPARTMENT OF MECHANICAL ENGINEERING
+Course Book for
+M. Tech. in
+Production & Industrial Engineering
+For
+Academic Year 2023- 2024
+Visvesvaraya National Institute of Technology,
+Nagpur-440 010 (MH)
+Institute Vision Statement
+To contribute effectively to the National and International endeavor of producing quality human resource of world class standard by developing a sustainable technical education system to meet the changing technological needs of the Country and the World incorporating relevant social concerns and to build an environment to create and propagate innovative technologies for the economic development of the Nation.
+Institute Mission Statement
+The mission of VNIT is to achieve high standards of excellence in generating and propagating knowledge in engineering and allied disciplines. VNIT is committed to providing an education that combines rigorous academics with joy of discovery. The Institute encourages its community to engage in a dialogue with society to be able to effectively contribute for the betterment of humankind.
+Department Vision Statement
+To produce quality human resource of high standard in mechanical engineering who can contribute favorably to the technological and socio-economic development of the nation.
+Department Mission Statement
+To develop state of the art facilities related to mechanical engineering. To attract highly qualified faculty to the mechanical engineering department. To promote participation of industries in academics, research and consultancy. To undertake research at regional and national level.
+Brief about Mechanical Department
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. Faculty members of the department are highly motivated for teaching and conducting research in the diversified fields of mechanical engineering.
+List of Faculty Members
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. P. M. Padole — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. S. B. Thombre — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. A. M. Kuthe — Areas of specialization: Manufacturing
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. V. R. Kalamkar — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. Y. M. Puri — Areas of specialization: Manufacturing and Industrial Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. D. B. Zodpe — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. A. B. Andhare — Areas of specialization: Manufacturing
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. J. G. Suryawanshi — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. S. S. Chiddarwar — Areas of specialization: Manufacturing and Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. R. V. Uddanwadikar — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. A. S. Dhoble — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. H.P. Jawale — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. M. S. Kotambkar — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. A. K. Singh — Areas of specialization: Design and Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. Trushar B Gohil — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. T. V. K. Gupta — Areas of specialization: Manufacturing
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. Ravikumar Dumpala — Areas of specialization: Manufacturing
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. P. V. Kane — Areas of specialization: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. D. A. Jolhe — Areas of specialization: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. V. M. Nistane — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. G. Tiwari — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. S Roga — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. A. A. Thakre — Areas of specialization: Design and Industrial Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. K. M. Asthankar — Areas of specialization: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. P. D. Sawarkar — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. N. K. Lautre — Areas of specialization: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. A. A. Baxy — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. N. A. Reddy — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. R. P. Soni — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest department started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of Faculty Members: Faculty Name: Dr. Rahul Tarodiya — Areas of specialization: Thermal Engineering
+UG/ PG Programmes Offered by Mechanical Department:
+The department offers following undergraduate and postgraduate programmes
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: UG B. Tech in Mechanical Engineering — Program Description: Intake: 115
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: PG M. Tech. in 1. Computer Aided Design & 2. Production & Industrial 3. Heat Power Engineering 4. Biomedical Engineering (Interdisciplinary) — Program Description: Manufacturing Engineering Intake : 23 Intake : 23 Intake : 23 Intake : 14
+Credit System at VNIT:
+Education at the Institute is organized around the semester-based credit system of study. The prominent features of the credit system are a process of continuous evaluation of a student's performance / progress and flexibility to allow a student to progress at an optimum pace suited to his/her ability or convenience, subject to fulfilling minimum requirements for continuation. A student's performance/progress is measured by the number of credits he/she has earned, i.e. completed satisfactorily. Based on the course credits and grades obtained by the student, grade point average is calculated. A minimum number of credits and a minimum grade point average must be acquired by a student in order to qualify for the degree.
+Course credits assignment
+Each course, except a few special courses, has certain number of credits assigned to it depending on lecture, tutorial and laboratory contact hours in a week.
+For Lectures and Tutorials: One lecture hour per week per semester is assigned one credit and For Practical/ Laboratory/ Studio: One hour per week per semester is assigned half credit.
+Example: Course XXXXXX with (3-0-2) as (L-T-P) structure, i.e. 3 hr Lectures + 0 hr Tutorial + 2 hr Practical per week, will have (3x1 + 0x1 + 2x0.5 =) 4 credits.
+Grading System
+The grading reflects a student's own proficiency in the course. While relative standing of the student is clearly indicated by his/her grades, the process of awarding grades is based on fitting performance of the class to some statistical distribution. The course coordinator and associated faculty members for a course formulate appropriate procedure to award grades. These grades are reflective of the student's performance vis-à-vis instructor's expectation. If a student is declared pass in a subject, then he/she gets the credits associated with that subject.
+Depending on marks scored in a subject, a student is given a Grade. Each grade has got certain grade points as follows:
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AA — Grade points: 10; Description: Outstanding
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AB — Grade points: 9; Description: Excellent
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BB — Grade points: 8; Description: Very good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BC — Grade points: 7; Description: Good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CC — Grade points: 6; Description: Average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CD — Grade points: 5; Description: Below average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: DD — Grade points: 4; Description: Marginal (Pass Grade)
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: FF — Grade points: 0; Description: Poor (Fail) /Unsatisfactory / Absence from end-sem exam
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NP — Grade points: -; Description: Audit pass
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NF — Grade points: -; Description: Audit fail
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: SS — Grade points: -; Description: Satisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: ZZ — Grade points: -; Description: Unsatisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: W — Grade points: -; Description: Insufficient attendance
+Performance Evaluation
+The performance of a student is evaluated in terms of two indices, viz, the Semester Grade Point Average (SGPA) which is the Grade Point Average for a semester and Cumulative Grade Point Average (CGPA) which is the Grade Point Average for all the completed semesters at any point in time. CGPA is rounded up to second decimal.
+The Earned Credits (ECR) are defined as the sum of course credits for courses in which students have been awarded grades between AA to DD. Grades obtained in the audit courses are not counted for computation of grade point average.
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AA- DD grade has been obtained
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded
+CGPA= EGP / Σ(Course credits) for courses passed in all completed semesters in which AADD grades are awarded
+CGPA= EGP / Σ(Course credits) for courses passed in all completed semesters in which AADD grades are awarded | Performance Evaluation: Category of Course.Program Core: Departmental core — Symbol.Program Core: DC; Credit Requirement.M. Tech. (Production & Industrial Engg.) (2 Year).Program Core: 34
+CGPA= EGP / Σ(Course credits) for courses passed in all completed semesters in which AADD grades are awarded | Performance Evaluation: SN.Program Core: Program Elective — Category of Course.Program Core: Program Elective; Symbol.Program Core: Program Elective; Credit Requirement.M. Tech. (Production & Industrial Engg.) (2 Year).Program Core: Program Elective
+CGPA= EGP / Σ(Course credits) for courses passed in all completed semesters in which AADD grades are awarded | Performance Evaluation: Category of Course.Program Core: Departmental Elective — Symbol.Program Core: DE; Credit Requirement.M. Tech. (Production & Industrial Engg.) (2 Year).Program Core: 1 8 (+1)
+CGPA= EGP / Σ(Course credits) for courses passed in all completed semesters in which AADD grades are awarded | Performance Evaluation: SN.Program Core: Total requirement : DC+ DE = — Category of Course.Program Core: Total requirement : DC+ DE =; Symbol.Program Core: Total requirement : DC+ DE =; Credit Requirement.M. Tech. (Production & Industrial Engg.) (2 Year).Program Core: 52 (+1)
+CGPA= EGP / Σ(Course credits) for courses passed in all completed semesters in which AADD grades are awarded | Performance Evaluation: SN.Program Core: Minimum Cumulative Grade Point Average required for the award of degree — Category of Course.Program Core: Minimum Cumulative Grade Point Average required for the award of degree; Symbol.Program Core: Minimum Cumulative Grade Point Average required for the award of degree; Credit Requirement.M. Tech. (Production & Industrial Engg.) (2 Year).Program Core: 6.00
+Overall Credits Requirement for Award of Degree of M.Tech in Production & Industrial Engineering
+Attendance Rules
+All students must attend every class and 100% attendance is expected from the students. However, in consideration of the constraints/ unavoidable circumstances, the attendance can be relaxed by course coordinator only to the extent of not more than 25%. Every student must attend minimum of 75% of the classes actually held for that course.
+A student with less than 75% attendance in a course during the semester, will be awarded W grade. Such a student will not be eligible to appear for the end semester and re-examination of that course. Even if such a student happens to appear for these examinations, then, answer books of such students will not be evaluated.
+A student with W grade is not eligible to appear for end semester examination, reexamination & summer term.
+Program Outcomes for M. Tech (Common to all PG programmes):
+PO1 → An ability to independently carry out research /investigation and development work to solve practical problems.
+PO2 → An ability to write and present a substantial technical report/document.
+PO3 → Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program.
+ANNEXURE -2
+Department of Mechanical Engineering
+List of courses for the PG Program
+M. Tech. in Industrial and Production Engineering (modified)
+I. To be offered in Odd semester
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL5xx — Title: Materials and Logistics Management; DC/DE: DC; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL502 — Title: Methods Engineering and Ergonomics; DC/DE: DC; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEP502 — Title: Methods Engineering and Ergonomics Lab; DC/DE: DC; Structure L-T-P: 0-0-2; Credit: 1
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL521 — Title: Production Planning and Control; DC/DE: DC; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEP 521 — Title: Production Planning and Control Lab; DC/DE: DC; Structure L-T-P: 0-0-2; Credit: 1
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MED501 — Title: Project Phase I; DC/DE: DC; Credit: 6; Pre- requites: 25 Credits
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL517 — Title: Quantitative Techniques in Industrial Management; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL5xx — Title: Design of Experiments; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL5xx — Title: Advance Supply Chain Management; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL5xx — Title: Reliability Engineering; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL553 — Title: Personal Management and Industrial Relations; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL5xx — Title: Smart Manufacturing and Industry 4.0; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+M. Tech. in Industrial and Production Engineering (modified) | I. To be offered in Odd semester: Code: MEL518 — Title: Fracture Mechanics & Non Destructive Testing; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document)
+II. To be offered in Even semester
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL5xx — Title: Industrial Automation; DC/DE: DC; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEP5xx — Title: Industrial Automation Lab; DC/DE: DC; Structure L-T-P: 0-0-2; Credit: 1
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL501 — Title: Statistics and Quality Assurance; DC/DE: DC; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL5xx — Title: Advanced Manufacturing Processes; DC/DE: DC; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL5xx — Title: Advanced Manufacturing Processes Lab; DC/DE: DC; Structure L-T-P: 0-0-2; Credit: 1
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MED502 — Title: Project Phase-II; DC/DE: DC; Credit: 6; Pre- requites: 35 Credits+ Project Phase I
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL5xx — Title: Marketing Research and Data Analytics; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL5xx — Title: Production System Modeling and Simulation; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL5xx — Title: Business Analytics; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL520 — Title: Non-Linear Optimization; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL530 — Title: Machine Condition Monitoring; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL532 — Title: Layered Manufacturing; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEP 532 — Title: Layered Manufacturing Lab; DC/DE: DE; Structure L-T-P: 0-0-2; Credit: 1
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL555 — Title: Project Evaluation and Management; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL529 — Title: Industrial Product Development; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+Chairman BoS Name & Signature (To sign on every page of the document) | II. To be offered in Even semester: Code: MEL5xx — Title: Plastic Process Engineering; DC/DE: DE; Structure L-T-P: 3-0-0; Credit: 3
+III. Total credits to be earned for completion of the degree program:
+Through DC category courses = 34 credits
+Through DE category courses = 18 credits +1
+_______________________
+Total = 52 Credits +1
+Chairman BoS Name & Signature
+(To sign on every page of the document)
+Date:
+ODD SEMESTER
+(To sign on every page of the document) | ODD SEMESTER: Course Title (Code):: Course Objectives: — Materials and Logistics Management (MELXXX): 1. To know importance of integrated material management 2. To know different inventory models and inventory control technique 3. To know and improve material management functions involved in materials management and logistics 4. To give introduction to different philosophies like logistics JIT, MRP, SCM etc.; L: 3 T: 0 P: 0: 1. To know importance of integrated material management 2. To know different inventory models and inventory control technique 3. To know and improve material management functions involved in materials management and logistics 4. To give introduction to different philosophies like logistics JIT, MRP, SCM etc.
+(To sign on every page of the document) | ODD SEMESTER: Course Title (Code):: Articulation matrix: — Materials and Logistics Management (MELXXX): POs → COs ↓; Materials and Logistics Management (MELXXX): a; Materials and Logistics Management (MELXXX): b; Materials and Logistics Management (MELXXX): c; L: 3 T: 0 P: 0: H: High impact M: Medium impact L: Low impact
+(To sign on every page of the document) | ODD SEMESTER: Course Title (Code):: Articulation matrix: — Materials and Logistics Management (MELXXX): CO1; Materials and Logistics Management (MELXXX): L; Materials and Logistics Management (MELXXX): H; Materials and Logistics Management (MELXXX): L; L: 3 T: 0 P: 0: H: High impact M: Medium impact L: Low impact
+(To sign on every page of the document) | ODD SEMESTER: Course Title (Code):: Articulation matrix: — Materials and Logistics Management (MELXXX): CO2; Materials and Logistics Management (MELXXX): H; L: 3 T: 0 P: 0: H: High impact M: Medium impact L: Low impact
+(To sign on every page of the document) | ODD SEMESTER: Course Title (Code):: Articulation matrix: — Materials and Logistics Management (MELXXX): CO3; Materials and Logistics Management (MELXXX): H; Materials and Logistics Management (MELXXX): M; Materials and Logistics Management (MELXXX): H; L: 3 T: 0 P: 0: H: High impact M: Medium impact L: Low impact
+(To sign on every page of the document) | ODD SEMESTER: Course Title (Code):: Articulation matrix: — Materials and Logistics Management (MELXXX): CO4; Materials and Logistics Management (MELXXX): H; Materials and Logistics Management (MELXXX): M; L: 3 T: 0 P: 0: H: High impact M: Medium impact L: Low impact
+(To sign on every page of the document) | ODD SEMESTER: Course Title (Code):: Prerequisite/Overlap — Materials and Logistics Management (MELXXX): Overall Course:; Materials and Logistics Management (MELXXX): H NIL; Materials and Logistics Management (MELXXX): M Prerequisite; Materials and Logistics Management (MELXXX): M Credits:; L: 3 T: 0 P: 0: H: High impact M: Medium impact L: Low impact
+Text Books / Reference Books
+P Gopalkrishnan & M. Sudarshan, 'Materials Management', PHI learning Pvt. Ltd.
+A. K. Chitale, R. C. Gupta, 'Materials Management: Texts and Cases', PHI learning pvt ltd.
+Tony Arnold, 'Introduction to Materials Management', Pearsons
+Contents
+Materials Management, Integrated Materials Management. [CO1]
+Inventory Management Models, Selective Inventory Models. [CO2]
+Classification and Codification of Materials, Specification in Materials Management, Standardisation and variety reduction, Management of Material Waste, Budgeting and Materials Planning, Storage and warehousing. [CO3]
+Purchase : policies and procedures, Public buying, International Purchasing, Import substitution, Source Selection, Performance Rating and Development, Negotiation, Purchasing of Capital equipment's, Make or Buy Decision, Incoming Material Quality Assurance, Value analysis for material cost reduction, Evaluation of Materials Management effectiveness. [CO3]
+Introduction to Logistics Systems, Logistics Requirement Identification, Logistics Networks, Single Echelon and Multi-echelon Inventory Models, Long Houl and Short Houl Freight Transports, Warehousing, Enabling Technologies, MRP [ , MRPII , Just in Time, Kanban. [CO4]
+Logistics, Components of Logistics, Cost Analysis of Logistics. [CO4}
+Course Title (Code):
+Method Engineering & Ergonomics (MEL502)
+L:3 T:0 P:0
+Course Objectives:
+Articulation matrix:
+Understanding the fundamental principles and concepts of work study with emphasize on method study and work measurement.
+Understanding the fundamental principles and concepts of ergonomics with its applications in various domains like, product design, workplace design, system design, anthropometry, psychology, etc.
+Developing the analytical and problem solving abilities, using appropriate tools and techniques, in the related areas through individual or group exercises.
+Developing the analytical and problem solving abilities, using appropriate tools and techniques, in the related areas through individual or group exercises. | Articulation matrix: a: M — b: M; c: L
+Developing the analytical and problem solving abilities, using appropriate tools and techniques, in the related areas through individual or group exercises. | Articulation matrix: a: H — b: H; c: M
+Developing the analytical and problem solving abilities, using appropriate tools and techniques, in the related areas through individual or group exercises. | Articulation matrix: a: H — b: H; c: H
+Developing the analytical and problem solving abilities, using appropriate tools and techniques, in the related areas through individual or group exercises. | Articulation matrix: POs COs: Overall — a: H; b: H; c: M
+H: High impact
+M: Medium impact
+L: Low impact
+Kanawaty, George (Ed.), Introduction to Work study, ILO
+Bridger, R. S., Introduction to Ergonomics, CRC Press
+G. Salvendy (Ed.), Handbook of Human Factors and Ergonomics, John Wiley & Sons.
+Sanders, M. S. and McCormick, E. J., Human Factors in Engineering and Design, McGraw-Hill.
+Prerequisite/Overlap /Equivalent Course: NIL
+Prerequisite Credits: NIL
+Contents
+Method study (including various recording techniques), Principles of motion economy, Micromotion study, Work measurement- Stop watch time study, Work sampling, MTM, PMTS, MOST, Concepts of performance rating, allowances and learning curve. [CO1]
+Man-machine system, Human physiology and anatomy, Human limitations, Anthropometry (including statistical treatment), Anthropometric design procedure, Behavior, perception and psychological aspects of ergonomics, Information processing, Cognitive ergonomics, Mental workload. [CO1]
+Occupational hazards & ergonomic intervention, WSMD, Ergonomic assessments such as REBA, RULA, Single action biomechanics analysis, HAMA, Stress indexes, etc., NIOSH & OSHA guidelines, Postural and movement analysis. [CO2]
+Environmental factors, Effect of noise, illumination, ventilation and vibrations on human performance, Thermal comfort, Heat exchange process, Acclimatization, Metabolism, Physiological costs and energy expenditure. [CO2]
+Design of workplace and work systems, Reach envelop analysis, Applications of ergonomics in product/system development such as automotive design, Usability analysis, Design of displays and controls, Speech intelligibility and communication design, Manual material handling and its biomechanics. [CO3]
+Digital human modelling and analysis in virtual environment using appropriate software. Case studies/mini projects in ergonomics and work study. [CO3]
+Text Books / Reference Books
+Digital human modelling and analysis in virtual environment using appropriate software. | Text Books / Reference Books: Course Title (Code):: Course Objectives: — Methods Engineering and Ergonomics Lab ( MEP502): 1. To demonstrate methods engineering techniques (such as method & motion study, work measurement techniques) in a laboratory setting. 2. To inculcate the critical understanding of various ergonomic design principles. 3. To demonstrate various ergonomic assessment/analysis methods with appropriate software.; L:0 T:0 P:2: 1. To demonstrate methods engineering techniques (such as method & motion study, work measurement techniques) in a laboratory setting. 2. To inculcate the critical understanding of various ergonomic design principles. 3. To demonstrate various ergonomic assessment/analysis methods with appropriate software.
+Digital human modelling and analysis in virtual environment using appropriate software. | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Methods Engineering and Ergonomics Lab ( MEP502): POs COs; Methods Engineering and Ergonomics Lab ( MEP502): a; Methods Engineering and Ergonomics Lab ( MEP502): b; Methods Engineering and Ergonomics Lab ( MEP502): c; L:0 T:0 P:2: H: High impact M: Medium impact L: Low impact
+Digital human modelling and analysis in virtual environment using appropriate software. | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Methods Engineering and Ergonomics Lab ( MEP502): 1; Methods Engineering and Ergonomics Lab ( MEP502): M; Methods Engineering and Ergonomics Lab ( MEP502): L; L:0 T:0 P:2: H: High impact M: Medium impact L: Low impact
+Digital human modelling and analysis in virtual environment using appropriate software. | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Methods Engineering and Ergonomics Lab ( MEP502): 2; Methods Engineering and Ergonomics Lab ( MEP502): H; Methods Engineering and Ergonomics Lab ( MEP502): M; L:0 T:0 P:2: H: High impact M: Medium impact L: Low impact
+Digital human modelling and analysis in virtual environment using appropriate software. | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Methods Engineering and Ergonomics Lab ( MEP502): 3; Methods Engineering and Ergonomics Lab ( MEP502): H; L:0 T:0 P:2: H: High impact M: Medium impact L: Low impact
+Digital human modelling and analysis in virtual environment using appropriate software. | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Methods Engineering and Ergonomics Lab ( MEP502): Overall; Methods Engineering and Ergonomics Lab ( MEP502): H; Methods Engineering and Ergonomics Lab ( MEP502): M; L:0 T:0 P:2: H: High impact M: Medium impact L: Low impact
+Contents
+Minimum 8 experiments out of the following:
+Study of charting techniques [CO1]
+Study of principles of motion economy [CO1]
+Study of Therbligs [CO1]
+Stop watch time study [CO1]
+Work sampling study [CO1]
+Training for performance rating [CO1]
+Application of MTM & PMTS [CO1]
+Application of MOST [CO1]
+Ergonomic assessment of different types of chair/tables [CO2]
+Response time measurement [CO2]
+Speech intelligibility test [CO2]
+Design of workstation [CO2]
+Design of displays [CO2]
+Design of controls [CO2]
+Physiological cost of activity [CO2]
+Rapid Upper Limb Assessment (RULA) [CO3]
+Rapid Entire Body Assessment (REBA) [CO3]
+Anthropometric data collection and application [CO2]
+Ergonomic assessment methods such as OWAS, NIOSH, etc. [CO3]
+Gait analysis techniques. [CO3]
+Digital human modeling. [CO3]
+Case study-based exercises on the relevant topics. [CO3]
+Course Title (Code):
+Production Planning and Control (MEL521)
+L:3 T:0 P:0
+Course Objectives:
+Articulation matrix:
+The student, upon completion of this course, will be able to:
+Describe and identify various components that make up manufacturing planning and control system and their interaction.
+Develop models that are applicable for supply chain inventory management, including quantity discounts, safety stocks, and order quantity and reorder point interactions.
+Develop algorithms that are appropriate for solving single-machine, twomachine, parallel-machines and flow shop scheduling problems.
+Show how (i) MRP-I, MRP-II and CRPs can be developed, and (ii) lot sizing decisions can be made in a manufacturing system.
+Identify, discuss, and implement important research topics within production planning and control.
+Identify, discuss, and implement important research topics within production planning and control. | Articulation matrix: POs: COs
+Identify, discuss, and implement important research topics within production planning and control. | Articulation matrix: a: L — b: H; c: L
+Identify, discuss, and implement important research topics within production planning and control. | Articulation matrix: a: H — b: H; c: H
+Identify, discuss, and implement important research topics within production planning and control. | Articulation matrix: a: H — b: M; c: H
+Identify, discuss, and implement important research topics within production planning and control. | Articulation matrix: a: H — b: M; c: M
+Identify, discuss, and implement important research topics within production planning and control. | Articulation matrix: a: H — b: M; c: H
+Identify, discuss, and implement important research topics within production planning and control. | Articulation matrix: POs: Overall — a: H; b: M; c: H
+H: High impact
+M: Medium impact
+L: Low impact
+Prerequisite/Overlap /Equivalent Course: NIL
+Prerequisite Credits: NIL
+Text Books / Reference Books
+Samuel Eilon, 'Elements of Production Planning and Control', Universal Publishing Corporation, Mumbai, 2018
+Stephen N Chapman, 'The Fundamentals of Production Planning and Control', Pearson Education Inc. 2007
+Kanishka Bedi, 'Production and Operations Management', Oxford Higher Education, 3 rd Edition, 2013
+A K Gupta, J K Sharma, 'Management of Systems' Macmillan Publishers India Ltd, 2012
+K C Jain, L N Aggarwal, 'Production Planning Control & Industrial Management', Khanna Publishers, 2017
+Mikell P Groover, 'Automation, Production Systems and ComputerIntegrated Manufacturing', Pearson Prentice Hall, 2 nd Edition, 2007
+Contents
+ Manufacturing Planning and Control: Material flow characteristics in manufacturing systems, Types of manufacturing systems and their associated planning and control problems, Life cycle concepts. Product selection and design, facility, location and layouts. (CO 1, CO2)
+ Line Balancing and Group Technology: Material handling, balancing of fabrication and assembly lines, modular assembly concepts, group technology and cellular manufacturing systems. (CO 1, CO 2)
+ CIMS & FMS: Problem of planning and control in CIMS and FMS. Aggregate production planning. Operations scheduling, MRP. Machine assignment and allocation of jobs. Sequencing
+problems. Flow shops scheduling and sequencing. Simulation of job shop priority rules. Gantt charts, production control with LOB. (CO 3, CO 4)
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. MAPI and other approaches. Case studies of constraints. Supply chain management. (CO 5)
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Course Title (Code): | PRODUCTION PLANNING AND CONTROL LAB (MEP 521) | PRODUCTION PLANNING AND CONTROL LAB (MEP 521) | PRODUCTION PLANNING AND CONTROL LAB (MEP 521) | PRODUCTION PLANNING AND CONTROL LAB (MEP 521) | PRODUCTION PLANNING AND CONTROL LAB (MEP 521) | PRODUCTION PLANNING AND CONTROL LAB (MEP 521) | L:0 T:0 P:2
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Course Objectives: | The student, upon completion of this course, will be able to: 1. To develop software skills to implement various PPC techniques 2. Can manage and organize Operational and Sequential Route Sheets 3. Work on various Material Requirement Planning and Master Production Schedules through Opensource software 4. Control and evaluate different forms and methods used in computer controlled PPC 5. Can develop a new custom based techniques with combination of available | The student, upon completion of this course, will be able to: 1. To develop software skills to implement various PPC techniques 2. Can manage and organize Operational and Sequential Route Sheets 3. Work on various Material Requirement Planning and Master Production Schedules through Opensource software 4. Control and evaluate different forms and methods used in computer controlled PPC 5. Can develop a new custom based techniques with combination of available | The student, upon completion of this course, will be able to: 1. To develop software skills to implement various PPC techniques 2. Can manage and organize Operational and Sequential Route Sheets 3. Work on various Material Requirement Planning and Master Production Schedules through Opensource software 4. Control and evaluate different forms and methods used in computer controlled PPC 5. Can develop a new custom based techniques with combination of available | The student, upon completion of this course, will be able to: 1. To develop software skills to implement various PPC techniques 2. Can manage and organize Operational and Sequential Route Sheets 3. Work on various Material Requirement Planning and Master Production Schedules through Opensource software 4. Control and evaluate different forms and methods used in computer controlled PPC 5. Can develop a new custom based techniques with combination of available | The student, upon completion of this course, will be able to: 1. To develop software skills to implement various PPC techniques 2. Can manage and organize Operational and Sequential Route Sheets 3. Work on various Material Requirement Planning and Master Production Schedules through Opensource software 4. Control and evaluate different forms and methods used in computer controlled PPC 5. Can develop a new custom based techniques with combination of available | The student, upon completion of this course, will be able to: 1. To develop software skills to implement various PPC techniques 2. Can manage and organize Operational and Sequential Route Sheets 3. Work on various Material Requirement Planning and Master Production Schedules through Opensource software 4. Control and evaluate different forms and methods used in computer controlled PPC 5. Can develop a new custom based techniques with combination of available | The student, upon completion of this course, will be able to: 1. To develop software skills to implement various PPC techniques 2. Can manage and organize Operational and Sequential Route Sheets 3. Work on various Material Requirement Planning and Master Production Schedules through Opensource software 4. Control and evaluate different forms and methods used in computer controlled PPC 5. Can develop a new custom based techniques with combination of available
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Articulation matrix: | methods. POs COs | a | b | c
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Articulation matrix: | 1 | L | H | H: High impact M: Medium H | H: High impact M: Medium H | impact
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Articulation matrix: | 2 | H H | L: Low H | L: Low H
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Articulation matrix: | 3 | H M | impact H | impact H
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Articulation matrix: | 4 | H M | M | M
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Articulation matrix: | 5 | H M | H M | H | H
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Articulation matrix: | Overall | H | H
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite Credits: NIL | Prerequisite Credits: NIL
+ Other Approaches & Case Studies: Maintenance / replacement and repair aspects of manufacturing facilities. | Contents: Text Books / Reference Books
+Contents
+List of Experiments (Tentative):
+Exercise based on Sales Forecasting problem using Software (Siemens CoE).
+Evaluation of Operation and Route Sheets
+Development of Sequential Gantt Chart (Siemens CoE)
+Working on the MPS for a product using Software for a given Bill of Materials
+Study of Material Handling System in a manufacturing organization (Siemens CoE)
+Production Cost study based on Break Even Analysis
+H: High impact
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Course Title (Code): | PROJECT PHASE I ( MED501) L:0 | PROJECT PHASE I ( MED501) L:0 | PROJECT PHASE I ( MED501) L:0 | PROJECT PHASE I ( MED501) L:0 | T:0 P:0
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Course Objectives: | 1. To identify research problem 2. To review literature 3. To present research report 4. To carry out scientific investigation | 1. To identify research problem 2. To review literature 3. To present research report 4. To carry out scientific investigation | 1. To identify research problem 2. To review literature 3. To present research report 4. To carry out scientific investigation | 1. To identify research problem 2. To review literature 3. To present research report 4. To carry out scientific investigation | 1. To identify research problem 2. To review literature 3. To present research report 4. To carry out scientific investigation
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Articulation matrix: | POs → COs ↓ | PO1 | PO2 PO3 | H: High impact M: Medium impact | H: High impact M: Medium impact
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Articulation matrix: | CO1 | L | M M | L: Low impact | L: Low impact
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Articulation matrix: | CO2 | M | M | M | M
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Articulation matrix: | CO3 | H | H H
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Articulation matrix: | CO4 | H | H H
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Articulation matrix: | Overall | H | H H
+Production Cost study based on Break Even Analysis | List of Experiments (Tentative): Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite/Overlap /Equivalent Course: NIL | Prerequisite Credits: 25
+Contents
+Production Cost study based on Break Even Analysis | Contents: Course Title (Code): Course Objectives: — Quantitative Techniques in Industrial Management ( MEL517): 1. Understand and learn basics of quantitative techniques and advance LPP techniques. 2. To understand and apply various Project Resource Management techniques. 3. Apply the simulation and investment analysis techniques for problem solving and decision making in the industrial and production management scenario.; L:3 T:0 P:0: 1. Understand and learn basics of quantitative techniques and advance LPP techniques. 2. To understand and apply various Project Resource Management techniques. 3. Apply the simulation and investment analysis techniques for problem solving and decision making in the industrial and production management scenario.
+Production Cost study based on Break Even Analysis | Contents: Course Title (Code): Articulation matrix: — Quantitative Techniques in Industrial Management ( MEL517): POs COs 1 2; Quantitative Techniques in Industrial Management ( MEL517): a; Quantitative Techniques in Industrial Management ( MEL517): b; Quantitative Techniques in Industrial Management ( MEL517): c H; Quantitative Techniques in Industrial Management ( MEL517): H: High impact; L:3 T:0 P:0: H: High impact
+Production Cost study based on Break Even Analysis | Contents: Course Title (Code): Articulation matrix: — Quantitative Techniques in Industrial Management ( MEL517): H; Quantitative Techniques in Industrial Management ( MEL517): M; Quantitative Techniques in Industrial Management ( MEL517): M: Medium impact; L:3 T:0 P:0: M: Medium impact
+Production Cost study based on Break Even Analysis | Contents: Course Title (Code): Articulation matrix: — Quantitative Techniques in Industrial Management ( MEL517): H; Quantitative Techniques in Industrial Management ( MEL517): M; Quantitative Techniques in Industrial Management ( MEL517): H
+Production Cost study based on Break Even Analysis | Contents: Course Title (Code): Articulation matrix: — Quantitative Techniques in Industrial Management ( MEL517): 3; Quantitative Techniques in Industrial Management ( MEL517): H; Quantitative Techniques in Industrial Management ( MEL517): M; Quantitative Techniques in Industrial Management ( MEL517): L: Low impact; L:3 T:0 P:0: L: Low impact
+Production Cost study based on Break Even Analysis | Contents: Course Title (Code): Articulation matrix: — Quantitative Techniques in Industrial Management ( MEL517): Overall; Quantitative Techniques in Industrial Management ( MEL517): H; Quantitative Techniques in Industrial Management ( MEL517): M; Quantitative Techniques in Industrial Management ( MEL517): H H; L:3 T:0 P:0: H H
+Production Cost study based on Break Even Analysis | Contents: Course Title (Code): Prerequisite/Overlap /Equivalent Course: NIL — Quantitative Techniques in Industrial Management ( MEL517): Prerequisite/Overlap /Equivalent Course: NIL; Quantitative Techniques in Industrial Management ( MEL517): Prerequisite Credits: NIL; L:3 T:0 P:0: Prerequisite Credits: NIL
+Production Cost study based on Break Even Analysis | Contents: Course Title (Code): Text Books / Reference Books — Quantitative Techniques in Industrial Management ( MEL517): 1. Frederick Hillier, Gerald Lieberman; Introduction To Operations Research: Concepts And Cases, Mc. Graw Hill 2. David R. Anderson, et. al.; Quantitative methods for Business, South Western Cengage Learning, 12 th Ed 3. N D Vohra, Quantitative Techniques in Management, Tata McGraw Hill, 3 rd Edition. 4. Rao, S. S., 'Engineering Optimization (Theory and Practice)', John Wiley & Sons, 5. Taha, H. A., 'Operations Research', Prentice Hall of India, New Delhi,; Quantitative Techniques in Industrial Management ( MEL517): Edition; Quantitative Techniques in Industrial Management ( MEL517): 1. Frederick Hillier, Gerald Lieberman; Introduction To Operations Research: Concepts And Cases, Mc. Graw Hill 2. David R. Anderson, et. al.; Quantitative methods for Business, South Western Cengage Learning, 12 th Ed 3. N D Vohra, Quantitative Techniques in Management, Tata McGraw Hill, 3 rd Edition. 4. Rao, S. S., 'Engineering Optimization (Theory and Practice)', John Wiley & Sons, 5. Taha, H. A., 'Operations Research', Prentice Hall of India, New Delhi,; L:3 T:0 P:0: 1. Frederick Hillier, Gerald Lieberman; Introduction To Operations Research: Concepts And Cases, Mc. Graw Hill 2. David R. Anderson, et. al.; Quantitative methods for Business, South Western Cengage Learning, 12 th Ed 3. N D Vohra, Quantitative Techniques in Management, Tata McGraw Hill, 3 rd Edition. 4. Rao, S. S., 'Engineering Optimization (Theory and Practice)', John Wiley & Sons, 5. Taha, H. A., 'Operations Research', Prentice Hall of India, New Delhi,
+1. Introduction: [CO1]
+Problem solving and decision-making tools.
+Quantitative analysis and decision-making techniques.
+Quantitative Methods in Practice
+2. Extension of Linear Programming: [CO1]
+Duality theory, primal-dual relationships, sensitivity analysis ,
+Goal programming
+Integer programming: Pure integer, mixed integer, binary integer programming Problem solving by Excel Solver
+Project Resource Management: [CO2]
+Allocation, Levelling and Smoothing methods, Scheduling and controlling project costs.
+Simulation: [CO3]
+types of simulation - Monte Carlo simulation - simulation applications; Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl.
+Investment and Break-Even Analysis: [CO3]
+Time value of money, Investment analysis,
+Risk and capital budgeting,
+B-E analysis
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Course Objectives: — 1. To develop the fundamental understanding of design of experiments and other experimental designs. 2. To validated the suitability of the treated models treated for different experimental situations. 3. To present the planning, implementation and analysis of a conducted experiment. 4. To describe the purpose of robust construction in experimental design.; Design of Experiments (MEL5xx: 1. To develop the fundamental understanding of design of experiments and other experimental designs. 2. To validated the suitability of the treated models treated for different experimental situations. 3. To present the planning, implementation and analysis of a conducted experiment. 4. To describe the purpose of robust construction in experimental design.; ): 1. To develop the fundamental understanding of design of experiments and other experimental designs. 2. To validated the suitability of the treated models treated for different experimental situations. 3. To present the planning, implementation and analysis of a conducted experiment. 4. To describe the purpose of robust construction in experimental design.; L:3 T:0 P:0: 1. To develop the fundamental understanding of design of experiments and other experimental designs. 2. To validated the suitability of the treated models treated for different experimental situations. 3. To present the planning, implementation and analysis of a conducted experiment. 4. To describe the purpose of robust construction in experimental design.
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Prerequisite/Overlap /Equivalent Course: NIL — Prerequisite/Overlap /Equivalent Course: NIL; Design of Experiments (MEL5xx: Prerequisite/Overlap /Equivalent Course: NIL; ): Prerequisite/Overlap /Equivalent Course: NIL; L:3 T:0 P:0: Prerequisite Credits: NIL
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Articulation matrix: — POs COs 1 2; Design of Experiments (MEL5xx: A; Design of Experiments (MEL5xx: b; ): c; L:3 T:0 P:0: Prerequisite Credits: NIL
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Articulation matrix: — Design of Experiments (MEL5xx: H; ): H: High impact H; L:3 T:0 P:0: Prerequisite Credits: NIL
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Articulation matrix: — Design of Experiments (MEL5xx: H; ): M: Medium L: Low impact H; L:3 T:0 P:0: impact
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Articulation matrix: — 3; Design of Experiments (MEL5xx: H; ): H; L:3 T:0 P:0: Prerequisite Credits: NIL
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Articulation matrix: — 4; Design of Experiments (MEL5xx: H; ): H; L:3 T:0 P:0: Prerequisite Credits: NIL
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Articulation matrix: — Overall 1) Jones, B.,; Design of Experiments (MEL5xx: H Goos, P.; Design of Experiments (MEL5xx: H (2011).; ): H Optimal Design; L:3 T:0 P:0: Approach. United
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Text Books (1 to 9)/ Reference book (10) — Kingdom: Wiley. 2) Montgomery, D. C. (2008). Design and Analysis of Experiments. Singapore: Wiley. 3) Atkinson, A., Donev, A., Tobias, R. (2007). Optimum experimental designs, with SAS. United Kingdom: OUP Oxford 4) Fedorov, V. (2013). Theory of Optimal Experiments. United States: Elsevier Science. 5) Pukelsheim, F. (2006). Optimal Design of Experiments. Switzerland: Society for Industrial Applied Mathematics. 6) Logothetis, N., Wynn, H. P. (1994). Quality Through Design: Experimental Design, Off-line Quality Control, and Taguchi's Contributions. United Kingdom: Clarendon Press. 7) Fedorov, V. (2013). Theory Of Optimal Experiments. United States: Elsevier Science. 8) Myers, R. H., Montgomery, D. C., Anderson-Cook, C. M. (2009). Response Surface Methodology: Process and Product Optimization Using Designed Experiments. Italy: Wiley. 9) Shahabudeen, P., Krishnaiah, K. (2012). Applied Design of Experiments and Taguchi Methods. India: PHI learning. 10) Handbook of Design and Analysis of Experiments Author : Angela Dean, Derek Bingham, Stufken, Max; Design of Experiments (MEL5xx: Morris; Design of Experiments (MEL5xx: Publisher : CRC; ): Press,; L:3 T:0 P:0: and
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: Content — Content; Design of Experiments (MEL5xx: Content; ): Content; L:3 T:0 P:0: Content
+types of simulation - Monte Carlo simulation - simulation Financial risk analysis, forecasting, inventory analysis, queueing systems analysis, misc. appl. | 2. Extension of Linear Programming: [CO1]: Course Title (Code):: 1. Introduction to DOE: Basic Principles of DOE, history of DOE, Factorial Designs with Several Factors, Other Methods for analyzing Unpredicted Factorials, Outliers, 2^k design and design optimality, addition of center Points to a 2^k Design, 2^(k-p) Fractional Factorial Design, Alias Structures in Fractional Factorials, Resolution III Designs, Plackett-Burman Designs, Resolution IV and V Designs. (CO1) 2. Blocking and confounding: Blocking a Replicated Design, Confounding in Blocks, D Blocking Principle, , Hypothesis Testing on variances, Pooled and paired t-test, Two-sample t-test, Analysis of Variance (ANOVA), models for the Data, Post-ANOVA Comparison of Means, Sample Size Determination, Estimates of the Effects, Extension of the ANOVA to the RCBD, Residual Analysis, Latin Square Design. (CO1, CO2) — 1. Introduction to DOE: Basic Principles of DOE, history of DOE, Factorial Designs with Several Factors, Other Methods for analyzing Unpredicted Factorials, Outliers, 2^k design and design optimality, addition of center Points to a 2^k Design, 2^(k-p) Fractional Factorial Design, Alias Structures in Fractional Factorials, Resolution III Designs, Plackett-Burman Designs, Resolution IV and V Designs. (CO1) 2. Blocking and confounding: Blocking a Replicated Design, Confounding in Blocks, D Blocking Principle, , Hypothesis Testing on variances, Pooled and paired t-test, Two-sample t-test, Analysis of Variance (ANOVA), models for the Data, Post-ANOVA Comparison of Means, Sample Size Determination, Estimates of the Effects, Extension of the ANOVA to the RCBD, Residual Analysis, Latin Square Design. (CO1, CO2); Design of Experiments (MEL5xx: 1. Introduction to DOE: Basic Principles of DOE, history of DOE, Factorial Designs with Several Factors, Other Methods for analyzing Unpredicted Factorials, Outliers, 2^k design and design optimality, addition of center Points to a 2^k Design, 2^(k-p) Fractional Factorial Design, Alias Structures in Fractional Factorials, Resolution III Designs, Plackett-Burman Designs, Resolution IV and V Designs. (CO1) 2. Blocking and confounding: Blocking a Replicated Design, Confounding in Blocks, D Blocking Principle, , Hypothesis Testing on variances, Pooled and paired t-test, Two-sample t-test, Analysis of Variance (ANOVA), models for the Data, Post-ANOVA Comparison of Means, Sample Size Determination, Estimates of the Effects, Extension of the ANOVA to the RCBD, Residual Analysis, Latin Square Design. (CO1, CO2); ): 1. Introduction to DOE: Basic Principles of DOE, history of DOE, Factorial Designs with Several Factors, Other Methods for analyzing Unpredicted Factorials, Outliers, 2^k design and design optimality, addition of center Points to a 2^k Design, 2^(k-p) Fractional Factorial Design, Alias Structures in Fractional Factorials, Resolution III Designs, Plackett-Burman Designs, Resolution IV and V Designs. (CO1) 2. Blocking and confounding: Blocking a Replicated Design, Confounding in Blocks, D Blocking Principle, , Hypothesis Testing on variances, Pooled and paired t-test, Two-sample t-test, Analysis of Variance (ANOVA), models for the Data, Post-ANOVA Comparison of Means, Sample Size Determination, Estimates of the Effects, Extension of the ANOVA to the RCBD, Residual Analysis, Latin Square Design. (CO1, CO2); L:3 T:0 P:0: 1. Introduction to DOE: Basic Principles of DOE, history of DOE, Factorial Designs with Several Factors, Other Methods for analyzing Unpredicted Factorials, Outliers, 2^k design and design optimality, addition of center Points to a 2^k Design, 2^(k-p) Fractional Factorial Design, Alias Structures in Fractional Factorials, Resolution III Designs, Plackett-Burman Designs, Resolution IV and V Designs. (CO1) 2. Blocking and confounding: Blocking a Replicated Design, Confounding in Blocks, D Blocking Principle, , Hypothesis Testing on variances, Pooled and paired t-test, Two-sample t-test, Analysis of Variance (ANOVA), models for the Data, Post-ANOVA Comparison of Means, Sample Size Determination, Estimates of the Effects, Extension of the ANOVA to the RCBD, Residual Analysis, Latin Square Design. (CO1, CO2)
+Screening Experiments: Main-effects models, two-factor interaction effects, Factor scaling, Ordinary least squares estimation, statistical power calculations, Variance inflation, Aliasing, optimal experimental designs, sparsity, hierarchy, and heredity. Follow-up design, design construction algorithm, Foldover designs. Mixture experiments, block effects, covariates, split plot design. (CO3)
+Response Surface Design: Quadratic effects, Dummy variables for multilevel categorical factors, Defficiencies, Fraction of Design Space plots, average relative variance of prediction, I-efficiencies, validity of inference based on ordinary least squares, Design regions, Cubic factor effects, Lack-of-fit test, factor constraints in the design construction algorithm, generalized least squares estimation, estimation of variance components, significance tests, optimal design of blocked experiments, orthogonal blocking. (C03)
+Robust parameter Design: Robustness Concept, Analysis of the Crossed Array Design, Combined Array Designs and the Response Model Approach, Basics of Variation, small sample sizes, inability to obtain random samples, distributions (Normal, Lognormal, and Weibull), Process Capability, Process capability indices, Statistical bias in a non-linear system, Modeling output variation, Model and Optimize Multiple Outputs, Cost to the Design Model and various case studies. (CO3, C04)
+Course Title (Code):
+Advance Supply Chain Management (M EL5XX)
+L:3 T:0 P:0
+Course Objectives:
+Articulation matrix:
+Select and apply scientific methods and theories for collection and analysis of quantitative and qualitative data for description
+Complex analysis of internal and external conditions of the firm as well as theoretical issues related to these areas.
+Set up new models of analysis and solutions for problems based on the performed analyses.
+To communicate knowledge and discuss professional and scientific issues with colleagues, management, and the surrounding society
+To communicate knowledge and discuss professional and scientific issues with colleagues, management, and the surrounding society | Articulation matrix: POs →.COs ↓: CO1 — PO1.: L; PO2.: M; PO3.: M
+To communicate knowledge and discuss professional and scientific issues with colleagues, management, and the surrounding society | Articulation matrix: POs →.COs ↓: CO2 — PO1.: M; PO2.: M; PO3.: M
+To communicate knowledge and discuss professional and scientific issues with colleagues, management, and the surrounding society | Articulation matrix: POs →.COs ↓: CO3 — PO1.: H; PO2.: H; PO3.: H
+To communicate knowledge and discuss professional and scientific issues with colleagues, management, and the surrounding society | Articulation matrix: POs →.COs ↓: CO4 — PO1.: H; PO2.: H; PO3.: H
+To communicate knowledge and discuss professional and scientific issues with colleagues, management, and the surrounding society | Articulation matrix: POs →.COs ↓: Overall — PO1.: H; PO2.: H; PO3.: H
+Prerequisite/Overlap /Equivalent Course: NIL
+H: High impact
+M: Medium impact
+L: Low impact
+Sunil Chopra and Peter Meindl , 'Supply Chain Management', Pearson - Prentice Hall publication. Ist and IInd edition
+Janat Shah, 'Supply Chain Management', Pearson education Publication, Ist edition.
+Spigel M.R , 'Probability and statistics', McGraw Hill Book Co, 1980
+Prerequisite Credits: NIL
+Contents
+Understanding the supply chain, its performance, drivers and its metrics.
+Logistics network configuration, Inventory Management, Financial Management, IT for supply chain Management, Risk and revenue management, Marketing and organization of supply chain. (CO1)
+Global Supply Chain, Global Distribution Management & Warehousing, Managing complexities in Global Supply Chain, Supply Chain Coordination, International Trade Operations, Global Trade Agreements & Norms, Supply Chain Digitisation. (CO2)
+Technology adoption in Supply Chain Management, Supply Chain Analytics, Managing disruptions in Supply Chain, Sustainability in Supply Chain, Ethics and Trust in Supply Chain, Resilience and Responsiveness in Supply Chain (CO3)
+National and International case studies in a supply chain (CO4)
+Text Books / Reference Books
+National and International case studies in a supply chain (CO4) | Text Books / Reference Books: Course Title (Code): | Reliability Engineering (MEL5XX) | L:3 T:0 P:0
+Course Objectives:
+Articulation matrix:
+To make student able identify the failure distribution and reliability of component.
+To make students to able to design component for reliability.
+To make students to carry reliability testing and warranty analysis.
+Course Outcome:
+Students successfully completing this course should be able :
+To understand importance of reliability Engineering
+To evaluate component and system reliability.
+To design mechanical component for the reliability.
+To carry maintainability, availability and warranty analysis.
+To make students to carry reliability testing and warranty analysis. | Students successfully completing this course should be able: POs → COs ↓: CO1 — a: H; b: H; c: M
+To make students to carry reliability testing and warranty analysis. | Students successfully completing this course should be able: POs → COs ↓: CO2 — a: H; b: M; c: M
+To make students to carry reliability testing and warranty analysis. | Students successfully completing this course should be able: POs → COs ↓: CO3 — a: H; b: M; c: H
+To make students to carry reliability testing and warranty analysis. | Students successfully completing this course should be able: POs → COs ↓: Overall — a: H; b: M; c: M
+Prerequisite/Overlap /Equivalent Course: NIL
+Text Books / Reference Books
+H: High impact
+M: Medium impact
+L: Low impact
+C.E. Ebling, An introduction to reliability and maintainability engineering, Tata McGraw Hill Publishing Company Limited, New Delhi (1997)
+L.S. Srinath , 'Reliability Engineering', Affilated East-West Press , 4th Edition 2005
+S.S.Rao, "Reliability engineering". Prentice Hall Press, 2014.
+Prerequisite Credits: NIL
+Contents
+Introduction: Uncertainty in Engineering, Definition, Importance, Patterns of Failure, Factor of safety and reliability, reliability analysis procedure, Reliability Management.[CO1]
+Basic Reliability Models: Constant Failure Rate Model, Time Dependent Failure Models, Data Collection and identifying failure and repair distribution, System Reliability Evaluation-Series, Parallel, Combined and Mixed configurations; State Dependent Models-Markov Analysis, Load-sharing system, Standby system.[CO1]
+Design for Reliability: Physical Reliability models-Covariate model, Static Model, Dynamic Model, Physics - to-failure model; Reliability specifications and system measurement, Reliability Allocation, Design methods-Modeling of material strength, Fatigue strength, modeling of loads; Design of Mechanical component and system, Monte Carlo Simulation for computation of reliability.[CO2]
+Reliability Testing : Accelerated Life Testing, Sequential Life Testing, Statistical Inference and Parameter estimation, Plotting of reliability data.[CO3]
+Maintainability and Availability : Preventive Maintenance, MTTR, Repair Time distributions, Availability Analysis.[CO3]
+Warranty Analysis : Types of warranties, Warranty cost based on a Single failure during the warranty period, warranty cost considering the time value of money -FRW Policy, PRW policy
+Course Title (Code):
+Course Objectives:
+Articulation matrix:
+Personnel Management and Industrial Relations (MEL553)
+L:3 T:0 P:0
+Student can answer/solve questions/quizzes/case studies on personal management.
+Student can answer/solve questions/quizzes/case studies on labour legislation.
+Student can discuss on Human behaviour.
+Student can answer/solve questions/quizzes/case studies on labour legislation. | Personnel Management and Industrial Relations (MEL553): POs → COs ↓: CO1 — a: H; b: H; c: H
+Student can answer/solve questions/quizzes/case studies on labour legislation. | Personnel Management and Industrial Relations (MEL553): POs → COs ↓: CO2 — a: H; b: H; c: H
+Student can answer/solve questions/quizzes/case studies on labour legislation. | Personnel Management and Industrial Relations (MEL553): POs → COs ↓: CO3 — a: M; b: H; c: M
+Student can answer/solve questions/quizzes/case studies on labour legislation. | Personnel Management and Industrial Relations (MEL553): POs → COs ↓: Overall — a: H; b: H; c: H
+Prerequisite/Overlap /Equivalent Course: NIL
+H: High impact
+M: Medium impact L: Low impact
+Prerequisite Credits: NIL
+Knouse S.B., 'Human Resources Management Perspectives', ASQC Quality Press, 1996
+Schuler R.S. 'Managing Human Resources', 4th Ed., West Publishing Co.,1992
+Venkat Tatnam C. S., Dhal Manoranjan 'Industrial Relations', second edition, Oxford University Press, 2017.
+Contents
+Human behaviour: Human behaviour of an individual as a member as a small group and as a member of an organization, Influence of culture organizational, social, national and international on individual. [CO3]
+Personnel management: Scope and objectives of personnel management, personnel planning, recruitment and selection, training and development, wages and salary administration, incentive plans, trade unions and collective bargaining, labour welfare.[CO1]
+Job evaluation: Job evaluation, merit rating, employee health, security and welfare, morale and motivation, leadership, organization, industrial disputes, voluntary and compulsory settlement.[CO1]
+Labour legislations.[CO2]
+Performance appraisal and evaluation[CO1,CO2]
+Text Books / Reference Books
+Course Title (Code):
+Smart Manufacturing and Industry 4.0 (MEL5XX)
+L:3 T:0 P:0
+Course Objectives:
+Articulation matrix:
+Understanding the fundamental principles and concepts in smart manufacturing.
+Understanding the basic principles and core technologies involved in Industry 4.0 with a special emphasis on manufacturing
+Developing the acumen for decision making and implementation of smart manufacturing.
+Developing the acumen for decision making and implementation of smart manufacturing. | Articulation matrix: A: M — B: M; C: L
+Developing the acumen for decision making and implementation of smart manufacturing. | Articulation matrix: A: H — B: H; C: H
+Developing the acumen for decision making and implementation of smart manufacturing. | Articulation matrix: A: H — B: M; C: H
+Developing the acumen for decision making and implementation of smart manufacturing. | Articulation matrix: POs COs: Overall — A: H; B: M; C: H
+H: High impact
+M: Medium impact
+L: Low impact
+Prerequisite/Overlap /Equivalent Course: NIL
+Prerequisite Credits: NIL
+Soroush, M., Baldea, M., Edgar, T. F. (2020). Smart Manufacturing Concepts and Methods. Elsevier Science
+Gilchrist, Alasdair (2016). Industry 4.0 The Industrial Internet of Things, Apress.
+Tao, Fei et al. (2019). Digital Twin Driven Smart Manufacturing, Elsevier
+Alur, Rajeev (2015). Principles of Cyber-Physical Systems, The MIT Press Cambridge.
+Contents
+Smart manufacturing paradigm: Introduction to smart manufacturing, Principal concepts in smart manufacturing, Strategies & execution of smart manufacturing. Data centric view, Building blocks of smart manufacturing, PLM in smart manufacturing, Advanced process modelling, Analytics for smart manufacturing, Parametric optimization and control (PAROC), Decision support framework for smart manufacturing, Lean production system, Manufacturing system simulation (process & plant simulation). [CO1]
+Understanding Industry 4.0: Genesis of I4.0, Digital value chain, Basic concepts & founding principles of I4.0, System integration, Drivers & barriers, Key technologies involved, Skills required, Industry 4.0 worldwide, India's readiness. [CO2]
+I4.0 in smart manufacturing: Understanding Cyber-Physical Systems, Digital twins, Asset administration shell, IoT: Physical design of IoT, Logical design of IoT, IoT enabling technologies, Domain specific IoTs, physical devices (such as Raspberry Pi, Arduino, pcDuino, Beaglebone black, Cubieboard, etc.) [CO2]
+Megatrends & Communication in smart manufacturing: Digitization & digitalization, 3D printing, Artificial intelligence, Machine Learning, Collaborative robots, Augmented / virtual reality, Sensor technology & data communication, Connected network, M2M communication, M2H communication, Communication protocols, Bluetooth, RFID, LoRaWAN, Xbee, ZigBee, etc., Cybersecurity. [CO2]
+Decision making in smart manufacturing: Big data, Realtime analytics, Cloud computing, Business process management, Process identification framework, Key performance indicators, Dashboards. [CO3]
+Implementation framework: I4.0 ecosystem, Strategic perspective of I4.0, RAMI 4.0, Readiness measurement: IMPULSE model, Pilot project and scaling up. [CO3]
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3]
+Text Books / Reference Books
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Course Objectives: — Course Title (Code):: (MEL518) 1. Student will have knowledge of basic crack growth mechanism. 2. Student will select proper design based on fracture mechanics. 3. Student will be able to estimate the safe life design product. 4. Students will be able to get the knowledge of different NDT testing.; Fracture Mechanics & Non Destructive Testing: (MEL518) 1. Student will have knowledge of basic crack growth mechanism. 2. Student will select proper design based on fracture mechanics. 3. Student will be able to estimate the safe life design product. 4. Students will be able to get the knowledge of different NDT testing.; L:3 T:0 P:0: (MEL518) 1. Student will have knowledge of basic crack growth mechanism. 2. Student will select proper design based on fracture mechanics. 3. Student will be able to estimate the safe life design product. 4. Students will be able to get the knowledge of different NDT testing.
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Fracture Mechanics & Non Destructive Testing: POs COs; Fracture Mechanics & Non Destructive Testing: a; Fracture Mechanics & Non Destructive Testing: B; Fracture Mechanics & Non Destructive Testing: c
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Fracture Mechanics & Non Destructive Testing: 1; Fracture Mechanics & Non Destructive Testing: H; Fracture Mechanics & Non Destructive Testing: M: Medium impact M; L:3 T:0 P:0: M: Medium impact M
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Fracture Mechanics & Non Destructive Testing: 2; Fracture Mechanics & Non Destructive Testing: M; Fracture Mechanics & Non Destructive Testing: H; Fracture Mechanics & Non Destructive Testing: L: Low impact H; L:3 T:0 P:0: L: Low impact H
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Fracture Mechanics & Non Destructive Testing: 3; Fracture Mechanics & Non Destructive Testing: M; Fracture Mechanics & Non Destructive Testing: H; L:3 T:0 P:0: H
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Fracture Mechanics & Non Destructive Testing: 4; Fracture Mechanics & Non Destructive Testing: H; Fracture Mechanics & Non Destructive Testing: M; L:3 T:0 P:0: M
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Articulation matrix: — Fracture Mechanics & Non Destructive Testing: Overall; Fracture Mechanics & Non Destructive Testing: H; L:3 T:0 P:0: H
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Prerequisite/Overlap /Equivalent Course: NIL — Fracture Mechanics & Non Destructive Testing: Prerequisite/Overlap /Equivalent Course: NIL; Fracture Mechanics & Non Destructive Testing: Prerequisite Credits: NIL; L:3 T:0 P:0: Prerequisite Credits: NIL
+Case studies/ Mini projects/ Group or individual exercises in smart manufacturing & I4.0. [CO3] | Text Books / Reference Books: Course Title (Code):: Text Books / Reference Books — Course Title (Code):: 1. P.Kumar, 'Elements of Fracture Mechanics', McGraw Hill, 2012. 2. M. Jansen, J. Zuidema, R. Wanhill, ' Fracture Mechanics' Spon Press, 2004. 3. T.L. Anderson, 'Fracture Mechanics:- Fundamentals and Application', Taylor and Francis, 2005. 4. R.W. Hetzberg, ' Deformation and fracture mechanics of engineering; Fracture Mechanics & Non Destructive Testing: material', John wiley; Fracture Mechanics & Non Destructive Testing: and; Fracture Mechanics & Non Destructive Testing: 1996.; Fracture Mechanics & Non Destructive Testing: 1. P.Kumar, 'Elements of Fracture Mechanics', McGraw Hill, 2012. 2. M. Jansen, J. Zuidema, R. Wanhill, ' Fracture Mechanics' Spon Press, 2004. 3. T.L. Anderson, 'Fracture Mechanics:- Fundamentals and Application', Taylor and Francis, 2005. 4. R.W. Hetzberg, ' Deformation and fracture mechanics of engineering; L:3 T:0 P:0: 1. P.Kumar, 'Elements of Fracture Mechanics', McGraw Hill, 2012. 2. M. Jansen, J. Zuidema, R. Wanhill, ' Fracture Mechanics' Spon Press, 2004. 3. T.L. Anderson, 'Fracture Mechanics:- Fundamentals and Application', Taylor and Francis, 2005. 4. R.W. Hetzberg, ' Deformation and fracture mechanics of engineering
+Contents
+Introduction to fatigue and fracture mechanics, ductile and brittle fractures. Linear elastic fracture mechanics (LEFM) and Elasto plastic fracture mechanics (EPFM) approach. Crack propagation energy release rate, Fracture behaviour, stress intensity factor: CO1 and CO2
+Fracture mechanism, Failure modes Mechanism of fatigue crack initiation and propagation. Fatigue data representation, life prediction, prevention of fatigue failures, corrosion fatigue, The pattern of stress and deformation near the tip of the crack. Determination of fracture toughness, condition for the fracture: CO1, CO2 and CO3
+Paris equation. Fatigue and fracture safe designs. Investigation and analysis of failures: CO1, CO2 and CO3
+Principles of various NDT techniques, Equipment, methodology, applications and benefits of various NDT techniques such as Visual inspection and eddy current testing, Liquid penetrant testing, Magnetic particle testing, Radiographic testing and Ultrasonic testing:
+CO3 and CO4
+H: High impact
+M: Medium impact
+EVEN SEMESTER
+Text Books / Reference Books
+H: High impact
+M: Medium impact
+Principles of various NDT techniques, Equipment, methodology, applications and benefits of various NDT techniques such as Visual inspection and eddy current testing, Liquid penetrant testing,... | Text Books / Reference Books: Course Title (Code):: Course Objectives: — Industrial Automation (MEL5XX): 1. Demonstrate an understanding and awareness of concepts of industrial automation and its building blocks 2. Inculcate the critical understanding of various industrial automation control systems working, programing and design. 3. Recommend and implement the automation techniques to the various quality control systems.; L:3 T:0 P:0: 1. Demonstrate an understanding and awareness of concepts of industrial automation and its building blocks 2. Inculcate the critical understanding of various industrial automation control systems working, programing and design. 3. Recommend and implement the automation techniques to the various quality control systems.
+Principles of various NDT techniques, Equipment, methodology, applications and benefits of various NDT techniques such as Visual inspection and eddy current testing, Liquid penetrant testing,... | Text Books / Reference Books: Course Title (Code):: Articulation matrix: Prerequisite/Overlap — Industrial Automation (MEL5XX): H: High impact M: Medium impact L: Low impact POs COs a b c 1 H M H 2 H M H 3 H M H Overall H M H /Equivalent Course: NIL; L:3 T:0 P:0: Prerequisite Credits: NIL
+Frank Lamb, Industrial Automation Hands-On, Mc Graw Hill, 1 st edition.
+Morris A. Cohen, U A Apte, MANUFACTURING AUTOMATION, Richard d Irwin; 1st edition.
+Groover M.P , 'Automation, production System & CIMS', Prentice Hall of India, 4th Ed.
+William Bolton, Mechatronics, Electronic control systems in mechanical and electrical engineering, Pearson Education Limited, Sixth Edition.
+Koren Yoram, 'Computer Control of Manufacturing Systems', Mc Graw Hill, 3rd Ed, 1986
+Contents
+Introduction to Industrial Automation: [C01]
+Need and benefits of Industrial Automation, Automation Hierarchy and basic components Types of Industrial Automation Systems: PLC, HMI, SCADA, CNC.
+Process Industries and discrete industries automation
+Building blocks of Industrial Automation system: [CO1]
+Actuators, electrical drives, sensors, ADC, DAC, IO module
+Discrete control systems: PLC: [CO2]
+PLC components, PLC operating cycle, Logic control, sequence control,
+Programming the PLC, Ladder logic diagram,
+PLC based applications: Tank level control, Motor sequence control, Conveyor systems, etc. Programable automation controllers
+SCADA: [CO2]
+Introduction to SCADA, SCADA architecture blocks, Editors of SCADA, SCADA-PLC interface
+Computer Numerical Control: [CO2]
+Numerical Control, Numerical Control Elements, Analysis of Positioning Systems CNC Hardware Basics, Structure of CNC Machine Tools. NC Part Programming
+Automated Quality Control Systems: [CO3]
+Automated inspection and testing, Contact Inspection techniques Non-contact inspection techniques.

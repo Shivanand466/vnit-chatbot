@@ -1,0 +1,34 @@
+SOURCE_URL: https://drive.google.com/file/d/1LBP1P3BRQivt8OREHnsusJ9octzNGy22/view
+TITLE: Standard Operating Procedure (SOP) for PhD Winter 26 Newly Admitted
+FETCHED: 2026-07-21
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Standard Operating Procedure (SOP) for PhD Winter 26 Newly Admitted (dated 2026-07-21)
+Note:
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR Exam Section
+Date: 21-07-2026
+Standard Operating Procedure for Course Registration of PhD July 2025 Admitted
+All PhD Scholars (Full Time & Part Time admitted in July 2026) (Both Cycle 1 & Cycle 2) are instructed to follow the procedure mentioned below to register themselves for the Winter 2026 Session,
+Procedure to Register Courses in AlMS:
+Candidate to login into AlMS (Academic Information Management System) and follow the steps mentioned below,
+Go to Link: https://vnitaims.vnit.ac.in/mproaims/
+Login with your ID Number (Please refer Provisional Reporting Letter - PRL) as User Name
+If student is logging in for the first time, student need to press Forget Password (to generate reset password link for the first time), this will initiate an email link for generating New Password for AlMS Login. Link for the same will be sent to the Email id mentioned at the time of Admission. Student are instructed to follow the procedure given in the mail to Reset / Set the password (see the information given carefully and follow).
+Now login with your ID Number and New Password you had reset, at the login screen make sure Session Selected as 2026-27/W26.
+After logging in, Click "Registration Management", under this Go to Transaction >> Student Course Registration, you will see List of Courses to be registered for the Session (Winter 2026 i.e. [W26]).
+Student are instructed to search for the course he / she want to register. Select the courses students wants to register by clicking the check boxes that is available in front of the Course CODE. Candidates make sure that they are selecting only those courses, which they had mentioned in the Registration form submitted to Exam Section. Selecting wrong course (viz. Multiple Progress Seminar / Courses offered for other PhD Candidates) leads to delay the registration approval process from your supervisor and further leads to delay in appearing your name in the attendance list of respective courses.
+Then you need to click"Apply for Registration".
+After applying for the course registration you can see the selected courses under Registration Management >> Reports >> Registration Form Print >> View Report. Here you can see the list of courses you have selected and the status (for registration approval). Status will be shown as"Watermark" and it will be one of the following,
+"PENDING FOR ARROVAL" &
+After Approval by Faculty advisor
+"REGISTRATION APPROED"
+Further, student need to approach their supervisor for "Approval" of their Course Registration of Winter 2026.
+After approval, again login to AlMS >> Click "Registration Management", under this Go to Reports >> Registration Form Print (Make Sure Session Selected at the top of the page is 202627 / W26], you will see List of Courses registered for current Session (Winter 2026 i.e. [W26]). You can see / save this report or can take print for your reference. Supervisor Approval for course registration is must; otherwise, your name will not appear in the Course Roll list.
+If you face any problems / discrepancies in above process / registered courses please contact by Email only:
+For Enrolment No/Allotted Supervisor: dr_acd@vnit.ac.in/supdtacad@vnit.ac.in For Course Registration / Approval: asst_registrar@vnit.ac.in / supdtexam@vnit.ac.in, In both above cases through your supervisor only.
+Imp Note: Student's registration will be treated as complete only when their Supervisor approves the Online Registration. Also student take a serious note that without submitting the fully filled registration Form to Exam Section, the reguired courses will not be available in their AlMS Login.
+Copy to - VNIT Website (PhD Admission) Information Page
+Cc:
+Dean (Academic) &
+Associate Dean Academics (PG & PhD) for information
+All Respected Head of the Department

@@ -1,0 +1,27 @@
+SOURCE_URL: https://drive.google.com/file/d/1rkqiRlv2KPc8nisocrhI60-Jyyur4ciw/view
+TITLE: PhD Thesis Submission on Shodhganga: Process and Guidelines
+FETCHED: 2025-06-24
+FOUND_ON: https://vnit.ac.in/library-and-information-center/
+---
+Document: PhD Thesis Submission on Shodhganga: Process and Guidelines (dated 2025-06-24)
+INSTRUCTIONS FOR UPLOADING PH.D. THESIS ON SHODHGANGA
+Ensure your thesis PDF adheres to the following specified format before visiting the VNIT library for the upload:
+Instruction:
+Before uploading the thesis, make sure you have created your ORCID ID . ( Link - http://orcid.org)
+The Consent Form for Digital Archiving, approved by the Library Advisory Committee, must be submitted to the Library.
+Ensure to split the thesis in the following sections for uploading on Shodhganga and submitting the same to Library & Information Resource Centre for archiving :
+ 01_Title
+ 02_prelim pages
+ 03_Content
+ 04_Abstract
+ 05_Chapter 1
+ 06_ Chapter 2
+ 07_Chapter 3
+ 08_Chapter 4
+ 09_Chapter 5 (If there are more than five chapters, continue the numbering sequentially, e.g., 1, 2, 3...)
+ 10_Annexures
+ 80_Recommendation
+ 90_Plagiarism_Report (In percentage format)
+ Other remaining pdf if you have
+A one-page plagiarism summary/ report must be uploaded to the Shodhganga portal. Additionally, a detailed plagiarism analysis report (soft copy) must be submitted to the Library for backup and archiving.
+After uploading your Ph.D. thesis, collect a receipt for the uploaded Ph.D. thesis.

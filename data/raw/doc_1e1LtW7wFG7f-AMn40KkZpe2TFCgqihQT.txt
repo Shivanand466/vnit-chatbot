@@ -1,0 +1,42 @@
+SOURCE_URL: https://drive.google.com/file/d/1e1LtW7wFG7f-AMn40KkZpe2TFCgqihQT/view
+TITLE: Details
+FETCHED: 2024-05-02
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Details (dated 2024-05-02)
+M.Tech.
+in Applied AI
+Admission open for M.Tech.
+in Applied AI
+(Online)
+Program structure:
+Two year program consisting of 4 semesters.
+Program consists of 10 core courses, 2 elective courses and dissertation in semesters 3 & 4, for a total of 54 credits.
+All the lectures are offered via live online classes over the weekends (both Saturday and Sunday).
+Detailed course content for the courses is carefully curated by the VNIT faculty along with industry experts are available as per Annexure 1
+After completing the 3rd semester with at least 40 credits, provision for a PG Diploma certificate can be provided to the students who want to opt out of the program. For a PG Diploma, the students have to pay Rs. 3,14,022 (inclusive of all)
+Governing Committee:
+All the academic compliance and standards would be governed by the senate of VNIT Nagpur. It will be as per the resolutions of board of studies of ECE and approved by the senate of VNIT Nagpur.
+Eligibility and Enrollment Criteria:
+Candidates with science and engineering backgrounds like BE, B.Tech, M.E, M.Tech, MCA, M.Sc, etc are eligible to apply for M.Tech programs.
+Eligible candidates will need to pass a written test before enrolment.
+Shortlisted students once enrolled, will be provided a student ID of VNIT Nagpur.
+Admission Process:
+Aspiring candidates should apply on the Intellipaat website: https://intellipaat.com/online-mtech-applied-ai-vnit/
+Detailed brochure for the program can be found at Annexure 2
+Intellipaat will verify the documents and may seek clarification from candidates for any ambiguity and incompleteness. Shortlisted candidates must deposit Rs.10000/- (Ten Thousand Rupees only) as a blocking amount to Intellipaat (fully refundable deposit) along with a filled application form. This amount will be adjusted against the fees payable for the course by the candidate.
+All applications will be reviewed by VNIT Nagpur. If an application is not found to be meeting the required criterion, then VNIT Nagpur will ask Intellipaat to reject the application and a refund for the deposit made will be given to the candidate in full.
+Intellipaat will communicate to the eligible candidates the date for the online proctored written test after the verification of documents. The test will be conducted at regular intervals.
+Selection of a candidate will be done on the basis of academic credentials, experience and performance in the written test.
+Selected candidates will receive a confirmation mail from Intellipaat. All those who are not selected will be refunded the full deposit amount.
+Offer letters for selected candidates will be sent by VNIT Nagpur via email with copies to Intellipaat.
+Intellipaat will initiate the collection of the balance fee from candidates after an offer letter has been sent by VNIT Nagpur.
+Once the first year fees and university registration fees are paid to Intellipaat, admission to the upcoming or respective cohort will be confirmed.
+Program
+Fee:
+Course fees for the 2 year program will be Rs. 417354/- (Four Lakh and Seventeen Thousand Three Hundred and Fifty Four only ), inclusive of all.
+Contact Details:
+For fee structure, admission process and payment details, kindly contact Intellipaat at vnit.mtech@intellipaat.com
+In case of any clarifications, kindly contact the course coordinator Dr. Ashwin Kothari on the email id onlinemtech@ece.vnit.ac.in
+Program Partner:
+VNIT, Nagpur has collaborated with Intellipaat to offer this program

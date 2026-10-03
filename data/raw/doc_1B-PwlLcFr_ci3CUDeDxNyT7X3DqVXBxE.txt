@@ -1,0 +1,82 @@
+SOURCE_URL: https://drive.google.com/file/d/1B-PwlLcFr_ci3CUDeDxNyT7X3DqVXBxE/view
+TITLE: Final STTP Poster-Digital approaches (1)
+FETCHED: 2025-10-13
+FOUND_ON: https://vnit.ac.in/arch/
+---
+Document: Final STTP Poster-Digital approaches (1) (dated 2025-10-13)
+Registrations
+STTP Intake: 40 Candidates (On a first-come basis) Eligibility: Students/Academicians/Professionals (Architecture, Design, Planning and Allied fields)
+Earlybird Registration till 07 November 2025 (inc. 18% GST) th
+Students & PhD Scholars: INR 1770 International Students & PhD Scholars: USD 30 Academicians & professionals: INR 3540
+International Academicians & Professionals: USD 45
+Late Registration 08 to 15 November 2025 (inc. 18% GST) th th
+Students & PhD Scholars: INR 2360 Academicians & Professionals: INR 4130
+Note:
+The Registration fee is non-refundable
+Registration fee does not include travel, accommodation, boarding, and food expenses. Offline Participants can contact coordinators for their accommodation and boarding on a payment basis.
+The Offline STTP venue will be in the Department of Architecture and Planning, VNIT Nagpur.
+Participation certificates will be issued only on successful completion of the STTP.
+Payment & Registration
+Follow the steps below for the Registration fee Payment
+Click on the link: https://pay.vnit.ac.in/home
+Select Payment Category - 'Conference/workshop/seminar' and Submit
+Select Name of the Event (Conference/ Seminar/ Workshop) - 'DIGITAL APPROACHES FOR ASSESSING BUILT ENVIRONMENT SUSTAINABILITY'
+Kindly fill in the details, complete the payment procedure and the registration form below.
+Link to register after payment:
+https://forms.gle/Q19PtuHaP9uAzKkJ8
+For any queries or concerns, please email sttparch@arc.vnit.ac.in
+Department of Architecture & Planning, Visvesvaraya National Institute of Technology, South Ambazari Road, Nagpur, India - 440010
+Patron
+Five-Day Short-Term Training Program (STTP)
+on
+DIGITAL APPROACHES FOR ASSESSING BUILT ENVIRONMENT SUSTAINABILITY
+17-21 November 2025
+(Hybrid Mode - Online & Offline)
+Mentor
+Dr. Prem Lal Patel Director, VNIT Nagpur
+Dr. Vinayak S Adane Head, Department of Architecture & Planning, VNIT Nagpur
+Resource Persons
+Dr. Ram Sateesh Pasupuleti Associate Professor IIT Roorkee
+Dr. Prashant Anand Assistant Professor IIT Kharagpur
+Dr. Anurag Bagade Assistant Professor SPA Vijayawada
+Dr. Akshay Patil Associate Professor VNIT Nagpur
+Dr. Udit Jain Assistant Professor VNIT Nagpur
+Coordinators & Resource Persons
+Dr. Nikhil Bhandari Assistant Professor MANIT Bhopal
+Ar.S.M. Asim Architect and founder ArchiCodes, Nagpur
+Student Coordinators
+Dr.Sarika Bahadure Assistant Professor VNIT Nagpur +91 9422802789 sarikabahadure@arc.vnit.ac.in
+Ar.Tejendra Nagabhoina Research Scholar VNIT Nagpur +91 8179172690 dt23arc012@students.vnit.ac.in
+Dr.Pankaj Verma Assistant Professor VNIT Nagpur +91 8077378499 drpankaj@arc.vnit.ac.in
+Ar. Suraksha B.N Research Scholar VNIT Nagpur +91 9036509155 surunag@gmail.com
+About the STTP
+Digital technologies offer powerful tools for assessing and improving sustainability in the built environment. These technologies enable more efficient resource management, optimised energy consumption, and reduced environmental impact through data-driven insights and automation. Digital Approaches support energy efficiency, reduce environmental impact, improve decision-making, and increase resilience.
+Key Digital Approaches:
+Internet of Things (IoT) and Sensors
+Artificial Intelligence (AI) & Machine Learning (ML)
+Digital Twins
+Building Information Modelling (BIM)
+STTP Schedule (Tentative)
+(Detailed schedule will be sent to the registered participants)
+Day 01: Monday (17-11-2025)
+STTP Inauguration (09:30 to 10:25 AM)
+Introduction to STTP and Overview of Built Environment
+Sustainability Concept
+Built Environment Sustainability Assessment Approaches;
+Resource Consumption and Population Growth
+Day 02: Tuesday (18-11-2025)
+Digital Tools in the Built Environment;
+Localisation of SDGs through Geospatial Technologies;
+Intelligent Transportation Systems and their role in enhancing Safety and Sustainability.
+Day 03: Wednesday (19-11-2025)
+Passive Cooling Strategies for Sustainable Cities
+Form-Finding with Environmental Feedback: A Parametric Approach
+Day 04: Thursday (20-11-2025)
+Agent-Based Computational Model in the Built Environment;
+Understanding Daylight and Its Role in Sustainable Design;
+Digital Tools for Daylight Evaluation and Simulation
+Day 05: Friday (21-11-2025)
+How to digitally archive Historic Routes?
+Assignment (Hands-on);
+Feedback and Valedictory
+Note: Forenoon: 10:30 AM to 01:25 PM, Afternoon: 02:00 PM to 04:30 PM

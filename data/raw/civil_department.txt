@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/engineering/civil/
 TITLE: Civil Engineering Department, VNIT Nagpur
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Skip to content
 Home
@@ -60,18 +60,13 @@ Department Mission
 The Mission of the civil engineering department is to develop students into capable engineering graduates and post graduates by imparting appropriate high-quality education in civil engineering so that they could be readily adapted by the service sector to meet the challenges faced by the Nation. The program strives for excellence in engineering education and profession. It also aims to promote all-around development of the personality of students by suitably involving them in co-curricular and extra-curricular activities.
 Department
 Stats
-PG Specializations
-0
-Faculty
-0
-Students
-0
+PG Specializations 0
+Faculty 0
+Students 0
 Publications
-(This Year)
-0
+(This Year) 0
 Patents
-(This Year)
-0
+(This Year) 0
 News &
 Events
 MBA in Advance Construction Management 2026

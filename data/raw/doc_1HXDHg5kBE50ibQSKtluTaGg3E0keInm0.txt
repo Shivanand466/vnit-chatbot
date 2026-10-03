@@ -1,0 +1,27 @@
+SOURCE_URL: https://drive.google.com/file/d/1HXDHg5kBE50ibQSKtluTaGg3E0keInm0/view
+TITLE: Chemical Engineering
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Chemical Engineering (dated 2026-08-05)
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (CHEMICAL ENGINEERING)
+I Semester
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML501 — Course Title / Name: THERMODYNAMICS OF PHASE AND CHEMICAL EQUILIBRIA; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML502 — Course Title / Name: CHEMICAL AND CATALYTIC REACTION ENGINEERING; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML503 — Course Title / Name: MOMENTUM MASS AND HEAT TRANSFER; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML504 — Course Title / Name: MATHEMATICAL METHODS IN CHEMICAL ENGINEERING; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CMP508 — Course Title / Name: ANALYTICAL AND INSTRUMENTAL; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CMP509 — Course Title / Name: COMPUTATIONAL AND DESIGN; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: Elective Courses(Any Two) — Course Title / Name: Elective Courses(Any Two); Type: Elective Courses(Any Two); Credit: Elective Courses(Any Two); Exam Slot: Elective Courses(Any Two); Offered (YES / NO): Elective Courses(Any Two); Max No. Of Students: Elective Courses(Any Two)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML529 — Course Title / Name: OPTIMIZATION TECHNIQUES IN PROCESS DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML528 — Course Title / Name: INTERFACIAL SCIENCE AND ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML533 — Course Title / Name: MASS TRANSFER-WITH CHEMICAL REACTION; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: GML521 — Course Title / Name: GHEMICAL ENGG. COMPUTATIONAL FLUID DYNAMICS; Type: DE; Credit: €; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML536 — Course Title / Name: ANALYSIS AND-DESIGN OF EXPERIMENTS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML534 — Course Title / Name: RELIABILITY ANALYSIS IN PROCESS INDUSTRY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: GML537 — Course Title / Name: SUSTAINABLE ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML511 — Course Title / Name: ANALYTICAL AND INSTRUMENTAL METHODS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: CML524 — Course Title / Name: POLYMER SCIENCE AND ENGINEERING; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CHEMICAL ENGINEERING): Code: Total Credits (DC + DE) — Course Title / Name: Total Credits (DC + DE); Type: Total Credits (DC + DE); Credit: 20

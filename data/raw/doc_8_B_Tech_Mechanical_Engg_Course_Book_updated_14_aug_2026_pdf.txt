@@ -1,0 +1,453 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/wp-content/uploads/2026/08/B.-Tech.-Mechanical-Engg.-Course-Book_updated-14-aug-2026.pdf
+TITLE: UG Course Book (2025 batch onwards)
+FETCHED: 2026-08-01
+FOUND_ON: https://vnit.ac.in/engineering/mech/
+---
+Document: UG Course Book (2025 batch onwards) (dated 2026-08-01)
+DEPARTMENT OF MECHANICAL ENGINEERING
+Course Book for
+B. Tech. in Mechanical Engineering
+For
+Academic Year: 2026-27
+(Admitted Year: 2025
+- 2026 Onwards)
+Visvesvaraya National Institute of Technology, Nagpur-440 010 (MH)
+Institute Vision Statement
+To contribute effectively to the National and International 1ndeavor of producing quality human resource of world class standard by developing a sustainable technical education system to meet the changing technological needs of the Country and the World incorporating relevant social concerns and to build an environment to create and propagate innovative technologies for the economic development of the Nation.
+Institute Mission Statement
+The mission of VNIT is to achieve high standards of excellence in generating and propagating knowledge in engineering and allied disciplines. VNIT is committed to providing an education that combines rigorous academics with joy of discovery. The Institute encourages its community to engage in a dialogue with society to be able to effectively contribute for the betterment of humankind.
+Department Vision Statement
+To produce quality human resource of high standard in mechanical engineering who can contribute favorably to the technological and socio-economic development of the nation.
+Department Mission Statement
+To develop state of the art facilities related to mechanical engineering. To attract highly qualified faculty to the mechanical engineering department. To promote participation of industries in academics, research and consultancy. To undertake research at regional and national level.
+Brief about Mechanical Department
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. Faculty members of the department are highly motivated for teaching and conducting research in the diversified fields of mechanical engineering.
+INDEX
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: List of Faculty Members — Page No.: 4
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Credit System at VNIT — Page No.: 5
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Grading system at VNIT — Page No.: 6
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Performance Evaluation — Page No.: 7
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Program Credit Structure (Mechanical Engg.) — Page No.: 10
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: First Semester — Page No.: 17
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Second Semester — Page No.: 39
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Third Semester — Page No.: 56
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Fourth Semester — Page No.: 82
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Fifth Semester — Page No.: 105
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Sixth Semester — Page No.: 127
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Departmental Electives for Odd Semester — Page No.: 140
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | INDEX: Content: Departmental Electives for Even Semester — Page No.: 213
+List of faculty Members
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. A. M. Kuthe — Areas of specialization: Manufacturing
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. S. B. Thombre — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. A. B. Andhare — Areas of specialization: Manufacturing
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. V. R. Kalamkar — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. Y. M. Puri — Areas of specialization: Manufacturing and Industrial Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. J. G. Suryawanshi — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. R. V. Uddanwadikar — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. S. S. Chiddarwar — Areas of specialization: Manufacturing and Design Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. D. B. Zodpe — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. A. S. Dhoble — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. H.P. Jawale — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. M. S. Kotambkar — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. A. K. Singh — Areas of specialization: Design and Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. Trushar B Gohil — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. T. V. K. Gupta — Areas of specialization: Manufacturing
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. Ravikumar Dumpala — Areas of specialization: Manufacturing
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. D. A. Jolhe — Areas of specialization: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. P. V. Kane — Areas of specialization: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. V. M. Nistane — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. N. K. Lautre — Areas of specialization: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. G. Tiwari — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. A. A. Thakre — Areas of specialization: Design and Industrial Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. K. M. Asthankar — Areas of specialization: Industrial Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. P. D. Sawarkar — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. S Roga — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. Rahul Tarodiya — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. N. A. Reddy — Areas of specialization: Design Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. R. P. Soni — Areas of specialization: Thermal Engineering
+Department of Mechanical Engineering is one of the oldest departments started in 1960, currently department is offering 1 UG and 4 PG programmes. | List of faculty Members: Faculty Name: Dr. A. A. Baxy — Areas of specialization: Design Engineering
+UG/ PG Programmes Offered by Mechanical Department:
+The department offers following undergraduate and postgraduate programmes
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: UG — Program: B. Tech in Mechanical Engineering; Description: Intake: 115
+The department offers following undergraduate and postgraduate programmes | UG/ PG Programmes Offered by Mechanical Department: PG — Program: M. Tech. in 1. Computer Aided Design & Manufacturing 2. Production and Industrial Engineering 3. Heat Power Engineering. 4. Bio Medical Engineering (Interdisciplinary); Description: Intake : 23 Intake : 23 Intake : 23 Intake : 14
+Credit System at VNIT:
+Education at the Institute is organized around the semester-based credit system of study. The prominent features of the credit system are a process of continuous evaluation of a student's performance / progress and flexibility to allow a student to progress at an optimum pace suited to his/her ability or convenience, subject to fulfilling minimum requirements for continuation. A student's performance/progress is measured by the number of credits he/she has earned, i.e. completed satisfactorily. Based on the course credits and grades obtained by the student, grade point average is calculated. A minimum number of credits and a minimum grade point average must be acquired by a student in order to qualify for the degree.
+Course credits assignment
+Each course, except a few special courses, has certain number of credits assigned to it depending on lecture, tutorial and laboratory contact hours in a week.
+For Lectures and Tutorials: One lecture hour per week per semester is assigned one credit and For Practical/ Laboratory/ Studio: One hour per week per semester is assigned half credit.
+Example: Course XXXXXX with (3-0-2) as (L-T-P) structure, i.e. 3 hr Lectures + 0 hr Tutorial + 2 hr Practical per week, will have (3x1 + 0x1 + 2x0.5 =) 4 credits.
+Grading System
+The grading reflects a student's own proficiency in the course. While relative standing of the student is clearly indicated by his/her grades, the process of awarding grades is based on fitting performance of the class to some statistical distribution. The course coordinator and associated faculty members for a course formulate appropriate procedure to award grades. These grades are reflective of the student's performance vis -àvis instructor's expectation. If a student is declared pass in a subject, then he/she gets the credits associated with that subject.
+Depending on marks scored in a subject, a student is given a Grade. Each grade has got certain grade points as follows:
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AA — Grade points: 10; Description: Outstanding
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: AB — Grade points: 9; Description: Excellent
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BB — Grade points: 8; Description: Very good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: BC — Grade points: 7; Description: Good
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CC — Grade points: 6; Description: Average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: CD — Grade points: 5; Description: Below average
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: DD — Grade points: 4; Description: Marginal (Pass Grade)
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: FF — Grade points: 0; Description: Poor (Fail) /Unsatisfactory / Absence from end-sem exam
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NP — Grade points: -; Description: Audit pass
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: NF — Grade points: -; Description: Audit fail
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: SS — Grade points: -; Description: Satisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: ZZ — Grade points: -; Description: Unsatisfactory performance in zero credit core course
+Depending on marks scored in a subject, a student is given a Grade. | Grading System: Grade: W — Grade points: -; Description: Insufficient attendance
+Performance Evaluation
+The performance of a student is evaluated in terms of two indices, viz, the Semester Grade Point Average (SGPA) which is the Grade Point Average for a semester and Cumulative Grade Point Average (CGPA) which is the Grade Point Average for all the completed semesters at any point in time. CGPA is rounded up to second decimal.
+The Earned Credits (ECR) are defined as the sum of course credits for courses in which students have been awarded grades between AA to DD. Grades obtained in the audit courses are not counted for computation of grade point average
+Earned Grade Points in a semester (EGP) = Σ (Course credits x Grade point) for courses in which AA- DD grade has been obtained
+SGPA = EGP / Σ (Course credits) for courses registered in a semester in which AA- FF grades are awarded
+CGPA= EGP / Σ(Course credits) for courses passed in all completed semesters in which AA- DD grades are awarded.
+Attendance Rules
+All students must attend every class and 100% attendance is expected from the students. However, in consideration of the constraints/ unavoidable circumstances, the attendance can be relaxed by course coordinator only to the extent of not more than 25%. Every student must attend minimum of 75% of the classes actually held for that course.
+A student with less than 75% attendance in a course during the semester, will be awarded W grade. Such a student will not be eligible to appear for the end semester and re- examination of that course. Even if such a student happens to appear for these examinations, then, answer books of such students will not be evaluated.
+A student with W grade is not eligible to appear for end semester examination, reexamination & summer term.
+Program Outcomes for B. Tech in Mechanical Engineering
+The graduates will be able to apply knowledge of basic sciences (math, physics, chemistry etc.) and engineering (core and elective subjects) in getting solutions to mechanical engineering related problems.
+The graduates will be able to design and conduct experiments as well as analyze and interpret data.
+The graduates will be able to design a system or a component of a system for a specific task within realistic constraints.
+The graduates will be able to undertake multi disciplinary courses and tasks.
+The graduates will be able to formulate and apply the knowledge of mathematical techniques in solving the governing equations of a system under consideration.
+The graduates will be able to develop industrial and professional ethics and managerial skills.
+The graduates will be able to communicate effectively their point of views
+The graduates will be able to study the impact of mechanical systems on the global, economic, environmental and societal context.
+The graduates will acquire attitude for life- long learning.
+The graduate will be able to use modern tools, software, equipment etc. to analyze and obtain solution to the problems.
+The graduates will be able to participate in competitive examinations for success
+Program Credit Structure
+Mechanical Engineering Department
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Basic Sciences — Symbol: BS; Earned Credit Requirement: 16
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Engineering Sciences — Symbol: ES; Earned Credit Requirement: 16
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Institute Core — Symbol: IC; Earned Credit Requirement: 02
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Departmental Core — Symbol: DC; Earned Credit Requirement: 71
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Mandatory Non-Credit — Symbol: MNC
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Category of Course - PE — Symbol; Earned Credit Requirement
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Institute Elective — Symbol: IE; Earned Credit Requirement: 06
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Departmental Elective — Symbol: DE; Earned Credit Requirement: 43
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Humanities & Management — Symbol: HM; Earned Credit Requirement: 3
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Open Course — Symbol: OC; Earned Credit Requirement: 3
+The graduates will be able to participate in competitive examinations for success | Mechanical Engineering Department: Category of Course - PC: Total — Earned Credit Requirement: 160
+Name of UG Program: B. Tech in Mechanical Engineering
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: Sem
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: PC.BS: 8 — PC.ES HU: 3; PC.IC: 0; PC.DC: 2; PC.MNC: Physical Edu.; PC.: 0; PE.IE OC: 0; PE.HM: 0; PE.DE*: 0; PE.Total: 21; HN #: I
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: PC.BS: 8 — PC.ES HU: 0; PC.IC: 2; PC.DC: 0; PC.MNC: Life Skill; PC.: 3; PE.IE OC: 0; PE.HM: 0; PE.DE*: 0; PE.Total: 21; HN #: II
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: PC.BS: 0 — PC.ES HU: 0; PC.IC: 0; PC.DC: 20; PC.MNC: Third MNC; PC.: 0; PE.IE OC: 0; PE.HM: 0; PE.DE*: 2; PE.Total: 22; MR #: 3; HN #: III
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: PC.BS: 0 — PC.ES HU: 0; PC.IC: 0; PC.DC: 17; PC.MNC: Fourth MNC; PC.: 3; PE.IE OC: 0; PE.HM: 0; PE.DE*: 0; PE.Total: 20; MR #: 3; HN #: IV
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: PC.BS: 0 — PC.ES HU: 0; PC.IC: 0; PC.DC: 16; PC.MNC: 0; PC.: 0; PE.IE OC: 0; PE.HM: 0; PE.DE*: 7; PE.Total: 23; MR #: 3; 3; HN #: V
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: PC.BS: 0 — PC.ES HU: 0; PC.IC: 0; PC.DC: 10; PC.MNC: 0; PC.: 0; PE.IE OC: 0; PE.HM: 0; PE.DE*: 10; PE.Total: 20; MR #: 3; 4; HN #: VI
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: PC.BS: 0 — PC.ES HU: 0; PC.IC: 0; PC.DC: 3; PC.MNC: 0; PC.: 0; PE.IE OC: 0; PE.HM: 0; PE.DE*: 10; PE.Total: 13; MR #: 3; 4; HN #: VII
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: PC.BS: 0 — PC.ES HU: 0; PC.IC: 0; PC.DC: 3; PC.MNC: 0; PC.: 0; PE.IE OC: 3; PE.HM: 0; PE.DE*: 14; PE.Total: 21; 4; HN #: VIII
+Name of UG Program: B. Tech in Mechanical Engineering | Mechanical Engineering Department: 1 6 — PC.BS: 16; PC.ES HU: 3; PC.IC: 2; PC.DC: 71; PC.MNC: 0; PC.: 6; PE.IE OC: 3; PE.HM: 0; PE.DE*: 43; PE.Total: 160; MR #: 15; 15; HN #: Total
+*DE courses also include optional summer internship of minimum six weeks (1 credit) & Semester long internship (6 credits) in 7 th or 8 th semester
+# Note - Minor and Honours Course are Optional
+1 st Semester
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: CHLA101 — Course Title: CHEMICAL SCIENCE FOR MATERIALS AND ENERGY SYSTEMS; L - T - P: 3-0-0; Credits: 3; Course Type: BS
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: MALA103 — Course Title: CALCULUS AND DIFFERENTIAL EQUATIONS; L - T - P: 3-1-0; Credits: 4; Course Type: BS
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: HULA101 — Course Title: ENGLISH AND CORPORATE COMMUNICATION; L - T - P: 2-0-2; Credits: 3; Course Type: IC
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: MELA102 — Course Title: ENGINEERING DRAWING; L - T - P: 3-0-0; Credits: 3; Course Type: ES
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: AMLA101 — Course Title: ENGINEERING MECHANICS; L - T - P: 3-0-0; Credits: 3; Course Type: ES
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: CHPA102 — Course Title: CHEMISTRY LABORATORY; L - T - P: 0-0-2; Credits: 1; Course Type: BS
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: MEPA102 — Course Title: ENGINEERING DRAWING PRACTICAL; L - T - P: 0-0-2; Credits: 1; Course Type: ES
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: AMPA101 — Course Title: ENGINEERING MECHANICS LABORATORY; L - T - P: 0-0-2; Credits: 1; Course Type: ES
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: MEPA103 — Course Title: WORKSHOP; L - T - P: 0-0-4; Credits: 2; Course Type: DC
+# Note - Minor and Honours Course are Optional | 1 st Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+# Note - Minor and Honours Course are Optional | 1 st Semester: Credits: 1 st Sem — BS: 8; ES: 8; HU: 3; IC: 0; DC: 2; IE/DE/HM/OC: 0; Minor: 0; Honor: 0; Total: 21
+# Note - Minor and Honours Course are Optional | 1 st Semester: Credits: Cumulative — BS: 8; ES: 8; HU: 3; IC: 0; DC: 2; IE/DE/HM/OC: 0; Minor: 0; Honor: 0; Total: 21
+2 nd Semester
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: PHL1XX — Course Title: PHYSICS FOR MECHANICAL ENGINEERING; L - T - P: 3-0-0; Credits: 3; Course Type: BS
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: MAL211 — Course Title: COMPLEX VARIABLES, INTEGRAL TRANSFORMS AND PARTIAL DIFFERENTIAL EQUATIONS; L - T - P: 3-1-0; Credits: 4; Course Type: BS
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: CSL101 — Course Title: COMPUTER PROGRAMMING; L - T - P: 3-0-2; Credits: 4; Course Type: ES
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: EEL1XX — Course Title: ELECTRICAL ENGINEERING; L - T - P: 3-0-0; Credits: 3; Course Type: ES
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: ICLXXX — Course Title: ENVIRONMENTAL STUDIES; L - T - P: 2-0-0; Credits: 2; Course Type: IC
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Title: INSTITUTE ELECTIVE 1 — L - T - P: 3-0-0; Credits: 3; Course Type: IE
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: PHP1XX — Course Title: PHYSICS LAB FOR MECHANICAL ENGINEERING; L - T - P: 0-0-2; Credits: 1; Course Type: BS
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: EEP1XX — Course Title: ELECTRICAL ENGINEERING LABORATORY; L - T - P: 0-0-2; Credits: 1; Course Type: ES
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Course Code: MEDXXX — Course Title: SUMMER INTERNSHIP MIN 6 WEEKS (OPTIONAL); L - T - P: -; Credits: 1; Course Type: DE
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Credits: 2 nd Sem — BS: 8; ES: 8; HU: 0; IC: 2; DC: 0; IE/DE/HM/OC: 3; Minor: 0; Honor: 0; Total: 21
+# Note - Minor and Honours Course are Optional | 2 nd Semester: Credits: Cumulative — BS: 16; ES: 16; HU: 3; IC: 2; DC: 2; IE/DE/HM/OC: 3; Minor: 0; Honor: 0; Total: 42
+3 rd Semester
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: MELA201 — Course Title: MANUFACTURING PROCESS-I; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: MELA202 — Course Title: ENGINEERING THERMODYNAMICS; L - T - P: 3-1-0; Credits: 4; Course Type: DC
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: MELA203 — Course Title: THEORY OF MACHINE - I; L - T - P: 3-1-0; Credits: 4; Course Type: DC
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: MELA204 — Course Title: COMPUTATIONAL METHODS IN MECHANICAL ENGINEERING; L - T - P: 3-1-0; Credits: 4; Course Type: DC
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: MELA205 — Course Title: SOLID MECHANICS; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: MEPA201 — Course Title: MANUFACTURING PROCESS-I LAB; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: MEPA205 — Course Title: SOLID MECHANICS; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: MEPA206 — Course Title: COMPUTER AIDED DRAFTING AND MODELLING; L - T - P: 0-1-2; Credits: 2; Course Type: DE
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Course Code: Minor #1 — Course Title: MINOR 1 (OPTIONAL); L - T - P: 3-0-0; Credits: 3; Course Type: MR
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Credits: 3 rd Sem — BS: 0; ES: 0; HU: 0; IC: 0; DC: 20; IE/DE/HM/OC: 0/2/0/0; Mino r: 3; Honor: 0; Total: 22
+# Note - Minor and Honours Course are Optional | 3 rd Semester: Credits: Cumulative — BS: 16; ES: 16; HU: 3; IC: 2; DC: 22; IE/DE/HM/OC: 3/2/0/0; Mino r: 3; Honor: 0; Total: 64
+4 th Semester
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEL202 — Course Title: FLUID MECHANICS; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEL301 — Course Title: THEORY OF MACHINE-II; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEL303 — Course Title: ENERGY CONVERSION-I; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEL304 — Course Title: MACHINE DESIGN-I; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEL313 — Course Title: MACHINE DRAWING; L - T - P: 2-0-0; Credits: 2; Course Type: DC
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEP202 — Course Title: FLUID MECHANICS LAB; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEP301 — Course Title: THEORY OF MACHINE-II; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEP313 — Course Title: MACHINE DRAWING; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Title: INSTITUTE ELECTIVE 2 — L - T - P: 3-0-0; Credits: 3; Course Type: IE
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: MEDXXX — Course Title: SUMMER INTERNSHIP MIN 6 WEEKS (OPTIONAL); L - T - P: -; Credits: 1; Course Type: DE
+# Note - Minor and Honours Course are Optional | 4 th Semester: Course Code: Minor #2 — Course Title: MINOR 2 (OPTIONAL); L - T - P: 3-0-0; Credits: 3; Course Type: MR
+# Note - Minor and Honours Course are Optional | 4 th Semester: Credits: 4 th Sem — BS: 0; ES: 0; HU: 0; IC: 0; DC: 17; IE/DE/HM/OC: 3/0/0/0/; Mino r: 3; Hono r: 0; Total: 20
+# Note - Minor and Honours Course are Optional | 4 th Semester: Credits: Cumulative — BS: 16; ES: 16; HU: 3; IC: 2; DC: 39; IE/DE/HM/OC: 6/2/0/0; Mino r: 6; Hono r: 0; Total: 84
+5 th Semester
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: MEL302 — Course Title: HEAT TRANSFER; L - T - P: 3-1-0; Credits: 4; Course Type: DC
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: MEL305 — Course Title: MANUFACTURING PROCESS II; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: MEL307 — Course Title: FLUID MACHINES; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: MEL308 — Course Title: ENERGY CONVERSION- II; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: MEP302 — Course Title: THERMAL LAB; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: MEP305 — Course Title: MANUFACTURING PROCESS II; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: MEP307 — Course Title: FLUID MACHINES; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Title: DEPARTMENTAL ELECTIVE — L - T - P: 3-0-2; Credits: 4; Course Type: DE
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Title: DEPARTMENTAL ELECTIVE — L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 5 th Semester: Course Code: Minor #3 / Honor #1 — Course Title: MINOR course 3/DE for HONOURS (OPTIONAL); L - T - P: 3-0-0; Credits: 3; Course Type: MR/DE
+# Note - Minor and Honours Course are Optional | 5 th Semester: Credits: 5 th Sem — BS: 0; ES: 0; HU: 0; IC: 0; DC: 16; IE/DE/HM/OC: 0/7/0/0; Minor: 3; Honor: 3; Total: 23
+# Note - Minor and Honours Course are Optional | 5 th Semester: Credits: Cumulative — BS: 16; ES: 16; HU: 3; IC: 2; DC: 55; IE/DE/HM/OC: 6/9/0/0; Minor: 9; Honor: 3; Total: 107
+6 th Semester
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: MEL309 — Course Title: MACHINE DESIGN-II; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: MEL311 — Course Title: METROLOGY AND QUALITY ASSURANCE; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: MEL312 — Course Title: MECHANICAL MEASUREMENTS; L - T - P: 3-0-0; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: MEP314 — Course Title: MECHANICAL MEASUREMENT AND METROLOGY; L - T - P: 0-0-2; Credits: 1; Course Type: DC
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-2; Credits: 4; Course Type: DE
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: MED406 — Course Title: SUMMER INTERNSHIP MIN 6 WEEKS (OPTIONAL); L - T - P: -; Credits: 1; Course Type: DE
+# Note - Minor and Honours Course are Optional | 6 th Semester: Course Code: Minor #4/ Honor #2 — Course Title: MINOR COURSE 4/DE FOR HONOURS (OPTIONAL); L - T - P: 3-0-0; Credits: 3/4; Course Type: MR/DE
+# Note - Minor and Honours Course are Optional | 6 th Semester: Credits: 6 th Sem — BS: 0; ES: 0; HU: 0; IC: 0; DC: 10; IE/DE/HM/OC: 0/10/0/0; Minor: 3; Honor: 4; Total: 20
+# Note - Minor and Honours Course are Optional | 6 th Semester: Credits: Cumulative — BS: 16; ES: 16; HU: 3; IC: 2; DC: 65; IE/DE/HM/OC: 6/19/0/0; Minor: 12; Honor: 7; Total: 127
+7 th Semester
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: MED401 — Course Title: PROJECT PHASE-I; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 0-0-2; Credits: 1; Course Type: DE
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 0-0-2; Credits: 1; Course Type: DE
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: MED406 — Course Title: SEMESTER LONG INTERNSHIP; L - T - P: -; Credits: 6; Course Type: DE
+# Note - Minor and Honours Course are Optional | 7 th Semester: Course Code: Minor #5/ Honor #3 — Course Title: MINOR course 5/DE for HONOURS (OPTIONAL); L - T - P: 3-0-0; Credits: 3/4; Course Type: MR/DE
+# Note - Minor and Honours Course are Optional | 7 th Semester: Credits: 7 th Sem — BS: 0; ES: 0; HU: 0; IC: 0; DC: 3; IE/DE/HM/OC: 0/14/0/0; Minor: 3; Honor: 4; Total: 17
+# Note - Minor and Honours Course are Optional | 7 th Semester: Credits: Cumulative — BS: 16; ES: 16; HU: 3; IC: 2; DC: 68; IE/DE/HM/OC: 6/33/0/0; Minor: 15; Honor: 11; Total: 144
+8 th Semester
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: Program Core — Course Title: Program Core; L - T - P: Program Core; Credits: Program Core; Course Type: Program Core; Pre- requisites: Program Core
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: MED402 — Course Title: PROJECT PHASE-II; Credits: 3; Course Type: DC
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: Program Elective — Course Title: Program Elective; L - T - P: Program Elective; Credits: Program Elective; Course Type: Program Elective; Pre- requisites: Program Elective
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 0-0-2; Credits: 1; Course Type: DE
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: MEL4XX — Course Title: DEPARTMENTAL ELECTIVE; L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Title: OPEN ELECTIVE — L - T - P: 3-0-0; Credits: 3; Course Type: OC
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: MEL4XX — Course Title: DE for HONOURS (OPTIONAL); L - T - P: 3-0-0; Credits: 3; Course Type: DE
+# Note - Minor and Honours Course are Optional | 8 th Semester: Course Code: MEL4XX — Course Title: DE for HONOURS (OPTIONAL); L - T - P: 0-0-2; Credits: 1; Course Type: DE
+# Note - Minor and Honours Course are Optional | 8 th Semester: Credits: 8 th Sem — BS: 0; ES: 0; HU: 0; IC: 0; DC: 3; IE/DE/HM/OC: 0/10/0/3; Minor: 0; Honor: 4; Total: 16
+# Note - Minor and Honours Course are Optional | 8 th Semester: Credits: Cumulative — BS: 16; ES: 16; HU: 3; IC: 2; DC: 71; IE/DE/HM/OC: 6/43/0/3; Minor: 15; Honor: 15; Total: 160
+*DE courses also include optional summer internship of minimum six weeks (1 credit) & Semester long internship (6 credits) in 7 th or 8 th semester
+*Note - Minor and Honours Course are Optional
+List of Electives: For Odd Semester
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEPA206 — Course Title: Computer Aided Drafting and Modelling; L - T - P: 0-1-2; Credits: 2; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL317 — Course Title: Mobile Robotics; L - T - P: 3-0-0; Credits: 3
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL402 — Course Title: Surface Engineering; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL403 — Course Title: Operation Research; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL406 — Course Title: Dynamics of Mechanical System; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL407 — Course Title: Bio Mechanics; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL408 — Course Title: Supply Chain Management; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL410 — Course Title: Computer Aided Design; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEP410 — L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL412 — Course Title: Air Conditioning; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL414 — Course Title: Tribology; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL417 — Course Title: Power Plant Engineering; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL420 — L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEP420 — Course Title: Finite Element Method; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL425 — Course Title: Reliability and Maintenance Engineering; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL428 — Course Title: Machine Tool Design; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL431 — Course Title: Advanced Mechanism; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL433 — Course Title: Design for Manufacturing and Assembly; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL435 — Course Title: Computational Fluid Dynamics; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEP435 — Course Title: Computational Fluid Dynamics; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL436 — Course Title: Mechatronics; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEP436 — Course Title: Mechatronics; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL437 — Course Title: Composite Materials; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL439 — Course Title: Product Design and Development; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL440 — Course Title: Machine Vision & Its Application; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL452 — Course Title: Advanced Machining Processes; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL458 — Course Title: Aerial Robotics; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Odd Semester: Course Code: MEL4XX — Course Title: Vehicle Dynamics; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+List of Electives: For Even Semester
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL310 — Course Title: Manufacturing Processes; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEP310 — Course Title: Automation; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL318 — Course Title: Two Phase Flow and Heat; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEP318 — Course Title: Transfer; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL401 — Course Title: Control Systems; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL405 — Course Title: Optimization; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL409 — Course Title: Advanced Mechanics of Solids; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL413 — Course Title: Fracture Mechanics; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL415 — Course Title: Mechanical Vibration; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL416 — Course Title: Industrial Robotics; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL418 — Course Title: Advanced Stress Analysis; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL422 — Course Title: Automobile Engineering; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEP422 — Course Title: Automobile Engineering; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL424 — Course Title: Industrial Engineering & Management; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL426 — L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEP426 — Course Title: Refrigeration & Cryogenics; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL429 — Course Title: Renewable Energy Sources; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL430 — L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEP430 — Course Title: Advanced IC Engines; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL432 — Course Title: Computer Graphics and Solid; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEP432 — Course Title: Modelling; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL438 — Course Title: Adv Refrigeration and Air; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEP438 — Course Title: Conditioning; L - T - P: 0-0-2; Credits: 1; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL443 — Course Title: Air Pollution Control; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL444 — Course Title: Solar Energy Utilization; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL448 — Course Title: Artificial Intelligence in Manufacturing; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL449 — Course Title: Advanced Turbo Machinery; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEP452 — Course Title: Machine System Design; L - T - P: 0-1-4; Credits: 3; Course Type: Practical
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL456 — Course Title: Design of Fixtures in Manufacturing; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL4XX — Course Title: Smart Manufacturing and Quality 4.0; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code: MEL4XX — Course Title: Noise Vibration and Harshness; L - T - P: 3-0-0; Credits: 3; Course Type: Theory
+Semester I
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Code & Course Title: | CHLA101: CHEMICAL SCIENCE FOR MATERIALS AND ENERGY SYSTEMS | CHLA101: CHEMICAL SCIENCE FOR MATERIALS AND ENERGY SYSTEMS | CHLA101: CHEMICAL SCIENCE FOR MATERIALS AND ENERGY SYSTEMS
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Type: | BS | BS | BS
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Name of the programme(s): | B. Tech. | B. Tech. | B. Tech.
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: L - T - P | 3-0-0 | No. of Credits | 3
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Pre-requisites: Course Code(s) & Name(s) | NIL
+*Note - Minor and Honours Course are Optional | List of Electives: For Even Semester: Course Equivalence: Course Code(s) & Name(s) | NIL
+1. Course Objectives:
+To understand the fundamental principles of Water treatment, electrochemical phenomenon including corrosion, electrochemical series and battery Technology.
+To explore the chemistry components and applications of fuel and lubricants.
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis.
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Course Outcomes:
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Understand the fundamentals of water chemistry, electrochemistry | CO1
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Understanding the fundamentals of fuels, lubricants and spectroscopic techniques. | CO2
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Gaining the knowledge of the material synthesis and chemistry of engineering materials. | CO3
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Recognize the role of high energy materials, adsorption and the catalytic process. | CO4
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Water Chemistry: Sources, conservation of water, impurities in water and their effects. WHO guideline and BIS guideline for drinking water. Chemistry involved in sedimentation, coagulation and sterilization. Softening of water, lime- soda process. Ion-exchange process (zeolite and ion exchange resin) and numerical problem. Boiler troubles, causes and effects, methods of prevention. — Detailed Description of the Course.Topics: Water Chemistry: Sources, conservation of water, impurities in water and their effects. WHO guideline and BIS guideline for drinking water. Chemistry involved in sedimentation, coagulation and sterilization. Softening of water, lime- soda process. Ion-exchange process (zeolite and ion exchange resin) and numerical problem. Boiler troubles, causes and effects, methods of prevention.; CO(s) Addressed: CO1; Duration in weeks: 2
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Electrochemical Phenomenon and Corrosion: Electrochemical and galvanic series, polarization, decomposition potential, over voltage. Introduction to electrochemical characterization techniques - potentiometry, conductometry, cyclic voltammetry. Theories of corrosion, types of corrosion, factors influencing corrosion. — Detailed Description of the Course.Topics: Electrochemical Phenomenon and Corrosion: Electrochemical and galvanic series, polarization, decomposition potential, over voltage. Introduction to electrochemical characterization techniques - potentiometry, conductometry, cyclic voltammetry. Theories of corrosion, types of corrosion, factors influencing corrosion.; CO(s) Addressed: CO1; Duration in weeks: 2
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Corrosion Control: Design and material selection, anodic and cathodic protection, protective coatings, corrosion inhibitors.
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Battery Technology: Introduction, types and properties of batteries: Primary cells, Secondary cells (Lithium-ion battery: Chemistry involved, Cathode materials, Anode materials, Electrolytes and Separators). Fuel Cells. Solar cells. | CO1 | 1
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Fuels and Lubricants: Fuels: Classification of fuels, Solid Fuels, Calorific Value, proximate and ultimate analysis, Carbonization, Liquid fuels, Knocking in I/C engine, Octane no, cetane no, combustion problems. Biofuels. Lubricants: Mechanism of friction, Classification: Solid, Semisolid, Liquid. Properties and applications of lubricants. | CO2 | 2
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Spectroscopy: Interaction of radiation with matter, Molecular/Atomic Spectroscopy: Principles and applications of optical (UV-Vis) spectroscopy, Atomic absorption spectroscopy, Flame photometry, Inductively coupled plasma - Optical emission spectroscopy (ICP-OES), Vibrational (IR and Raman) spectroscopy and interpretation. | CO2 | 2
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Industrially relevant processes for materials synthesis: Chemical methods of material synthesis: Sol-gel, co- precipitation, Pechini's method. Emulsions. Introduction to PVD and CVD, thin films. Thermochemistry, Heat and energy changes, Phase transitions. | CO3 | 1
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Chemistry of Engineering Materials: Cement: Introduction, manufacturing and properties, fly ash utilization. Polymers: Structure property relationship. Synthesis, properties and applications of industrial grade polymers [polyester, polyethylene terephthalate (PET), silicone, nylon, polyurethane, isoprene and Bakelite]. Conducting Polymers. | CO3 | 2
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Chemistry of High Energy Materials: Explosives: Introduction. Analytical techniques: trace and bulk level, requisites, oxygen balance, classification, properties and applications. Rocket propellants. | CO4 | 1
+To gain knowledge of chemistry of Engineering materials high energy materials and catalysis. | 1. Course Objectives: Adsorption and Catalysis: Physical adsorption, chemisorption, Freundlich's expression, Langmuir adsorption isotherm. Industrial applications of adsorption, Heterogeneous Catalysis. | CO4 | 1
+4. Text books
+Dara, S. S. and S.S. Umare, A Text Book of Engineering Chemistry (Twelfth edition); S. Chand, 2014. ISBN-13: 978-8121903592
+ii) Jain and Jain, Engineering Chemistry, 17 th Eds; Dhanpat Rai publishing. ISBN-13: 9789352165728
+iii) Shashi Chawla, A Text Book of Engineering Chemistry. ISBN-13: 978-8177001938
+5. Reference Book(s) and Other Required Material
+An Introduction to Electrochemistry, S. Glasstone, 2 nd Edition, East west press (Pvt.) Limited. ISBN-13: 978-8176710138
+ii) P.W. Atkins, Physical Chemistry, Oxford University Press. ISBN-13: 978-0198814740
+iii) Bradley D. Fahlman, Materials Chemistry, 4 th Eds; Springer, 2023. ISBN-13: 9783031187834
+6. Evaluation Details:
+Mid Term Examination: 30 Marks
+Continuous Assessment: 20 Marks
+End Term Examination: 50 Marks Total Marks: 100
+7. Relationship of Course Outcomes to Program Outcomes:
+Mapping with POs (Departmental Reference)
+End Term Examination: 50 Marks Total Marks: 100 | Mapping with POs (Departmental Reference): CO1 — PO1: 3; PO2: 2; PO3: 3; PO4: 2; PO5: 2; PO6: 2; PO7: 3; PO8: 1; PO9: 1; PO10: 1; PO11: 2
+End Term Examination: 50 Marks Total Marks: 100 | Mapping with POs (Departmental Reference): CO2 — PO1: 2; PO2: 3; PO3: 3; PO4: 3; PO5: 2; PO6: 3; PO7: 3; PO8: 1; PO9: 2; PO10: 1; PO11: 2
+End Term Examination: 50 Marks Total Marks: 100 | Mapping with POs (Departmental Reference): CO3 — PO1: 3; PO2: 2; PO3: 3; PO4: 3; PO5: 3; PO6: 2; PO7: 2; PO8: 1; PO9: 1; PO10: 1; PO11: 2
+End Term Examination: 50 Marks Total Marks: 100 | Mapping with POs (Departmental Reference): CO4 — PO1: 3; PO2: 2; PO3: 3; PO4: 2; PO5: 1; PO6: 2; PO7: 3; PO8: 2; PO9: 1; PO10: 1; PO11: 2
+High - 3; Medium - 2; Low - 1;
+8.
+List of Indicative Laboratory Experiment (if applicable): NA
+High - 3; Medium - 2; Low - 1 | List of Indicative Laboratory Experiment (if applicable): NA: Course Code & Course Title: | MALA103 - CALCULUS AND DIFFERENTIAL EQUATIONS | MALA103 - CALCULUS AND DIFFERENTIAL EQUATIONS | MALA103 - CALCULUS AND DIFFERENTIAL EQUATIONS
+High - 3; Medium - 2; Low - 1 | List of Indicative Laboratory Experiment (if applicable): NA: Course Type: | BS | BS | BS
+High - 3; Medium - 2; Low - 1 | List of Indicative Laboratory Experiment (if applicable): NA: Name of the programme(s): | B. Tech. | B. Tech. | B. Tech.
+High - 3; Medium - 2; Low - 1 | List of Indicative Laboratory Experiment (if applicable): NA: L - T - P | 3-1-0 | No. of Credits | 4
+High - 3; Medium - 2; Low - 1 | List of Indicative Laboratory Experiment (if applicable): NA: Pre-requisites: Course Code(s) & Name(s) | NIL | NIL | NIL
+High - 3; Medium - 2; Low - 1 | List of Indicative Laboratory Experiment (if applicable): NA: Course Equivalence: Course Code(s) & Name(s) | NIL | NIL | NIL
+1.
+Course Objective:
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science and engineering.
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science... | Course Objective: Deal with differential calculus of functions of several variables and their applications. — Course Outcomes:: CO1
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science... | Course Objective: Understand concepts of multiple integrals and their applications in Engineering problems. — Course Outcomes:: CO2
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science... | Course Objective: Understand the concepts of vector calculus and its applications in Engineering and Science. — Course Outcomes:: CO3
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science... | Course Objective: Solve a certain class of ordinary differential equations related to Science and Engineering. — Course Outcomes:: CO4
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science... | Course Objective: Differential Calculus of Function of Several Variables: Partial derivatives and their geometrical interpretation, tangent plane and normal line, chain rules, Jacobian, Taylor's theorem (without proof), maxima and minima, saddle points. CO1 — Detailed Description of the Course.Topics CO(s) Addressed: Differential Calculus of Function of Several Variables: Partial derivatives and their geometrical interpretation, tangent plane and normal line, chain rules, Jacobian, Taylor's theorem (without proof), maxima and minima, saddle points. CO1; Duration in weeks: 3
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science... | Course Objective: Multiple Integrals: Double integrals, change of order of integration, change of variables, applications to area, volumes, mass, center of gravity. Triple integrals and change of variables in triple integrals. Application of triple integrals to volume, mass, center of mass, and moments of inertia. CO2 — Detailed Description of the Course.Topics CO(s) Addressed: Multiple Integrals: Double integrals, change of order of integration, change of variables, applications to area, volumes, mass, center of gravity. Triple integrals and change of variables in triple integrals. Application of triple integrals to volume, mass, center of mass, and moments of inertia. CO2; Duration in weeks: 4
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science... | Course Objective: Vector Calculus: Scalar and vector fields, gradient of scalar point function, directional derivatives, divergence, curl, solenoidal and irrotational fields. Vector integration: line, surface and volume integrals. Green's theorem, Stoke's theorem, and Gauss divergence theorem (without proof). CO3 — Detailed Description of the Course.Topics CO(s) Addressed: Vector Calculus: Scalar and vector fields, gradient of scalar point function, directional derivatives, divergence, curl, solenoidal and irrotational fields. Vector integration: line, surface and volume integrals. Green's theorem, Stoke's theorem, and Gauss divergence theorem (without proof). CO3; Duration in weeks: 3
+The objective of this subject is to expose students to understand the basic Differential calculus, Integral calculus of several variables and their applications in science... | Course Objective: Ordinary Differential Equations: Second and higher order differential equations: linear equations with constant coefficients, linear independence and dependence, method of variation of parameters, Cauchy's equation. — Detailed Description of the Course.Topics CO(s) Addressed: Ordinary Differential Equations: Second and higher order differential equations: linear equations with constant coefficients, linear independence and dependence, method of variation of parameters, Cauchy's equation.; Duration in weeks: CO4 3
+4. Text books
+E. Kreyszig, Advanced Engineering Mathematics, John Wiley Publications, 10th Edition, 2011.
+ii) R.K. Jain and S.R.K. Iyengar, Advanced Engineering Mathematics, Narosa Publishers, 2005.
+iii) James Stewart, Calculus: Early Transcendentals, 5th Edition, Thomson ™ Brooks/Cole, 2007.
+iv) G.B. Thomas and R.L. Finney, Calculus and Analytic Geometry, 9th Edition, Addison Wesley Longman, Inc.
+5. Reference Book(s) and Other Required Material
+Ghorpade, S. R., and Limaye, B. V., A Course in Multivariable Calculus and Analysis, Springer, 2010.
+ii) Greenberg, M. D., Advanced Engineering Mathematics, 2nd ed., Pearson Education, 2002.
+iii) Piskunov, N., Differential and Integral Calculus (Vol. 1 & Vol. 2), Mir Publishers/CBS Publishers and Distributors (India).
+6. Evaluation Details:
+Evaluation Weightage (%)
+Mid Semester Exam: 20-30 %
+Teacher Defined Assessment: 20 %
+End Semester Exam: 50-60 %
+7. Relationship of Course Outcomes to Program Outcomes:
+Mapping with POs (Departmental Reference)
+iii) Piskunov, N., Differential and Integral Calculus (Vol. 1 & Vol. 2), Mir Publishers/CBS Publishers and Distributors (India). | Mapping with POs (Departmental Reference): CO1 — PO1: 3; PO2: 2; PO3: 1
+iii) Piskunov, N., Differential and Integral Calculus (Vol. 1 & Vol. 2), Mir Publishers/CBS Publishers and Distributors (India). | Mapping with POs (Departmental Reference): CO2 — PO1: 3; PO2: 2; PO3: 1
+iii) Piskunov, N., Differential and Integral Calculus (Vol. 1 & Vol. 2), Mir Publishers/CBS Publishers and Distributors (India). | Mapping with POs (Departmental Reference): CO3 — PO1: 3; PO2: 2; PO3: 1
+iii) Piskunov, N., Differential and Integral Calculus (Vol. 1 & Vol. 2), Mir Publishers/CBS Publishers and Distributors (India). | Mapping with POs (Departmental Reference): CO4 — PO1: 3; PO2: 2; PO3: 1
+High - 3; Medium - 2; Low - 1;
+8. List of Indicative Laboratory Experiment (if applicable): NA
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): NA: Course Code & Course Title: | HULA101 - ENGLISH AND CORPORATE COMMUNICATION | HULA101 - ENGLISH AND CORPORATE COMMUNICATION | HULA101 - ENGLISH AND CORPORATE COMMUNICATION
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): NA: Course Type: | IC | IC | IC
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): NA: Name of the programme(s): | B. Tech | B. Tech | B. Tech
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): NA: L - T - P | 2-0-2 | No. of Credits | 3
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): NA: Pre-requisites: Course Code(s) & Name(s) | Nil | Nil | Nil
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): NA: Course Equivalence: Course Code(s) & Name(s) | HUL101 | HUL101 | HUL101
+1. Course Objective:
+To impart the students with the skills they need in their academics and later in their professional pursuit
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: CO1 with basic of communication — Course Outcomes:: Acquaint learners
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: CO2 with nuances of corporate communication — Course Outcomes:: Familiarize learners
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: CO3 Emphasize the importance of verbal and non-verbal communication
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: Discuss key features of corporate communication — Course Outcomes:: CO4
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: CO5 — Course Outcomes:: Prepare learners for workplace challenges
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: Introduction to Communication • Principles of Communication • Channels of Communication • Inclusive Communication Practices • Speaking and Listening Skills for Communication — Detailed Description of the Course.CO(s) Addressed: CO1; Duration in weeks: 2
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: Introduction to Corporate Communication • Different Forms of Corporate Communication • Factors Influencing Corporate Communication • Interpersonal Communication • Communication for Effective Leadership — Detailed Description of the Course.CO(s) Addressed: CO2; Duration in weeks: 2
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: Verbal and Non-verbal Communication • Reading and Writing Skills for Corporate Communication — Detailed Description of the Course.CO(s) Addressed: CO3; Duration in weeks: 4
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: • Nonverbal Communication in Corporate Setting • Interview and Group Discussion • Presentation Skills
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: Features of Corporate Communication • Levels of Corporate Communication • Barriers to Communication • Organizational Communication • Dos and don'ts of corporate communication | CO4 | 2
+To impart the students with the skills they need in their academics and later in their professional pursuit | 1. Course Objective: Strategies of Communication • Negotiating Conflict and Management • Crisis Communication • Emotional Intelligence and Stress Management • Ethics in Corporate Communication | CO5 | 2
+4. Text books
+Joep Cornelissen, Corporate Communication: A Guide to Theory and Practice , 6 th Edition, SAGE Publications, 2020, ISBN 1526491982.
+ii) Meenakshi Raman and Prakash Singh, Business Communication , 2 nd Edition, Oxford University Press, 2012, ISBN 9780198077053.
+iii) Shirley Taylor and V. Chandra, Communication for Business: A Practical Approach , 1 st Edition, Pearson, 2010, ISBN 9788131727652.
+5. Reference Book(s) and Other Required Material
+Ashraf Rizvi, Effective Technical Communication , 2 nd Edition, McGraw Hill Education, 2017, ISBN 9352605780.
+ii) Courtland L. Bovee, John V. Thill, et al., Business Communication Today , 14 th Edition, Pearson, 2018, ISBN 9789353062682.
+iii) Mary Ellen Guffey and Dana Loewy, Business Communication: Process and Product , 10 th Edition, South-Western College Publishing, 2021, ISBN 0357129237.
+iv) Paul A. Argenti, Corporate Communication , 7 th Edition, McGraw-Hill Education, 2016, ISBN 9814636193.
+Sharon Gerson and Steven Gerson, Technical Communication: Process and Product , 8 th Edition, Pearson Education India, 2014, ISBN 9332518599.
+6. Evaluation Details:
+Mid Semester Examination - 20 Marks
+Teacher Defined Assessment - 20 Marks
+End Semester Examination - 60 Marks
+7. Relationship of Course Outcomes to Program Outcomes:
+Mapping with POs (Departmental Reference)
+Sharon Gerson and Steven Gerson, Technical Communication: Process and Product , 8 th Edition, Pearson Education India, 2014, ISBN 9332518599. | Mapping with POs (Departmental Reference): CO1 — PO10: 3
+Sharon Gerson and Steven Gerson, Technical Communication: Process and Product , 8 th Edition, Pearson Education India, 2014, ISBN 9332518599. | Mapping with POs (Departmental Reference): CO2 — PO9: 3
+Sharon Gerson and Steven Gerson, Technical Communication: Process and Product , 8 th Edition, Pearson Education India, 2014, ISBN 9332518599. | Mapping with POs (Departmental Reference): CO3 — PO7: 3; PO10: 3; PO11: 3
+Sharon Gerson and Steven Gerson, Technical Communication: Process and Product , 8 th Edition, Pearson Education India, 2014, ISBN 9332518599. | Mapping with POs (Departmental Reference): CO4 — PO8: 3
+Sharon Gerson and Steven Gerson, Technical Communication: Process and Product , 8 th Edition, Pearson Education India, 2014, ISBN 9332518599. | Mapping with POs (Departmental Reference): CO5
+High - 3; Medium - 2; Low - 1;
+8. List of Indicative Laboratory Experiment (if applicable):
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): Week 1. | Ice Breaker | Week 7. | Peer Interview
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): Week 2. | Oral Presentation | Week 8. | PPT Presentation
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): Week 3. | Listening Activity | Week 9. | Debate
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): Week 4. | Role Play | Week 10. | Corporate Meeting
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): Week 5. | Group Discussion | Week 11. | Case Study
+High - 3; Medium - 2; Low - 1 | 8. List of Indicative Laboratory Experiment (if applicable): Week 6. | Writing Activities | Week 12. | Interviewing Strangers

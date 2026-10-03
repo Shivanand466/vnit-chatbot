@@ -1,0 +1,32 @@
+SOURCE_URL: https://drive.google.com/file/d/1Pfb-RQwtKEbWosm3Xa_xPRTCYl2okRk6/view
+TITLE: Notice of Institute Elective Courses Winter 2026
+FETCHED: 2026-05-12
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Notice of Institute Elective Courses Winter 2026 (dated 2026-05-12)
+Note
+Sub: Registration for IE (Institute Elective) courses for the Session Winter 2026
+All the students who are interested to register for lE (Institute Elective) courses are instructed to note the following for the Session Winter 2026,
+Important note:
+All students opting Minor Degree Program are instructed to opt "IE (Institute Elective)" Course of Slot "A" only, as all Minor courses are going to be offered compulsorily in Slot "B".
+List of various "Institute Elective"" courses offered for Winter 2026 is enclosed with this notice.
+For every "Institute Elective", course maximum number of students to be allowed is mentioned against individual course.
+Students have to apply through Google Form for "Institute Elective" during the registration schedule given below. Process of applying for "Institute Elective" through Google Form is Mandatory.
+Registration of "Institute Elective" courses is not linked with the payment of fee.
+A student can register for maximum ONE "Institute Elective" course (as per scheme), in a semester.
+Registration done for "Institute Elective" type course shall not be changed or cancelled in any circumstances (due to limited number of seats).
+If it is found that, a student has applied in 2 or more "Institute Elective" courses, his / her name will be deleted from all the "Institute Elective" courses (he / she has applied for W26). Requests for consideration in such cases will not be entertained.
+No offline requests for these "Institute Elective" courses will be taken into consideration.
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Exam/Regn W-26/1392 May 08, 2026
+Important Timeline:
+Start of Google Form (for selecting "Institute Elective") – 12-05-2026
+Close of Google Form - 20-05-2026
+Display of Result for "Institute Elective" Allotment (tentative) - 26-05-2026
+To, All HoD's for Display on Notice Board Students Notice Board, Inst. Website
+List of Institute Elective (IE) offered for Odd-Session 2026-27 (Winter- 2026)
+To, All for Display on Notice Board Students Notice Board, Inst. | List of Institute Elective (IE) offered for Odd-Session 2026-27 (Winter- 2026): Course Code.Department of Mathematics: MALA203 — Course Title.Department of Mathematics: Linear Algebra for Engineers; Credits.Department of Mathematics: 3; Slot.Department of Mathematics: A; Course Co-Ordinator.Department of Mathematics: Dr. G Naga Raju / Dr. Pallavi Mahale; Max. Stud ents.Department of Mathematics: 60; Offered to.Department of Mathematics: CME, CIV, CSE, EEE, ECE, MIN; Sem..Department of Mathematics: 3
+To, All for Display on Notice Board Students Notice Board, Inst. | List of Institute Elective (IE) offered for Odd-Session 2026-27 (Winter- 2026): Course Code.Department of Mathematics: MALA204 — Course Title.Department of Mathematics: Optimization Techniques for Machine Learning; Credits.Department of Mathematics: 3; Slot.Department of Mathematics: A; Course Co-Ordinator.Department of Mathematics: Dr. V. P. Singh; Max. Stud ents.Department of Mathematics: 60; Offered to.Department of Mathematics: CME, CIV, CSE, EEE, ECE, MIN; Sem..Department of Mathematics: 3
+To, All for Display on Notice Board Students Notice Board, Inst. | List of Institute Elective (IE) offered for Odd-Session 2026-27 (Winter- 2026): Course Code.Department of Mathematics: Department of Computer Science — Course Title.Department of Mathematics: Department of Computer Science; Credits.Department of Mathematics: Department of Computer Science; Slot.Department of Mathematics: Department of Computer Science; Course Co-Ordinator.Department of Mathematics: Department of Computer Science; Max. Stud ents.Department of Mathematics: Department of Computer Science; Offered to.Department of Mathematics: Department of Computer Science; Sem..Department of Mathematics: Department of Computer Science
+To, All for Display on Notice Board Students Notice Board, Inst. | List of Institute Elective (IE) offered for Odd-Session 2026-27 (Winter- 2026): Course Code.Department of Mathematics: CSLA204 — Course Title.Department of Mathematics: Fundamentals of Machine Learning; Credits.Department of Mathematics: 4; Slot.Department of Mathematics: A; Course Co-Ordinator.Department of Mathematics: Dr. M.P.Kurhekar; Max. Stud ents.Department of Mathematics: 360; Offered to.Department of Mathematics: CME, CIV, ECE, MIN; Sem..Department of Mathematics: 3
+ All students opting Minor Degree Program are instructed to opt 'Institute Elective' Course of Slot "A" only, as all Minor courses are going to be offered compulsorily in Slot "B".

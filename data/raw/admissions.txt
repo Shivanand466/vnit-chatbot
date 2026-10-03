@@ -1,32 +1,31 @@
 SOURCE_URL: https://vnit.ac.in/section/academics/admission
 TITLE: Admission – VNIT Academic and Exam Section
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Admission
-Ph.D. Admission July-2026 (Cycle-II)
-Ph.D. Admission July-2026 (Cycle-II)
-Guidelines, Rules & Regulations PhD (Full Time and Part Time)
-Information Brochure  Ph.D (FT & PT)_Admission July 2026 (Cycle-2)
-Important Dates to remember PhD Admission Cycle 2 (July 2026)
-PhD Coordinators
-PhD Supervisor allocation Guidelines
-Preference form to be filled by candidates
-Google Form Link :
-https://forms.gle/ePetTqYJjBArA3Ac9
-Provisional List of Candidates Eligible for Ph.D Written Test (Cycle 2) July-2026
-Clarification Regarding Written Test for Part time Ph.D. (Category 2B) candidates
-Provisional List of Candidates Selected for Ph.D. Admission Cycle-2 (July-2026)
-Provisional List of Candidates Selected (MME Dept.) for PhD Admission Cycle-2 (July 2026)
-INSTITUTE REPORTING INSTRUCTIONS
-AIMS Login and Course Registration Instructions (Winter 2026)
-Standard Operating Procedure (SOP) for PhD Winter 26 Newly Admitted
-Frequently Asked Questions
-Instruction for Online Institute reporting
-Payment Instruction
-Undertaking-annexure-II
-Antiragging Annexure-III
-Instruction for image -photo upload
-Contact Person
+Admissions Visvesvaraya PhD Scheme for Electronics and IT: Phase II
+Admissions Visvesvaraya PhD Scheme for Electronics and IT: Phase II
+Important Dates
+Application form
+Ph.D (Full Time and Part Time)  Admissions under “Visvesvaraya PhD Scheme for Electronics and IT: Phase II” Sponsored by MeitY
+Post Doctoral Fellowship (PDF) Admissions under “Visvesvaraya PhD Scheme for Electronics and IT: Phase II Sponsored by MeitY
+PhD Admission January 2027
+PhD Admission January 2027
+Information Brochure Ph.D. Admission (Full-Time/ Part-Time) January 2027
+Guidelines, Rules and Regulations Governing Ph.D. (Full-Time and Part-Time) Programs
+Important Dates
+Guidelines for PhD Supervisor Allocation
+Departmental PhD Coordinators
+Google form Link:- https://docs.google.
+com/forms/d/15kJ5GCtp- 3PHSm9NbTz7wMdK6Bm_ vF1crlXXRDWT1dk/edit
+M.Tech (Research) Admission January 2027
+M.Tech (Research) Admission January 2027
+Advertisement: M.Tech. (Research) Programme
+Information Brochure, Rules and Regulations for admission to M.Tech (Research) Program January 2027
+Important Dates
+Google Form Link:
+https://docs.google.com/forms/ d/1qVQtVIa4K_J5UBARd0k_ 1nkQgqZHpX36Z0JLt1NYdos/edit?
+pli=1
 Instructions for Physical Institute Reporting UG/PG 2026-27
 Instructions for Physical Institute Reporting UG/PG 2026-27
 VENUE FOR INSTITUTE REPORTING IS “
@@ -75,24 +74,20 @@ B.Tech / B.Arch Admission 2026 – 2027
 Institute Reporting for student admitting through JoSAA/ CSAB 2026 will be from 13th August to 18th August 2026. The dates are subject to change as per the schedule of JoSAA/ CSAB 2026.
 15th August will be a closed Holiday.
 Admissions Notice AY 2026-27 : CSAB Special Rounds & DASA (UG)
-Click here for CSAB Round Details
-http://csab.nic.in/
+Click here for CSAB Round Details http://csab.nic.in/
 For updates or information, please check your email – including the Inbox, Spam and Junk folders.
-For all UG admission at VNIT nagpur, Kindly visit JOSAA website
-https://josaa.nic.in/
+For all UG admission at VNIT nagpur, Kindly visit JOSAA website https://josaa.nic.in/
 M.Tech Admission 2026-27 (CCMT)
 M.Tech Admission 2025 (CCMT)
 “Institute Reporting for student admitting through CCMT/ CCMN 2026 will be from 6th August to 11th August 2026. The dates are subject to change as per the schedule of CCMT/ CCMN 2026.
-For all M Tech admission at VNIT Nagpur, kindly visit the CCMT website
-https://ccmt.
+For all M Tech admission at VNIT Nagpur, kindly visit the CCMT website https://ccmt.
 admissions.nic.in/
 M.Tech/MSc 1st year Hostel admission – Reg
 Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27
 M.Sc. Admission 2026-27 (CCMN)
 M.Sc Admission 2025 (CCMN)
 “Institute Reporting for student admitting through CCMT/ CCMN 2026 will be from 6th August to 11th August 2026. The dates are subject to change as per the schedule of CCMT/ CCMN 2026.
-For all M.Sc Admission at VNIT Nagpur, Kindly Visit the CCMN Website
-https://ccmn.
+For all M.Sc Admission at VNIT Nagpur, Kindly Visit the CCMN Website https://ccmn.
 admissions.nic.in/
 M.Tech/MSc 1st year Hostel admission – Reg
 Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27
@@ -116,8 +111,7 @@ Fees Structure for International Students under “Study in India” and “ICCR
 Hostel fees
 Visit the websites :
 http://a2ascholarships.iccr.gov.in
-&
-https://iccr.gov.in
+& https://iccr.gov.in
 Criteria for Admission in ICCR
 Seat Matrix
 Cancellation & Refund Policy (SII/DASA/ICCR)
@@ -132,18 +126,7 @@ Contact for Hostel Accommodation and Hostel Fees:
 Assistant Registrar (Hostel Affairs),
 Phone No.: 91-712-2801373, 1233, 1119
 Email:
-hostelmanager@vnit.ac.in
-associatedeanha@vnit.ac.in
-M.Tech (Research) July 2026
-M.Tech (Research) July 2026
-Advertisement
-Important Dates – M.Tech (Research) July 2026
-M.Tech (Research) Information Brochure July 2026
-Google Form Link :
-https://forms.gle/DKmajYQhsVxzjU7c9
-List of Eligible & Not Eligible Candidates of M.Tech (Research) Program July 2026
-M.Tech (Research) Program July 2026 : List of Eligible & Not Eligible Candidates of CSE Dept for Research Proposal Presentation, Personal Interview & Written Entrance Test
-Provisional List of Candidates Selected for M.Tech (Research) Programme (July-2026)
+hostelmanager@vnit.ac.in associatedeanha@vnit.ac.in
 M.Tech Institute Spot Round (ISR)  - II Admission 2026-27 for GATE & Non-GATE Candidates
 Eligibility Criteria for ISR-2026 / Mapping of [Institute, Department & Programme] Vs [GATE Paper & Qualifying Degree]
 M.Tech Institute Spot Round (ISR) – II Admission Brochure
@@ -181,27 +164,6 @@ Current Recruiters
 :
 List of Candidates shortlisted for Round II Admission For MBA-ACM 2026
 Provisional List of Selected Candidates for Round II Admission in MBA-ACM 2026
-PhD Admission (April-May 2026)-Cycle 1
-PhD Admission (April-May 2026)-Cycle 1
-Provisional List of Candidates Selected for PhD Admission Cycle-1 (April-May 2026)
-Guidelines, Rules & Regulations PhD (Full Time and Part Time)
-Information Brochure Ph.D (FT & PT)_Admission April-May 2026 (Cycle – 1)
-List of PhD coordinator
-PhD Supervisor allocation Guidelines
-Preference form to be filled by candidates
-The Google Form link :
-to be updated soon…
-List of Candidates Eligible for Ph.D Written Test (Cycle 1)
-Schedule for Written Test & Interview of PhD Admission Cycle-1 (April-May 2026)
-Provisional List of Candidates Selected for PhD Admission Cycle-1 (April-May 2026)
-Institute Reporting Instructions :
-Frequently Asked Questions
-Instructions for Online Institute reporting
-Payment Instruction
-Undertaking-annexure-II
-Antiragging Annexure-III
-Instruction for image -photo upload
-Contact Person
 VNIT Nagpur Post-Doctoral-Fellowship (PDF) admission notification (2025-2026
 VNIT Nagpur Post-Doctoral-Fellowship (PDF) admission notification (2025-2026)
 Reporting Instructions
@@ -220,8 +182,7 @@ ANNEXURE-PDF
 QIP Admission 2026-2027 (M.Tech and Ph.D)  QIP Center VNIT Nagpur
 QIP Admission 2026-2027 (M.Tech and Ph.D)
 QIP Center VNIT Nagpur
-For detail information about the QIP Admission 2026-2027 (M.Tech and Ph.D) Kindly Visit
-https://qip.aicte.gov.in
+For detail information about the QIP Admission 2026-2027 (M.Tech and Ph.D) Kindly Visit https://qip.aicte.gov.in
 Online M.Tech / PGD / Certificate
 Online M.Tech / PGD / Certificate
 Institute Online Reporting
@@ -232,82 +193,62 @@ Online M.Tech, P.G, Diploma, And Certificate Courses Admission 2025
 VNIT is currently accepting applications for the following online courses.
 1.M.Tech in Applied AI And Communications (2-Year Course)
 (Application Process Started) ( Click here for
-Details
-and
+Details and
 Annexure 1
-)
-2.M.Tech in Applied AI (2-Year Course)
+) 2.M.Tech in Applied AI (2-Year Course)
 (Application Process Started) ( Click here for
-Details
-and
+Details and
 Annexure 1
-)
-3.M.Tech in Computational Fluid-Thermal Sciences (CFTS) (2-Year Course)
+) 3.M.Tech in Computational Fluid-Thermal Sciences (CFTS) (2-Year Course)
 (Application Process Started) (Click here for
 Brochure
 ,
-Curriculum & Syllabus
-and
+Curriculum & Syllabus and
 Application Form Link
 :
 https://forms.gle/hBYvwTUgCRQ3kz278
-)
-4. M.Tech in Additive Manufacturing (2-Year Course)
+) 4. M.Tech in Additive Manufacturing (2-Year Course)
 (Application Process Started ) (Click here for
-Brochure
-and
+Brochure and
 Course contents
-)
-5. M. Tech. in Electric Vehicle Technology (2-Year Course)
+) 5. M. Tech. in Electric Vehicle Technology (2-Year Course)
 (Application Process Started) ( Click here for
 Details
-)
-6. Post Graduate Diploma in Computational Fluid-Thermal Sciences (CFTS) (1-Year Course)
-(Application Process Started)
-7. Post Graduate Diploma in Additive Manufacturing (1-Year Course)
+) 6. Post Graduate Diploma in Computational Fluid-Thermal Sciences (CFTS) (1-Year Course)
+(Application Process Started) 7. Post Graduate Diploma in Additive Manufacturing (1-Year Course)
 (Application Process Started ) (Click here for
-Brochure
-and
+Brochure and
 Course contents
-)
-8. Post Graduate Diploma in Electric Vehicle Technology (1-Year course)
+) 8. Post Graduate Diploma in Electric Vehicle Technology (1-Year course)
 (
 Application Process Started as exit option of  “M.Tech. in Electric Vehicle Technology”
 ) ( Click here for
 Details
-)
-9. Certificate course on Research in Biomedical Engineering (3 Months)
+) 9. Certificate course on Research in Biomedical Engineering (3 Months)
 (
 Application Process Started)
 (Click here for
 Brochure
-)
-10. Certificate course on Welding Technology  (3 Months)
+) 10. Certificate course on Welding Technology  (3 Months)
 (Application Process     Started ) (Click here for
 Brochure
-)
-11. Certificate course on Intersection Planning and Design  (3 Months)
+) 11. Certificate course on Intersection Planning and Design  (3 Months)
 (Application Process Started )
 (Click here for
-Brochure
-and
+Brochure and
 Curriculum & Syllabus
-)
-12. Online Certificate course on Ultrasonic Testing (3 Months)
+) 12. Online Certificate course on Ultrasonic Testing (3 Months)
 (Application Process   Started )
 (Click here for
 Brochure
-)
-13.Certificate Course on “Digital VLSI Design using HDL” from the upcoming   Summer-2024 Session. (6 Months)
+) 13.Certificate Course on “Digital VLSI Design using HDL” from the upcoming   Summer-2024 Session. (6 Months)
 (Application Process Started. For    application submission, Click on the Links in the Brochure) (Click here for
 Brochure
-)
-14. Online Certificate Course on Internet of Things: Fundamentals to Implementation (3 Months)
+) 14. Online Certificate Course on Internet of Things: Fundamentals to Implementation (3 Months)
 (Application Process Started )
 (
 Click here for Brochure
-)
-15. Online Post Graduate Diploma in Forensic Structural Engineering
+) 15. Online Post Graduate Diploma in Forensic Structural Engineering
 (Click here for
 Brochure
 )
@@ -339,8 +280,7 @@ Contact for any queries: Dr. Ajinkya A Baxy . Email Id :
 abaxy@mec.vnit.ac.in
 .
 Certificate course on Intersection Planning and Design  (3 Months)
-For any query, Contact – Dr. Arpita Saha. Email id-
-arpitasaha@civ.vnit.ac.in
+For any query, Contact – Dr. Arpita Saha. Email id- arpitasaha@civ.vnit.ac.in
 , Contact No. : 9690806002
 Post Graduate Diploma in Additive Manufacturing (1-Year Course)
 For any query, Contact – Dr. T. V. K. Gupta, Email ID :
@@ -350,53 +290,40 @@ Online Certificate Course on Internet of Things: Fundamentals to Implementation 
 (Click here for Brochure)
 Contact for any queries: Dr. Ramsha Karampuri, E-Mail ID :  rk@eee.vnit.ac.in  Contact No: +91-8143952895
 Dr. Deepti Shrimankar, E-Mail ID : dshrimankar@cse.vnit.ac.in,    Contact No:+91-9860606477
-Post Doc
-Post Doctoral Fellow (ONE) August 2025 Under Visvesvaraya Ph.D. Scheme of Ministry of Electronics and Information Technology (MEITY) at VNIT, Nagpur
-Click here for the Advertisement
-.
-Click for (
-pdf
-/
-word
-) format of the Application Form.
-Ph.D. Admission July-2026 (Cycle-II)
+Admissions Visvesvaraya PhD Scheme for Electronics and IT: Phase II
+PhD Admission January 2027
+M.Tech (Research) Admission January 2027
 Instructions for Physical Institute Reporting UG/PG 2026-27
 B.Tech / B.Arch 2026-2027 (JoSAA / CSAB)
 M.Tech Admission 2026-27 (CCMT)
 M.Sc. Admission 2026-27 (CCMN)
 DASA / SII / ICCR Admissions 2026-27
-M.Tech (Research) July 2026
 M.Tech Institute Spot Round (ISR)  - II Admission 2026-27 for GATE & Non-GATE Candidates
 M. Tech. Sponsored Admissions Academic Session 2026-27
 MBA in Advance Construction Management
-PhD Admission (April-May 2026)-Cycle 1
 VNIT Nagpur Post-Doctoral-Fellowship (PDF) Admission Notification (2025-2026).
 QIP Admission 2026-2027 (M.Tech and Ph.D)  QIP Center VNIT Nagpur
 Online M.Tech / PGD / Certificate
-Post Doc
-Ph.D. Admission July-2026 (Cycle-II)
-Guidelines, Rules & Regulations PhD (Full Time and Part Time)
-Information Brochure  Ph.D (FT & PT)_Admission July 2026 (Cycle-2)
-Important Dates to remember PhD Admission Cycle 2 (July 2026)
-PhD Coordinators
-PhD Supervisor allocation Guidelines
-Preference form to be filled by candidates
-Google Form Link :
-https://forms.gle/ePetTqYJjBArA3Ac9
-Provisional List of Candidates Eligible for Ph.D Written Test (Cycle 2) July-2026
-Clarification Regarding Written Test for Part time Ph.D. (Category 2B) candidates
-Provisional List of Candidates Selected for Ph.D. Admission Cycle-2 (July-2026)
-Provisional List of Candidates Selected (MME Dept.) for PhD Admission Cycle-2 (July 2026)
-INSTITUTE REPORTING INSTRUCTIONS
-AIMS Login and Course Registration Instructions (Winter 2026)
-Standard Operating Procedure (SOP) for PhD Winter 26 Newly Admitted
-Frequently Asked Questions
-Instruction for Online Institute reporting
-Payment Instruction
-Undertaking-annexure-II
-Antiragging Annexure-III
-Instruction for image -photo upload
-Contact Person
+Admissions Visvesvaraya PhD Scheme for Electronics and IT: Phase II
+Important Dates
+Application form
+Ph.D (Full Time and Part Time)  Admissions under “Visvesvaraya PhD Scheme for Electronics and IT: Phase II” Sponsored by MeitY
+Post Doctoral Fellowship (PDF) Admissions under “Visvesvaraya PhD Scheme for Electronics and IT: Phase II Sponsored by MeitY
+PhD Admission January 2027
+Information Brochure Ph.D. Admission (Full-Time/ Part-Time) January 2027
+Guidelines, Rules and Regulations Governing Ph.D. (Full-Time and Part-Time) Programs
+Important Dates
+Guidelines for PhD Supervisor Allocation
+Departmental PhD Coordinators
+Google form Link:- https://docs.google.
+com/forms/d/15kJ5GCtp- 3PHSm9NbTz7wMdK6Bm_ vF1crlXXRDWT1dk/edit
+M.Tech (Research) Admission January 2027
+Advertisement: M.Tech. (Research) Programme
+Information Brochure, Rules and Regulations for admission to M.Tech (Research) Program January 2027
+Important Dates
+Google Form Link:
+https://docs.google.com/forms/ d/1qVQtVIa4K_J5UBARd0k_ 1nkQgqZHpX36Z0JLt1NYdos/edit?
+pli=1
 Instructions for Physical Institute Reporting UG/PG 2026-27
 VENUE FOR INSTITUTE REPORTING IS “
 AUDITORIUM”.
@@ -443,22 +370,18 @@ B.Tech / B.Arch Admission 2026 – 2027
 Institute Reporting for student admitting through JoSAA/ CSAB 2026 will be from 13th August to 18th August 2026. The dates are subject to change as per the schedule of JoSAA/ CSAB 2026.
 15th August will be a closed Holiday.
 Admissions Notice AY 2026-27 : CSAB Special Rounds & DASA (UG)
-Click here for CSAB Round Details
-http://csab.nic.in/
+Click here for CSAB Round Details http://csab.nic.in/
 For updates or information, please check your email – including the Inbox, Spam and Junk folders.
-For all UG admission at VNIT nagpur, Kindly visit JOSAA website
-https://josaa.nic.in/
+For all UG admission at VNIT nagpur, Kindly visit JOSAA website https://josaa.nic.in/
 M.Tech Admission 2025 (CCMT)
 “Institute Reporting for student admitting through CCMT/ CCMN 2026 will be from 6th August to 11th August 2026. The dates are subject to change as per the schedule of CCMT/ CCMN 2026.
-For all M Tech admission at VNIT Nagpur, kindly visit the CCMT website
-https://ccmt.
+For all M Tech admission at VNIT Nagpur, kindly visit the CCMT website https://ccmt.
 admissions.nic.in/
 M.Tech/MSc 1st year Hostel admission – Reg
 Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27
 M.Sc Admission 2025 (CCMN)
 “Institute Reporting for student admitting through CCMT/ CCMN 2026 will be from 6th August to 11th August 2026. The dates are subject to change as per the schedule of CCMT/ CCMN 2026.
-For all M.Sc Admission at VNIT Nagpur, Kindly Visit the CCMN Website
-https://ccmn.
+For all M.Sc Admission at VNIT Nagpur, Kindly Visit the CCMN Website https://ccmn.
 admissions.nic.in/
 M.Tech/MSc 1st year Hostel admission – Reg
 Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27
@@ -481,8 +404,7 @@ Fees Structure for International Students under “Study in India” and “ICCR
 Hostel fees
 Visit the websites :
 http://a2ascholarships.iccr.gov.in
-&
-https://iccr.gov.in
+& https://iccr.gov.in
 Criteria for Admission in ICCR
 Seat Matrix
 Cancellation & Refund Policy (SII/DASA/ICCR)
@@ -497,17 +419,7 @@ Contact for Hostel Accommodation and Hostel Fees:
 Assistant Registrar (Hostel Affairs),
 Phone No.: 91-712-2801373, 1233, 1119
 Email:
-hostelmanager@vnit.ac.in
-associatedeanha@vnit.ac.in
-M.Tech (Research) July 2026
-Advertisement
-Important Dates – M.Tech (Research) July 2026
-M.Tech (Research) Information Brochure July 2026
-Google Form Link :
-https://forms.gle/DKmajYQhsVxzjU7c9
-List of Eligible & Not Eligible Candidates of M.Tech (Research) Program July 2026
-M.Tech (Research) Program July 2026 : List of Eligible & Not Eligible Candidates of CSE Dept for Research Proposal Presentation, Personal Interview & Written Entrance Test
-Provisional List of Candidates Selected for M.Tech (Research) Programme (July-2026)
+hostelmanager@vnit.ac.in associatedeanha@vnit.ac.in
 Eligibility Criteria for ISR-2026 / Mapping of [Institute, Department & Programme] Vs [GATE Paper & Qualifying Degree]
 M.Tech Institute Spot Round (ISR) – II Admission Brochure
 Provisional Vacant Seats for M.Tech Admissions Institute Spot Round-II
@@ -542,26 +454,6 @@ Current Recruiters
 :
 List of Candidates shortlisted for Round II Admission For MBA-ACM 2026
 Provisional List of Selected Candidates for Round II Admission in MBA-ACM 2026
-PhD Admission (April-May 2026)-Cycle 1
-Provisional List of Candidates Selected for PhD Admission Cycle-1 (April-May 2026)
-Guidelines, Rules & Regulations PhD (Full Time and Part Time)
-Information Brochure Ph.D (FT & PT)_Admission April-May 2026 (Cycle – 1)
-List of PhD coordinator
-PhD Supervisor allocation Guidelines
-Preference form to be filled by candidates
-The Google Form link :
-to be updated soon…
-List of Candidates Eligible for Ph.D Written Test (Cycle 1)
-Schedule for Written Test & Interview of PhD Admission Cycle-1 (April-May 2026)
-Provisional List of Candidates Selected for PhD Admission Cycle-1 (April-May 2026)
-Institute Reporting Instructions :
-Frequently Asked Questions
-Instructions for Online Institute reporting
-Payment Instruction
-Undertaking-annexure-II
-Antiragging Annexure-III
-Instruction for image -photo upload
-Contact Person
 VNIT Nagpur Post-Doctoral-Fellowship (PDF) admission notification (2025-2026)
 Reporting Instructions
 Frequently Asked Questions
@@ -578,8 +470,7 @@ Important Dates
 ANNEXURE-PDF
 QIP Admission 2026-2027 (M.Tech and Ph.D)
 QIP Center VNIT Nagpur
-For detail information about the QIP Admission 2026-2027 (M.Tech and Ph.D) Kindly Visit
-https://qip.aicte.gov.in
+For detail information about the QIP Admission 2026-2027 (M.Tech and Ph.D) Kindly Visit https://qip.aicte.gov.in
 Online M.Tech / PGD / Certificate
 Institute Online Reporting
 FAQs for Admission portal
@@ -589,82 +480,62 @@ Online M.Tech, P.G, Diploma, And Certificate Courses Admission 2025
 VNIT is currently accepting applications for the following online courses.
 1.M.Tech in Applied AI And Communications (2-Year Course)
 (Application Process Started) ( Click here for
-Details
-and
+Details and
 Annexure 1
-)
-2.M.Tech in Applied AI (2-Year Course)
+) 2.M.Tech in Applied AI (2-Year Course)
 (Application Process Started) ( Click here for
-Details
-and
+Details and
 Annexure 1
-)
-3.M.Tech in Computational Fluid-Thermal Sciences (CFTS) (2-Year Course)
+) 3.M.Tech in Computational Fluid-Thermal Sciences (CFTS) (2-Year Course)
 (Application Process Started) (Click here for
 Brochure
 ,
-Curriculum & Syllabus
-and
+Curriculum & Syllabus and
 Application Form Link
 :
 https://forms.gle/hBYvwTUgCRQ3kz278
-)
-4. M.Tech in Additive Manufacturing (2-Year Course)
+) 4. M.Tech in Additive Manufacturing (2-Year Course)
 (Application Process Started ) (Click here for
-Brochure
-and
+Brochure and
 Course contents
-)
-5. M. Tech. in Electric Vehicle Technology (2-Year Course)
+) 5. M. Tech. in Electric Vehicle Technology (2-Year Course)
 (Application Process Started) ( Click here for
 Details
-)
-6. Post Graduate Diploma in Computational Fluid-Thermal Sciences (CFTS) (1-Year Course)
-(Application Process Started)
-7. Post Graduate Diploma in Additive Manufacturing (1-Year Course)
+) 6. Post Graduate Diploma in Computational Fluid-Thermal Sciences (CFTS) (1-Year Course)
+(Application Process Started) 7. Post Graduate Diploma in Additive Manufacturing (1-Year Course)
 (Application Process Started ) (Click here for
-Brochure
-and
+Brochure and
 Course contents
-)
-8. Post Graduate Diploma in Electric Vehicle Technology (1-Year course)
+) 8. Post Graduate Diploma in Electric Vehicle Technology (1-Year course)
 (
 Application Process Started as exit option of  “M.Tech. in Electric Vehicle Technology”
 ) ( Click here for
 Details
-)
-9. Certificate course on Research in Biomedical Engineering (3 Months)
+) 9. Certificate course on Research in Biomedical Engineering (3 Months)
 (
 Application Process Started)
 (Click here for
 Brochure
-)
-10. Certificate course on Welding Technology  (3 Months)
+) 10. Certificate course on Welding Technology  (3 Months)
 (Application Process     Started ) (Click here for
 Brochure
-)
-11. Certificate course on Intersection Planning and Design  (3 Months)
+) 11. Certificate course on Intersection Planning and Design  (3 Months)
 (Application Process Started )
 (Click here for
-Brochure
-and
+Brochure and
 Curriculum & Syllabus
-)
-12. Online Certificate course on Ultrasonic Testing (3 Months)
+) 12. Online Certificate course on Ultrasonic Testing (3 Months)
 (Application Process   Started )
 (Click here for
 Brochure
-)
-13.Certificate Course on “Digital VLSI Design using HDL” from the upcoming   Summer-2024 Session. (6 Months)
+) 13.Certificate Course on “Digital VLSI Design using HDL” from the upcoming   Summer-2024 Session. (6 Months)
 (Application Process Started. For    application submission, Click on the Links in the Brochure) (Click here for
 Brochure
-)
-14. Online Certificate Course on Internet of Things: Fundamentals to Implementation (3 Months)
+) 14. Online Certificate Course on Internet of Things: Fundamentals to Implementation (3 Months)
 (Application Process Started )
 (
 Click here for Brochure
-)
-15. Online Post Graduate Diploma in Forensic Structural Engineering
+) 15. Online Post Graduate Diploma in Forensic Structural Engineering
 (Click here for
 Brochure
 )
@@ -696,8 +567,7 @@ Contact for any queries: Dr. Ajinkya A Baxy . Email Id :
 abaxy@mec.vnit.ac.in
 .
 Certificate course on Intersection Planning and Design  (3 Months)
-For any query, Contact – Dr. Arpita Saha. Email id-
-arpitasaha@civ.vnit.ac.in
+For any query, Contact – Dr. Arpita Saha. Email id- arpitasaha@civ.vnit.ac.in
 , Contact No. : 9690806002
 Post Graduate Diploma in Additive Manufacturing (1-Year Course)
 For any query, Contact – Dr. T. V. K. Gupta, Email ID :
@@ -707,11 +577,3 @@ Online Certificate Course on Internet of Things: Fundamentals to Implementation 
 (Click here for Brochure)
 Contact for any queries: Dr. Ramsha Karampuri, E-Mail ID :  rk@eee.vnit.ac.in  Contact No: +91-8143952895
 Dr. Deepti Shrimankar, E-Mail ID : dshrimankar@cse.vnit.ac.in,    Contact No:+91-9860606477
-Post Doctoral Fellow (ONE) August 2025 Under Visvesvaraya Ph.D. Scheme of Ministry of Electronics and Information Technology (MEITY) at VNIT, Nagpur
-Click here for the Advertisement
-.
-Click for (
-pdf
-/
-word
-) format of the Application Form.

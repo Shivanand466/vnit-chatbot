@@ -1,0 +1,188 @@
+SOURCE_URL: https://drive.google.com/file/d/1S6xf2V7NceoL5kPJcOjUZhQGvRb_pIuK/view
+TITLE: Mechanical Engineering
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Mechanical Engineering (dated 2026-05-22)
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+B. Tech. in Mechanical Engineering
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: MELA201 — Course Title / Name: MANUFACTURING PROCESS-I; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: MELA202 — Course Title / Name: ENGINEERING THERMODYNAMICS; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: MELA203 — Course Title / Name: THEORY OF MACHINE - I; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: MELA204 — Course Title / Name: COMPUTATIONAL METHODS IN MECHANICAL ENGINEERING; Type: DC; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: MELA205 — Course Title / Name: SOLID MECHANICS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: MEPA201 — Course Title / Name: MANUFACTURING PROCESS-I; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: MEPA205 — Course Title / Name: SOLID MECHANICS; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: PROGRAM ELECTIVE — Course Title / Name: PROGRAM ELECTIVE; Type: PROGRAM ELECTIVE; Credit: PROGRAM ELECTIVE; Exam Slot: PROGRAM ELECTIVE; Offered (YES / NO): PROGRAM ELECTIVE; Max No. of Students: PROGRAM ELECTIVE
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: MELA206 — Course Title / Name: COMPUTER AIDED DRAFTING AND MODELLING; Type: DE; Credit: 2; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Mechanical Engineering: Code: Total Credits — Course Title / Name: (DC+DE); Type: Total Credits; Credit: 22
+V Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL302 — Course Title / Name: HEAT TRANSFER; Type: DC; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL308 — Course Title / Name: ENERGY CONVERSION- II; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL305 — Course Title / Name: MANUFACTURING PROCESS II; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL307 — Course Title / Name: FLUID MACHINES; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEP307 — Course Title / Name: FLUID MACHINES; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEP305 — Course Title / Name: MANUFACTURING PROCESS II; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL313 — Course Title / Name: MACHINE DRAWING; Type: DC; Credit: 2; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEP313 — Course Title / Name: MACHINE DRAWING; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEP302 — Course Title / Name: THERMAL; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: Elective Courses (Any one) — Course Title / Name: Elective Courses (Any one); Type: Elective Courses (Any one); Credit: Elective Courses (Any one); Exam Slot: Elective Courses (Any one); Offered (YES / NO): Elective Courses (Any one); Max No. of Students: Elective Courses (Any one)
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL416 — Course Title / Name: INDUSTRIAL ROBOTICS; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL421 — Course Title / Name: COMPUTATIONAL METHODS IN ENGINEERING; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL401 — Course Title / Name: CONTROL SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL405 — Course Title / Name: OPTIMIZATION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: Total Credits — Course Title / Name: (DC + DE); Type: Total Credits; Credit: 22
+VII Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): Code: MED401 — Course Title / Name: PROJECT PHASE-I; Type: DC; Credit: 3; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Elective Courses
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL435 — Course Title / Name: COMPUTATIONAL FLUID DYNAMICS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEP435 — Course Title / Name: COMPUTATIONAL FLUID DYNAMICS; Type: DE; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL420 — Course Title / Name: FINITE ELEMENT METHOD; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEP420 — Course Title / Name: FINITE ELEMENT METHOD; Type: DE; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL410 — Course Title / Name: COMPUTER AIDED DESIGN; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEP410 — Course Title / Name: COMPUTER AIDED DESIGN; Type: DE; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL436 — Course Title / Name: MECHATRONICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEP436 — Course Title / Name: MECHATRONICS; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL407 — Course Title / Name: BIO MECHANICS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL414 — Course Title / Name: TRIBOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL433 — Course Title / Name: DESIGN FOR MANUFACTURING AND ASSEMBLY; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL412 — Course Title / Name: AIR CONDITIONING; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL431 — Course Title / Name: ADVANCED MECHANISM; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL437 — Course Title / Name: COMPOSITE MATERIALS; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL408 — Course Title / Name: SUPPLY CHAIN MANAGEMENT; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL425 — Course Title / Name: RELIABILITY AND MAINTENANCE ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL440 — Course Title / Name: MACHINE VISION & ITS APPLICATION; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL452 — Course Title / Name: ADVANCED MACHINING PROCESSES; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL417 — Course Title / Name: POWER PLANT ENGINEERING; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL402 — Course Title / Name: SURFACE ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL428 — Course Title / Name: MACHINE TOOL DESIGN; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL406 — Course Title / Name: DYNAMICS OF MECHANICAL SYSTEM; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL403 — Course Title / Name: OPERATION RESEARCH; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: MEL446 — Course Title / Name: PRODUCT DESIGN; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: 60
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: OC/HM — Credit: 3; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE)
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (CAD - CAM)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MAL505 — Course Title / Name: MATHEMATICAL ELEMENTS FOR ENGINEERS; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL410 — Course Title / Name: COMPUTER AIDED DESIGN; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEP410 — Course Title / Name: COMPUTER AIDED DESIGN; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL522 — Course Title / Name: COMPUTER AIDED MANUFACTURING; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEP522 — Course Title / Name: COMPUTER AIDED MANUFACTURING; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL557 — Course Title / Name: ADVANCED FINITE ELEMENT METHOD; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEP557 — Course Title / Name: ADVANCED FINITE ELEMENT METHOD; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: Elective Courses — Course Title / Name: Elective Courses; Type: Elective Courses; Credit: Elective Courses; Exam Slot: Elective Courses; Offered (YES / NO): Elective Courses; Max No. of Students: Elective Courses
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL402 — Course Title / Name: SURFACE ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL407 — Course Title / Name: BIO MECHANICS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL414 — Course Title / Name: TRIBOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL431 — Course Title / Name: ADVANCED MECHANISM; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL433 — Course Title / Name: DESIGN FOR MANUFACTURING AND ASSEMBLY; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL437 — Course Title / Name: COMPOSITE MATERIALS; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL439 — Course Title / Name: PRODUCT DESIGN & DEVELOPMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL452 — Course Title / Name: ADVANCED MACHINING PROCESSES; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL515 — Course Title / Name: ROBOTICS AND MACHINE VISION; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL533 — Course Title / Name: FAILURE ANALYSIS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL537 — Course Title / Name: PRODUCT IDIATION AND DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL527 — Course Title / Name: HYDRAULICS AND PNEUMATICS; Type: DE; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEP527 — Course Title / Name: HYDRAULICS AND PNEUMATICS; Type: DE; Credit: 1; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEL518 — Course Title / Name: FRACTURE MECHANICS AND NON DESTRUCTIVE TESTING; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: MEP518 — Course Title / Name: FRACTURE MECHANICS AND NON DESTRUCTIVE TESTING; Type: DE; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (CAD - CAM): Code: Total — Course Title / Name: Credits (DC + DE); Credit: 21
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: MED501 — Course Title / Name: PROJECT PHASE - I; Type Credit: DC 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Type Credit: 6
+I Semester
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL517 — Course Title / Name: QUANTITATIVE TECHNIQUES IN INDUSTRIAL MANAGEMENT; Type: DC; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP517 — Course Title / Name: QUANTITATIVE TECHNIQUES IN INDUSTRIAL MANAGEMENT; Type: DC; Credit: 1
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL502 — Course Title / Name: METHODS ENGG. & ERGONOMICS; Type: DC; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP502 — Course Title / Name: METHODS ENGG. & ERGONOMICS; Type: DC; Credit: 1
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL553 — Course Title / Name: PERSONNEL MGMT. & INDUSTRIAL RELATIONS; Type: DC; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL505 — Course Title / Name: MATERIALS MANAGEMENT; Type: DC; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Course Title / Name: Elective Courses
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL521 — Course Title / Name: PRODUCTION PLANNING AND CONTROL; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL452 — Course Title / Name: ADVANCED MACHINING PROCESSES; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL408 — Course Title / Name: SUPPLY CHAIN MANAGEMENT; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL533 — Course Title / Name: FAILURE ANALYSIS; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL439 — Course Title / Name: PRODUCT DESIGN & DEVELOPMENT; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL433 — Course Title / Name: DESIGN FOR MANUFACTURING AND ASSEMBLY; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL425 — Course Title / Name: RELIABILITY AND MAINTENANCE ENGINEERING; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL402 — Course Title / Name: SURFACE ENGINEERING; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL537 — Course Title / Name: PRODUCT IDIATION AND DESIGN; Type: DE; Credit: 2
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL518 — Course Title / Name: FRACTURE MECHANICS AND NON DESTRUCTIVE TESTING; Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP518 — Course Title / Name: FRACTURE MECHANICS AND NON DESTRUCTIVE TESTING; Type: DE; Credit: 1
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 20
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: MED501 — Course Title / Name: PROJECT PHASE - I; Type Credit: DC 6
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Type Credit: 6
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (INDUSTRIAL ENGINEERING)
+I Semester
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL512 — Course Title / Name: ENGG. THERMODYNAMICS & COMBUSTION; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL511 — Course Title / Name: FLUID DYNAMICS; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL513 — Course Title / Name: ADVANCED HEAT TRANSFER; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP524 — Course Title / Name: HEAT AND MASS TRANSFER; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL435 — Course Title / Name: COMPUTATIONAL FLUID DYNAMICS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP435 — Course Title / Name: COMPUTATIONAL FLUID DYNAMICS; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: Elective Courses — Course Title / Name: Elective Courses; Type: Elective Courses; Credit: Elective Courses; Exam Slot: Elective Courses; Offered (YES / NO): Elective Courses; Elective Courses
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL527 — Course Title / Name: HYDRAULICS AND PNEUMATICS; Type: 0; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP527 — Course Title / Name: HYDRAULICS AND PNEUMATICS; Type: DE; Credit: 1; Exam Slot: A; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL528 — Course Title / Name: GAS DYNAMICS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP528 — Course Title / Name: GAS DYNAMICS; Type: DE; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL417 — Course Title / Name: POWER PLANT ENGINEERING; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL508 — Course Title / Name: ENERGY MANAGEMENT; Type: DE; Credit: 3; Exam Slot: -; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: Total Credits (DC + DE) — Course Title / Name: Total Credits (DC + DE); Type: Total Credits (DC + DE); Credit: Total Credits (DC + DE); Exam Slot: Total Credits (DC + DE); Offered (YES / NO): Total Credits (DC + DE)
+M. Tech in (HEAT POWER ENGINEERING)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (HEAT POWER ENGINEERING): Code: MED501 — Course Title / Name: PROJECT PHASE - I; Type Credit: DC 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (HEAT POWER ENGINEERING): Course Title / Name: Total Credits (DC + DE) — Type Credit: 6
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (THERMAL ENGINEERING)
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical Engineering)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: IDL531 — Course Title / Name: BIOENGINEERING BRIDGE COURSE - I LAB; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: IDL532 — Course Title / Name: BIOENGINEERING BRIDGE COURSE - II LAB; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: IDL533 — Course Title / Name: BIOMECHANICS OF MUSCULOSKELETAL SYSTEM; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: MML531 — Course Title / Name: MATERIALS FOR BIOMEDICAL APPLICATIONS Elective; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: MEL502 — Course Title / Name: METHODS ENGG. & ERGONOMICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: MEP502 — Course Title / Name: METHODS ENGG. & ERGONOMICS; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: IDL534 — Course Title / Name: DESIGN OF DEVICES FOR MEDICAL APPLICATION LAB; Type: 0; Credit: 4; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: IDL535 — Course Title / Name: ANN AND DEEP LEARNING; Type: DE; Credit: 4; Exam Slot: H; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: ECL502 — Course Title / Name: BODY SENSORS NETWORK; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: MEL536 — Course Title / Name: BIO-MEDICAL DATA SCIENCE; Type: 0; Credit: 3; Exam Slot: D; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026) M. Tech in (Biomedical E: Code: Total — Course Title / Name: Credits (DC + DE); Credit: 21; Max No. of Students: -
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: MED501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 6
+I Semester
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL544 — Course Title / Name: MATERIALS AND LOGISTICS MANAGEMENT; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL502 — Course Title / Name: METHODS ENGG. & ERGONOMICS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP502 — Course Title / Name: METHODS ENGG. & ERGONOMICS; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL521 — Course Title / Name: PRODUCTION PLANNING AND CONTROL; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP521 — Course Title / Name: PRODUCTION PLANNING AND CONTROL; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Course Title / Name: Elective Courses — Type: 0; Credit: 0
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL517 — Course Title / Name: QUANTITATIVE TECHNIQUES IN INDUSTRIAL MANAGEMENT; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL546 — Course Title / Name: DESIGN OF EXPERIMENTS; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL547 — Course Title / Name: ADVANCE SUPPLY CHAIN MANAGEMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL548 — Course Title / Name: RELIABILITY ENGINEERING; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL553 — Course Title / Name: PERSONNEL MGMT. & INDUSTRIAL RELATIONS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL545 — Course Title / Name: SMART MANUFACTURING AND INDUSTRY 4.0; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEL518 — Course Title / Name: FRACTURE MECHANICS AND NON DESTRUCTIVE TESTING; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MEP518 — Course Title / Name: FRACTURE MECHANICS AND NON DESTRUCTIVE TESTING; Type: DE; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: 0 — Course Title / Name: Total Credits (DC + DE)
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: III Semester — Course Title / Name: III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code — Course Title / Name; Type; Credit; Exam Slot; Offered (YES / NO); Max No. of Students
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MED501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 6
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (PRODUCTION AND INDUSTRIAL ENGINEERING)

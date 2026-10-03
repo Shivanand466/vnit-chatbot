@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/basic_science/chemistry
 TITLE: Department of Chemistry, VNIT
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Specialization
 M.Sc. in Chemistry [Two Year PG Program]
@@ -17,21 +17,14 @@ DST-FIST Sponsored Department !!!
 Vision & Mission
 Promote fundamentals of chemistry through UG and PG courses.
 Offer high end-research projects on concept-theory-practical topics.
-To establish excellent teachers, entrepreneurs and innovative
-independent researchers.
+To establish excellent teachers, entrepreneurs and innovative independent researchers.
 Become a nationally recognised centre of chemical sciences.
 To establish state of art centralised research facility.
-Department Stats
-0
-PG Specialisation
-0
-Faculty
-0
-Ph.D. Students (Ongoing)
-0
-SCI/SCIE Publications (2023-24)
-0
-Research Projects
-0
+Department Stats 0
+PG Specialisation 0
+Faculty 0
+Ph.D. Students (Ongoing) 0
+SCI/SCIE Publications (2023-24) 0
+Research Projects 0
 Patents (2023-24)
 News & Events

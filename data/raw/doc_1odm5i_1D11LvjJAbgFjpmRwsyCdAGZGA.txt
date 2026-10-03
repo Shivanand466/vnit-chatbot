@@ -1,0 +1,200 @@
+SOURCE_URL: https://drive.google.com/file/d/1odm5i_1D11LvjJAbgFjpmRwsyCdAGZGA/view
+TITLE: Placement Report 2019-2020
+FETCHED: 2024-05-31
+FOUND_ON: https://vnit.ac.in/section/tnp/
+---
+Document: Placement Report 2019-2020 (dated 2024-05-31)
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 2019-20
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 201: Number of companies visited — B.Tech: 121; B.Arch: 02; M.Tech: 45
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 201: Highest Package (CTC) — B.Tech: 38.21; B.Arch: 6.00; M.Tech: 22.00
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 201: Median Package (CTC) — B.Tech: 7.10; B.Arch: 4.5; M.Tech: 6.90
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 201: Average Package (CTC) — B.Tech: 8.51; B.Arch: 5.16; M.Tech: 6.58
+Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 201: Lowest Package (CTC) — B.Tech: 3.75; B.Arch: 4.5; M.Tech: 3.00
+Branch wise placement - B.Tech
+Branch wise placement - B.Tech: Civil Engg. — Registered: 70; Placed: 35; Placement Percentage: 50.00%; Jobs Offered: 37; Average CTC: 7.05; Median CTC: 7.00; Highest CTC: 17; Lowest CTC: 3.75
+Branch wise placement - B.Tech: Chemical Engg. — Registered: 59; Placed: 53; Placement Percentage: 89.83%; Jobs Offered: 58; Average CTC: 7.54; Median CTC: 6.00; Highest CTC: 22.00; Lowest CTC: 4.00
+Branch wise placement - B.Tech: Computer Science Engg. — Registered: 89; Placed: 89; Placement Percentage: 100.00%; Jobs Offered: 103; Average CTC: 11.63; Median CTC: 9.00; Highest CTC: 38.21; Lowest CTC: 4.5
+Branch wise placement - B.Tech: Electrical Engg. — Registered: 66; Placed: 55; Placement Percentage: 83.33%; Jobs Offered: 59; Average CTC: 7.46; Median CTC: 7.00; Highest CTC: 16.00; Lowest CTC: 4.00
+Branch wise placement - B.Tech: Electronics & Communication Engg. — Registered: 79; Placed: 66; Placement Percentage: 83.54%; Jobs Offered: 71; Average CTC: 10.08; Median CTC: 8.5; Highest CTC: 23.00; Lowest CTC: 4.2
+Branch wise placement - B.Tech: Mechanical Engg. — Registered: 75; Placed: 66; Placement Percentage: 88.00%; Jobs Offered: 86; Average CTC: 7.34; Median CTC: 6.21; Highest CTC: 14.8; Lowest CTC: 4.2
+Branch wise placement - B.Tech: Metallurgical & Materials Engg. — Registered: 64; Placed: 40; Placement Percentage: 62.50%; Jobs Offered: 41; Average CTC: 7.11; Median CTC: 7.03; Highest CTC: 17; Lowest CTC: 3.8
+Branch wise placement - B.Tech: Mining Engg. — Registered: 20; Placed: 15; Placement Percentage: 75.00%; Jobs Offered: 16; Average CTC: 7.96; Median CTC: 7.00; Highest CTC: 17; Lowest CTC: 4.2
+Branch wise placement - B.Tech: Total — Registered: 522; Placed: 419; Placement Percentage: 80.27%; Average CTC: 471; Median CTC: 471; Highest CTC: 471
+Branch wise placement - B.Arch
+Branch wise placement - B.Arch: Architecture and Planning — Registered: 18; Placed: 09; Placement Percentage: 50.00%; Jobs Offered: 09; Average CTC: 5.16; Median CTC: 4.5; Highest CTC: 6.00; Lowest CTC: 4.5
+Branch wise placement - M.Tech
+Branch wise placement - M.Tech: Structural Dynamics and Earthquake Engg. — Registered: 12; Placed: 03; Placement Percentage: 25.00%; Jobs Offered: 03; Average CTC: 5.00; Median CTC: 5.00; Highest CTC: 5.00; Lowest CTC: 5.00
+Branch wise placement - M.Tech: Structural Engg. — Registered: 19; Placed: 06; Placement Percentage: 31.58%; Jobs Offered: 06; Average CTC: 5.00; Median CTC: 5.00; Highest CTC: 5.00; Lowest CTC: 5.00
+Branch wise placement - M.Tech: Chemical Engg. — Registered: 11; Placed: 03; Placement Percentage: 27.27%; Jobs Offered: 03; Average CTC: 6.78; Median CTC: 7.00; Highest CTC: 8.36; Lowest CTC: 5.00
+Branch wise placement - M.Tech: Construction Technology & Management — Registered: 16; Placed: 03; Placement Percentage: 18.75%; Jobs Offered: 03; Average CTC: 7.08; Median CTC: 6.00; Highest CTC: 10.00; Lowest CTC: 5.25
+Branch wise placement - M.Tech: Environmental Engg. — Registered: 15; Placed: 07; Placement Percentage: 46.67%; Jobs Offered: 08; Average CTC: 5.42; Median CTC: 5.00; Highest CTC: 12.40; Lowest CTC: 3.00
+Branch wise placement - M.Tech: Transportation Engg. — Registered: 16; Placed: 01; Placement Percentage: 6.25%; Jobs Offered: 01; Average CTC: 5.25; Median CTC: 5.25; Highest CTC: 5.25; Lowest CTC: 5.25
+Branch wise placement - M.Tech: Water Resources Engg. — Registered: 15; Placed: 02; Placement Percentage: 13.33%; Jobs Offered: 02; Average CTC: 5.00; Median CTC: 5.00; Highest CTC: 5.00; Lowest CTC: 5.00
+Branch wise placement - M.Tech: Computer Science Engg. — Registered: 14; Placed: 11; Placement Percentage: 78.57%; Jobs Offered: 12; Average CTC: 8.35; Median CTC: 8.05; Highest CTC: 11.50; Lowest CTC: 6.80
+Branch wise placement - M.Tech: Communication System Engg. — Registered: 10; Placed: 01; Placement Percentage: 10.00%; Jobs Offered: 01; Average CTC: 12.4; Median CTC: 12.4; Highest CTC: 12.4; Lowest CTC: 12.4
+Branch wise placement - M.Tech: VLSI Design — Registered: 19; Placed: 02; Placement Percentage: 10.53%; Jobs Offered: 02; Average CTC: 10.08; Median CTC: 10.08; Highest CTC: 15.16; Lowest CTC: 5.00
+Branch wise placement - M.Tech: Integrated Power System — Registered: 17; Placed: 03; Placement Percentage: 17.65%; Jobs Offered: 03; Average CTC: 5.18; Median CTC: 5.25; Highest CTC: 5.80; Lowest CTC: 4.50
+Branch wise placement - M.Tech: Power Electronics & Drives — Registered: 18; Placed: 02; Placement Percentage: 11.11%; Jobs Offered: 02; Average CTC: 13.50; Median CTC: 13.50; Highest CTC: 22.00; Lowest CTC: 5.00
+Branch wise placement - M.Tech: CAD-CAM — Registered: 14; Placed: 07; Placement Percentage: 50.00%; Jobs Offered: 07; Average CTC: 5.62; Median CTC: 5.75; Highest CTC: 7.50; Lowest CTC: 3.6
+Branch wise placement - M.Tech: Heat Power Engg. — Registered: 08; Placed: 06; Placement Percentage: 75.00%; Jobs Offered: 06; Average CTC: 5.41; Median CTC: 5.5; Highest CTC: 6.00; Lowest CTC: 5.00
+Branch wise placement - M.Tech: Industrial Engg. — Registered: 14; Placed: 02; Placement Percentage: 14.29%; Jobs Offered: 02; Average CTC: 6.00; Median CTC: 6.00; Highest CTC: 6.00; Lowest CTC: 6.00
+Branch wise placement - M.Tech: Material Engg. — Registered: 14; Placed: 02; Placement Percentage: 14.29%; Jobs Offered: 02; Average CTC: 5.87; Median CTC: 5.87; Highest CTC: 6.25; Lowest CTC: 5.5
+Branch wise placement - M.Tech: Excavation Engg. — Registered: 13; Placed: 02; Placement Percentage: 15.38%; Jobs Offered: 02; Average CTC: 6.00; Median CTC: 6.00; Highest CTC: 6.00; Lowest CTC: 6.00
+Branch wise placement - M.Tech: Total — Registered: 245; Placed: 63; Placement Percentage: 25.71%; Jobs Offered: 65
+Companies visited for placement year 2019-20
+Companies visited for placement year 2019-20: Accenture
+Companies visited for placement year 2019-20: Addverb Technologies
+Companies visited for placement year 2019-20: Aditya Birla Group
+Companies visited for placement year 2019-20: ADP (Automatic Data Processing)-Phase 1
+Companies visited for placement year 2019-20: ADP (Automatic Data Processing)-Phase 2
+Companies visited for placement year 2019-20: AFCONS Infrastructure Ltd
+Companies visited for placement year 2019-20: Amazon - Phase 1
+Companies visited for placement year 2019-20: Amazon - Phase 2
+Companies visited for placement year 2019-20: Anchanto Pte Ltd.
+Companies visited for placement year 2019-20: Apisero
+Companies visited for placement year 2019-20: AppDynamics Technologies India Pvt. Ltd.
+Companies visited for placement year 2019-20: Atyati Technologies - Phase 1
+Companies visited for placement year 2019-20: Atyati Technologies - Phase 2
+Companies visited for placement year 2019-20: Axis My India
+Companies visited for placement year 2019-20: Axxela Advisory Services LLP
+Companies visited for placement year 2019-20: Bajaj Auto Ltd.
+Companies visited for placement year 2019-20: Bharti Airtel
+Companies visited for placement year 2019-20: Billdesk
+Companies visited for placement year 2019-20: BNY Mellon Technology
+Companies visited for placement year 2019-20: Bosch Ltd.
+Companies visited for placement year 2019-20: Capgemini
+Companies visited for placement year 2019-20: Caterpillar India Pvt. Ltd.
+Companies visited for placement year 2019-20: CGI
+Companies visited for placement year 2019-20: Chubb Business Services India LLP
+Companies visited for placement year 2019-20: Cientra TechSolution Pvt. Ltd.
+Companies visited for placement year 2019-20: CITI India - Phase 1
+Companies visited for placement year 2019-20: CITI India - Phase 2
+Companies visited for placement year 2019-20: Codenation Innovation Labs
+Companies visited for placement year 2019-20: Cognizant Technology Solutions (Software Developer (Base+)
+Companies visited for placement year 2019-20: Cognizant Technology Solutions (Software Developer (Pathfinder - Base++)
+Companies visited for placement year 2019-20: Credit Suisse
+Companies visited for placement year 2019-20: Crowdstrike
+Companies visited for placement year 2019-20: Cummins India Ltd.
+Companies visited for placement year 2019-20: Dassault Systemes
+Companies visited for placement year 2019-20: Datametica Solutions Pvt. Ltd.
+Companies visited for placement year 2019-20: Decimal Point Analytics Pvt. Ltd.
+Companies visited for placement year 2019-20: DeepTek Medical Imaging Pvt Ltd
+Companies visited for placement year 2019-20: Deloitte USI Consulting
+Companies visited for placement year 2019-20: Early Salary
+Companies visited for placement year 2019-20: ExxonMobil Services & Technology Pvt. Ltd.-Phase 1
+Companies visited for placement year 2019-20: ExxonMobil Services & Technology Pvt. Ltd.-Phase 2 Fidelity Investments - Phase 1
+Companies visited for placement year 2019-20: Fidelity Investments - Phase 2
+Companies visited for placement year 2019-20: FORD MOTORS PVT. LTD.
+Companies visited for placement year 2019-20: Fractal Analytics Pvt. Ltd.
+Companies visited for placement year 2019-20: GAIL Ltd. (PSU)
+Companies visited for placement year 2019-20: Galaxy Surfactants Ltd.
+Companies visited for placement year 2019-20: Godrej & Boyce
+Companies visited for placement year 2019-20: Godrej industries Ltd.
+Companies visited for placement year 2019-20: Goldman Sachs Services Pvt. Ltd. - Phase 1
+Companies visited for placement year 2019-20: Goldman Sachs Services Pvt. Ltd. - Phase 2
+Companies visited for placement year 2019-20: Growisto
+Companies visited for placement year 2019-20: Helium Consulting Private Limited
+Companies visited for placement year 2019-20: Hindustan Unilever Ltd.
+Companies visited for placement year 2019-20: Hitachi ABB Powergrids
+Companies visited for placement year 2019-20: HLS ASIA LTD
+Companies visited for placement year 2019-20: Icertis Solutions Pvt Ltd
+Companies visited for placement year 2019-20: Indiamart
+Companies visited for placement year 2019-20: Indian Oil Corporation Ltd.
+Companies visited for placement year 2019-20: Infiiloom India Pvt. Ltd
+Companies visited for placement year 2019-20: InfoCepts Technologies Pvt. Ltd.
+Companies visited for placement year 2019-20: Infosys Limited - Phase 1
+Companies visited for placement year 2019-20: Infosys Limited - Phase 2
+Companies visited for placement year 2019-20: Infosys Limited - Phase 3 (Digital Specialist Engineer Role)
+Companies visited for placement year 2019-20: Intellipaat
+Companies visited for placement year 2019-20: iQuanti India Pvt Ltd - Phase 1
+Companies visited for placement year 2019-20: iQuanti India Pvt. Ltd. - Phase 2
+Companies visited for placement year 2019-20: IQVIA
+Companies visited for placement year 2019-20: ITD Cementation India Ltd.
+Companies visited for placement year 2019-20: John Deere - Phase 1
+Companies visited for placement year 2019-20: John Deere -Phase 2
+Companies visited for placement year 2019-20: JP Morgan Chase & Co.
+Companies visited for placement year 2019-20: JP Morgan Chase & Co. - Code For Good Event - Phase 1
+Companies visited for placement year 2019-20: JP Morgan Chase & Co. - Code For Good Event - Phase 2
+Companies visited for placement year 2019-20: JP Morgan Chase & Co. - Code For Good Event - Phase 3
+Companies visited for placement year 2019-20: JSW Steel Ltd.
+Companies visited for placement year 2019-20: Keyideas Infotech
+Companies visited for placement year 2019-20: Larsen & Toubro Ltd.
+Companies visited for placement year 2019-20: Larsen and Toubro Infotech
+Companies visited for placement year 2019-20: Lentra AI Pvt. Ltd.
+Companies visited for placement year 2019-20: LivNSense Technologies Pvt Ltd
+Companies visited for placement year 2019-20: Lowe's India - Campus Hackathon 2020
+Companies visited for placement year 2019-20: Lupin Pharma
+Companies visited for placement year 2019-20: Maersk Tankers
+Companies visited for placement year 2019-20: MAQ Software
+Companies visited for placement year 2019-20: Maruti Suzuki India Limited
+Companies visited for placement year 2019-20: Merilytics
+Companies visited for placement year 2019-20: Modak Analytics
+Companies visited for placement year 2019-20: Navyug Infosolutions Pvt Lt - Phase 1
+Companies visited for placement year 2019-20: Navyug Infosolutions Pvt Ltd.- Phase 2 (Software Engineer Trainee)
+Companies visited for placement year 2019-20: Navyug Infosolutions Pvt Ltd. - Phase 3 (Software Engineer)
+Companies visited for placement year 2019-20: NetCracker Technology Solutions (India) Pvt. Ltd.
+Companies visited for placement year 2019-20: Nokia
+Companies visited for placement year 2019-20: NXP Semiconductors
+Companies visited for placement year 2019-20: O9 Solutions Management India Pvt. Ltd.
+Companies visited for placement year 2019-20: One97 Communications (Paytm)
+Companies visited for placement year 2019-20: Optum
+Companies visited for placement year 2019-20: Oracle - Associate Solution / Cloud Engineer
+Companies visited for placement year 2019-20: Oracle Financial Services Software Limited
+Companies visited for placement year 2019-20: Oracle India Pvt. Ltd.
+Companies visited for placement year 2019-20: Orient Cement
+Companies visited for placement year 2019-20: Persistent Systems Ltd. - Phase 1
+Companies visited for placement year 2019-20: Persistent Systems Ltd. - Phase 2
+Companies visited for placement year 2019-20: Persistent Systems Ltd. - Phase 3
+Companies visited for placement year 2019-20: Philips India Ltd.
+Companies visited for placement year 2019-20: Piramal Glass Pvt Ltd. - Phase 1
+Companies visited for placement year 2019-20: Piramal Glass Pvt Ltd. - Phase 2
+Companies visited for placement year 2019-20: PMI
+Companies visited for placement year 2019-20: Prism Johnson Ltd. - Phase 1
+Companies visited for placement year 2019-20: Prism Johnson Ltd. - Phase 2
+Companies visited for placement year 2019-20: Publicis Sapient
+Companies visited for placement year 2019-20: Quantiphi Analytics Solutions Pvt. Ltd.
+Companies visited for placement year 2019-20: Raam Group
+Companies visited for placement year 2019-20: RebelFoods (formerly faasos)
+Companies visited for placement year 2019-20: Reliance Group (Jio Platforms Ltd. - R&D) - Phase 1
+Companies visited for placement year 2019-20: Reliance Group (Jio Platforms Ltd.) - Phase 2
+Companies visited for placement year 2019-20: Runaya Pvt. Ltd.
+Companies visited for placement year 2019-20: S2Tech.Com India Pvt Ltd
+Companies visited for placement year 2019-20: Sagacious IP Pvt. Ltd
+Companies visited for placement year 2019-20: Sahaj Software - Pool Campus
+Companies visited for placement year 2019-20: Samsung Research Institute, Bangalore
+Companies visited for placement year 2019-20: Schindler India Pvt. Ltd.
+Companies visited for placement year 2019-20: Siemens Gamesa Renewable Energy
+Companies visited for placement year 2019-20: Siemens Industry Software (I) Pvt. Ltd
+Companies visited for placement year 2019-20: Siemens Ltd
+Companies visited for placement year 2019-20: Siemens Technology and Services Pvt. Ltd.
+Companies visited for placement year 2019-20: Signalchip Innovations Pvt Ltd
+Companies visited for placement year 2019-20: Signaltron Systems Pvt Ltd
+Companies visited for placement year 2019-20: Sling Media Societe Generale
+Companies visited for placement year 2019-20: Standard Chartered GBS India
+Companies visited for placement year 2019-20: STUP Consultants Pvt. Ltd.
+Companies visited for placement year 2019-20: Sudarshan Chemical Industries Ltd.
+Companies visited for placement year 2019-20: Sun Pharmaceutical Industries Ltd.
+Companies visited for placement year 2019-20: Tata Consultancy Services (TCS)
+Companies visited for placement year 2019-20: Tata Consultancy Services (TNQT Ninja)
+Companies visited for placement year 2019-20: Tata Consultancy Services NQT (Profile - TCS Digital)
+Companies visited for placement year 2019-20: Tata Consultancy Services NQT (Profile - TCS Ninja)
+Companies visited for placement year 2019-20: Tata Digital Ltd.
+Companies visited for placement year 2019-20: Tata Steel BSL Ltd.
+Companies visited for placement year 2019-20: Technip Energies
+Companies visited for placement year 2019-20: Teevra Edutech Pvt Ltd (SpeEdLabs)
+Companies visited for placement year 2019-20: Texas Instruments
+Companies visited for placement year 2019-20: Thermax Ltd.
+Companies visited for placement year 2019-20: TOMIA (Mach Clearing Solutions India)
+Companies visited for placement year 2019-20: Toshiba Software India Pvt. Ltd.
+Companies visited for placement year 2019-20: UBS Business Solution Center
+Companies visited for placement year 2019-20: UnDosTres
+Companies visited for placement year 2019-20: VE Commercial Vehicles (A Volvo Group and Eicher Motors Joint Venture)
+Companies visited for placement year 2019-20: Vedanta Resources Ltd - Phase 1
+Companies visited for placement year 2019-20: Vedanta Resources Ltd - Phase 2
+Companies visited for placement year 2019-20: Visa University Relations
+Companies visited for placement year 2019-20: Walnut Folks
+Companies visited for placement year 2019-20: Welspun Corp. Ltd
+Companies visited for placement year 2019-20: Winjit Technologies Pvt. Ltd.
+Companies visited for placement year 2019-20: Wipro Ltd.
+Companies visited for placement year 2019-20: ZS Associates India Pvt. Ltd.
+Companies visited for placement year 2019-20: ZYCUS

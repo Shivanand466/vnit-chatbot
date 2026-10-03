@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/network-centre
 TITLE: Network Centre
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Network Centre
 Network Center Team
@@ -36,6 +36,7 @@ Contact :
 Name:
 Vijendrasinh Thakur
 Designation:
+Senior
 Technical Officer
 Qualification:
 M. Tech. (CSE)
@@ -44,6 +45,7 @@ Contact:
 Name:
 Krishna Kumar Patel
 Designation:
+Senior
 Technical Officer
 Qualification:
 B.E. (ECE)
@@ -135,12 +137,8 @@ Service
 VNIT Network Center’s Help Line
 To Lodge a Online Complaint, Networking Related Queries, Email Related Queries, Website Related Queries  or Computer problems –
 Click Here
-Important Phone Numbers
-0712-2801878
-0712-2801291
-Important Mail Ids
-ncteam[at]vnit[dot]ac[dot]in
-mbbhivgade[at]vnit[dot]ac[dot]in
+Important Phone Numbers 0712-2801878 0712-2801291
+Important Mail Ids ncteam[at]vnit[dot]ac[dot]in mbbhivgade[at]vnit[dot]ac[dot]in
 Facilities
 VNIT Network Center has following existing Server
 Mail Server
@@ -152,111 +150,60 @@ NPTEL Server
 Web-Content NPTEL Server
 MATLAB S/w installation Server
 VNIT Network Center provides following software(s)
-Application Software For Campus
-1) ANSYS have License(s) for the following (NOTE:
+Application Software For Campus 1) ANSYS have License(s) for the following (NOTE:
 Instruction to install Software)
-ANSYS Academic Teaching Design Space
-50 users
-ANSYS Academic MCAD
-50 users
-ANSYS Academic Teaching Advanced
-50 users
-2) EXATA have License(s) for the following(NOTE:
+ANSYS Academic Teaching Design Space 50 users
+ANSYS Academic MCAD 50 users
+ANSYS Academic Teaching Advanced 50 users 2) EXATA have License(s) for the following(NOTE:
 Instruction to install Software
 )
-Qualnet – Thread
-20 users
-EXATA -full
-5 users
-Enterprise_mm-full
-5 users
-Wireless-full
-5 users
-Cyber-full
-5 users
-3)
+Qualnet – Thread 20 users
+EXATA -full 5 users
+Enterprise_mm-full 5 users
+Wireless-full 5 users
+Cyber-full 5 users 3)
 LANGUAGE
-Pack for 100 Users
-4)
+Pack for 100 Users 4)
 AutoCAD 2008
-Educational Suite 700 Users
-5)
-AntiVirus Quick Heal
-300 Users
-6)
+Educational Suite 700 Users 5)
+AntiVirus Quick Heal 300 Users 6)
 MATLAB
-MATLAB
-110 licenses
-SIMULINK
-30 licenses
-Communication_Toolbox
-10 licenses
-Control_Toolbox
-10 licenses
-Curve_Fitting_Toolbox
-5 licenses
-Data_Acq_Toolbox
-1 license
-EDA_Simulator_Link
-1 license
-Filter_Design_HDL_Coder
-1 license
-Filter_Design_Toolbox
-1 license
-Fixed_Point_Toolbox
-5 licenses
-Fuzzy_Toolbox
-10 licenses
-GADS_Toolbox
-5 licenses
-Image_Toolbox
-10 licenses
-Instr_Control_Toolbox
-2 licenses
-MATLAB_Report_Gen
-1 license
-AP_Toolbox
-5 licenses
-MPC_Toolbox
-1 license
-MBC_Toolbox
-1 license
-Neural_Network_Toolbox
-10 licenses
-Optimization_Toolbox
-5 licenses
-PDE_Toolbox
-5 licenses
-Real-Time_Workshop
-5 licenses
-Robust_Toolbox
-1 license
-Signal_Blocks
-10 licenses
-Signal_Toolbox
-10 licenses
-SimHydraulics
-5 licenses
-Power_System_Blocks
-5 licenses
-Simscape
-5 licenses
-Fixed-Point_Blocks
-5 licenses
-Simulink_HDL_Coder
-5 licenses
-SIMULINK_Report_Gen
-1 license
-Stateflow
-1 license
-Statistics_Toolbox
-5 licenses
-Symbolic_Toolbox
-5 licenses
-Identification_Toolbox
-1 license
-Wavelet_Toolbox
-5 licenses
+MATLAB 110 licenses
+SIMULINK 30 licenses
+Communication_Toolbox 10 licenses
+Control_Toolbox 10 licenses
+Curve_Fitting_Toolbox 5 licenses
+Data_Acq_Toolbox 1 license
+EDA_Simulator_Link 1 license
+Filter_Design_HDL_Coder 1 license
+Filter_Design_Toolbox 1 license
+Fixed_Point_Toolbox 5 licenses
+Fuzzy_Toolbox 10 licenses
+GADS_Toolbox 5 licenses
+Image_Toolbox 10 licenses
+Instr_Control_Toolbox 2 licenses
+MATLAB_Report_Gen 1 license
+AP_Toolbox 5 licenses
+MPC_Toolbox 1 license
+MBC_Toolbox 1 license
+Neural_Network_Toolbox 10 licenses
+Optimization_Toolbox 5 licenses
+PDE_Toolbox 5 licenses
+Real-Time_Workshop 5 licenses
+Robust_Toolbox 1 license
+Signal_Blocks 10 licenses
+Signal_Toolbox 10 licenses
+SimHydraulics 5 licenses
+Power_System_Blocks 5 licenses
+Simscape 5 licenses
+Fixed-Point_Blocks 5 licenses
+Simulink_HDL_Coder 5 licenses
+SIMULINK_Report_Gen 1 license
+Stateflow 1 license
+Statistics_Toolbox 5 licenses
+Symbolic_Toolbox 5 licenses
+Identification_Toolbox 1 license
+Wavelet_Toolbox 5 licenses
 Policies
 Network-policy
 Please Read the following VNIT Nagpur IT Usage Policy CAREFULLY.

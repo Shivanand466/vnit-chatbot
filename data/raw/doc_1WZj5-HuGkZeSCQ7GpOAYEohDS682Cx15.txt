@@ -1,0 +1,58 @@
+SOURCE_URL: https://drive.google.com/file/d/1WZj5-HuGkZeSCQ7GpOAYEohDS682Cx15/view
+TITLE: Applied Mechanics
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Applied Mechanics (dated 2026-08-05)
+I Semester
+I Semester: Code Course Title / Name: AML571 FINITE ELEMENT ANALYSIS — Type: DC; Credit: 4; Exam Slot: B; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML522 STRUCTURAL DYNAMICS — Type: DC; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML583 FOUNDATION DESIGN — Type: DC; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML513 ADVANCED CONCRETE TECHNOLOGY AND TESTING — Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AMP501 TECHNICAL WRITING AND COMMUNICATION SKILLS — Type: AU; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: Elective Courses
+I Semester: Code Course Title / Name: AML508 EARTHQUAKE ENGINEERING — Type: DE; Credit: 4; Offered (YES / NO): Not-offered
+I Semester: Code Course Title / Name: AML547 NUMERICAL METHODS AND PROGRAMMING — Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML510 FOUNDATIONS — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML523 THEORY OF ELASTICITY AND PLASTICITY — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML511MASONRY STRUCTURE AND RETROFITTING — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML513ADVANCED CONCRETE TECHNOLOGY AND TESTING — Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code Course Title / Name: AML515 REINFORCED CONCRETE DESIGN TO IRC112 — Type: DE; Credit: 4; Exam Slot: A; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML543 EARTHQUAKE DYNAMICS — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML521 MATRIX METHOD OF STRUCTURAL ANALYSIS — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML516 EARTHQUAKE-RESISTANT DESIGN OF STRUCTURES — Type: DE; Credit: 3; Offered (YES / NO): Noteered
+I Semester: Code Course Title / Name: AML541 THEORY OF PLATES AND SHELLS — Type: DE; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: Total Credits (DC + DE) — Credit: 19
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for2026-27 (Winter 2026) M.TECH (Structural Engineering)
+I Semester
+I Semester: Code Course Title / Name: AML584 LINEAR AND NONLINEAR FINITE ELEMENT ANALYSIS — Type: DC; Credit: 4; Exam Slot: B; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML585 LINEAR EARTHQUAKE DYNAMICS — Type: DC; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML586 SOIL DYNAMICS AND FOUNDATION — Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML508 EARTHQUAKE ENGINEERING — Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AMP501 TECHNICAL WRITING AND COMMUNICATION SKILLS — Type: AU; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: Elective Courses
+I Semester: Code Course Title / Name: AML541 THEORY OF PLATES AND SHELLS — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML547 NUMERICAL METHODS AND PROGRAMMING — Type: DE; Credit: 4; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML504WIND EFFECTS ON STRUCTURES — Type: DE; Credit: 4; Offered (YES / NO): Offered
+I Semester: Code Course Title / Name: AML512 STABILITY OF-STRUCTURES — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML511 MASONRY STRUCTURE AND RETROFITTING — Type: DE; Credit: 4; Offered (YES / NO): Not-offered
+I Semester: Code Course Title / Name: AML513 ADVANCED CONCRETE TECHNOLOGY AND TESTING — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML515 REINFORCED CONCRETE DESIGN TO IRC112 — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML516 EARTHQUAKE-RESISTANT DESIGN OFSTRUCTURES — Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML517 NUMERICAL METHODS FOR DYNAMIC SYSTEMS — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML523 THEORY OF ELASTICITY AND PLASTICITY — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: AML521 MATRIX METHOD OF STRUCTURAL ANALYSIS — Type: DE; Credit: 4; Offered (YES / NO): Notoffered
+I Semester: Code Course Title / Name: Total Credits (DC + DE) — Credit: 19
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for 2026-27 (Winter 2026)
+M.TECH (Structural Dynamics and Earthquake Engineering)
+I Semester
+I Semester: Code: AML587 — Course Title / Name: ANALYSIS AND DESIGN OF REINFORCED CONCRETE AND STEEL STRUCTURES; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered
+I Semester: Code: AML588 — Course Title / Name: BASICS OF STRUCTURAL DYNAMICS AND EARTHQUAKE ENGINEERING; Type: DC; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered
+I Semester: Code: AML581 — Course Title / Name: ST CS CNT; Type: DC; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered
+I Semester: Code: AML582 — Course Title / Name: FORENSIC STRUCTURAL ENGINEERING; Type: DC; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered
+I Semester: Code: AMP501 — Course Title / Name: TECHNICAL WRITING AND COMMUNICATION SKILLS Elective Courses; Type: AU; Offered (YES / NO): Offered
+I Semester: Code: AML589 — Course Title / Name: FORENSIC LAW; Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered
+I Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 20
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026) M.TECH ( Forensic Structural Engineering)

@@ -1,0 +1,44 @@
+SOURCE_URL: https://drive.google.com/file/d/1kVkCzQ96ctSg8HebZoJnj8ip9uOYUU7G/view
+TITLE: Brochure
+FETCHED: 2024-06-11
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Brochure (dated 2024-06-11)
+Certificate course on Research in Biomedical engineering
+Duration and Structure:
+Certificate course on Research in Biomedical engineering (40 Hours)
+Proposed Maximum Duration: 3 months.
+Mode of course delivery: 30 Hrs (Online) + 10 Hrs (Offline)
+Offered by : Department of Mechanical Engineering and Department of Electronics and Communication Engineering VNIT Nagpur (Interdisciplinary Board)
+Course Contents:
+ Introduction to history of biomechanical research
+ Understanding the fundamentals, and basic definitions, Examples of class of levers in body
+ Introduction to Orthopaedic related research
+ Research projects related to Implant developments
+ Software based research in the area of dentistry
+ Product development based on the research
+ Sports biomechanics and related research
+ Body Sensor Networks
+Attendance
+: 75% mandatory
+Course Evaluation:
+Mid-term (30%) + End Term(30%) + Teacher's Assessment (40%)
+Fees
+: Rs. 25,000 + 18% GST
+Application process: If you are interested, please fill out the application form by clicking on the following link [ Click Here]. For more details, please visit our website: [https://vnit.ac.in/admission].
+Course Co-Ordinator
+Dr. Rashmi V. Uddanwadiker
+Professor, Department of Mechanical Engineering
+Dr. Pradnya Ghare
+Assistant Professor, Department of Electronics and Communication Engineering
+ Sensor based research projects
+ How to plan for a start Up
+ Display of technologies and products developed
+ Usage of software's available for research
+ Visit to BETiC and Biomechanics Lab
+Course Outcomes :
+ Discover key research areas and complete protocol
+ Explore research avenues in future
+ Realize the value of the research Understand
+how to develop products and implement in clinical situations.
+一春

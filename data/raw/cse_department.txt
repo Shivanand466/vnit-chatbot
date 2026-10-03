@@ -1,11 +1,10 @@
 SOURCE_URL: https://vnit.ac.in/engineering/cse/
 TITLE: VNIT Nagpur Computer Science Department |
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Specialization
 B. Tech.
-1. Computer  Science and Engineering
-2. Artificial Intelligence & Data Science
+1. Computer  Science and Engineering 2. Artificial Intelligence & Data Science
 M. Tech.
 Ph. D.
 PO's / PEO's
@@ -13,16 +12,11 @@ PEO's
 PO's
 PSO's
 Department Stats
-PG Specialisations
-0
-Faculty
-0
-Students
-0
-Publications (This Year)
-0
-Patents
-0
+PG Specialisations 0
+Faculty 0
+Students 0
+Publications (This Year) 0
+Patents 0
 Admission
 Click here for admission related updates
 About Department
@@ -56,9 +50,6 @@ World Environment Day Tree Plantation
 Serb sponsored high-end workshop
 Chairman Shri Madabhushi Madan Gopal Interact with faculty
 Meri Maati Mera Desh
-Student Chapter
-2026 Graduates
-IG Fairplay Winners 2026
-2025 Graduates
-2024 Graduates
+Student Chapter 2026 Graduates
+IG Fairplay Winners 2026 2025 Graduates 2024 Graduates
 Departmental Newsletter

@@ -1,0 +1,19 @@
+SOURCE_URL: https://drive.google.com/file/d/1Copn317ilE5LhJiwA1jOs7nbKdRIdKp4/view
+TITLE: Procedure for uploading Thesis / Dissertations on Shodhganga / Shodhgangotri
+FETCHED: 2025-05-15
+FOUND_ON: https://vnit.ac.in/library-and-information-center/
+---
+Document: Procedure for uploading Thesis / Dissertations on Shodhganga / Shodhgangotri (dated 2025-05-15)
+Procedure for uploading Thesis/ Dissertations on Shodhganga / Shodhgangotri
+Shodhganga/Shodhgangotri is a digital repository of theses and dissertations submitted to Indian Universities and Institutions. VNIT is a signatory to the MoU for Shodhganga and has signed the amendment to the MOU in February 2025 to participate in the Shodhganga project which is maintained by University Grants Commission of India. As per the amendments to MOU, following standards are to be maintained hence forth during submission of thesis:
+1. Procedure to be followed for uploading Ph.D. Thesis on Shodhganga portal:-
+The Research Scholar is required to upload the thesis to the Shodhganga portal in accordance with the guidelines set by INFLIBNET. This should be done under the supervision of the Section In-charge or the staff in the Reference Section of the Library and Information Resource Centre.
+A soft copy of the thesis, in the specified format, must be submitted to the Reference Section of the Library for archiving purposes.
+The Consent Form for Digital Archiving, approved by the Library Advisory Committee, must be submitted to the Library. The form can be downloaded from the Library's webpage on the Institute's website.
+A one-page plagiarism summary report must be uploaded to the Shodhganga portal. Additionally, a detailed plagiarism analysis report (soft copy) must be submitted to the Library for backup and archiving.
+The Research Scholar must generate a Research ID (e.g., ORCID) and upload it to the Shodhganga portal during the thesis submission process.
+2. Procedure to be followed for uploading M. Tech / M Sc. Dissertations on Shodhgangotri portal
+a)Departments are requested to appoint a coordinator who will provide the full-text file of the dissertation along with the metadata to the Library and Information Resource Centre.
+The Consent Form for Digital Archiving can be downloaded from the Library's webpage on the Institute's website. This form should be submitted along with the full-text file of the dissertation to the Library and Information Resource Centre.
+Both the Consent Form and the full-text dissertation will be archived by the Library and subhs t t t t t tyotr portal."
+Above procedures is approved for submission of Ph.D. Thesis and M. Tech/ MSc Dissertations on Shodhganga/ShodhgangotriPortal of INFLIBNET Centre.

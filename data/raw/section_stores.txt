@@ -1,124 +1,80 @@
 SOURCE_URL: https://vnit.ac.in/section/stores
 TITLE: VNIT Nagpur – Store Section
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 GeM Bid /eProcurement System
-GeM Portal –
-www.gem.gov.in
-eProcurement System –
-https://eprocure.gov.in/eprocure/app
+GeM Portal – www.gem.gov.in eProcurement System – https://eprocure.gov.in/eprocure/app
 ;
 Sr. No.
 Item Description
 GeM Bid
 Issue Date
 Closing Date
-Closing Time
-1.
-Electroencephalogram Headset
-GEM/2026/B/7953644
-27.08.2026
-17.09.2026
-05:00 PM
-2.
-Studio Working Table (Qty 126) for Architecture & Planning Department
-GEM/2026/B/7959365
-28.08.2026
-18.09.2026
-12:00 PM
-3.
-Wet Work Bench (Lab Table)
-GEM/2026/B/7971565
-31.08.2026
-22.09.2026
-11:00 AM
-4.
-GeM Bid for Quantum Lab Equipment
-GEM/2026/B/7968911
-28.08.2026
-18.09.2026
-12:00 PM
-5.
-Quotation Enquiry for “OFC Connectivity and LAN Infrastructure Work” at Electrical Annex Building VNIT Nagpur
-2026_WBNPI_924707_1
-eProcurement System Government of India
-03.09.2026
-24.09.2026
-03:00 PM
-6.
+Closing Time 1.
+Quotation Enquiry for “OFC Connectivity and LAN Infrastructure Work” at Electrical Annex Building VNIT Nagpur 2026_WBNPI_924707_1 eProcurement System Government of India
+Corrigendum 03.09.2026 24.09.2026
+Extended upto 02.10.2026 03:00 PM 2.
 Power Module
-GEM/2026/B/7965899
-03.09.2026
-24.09.2026
-03:00 PM
-7.
+GEM/2026/B/7965899 03.09.2026 24.09.2026 03:00 PM 3.
 Gem bid for Horizontal Shake Table with Eccentric CAM – (01 No.) for Applied Mechanics dept.
-GEM/2026/B/
-7976902
-09.09.2026
-30.09.2026
-6.00 PM
-8.
+GEM/2026/B/ 7976902 09.09.2026 30.09.2026 6.00 PM 4.
 Quotation Enquiry for the work of New Concealed Electrification work at CHE 019 and CHE 117 Room
 (at Ground and First Floor) in Chemical Engineering Department at V.N.I.T. Campus, Nagpur.
-2026_WBNPI_925537_1
-eProcurement System Government of India
-09.09.2026
-31.09.2026
-04:00 PM
-9.
+2026_WBNPI_925537_1 eProcurement System Government of India 09.09.2026 30.09.2026 04:00 PM 5.
 Quotation Enquiry for Procurement of “Workshop Raw Material” for Workshop at Mechanical Engineering Department.
-VNIT/STR/M-WS/ABA/VDG/2026-27/21
-11.09.2026
-02.10.2026
-3.00 PM
-10.
+VNIT/STR/M-WS/ABA/VDG/2026-27/21 11.09.2026 02.10.2026
+Extended upto 05.10.2026 03:00 PM 3.00 PM 6.
 Wind Tunnel
-GEM/2026/B/7988626
-11.09.2026
-04.10.2026
-03:00 PM
-11.
+GEM/2026/B/7988626 11.09.2026 04.10.2026 03:00 PM 7.
 Advanced Ultrasonic Pulse-Echo Imaging Equipment for Applied Mechanics Dept
-GEM/2026/B/8023790
-11.09.2026
-03.10.2026
-04:00 PM
-12.
+GEM/2026/B/8023790 11.09.2026 03.10.2026 04:00 PM 8.
 Equipment for Network Theory Lab at Department of Electrical Engineering
-GEM/2026/B/8025737
-14.09.2026
-05.10.2026
-05:00 PM
-13.
+GEM/2026/B/8025737 14.09.2026 05.10.2026 05:00 PM 9.
 Laboratory Tables, Round Table, Computer Runner Tables, Chairs for Lab at Physics Department
 GEM/2026/B/8035626
-15.09.2026
-06.10.2026
-04:00 PM
-14.
-Tender for Running of Salon Beauty parlor service at Hostel Area in VNIT Campus
-2026_WBNPI_926211_1
-eProcurement System Government of India
-15.09.2026
-07.10.2026
-04:00 PM
+Corrigendum 15.09.2026 06.10.2026
+Extended till 09-10-2026 04:00 PM 10.
+Tender for Running of Salon Beauty parlor service at Hostel Area in VNIT Campus 2026_WBNPI_926211_1 eProcurement System Government of India 15.09.2026 07.10.2026 04:00 PM 11.
+GeM Bid for Rack Mountable high end mobile computing machine with multiple processors
+GEM/2026/B/8028952 17.09.2026 08.10.2026 4.00 PM 12.
+GeM Bid for Two Port Vector Network Analyzer
+GEM/2026/B/8052086 18.09.2026 03.10.2026 12:00 PM 13.
+GeM Bid for Quantum Sensing and Atomic Physics Experimentation Kit
+GEM/2026/B/8050446 18.09.2026 09.10.2026 11.00 AM 14.
+GeM Bid for Entangled-based Quantum Key Distribution (QKD) Experimentation
+GEM/2026/B/8050139 18.09.2026 09.10.2026 12:00 PM 15.
+GeM Bid for High End Desktop Computer
+GEM/2026/B/8006374 22.09.2026 13.10.2026 04:00 PM 16.
+GeM Bid for Interactive Panel with CPU
+GEM/2026/B/8055551 21.09.2026 06.10.2026 12:00 PM 17.
+Nano Electrospinning Drum Collector
+GEM/2026/B/7986521 24.09.2026 15.10.2026 04:00 PM 18.
+Laser Diameter Monitor
+GEM/2026/B/7986431 24.09.2026 15.10.2026 04:00 PM 19.
+High End Desktop Computer
+GEM/2026/B/8049976 24.09.2026 15.10.2026 04:00 PM 20.
+Off-Grid Roof Top Solar PV System
+GEM/2026/B/8052213 24.09.2026 15.10.2026 04:00 PM 21.
+Electric Motorized Treadmill (02 Nos.) for Girls Gym, VNIT Nagpur.
+GEM/2026/B/8063571 23.09.2026 14.10.2026 01:00 PM 22.
+Microcontroller and Kits
+GEM/2026/B/8074663 28.09.2026 19.10.2026 03:00 PM 23.
+Tender for Running Creche cum Day Care Facility Services
+VNIT/STR/MA/SA/18 29.09.2026 20.10.2026 3.00 PM 24.
+Furniture
+GEM/2026/B/8054764 29.09.2026 20.10.2026 03:00 PM 25.
+Digital Tile Abrasion Testing Machine for Civil Engg Department
+GEM/2026/B/8098734 30.09.2026 22.10.2026 01:00 PM
 VNIT Tenders
 Sr. No.
 Item Description
 Tender Document
 Issue Date
 Closing Date
-Closing Time
-1.
-Provision of Aluminium window in Ground floor toilet block of M.S Swaminathan at VNIT, Nagpur.
-Download
-11.09.2026
-21.09.2026
-01.30 PM
-2.
+Closing Time 1.
 Procurement of “MEDICINES” for the Health Centre.
-VNIT/STR/HC/PSD/2026-27/22
-14.09.2026
-28.09.2026
-03:00 PM
+VNIT/STR/HC/PSD/2026-27/22 14.09.2026 28.09.2026 03:00 PM 2.
+Renovation of Room No. L4 at the ground floor and Faculty Room at first floor of Mining Engineering Department at VNIT, Nagpur 2026_WBNPI_927785_1 eProcurement System Government of India 25.09.2026 22.10.2026 05:00 PM 3.
+Renovation of toilet blocks of C. V. Raman Hostel at VNIT, Nagpur 2026_WBNPI_927762_1 eProcurement System Government of India 25.09.2026 22.10.2026 05:00 PM 4.
+Name of work :Development of lawn in open space of Quarter no 4 at VNIT, Nagpur.
+Download 28.09.2026 09.10.2026 01:30 PM

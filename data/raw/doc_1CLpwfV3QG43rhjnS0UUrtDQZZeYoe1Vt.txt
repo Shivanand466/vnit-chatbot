@@ -1,0 +1,69 @@
+SOURCE_URL: https://drive.google.com/file/d/1CLpwfV3QG43rhjnS0UUrtDQZZeYoe1Vt/view
+TITLE: AWR Category A Registration Instructions Winter 2026
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: AWR Category A Registration Instructions Winter 2026 (dated 2026-05-22)
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Ex//-/ Date: 22 May 2026
+Procedure / Instructions for AWR Registration Winter 2026
+Notice
+Attention: All AWR Category 'A' and Category 'B' Students
+AWR Registration Steps: (for Session W-2026)
+I. AWR Registration Category A:For students who are having,
+3 to 7 backlogs (including practical), or
+Tech. students with4 to 6 years stay or
+Arch Students with more than 5-to-7-year stay
+Registration Procedure:
+Foacl - ( l /l / s lgog
+Pay the fees as per instructions given in a separate Notice.
+Students who are not required to pay fee (under scholarship schemes) shall contact Academic Section (through email: dr_acd@vnit.ac.in).
+Refer Branch wise / Admission Year Wise List of Courses to be offered on Student Notice board (under "Sem. Course Registration" tab) of VNIT website to know courses being offered by your department. (http://vnit.ac.in/ >> Student Notice Board >> Sem. Course Registration)
+Consult your Faculty Advisor (FA) (on phone / email / personally) to decide the courses to be registered.
+This is important for students with backlog.
+All students will do online registration (Including AWR).
+Students with backlog courses shall carefully discuss courses to be registered with FA.
+Only after finalizing courses to be registered student shall proceed for online registration.
+Allotment Process of OC / HM Courses Registration (for Winter 2026), has been already done though Google Form (on First Come First Serve Basis). Those students who have applied for OC / HM Courses, are instructed to confirm their name (if selected) in the list displayed on institute website under >> (http://vnit.ac.in/ >> Student Notice Board >> Sem. Course Registration >> OC-HM Allotment for Winter 2026). If student is allotted an OC or HM Course in Winter 2026, then he / she is instructed to select the remaining DC / DE course(s) accordingly (i.e. 7 Theory & 5 Prac., including OC or HM), and the OC or HM course will be added by Exam Section after Registration Process is completely over for Winter 2026.
+Online Registration module is available on URL- https://vnitaims.vnit.ac.in/mproaims/#/
+Login to AlMS using Login Id and Password (Same as used earlier)
+Complete registration as per instructions & click "APPLY FOR REGISTRATION" button.
+After applying for the course registration you can see the selected courses under Registration Management >> Reports >> Registration Form Print >> View Report. Here you can see the list of courses you have selected and the status (for fee / for registration approval). Status will be shown as "Watermark" and will be it will be one of the following,
+"PENDING FOR FEES" "PENDING FOR ARROVAL" &
+After Approval by Faculty advisor
+"REGISTRATION APPROED"
+All Students are required to select all backlog courses (Compulsorily) (if any), without selecting Backlog courses (if offered by the department) registration process will not move ahead. Student must keep in mind that, even after selecting backlog courses & the courses student wants to register must not exceed the 8 TH & 5 PR (including Backlog) criteria per semester.
+Approach Faculty Advisor (FA) for Approval of Registration. FA will do Approval online. Student will have to abide by the suggestions of FA on changes in the registered courses.
+Without Approval of registration by FA, student's registration will remain incomplete and student name will not appear in the roll list of the subjects he / she is registering for.
+After approval of registration by FA, student shall login to his/her login area and ensure that registration status has become "REGISTRATION APPROVED". Else, registration will be treated as incomplete.
+If the backlog courses are appearing in the same slot and students are not able to select both the course (as it will show message "You Cannot Select 2 Courses in Same Slot"), then these students are instructed to report to Exam Section by Email (Given below) or in-person through their Faculty Advisor, mentioning the backlog course to be register for W26.
+W26 course registration of these students will be initiated by Exam Section and remaining courses are to be added by their respective Faculty Advisor.
+Student should take a print of Registration form under, Registration Management >> Reports >> Registration Form Print >> View Report. (Make Sure Session Selected as 2026-27/W26), sign that copy of registration. Scan Copy of that Signed Registration Form is to be sent to examination section by Email (Email ID: vnitsemregister@vnit.ac.in). The scanned PDF file have to be named as?????.pdf (????? should be the ID No. of the student).
+For Extra Year student (B Tech – till 6 year to stay & B Arch – till 7 year) with 3-7 Backlog:
+Student comes under the criteria mentioned above are instructed to directly go to the link,
+URL-https://vnitaims.vnit.ac.in/mproaims/#/
+Select the course which are available (after consulting their Faculty Advisor).
+After Selection of courses, these students are strictly instructed, to report to the Exam Section by Email (through their Faculty Advisor) or personally to the Exam Section for Generation of Academic Fees Challan.
+As these students are of Extra Year, Academic Fees to be paid, by these students are Course wise +Other Fees (for the semester).
+All students keep in mind that without paying academic fees for the semester, the courses registration will not appear in the Faculty advisor login, even if student has successfully selected the courses.
+Student are instructed to generated registration form under, Registration Management >> Reports >> Registration Form Print >> View Report. (Make Sure Session Selected as 2026-27/w26), after applying for the course registration, take print (or generate pdf) and report to exam section so that academic fees (course wise) will be generated.
+After payment of fees student can see the updated status of their registration under Registration Management >> Reports >> Registration Form Print >> View Report. Here student can see the list of courses they have selected and the status (for fee / for registration approval). Status will be shown as "Watermark" and will be it will be one of the following,
+"PENDING FOR FEES" "PENDING FORARROVAL"&
+After Approval by Faculty advisor
+"REGISTRATION APPROED"
+All Students are instructed toselect all backlog courses (Compulsorily) (ifany)first, without selecting Backlog courses (if offered by the department) registration process will not move ahead. Student must keep in mind that, even after selecting backlog courses & the courses student wants to register must not exceed the standard 8 TH & 5 PR (including Backlog) criteria per semester.
+Approach Faculty Advisor (FA) for Approval of Registration. FA will do Approval online. Student will have to abide by the suggestions of FA on changes in the registered courses.
+Without Approval of registration by FA, student's registration will remain incomplete and student name will not appear in the roll list of the subjects he is registering for.
+After approval of registration by FA, student shall login to his/her login area and ensure that registration status has become "REGISTRATION APPROVED". Else, registration will be treated as incomplete.
+If the backlog courses are appearing in the same slot and students are not able to select both the course (as it will show message "You Cannot Select 2 Courses in Same Slot"), then these students are instructed to report to Exam Section by Email (Given below) or in-person through their Faculty Advisor, mentioning the backlog course to be register for W26. W26 course registration of these students will be initiated by Exam Section and remaining
+courses are to be added by their respective Faculty Advisor.
+Student should take a print of Registration form under, Registration Management >> Reports >> Registration Form Print >> View Report. (Make Sure Session Selected as 2026-27/W26), sign that copy of registration. Scan Copy of that Signed Registration Form is to be sent to examination section by Email (Email ID: vnitsemregister@vnit.ac.in). The scanned PDF file have to be named as?????.pdf (????? should be the ID No. of the student).
+II. AWR Registration Category B: For students who are having
+8 or More backlogs (including practical), or
+Tech. students with more than 6 years stay, or
+Arch Students with more than 7 years stay, or
+Students who have earned less than 10 credits in the last two consecutive semesters
+Please refer separate notice issued in this regard.
+In case of any difficulty, please contact Exam Section, on asst_registrar@vnit.ac.in / supdtexam@vnit.ac.in, through your faculty advisor only.
+NO REGISTRATION WOULD BE ALLOWED AFTER THE LAST DATE MENTIONED IN THE NOTICE.
+To. To, All HoDs Student's notice board (on Institute Website)

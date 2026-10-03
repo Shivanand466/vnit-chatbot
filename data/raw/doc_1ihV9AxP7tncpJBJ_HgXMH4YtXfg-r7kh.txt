@@ -1,0 +1,80 @@
+SOURCE_URL: https://drive.google.com/file/d/1ihV9AxP7tncpJBJ_HgXMH4YtXfg-r7kh/view
+TITLE: APC-Guidelines-V1
+FETCHED: 2026-06-04
+FOUND_ON: https://vnit.ac.in/library-and-information-center/
+---
+Document: APC-Guidelines-V1 (dated 2026-06-04)
+1. Background
+The One Nation One Subscription (ONOS), a central sector scheme of Government of India, with the Department of Higher Education (DHE) as the nodal department, was approved in November 2024 and has been launched from 1st January 2025. The ONOS portal provides access to scholarly research articles from journals published by the 30 publishers included in the ONOS. The access is available to all students, faculty and researchers of central government and state government Higher Education Institutions (HEIs) and Research & Development (R&D) organisations of the central government.
+Prior to ONOS, there were 10 different library consortia who had their own subscription models. In addition, many government HEIs used to have their own subscription for some of these journals. After ONOS, all these have been merged into a single ONOS consortia. All the participating Ministries in the Government of India has pooled their resources for funding the ONOS and the remaining fund is being provided by the Ministry of Finance, Government of India. The ONOS portal has been developed and maintained by the Inflibnet, an Inter-University-Centre of the University Grants Commission(UGC).
+While providing access to the journal articles have been the major component of the ONOS, the Article Publishing Charges / Article Processing Charges (APC) is also an approved component of the ONOS scheme. It was approved that negotiated APCs for selected good quality open access journals will be centrally funded through the executing agency for ONOS. The list of such journals shall be decided by groups of subject experts.
+This document is prepared after detailed deliberation at the Core Committee of the ONOS. The guidelines will be followed starting from the year 2025 to see its usefulness in addressing the APC payment related issues. Further modifications, under the guidance of the Core Committee, shall be undertaken as and when necessary.
+One Nation One Subscription Guidelines on Payment of Article Publishing Charges
+2. Guidelines for payment of APC:
+Eligible authors: Regular faculty, students, researchers, Principal Investigators of the Higher Education Institutions and R&D Institutions with active registration in ONOS are eligible to apply. The corresponding institution nodal officer of ONOS willhave to authenticate that the applicant is a Bonafide regular employee/student of the Institution. In particular, all of the followingconditions are to be fulfilled:
+The applicant must bethe first author or corresponding author of the article for which APC payment request is being applied for.
+The applicant should submit documentary evidence regarding acceptance of publication while submitting the application regarding payment of APC charges.
+The application should be sent with proper authentication from the Head of the Institution that the applicant is a Bonafide regular employee/ student of the HEI/ R&DInstitution.
+The applicant should have made significantintellectual contribution to the article. A combined declaration from all authors in this regard needs to be uploaded as per specified format (enclosed with this guideline) whileapplying for payment of APC charges by ONOS.
+The applicant must ensure that multiple claims are not submitted for the same article.
+s s uo s l s :s l s indicators: CiteScore, SNIP orSJR published by SCOPUS are eligible for paymentof APC from ONOS. In other words, list of top1% journal for each of the 27 main subject areas given in SCOPUS will be first prepared and then the fully open access journals appearingin this top 1% journal list will be eligible. The Open Access journals can be either from the30 publishers providing access to their publishedjournals in ONOS or other publishers.
+The list of journals which shall be eligible for the payment of APC charges will be prepared every year by Inflibnet in consultation with the Department of Higher Education (DHE) and made available on the ONOS website.
+If a journal appears in the list in one year (say in the year 2025) but gets excluded from the list next year (say year 2026), articles accepted for
+publication in the year 2025 will remain eligible for payment of APC, even if the actual payment happens in2026.
+Eligible Articles: Only research articles accepted for publication/ published in eligible journals are eligible to apply for APCpayment.
+Mode of Payment: Once an article is accepted for publication, the author will apply on the specified section of the ONOS portal giving details as per requirement. Once the application is accepted for payment, the same will be intimated to the author and the publisher (using the address of communication provided by the author). Actual payment will be made to the publisher's bank account as per the applicable banking procedures in India. TDS and other taxes will be deducted at source as per Government of India rules/directives in this regard.
+The workflow for APC will be as follows for Authors:
+Registration on the ONOS APC page using Institutional email id of the author through OTP
+Select from the drop-down of predefined list of journals and submit details of accepted article with date of submission, communication of acceptance etc.
+Verification of the Author by ONOS/corresponding Institute for their institutional affiliationwith any ONOSEligible Institution
+Declaration of the applicant along with joint declaration by all authors that no claim from any other source (government or private, Indian or outside) for payment of APC charge has been made or will be made for this article. If any such payment is received for the same, the author shall be liable for refund of the APC charge received from ONOS, in addition to other administrative/ legal actions, as deemed fit.
+Submission of details for payment or invoice for payment through central account directly to the account of the journal.
+Acceptance by ONOS based on fund availability or rejection of the request with intimation to author
+Payment by INFLIBNET
+Intimation to Author with details of payments made
+Confirmation from Author about publication of the article. An author can apply for APC payment only after confirmation of publication of article (s) for which ONOS has previously paid.
+3. Additional Guidelines for Acceptance
+APC payment will be made on first come first serve basis considering all subject groups and all journals eligible for payment as a single group. No separate allocation with respect to any subject group/ journal type will be done.
+s u ssue ssu l ss c ui ess mode.
+APC fees will be available only for the articles where first author/ corresponding author is a regular employee or student of the ONOS member institute. Moreover, the applicant should have made significant intellectual contribution to the article. A combined declaration from all authors in this regard needs to be made while applying for payment of APC charges by ONOS.
+If funding is available from the funding agency or from Government grants for payment of Open Access Fees, the article will not be eligible for APC charges from ONOS. The authors will have to give a declaration to this effect. If the declaration is found to be false at any future time, necessary administrative and legal proceedings will be initiated against the person giving the declaration.
+To ensure that the benefits of APC charge payment from ONOS reach more HEIs and researchers, the ONOS Core Committee reserves the right to put a ceiling on the maximum number of articles from a single author/ Institution which shall be provided APC charge.
+Declaration of Author's Contribution
+Title of the accepted Paper:
+Authors with Affiliation:
+Date of acceptance:
+Journal Name:
+Journal online ISSN Number:
+Main subject area of Journal as per SCOPUS:
+Main subject area of the article accepted for publication:
+Publisher Name:
+Main subject area of the article accepted for publication | Declaration of Contribution: Sl. No. | Type of author (first/ Corresponding/ significant contributor/ other) | Name of author as per submitted Article | Name of author as per AADHAAR | Nationality of author | Name of affiliating Institution | Country of Affiliating Institution
+9. Type of contribution from authors:
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Conceptualization — Brief Description: Construction of idea or hypothesis for research
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Design — Brief Description: Planning of methodology to reach the conclusion
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Supervision — Brief Description: Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Instrument Facility — Brief Description: Providing support in terms of tools and instruments used in the research
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Data collection and processing — Brief Description: Collection of data for the purpose of research and processing of the collected raw data
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Formalanalysis and interpretation — Brief Description: Application of statistical, mathematical, computational, or other formal techniques to analyze or synthesize study data and Logical interpretation leading to the results
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Literature Review — Brief Description: Necessary literature review for the research undertaken
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Writing – original draft — Brief Description: Construction and writing of the manuscript
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Writing – review and editing — Brief Description: Critical review or revision of the presented findings and results
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Resources — Brief Description: Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Software — Brief Description: Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Validation — Brief Description: Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Visualisation — Brief Description: Preparation, creation and/or presentation of the published work, specifically visualization/data presentation
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Funding acquisition — Brief Description: Acquisition of the financial support for the project leading to this publication
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Project administration — Brief Description: Management and coordination responsibility for the research activity planning and execution
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Data curation — Brief Description: Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use.
+Main subject area of the article accepted for publication | 9. Type of contribution from authors: Type of Contribution: Other — Brief Description: Any other significant contribution
+10. Declaration:
+The above information is true to best of our knowledge and belief. I shall be personally liable to return the entire amount of APC charge paid by ONOS, in addition to other administrative/ legal actions, in case any of the following isfound in future:
+The article is retracted by the journal,
+APC is paid by any other national (government or private) or international/ multilateral Institution/ agency/ government or this APC is shown as a component in any project.
+Signature of the applicant:
+Signature of the co-authors:
+Endorsement from Head of Institution:
+I certify that the applicant author is a Bonafide full-time employee of this Institute / regular student of the Institute/ researcher affiliated with the Institute (strike off whichever is not applicable).
+In case the applicant has to return the APC charge paid by ONOS and she/ he is not paying it within a time specified by the ONOS, the Institute will recover the same from her/ him and pay the same to ONOS.
+Signature from Head of Institution with Office seal / stamp
+This form should be duly filled and signed by all the authors of the accepted paper with date and submit to nodal officer ONOS along with APC payment application.

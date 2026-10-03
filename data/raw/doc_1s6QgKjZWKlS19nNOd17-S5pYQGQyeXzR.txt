@@ -1,0 +1,440 @@
+SOURCE_URL: https://drive.google.com/file/d/1s6QgKjZWKlS19nNOd17-S5pYQGQyeXzR/view
+TITLE: Annexure 1
+FETCHED: 2024-05-02
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Annexure 1 (dated 2024-05-02)
+M.Tech in Applied AI and Communication
+M.Tech in Applied AI and Communication: Semester: Semester 1 16 credits — Course Name: Programming For Data Science; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 1 16 credits — Course Name: Statistics For Machine Learning; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 1 16 credits — Course Name: Machine Learning Algorithms And Applications; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 1 16 credits — Course Name: Fundamentals of Communication And Signal Processing; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 2 19 credits — Course Name: Deep Learning Techniques; Type: DC; L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 2 19 credits — Course Name: Data Transformation; Type: DC; L: 2; T: 0; P: 2; Credits: 3
+M.Tech in Applied AI and Communication: Semester: Semester 2 19 credits — Course Name: Elective 1; Type: DE; L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 2 19 credits — Course Name: Elective 2; Type: DE; L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 2 19 credits — Course Name: Mini Project; Type: DC; L: -; T: -; P: -; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 3 10 credits — Course Name: Elective 3; Type: DE; L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Semester: Semester 3 10 credits — Course Name: Elective 4; Type: DE; L: 3; T: 0; P: 0; Credits: 3
+M.Tech in Applied AI and Communication: Semester: Semester 3 10 credits — Course Name: Dissertation - Phase I; Type: DC; L: -; T: -; P: -; Credits: 3
+M.Tech in Applied AI and Communication: Semester: Semester 4 9 credits — Course Name: Dissertation - Phase II; Type: DC; L: -; T: -; P: -; Credits: 9
+M.Tech in Applied AI and Communication: Electives: Natural Language Processing — L: 2; T: 0; P: 2; Credits: 3
+M.Tech in Applied AI and Communication: Electives: Data Visualization — L: 3; T: 0; P: 2; Credits: 4
+M.Tech in Applied AI and Communication: Electives: Next-Gen Communication — L: 2; T: 0; P: 2; Credits: 3
+M.Tech in Applied AI and Communication: Internet of Things And Embedded Systems | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: Communication Networks for IoT | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: Big Data Analytics | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: Deployment of ML Models | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: AI in Healthcare | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: Applied Signal Processing | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: Computer Vision | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: Data Structures | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: Category of Course.Program Core: Departmental core — Symbol..Program Core: DC; Credit Requirement.M. Tech. in Applied AI and Communication (2 Years).Program Core: 39
+M.Tech in Applied AI and Communication: SN.Program Core: Program Elective — Category of Course.Program Core: Program Elective; Symbol..Program Core: Program Elective; Credit Requirement.M. Tech. in Applied AI and Communication (2 Years).Program Core: Program Elective
+M.Tech in Applied AI and Communication: Category of Course.Program Core: Departmental Elective — Symbol..Program Core: DE; Credit Requirement.M. Tech. in Applied AI and Communication (2 Years).Program Core: 15
+M.Tech in Applied AI and Communication: SN.Program Core: Total requirement : DC+ DE = — Category of Course.Program Core: Total requirement : DC+ DE =; Symbol..Program Core: Total requirement : DC+ DE =; Credit Requirement.M. Tech. in Applied AI and Communication (2 Years).Program Core: 54
+M.Tech in Applied AI and Communication: Course Code | - | Course Title | Programming For Data Science | Programming For Data Science | Programming For Data Science | Programming For Data Science
+M.Tech in Applied AI and Communication: Category | - | Credit Assigned: | L | T | P | C
+M.Tech in Applied AI and Communication: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+M.Tech in Applied AI and Communication: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Understand syntactical and programming concepts.
+Understand object-oriented concepts.
+Analyze and apply different methods for error handling.
+Understand important Python libraries related to data science and how to apply them to given programming tasks.
+Understand concepts like environments and version control.
+Course Content:
+Module 1 : Introduction to Data Science using Python
+What is Data Science, what does a data scientist do? Various examples of Data Science in the industries, How Python is deployed for Data Science applications, Various steps in the Data Science process like data wrangling, data exploration and selecting the model. Introduction to Python programming language, Important Python features, how is Python different from other programming languages, Python installation, Anaconda Python distribution for Windows, Linux and Mac, How to run a sample Python script, Python IDE working mechanism, Running some Python basic commands, Python variables, data types and keywords.
+Module 2 : Python basic constructs
+Introduction to a basic construct in Python, Understanding indentation like tabs and spaces, Python built-in data types, Basic operators in Python, Loop and control statements like break, if, for, continue, else, range() and more., File Handling (I/O) and Exception Handling, Pandas, Understanding the OOP paradigm like encapsulation, inheritance, polymorphism and abstraction ,What are access modifiers, instances, class members, Classes and objects, Function parameter and return type functions, Lambda expressions.
+Module 3 : NumPy for Data Transformation
+Introduction to mathematical computing in Python, What are arrays and matrices, array indexing, array math, Inspecting a NumPy array, NumPy array manipulation
+Module 4 : Scipy for Mathematical Computing
+Introduction to SciPy, Functions building on top of NumPy, cluster, linalg, signal, optimize, integrate, subpackages, SciPy with Bayes Theorem.
+Module 5 : Data manipulation & Data Visualization
+Loading data from various files (.dat, .json, .h5, .txt, .csv, .xlsx etc.), Example applications, Introduction to Matplotlib, Using Matplotlib for plotting graphs and charts like Scatter, Bar, Pie, Line etc., Histogram and more, Matplotlib APIs
+Text Books:
+Wes McKinney: Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, O'Reilly Media, 2017
+How to think like a computer scientist: Learning with Python by Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+Reference Books:
+"Python Programming: A Complete Guide For Beginners To Master And Become An Expert" by Brian Draper
+Programming: A Complete Guide For Beginners To Master And Become An by Brian Draper | Reference Books: Course Code | - | Course Title | Statistics For Machine Learning | Statistics For Machine Learning | Statistics For Machine Learning | Statistics For Machine Learning
+Programming: A Complete Guide For Beginners To Master And Become An by Brian Draper | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Programming: A Complete Guide For Beginners To Master And Become An by Brian Draper | Reference Books: Category | - | Credit Assigned: | 3 | 0 | 0 | 3
+Programming: A Complete Guide For Beginners To Master And Become An by Brian Draper | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Have an understanding of descriptive and inferential statistics constructs for statistical analysis
+Gain Knowledge of probability theory and its implementation for data analysis.
+Course Content:
+Module 1 : Fundamentals of Probability and Statistics
+Probability spaces, Conditional probability, Independence, Random Variables, Discrete and Continuous random variables, Expectation Operator, Functions of random variables, Generating random variables, Multivariate Random Variables, Joint distributions of discrete and continuous variables, Functions of several random variables, Joint Moments, Generating multivariate random variables
+Module 2 : Random Processes - Convergence, Markov Chains and Applications
+Definition, Stationary of random processes, Mean and autocovariance, functions, Independent identicallydistributed sequences, Power spectral density, Gaussian process, Poisson process, Random walk, Convergence of Random Processes, Types of convergence, Law of large numbers, Central limit theorem, Monte Carlo simulation, Time-homogeneous discrete-time Markov chains, Recurrence, Periodicity, Convergence, Markovchain Monte Carlo, Descriptive statistics, Histogram, Sample mean and variance, Order statistics, Sample covariance, Sample covariance matrix
+Module 3 : Frequentist Statistics, Regression, Bayesian Statistics and Hypothesis Testing
+Independent identically-distributed sampling, Mean square error, Consistency, Confidence intervals, Nonparametric model estimation, Parametric model estimation, Linear Regression models, Least-squares estimation, Overfitting, Global warming. Bayesian parametric models, Conjugate prior, Bayesian estimators, The hypothesis-testing framework, Parametric testing, Nonparametric testing: The permutation test, Multiple testing
+Module 4 : Linear Algebra
+Vector space, norm, linear mapping, range, null space, matrix multiplication
+Module 5 : Optimization Techniques
+Normal equation, Steepest Descent, Conjugate gradient, Optimality condition, Methods based on a local quadratic model, Line search methods
+Text Books:
+Probability and Statistics for Data Science, by Carlos Fernandez-Granda
+Probability for Statistics and Machine Learning: Fundamentals and Advanced Topics, by Anirban Das
+Gupta
+Probability, random variables, and stochastic processes, by Athanasios Papoulis.
+S. Lang, Introduction to Linear Algebra , Springer-Verlag, 2/e, 1997
+Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning.Cambridge University Press, 2020.
+Reference Books:
+Machine learning: a probabilistic perspective by Kevin Murphy
+Statistical Learning Theory by Vladimir N. Vapnik
+Machine learning: a probabilistic perspective by Kevin Murphy | Reference Books: Course Code | - | Course Title | Machine Learning Algorithms & Applications | Machine Learning Algorithms & Applications | Machine Learning Algorithms & Applications | Machine Learning Algorithms & Applications
+Machine learning: a probabilistic perspective by Kevin Murphy | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Machine learning: a probabilistic perspective by Kevin Murphy | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Machine learning: a probabilistic perspective by Kevin Murphy | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+You will be proficient in Supervised and Unsupervised Learning
+Learn and master Various machine learning algorithms to solve classification, regression and clustering problems.
+Understand Predictive analytics and modeling
+Overcome challenges for Model optimization and evaluation metrics
+Course Content:
+Module 1: Introduction to Machine Learning
+Introduction to machine learning, types of learning, Learning Hypothesis, Linear Regression, Inductive classification, applications of Machine Learning ,
+Module 2: Hypothesis Evaluation
+Training and test splits, Data Pre-processing, cross-validation and parameter tuning, Kfold cross validation, Confusion matrix, Estimating hypothesis accuracy, sample and true error.
+Module 3: Decision Trees: Representing concepts as decision trees. Recursive induction of decision trees. Picking the best splitting attribute: entropy and information gain. Searching for simple trees and computational complexity. Occam's razor. Overfitting, noisy data, and pruning.
+Module 4: Neural Networks
+Artificial Neural Networks: Neurons and biological motivation. Linear threshold units, Perceptron:
+Representational limitation and gradient descent training, Logistic regression, Multilayer networks and Backpropagation.
+Module 5: Bayesian learning and unsupervised learning
+Bayesian Learning: Naive Bayes learning algorithm. Parameter smoothing. Bayes nets and Markov nets for representing dependencies. Hidden Markov Model, and Bayesian networks.
+Clustering and unsupervised learning: Clustering. Hierarchical Aglomerative Clustering. k-means partitional clustering. Expectation maximization (EM) for soft clustering.
+Text Books:
+Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Bishop C., Pattern Recognition and Machine Learning, Springer-Verlag (2006).
+Reference Books:
+Machine learning: a probabilistic perspective by Kevin Murphy
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998).
+Mitchell Tom, Machine Learning. McGraw Hill, 1997.
+Ethem Alpaydin, Introduction to Machine Learning, PHI
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998). | Reference Books: Course Code | - | Course Title | Fundamentals of Communication & Signal Processing | Fundamentals of Communication & Signal Processing | Fundamentals of Communication & Signal Processing | Fundamentals of Communication & Signal Processing
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998). | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998). | Reference Books: Category | - | Credit Assigned: | 3 | 0 | 0 | 3
+Patterson D.W, Introduction to AI and Expert Systems, Mc GrawHill (1998). | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Knowledge: Demonstrate understanding of the fundamental concepts and principles of communication systems and signal processing, including types of signals, modulation techniques, and signal processing techniques.
+Application: Apply signal processing techniques to analyze and interpret different types of signals in both time and frequency domains, and design appropriate signal processing algorithms for noise reduction, filtering, and spectral analysis.
+Analysis: Analyze and evaluate the performance of communication systems, including information theory concepts such as entropy, channel capacity, and error correction coding, and make informed decisions on system design and optimization.
+Synthesis: Synthesize knowledge and skills from various areas of communication and signal processing to develop innovative solutions for real-world communication problems, such as channel coding, modulation schemes, and multiple access techniques.
+Evaluation: Evaluate the impact of different communication channel models and their effect on system performance, and critically assess the advantages and limitations of various communication and signal processing techniques for different applications and scenarios.
+Course Content:
+Module 1: CONTINUOUS-TIME, AND DISCRETE-TIME SIGNALS AND SYSTEMS
+Signals, Signal Energy and Power, Transformations of the Independent Variable, Periodic Signals, Even and Odd Signals, Exponential and Sinusoidal Signals, Complex Exponential and Sinusoidal Signals, Unit Impulse and Unit Step Functions, Systems and Properties . LTI Systems: The Convolution Integral/ Sum, The Unit Impulse, The Representation of Signals in Terms of Impulses, The Unit Impulse Response, Representation of LTI Systems, Properties of LTI Systems.
+Module 2: CONTINUOUS AND DISCRETE-TIME FOURIER SERIES AND FOURIER TRANSFORM
+The Response of LTI Systems to Complex Exponentials, Fourier Series Representation, Linear Combinations of Harmonically Related Complex Exponentials, Determination of the Fourier Series Representation, Convergence of the Fourier Series, Properties, Parseval's Relation. Representation of Aperiodic Signals: Fourier Transform, Convergence of Fourier Transforms, Properties.
+Module 3: SAMPLING
+Introduction, Representation of a Continuous-Time Signal by Its Samples: The Sampling Theorem, Impulse-Train Sampling, Reconstruction of a Signal from Its Samples Using Interpolation, The Effect of Undersampling: Aliasing, Discrete-Time Processing of Continuous-Time Signals, Sampling of Discrete-Time Signals, Impulse-Train Sampling, Discrete-Time Decimation, and Interpolation. Analog-to-Digital and Digital-to-Analog Conversion Sampling theorem and Nyquist rate Quantization and quantization noise Pulse Code Modulation (PCM) and Delta Modulation (DM) Digital-to-Analog Conversion (DAC) techniques Analog-to-Digital Conversion (ADC) techniques
+Module 4: Introduction to Communication Systems Overview of communication systems Analog and digital communication Communication channels and noise Modulation techniques (AM, FM, PM) Demodulation techniques. Analog Communication Systems Amplitude Modulation (AM) and its properties Frequency Modulation (FM) and its properties Phase Modulation (PM) and its properties Comparison of AM, FM, and PM Analog communication system design and Modulation index performance. Digital Communication Systems Pulse Amplitude Modulation (PAM) and its properties Pulse Code Modulation (PCM) and its properties Digital Modulation techniques (PSK, QPSK, FSK, QAM) Error detection and correction techniques (parity, CRC, Hamming code) Digital communication system design and performance
+Module 5: Channel Coding and Error Control Channel capacity and information theory Shannon's theorem and channel coding theorem Block codes, convolutional codes, and turbo codes Error control techniques (ARQ, FEC, interleaving) Performance analysis of channel coding and error control schemes Unit 6: Noise and Interference in Communication Types of noise in communication systems Signal-to-Noise Ratio (SNR) and Bit Error Rate (BER) Effect of noise on communication system performance Interference and its impact on communication systems Techniques for noise and interference mitigation.
+Text Books:
+A.V. Oppenheim, A.S. Wilsky and H. Nawab S, 'Signals & Systems', Prentice-Hall, 2005.
+Lathi, B. P., and R. A. Green. Linear Systems and Signals. 2018.
+"Modern Digital and Analog Communication Systems" by B.P. Lathi and Zhi Ding
+Ashok Ambardar, 'Introduction to Analog and Digital Signal Processing', PWS Publishing Newyork, 2002.
+Reference Books:
+S. Haykin and Barry Van Veen, 'Signals & Systems', John Wiley and Sons Inc., New Delhi, 2008.
+"Principles of Communication Systems" by Herbert Taub, Donald L. Schilling, and Goutam Saha
+"Digital Communications: Fundamentals and Applications" by Bernard Sklar
+"Communication Systems Engineering" by John G. Proakis and Masoud Salehi
+"Introduction to Digital Communications" by Michael B. Pursley
+to Digital by Michael B. Pursley | Reference Books: Course Code | - | Course Title | Deep Learning Techniques | Deep Learning Techniques | Deep Learning Techniques | Deep Learning Techniques
+to Digital by Michael B. Pursley | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+to Digital by Michael B. Pursley | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+to Digital by Michael B. Pursley | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+You will be proficient in Basic concepts of artificial intelligence
+Have an Understanding of neural networks, perceptrons, MLN and their applications
+Gain Knowledge of deep neural networks and their implementations.
+Course Content:
+Module 1:
+Neural network working, Backpropagation and Gradient Descent algorithms. Introduction to deep neural network, Role of vectorization in various operations in deep learning. Comparisons of shallow and deeper networks.
+Module 2:
+Hyperparameter and its tuning in converging deep networks. Gradient descent optimization algorithms and its importance such as Adam's algorithm and RMSProp. Introduction and importance of domain knowledge in deep learning.
+Module 3:
+Convolutional neural networks, its architecture, deep CNN, parameter sharing, and applications.
+Recurrent neural networks and its architectural variants such as LSTM, GRU. Architectural aspects and applications. Hybridization of deep models.
+Module 4:
+Popular and State-of-the-art Models- Working of RBM and Implementation, AlexNet, VGG16, Inception, Xception etc., Auto-encoders (AE), Variational AE, Generative Adversarial Networks
+Module 5 :
+Applications of deep learning models to computer vision, natural language processing, and wind estimation. Research direction in deep learning.
+Text Books:
+Ian Goodfellow and Yoshua Bengio and Aaron Courville, "Deep Learning", MIT Press, 2016.
+Reference Books:
+Dive into Deep Learning, Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
+François Chollet, Deep Learning with Python, Manning Publications, 2017.
+N. CRISTIANINI, J. S-TAYLOR (2000), An Introduction to Support Vector Machines and Other Kernel- based Learning Methods, Cambridge University Press, 1st Edition.
+B. SCHOLKOPF, A. J. SMOLA (2001), Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, The MIT Press, 2001, 1st Edition.
+B. SCHOLKOPF, A. J. SMOLA (2001), Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, The MIT Press, 2001, 1st Edition. | Reference Books: Course Code | - | Course Title | Data Visualization | Data Visualization | Data Visualization | Data Visualization
+B. SCHOLKOPF, A. J. SMOLA (2001), Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, The MIT Press, 2001, 1st Edition. | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+B. SCHOLKOPF, A. J. SMOLA (2001), Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, The MIT Press, 2001, 1st Edition. | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+B. SCHOLKOPF, A. J. SMOLA (2001), Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, The MIT Press, 2001, 1st Edition. | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Build insights from data using visual representations
+Implement analytical solutions using Visualization tools.
+Course Content:
+Module 1 : Introduction to Data Visualization
+What is Data Visualization? How to capitalize visual insights? Nomenclature in Data Visualization
+Module 2 : Data Analytics using Visual Representation
+Making the best out of data points, Constraints for Plots, How to create meaningful insights from visual representations
+Module 3 : Visualization tool Basics
+Introduction to PowerBI, Use cases and BI Tools, Data Warehousing, workflows and reports, Data Extraction, SaaS Connectors, Working with Databases and Programming languages, Power Query Editor, Advance Editor, Query Dependency Editor, Data Transformations, Shaping and Combining Data, M Query and Hierarchies
+Module 4 : DAX
+Data Modeling and DAX, Time Intelligence Functions, DAX Advanced Features
+Module 5 : Data Visualization with Analytics
+Slicers, filters, Drill Down Reports, Query, Q & A and Data Insights, Settings, Administration and Direct Connectivity, Embedded API and Mobile
+Text Books:
+Tufte,E., (2001), The Visual Display of Quantitative Information, 2nd Edition, Graphics Press
+Tufte,E., (1990), Envisioning Information, Graphics Press
+Reference Books:
+Microsoft Power BI Quick Start Guide: Build dashboards and visualizations to make your data come to life
+Course Code
+-
+Course Title
+Category
+-
+Credit Assigned:
+Data Transformation
+L
+T
+P
+C
+Prerequisite(if Any)
+-
+Type of Course
+2
+0
+2
+3
+MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+You will have an Understanding and knowledge of Database Management System and various characteristics of DBMS
+Understanding of Relational Models and Structured Query Language
+Writing sql queries for data transformation
+Course Content:
+Module 1 : Introduction to Querying Language and RDBMS
+Introduction to Structured Query Language, Various types of databases, Distinction between client server and file server databases, Understanding SQL Server Management Studio, SQL Table basics, Data types and functions, Transaction-SQL, Authentication for Windows, Data control language, Identification of the keywords in SQL
+Module 2 : Database normalization and entity-relationship model
+Entity-Relationship Model, Entity and Entity Set, Attributes and types of Attributes, Relationship Sets, Degree of Relationship, Mapping Cardinalities, One-to-One, One-to-Many, Many-to-one, Many-to- many, Symbols used in E-R Notation, Normalization and functional Dependencies: 1NF, 2NF, 3NF, Boyce Codd NF, 4NF and 5NF
+Module 3 : Operators for Querying Databases
+Introduction to relational databases, Fundamental concepts of relational rows, tables, and columns, Several operators (such as logical and relational), constraints, domains, indexes, stored procedures, primary, foreign and unique keys, Understanding group functions
+Module 4 : Querying Databases using Join, tables, and variables
+Advanced concepts of SQL tables, SQL functions, Operators & queries, Table creation, Data retrieval from tables, Combining rows from tables using inner, outer, cross, and self joins, Deploying operators such as intersect, except, union, Temporary table creation, Set operator rules, Table Variables, Understanding SQL functions, Scalar functions, Aggregate functions, Functions that can be used on different datasets, such as numbers, characters, strings, and dates, Inline SQL functions, General functions, Duplicate Functions, Understanding SQL subqueries and their rules, Statements and operators with which subqueries can be used, Using the set clause to modify subqueries, Understanding different types of subqueries, such as where, select, insert, update, delete, etc., Methods to create and view subqueries
+Module 5 : Advanced Queries for Large Databases
+Learning SQL views, Methods of creating, using, altering, renaming, dropping, and modifying views, Understanding stored procedures and their key benefits, Working with stored procedures, Studying user-defined functions, Error handling, User-defined functions and rank, Types of UDFs such as scalar, Inline table value, Multi-statement table, Stored procedures, Triggers, Records grouping, searching, sorting, modifying data, Clustered indexes creation, Use of indexes to cover queries, Common table expressions, Index guidelines, Python as front end, Large datasets, Querying using No-SQL
+Text Books:
+Fundamentals of Database Systems by R. Elmasri and S. B. Navathe
+Database Systems Design, Implementation, & Management by Carlos Coronel Steven Morris
+Database Management Systems by Raghu Ramakrishnan, Johannes Gehrke
+An Introduction to Database Systems By C. J. Date
+Reference Books:
+"Database Systems : A Practical Approach to Design, Implementation and Management" by CONNOLLY
+Systems : A Practical Approach to Design, Implementation and by CONNOLLY | Reference Books: Course Code | - | Course Title | Personality Development & Communication Skills | Personality Development & Communication Skills | Personality Development & Communication Skills | Personality Development & Communication Skills
+Systems : A Practical Approach to Design, Implementation and by CONNOLLY | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Systems : A Practical Approach to Design, Implementation and by CONNOLLY | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Systems : A Practical Approach to Design, Implementation and by CONNOLLY | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Content:
+Module 1 : Personal Skills
+Self-Assessment; Identifying Strength & Limitations, Habits, Will-Power and Drives, Developing Self-Esteem and Building Self-Confidence, Significance of Self-Discipline, Understanding Perceptions, Attitudes, and Personality Types Mind-Set: Growth and Fixed; Values and Beliefs, Motivation and Achieving Excellence; SelfActualisation Need, Goal Setting, Life and Career Planning; Constructive Thinking
+Module 2: Conflict Resolution Skills
+Interpersonal Conflicts, Types Of Conflicts: Becoming A Conflict Resolution Expert, Types Of Stress: SelfAwareness About Stress, Regulating Stress: Making The Best Out Of Stress
+Module 3 : Habits Guiding Principles
+Habits: Identifying Good And Bad Habits , Habits: Habit Cycle, Breaking Bad Habits, Using The Zeigarnik Effect For Productivity And Personal Growth, Forming Habits Of Success
+Module 4 : Professional skills
+Organizational skills- teamwork- business and technical correspondence- job oriented skills-professional etiquettes.
+Module 5 : Management Skills
+Managing Time and Beating Procrastination, Managing People: Leading and Working with Team (Coordination and Cooperation); Developing Accountability, Commitment and Responsibility; Behaving Conscientiously, Managing Stress and Maintaining Positive Outlook, Managing Health, Boosting Memory, Enhancing Study Skills, Managing Money and Love; Balancing Personal and Professional Life
+Text Books:
+Dorch, Patricia. What Are Soft Skills? New York: Execu Dress Publisher, 2013.
+Reference Books:
+Klaus, Peggy, Jane Rohman & Molly Hamaker. The Hard Truth about Soft Skills. London: HarperCollins E-books, 2007.
+Kamin, Maxine. Soft Skills Revolution: A Guide for Connecting with Compassion for Trainers, Teams, and Leaders. Washington, DC: Pfeiffer & Company, 2013.
+Stein, Steven J. & Howard E. Book. The EQ Edge: Emotional Intelligence and Your Success. Canada: Wiley & Sons, 2006.
+Electives
+Stein, Steven J. & Howard E. Book. | Electives: Course Code | - | Course Title | Natural Language Processing
+Stein, Steven J. & Howard E. Book. | Electives: Category..: Prerequisite(if Any) — -.: -; Credit Assigned:..: Type of Course; L.2: MS Applied AI and Communications; T.0: MS Applied AI and Communications; P.2: MS Applied AI and Communications; C.3: MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Formulate natural language understanding tasks
+Design and implement basic applications of Natural Language Understanding
+Course Content:
+Module 1 : Natural Language Understanding
+Introduction to natural language understanding, Inception, applications, challenges and best practices
+Module 2 : Text Mining, Cleaning, and Pre-processing
+Various Tokenizers, Tokenization, Frequency Distribution, Stemming, POS Tagging, Lemmatization, Bigrams,
+Trigrams & Ngrams, Lemmatization, Entity Recognition
+Module 3 : Text classification, sentiment analysis
+Overview of Machine Learning, Words, Term Frequency, Countvectorizer, Inverse Document Frequency, Text conversion, Confusion Matrix, Naive Bayes Classifier
+Module 4 : Sentence Structure, Sequence Tagging, Sequence Tasks, and Language Modeling
+Language Modeling, Sequence Tagging, Sequence Tasks, Predicting Sequence of Tags, Syntax Trees, Context-
+Free Grammars, Chunking, Automatic Paraphrasing of Texts, Chinking
+Module 5 : AI Chatbots and Recommendation Engine
+Using the NLP concepts, build a recommendation engine and an AI chatbot assistant using AI
+Text Books:
+Speech and Language Processing, Daniel Jurafsky, James H.Martin,
+E. BENDER (2013), Linguistic Fundamentals for NLP, Morgan Claypool Publishers..
+J. ALLEN (1995), Natural Language Understanding, Pearson Education, 1995.
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017)
+Reference Books:
+Introduction to Natural Language Processing, Jacob Eisenstein
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017) | Reference Books: Course Code | - | Course Title | Big Data Analytics | Big Data Analytics | Big Data Analytics | Big Data Analytics
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017) | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017) | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Yoav Goldberg Neural Network Methods for Natural Language Processing, Morgan and Claypool (2017) | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Gain expertise in Big Data Engineering with concepts like big data frameworks, RDDs, and many more.
+Course Content:
+Module 1 : Working with Big Data Tools and technology
+Dimensions of Big Data, Different data types, HDFS, MapReduce Brief and Architecture, Working with Apache Spark
+Module 2 : Hadoop Framework
+Hadoop Framework (Installation single/multi-node), Data format and movement, Map-Reduce for Hadoop Applications
+Module 3 : Introduction to Spark
+Introduction to Spark, Spark overcomes the drawbacks of working on MapReduce, Understanding in-memory MapReduce, Interactive operations on MapReduce, Spark stack, fine vs. coarse-grained update, Spark Hadoop YARN, overview of Spark and how it is better than Hadoop, Deploying Spark without Hadoop, Spark history server and Cloudera distribution
+Module 4 : Spark Basics and Working with RDDs in Spark
+Spark installation guide, Spark configuration, Memory management, Executor memory vs. driver memory, Working with Spark Shell, resilient distributed datasets (RDD), Learning to do functional programming in Spark, architecture of Spark, Spark RDD, Creating RDDs, RDD partitioning, Operations and transformation, Deep dive into Spark RDDs, RDD general operations, Read-only partitioned collection of records, Using the concept of RDD for faster and efficient data processing, RDD action for the collect, count, collects map, save-astext-files, and pair RDD functions
+Module 5 : Advanced Spark and RDD Operations
+Aggregating Data with Pair RDDs, Writing and Deploying Spark Applications, Parallel Processing, Spark RDD Persistence, Spark Mllib, Integrating Apache Flume and Apache Kafka, Spark Streaming, Spark SQL and Data Frames
+Text Books:
+Donald Miner and Adam Shook: MapReduce Design Patterns, O'Reilly Media
+Tom White: Hadoop Definitive Guide, O'Reilly Media
+Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia: Learning Spark: Lightning-Fast Big Data Analysis
+Reference Books:
+Big Data & Hadoop, V.K. Jain, Khanna Publishing House
+Big Data Black Book, DT Editorial Services, Wiley India
+Big Data Black Book, DT Editorial Services, Wiley India | Reference Books: Course Code | - | Course Title | Deployment of ML Models | Deployment of ML Models | Deployment of ML Models | Deployment of ML Models
+Big Data Black Book, DT Editorial Services, Wiley India | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Big Data Black Book, DT Editorial Services, Wiley India | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Big Data Black Book, DT Editorial Services, Wiley India | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Design ML Systems to solve practical problems.
+Know how ML system works in production and insights about challenges
+Identify systems faults and apply strategies to identify root causes in ML systems.
+Pick up the right framework and compute infrastructure and trade-off space.
+Troubleshoot training and ensuring the reproducibility of results.
+Course Content:
+Module 1 : Introduction to MLOps
+What is MLOps, how and why we use MLOps, MLOps challenges, advantages, applications
+Module 2 : MLOps Workflow Management
+Introduction to MLOps workflow management, Phases in the analysis life cycle, Evaluation, testing
+Module 3 : MLOps Data Lifecycle
+MLOps Lifecycle, Components of MLOps life cycle, Challenges, Advantages and best practices
+Module 4 : Modeling Pipelines for Scale
+Model Resource Management Techniques, High-Performance Modeling, Model Analysis, Interpretability
+Module 5 : Deploying Machine Learning Models in Production
+Introduction to Machine Learning using Cloud, Deploying Machine Learning Models using Cloud Computing
+Text Books:
+'Machine Learning Engineering' by Andriy Burkov, 2020
+"ML Ops: Operationalizing Data Science" by David Sweenor, Steven Hillion, Dan Rope, Dev Kannabiran, Thomas Hill, Michael O'Connell
+"Building Machine Learning Powered Applications" by Emmanuel Ameisen
+"Building Machine Learning Pipelines" by Hannes Hapke, Catherine Nelson, 2020, O'Reilly
+Reference Books:
+"Introducing MLOps" by Mark Treveil, et al. O'Reilly Media, Inc. 2020
+"Machine Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald`a,icard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018
+Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald`a,icard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018 | Reference Books: Course Code | - | Course Title | Data Structures
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Practice advanced algorithms and programming techniques necessary for developing sophisticated computer application programs
+Get accustomed with various programming constructs such as divide-and-conquer, backtracking, and dynamic programming.
+Learn new techniques for solving specific problems more efficiently and for analyzing space and time requirements.
+Course Content:
+Module 1 : Data Structures Basics
+Review of order rotation & growth of functions, Recurrences, probability distributions, Complexity analysis of algorithms, Basic data structures such as stacks, queues, linked lists, and applications
+Module 2 : Hash Tables and Binary Trees
+Direct access tables and hash tables, hash functions and relates analysis, Binary Search trees and Operations, AVL Trees and balancing operations, R B Trees, properties, operations
+Module 3 : Advanced Trees Operations
+B - Trees - definition - properties, operations, data structures for disjoint sets, Graph algorithms, MST single source all pair shortest paths, BFS, DFS, topological sort, strongly connected components
+Module 4 : Advanced Searching And Sorting
+Quicksort randomized version, searching in linear time, More graph algorithms - maximal independent sets, coloring vertex cover, Introduction to perfect graphs.
+Module 5 : Advanced Algorithms
+KMP Algorithm, Johnson's Algorithm, Rabin Karp algorithm, etc.
+Text Books:
+Kruse, Tondo, Leung, Mogalla, Data Structures and Program Design in C, Pearson
+T. H. Cormen, C. E. Leiserson, R. L. Rivest, Introduction to Algorithms, Prentice hall.
+E. Horowitz, S. Sahni, S. Rajasekaran, Fundamentals of Computer Algorithms, University Press, Second Edition
+Reference Books:
+'Introduction to Algorithms' by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+H. S. Wilf, Algorithms and complexity, Prentice hall.
+H. S. Wilf, Algorithms and complexity, Prentice hall. | Reference Books: Course Code | - | Course Title | Next-Gen Communication | Next-Gen Communication | Next-Gen Communication | Next-Gen Communication
+H. S. Wilf, Algorithms and complexity, Prentice hall. | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+H. S. Wilf, Algorithms and complexity, Prentice hall. | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+H. S. Wilf, Algorithms and complexity, Prentice hall. | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Knowledge: Demonstrate understanding of the latest advancements and trends in next-generation communication technologies, including concepts such as 5G, Internet of Things (IoT), edge computing, and artificial intelligence (AI) in communication systems.
+Application: Apply knowledge of next-generation communication technologies to design and implement communication systems that leverage 5G, IoT, edge computing, and AI, and analyze their performance in real-world scenarios.
+Analysis: Analyze the advantages, limitations, and challenges of next-generation communication technologies, including their impact on communication infrastructure, network architecture, security,
+and privacy, and propose solutions to overcome these challenges.
+Synthesis: Synthesize knowledge and skills from various areas of next-generation communication, including wireless communication, network architecture, data analytics, and AI, to develop innovative communication solutions for emerging applications and use cases.
+Evaluation: Evaluate the social, economic, and ethical implications of next-generation communication technologies, including their potential benefits and risks in areas such as healthcare, smart cities, transportation, and industry, and make informed decisions on their adoption and deployment.
+Course Content:
+Module 1: Introduction to Next-Gen Communication
+Overview of next-generation communication systems Evolution of communication technologies Key drivers and challenges in next-gen communication Applications and use cases of next-gen communication Future trends and expectations in next-gen communication
+Module 2 : 5G and Beyond
+Introduction to 5G and its key features 5G architecture and network components 5G radio access technologies (NR, mmWave, Massive MIMO) 5G core network and services (SDN, NFV, network slicing) 5G deployment scenarios and use cases (eMBB, URLLC, mMTC) Emerging technologies for beyond 5G (6G, terahertz communication, quantum communication)
+Module 3: Internet of Things (IoT) Communication
+Introduction to IoT and its communication requirements IoT communication protocols (LPWAN, Zigbee, LoRaWAN, etc.) IoT communication architectures and network topologies IoT applications and use cases (smart cities, industrial IoT, healthcare, etc.) IoT security and privacy considerations Emerging trends in IoT communication (5G-IoT integration, edge computing, AIoT)
+Module 4: Cloud and Fog Computing in Communication
+Overview of cloud computing and its impact on communication Cloud-based communication services (VoIP, UCaaS, CCaaS, etc.) Cloud computing architectures and deployment models Fog computing and its role in communication Fog-based communication services and use cases Challenges and opportunities in cloud and fog computing for next-gen communication
+Module 5: Artificial Intelligence (AI) in Communication Introduction to AI and its applications in communication Machine learning and deep learning techniques for communication AI-driven communication network management and optimization AI-enabled communication services (speech recognition, natural language processing, etc.) AI for network security, resource allocation, and quality of service (QoS) Ethical, legal, and social implications of AI in communication
+Recommended Books:
+Text Books:
+"5G NR: The Next Generation Wireless Access Technology" by Erik Dahlman, Stefan Parkvall, and Johan Skold
+"Internet of Things: Principles and Paradigms" by Rajkumar Buyya, Amir Vahid Dastjerdi, and Siddhartha Misra
+"Cloud Computing: Concepts, Technology & Architecture" by Thomas Erl, Ricardo Puttini, and Zaigham Mahmood
+"Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig "Quantum Communication, Computing, and Measurement" by Prem Kumar, Gerd Leuchs, and Thomas Scheidler
+Reference Books:
+Intelligence: A Modern by Stuart Russell and Peter Norvig Communication, Computing, and by Prem Kumar, Gerd Leuchs, and Thomas Scheidler | Reference Books: Course Code | - | Course Title | Internet of Things and Embedded Systems | Internet of Things and Embedded Systems | Internet of Things and Embedded Systems | Internet of Things and Embedded Systems
+Intelligence: A Modern by Stuart Russell and Peter Norvig Communication, Computing, and by Prem Kumar, Gerd Leuchs, and Thomas Scheidler | Reference Books: Category | - | Credit Assigned: | L | T | P | C
+Intelligence: A Modern by Stuart Russell and Peter Norvig Communication, Computing, and by Prem Kumar, Gerd Leuchs, and Thomas Scheidler | Reference Books: Category | - | Credit Assigned: | 2 | 0 | 2 | 3
+Intelligence: A Modern by Stuart Russell and Peter Norvig Communication, Computing, and by Prem Kumar, Gerd Leuchs, and Thomas Scheidler | Reference Books: Prerequisite(if Any) | - | Type of Course | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications | MS Applied AI and Communications
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Define and explain various fundamentals of the Internet of Things
+Learn various fundamentals of embedded C and Micropython programming
+Examine the evolution of embedded systems, interfacing
+Learn various wireless and low-energy protocols
+Create, interface, and develop an application programming frameworrk for cloud connectivity.
+Course Content:
+Module 1: Getting Started with Fundamentals of Programming using C, Micropython :: Introduction of IoT boards and platforms, Installing IoT integrated development environment. Overview, essentials, and GPIO configurations of IoT platforms. Hands-on IDE, exploring the IoT board GPIOs: Digital Inputs and Outputs, Touch Sensor, Pulse-Width Modulation (PWM), Reading Analog Inputs. Concepts of serial communication, monitoring, plotting, and debugging.
+Module 2: Sensor Operation and Interfacing: Interfacing of various sensors like Hall Effect Sensor, Motion Sensor, pressure, temperature, humidity sensor, etc. used in various engineering applications.
+Module 3: Interrupts and Timers, Flash Memory, Web Servers: Store Permanent Data (Write and Read), Deep Sleep Mode: Timer, Touch, External Wake Up. Control Outputs: HTML and CSS Basics, Password Protection, Display Sensor Readings, Remote controlling of devices.
+Module 4: BLE and Wi-Fi, Cloud-based IoT platform: Bluetooth Low Energy: Introduction, Notify and Scan, Server and Client. Wi-Fi: Access Point, Station modes. Integration of IoT boards with cloud services and their operations.
+Module 5: Design and Applications of IoT systems: Design of various industrial, home, medical, agricultural, smart city, automation, wearable, consumer, and transportation applications of IoT.
+Text Books:
+Rui Santos, Learn ESP32 with Arduino IDE, (2nd Edition)
+Tim Cox, Getting Started with Python for the Internet of Things, Packt
+Reference Books:
+Tim Cox, Getting Started with Python for the Internet of Things, Packt | Reference Books: Course Code | - | Course Title | Communication Networks for IoT
+Course Outcomes:
+On successful completion of the course, students shall be able to:
+Distinguish between various network topologies and types of switching
+Examine various medium access protocols and network hardware components
+Differentiate various types of networking devices
+Know the fundamental concepts of IP and routing protocols
+Integrate and create the building blocks of XoIP
+Course Content:
+Module 1: Basics of Network and its types : Topologies, Evolution of Networks and Ethernet, Introduction to packet-switched networks, Internet, and LANs. Servers, Clients, Ports and Protocols.
+Module 2: The TCP/IP, UDP model : Bits, Frames, Packets, Segments, HTTP captures, Port Numbers
+Module 3: Fundamentals of IP addressing: Characteristics and IPv4 Address Format, Classless/ Classful addressing, subnetting, CIDR notations
+Module 4: Networking Devices and data flow, IP Routing : Repeaters, Hubs, Switches and Routers, Firewalls, IDS, IPS and WLC. Routing and Forwarding, General Routing Protocols, Routing for Adhoc Wireless Network, Static, Dynamic, DHCP
+Module 5: XoIP protocols: signaling protocols H.323 protocols, Session Initiation Protocol (SIP). Media Transport protocols, RTP, RTCP, RTSP, QoS. Addressing, Routing, Troubleshooting
+Text Books:
+Behrouz A. Forouzan, Data Communications and Networking, (5th Edition), McGraw Hill
+Reference Books:

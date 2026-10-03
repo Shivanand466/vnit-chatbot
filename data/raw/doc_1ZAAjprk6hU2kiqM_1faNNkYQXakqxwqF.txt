@@ -1,0 +1,30 @@
+SOURCE_URL: https://drive.google.com/file/d/1ZAAjprk6hU2kiqM_1faNNkYQXakqxwqF/view
+TITLE: Physics
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Physics (dated 2026-05-22)
+I Semester
+I Semester: Code: PHL511 — Course Title / Name: CLASSICAL MECHANICS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 25
+I Semester: Code: PHL512 — Course Title / Name: ELECTRONICS-I; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 25
+I Semester: Code: HUL505 — Course Title / Name: COMMUNICATION SKILLS; Type: AU; Credit: 0; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 25
+I Semester: Code: PHP515 — Course Title / Name: GENERALPHYSICS LAB; Type: DC; Credit: 2; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: 25
+I Semester: Code: PHL513 — Course Title / Name: MATHEMATICAL PHYSICS; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 25
+I Semester: Code: CSL501 — Course Title / Name: COMPUTER PROGRAMMING; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: 25
+I Semester: Code: CSP501 — Course Title / Name: COMPUTER PROGRAMMING; Type: DC; Credit: 1; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: 25
+I Semester: Code: PHL514 — Course Title / Name: COMPUTATIONAL PHYSICS; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 25
+I Semester: Course Title / Name: Total Credits (DC ) — Type: 0; Credit: 19
+IIISemester
+IIISemester: Code: PHL532 — Course Title / Name: ATOMIC AND MOLECULAR PHYSICS; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: PHL533 — Course Title / Name: MATERIAL SCIENCE; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: PHP533 — Course Title / Name: MATERIAL SCIENCE; Type: DC; Credit: 2; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: PHD501 — Course Title / Name: PROJECT PHASE-I; Type: DC; Credit: 2; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: PHL515 — Course Title / Name: PHYSICS OF NANOMATERIALS AND NANOPHOTONICS; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: Elective — Course Title / Name: Elective; Type: 0; Credit: 0
+IIISemester: Code: PHL536 — Course Title / Name: (Any Two) CHARACTERISATION OF MATERIALS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: PHP536 — Course Title / Name: CHARACTERISATION OF MATERIALS; Type: DE; Credit: 2; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: PHL538 — Course Title / Name: ELECTRONIC STRUCTURE OF MATERIALS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: PHP538 — Course Title / Name: ELECTRONIC STRUCTURE OF MATERIALS; Type: DE; Credit: 2; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 25
+IIISemester: Code: Total Credits — Course Title / Name: (DC + DE); Type: 0; Credit: 18
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026) M.Sc. In Physics

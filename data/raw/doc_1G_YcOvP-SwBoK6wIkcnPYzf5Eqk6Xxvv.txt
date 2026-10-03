@@ -1,0 +1,62 @@
+SOURCE_URL: https://drive.google.com/file/d/1G_YcOvP-SwBoK6wIkcnPYzf5Eqk6Xxvv/view
+TITLE: Web, App and Game Development club
+FETCHED: 2025-02-20
+FOUND_ON: http://vnit.ac.in/student-activity-clubs-vnit
+---
+Document: Web, App and Game Development club (dated 2025-02-20)
+Web Game and App development Club
+Website - idsvnit.in
+Student Activities and Achievements
+Workshops & Events
+This year, the Web Game and App development Club has been highly active in raising awareness and enhancing students' skills in various areas of development. We have encouraged students to tackle challenging concepts and effectively simplify them through practical means.
+1. Reboot.Dev 2.0
+Date : 7th May 2024 - 2 Aug 2024
+Topics : Introduction To Javascript , Advanced Javascript , Advanced App development
+Target Audience : 1st Years
+Overview : Over a span of three months, I successfully conducted the Reboot.dev 2.0 workshop, guiding students through an intensive learning journey focused on Data Structures and Algorithms (DSA), app development, and web development. The workshop featured a series of tasks and assignments, designed not only to enhance technical skills but also to serve as a crucial part of the club selection process.
+Output : As a result of the Reboot.dev 2.0 workshop, students gained practical knowledge in DSA, app development, and web development. The rigorous tasks and assignments helped students strengthen their problem-solving and development skills. Additionally, the evaluation process played a key role in selecting qualified individuals for the club, ensuring that only dedicated and skilled members progressed
+2. Tech in Modern World
+Date : 20th October 2024
+-
+Target Audience: Everyone
+Topics Covered: Google summer of Code , On campus Placement and Internships . It aimed to provide valuable insights into critical career pathways in the tech industry. The session was open to all, catering to students and aspiring professionals looking to enhance their understanding of opportunities like Google Summer of Code (GSoC), on-campus placements, and internships.
+- Outcome : The event successfully provided attendees with valuable insights into Google Summer of Code , on-campus placement processes , and internship opportunities . Participants gained a clear understanding of the application processes, preparation strategies, and real-world experiences. The session empowered students to plan their career paths more effectively, boosting their confidence in pursuing competitive programs and securing placements.
+3. Weekly DSA Contest
+Date : 21 September 2024 - 1st Dec 2024
+Target Audience: 2nd and 3rd year students .
+Objective: The primary goal of the contests was to provide students with regular practice, enabling them to improve their problem-solving abilities, logical thinking, and coding efficiency. These skills are directly linked to success in technical interviews and coding assessments during recruitment processes.
+Outcome : The weekly DSA contests proved to be an effective platform for students to enhance their CP skills. The positive impact was evident in their improved performance in coding assessments and interviews, demonstrating the contests' crucial role in their career development journey.
+4. Introduction to HTML, JavaScript, and App Development
+Date: 1st and 2nd February - Target Audience: First-Year Students - Introduction: A two-day workshop was organized exclusively for first-year students on the 1st and 2nd of February. The primary aim of the workshop was to introduce students to the fundamentals of web development and app development at a beginner-friendly pace. The workshop provided a structured learning environment, helping students gradually understand core concepts such as HTML, JavaScript, and the basics of app development. - Outcome : The two-day workshop successfully introduced first-year students to the world of web and
+app development. The positive response and enthusiasm shown by the participants reflected the effectiveness of the workshop in laying a strong foundation for their technical journey.
+Development for College
+1. Telephone Directory App
+Overview : Our team developed the VNIT Telephone Directory app to modernize and simplify the way faculty and staff access contact information across the institute. Previously, searching through a 400-page physical directory was a time-consuming and frustrating process for deans, professors, and staff members. Finding someone's contact details meant flipping through numerous pages, and the printed information would often become outdated quickly.
+Features : The digital directory transforms this experience by providing instant access to all contact information through an intuitive, searchable interface. Users can now quickly find contacts by name, department, or position, with additional features like direct call/email integration and categorized sections for different departments and administrative units. One particularly useful feature is the ability to find laboratory contact numbers, which was especially difficult in the paper directory.
+Outcomes : The app has significantly improved efficiency by reducing search time from minutes to seconds. The ability to update contact information in
+real-time ensures that faculty and staff always have access to the most current information, unlike the static printed directory. The categorized structure and global search feature have made it especially valuable for new faculty members and staff who may not be familiar with the institutional structure.
+2. CRC Manager App
+14:18
+CRC Manager_
+Overview : Our team developed the CRC Manager app to streamline the classroom booking process for college deans and professors at VNIT. Previously, professors had to go through a cumbersome manual process to reserve CRC classrooms, which involved paperwork, multiple approvals, and physical key management. This system was time-consuming and prone to scheduling conflicts.
+Features : The CRC Manager app transforms this experience with its intuitive digital solution. Professors can now easily view classroom availability, make booking requests, and manage their reservations through a secure role-based access system. The innovative OTP-based key handover system ensures secure access control, while the guard interface simplifies key management and tracking
+Outcomes : Since implementing the app, we've seen significant improvements in booking efficiency, reduced administrative burden, and better resource utilization. The calendar view and real-time status updates have particularly helped eliminate double bookings and streamlined the entire process from reservation to key return.
+Students Achievements
+1. Exceptional Placement & Internship Success
+The Web App and Game Development Club has demonstrated outstanding placement success, with all final and pre-final year members securing positions at industry-leading organizations:
+Tech Giants : Multiple students placed at Google, demonstrating our club's technical excellence
+Financial Sector Leaders : Strong representation at prestigious firms including:Goldman Sach , CITI Bank , ICICI Bank , NatWest
+Consulting Excellence : ZS Associates selected multiple students, recognizing their analytical capabilities
+2. Technical Achievement Milestones
+a. Google Summer of Code (GSoC) 2024
+Making history for VNIT, two club members have been selected for Google Summer of Code:
+First-ever selections from VNIT for this prestigious global program
+Recognition of students' exceptional coding and open-source contribution capabilities
+b. Hackathon Champions
+Showcasing outstanding innovation and problem-solving skills:
+● Hacker House Goa :
+First prize in the Blockchain-level hackathon
+Developed innovative solutions for real-world problems
+NIT Kurukshetra Hackathon :
+Secured among top positions in 500+ participating teams
+Project focused on sustainable technology solutions

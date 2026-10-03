@@ -1,0 +1,97 @@
+SOURCE_URL: https://drive.google.com/file/d/1hB85pVBt7rfoBZBJgIsM39u96FLe2PqX/view
+TITLE: Electrical Engineering
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Electrical Engineering (dated 2026-05-22)
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+B. Tech. in Electrical & Electronics Engineering
+B. Tech. in Electrical & Electronics Engineering: Code: EELA201 — Course Title / Name: NETWORK THEORY; Type: DC; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: EEPA201 — Course Title / Name: NETWORK THEORY; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: EELA202 — Course Title / Name: SIGNALS AND SYSTEMS; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: EELA203 — Course Title / Name: ELECTRICAL MACHINES - I; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: EEPA203 — Course Title / Name: ELECTRICAL MACHINES - I; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: EELA204 — Course Title / Name: ELEMENTS OF ELECTROMAGNETIC; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: ECLA204 — Course Title / Name: ELECTRONIC DEVICES AND CIRCUITS (EDC); Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: ECPA204 — Course Title / Name: ELECTRONIC DEVICES AND CIRCUIT; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: EELA205 — Course Title / Name: ELECTRICAL POWER SYSTEMS -I; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Code: Department Elective — Course Title / Name: Department Elective; Type: Department Elective; Credit: Department Elective; Exam Slot: Department Elective; Offered (YES / NO): Department Elective; Max No. of Students: Department Elective
+B. Tech. in Electrical & Electronics Engineering: Code: EEDA201 — Course Title / Name: SUMMER INTERNSHIP OF SIX WEEKS; Type: DE; Credit: 1; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+B. Tech. in Electrical & Electronics Engineering: Course Title / Name: IE — Type: IE; Credit: 3; Offered (YES / NO): Offered
+B. Tech. in Electrical & Electronics Engineering: Code: Total Credits (DC — Course Title / Name: + IE/DE/OC/HM); Type: Total Credits (DC; Credit: 26
+V Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEL302 — Course Title / Name: ELECTRICAL MACHINES II; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEL325 — Course Title / Name: ELECTRICAL POWER SYSTEM-II; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEL226 — Course Title / Name: POWER ELECTRONICS; Type: DC; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEL305 — Course Title / Name: CONTROL SYSTEM - I; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEL307 — Course Title / Name: ELECTRICAL MACHINE DESIGN; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEP226 — Course Title / Name: POWER ELECTRONICS; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEP302 — Course Title / Name: ELECTRICAL MACHINE II; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEP305 — Course Title / Name: CONTROL SYSTEM - I; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: Elective Courses (Any one) — Course Title / Name: Elective Courses (Any one); Type: Elective Courses (Any one); Credit: Elective Courses (Any one); Exam Slot: Elective Courses (Any one); Offered (YES / NO): Elective Courses (Any one); Max No. of Students: Elective Courses (Any one)
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEL327 — Course Title / Name: ELECTRICAL POWER DISTRIBUTION SYSTEM; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 45
+List of courses to be offered for 2026-27 (Winter 2026): Code: EEL328 — Course Title / Name: OPTIMIZATION TECHNIQUES; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 45
+List of courses to be offered for 2026-27 (Winter 2026): Code: PHL202 — Course Title / Name: INTRODUCTION TO MATERIAL SCIENCE; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 45
+List of courses to be offered for 2026-27 (Winter 2026): Code: OC — Course Title / Name: / HM; Type: OC; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026): Code: Total Credits — Course Title / Name: (DC + DE); Type: Total Credits; Credit: 23
+VII Semester
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL402 — Course Title / Name: HIGH VOLTAGE ENGINEERING; Type: DC; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEP402 — Course Title / Name: HIGH VOLTAGE ENGINEERING; Type: DC; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EED401 — Course Title / Name: PROJECT PHASE I; Type: DC; Credit: 3; Exam Slot: -; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: Elective — Course Title / Name: Elective
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL408 — Course Title / Name: Courses (Any five) ADVANCED POWER ELECTRONICS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: 90
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL409 — Course Title / Name: HVDC; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: 90
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL428 — Course Title / Name: INTRODUCTION TO ELECTRIC VEHICLES; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: 90
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL421 — Course Title / Name: POWER QUALITY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: 90
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL415 — Course Title / Name: NONLINEAR DYNAMIC SYSTEMS; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: 90
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL412 — Course Title / Name: DSP APPLICATION TO POWER SYSTEM; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL435 — Course Title / Name: SPECIAL ELECTRICAL MACHINES; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: 90
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: EEL436 — Course Title / Name: INTRODUCTION TO ROBOTICS; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: 90
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Course Title / Name: OC / HM — Type: DE; Credit: 3
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 17
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (POWER AND ENERGY SYSTEM)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL501 — Course Title / Name: POWER SYSTEM ANALYSIS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL502 — Course Title / Name: POWER SYSTEM DYNAMICS-I; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL504 — Course Title / Name: DIGITAL PROTECTION OF POWER SYSTEM; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEP501 — Course Title / Name: POWER SYSTEM ANALYSIS; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEP504 — Course Title / Name: DIGITAL PROTECTION OF POWER SYSTEM; Type: DC; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL409 — Course Title / Name: Elective Courses HVDC; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL516 — Course Title / Name: ADVANCED CONTROL THEORY; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL522 — Course Title / Name: POWER ELECTRONICS CONVERTERS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEP522 — Course Title / Name: POWER ELECTRONICS CONVERTERS; Type: DE; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL518 — Course Title / Name: ELECTRICAL DRIVES - I; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: EEP518 — Course Title / Name: ELECTRICAL DRIVES-I; Type: DE; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in (POWER AND ENERGY SYSTEM): Code: Total — Course Title / Name: Credits (DC + DE); Credit: 18
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: EED501 — Course Title / Name: PROJECT PHASE-I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: Total Credits (DC + DE) — Credit: 6
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in ( POWER ELECTRONICS AND DRIVES)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL518 — Course Title / Name: ELECTRICAL DRIVES - I; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL522 — Course Title / Name: POWER ELECTRONICS CONVERTERS; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL525 — Course Title / Name: PROCESSOR APPLICATION IN PE; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEP518 — Course Title / Name: ELECTRICAL DRIVES-I; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEP520 — Course Title / Name: POWER ELECTRONICS; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEP525 — Course Title / Name: PROCESSOR APPLICATION IN PE Courses (Any Two); Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: Elective — Course Title / Name: Elective
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL514 — Course Title / Name: PULSE WIDTH MODULATION TECHNIQUES FOR POWER CONVERTERS; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL516 — Course Title / Name: ADVANCED CONTROL THEORY; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL532 — Course Title / Name: ANALYSIS OF ELECTRICAL MACHINES; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL534 — Course Title / Name: MULTILEVEL INVERTER; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: Total — Course Title / Name: Credits (DC + DE); Credit: 18
+III Semester
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Code: EED501 — Course Title / Name: PROJECT PHASE-I; Type: DC; Credit: 6 -; Offered (YES / NO): Offered; Max No. of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | III Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 6

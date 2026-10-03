@@ -1,0 +1,17 @@
+SOURCE_URL: https://drive.google.com/file/d/1zisdSpxNRLV_Vi8eltVV4vw94UtF_cVM/view
+TITLE: Grievance Steps for TOP CLASS Students
+FETCHED: 2024-03-03
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Grievance Steps for TOP CLASS Students (dated 2024-03-03)
+Step -1:- Open URL of Grievance-
+URL :- https://tribal.nic.in/Grievance/
+Step -2:- Register Yourself with proper information [for new user only]
+Click 'Register Yourself'
+button to get registration. It will open Registration Form for Student.
+On Registration Form, Select 'Student' and 'Top Class' option and fill all required information.
+Note :- Your given email id is your USER ID for Login in Grievance.
+Step -3:- Login [for registered user only]
+Copyright © 2018 All rights reservod. Contont Managed by Ministry of Tribal Affairs, Last Updated on : 06/06/2019
+After successful registration, you can login with your given EMAIL ID and PASSWORD.
+Once you get login, you can send your Query/ Grievance and you will see the response of Query/ Grievance also after login.

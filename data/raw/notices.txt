@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/section/academics/notice/
 TITLE: Notice – VNIT Academic and Exam Section
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 General Notices
 Sem. Course Registration
@@ -12,10 +12,7 @@ General Notices
 W2026 Examination – Seating Arrangement for First Year B.Tech Students
 Student Module Link for First Year B.Tech Seating Arrangement
 :
-https://tinyurl.com/
-fystudentmodule
-or
-http://172.31.4.142:8501
+https://tinyurl.com/ fystudentmodule or http://172.31.4.142:8501
 All India Inter NIT Tournaments selection trials for all students
 Exam Schedule for First Year B.Tech and B.Arch. – MID SEM / END SEM / RE-WINTER 2026
 UG-PG Higher Semester Timetable (MID-SEM_END-SEM_RE-Winter26)
@@ -40,14 +37,10 @@ Google form link :
 https://docs.google.com/forms/d/1ShcdHYQsZdDDO-YoNxXcqT3Sc98DZVMmR9bzcx3ioiY/edit
 End-Term Examination (S2026) – Seating Arrangement for First Year B.Tech Students
 Student Module Link:
-https://tinyurl.com/
-fystudentmodule
-or
-http://172.31.4.142:8501
+https://tinyurl.com/ fystudentmodule or http://172.31.4.142:8501
 Extension of the Last Date for filling the Course Feedback
 Notice regarding transition of Course Feedback Submission Process from paper-based to electronic (online) mode
-Standard Operating Procedure for Student Course Feedback Module
-1st Year B. Tech / B. Arch – Revised Schedule for End Semester Examination (S-26) and Re-examination (RS-26)
+Standard Operating Procedure for Student Course Feedback Module 1st Year B. Tech / B. Arch – Revised Schedule for End Semester Examination (S-26) and Re-examination (RS-26)
 Revised Schedule of Examination for End Semester Examination (S-26) and Re-examination (RS-26) – Higher Semester
 Rescheduling of Mid Sem Examination from 03rd March 2026 to 04th March 2026
 Seating Plan and Seating Arrangement for the Second Semester B.Tech (All Branches), Mid-Sem Examination – Summer 2026
@@ -83,8 +76,7 @@ Notice Procedure for Creation of ABC-ID
 Notice & Procedure
 Google Form Link :
 https://forms.gle/F96kDnBRWhpcvY2FA
-National Ragging Prevention Programme
-test templates
+National Ragging Prevention Programme test templates
 Sem. Course Registration
 Click Here for Academic Information Management System (AIMS) LOGIN –
 Internally
@@ -100,11 +92,8 @@ Google Form Link
 https://forms.gle/
 ThZWYXKR5BtjYb8j8
 Important Note : Students with
-@
-students.vnit.ac.in
-–
-email id
-are only allowed to fill the Google Form.
+@ students.vnit.ac.in
+– email id are only allowed to fill the Google Form.
 New OC Course Offered in Winter 2026
 Provisional Allotment List of IDL201 – Survey Of Quantum Technologies
 Rejected List for IDL201
@@ -118,10 +107,8 @@ IDLA102 – Holistic Wellness with Ashtang Yog – Selected Students List
 Rejected list for IDLA101 & IDLA102
 Notice for New OC / IE Courses in Winter 2026
 Google Form Links :
-IDLA101 – Digital Wellness and Thought Lab –
-https://forms.gle/Vi5N6aJnJ2uR5GJd8
-IDLA102 – Holistic Wellness with Ashtang Yog –
-https://forms.gle/iXKFbeqA8sEj3G2s5
+IDLA101 – Digital Wellness and Thought Lab – https://forms.gle/Vi5N6aJnJ2uR5GJd8
+IDLA102 – Holistic Wellness with Ashtang Yog – https://forms.gle/iXKFbeqA8sEj3G2s5
 Ph D Winter 2026 Course Registration Schedule
 Registration Procedure & Instructions W-26-PhD
 Notice & Form for opting course in Winter 2026
@@ -130,8 +117,7 @@ Summer Term 2026
 Summer Term 2026 Notice
 Extension Summer Term 2026 Registration Notice
 List of courses offered for Summer Term 2026
-Winter 2026 Course registration Notices and related instructions
-2nd Registration Extension Notice – Winter 2026
+Winter 2026 Course registration Notices and related instructions 2nd Registration Extension Notice – Winter 2026
 Updated Extension Notice for Winter 2026 Course Registration
 Grade Improvement Application Form “Applicable to M.Tech Students only”
 Winter 2026 Course Registration Schedule and Instructions – (UG & PG)
@@ -223,8 +209,7 @@ Financial Assistance by NSFDC to SC students under Education loan scheme admitte
 NATIONAL SCHOLARSHIP PORTAL – SCHEME
 Notice NSP Scholarship 2026-27
 IMP Instructions for NSP Scholarship Applicants
-National Scholarship Portal is OPEN for A.Y. 2025-26. Students please visit NSP website-
-https://scholarships.gov.in/Students
+National Scholarship Portal is OPEN for A.Y. 2025-26. Students please visit NSP website- https://scholarships.gov.in/Students
 NOTICE for Central Sector Scheme-Aadhar Link to Bank Account
 Annexure II FAQs-ST Scholarship
 Annexure-I Top Class College guidelines
@@ -239,12 +224,12 @@ FEE REMISSION FOR ACADEMIC YEAR 2026-27
 Notice for Documents required for Fee Remission 2026-27
 Notice – Fee Remission  for the year 2026-27
 Link for the google form application for fee remission 2026-27 :
-https://forms.gle/
-sjWLExLZvW59uiAE8
+https://forms.gle/ sjWLExLZvW59uiAE8
 Student’s Declaration Format for the year 2026-27
 Format for Zero-no Income declaration Affidavit for the year 2026-27
 FAQs for Fee Remission
 SCHOLARSHIP SCHEME- PRIVATE
+Shiksha Shakti Scholarship 2026–27 an initiative of the Swami Dayanand Education Foundation (SDEF)
 SDEF India Scholarship 2026–27
 IDFC FIRST Bank Engineering Scholarship Programme (2026-30)
 Reliance Foundation Postgraduate Scholarships 2026-27
@@ -253,8 +238,7 @@ Legrand Empowering Scholarship Program 2026–27 for girl students
 Kotak Kanya Scholarship 2026-27 (Girls Only) (Batch 2026)
 Bharti Airtel Scholarship 2026-27
 Kalpana Chawla Chhatravrati Yojna For Engineering Students (Girls Only) (Batch 2026)
-|  (
-flyer
+|  ( flyer
 )
 Vidyalakshmi PAN India Merit-cum-Means Scholarship for the Academic Year 2025–2026, under the sponsorship of Power Grid Corporation of India Limited (Batch 2025)
 Narotam Sekhsaria Foundation – Post Graduation Scholarship 2026
@@ -266,14 +250,12 @@ LR Mundra Memorial Scholarship-2025-26 (Master’s and Doctoral Programme
 )
 Kotak Kanya Scholarship 2025-26
 Scholarship for Post-graduate/Ph.D./Postdoctoral Studies Overseas| JN Tata Endowment Loan Scholarship 2025-26
-BUDDY4STUDY –
-https://www.buddy4study.com/
+BUDDY4STUDY – https://www.buddy4study.com/
 SCHOLARSHIP SCHEME- OTHER STATES
 Welfare Of Backward Classes – Scholarship to BC, MBC & DNC Students from Tamil Nadu – Studying in IlT, IIM, IIIT, NIT & Central Universities – G.O issued -Request to send the Fresh and Renewal application form from eligible candidates for the year 2025-26
 Regarding application for award money of Rs. 50000 (Rs. fifty thousand per student) to the permanent resident students of Uttarakhand state selected/admitted in IIT, NIT and IIM by the Uttarakhand government.
 The link for registration is :
-https://uktech.ac.in/en/
-article/award-for-iit-iim-nit
+https://uktech.ac.in/en/ article/award-for-iit-iim-nit
 Mukhya Mantri Medhavi Chhatra Yojna , MP
 Post Matric Scholarship of Rajasthan
 EPASS Scholarship
@@ -289,10 +271,7 @@ B.Tech / B.Arch
 W2026 Examination – Seating Arrangement for First Year B.Tech Students
 Student Module Link for First Year B.Tech Seating Arrangement
 :
-https://tinyurl.com/
-fystudentmodule
-or
-http://172.31.4.142:8501
+https://tinyurl.com/ fystudentmodule or http://172.31.4.142:8501
 Constitution of B.Tech. First Year Class Committees
 Exam Schedule for First Year B.Tech and B.Arch. – MID SEM / END SEM / RE-WINTER 2026
 Coursebook for First Year B.Tech & B.Arch
@@ -300,11 +279,7 @@ First Year B.Tech Teaching Slots and Time Table
 Orientation program for 1st Year B. Tech. and B. Arch. students (2026 Admission)
 End-Term Examination (S2026) – Seating Arrangement for First Year B.Tech Students
 Student Module Link:
-https://tinyurl.com/
-fystudentmodule
-or
-http://172.31.4.142:8501
-1st Year B. Tech / B. Arch – Revised Schedule for End Semester Examination (S-26) and Re-examination (RS-26)
+https://tinyurl.com/ fystudentmodule or http://172.31.4.142:8501 1st Year B. Tech / B. Arch – Revised Schedule for End Semester Examination (S-26) and Re-examination (RS-26)
 Rescheduling of Mid Sem Examination from 03rd March 2026 to 04th March 2026
 Seating Plan and Seating Arrangement for the Second Semester B.Tech (All Branches), Mid-Sem Examination – Summer 2026
 SEATING PLAN FOR MID SEM EXAM (SUMMER 2026)
@@ -323,8 +298,7 @@ Schedule of Examination for Mid Semester Examination (S-26),End Semester Examina
 Timetable of First Year B.Tech Summer 2025-26
 Note for First Year Ex Students
 :
-1. Branch: CSE/ECE/EEE/MEC Course Code MEL103; MEP 103; Course Coordinator is Dr. P. Sawarkar and classes are to be                                             held in Classroom M-1-9 Slot G in Mechanical Department
-2. Branch: CIV/CME/MIN/MME Course Code CHL102; Course Coordinator is Dr. A. Banerjee and classes are to be held in                                                                     Classroom CRC-1-4 Slot H.
+1. Branch: CSE/ECE/EEE/MEC Course Code MEL103; MEP 103; Course Coordinator is Dr. P. Sawarkar and classes are to be                                             held in Classroom M-1-9 Slot G in Mechanical Department 2. Branch: CIV/CME/MIN/MME Course Code CHL102; Course Coordinator is Dr. A. Banerjee and classes are to be held in                                                                     Classroom CRC-1-4 Slot H.
 List of Faculty Advisor for UG Students admitted in 2025-26
 Academic Calendar (Summer 2026) for all semesters of UG & PG
 Course Book for First Year B.Tech. & B.Arch.

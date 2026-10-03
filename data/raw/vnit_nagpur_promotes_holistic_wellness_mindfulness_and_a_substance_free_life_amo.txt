@@ -1,9 +1,8 @@
 SOURCE_URL: https://vnit.ac.in/vnit-nagpur-promotes-holistic-wellness-mindfulness-and-a-substance-free-life-among-freshers
 TITLE: VNIT Nagpur Promotes Holistic Wellness, Mindfulness and a Substance-Free Life Among Freshers
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
-VNIT Nagpur Promotes Holistic Wellness, Mindfulness and a Substance-Free Life Among Freshers
-vnit_web
+VNIT Nagpur Promotes Holistic Wellness, Mindfulness and a Substance-Free Life Among Freshers vnit_web
 August 24, 2026
 News
 Nagpur, 21st August 2026: The third day of the First-Year Orientation Programme commenced with another rejuvenating yoga session, conducted by members of Shri Janardan Swami Yogabhyasi Mandal. The session focused on promoting physical well-being, mental relaxation, and mindfulness among the students. The students participated enthusiastically and thoroughly enjoyed the session, making it a refreshing and energetic start to the day.
@@ -19,5 +18,4 @@ In the second half of the day, students participated in an engaging Radio Jockey
 The day concluded on a melodious note with “Rishton Ka Manja,” a captivating musical programme that provided an enjoyable and refreshing experience for the students. The soulful performances created a lively atmosphere and brought the day’s activities to a memorable close.
 Posted in
 News
-,
-prpressnote
+, prpressnote

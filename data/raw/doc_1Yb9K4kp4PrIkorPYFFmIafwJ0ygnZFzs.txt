@@ -1,0 +1,26 @@
+SOURCE_URL: https://drive.google.com/file/d/1Yb9K4kp4PrIkorPYFFmIafwJ0ygnZFzs/view
+TITLE: V L S I
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: V L S I (dated 2026-05-22)
+I Semester
+I Semester: Code: ENL509 — Course Title / Name: ADVANCED DEVICE PHYSICS; Type: DC; Credit: 4 H; Offered (YES / NO): Offered; Max. No. of Students: 25
+I Semester: Code: ENL511 — Course Title / Name: CMOS DIGITAL VLSI DESIGN; Type: DC; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered; Max. No. of Students: 25
+I Semester: Code: ENL513 — Course Title / Name: IC DESIGN WITH HDL; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max. No. of Students: 25
+I Semester: Code: ENL517 — Course Title / Name: MICRO AND NANO FABRICATION TECHNOLOGIES; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max. No. of Students: 25
+I Semester: Code: VL1 — Course Title / Name: Total Credits (DC + DE); Type: 0; Credit: 16
+IIISemester
+IIISemester: Code: END501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max. No. of Students: 25
+IIISemester: Course Title / Name: Elective Courses (Any Two Theory) — Type: 0; Credit: 0
+IIISemester: Code: ENL507 — Course Title / Name: DESIGN FOR TESTABILITY YIELD AND RELIABILITY; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max. No. of Students: 25
+IIISemester: Code: ENL521 — Course Title / Name: REAL TIME SIGNAL PROCESSING; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max. No. of Students: 25
+IIISemester: Code: ENL547 — Course Title / Name: SPINTRONICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+IIISemester: Code: ENL523 — Course Title / Name: DISPLAY MATERIALS AND TECHNOLOGIES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+IIISemester: Code: ENL543 — Course Title / Name: NANOPHOTONICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+IIISemester: Code: ENL545 — Course Title / Name: VLSI SIGNAL PROCESSING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+IIISemester: Code: CSL524 — Course Title / Name: REAL TIME SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+IIISemester: Course Title / Name: Total Credits (DC + DE) — Type: 0; Credit: 9
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M.TECH (VLSI Design)

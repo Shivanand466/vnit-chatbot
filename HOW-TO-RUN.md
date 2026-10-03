@@ -42,6 +42,12 @@ Each answer shows:
 
 ---
 
+## 2b. Showing it on a phone (optional)
+
+Double-click **`start_public_link.bat`** instead. It starts the chatbot and prints a temporary web address ending in `.trycloudflare.com` that anyone can open, including on a phone. Keep both windows open; close them to take it offline. You get a new address each time, so start it shortly before the demo.
+
+---
+
 ## 3. Good questions for a demo
 
 These were checked against the real sources and answered correctly in testing:
@@ -55,10 +61,14 @@ These were checked against the real sources and answered correctly in testing:
 | What is the email of the Dean (Academic)? | deanacd@vnit.ac.in |
 | When was the Mechanical Engineering department established? | 1960, with the institute |
 | What tuition fee do SC/ST B.Tech students pay? | Nil |
+| What is the yearly tuition fee for B.Tech students in the OPEN category? | ₹1,25,000 per year |
+| What is the hostel fee for first year B.Tech boys for the Winter 2026 session? | ₹32,150 |
+| When are the end semester exams for first year B.Tech in Winter 2026? | 7 to 15 December 2026 |
 | How much money does the Kotak Kanya Scholarship give per year? | ₹1.5 lakh |
+| What is the last date to apply for the IDFC FIRST Bank Engineering Scholarship? | 20 September 2026 |
 | When do classes start for first year B.Tech students in Winter 2026? | 19 August 2026 |
 
-Tip: ask one clear question at a time and mention the programme and year (e.g. "first year B.Tech", "Winter 2026"). Similar-looking documents are the chatbot's weak spot.
+Tip: ask one clear question at a time and mention the programme and year (e.g. "first year B.Tech", "Winter 2026"). The chatbot uses that to pick between near-identical documents, such as the 19 hostel fee sheets.
 
 Also show one question it **can't** answer (for example: *"What is the hostel wifi password?"*). It says the information isn't in its sources instead of making something up. That's the most important feature: examiners like seeing that it doesn't hallucinate.
 

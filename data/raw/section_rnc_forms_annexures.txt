@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/section/rnc/forms-annexures
 TITLE: Forms & Annexures – Research and Consultancy
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Forms & Annexures
 Forms and Document Related to (i) Sponsored Research Projects, (ii) Utilization of FPDF & DDF, and (iii) Conduct of Events (Conferences, Workshops, STTPs etc.)
@@ -8,8 +8,7 @@ The Dean (R&C) Office provides standard forms to facilitate the approval, execut
 S. No.
 Form Category
 Description of the Form
-Download
-1
+Download 1
 Submission of Research Proposals
 Approval for sponsored research projects (Govt. funding agencies/ Open call)
 Note
@@ -18,14 +17,12 @@ SRP-01(A)
 Approval for Industry-sponsored Research Projects (Industry-funded, closed calls on invitation etc.)
 Note
 : Separate policy document available on R&C website, refer the same for guidelines & format of the proposal.
-SRP-01(B)
-2
+SRP-01(B) 2
 Intimation of Sanction & Ledger Creation for Research Projects
 Intimation of Sanction of the Sponsored Research Projects by PI/Co-PI to R&C office
 SRP-02(A)
 Requisition form for Opening Ledger for Sponsored Research Projects under Schemes & Projects
-SRP-02(B)
-3
+SRP-02(B) 3
 Recruitment of Sanctioned Research Positions (Manpower Recruitment)
 Approval for Advertising the Recruitment of Sanctioned Research Positions
 SRP-03(A)
@@ -34,8 +31,7 @@ SRP-03(B)
 Approval for Selected Candidates List as per the Recommendation of Selection Panel
 SRP-03(C)
 Approval for Adhoc-Appointment (not exceeding 3 months)
-SRP-03(D)
-4
+SRP-03(D) 4
 Management of Research Manpower
 Format for Joining Report of the Research Project Staff
 SRP-03(E)
@@ -48,32 +44,27 @@ SRP-03(H)
 Format for Leave or On-Duty for Research Project Staff
 SRP-03(I)
 Requisition Form for Overdraft Limit for Manpower Salary
-SRP-03(J)
-5
+SRP-03(J) 5
 Overhead Distribution
 Requisition Form for Overhead Distribution
 Note
 : Applicable only for the Sanctions after 11th June 2025
-SRP-04(C)
-6
+SRP-04(C) 6
 Payment to Interns & Student Assistants
 Format for Direct Payment to Interns & Student Assistants through Contingency Grant of Research Projects or FPDF
 Note
 : For student assistants, the start date of engagement shall be on or after the date of financial approval.
-SRP-04(D)
-7
+SRP-04(D) 7
 UC, SE & Project Closure
 Issuance of Utilization Certificate (UC) & Statement of Expenditure (SE)
 SRP-05(A)
 Approval for the Submission of Project Closure Report
-SRP-05(B)
-8
+SRP-05(B) 8
 Utilization of FPDF & DDF
 Format for the Utilization of Faculty Professional Development Fund (FPDF)
 FPDF
 Format for the Utilization of Department Development Fund
-DDF
-9
+DDF 9
 Conduction of Events – Conferences, Workshops etc
 Approval for the Organization of Events – Conferences, Workshops, STTPs etc.
 Events (A)
@@ -81,8 +72,7 @@ Note for Ledger Opening – Conferences, Workshops, STTPs
 Events (B)
 Format for Submitting Report on Completion of the Event
 (within 2-weeks of completion of the event)
-Events (D)
-10
+Events (D) 10
 Financial Approval (FA)
 Approval for the Procurement of Items under R&D Projects, Conferences/ Workshops/ Seminars etc. (1/2)
 Annexure (2/2)
@@ -91,12 +81,10 @@ SRP-04(A) for Non-recurring (i.e. Equipment)
 SRP-04(B) for Recurring (i.e. Consumables, Travel etc.)
 Events (C) for Conference/Workshop etc.
 Click Here
-[E-Office Format]
-11
+[E-Office Format] 11
 Form for Payment to Students from Consultancy
 Format for Direct Payment to Student Assistants/Ph.D. Research Scholar from Consultancy
-Click Here
-12
+Click Here 12
 Paid Research Internships (RI)
 Guidelines & Framework for Engagement of Interns under R&D Projects or FPDF, along with (i) Internship Approval Form (RI-01) and (ii) Internship Selection Form (RI-02)
 Click Here

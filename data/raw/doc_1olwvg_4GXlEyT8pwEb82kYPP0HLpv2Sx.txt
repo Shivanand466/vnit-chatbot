@@ -1,0 +1,31 @@
+SOURCE_URL: https://drive.google.com/file/d/1olwvg_4GXlEyT8pwEb82kYPP0HLpv2Sx/view
+TITLE: Common Document to be uploaded-CHECKLIST
+FETCHED: 2026-08-04
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Common Document to be uploaded-CHECKLIST (dated 2026-08-04)
+Note
+Cheklist for documents required for admission at VNIT Nagpur
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: VNIT Online admission final submitted Form Printout — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: YES; For DASA B. Tech/Arch: YES; For DASA M Tech: YES; Remark: not to be uploaded, just hard copy is to be submitted
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Transfer Certificate/ Migration certificate (Original) — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: ONLY PHOTOCOPY; For DASA B. Tech/Arch: YES; For DASA M Tech: YES
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Provisional Allotment Letter (PAL) / Final Seat Allotment Letter/ Final seat confirmation letter — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: NO; For DASA B. Tech/Arch: YES; For DASA M Tech: YES; Remark: To be downloaded from JOSAA/CSAB/CC MT/CCMN
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Receipt of the fee paid to VNIT Nagpur (If any) — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: YES; For DASA B. Tech/Arch: YES; For DASA M Tech: YES
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Entrance Exam Score Card — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: NO; For DASA B. Tech/Arch: YES; For DASA M Tech: YES
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: ID Proof/Aadhar card of the student — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: YES; For DASA B. Tech/Arch: YES (passport mandatory); For DASA M Tech: YES (passport mandatory)
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Birth Certificate or Class X (SSC) Board Certificate mentioning Date of Birth — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: YES; For DASA B. Tech/Arch: YES; For DASA M Tech: YES
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Mark list of XII Exam — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: YES; For DASA B. Tech/Arch: YES; For DASA M Tech: YES
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Caste Certificate & Caste Validity (as applicable) — For B. Tech/Arch: (if applicable); For M Tech: (if applicable); For M Sc: (if applicable); For Phd: (if applicable); Remark: In Central format issued after 1st April 2026
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: EWS certificate — For B. Tech/Arch: (if applicable); For M Tech: (if applicable); For M Sc: (if applicable); For Phd: (if applicable); For DASA B. Tech/Arch: NA; For DASA M Tech: NA; Remark: In Central format issued after 1st April 2026
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Certificate for Persons with Disabilities — For B. Tech/Arch: (if applicable); For M Tech: (if applicable); For M Sc: (if applicable); For Phd: (if applicable); Remark: In Central format issued after 1st April 2026
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Aadhar Card (Father) — For B. Tech/Arch: yes (if alive); For M Tech: yes (if alive); For M Sc: yes (if alive); For Phd: NO; For DASA B. Tech/Arch: Copy of the passport; For DASA M Tech: Copy of the passport
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Aadhar Card (Mother) — For B. Tech/Arch: yes (if alive); For M Tech: yes (if alive); For M Sc: yes (if alive); For Phd: NO; For DASA B. Tech/Arch: Copy of the passport; For DASA M Tech: Copy of the passport
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: UG Marklist (All Sem) — For B. Tech/Arch: NA; For M Tech: YES; For M Sc: YES; For Phd: YES; For DASA B. Tech/Arch: NA; For DASA M Tech: YES
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: PG Marklist (All Sem) — For B. Tech/Arch: NA; For M Tech: NA; For M Sc: NA; For Phd: YES; For DASA B. Tech/Arch: NA; For DASA M Tech: NA
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: NOC for the employer — For B. Tech/Arch: NA; For M Tech: NA; For M Sc: NA; For Phd: yes (if applicable); For DASA B. Tech/Arch: NA; For DASA M Tech: NA
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Parents Employer Certificate — For B. Tech/Arch: NA; For M Tech: NA; For M Sc: NA; For Phd: NA; For DASA B. Tech/Arch: YES (for CIWG category); For DASA M Tech: YES (for CIWG category)
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: Undertaking for Pending Documents — For B. Tech/Arch: (if applicable); For M Tech: (if applicable); For M Sc: (if applicable); For Phd: (if applicable); For DASA B. Tech/Arch: (if applicable); For DASA M Tech: (if applicable); Remark: available with VNIT Online admission form
+Cheklist for documents required for admission at VNIT Nagpur: Name of the document: 19 Antiragging Undertaking — For B. Tech/Arch: YES; For M Tech: YES; For M Sc: YES; For Phd: YES; For DASA B. Tech/Arch: YES; For DASA M Tech: YES; Remark: available with VNIT Online admission form
+:
+1.Above documents are to be uploded on VNIT ONLINE Admission Portal and One set of self-attested photocopies of all the documents will be required at the time of Physical Institute reporting, along with the originals for verification
+2. In case of Original Transfer / other certificates is not available during Institute Reporting, candidates can give an undertaking (in the format given in annexure II) that they will submit the same. If the candidate fails to submit the Original Transfer certificate by the 30 th September 2026, his/her admission stands cancelled.
+3. Original Transfer Certificate will remain submitted with the Institute

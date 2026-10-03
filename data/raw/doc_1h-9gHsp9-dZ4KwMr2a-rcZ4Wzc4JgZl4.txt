@@ -1,0 +1,16 @@
+SOURCE_URL: https://drive.google.com/file/d/1h-9gHsp9-dZ4KwMr2a-rcZ4Wzc4JgZl4/view
+TITLE: Ashlesha (Astronomy Club)
+FETCHED: 2025-02-20
+FOUND_ON: http://vnit.ac.in/student-activity-clubs-vnit
+---
+Document: Ashlesha (Astronomy Club) (dated 2025-02-20)
+Events that are happening from Aug, 2024 to 15th, Feb 2025 at VNIT
+13 NOV 2024 Stargazing session was conducted for the club members where they were
+taught on how telescopes work and instructed on how to handle telescope they were also taught how to find out stars using charts and exercise was done for practice using our telescope on CRC terrace
+fig . Coordinators practicing with the telescope.
+Session on how to write reports:
+A detailed session was conducted on 18 th jan 2025 on how to write Research papers in LaTeX where core members guided research coordinators.
+Stargazing event conducted on 28 th and 29 th jan StarGazing session was conducted on CRC terrace where we invited Mr. Abhishek pawse and their 14'' dobsonian telescope for the students on VNIT and both ours and their telescope was used to give a mesmerising experience multiple astronomical objects were shown such as mars, Jupiter, Saturn, venus, orion nebula, Pleiades star cluster etc. total of 300 students attended the program.
+Fig. photos from 29 th jan
+Research collaboration with Dr. Ashish Mahabal from CalTech on AI/ML models and their application in astronomical surveys (ONGOING)
+Research division Successfully Qualifying for the 2 nd stage of ISRO IRoC -24 robotics ANAV drone building competition (ONGOING)

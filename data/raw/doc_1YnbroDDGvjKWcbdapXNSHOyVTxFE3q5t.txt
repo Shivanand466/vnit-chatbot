@@ -1,0 +1,71 @@
+SOURCE_URL: https://drive.google.com/file/d/1YnbroDDGvjKWcbdapXNSHOyVTxFE3q5t/view
+TITLE: Architecture
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Architecture (dated 2026-05-22)
+III Semester
+III Semester: Code: ARSA201 — Course Title / Name: ARCHITECTURAL DESIGN II; Type: DC; Credit: 9; Exam Slot: B1C1; Offered (YES / NO): Offered; Max No. Students: 80
+III Semester: Code: ARPA201 — Course Title / Name: DIGITAL GRAPHICS; Type: DC; Credit: 2; Exam Slot: B5C5; Offered (YES / NO): Offered; Max No. Students: 80
+III Semester: Code: ARLA202 — Course Title / Name: MATERIALS & CONSTRUCTION III; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. Students: 80
+III Semester: Code: ARLA203 — Course Title / Name: CONTEMPORARY ARCHITECTURE; Type: DC; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered; Max No. Students: 80
+III Semester: Code: CEPA205 — Course Title / Name: SURVEYING; Type: 0; Credit: 2; Exam Slot: B2C2; Offered (YES / NO): Offered; Max No. Students: 80
+III Semester: Course Title / Name: AMLA202STRENGTH OF MATERIALS — Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. Students: 80
+III Semester: Course Title / Name: OC — Type: OC; Credit: 3
+III Semester: Course Title / Name: Total Credits — Credit: 27
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+B. ARCHITECTURE
+V Semester
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Code: ARP361 — Course Title / Name: ARCHITECTURAL DESIGN - IV; Type: DC; Credit: 5; Exam Slot: B1C1; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Code: ARP362 — Course Title / Name: WORKING DRAWING I; Type: DC; Credit: 2; Exam Slot: B2C2; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Code: ARL358 — Course Title / Name: CONSTRUCTION - V; Type: DC; Credit: 5; Exam Slot: D; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Code: ARL351 — Course Title / Name: BUILDING SERVICES - II; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Code: ARL352 — Course Title / Name: SPECIFICATIONS; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Code: ARL353 — Course Title / Name: BUILDING LEGISLATIONS; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Code: Engg. Sciences — Course Title / Name: Engg. Sciences; Type: Engg. Sciences
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Code: AML482 — Course Title / Name: CONCRETE STRUCTURES; Type: ES; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | V Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 26
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+VII Semester
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARP481 — Course Title / Name: ARCHITECTURAL DESIGN VI; Type: DC; Credit: 5; Exam Slot: B2C2; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARL458 — Course Title / Name: LANDSCAPE DESIGN; Type: DC; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARL454 — Course Title / Name: URBAN PLANNING AND DESIGN; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARL455 — Course Title / Name: PROFESSIONAL PRACTICE (Any two); Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: Elective Courses — Course Title / Name: Elective Courses
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARL461 — Course Title / Name: DISASTER MITIGATION AND MANAGEMENT; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. Students: 40
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARL462 — Course Title / Name: APPROPRIATE TECHNOLOGY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. Students: 40
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARL463 — Course Title / Name: RURAL PLANNING AND DEVELOPMENT; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. Students: 40
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARL464 — Course Title / Name: BUILDING REPAIR AND RESTORATION; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Not offered; Max No. Students: 40
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: AML483 — Course Title / Name: EARTHQUAKE RESISTANT STUCTURES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: ARL405 — Course Title / Name: UNIVERSAL DESIGN; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. Students: 40
+List of courses to be offered for 2026-27 (Winter 2026) | VII Semester: Code: Total — Course Title / Name: Credits (DC + DE); Credit: 21
+IX Semester
+List of courses to be offered for 2026-27 (Winter 2026) | IX Semester: Code: ARC401 — Course Title / Name: PRACTICAL TRAINING; Type Credit: DC 8; Exam Slot: A; Offered (YES / NO): Offered; Max No. Students: 80
+List of courses to be offered for 2026-27 (Winter 2026) | IX Semester: Course Title / Name: Total Credits (DC) — Type Credit: 8
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (URBAN PLANNING)
+I Semester
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL501 — Course Title / Name: PLANNING THEORY AND PRINCIPLES; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL509 — Course Title / Name: TRANSPORTATION PLANNING; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL520 — Course Title / Name: RS AND GIS APPLICATION; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL502 — Course Title / Name: CLIMATE CHANGE AND DISASTER RESILIENT URBAN INFRASTRUCTURE; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARP501 — Course Title / Name: PLANNING STUDIO - I; Type: DC; Credit: 4; Exam Slot: B2C2; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: Elective Courses — Course Title / Name: Elective Courses; Type: Elective Courses; Credit: Elective Courses; Exam Slot: Elective Courses
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL436 — Course Title / Name: HISTORY OF HUMAN SETTLEMENTS; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL438 — Course Title / Name: URBAN LANDSCAPE; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL489 — Course Title / Name: URBAN CLIMATOLOGY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL504 — Course Title / Name: URBAN SOCIOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL508 — Course Title / Name: HOUSING; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL511 — Course Title / Name: ECOLOGY & ENVIRONMENTAL PLANNING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: ARL512 — Course Title / Name: URBAN DESIGN AND CONSERVATION; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: MAL506 — Course Title / Name: STATISTICAL METHODS FOR URBAN PLANNING; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Course Title / Name: Total Credits (DC + DE) — Credit: 22
+IIISemester
+List of courses to be offered for 2026-27 (Winter 2026) | IIISemester: Code: ARD501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | IIISemester: Code: ART503 — Course Title / Name: PROJECT APPRAISAL / TRAINING; Type: DC; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: 25
+List of courses to be offered for 2026-27 (Winter 2026) | IIISemester: Course Title / Name: Total Credits (DC + DE) — Credit: 7

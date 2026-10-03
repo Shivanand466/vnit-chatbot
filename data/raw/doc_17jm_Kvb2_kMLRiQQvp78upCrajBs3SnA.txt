@@ -1,0 +1,83 @@
+SOURCE_URL: https://drive.google.com/file/d/17jm_Kvb2_kMLRiQQvp78upCrajBs3SnA/view
+TITLE: Mining Engineering
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Mining Engineering (dated 2026-05-22)
+Visvesvaraya National Institute of Technology, Nagpur
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026)
+B. Tech. in Mining Engineering
+B. Tech. in Mining Engineering: Code: MNLA201 — Course Title / Name: UNDERGROUND COAL MINING METHODS; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No .of Student: -
+B. Tech. in Mining Engineering: Code: MNLA202 — Course Title / Name: SURFACE MINING METHODS; Type: DC; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No .of Student: -
+B. Tech. in Mining Engineering: Code: MNLA203 — Course Title / Name: UNDERGROUND METALLIFEROUS MINING METHODS; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No .of Student: -
+B. Tech. in Mining Engineering: Code: MNPA204 — Course Title / Name: SURVEY CAMP; Type: DC; Credit: 1; Offered (YES / NO): Offered; Max No .of Student: -
+B. Tech. in Mining Engineering: Course Title / Name: MNC COURSE - 1 — Type: MNC; Credit: 0; Offered (YES / NO): Offered; Max No .of Student: -
+B. Tech. in Mining Engineering: Course Title / Name: PROGRAM ELECTIVE
+B. Tech. in Mining Engineering: Code: MALA202 — Course Title / Name: PROBABILITY THEORY AND STATISTICS; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No .of Student: -
+B. Tech. in Mining Engineering: Code: MNLA401 — Course Title / Name: DRILLING TECHNOLOGY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No .of Student: 25
+B. Tech. in Mining Engineering: Course Title / Name: OC / HM/IE — Credit: 3
+B. Tech. in Mining Engineering: Course Title / Name: Minimum Credits to be Earned in III Semester
+B. Tech. in Mining Engineering: Course Title / Name: Without Internship — Credit: 16
+B. Tech. in Mining Engineering: Course Title / Name: With Internship — Credit: 19
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026)
+V Semester
+V Semester: Code: MNL205 — Course Title / Name: MINE VENTILATION AND CLIMATE ENGINEERING; Type: DC; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered; Max No .of Student: -
+V Semester: Code: MNP205 — Course Title / Name: MINE VENTILATION AND CLIMATE ENGINEERING; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No .of Student: -
+V Semester: Code: MNL211 — Course Title / Name: ROCK MECHANICS; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max No .of Student: -
+V Semester: Code: MNP211 — Course Title / Name: ROCK MECHANICS; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No .of Student: -
+V Semester: Code: MNL302 — Course Title / Name: MINE EXCAVATION MACHINERY; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No .of Student: -
+V Semester: Code: MNL475 — Course Title / Name: BLASTING TECHNOLOGY FOR MINING AND CONSTRUCTION; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No .of Student: -
+V Semester: Code: Elective Basket — Course Title / Name: Elective Basket; Type: Elective Basket; Credit: Elective Basket; Exam Slot: Elective Basket; Offered (YES / NO): Elective Basket; Max No .of Student: Elective Basket
+V Semester: Code: MNL434 — Course Title / Name: ADVANCED UG METAL MINING & DESIGN; Type: DE; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered; Max No .of Student: 25
+V Semester: Code: MNL425 — Course Title / Name: MASS PRODUCTION TECHNOLOGY FOR UNDERGROUND COAL; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No .of Student: 25
+V Semester: Code: MNL471 — Course Title / Name: UNDERGROUND SPACE TECHNOLOGY; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No .of Student: 25
+V Semester: Course Title / Name: OC / HM — Type: DE; Credit: 3
+V Semester: Code: Minimum Credits to be Earned in V Semester — Course Title / Name: Minimum Credits to be Earned in V Semester; Type: Minimum Credits to be Earned in V Semester; Credit: Minimum Credits to be Earned in V Semester; Exam Slot: Minimum Credits to be Earned in V Semester; Offered (YES / NO): Minimum Credits to be Earned in V Semester; Max No .of Student: Minimum Credits to be Earned in V Semester
+V Semester: Code: Without Internship — Course Title / Name: Without Internship; Type: Without Internship; Credit: 25
+V Semester: Code: With One Semester — Course Title / Name: Internship; Type: With One Semester; Credit: 25
+V Semester: Code: With One Year Internship — Course Title / Name: With One Year Internship; Type: With One Year Internship; Credit: 29
+V Semester: Code: √ Students must undergo one (1) mine visit (Study Tour) during 5TH Semester — Course Title / Name: √ Students must undergo one (1) mine visit (Study Tour) during 5TH Semester; Type: √ Students must undergo one (1) mine visit (Study Tour) during 5TH Semester; Credit: √ Students must undergo one (1) mine visit (Study Tour) during 5TH Semester
+Visvesvaraya National Institute of Technology, Nagpur
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026)
+VII Semester
+VII Semester: Code: MND401 — Course Title / Name: PROJECT PHASE I; Type: DC; Credit: 3; Exam Slot: -; Offered (YES / NO): Offered; Max No .of Student: -
+VII Semester: Course Title / Name: Elective Basket for VII Semester
+VII Semester: Code: MNL481 — Course Title / Name: MINE SYSTEM ENGINEERING; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No .of Student: 25
+VII Semester: Code: MNL480 — Course Title / Name: SURFACE MINE ENVIRONMENT; Type: DE; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max No .of Student: 25
+VII Semester: Code: MNL476 — Course Title / Name: ROCK SLOPE ENGINEERING; Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No .of Student: 25
+VII Semester: Code: MNL432 — Course Title / Name: MINE AUTOMATION; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No .of Student: 25
+VII Semester: Code: MNL436 — Course Title / Name: INSTRUMENTATION & NON-DESTRUCTIVE TESTING; Type: DE; Credit: 4; Exam Slot: D; Offered (YES / NO): Offered; Max No .of Student: 25
+VII Semester: Code: MNL483 — Course Title / Name: MINING ECONOMICS; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No .of Student: 25
+VII Semester: Code: MNL309 — Course Title / Name: ARTIFICIAL INTELLIGENCE AND IOT IN MINING; Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No .of Student: 25
+VII Semester: Course Title / Name: OC / HM — Type: DE; Credit: 3
+VII Semester: Course Title / Name: Credits to be Earned Through Internship
+VII Semester: Course Title / Name: With One Semester Internship — Credit: 3
+VII Semester: Course Title / Name: With One Year Internship — Credit: 3
+VII Semester: Course Title / Name: Credits to be Earned Through MOOC Courses
+VII Semester: Course Title / Name: Only for Students with One Year Internship
+VII Semester: Course Title / Name: Minimum Credits to be Earned in VII Semester
+VII Semester: Course Title / Name: Without Internship — Credit: 16
+VII Semester: Course Title / Name: With One Semester Internship — Credit: 6
+VII Semester: Course Title / Name: With One Year Internship — Credit: 6
+Visvesvaraya National Institute of Technology, Nagpur
+Registration Form for Enrollment in Odd Semester for Session 2026-27 (Winter 2026)
+M. Tech in (Excavation & Tunnel Engineering)
+I Semester
+I Semester: Code: MAL505 — Course Title / Name: MATHEMATICAL ELEMENTS FOR ENGINEERS; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No .of Student: -
+I Semester: Code: MNL522 — Course Title / Name: GEO-MECHANICS IN EXCAVATIONS; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No .of Student: -
+I Semester: Code: MNP522 — Course Title / Name: GEO-MECHANICS IN EXCAVATIONS; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No .of Student: -
+I Semester: Code: MNL526 — Course Title / Name: TUNNEL AND CAVERN ENGINEERING; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No .of Student: -
+I Semester: Code: MNL535 — Course Title / Name: EXCAVATION EQUIPMENT & TECHNOLOGY; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No .of Student: -
+I Semester: Code: Elective Courses (Any two) — Course Title / Name: Elective Courses (Any two); Type: Elective Courses (Any two); Credit: Elective Courses (Any two); Exam Slot: Elective Courses (Any two); Offered (YES / NO): Elective Courses (Any two)
+I Semester: Code: MNL529 — Course Title / Name: CONTRACT AND CONSTRUCTION MANAGEMENT; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+I Semester: Code: MNL532 — Course Title / Name: ADVANCE ENGINEERING GEOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+I Semester: Code: MNL533 — Course Title / Name: INSTRUMENTATION IN EXCAVATION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+I Semester: Code: MNL534 — Course Title / Name: GROUTING TECHNOLOGY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No .of Student: -
+I Semester: Code: MNL536 — Course Title / Name: PRINCIPLES AND CONCEPTS OF MINING; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No .of Student: -
+I Semester: Code: Total Credits (DC — Course Title / Name: + DE); Type: Total Credits (DC; Credit: 20
+M. Tech in (Excavation Engineering)
+M. Tech in (Excavation Engineering): Code: MND501 — Course Title / Name: PROJECT PHASE I (DISSERTATION SEMINAR); Type: DC 6; Credit: -; Exam Slot: Offered; Max No .of Student: -
+M. Tech in (Excavation Engineering): Course Title / Name: Total Credits (DC + DE) — Credit: 6
+IIISemester

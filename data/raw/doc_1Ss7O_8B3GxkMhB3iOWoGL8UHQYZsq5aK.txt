@@ -1,0 +1,192 @@
+SOURCE_URL: https://drive.google.com/file/d/1Ss7O_8B3GxkMhB3iOWoGL8UHQYZsq5aK/view
+TITLE: Written Test Syllabus
+FETCHED: 2026-08-18
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Written Test Syllabus (dated 2026-08-18)
+Visvesvaraya National Institute of Technology, Nagpur M.Tech Admissions: Institute Spot Round-2026 Syllabus for Written Test (For Group B Candidates)
+Department of Applied Mechanics and Civil Engineering
+M.Tech Programs:
+Environmental Engineering
+Transportation Engineering
+Water Resources Engineering
+Geotechnical Engineering
+Structural Dynamics & Earthquake Engineering
+Forensic Structural Engineering
+Solid Mechanics: Bending moment and shear force in statically determinate beams; Simple stress and strain relationships; Simple bending theory, flexural and shear stresses, shear center; Uniform torsion, Transformation of stress; buckling of column, combined and direct bending stresses.
+Structural Analysis: Statically determinate and indeterminate structures by force/ energy methods; Method of superposition; Analysis of trusses, arches, beams, cables and frames; Displacement methods: Slope deflection and moment distribution methods; Influence lines; Stiffness and flexibility methods of structural analysis.
+Construction Materials and Management: Construction Materials: Structural Steel - Composition, material properties and behavior; Concrete - Constituents, mix design, shortterm and long-term properties.
+Construction Management: Types of construction projects; Project planning and network analysis - PERT and CPM; Cost estimation.
+Concrete Structures: Working stress and Limit state design concepts; Design of beams, slabs, columns; Bond and development length; Pre stressed concrete beams.
+Soil Mechanics: Three-phase system and phase relationships, index properties; Unified and Indian standard soil classification system; Permeability - one-dimensional flow, Seepage through soils - two - dimensional flow, flow nets, uplift pressure, piping, capillarity, seepage force; Principle of effective stress and quicksand condition; Compaction of soils; Onedimensional consolidation, time rate of consolidation; Shear Strength, Mohr' s circle effective and total shear strength parameters, Stress-Strain characteristics of clays and sand; Stress paths.
+Foundation Engineering: Sub-surface investigations - Drilling bore holes, sampling, plate load test, standard penetration and cone penetration tests; Earth pressure theories - Rankine and Coulomb; Stability of slopes - Finite and infinite slopes, Bishop's method; Stress distribution in soils - Boussinesq's theory; Pressure bulbs, Shallow foundations - Terzaghi's and Meyerhoff's bearing cap acity theories, effect of water table; Combined footing and raft foundation; Contact pressure; Settlement analysis in sands and clays; Deep foundations - dynamic and static formulae, Axial load capacity of piles in sands and clays, pile load test, pile under lateral loading, pile group efficiency, negative skin friction.
+Fluid Mechanics: Properties of fluids, fluid statics; Continuity, momentum and energy equations and their applications; Potential flow, Laminar and turbulent flow; Flow in pipes, pipe networks; Concept of boundary layer and its growth; Concept of lift and drag.
+Hydraulics: Forces on immersed bodies; Flow measurement in channels and pipes; Dimensional analysis and hydraulic similitude; Channel Hydraulics - Energy-depth relationships, specific energy, critical flow, hydraulic jump, uniform flow, gradually varied flow and water surface profiles.
+Hydrology: Hydrologic cycle, precipitation, evaporation, evapo-transpiration, watershed, infiltration, unit hydrographs, hydrograph analysis, reservoir capacity, flood estimation and routing, surface run-off models, ground water hydrology - steady state well hydraulics and aquifers; Application of Darcy's Law.
+Irrigation: Types of irrigation systems and methods; Crop water requirements - Duty, delta, evapo - transpiration; Gravity Dams and Spillways; Lined and unlined canals, Design of weirs on permeable foundation; cross drainage structures.
+Water and Waste Water Quality and Treatment: Basics of water quality standards - Physical, chemical and biological parameters; Water quality index; Unit processes and operations; Water requirement; Water distribution system; Drinking water treatment. Sewerage system design, quantity of domestic wastewater, primary and secondary treatment. Effluent discharge standards; Sludge disposal; Reuse of treated sewage for different applications.
+Air Pollution: Types of pollutants, their sources and impacts, air pollution control, air quality standards, Air quality Index and limits.
+Municipal Solid Wastes: Characteristics, generation, collection and transportation of solid wastes, engineered systems for solid waste management (reuse/ recycle, energy recovery, treatment and disposal).
+Transportation Infrastructure: Geometric design of highways - cross-sectional elements, sight distances, horizontal and vertical alignments. Geometric design of railway Track - Speed and Cant. Concept of airport runway length, calculations and corrections; taxiway and exit taxiway design.
+Highway Pavements: Highway materials - desirable properties and tests; Desirable properties of bituminous paving mixes; Design factors for flexible and rigid pavements; Design of flexible and rigid pavement using IRC codes
+Traffic Engineering: Traffic studies on flow and speed, peak hour factor, accident study, statistical analysis of traffic data; Microscopic and macroscopic parameters of traffic flow, fundamental relationships; Traffic signs; Signal design by Webster's method; Types of intersections; Highway capacity.
+Department of Architecture and Planning
+M.Tech in Urban Planning Part-A
+Construction and Management: Project management techniques e.g. PERT, CPM etc.; Estimation and Specification; professional practice and ethics; Form and Structure; Principles and design of disaster resistant structures; Temporary structures for rehabilitation
+Environmental Planning and Design: Natural and man-made ecosystem; Ecological principles; Environmental considerations in Planning and design; Environmental pollutiontypes, Causes, controls and abatement strategies; Sustainable development. goals and strategies; Climate change and built environment; Climate responsive design
+Services and Infrastructure: Firefighting Systems; Building Safety and Security systems; Building Management Systems; Water treatment; Water supply and distribution system: Water harvesting systems; principles, Planning and Design of storm water drainage system; Sewage disposal methods; Methods of solid waste management- collection, transportation and disposal; Recycling and Reuse of solid waste; Land use-transportation- urban form inter-relationships; Design of roads, intersections, grade separators and parking areas; Hierarchy of roads and level of service; Para-transits and other modes of transportation, Pedestrian and slow-moving traffic planning
+Building Construction and Structural systems: Building construction techniques, methods and details; Building systems and prefabrication of building elements; Principles Of Modular Coordination; Construction planning and equipment; Building material characteristics and applications; Principles of strength of materials; Alternative building materials; Foundations; Design of structural elements with different materials; Elastic and Limit State design; Structural systems; Principles of Pre-stressing; High Rise and Long Span structures, gravity and lateral load resisting systems
+Building Services and Sustainability: Solar architecture; Thermal, visual and acoustic comfort in built environments; Natural and Mechanical ventilation in buildings; AirConditioning systems; Sustainable building strategies; Building Performance Simulation and Evaluation; Intelligent Buildings; Water supply; Sewerage and drainage systems; Sanitary fittings and fixtures; Plumbing systems; Principles of internal and external drainage system; Principles of electrification of buildings; Elevators and Escalators- standards and uses
+Urban Design, landscape and Conservation: Historical and modern examples of urban design; Elements of urban built environment - urban form, spaces, structure, pattern, fabric, texture, grain etc.; Concepts and theories of urban design; Principles, tools and techniques of urban design; Public spaces, character, spatial qualities and Sense of Place; Urban design interventions for sustainable development and transportation; Development controls - FAR, densities and building byelaws.: Urban renewal and conservation; heritage conservation; historical public spaces and gardens; Landscape design; Site planning
+Planning process: Salient concepts, theories and principles of urban planning; concepts of cities - Eco-City, Smart City; Concepts and theories by trendsetting planners and designers; Ekistics; Urban sociology; Social, Economic and environmental cost benefit analysis; Methods of non-spatial and spatial data analysis; Development guidelines such as URDPFI
+Housing: Housing typologies: Concepts, principles and examples of neighborhood; Residential densities; Affordable Housing; Real estate valuation
+Part-B
+Regional and Settlement Planning: Regional delineation; settlement hierarchy; Types and hierarchy of plans; Various schemes and programs of central government; Transit Oriented Development (TOC)), SEZ, SRZ etc.; Public Perception and user behavior; National Housing Policies, Programs and Schemes.; Slums, Squatters and informal housing; Standards for housing and community facilities; Housing for special areas and needs;
+Planning Techniques and Management: Application of G.I.S and Remote Sensing techniques in urban and regional planning; Tools and techniques of Surveys -- Physical, Topographical, Land use and Socio-economic Surveys; Urban Economics, Law of demand and supply of land and its use in planning; Graphic presentation of spatial data; Local selfgovernance, Panchayati Raj institutions; Planning Legislation and implementation - Land Acquisition Act, PPP etc.; Decision support system and Land Information System; Urban geography and econometrics; Management of Infrastructure Projects; Demography and equity in planning;
+Infrastructure Planning: Process and Principles of Transportation Planning and Traffic Engineering; Road capacity and Travel demand forecasting; Traffic survey methods, Traffic flow Analysis; Traffic analyses and design considerations; Traffic and transport management and control in urban areas; Mass transportation planning; Intelligent Transportation Systems; Urban and Rural Infrastructure System Network.
+Department of Chemical Engineering
+M.Tech in Chemical Engineering
+Basics of Chemical Engineering: Calculations based on molarity, molality, normality, Calculations based on law of conservation of mass and energy. Newton's law of viscosity and its applications. Size reduction and separation, crushing, grinding equipments and their characteristics, Principles of filtration and theory, First law of thermodynamics for non-flow process, flow process, State and path function, Enthalpy, Heat capacity, Second law of thermodynamics: Spontaneous process, qualitative difference between heat and work, heat reservoir, heat pump, heat engine,
+Applications of laws of thermodynamics: Diffusion in gases and liquids, distillation, drying, Basic modes of heat transfer, Fourier's law, thermal conductivity, Free and forced convection, Condensation and Boiling, Radiation heat transfer, laws of radiation, concepts of black body, gray body, greenhouse effect, Classification of reaction based on various terms, Molecularity and order of reaction, Temperature dependency from Arrhenius' law, Types of reactors, PFR, CSTR etc.
+First year science courses: Differential Calculus, Integral Calculus, Laplace transform, Modes of heat transfer - thermal conduction, convection and radiation - thermal conductivity, Properties of matter: ElasticityHooke's law - Relationship between three moduli of elasticity stress-strain diagram - Poisson's ratio, Photonics: Spontaneous and stimulated emission- Population inversion -E - Conditions for Laser action - Types of lasers - Nd: YAG, CO2, Diode lasers
+Polymers - Classification, Functionality, Degree of polymerization. Types and mechanism of polymerization: Addition (Free Radical, cationic and anionic), condensation, Electrochemistry - redox reaction, electrode potential - origin of electrode potential - oxidation potential - reduction potential, measurement and applications - electrochemical series and its significance, Nernst equation, Corrosion - causes, factors, types, Combustion of fuels: calorific value - higher and lower calorific values, theoretical calculation of calorific value.
+Quantitative and Analytical aptitude:
+Data Interpretation: Data Graphs, maps, and tables
+Numerical computation and estimation: ratios, percentages, powers, speeds, Time and Works, exponents and logarithms, permutations and combinations and series, elementary statistics and probability. Profit and loss, progression and sequences
+Deduction, Induction, Analogy, Numerical relations and reasoning, logical Venn diagrams
+Department of Electronics & Communication Engineering
+M.Tech. in Communication System Engineering
+Section 1: Engineering Mathematics
+Linear Algebra: Vector space, basis, linear dependence and independence, matrix algebra, Eigen values and eigen vectors, rank, solution of linear equationsexistence and uniqueness. Calculus: Mean value theorems, theorems of integral calculus, evaluation of definite and improper integrals, partial derivatives, maxima and minima, multiple integrals, line, surface and volume integrals, Taylor series.
+Differential Equations: First order equations (linear and nonlinear), higher order linear differential equations, Cauchy's and Euler's equations, methods of solution using variation of parameters, complementary function and particular integral, partial differential equations, variable separable method, initial and boundary value problems.
+Vector Analysis: Vectors in plane and space, vector operations, gradient, divergence and curl, Gauss's, Green's and Stokes' theorems.
+Complex Analysis: Analytic functions, Cauchy's integral theorem, Cauchy's integral formula, sequences, series, convergence tests, Taylor and Laurent series, residue theorem.
+Probability and Statistics: Mean, median, mode, standard deviation, combinatorial probability, probability distributions, binomial distribution, Poisson distribution, exponential distribution, normal distribution, joint and conditional probability.
+Section 2: Networks, Signals and Systems
+Circuit Analysis: Node and mesh analysis, superposition, Thevenin's theorem, Norton's theorem, reciprocity. Sinusoidal steady state analysis: phasors, complex power, maximum power transfer. Time and frequency domain analysis of linear circuits: RL, RC and RLC circuits, solution of network equations using Laplace transform.
+Linear 2-port network parameters, wye-delta transformation.
+Continuous-time Signals: Fourier series and Fourier transform, sampling theorem and applications.
+Discrete-time Signals: DTFT, DFT, z-transform, discrete-time processing of continuous-time signals. LTI systems: definition and properties, causality, stability, impulse response, convolution, poles and zeroes, frequency response, group delay, phase delay.
+Section 3: Electronic Devices
+Energy bands in intrinsic and extrinsic semiconductors, equilibrium carrier concentration, direct and indirect band-gap semiconductors.
+Carrier Transport: diffusion current, drift current, mobility and resistivity, generation and recombination of carriers, Poisson and continuity equations. P-N junction, Zener diode, BJT, MOS capacitor, MOSFET, LED, photo diode and solar cell.
+Section 4: Analog Circuits
+Diode Circuits: clipping, clamping and rectifiers.
+BJT and MOSFET Amplifiers: biasing, ac coupling, small signal analysis, frequency response. Current mirrors and differential amplifiers.
+Op-amp Circuits: Amplifiers, summers, differentiators, integrators, active filters, Schmitt triggers and oscillators.
+Section 5: Digital Circuits
+Number Representations: binary, integer and floating-point- numbers. Combinatorial circuits: Boolean algebra, minimization of functions using Boolean identities and Karnaugh map, logic gates and their static CMOS implementations, arithmetic circuits, code converters, multiplexers, decoders.
+Sequential Circuits: latches and flip-flops, counters, shift-registers, finite state machines, propagation delay, setup and hold time, critical path delay.
+Data Converters: sample and hold circuits, ADCs and DACs. Semiconductor
+Memories: ROM, SRAM, DRAM.
+Computer Organization: Machine instructions and addressing modes, ALU, data-path and control unit, instruction pipelining.
+Section 6: Control Systems
+Basic control system components; Feedback principle; Transfer function; Block diagram representation; Signal flow graph; Transient and steady-state analysis of LTI systems; Frequency response; Routh-Hurwitz and Nyquist stability criteria; Bode and root-locus plots; Lag, lead and lag- lead compensation; State variable model and solution of state equation of LTI systems.
+Section 7: Communication
+Random Processes: auto correlation and power spectral density, properties of white noise, filtering of random signals through LTI systems.
+Analog Communications: amplitude modulation and demodulation, angle modulation and demodulation, spectra of AM and FM, super heterodyne receivers.
+Information Theory: entropy, mutual information and channel capacity theorem.
+Digital Communications: PCM, DPCM, digital modulation schemes (ASK, PSK, FSK, QAM), bandwidth, inter-symbol interference, MAP, ML detection, matched filter receiver, SNR and BER.
+Fundamentals of error correction, Hamming codes, CRC.
+Section 8: Electromagnetics
+Maxwel l's Equations: differential and integral forms and their interpretation, boundary conditions, wave equation, Poynting vector.
+Plane Waves and Properties: reflection and refraction, polarization, phase and group velocity, propagation through various media, skin depth.
+Transmission Lines: equations, characteristic impedance, impedance matching, impedance transformation, S-parameters, Smith chart.
+Rectangular and circular waveguides, light propagation in optical fibers, dipole and monopole antennas, linear antenna arrays.
+Department of Electrical Engineering
+M.Tech Programs:
+Power & Energy Systems
+Power Electronics & Drives
+Section 1: Electric circuits
+Network Elements: ideal voltage and current sources, dependent sources, R, L, C, M elements; Network solution methods: KCL, KVL, Node and Mesh analysis; Network Theorems: Thevenin's, Norton's, Superposition and Maximum Power Transfer theorem; Transient response of dc and ac networks, sinusoidal steady-state analysis, resonance, two port networks, balanced three phase circuits, star-delta transformation, complex power and power factor in ac circuits.
+Section 2: Electromagnetic Fields
+Coulomb's Law, Electric Field Intensity, Electric Flux Density, Gauss's Law, Divergence, Electric field and potential due to point, line, plane and spherical charge distributions, Effect of dielectric medium, Capacitance of simple configurations, Biot-Savart's law, Ampere's law, Curl, Faraday's law, Lorentz force, Inductance, Magnetomotive force, Reluctance, Magnetic circuits, Self and Mutual inductance of simple configurations.
+Section 3: Signals and Systems
+Representation of continuous and discrete time signals, shifting and scaling properties, linear time invariant and causal systems, Fourier series representation of continuous and discrete time periodic signals, sampling theorem, Applications of Fourier Transform for continuous and discrete time signals, Laplace Transform and Z transform. R.M.S. value, average value calculation for any general periodic waveform.
+Section 4: Electrical Machines
+Single phase transformer: equivalent circuit, phasor diagram, open circuit and short circuit tests, regulation and efficiency; Three-phase transformers: connections, vector groups, parallel operation; Auto-transformer, Electromechanical energy conversion principles; DC machines: separately excited, series and shunt, motoring and generating mode of operation and their characteristics, speed control of dc motors;
+Three-phase induction machines: principle of operation, types, performance, torque- speed characteristics, no-load and blocked-rotor tests, equivalent circuit, starting and speed control; Operating principle of single-phase induction motors; Synchronous machines: cylindrical and salient pole machines, performance and characteristics, regulation and parallel operation of generators, starting of synchronous motors; Types of losses and efficiency calculations of electric machines.
+Section 5: Power Systems
+Basic concepts of electrical power generation, ac and dc transmission concepts, Models and performance of transmission lines and cables, Economic Load Dispatch (with and without considering transmission losses), Series and shunt compensation, Electric field distribution and insulators, Distribution systems, Per-unit quantities, Bus admittance matrix, GaussSeidel and Newton-Raphson load flow methods, Voltage and Frequency control, Power factor correction, Symmetrical components, Symmetrical and unsymmetrical fault analysis, Principles of over-current, differential, directional and distance protection; Circuit breakers, System stability concepts, Equal area criterion.
+Section 6: Control Systems
+Mathematical modelling and representation of systems, Feedback principle, transfer function, Block diagrams and Signal flow graphs, Transient and Steady-state analysis of linear time invariant systems, Stability analysis using Routh-Hurwitz and Nyquist criteria, Bode plots, Root loci, Lag, Lead and Lead-Lag compensators; P, Pl and PID controllers; State space model, Solution of state equations of LTI systems
+Section 7: Electrical and Electronic Measurements
+Bridges and Potentiometers, Measurement of voltage, current, power, energy and power factor; Instrument transformers, Digital voltmeters and multi-meters, Phase, Time and Frequency measurement; Oscilloscopes, Error analysis.
+Section 8: Analog and Digital Electronics
+Simple diode circuits: clipping, clamping, rectifiers; Amplifiers: biasing, equivalent circuit and frequency response; oscillators and feedback amplifiers; operational amplifiers characteristics and applications; single stage active filters, Active Filters: Sallen Key, Butterwoth, VCOs and timers, combinatorial and sequential logic circuits, multiplexers, demultiplexers, Schmitt triggers, sample and hold circuits, A/D and D/A converters.
+Section 9: Power Electronics
+Static V- characteristics and firing/gating circuits for Thyristor, MOSFET, IGBT; DC to DC conversion: Buck, Boost and Buck-Boost Converters; Single and three-phase configuration of uncontrolled rectifiers; Voltage and Current commutated Thyristor based converters; Bidirectional ac to dc voltage source converters; Magnitude and Phase of line current harmonics for uncontrolled and thyristor based converters; Power factor and Distortion Factor of ac to dc converters; Single-phase and three- phase voltage and current source inverters, sinusoidal pulse width modulation.
+M.Tech Programs in
+Production and Industrial Engineering
+Thermal Engineering
+CAD/CAM
+Solid Mechanics, Machine Element Design, Theory of Machines and Mechanism, Dynamics and Machines, Vibration, CAD, FEM, and Robotics
+Fluid Mechanics and Fluid Machines, Thermodynamics and Heat Transfer, IC Engines, Refrigeration and Air conditioning, Hydraulics, and Pneumatics
+Casting, Welding, and Metal forming; Metal cutting Processes, Machines and cutting tool geometry, Metrology and Quality control; Automation in Production, Reliability and Maintenance engineering; Operations Research
+Department of Mechanical Engineering
+Department of Mechanical Engineering
+M.Tech in Biomedical Engineering
+Engineering Mathematics :
+Linear Algebra: Matrix algebra, systems of linear equations, Eigenvalues and Eigenvectors. Calculus: Mean value theorems, theorems of integral calculus, partial derivatives, maxima and minima, multiple integrals, Fourier series, vector identities, line, surface and volume integrals, Stokes, Gauss and Green's theorems.
+Differential equations: First order linear and nonlinear differential equations, higher order linear differential equations with constant coefficients, method of separation of variables, Cauchy's and Euler's equations, initial and boundary value problems, and solution of partial differential equations.
+Analysis of complex variables: Analytic functions, Cauchy's integral theorem and integral formula, Taylor's and Laurent's series, residue theorem.
+Probability and Statistics: Sampling theorems, conditional probability, mean, median, mode and standard deviation, random variables, discrete and continuous distributions: normal, Poisson and binomial distributions. Tests of Significance, statistical power analysis, and sample size estimation. Linear Regression and correlation analysis; Numerical Methods: Matrix inversion, numerical solutions of nonlinear algebraic equations, iterative methods for solving differential equations, numerical integration.
+Electrical Circuits : Voltage and current sources - independent, dependent, ideal and practical; v-i relationships of resistor, inductor and capacitor; transient analysis of RLC circuits with dc excitation; Kirchoff's laws, superposition, Thevenin, Norton, maximum power transfer and reciprocity theorems; Peak, average and rms values of ac quantities; apparent, active and reactive powers; phasor analysis, impedance and admittance; series and parallel resonance, realization of basic filters with R, L and C elements, Bode plot.
+Signals and Systems : Continuous and Discrete Signal and Systems - Periodic, a periodic and impulse signals; Sampling theorem; Laplace and Fourier transforms; impulse response of systems; transfer function, frequency response of first and second order linear time invariant systems, convolution, correlation. Discrete time systems - impulse response, frequency response, DFT, Z - transform; basics of IIR and FIR filter.
+Analog and Digital Electronics : Basic characteristics and applications of diode, BJT and MOSFET; Characteristics and applications of operational amplifiers - difference amplifier, adder, subtractor, integrator, differentiator, instrumentation amplifier, buffer, filters and waveform generators. Number systems, Boolean algebra; combinational logic circuits - arithmetic circuits, comparators, Schmitt trigger, encoder/decoder, MUX/DEMUX, multivibrators; Sequential circuits - latches and flip flops, state diagrams, shift registers and counters; Principles of ADC and DAC; Microprocessor- architecture, interfacing memory and input- output devices.
+Measurements and Control Systems : SI units, systematic and random errors in measurement, expression of uncertainty -accuracy and precision index, propagation of errors; PMMC, MI and dynamometer type instruments; dc potentiometer; bridges for measurement of R, L and C, Q-meter. Basics of control system - transfer function.
+Sensors and Bioinstrumentation : Sensors- resistive, capacitive, inductive, piezoelectric, Hall effect, electro chemical, optical; Sensor signal conditioning circuits; application of LASER in sensing and therapy.
+Origin of bio-potentials and their measurement techniques - ECG, EEG, EMG, ERG, EOG, GSR, PCG, Principles of measuring blood pressure, body temperature, volume and flow in arteries, veins and tissues, respiratory measurements and cardiac output measurement. Operating principle of medical equipment-sphygmomanometer, ventilator, cardiac pacemaker, defibrillator, pulse oximeter, hemodialyzer Electrical Isolation (optical and electrical) and Safety of Biomedical Instruments.
+Human Anatomy and Physiology : Basics of cell, types of tissues and organ systems; Homeostasis; Basics of organ systems - musculoskeletal, respiratory, circulatory, excretory, endocrine, nervous, gastro-intestinal and reproductive.
+Medical Imaging Systems : Basic physics, Instrumentation and image formation techniques in medical imaging modalities such as X-Ray, Computed Tomography, Single Photon Emission Computed Tomography, Positron Emission Tomography, Magnetic Resonance Imaging, Ultrasound.
+Biomechanics : Kinematics of muscles and joints - free-body diagrams and equilibrium, forces and stresses in joints, biomechanical analysis of joints, Gait analysis; Hard Tissues - Definition of Stress and Strain, Deformation Mechanics, structure and mechanical properties of bone - cortical and cancellous bones; Soft Tissues - Structure, functions, material properties, visco elastic properties, Maxwell & Voight models; Biofluid mechanics - Flow properties of blood in the intact human cardiovascular system.
+Biomaterials : Basic properties of biomaterials - Metallic, Ceramic, Polymeric and Composite; Fundamental characteristics of implants - biocompatibility, bioactivity, biodegradability; Basics of drug delivery; Basics of tissue engineering. Biomaterial characterization techniques - Rheology, Atomic Force Microscopy, Electron Microscopy, Transmission Electron Microscopy Fourier Transform Infrared Spectroscopy.
+Department of Metallurgical & Materials Engineering
+M.Tech in Materials Engineering
+Classification of Materials
+Polymers
+Ceramics
+Metals & Alloys
+Composites
+Structure and defects in Materials
+Unit cells and crystal lattices in Metals, Ceramics
+Defects
+Polymers
+Processing of Materials - Polymers, Ceramics, Metals
+Properties of polymers, ceramics, metals: Mechanical, Thermal, Electrical etc.
+Elements of Advanced materials: Nanomaterials, Biomaterials, Functional materials etc.
+M.Tech in Process Metallurgy
+Metal Casting, Shaping, and Joining
+Principles
+Techniques in casting, shaping and joining
+Process variables and their effects
+Physical Metallurgy and Heat Treatment
+Unit cells and crystal lattices
+Importance of Phase diagrams, Iron - Carbon phase diagram
+Heat treatment - Principles and techniques
+Deformation behavior
+Deformation - Elastic and Plastic
+Dislocation theory, Slip and Twinning
+Strengthening mechanisms, Recrystallization
+Corrosion and wea r
+Types and mechanisms
+Prevention methods
+Basics of Thermodynamics
+Laws of Thermodynamics
+Kinetics - Rate of reactions
+Ellingham diagram - Applications
+Extractive Metallurgy and Powder Metallurgy
+Pyrometallurgy -
+Iron, Copper b) Hydrometallurgy - Cu, Zn, Au
+Electrometallurgy - Al
+Powder Metallurgy-Techniques & Application.
+Department of Mining Engineering
+M.Tech in Excavation & Tunnel Engineering
+General Aptitude and Mathematics: Quantitative and reasoning aptitude, Basics of engineering mathematics including real and complex numbers, Differential and Integral calculus. Basics of statistics.
+Geology: Introduction to Engineering Geology, Structural Geology, Dip; True and apparent, Strike. Folds, Faults, Mineralogy, Definition and classification of Minerals. Petrology, Introduction to Petrology, Rock Cycle, Rock forming Minerals. Igneous petrology, classification of Igneous, Sedimentary and Metamorphic rocks.
+Surveying: Instruments for measuring distances, Angular measurement: Prismatic compass - principle and construction; bearing of lines; local attraction; magnetic declination.
+Theodolite: Essentials of the transit and modern micro-optic theodolite; measurement of horizontal and vertical angles; theodolite traversing, traverse calculations, adjustment of the traverse; computation of co-ordinates; temporary and permanent adjustments.
+Leveling: Definition of leveling terms; leveling instruments; different types of leveling; booking and reduction methods.
+Geo-Mechanics: Introduction to soil and rock and their properties, Concept of stress, strain. Introduction to elementary rock mass and soil classifications. Determination of physical properties, strengths, strength indices and static elastic constants; parameters influencing strength; and its determination.
+Surface Excavation and environment: Shovels, draglines, dumpers, belt conveyors; their main features, applicability, selection and production capacities.
+Element of air and water pollution.

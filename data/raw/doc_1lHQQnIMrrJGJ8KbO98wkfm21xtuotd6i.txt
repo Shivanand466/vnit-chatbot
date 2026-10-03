@@ -1,0 +1,28 @@
+SOURCE_URL: https://drive.google.com/file/d/1lHQQnIMrrJGJ8KbO98wkfm21xtuotd6i/view
+TITLE: Chemistry
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Chemistry (dated 2026-05-22)
+I Semester
+I Semester: Code: CHL511 — Course Title / Name: MOLECULAR THERMODYNAMICS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: CHL512 — Course Title / Name: PRINCIPLE OF ORGANIC SYNTHESIS; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: CHL513 — Course Title / Name: QUANTUM CHEMISTRY AND ATOMIC STRUCTURE; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: CHL514 — Course Title / Name: MAIN GROUP AND TRANSITION METAL CHEMISTRY; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: CHP526 — Course Title / Name: PHYSICAL CHEMISTRY; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: CHP516 — Course Title / Name: ORGANIC CHEMISTRY; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: HUL505 — Course Title / Name: COMMUNICATION SKILLS; Type: AU; Credit: 0; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: CSL501 — Course Title / Name: COMPUTER PROGRAMMING; Type: AU; Credit: 0; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: CSP501 — Course Title / Name: COMPUTER PROGRAMMING; Type: AU; Credit: 0; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Course Title / Name: Total Credits (DC) — Type: 0; Credit: 18
+IIISemester
+IIISemester: Code: CHL531 — Course Title / Name: APPLICATION OF SPECTROSCOPIC TECHNIQUES FOR STRUCTURE DETERMINATION; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+IIISemester: Code: CHL532 — Course Title / Name: SOLID STATE AND SURFACE CHEMISTRY; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+IIISemester: Code: CHL533 — Course Title / Name: BIOINORGANIC CHEMISTRY; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+IIISemester: Code: CHP534 — Course Title / Name: COMPUTATIONAL CHEMISTRY; Type: DC; Credit: 1; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+IIISemester: Code: CHP535 — Course Title / Name: SYNTHESIS AND CHARACTERIZATION; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+IIISemester: Code: CHD501 — Course Title / Name: PROJECT PHASE I; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+IIISemester: Course Title / Name: Total Credits (DC + DE) — Type: 0; Credit: 16
+Visvesvaraya National Institute of Technology, Nagpur
+List of Courses to be offered in Odd Semester for Session 2026-27 (Winter 2026)
+M.Sc. In Chemistry

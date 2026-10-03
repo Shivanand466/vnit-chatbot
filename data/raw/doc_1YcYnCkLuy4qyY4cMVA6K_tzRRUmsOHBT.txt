@@ -1,0 +1,54 @@
+SOURCE_URL: https://drive.google.com/file/d/1YcYnCkLuy4qyY4cMVA6K_tzRRUmsOHBT/view
+TITLE: Applied Mechanics
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Applied Mechanics (dated 2026-05-22)
+I Semester
+I Semester: Code: AML571 — Course Title / Name: FINITE ELEMENT ANALYSIS; Type: DC; Credit: 4; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML522 — Course Title / Name: STRUCTURAL DYNAMICS; Type: DC; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML508 — Course Title / Name: EARTHQUAKE ENGINEERING; Type: DC; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AMP501 — Course Title / Name: TECHNICAL WRITING AND COMMUNICATION SKILLS; Type: DC; Credit: 1; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Course Title / Name: Elective Courses (Any Two) — Type: 0; Credit: 0
+I Semester: Code: AML541 — Course Title / Name: THEORY OF PLATES AND SHELLS; Type: DE; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML547 — Course Title / Name: NUMERICAL METHODS AND PROGRAMMING; Type: DE; Credit: 4; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML510 — Course Title / Name: FOUNDATIONS; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML542 — Course Title / Name: STABILITY OF STRUCTURES; Type: DE; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML511 — Course Title / Name: MASONRY STRUCTURE AND RETROFITTING; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML513 — Course Title / Name: ADVANCED CONCRETE TECHNOLOGY AND TESTING; Type: DE; Credit: 4; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML515 — Course Title / Name: REINFORCED CONCRETE DESIGN TO IRC112; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML516 — Course Title / Name: EARTHQUAKE-RESISTANT DESIGN OF STRUCTURES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+I Semester: Code: AML517 — Course Title / Name: NUMERICAL METHODS FOR DYNAMIC SYSTEMS; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML523 — Course Title / Name: THEORY OF ELASTICITY AND PLASTICITY; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML521 — Course Title / Name: MATRIX METHOD OF STRUCTURAL ANALYSIS; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Course Title / Name: Total Credits (DC + DE) — Type: 0; Credit: 19-23
+IIISemester
+IIISemester: Code: AMD501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. of Students: -
+IIISemester: Course Title / Name: Total Credits (DC + DE) — Credit: 6
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M.TECH (Structural Dynamics and Earthquake Engineering)
+I Semester
+I Semester: Code: AML542 — Course Title / Name: STABILITY OF STRUCTURES; Type: DC; Credit: 4; Exam Slot: H; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML571 — Course Title / Name: FINITE ELEMENT ANALYSIS; Type: DC; Credit: 4; Exam Slot: A; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML522 — Course Title / Name: STRUCTURAL DYNAMICS; Type: DC; Credit: 4; Exam Slot: C; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML541 — Course Title / Name: THEORY OF PLATES AND SHELLS; Type: DC; Credit: 4; Exam Slot: E; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AMP501 — Course Title / Name: TECHNICAL WRITING AND COMMUNICATION SKILLS; Type: DC; Credit: 1; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Course Title / Name: Elective Courses — Type: 0; Credit: 0
+I Semester: Code: AML508 — Course Title / Name: EARTHQUAKE ENGINEERING; Type: DE; Credit: 4; Exam Slot: G; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML547 — Course Title / Name: NUMERICAL METHODS AND PROGRAMMING; Type: DE; Credit: 4; Exam Slot: B; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML510 — Course Title / Name: FOUNDATIONS; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML523 — Course Title / Name: THEORY OF ELASTICITY AND PLASTICITY; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML511 — Course Title / Name: MASONRY STRUCTURE AND RETROFITTING; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML513 — Course Title / Name: ADVANCED CONCRETE TECHNOLOGY AND TESTING; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML515 — Course Title / Name: REINFORCED CONCRETE DESIGN TO IRC112; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML543 — Course Title / Name: EARTHQUAKE DYNAMICS; Type: DE; Credit: 4; Offered (YES / NO): Not offered
+I Semester: Code: AML521 — Course Title / Name: MATRIX METHOD OF STRUCTURAL ANALYSIS; Type: DE; Credit: 4; Exam Slot: F; Offered (YES / NO): Offered; Max No. of Students: -
+I Semester: Code: AML516 — Course Title / Name: EARTHQUAKE-RESISTANT DESIGN OF STRUCTURES; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+I Semester: Course Title / Name: Total Credits (DC + DE) — Type: 0; Credit: 20-22
+IIISemester
+IIISemester: Code: AMD501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6 -; Exam Slot: Offered; Max No. of Students: -
+IIISemester: Course Title / Name: Total Credits (DC + DE) — Type: 0; Credit: 6
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M.TECH (Structural Engineering)

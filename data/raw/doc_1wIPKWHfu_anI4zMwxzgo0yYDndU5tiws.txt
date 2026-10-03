@@ -1,0 +1,24 @@
+SOURCE_URL: https://drive.google.com/file/d/1wIPKWHfu_anI4zMwxzgo0yYDndU5tiws/view
+TITLE: Brochure
+FETCHED: 2024-06-12
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Brochure (dated 2024-06-12)
+Digital VLSI Design using HDL
+Certification provided by
+Centre for VLSI & Nanotechnology
+Visvesvaraya National Institute of Technology, Nagpur, India
+Begins: Feb 15, 2024
+Mode: Hybrid
+Duration: 6 Months (24 weeks) Total 100+ Hrs
+Course Fees INR 40,000 + 18% GST
+Eligibility: HSC (science), BE/BTech/BSc any branch In Collaboration with
+Course Details:
+Industry trainers; 15+yrs of exp.
+Digital logic skills , HDL language ASIC design flows, Problem solving
+Enroll Now ! Open till 15th Jan 2024
+Pay here https://pay.vnit.ac.in/ Application fee Rs 1000/-
+Registration
+https://forms.gle/Ujz3uBJEDbo1skA69
+Course Coordinator Dr. Ganesh C. Patil
+Phone No.:-+91 712 2801591 | Email: ganeshcpatil@cvn.vnit.ac.in

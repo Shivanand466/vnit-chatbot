@@ -1,0 +1,43 @@
+SOURCE_URL: https://drive.google.com/file/d/1euNkp47bAfwVZA6nU5Acgkdf0DwBCvvg/view
+TITLE: Communication System Engineering
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Communication System Engineering (dated 2026-08-05)
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech. in Communication Systems
+M. Tech. in Communication Systems: Code: ECL525 — Course Title / Name: SIGNAL PROCESSING FOR COMMUNICATION SYSTEM; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech. in Communication Systems: Code: ECL524 — Course Title / Name: STATISTICAL SIGNAL ANALYSIS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+M. Tech. in Communication Systems: Code: ECL521 — Course Title / Name: INFORMATION THEORY AND CODING; Type: DC; Credit: 3; Exam Slot: A; Offered (YES / NO): Offered
+M. Tech. in Communication Systems: Code: ECL523 — Course Title / Name: WIRELESS CHANNELS; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+M. Tech. in Communication Systems: Code: ECL520 — Course Title / Name: COMPUTATIONAL ELECTROMAGNETISM; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+M. Tech. in Communication Systems: Code: ECP518 — Course Title / Name: COMMUNICATION SYSTEM -I; Type: DC; Credit: 1; Exam Slot: A; Offered (YES / NO): Offered
+M. Tech. in Communication Systems: Code: ECP525 — Course Title / Name: SIGNAL PROCESSING FOR COMMUNICATION SYSTEM; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech. in Communication Systems: Course Title / Name: Elective Courses
+M. Tech. in Communication Systems: Code: ECL402 — Course Title / Name: COMMUNICATION NETWORKS & NETWORK APPLICATIONS; Type: DE; Credit: €; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: ECP402 — Course Title / Name: COMMUNICATION NETWORKS & NETWORK APPLICATION; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: ECL416 — Course Title / Name: FUZZY LOGIC AND NURAL NETWORKS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: ECL418 — Course Title / Name: NETWORK PLANNING AND MANAGEMENT; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: ECL513 — Course Title / Name: SYNCHRONIZATION AND TRACKING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: ECL428 — Course Title / Name: INDUSTRIAL COMMUNICATION SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: ECP440 — Course Title / Name: CYBER LAW AND TELECOM REGULATION WORKSHOP; Type: DE; Credit: 1; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: BCP441 — Course Title / Name: NETWORK STANDARDS WORKSHOP; Credit: 1; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: BCP442 — Course Title / Name: SOFTWARE ENGINEERING WORKSHOR; Type: DE; Credit: 1; Offered (YES / NO): Notoffered
+M. Tech. in Communication Systems: Code: ECL526 — Course Title / Name: COMPUTER VISION; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+M. Tech. in Communication Systems: Code: ECP526 — Course Title / Name: COMPUTERVISION; Type: DE; Credit: 壬; Offered (YES / NO): Not offered
+M. Tech. in Communication Systems: Code: ECL530 — Course Title / Name: CONTEMPORARY EMBEDDED SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026): BCL532 | WAVELETS AND MULTI-MEDIA APPLICATIONS | DE | Not offered
+List of courses to be offered for 2026-27 (Winter 2026): BGL531 | MACHINE LEARNING AND LEARNING MACHINES | DE | ε | Not offered
+List of courses to be offered for 2026-27 (Winter 2026): MAL503 | STATISTICAL METHODS FOR URBAN PLANNING | DE | ε | Not-offered
+List of courses to be offered for 2026-27 (Winter 2026): MAL504 | APPLIED LINEARALGEBRA | DE | 3 | Not offered
+List of courses to be offered for 2026-27 (Winter 2026): BCL430 | BIOMEDICAL SIGNAL PROCESSING | DE | 3 | Notoffered
+List of courses to be offered for 2026-27 (Winter 2026): BCL410 | SATELLITECOMMUNICATION | DE | 3 | Not-offered
+List of courses to be offered for 2026-27 (Winter 2026): ECL534 | PHOTONIC INTEGRATED CIRCUITS AND COMMUNIGATION SYSTEMS | DE | 3 | Not offered
+List of courses to be offered for 2026-27 (Winter 2026): ECP534 | PHOTONIC INTEGRATED CIRCUITS AND COMMUNIGATION SYSTEMS | DE | 1 | Notoffered
+List of courses to be offered for 2026-27 (Winter 2026): BCP514 | ELECTROMAGNETIC INTERFERENCE AND COMPATIBILITY | DE | Not offered
+List of courses to be offered for 2026-27 (Winter 2026): BCP430 | BIOMEDICALSIGNAL PROCESSING | DE | 1 | Not offered
+List of courses to be offered for 2026-27 (Winter 2026): ECL549 | MICROWAVE INTEGRATED CIRCUITS & SYSTEMS | DE | 4 | C | Offered
+List of courses to be offered for 2026-27 (Winter 2026): Total Credits (DC + DE) | Total Credits (DC + DE) | 20-21

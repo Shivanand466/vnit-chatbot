@@ -1,0 +1,61 @@
+SOURCE_URL: https://drive.google.com/file/d/1tI3upvPTkiI9N-j77i2wpA-BVbbnNr9z/view
+TITLE: Electrical Engineering – All PG Programs
+FETCHED: 2026-08-05
+FOUND_ON: https://vnit.ac.in/section/academics/admission
+---
+Document: Electrical Engineering – All PG Programs (dated 2026-08-05)
+1 Semester
+Visvesvaraya National Institute of Technology, Nagpur List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (POWER AND ENERGY SYSTEM)
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL501 — Course Title / Name: POWER SYSTEM ANALYSIS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL502 — Course Title / Name: POWER SYSTEM DYNAMICS-I; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL504 — Course Title / Name: DIGITAL PROTECTION OF POWER SYSTEM; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEP501 — Course Title / Name: POWER SYSTEM ANALYSIS; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEP504 — Course Title / Name: DIGITAL PROTECTION OF POWER SYSTEM; Type: DC; Credit: 1; Exam Slot: B; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Course Title / Name: Elective Courses
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL409 — Course Title / Name: HVDC; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL516 — Course Title / Name: ADVANCED CONTROL THEORY; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL522 — Course Title / Name: POWER ELECTRONICS CONVERTERS; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEP522 — Course Title / Name: POWER ELECTRONICS CONVERTERS; Type: DE; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEL518 — Course Title / Name: ELECTRICAL DRIVES - I; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Code: EEP518 — Course Title / Name: ELECTRICAL DRIVES-1; Type: DE; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered
+M. Tech in (POWER AND ENERGY SYSTEM): Course Title / Name: Total Credits (DC + DE) — Credit: 18
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for2026-27 (Winter 2026)
+M. Tech in ( POWER ELECTRONICS AND DRIVES)
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL518 — Course Title / Name: ELECTRICAL DRIVES - 1; DC; Type Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL522 — Course Title / Name: POWER ELECTRONICS CONVERTERS; DC; Type Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL525 — Course Title / Name: PROCESSOR APPLICATION IN PE; DC; Type Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEP518 — Course Title / Name: ELECTRICAL DRIVES-I; DC; Type Credit: I; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEP520 — Course Title / Name: POWER ELECTRONICS; DC; Type Credit: 1; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEP525 — Course Title / Name: PROCESSOR APPLICATION IN PE; DC; Type Credit: 1; Exam Slot: H; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: Elective Courses (Any Two) — Course Title / Name: Elective Courses (Any Two)
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL514 — Course Title / Name: PULSE WIDTH MODULATION TECHNIQUES FOR POWER CON; DE; Type Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL516 — Course Title / Name: ADVANCED CONTROL THEORY; DE; Type Credit: 3; Exam Slot: C; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL532 — Course Title / Name: ANALYSIS OF ELECTRICAL MACHINES; DE; Type Credit: ε; Exam Slot: F; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: EEL534 — Course Title / Name: MULTILEVEL INVERTER; DE; Type Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for2026-27 (Winter 2026) | M. Tech in ( POWER ELECTRONICS AND DRIVES): Code: Total Credits (DC + DE) — Course Title / Name: Total Credits (DC + DE); Type Credit: 18
+I Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in Control and Automation
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL537 — Course Title / Name: FUNDAMENTALS OF STATE SPACE THEORY; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL538 — Course Title / Name: FUNDAMENTALS OF DYNAMICS AND CONTROL; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL539 — Course Title / Name: LINEAR SYSTEM THEORY; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEP540 — Course Title / Name: CONTROL SYSTEMS LABORATORY; Type: DC; Credit: 1; Exam Slot: H; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEP550 — Course Title / Name: SEMINAR-I; Type: DC; Credit: 1; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Course Title / Name: Elective Courses (Any Two Theory)
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL541 — Course Title / Name: PROCESS CONTROL AND AUTOMATION; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL542 — Course Title / Name: INTRODUCTION TO ROBOTIC SYSTEMS; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL543 — Course Title / Name: CONTROL STRATEGIES FOR EV SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL544 — Course Title / Name: MODELLING OFDYNAMICALSYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL545 — Course Title / Name: FRACTIONAL DYNAMICS AND CONTROL ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL546 — Course Title / Name: BIFURCATIONS AND CHAOS THEORY; Type: DE; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL547 — Course Title / Name: NAVIGATION AND CONTROL SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Course Title / Name: Elective Courses (Any One Theory plus Lab) — Type: 0; Credit: 0; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL548 — Course Title / Name: AI BASED CONTROL; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEP548 — Course Title / Name: CONTROL SYSTEMS AND IMPLEMENTATION LAB; Type: DE; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEL549 — Course Title / Name: MULTI-AGENT SYSTEMS; Type: DE; Credit: 3; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Code: EEP549 — Course Title / Name: EMBEDDED CONTROLSYSTEMS LAB; Type: DE; Credit: 1; Offered (YES / NO): Notoffered
+List of courses to be offered for 2026-27 (Winter 2026) | M. Tech in Control and Automation: Course Title / Name: Total Credits (DC + DE) — Credit: 21

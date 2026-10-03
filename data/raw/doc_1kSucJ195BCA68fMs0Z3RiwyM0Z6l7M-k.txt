@@ -1,0 +1,96 @@
+SOURCE_URL: https://drive.google.com/file/d/1kSucJ195BCA68fMs0Z3RiwyM0Z6l7M-k/view
+TITLE: Chemical Engineering
+FETCHED: 2026-05-22
+FOUND_ON: https://vnit.ac.in/section/academics/notice/
+---
+Document: Chemical Engineering (dated 2026-05-22)
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+B. Tech. in Chemical Engineering
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CMLA201 — Course Title / Name: CHEMICAL PROCESS CALCULATION; Type: DC; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CMLA202 — Course Title / Name: FLUID MECHANICS; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CMLA203 — Course Title / Name: MECHANICAL OPERATIONS; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CMLA204 — Course Title / Name: CHEMICAL ENGINEERING THERMODYNAMICS-I; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CHLA201 — Course Title / Name: ORGANIC CHEMISTRY AND SYNTHESIS; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CMPA203 — Course Title / Name: MECHANICAL OPERATIONS; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CMPA205 — Course Title / Name: TECHNICAL ANALYSIS; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Course Title / Name: MANDATORY NON-CREDIT CATEGORY-I — Type: MNC; Credit: 0; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Course Title / Name: Program Elective — Type: 0; Credit: 0
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CMLA206 — Course Title / Name: CORROSION ENGINEERING; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Code: CMLA207 — Course Title / Name: CHEMICAL INFORMATICS; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Course Title / Name: IE — Type: IE; Credit: 3; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026) | B. Tech. in Chemical Engineering: Course Title / Name: Total Credits (DC + IE/DE/HM/OC) — Type: IE; Credit: 26; Offered (YES / NO): Offered
+V Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML301 — Course Title / Name: MASS TRANSFER II; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML302 — Course Title / Name: CHEMICAL PROCESS MODELING AND SIMULATION; Type: DC; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML303 — Course Title / Name: PROCESS CONTROL AND INSTRUMENTATION; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML304 — Course Title / Name: CHEMICAL REACTION ENGINEERING II; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CMP304 — Course Title / Name: CHEMICAL REACTION ENGINEERING II; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML353 — Course Title / Name: CHEMICAL PROCESS EQUIPMENT DESIGN; Type: DC; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CMP321 — Course Title / Name: MASS TRANSFER; Type: DC; Credit: 1; Exam Slot: E; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CMP453 — Course Title / Name: DESIGN LAB; Type: DC; Credit: 1; Exam Slot: G; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: Elective Courses (Any One) — Course Title / Name: Elective Courses (Any One); Type: Elective Courses (Any One); Credit: Elective Courses (Any One); Exam Slot: Elective Courses (Any One); Offered (YES / NO): Elective Courses (Any One); Max No. Of Students: Elective Courses (Any One)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML232 — Course Title / Name: INTRODUCTION TO COMPUTING SOFTWARE FOR CHEMICAL ENGINEERS; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML388 — Course Title / Name: PULP AND PAPER TECHNOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML383 — Course Title / Name: ADVANCE HEAT TRANSFER; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML389 — Course Title / Name: CHEMICAL INFORMATICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML391 — Course Title / Name: SURFACE COATING ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CHL369 — Course Title / Name: GREEN CHEMISTRY & ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CML524 — Course Title / Name: POLYMER SCIENCE AND ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: OC /HM — Course Title / Name: OC /HM; Type: OC /HM; Credit: OC /HM; Exam Slot: OC /HM; Offered (YES / NO): OC /HM; Max No. Of Students: OC /HM
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: Total Credits (DC — Course Title / Name: + DE); Type: Total Credits (DC; Credit: 0 21
+VII Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+0
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML403 — Course Title / Name: PLANT DESIGN AND ECONOMICS; Type: DC; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CMD401 — Course Title / Name: PROJECT PHASE I; Type: DC; Credit: 3; Exam Slot: -; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026): Code: CMP453 — Course Title / Name: DESIGN LAB; Type: DC; Credit: 1; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: Elective — Course Title / Name: Elective; Type: 0; Credit: 0
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML425 — Course Title / Name: Courses (Any Five) MEMBRANE TECHNOLOGY; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML426 — Course Title / Name: POLYMER PROCESSING; Type: DE; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML427 — Course Title / Name: ADVANCED SEPARATION PROCESS; Type: DE; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML428 — Course Title / Name: CFD FOR CHEMICAL ENGINEERS; Type: DE; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML437 — Course Title / Name: PIPING ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML481 — Course Title / Name: INSTRUMENTAL ANALYTICAL TECHNIQUES; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML537 — Course Title / Name: SUSTAINABLE ENGINEERING; Type: DE; Credit: 3; Exam Slot: C; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML529 — Course Title / Name: OPTIMIZATION TECHNIQUES IN PROCESS DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML390 — Course Title / Name: TECHNOLOGY OF PAINTS PIGMENTS AND POWDER COATING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML415 — Course Title / Name: COMPUTATIONAL METHODS IN CHEMICAL ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML436 — Course Title / Name: ADVANCED SEPARATION TECHNOLOGY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML440 — Course Title / Name: CHEMICAL REACTOR ANALYSIS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML401 — Course Title / Name: DATA ANALYTICS FOR CHEMICAL ENGINEERS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML402 — Course Title / Name: MOLECULAR SIMULATION AND INFORMATICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML528 — Course Title / Name: INTERFACIAL SCIENCE AND ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: CML524 — Course Title / Name: POLYMER SCIENCE AND ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026): Course Title / Name: OC /HM/ MOOC1 — Type: DE; Credit: 3; Offered (YES / NO): Offered
+List of courses to be offered for 2026-27 (Winter 2026): Code: Total — Course Title / Name: Credits (DC + DE); Type: 0; Credit: 18
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+M. Tech in (CHEMICAL ENGINEERING)
+I Semester
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML501 — Course Title / Name: THERMODYNAMICS OF PHASE AND CHEMICAL EQUILIBRIA; Type: DC; Credit: 3; Exam Slot: B; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML502 — Course Title / Name: CHEMICAL AND CATALYTIC REACTION ENGINEERING; Type: DC; Credit: 3; Exam Slot: D; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML503 — Course Title / Name: MOMENTUM MASS AND HEAT TRANSFER; Type: DC; Credit: 3; Exam Slot: E; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML504 — Course Title / Name: MATHEMATICAL METHODS IN CHEMICAL ENGINEERING; Type: DC; Credit: 3; Exam Slot: F; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CMP508 — Course Title / Name: ANALYTICAL AND INSTRUMENTAL; Type: DC; Credit: 1; Exam Slot: D; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CMP509 — Course Title / Name: COMPUTATIONAL AND DESIGN; Type: DC; Credit: 1; Exam Slot: F; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: Elective Courses(Any Two) — Course Title / Name: Elective Courses(Any Two); Type: Elective Courses(Any Two); Credit: Elective Courses(Any Two); Exam Slot: Elective Courses(Any Two); Offered (YES / NO): Elective Courses(Any Two); Max No. Of Students: Elective Courses(Any Two)
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML529 — Course Title / Name: OPTIMIZATION TECHNIQUES IN PROCESS DESIGN; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML528 — Course Title / Name: INTERFACIAL SCIENCE AND ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML533 — Course Title / Name: MASS TRANSFER WITH CHEMICAL REACTION; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML521 — Course Title / Name: CHEMICAL ENGG. COMPUTATIONAL FLUID DYNAMICS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML536 — Course Title / Name: ANALYSIS AND DESIGN OF EXPERIMENTS; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML534 — Course Title / Name: RELIABILITY ANALYSIS IN PROCESS INDUSTRY; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML537 — Course Title / Name: SUSTAINABLE ENGINEERING; Type: DE; Credit: 3; Offered (YES / NO): Not offered
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML511 — Course Title / Name: ANALYTICAL AND INSTRUMENTAL METHODS; Type: DE; Credit: 3; Exam Slot: H; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: CML524 — Course Title / Name: POLYMER SCIENCE AND ENGINEERING; Type: DE; Credit: 3; Exam Slot: G; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | I Semester: Code: Total Credits (DC — Course Title / Name: + DE); Type: 0; Credit: 20
+III Semester
+Visvesvaraya National Institute of Technology, Nagpur
+List of courses to be offered for 2026-27 (Winter 2026)
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: CMD501 — Course Title / Name: PROJECT PHASE - I; Type: DC; Credit: 6; Exam Slot: -; Offered (YES / NO): Offered; Max No. Of Students: -
+List of courses to be offered for 2026-27 (Winter 2026) | List of courses to be offered for 2026-27 (Winter 2026): Code: 0 — Course Title / Name: Total Credits (DC + DE); Credit: 6

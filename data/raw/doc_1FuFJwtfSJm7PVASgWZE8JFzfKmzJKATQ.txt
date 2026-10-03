@@ -1,0 +1,212 @@
+SOURCE_URL: https://drive.google.com/file/d/1FuFJwtfSJm7PVASgWZE8JFzfKmzJKATQ/view
+TITLE: TESLA Club
+FETCHED: 2025-02-20
+FOUND_ON: http://vnit.ac.in/student-activity-clubs-vnit
+---
+Document: TESLA Club (dated 2025-02-20)
+Tesla Club of Innovation Tesla Club of Innovation
+Work report Semester W24
+· Projects:-
+1) Electric Vehicle
+At the start of the semester, we continued the work on the vehicle built by our senior batch and completed it to make it fully functional for operation.
+We are planning to design a lightweight, reliable, high-speed electric vehicle (EV) to address frequent issues observed in the previous model. Additionally, we aim to incorporate advanced technologies such as an efficient Battery Management System (BMS) and foldable solar panels.
+Required funds - Rs 1,00,000
+2) Low Cost Trolly Vehicle
+The project commenced on October 15, 2024, and was successfully completed on December 31, 2024. We developed a cost-effective goods and carrier vehicle with the following technical specifications:
+Type: Three-wheeler
+Maximum Speed: 43 km/h
+Load Capacity: 200 kg
+Range: Approximately 70 km per charge
+Manufacturing Cost: ₹75,000
+T
+3) Solar Charger for vehicle
+Using the club's existing solar panels, we aim to develop a solar charger incorporating an MPPT (Maximum Power Point Tracking) charge controller. This charger will be used to charge our vehicle, promoting renewable energy adoption.
+As the next step, we will design and implement a converter for this charger to ensure a constant and smooth power supply.
+Additionally, we plan to establish a solar charging station in front of the club's premises as an extension of this project.
+-Required funds - Rs20,000
+4) Battery Management system
+We will design a detailed plan for a Battery Management System (BMS) and a battery pack with a configuration of 72V, 42Ah for our new Electric Vehicle (EV).
+This includes studying various sensors and auxiliaries essential for an efficient BMS.
+required funds - Rs 45000/-
+5) Energy from Mechanical Vibrations
+We will explore methods to harness energy from mechanical vibrations using the piezoelectric effect and linear generator mechanisms.
+The focus will be on extracting energy from sources like railway platform vibrations and movements of trees.
+-Required funds - Rs 15,000
+6) Delivery drone
+Drone is designed to autonomously transport small packages over short to medium distances, optimizing delivery times and reducing human labor. The team is focusing on ensuring high efficiency, safety, and precision in flight, incorporating advanced technologies such as GPS navigation, obstacle avoidance, and real-time communication Systems.
+Required funds - Rs 20,000/-
+· Workshops: -
+1) SolidWorks workshop :
+On 19th October 2024, we conducted a SolidWorks workshop for second-year students.
+During this 2-hour session, participants were introduced to CAD software and its applications, with a focus on designing EV components.
+2) Fusion workshop:
+We have scheduled this workshop for January 11, 2025, aimed at first-year students to provide them with a basic understanding of CAD software. Through a combination of hands-on activities, insightful discussions, and guided projects, students will explore design software.
+3) MATLAB workshop:
+This workshop is scheduled for January 18, 2025, and is designed for first-year students to introduce them to MATLAB. Participants will have the opportunity to enhance their technical skills by working on hands-on projects, learning how to design, simulate, and analyze circuits .
+4) PCB design Workshop:
+Scheduled for the beginning of March, this workshop is aimed at providing participants with essential knowledge and skills in circuit design using software and transferring those designs to PCB boards. Key topics covered will include the basics of PCB design, component selection, schematic creation, and layout techniques.
+5) Prayas club collaboration with other technical clubs:
+The Tesla Club of Innovation, in collaboration with the Prayas Club, is organizing an exciting initiative aimed at school students. This program will provide them with a basic understanding of electrical, electronics, and mechanical components through hands-on projects and experiments. The goal is to engage students with practical knowledge and inspire them to explore the world of science, technology, engineering, and mathematics in an interactive and fun way.
+Budget requirement
+Current fund for club = Rs 1,20,000 Total expenses in semester = Rs 50,000 Fund remaining =1,20,000 -50,000 =Rs 70,000 Total fund required for project activities = Rs 2,00,000 Fund required for purchasing basic tools = Rs 50,000
+Extra fund required = 2,00,000 + 50,000 - 70,000 = Rs 1,80,000
+Report
+Mini Goods Carrier Trolley
+Made by Tesla Club of innovation
+Index:
+Introduction and Aim of the project
+Market Survey
+Main Component of the project
+What makes our carrier smart choice in this price range
+Circuit Diagrams
+Ratings of Components Used
+Basic Stats of Trolley
+Total Cost Estimation of the project
+Introduction:
+3 Wheeler Electric Trolley Goods Carrier
+Aim:
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system.
+Market Analysis:
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Market Analysis: Brand: Mini Metro — Model: Electric Cargo Rickshaw; Price Range: ₹ 1.15 lakh; Loading Capacity: 400 kg; Range (Km): 80
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Market Analysis: Brand: Mahindra — Model: Treo Zor; Price Range: ₹ 3.13- 3.48 lakh; Loading Capacity: 550kg; Range (Km): 125
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Market Analysis: Brand: YC Electric — Model: E Loader; Price Range: ₹ 1.35 lakh; Loading Capacity: 500kg; Range (Km): 80
+Main Components of the Project:
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Main Components of the Project: Component: Chassis
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Main Components of the Project: Component: Rear Wheel
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Main Components of the Project: Component: Leaf Spring for back differential
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Main Components of the Project: Component: E-Rickshaw Differential
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Main Components of the Project: Component: Battery Pack
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Main Components of the Project: BLDC Motor with controller
+Design and develop an affordable,eco friendly 3 wheeler mini electronic goods carrier that empowers middle-class families with an efficient and sustainable transportation system. | Main Components of the Project: Activa front wheel with front suspension
+Why our Carrier?
+These points make our carrier the smartest choice in this price range:
+Affordable & Efficient & Eco-friendly : Specifically designed for middle-class families, priced around ₹60,000 , making it an economical choice.& ideal for everyday transportation needs . It will carry upto 400 Kg Load
+Solar Charging Option : Equip the vehicle with solar panels for charging the battery, reducing electricity costs and extending the vehicle's range in sunny regions.
+GPS Tracking : Ensures real-time tracking of the vehicle for enhanced security and monitoring
+Weighing Scale : Integrated into the trolley's base, allowing users to accurately measure the weight of goods being transported.
+Customizable Storage Compartments : Offer modular or adjustable storage options to suit different types of goods, making it versatile for various users
+Smartphone Integration : Allow users to control and monitor the carrier (battery status, GPS, etc.) through a smartphone app, providing convenience and advanced functionality.
+Anti-theft Alarm System : Add an integrated security system that alerts the owner via their smartphone in case of unauthorized movement or tampering.
+Remote Lock/Unlock : Enable users to lock or unlock the carrier remotely through a mobile app for added security.
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one, minimizing downtime
+Circuit Diagram:
+1) Overall Main Circuit:
+2) Accessories:
+Basic Stats about the trolley
+3 wheeler vehicle
+Maximum Speed = 43 km/hr
+Expected Range = 70km
+Load carrying capacity = 200kg
+Drum brake for rear wheel
+Disc brake for front wheel
+Components And Ratings:
+● Battery Specification:
+Model Type: Lead Acetate Battery
+Capacity : 42 AH
+Rated Voltage : 12V
+Charging Voltage : 14V
+Discharging Voltage : 10V
+● Controller Specifications:
+3 Phase
+Supply Wires
+Reverse/Forward
+Ignition
+Hall Sensor
+● Components:
+Push Button
+MCB 63A, MCB 5A
+Vehicle Controller
+BLDC Motor
+Indicator
+Back Lights
+Brake
+Head Lights
+●
+Accessories and their power consumption :
+HeadLight : 12W
+Indicator : 1.2W
+BackLight : 1.2W
+Brake Light : 1.2W
+● Motor Specifications:
+Motor Type: BLDC Motor 48V 1500W
+Rated Voltage: 48V
+Rated Current : 31 A
+Rated Power : 1500W
+Rated Speed : 3300 r/m
+Starting Point : 0.3 N.M
+■ Speed : 327 r/m
+■ Current : 6.867 A
+Maximum Torque Point : 278 N.M
+■ Speed : 13 r/m
+■ Current : 55.48 A
+■ Output Power : 378.5 W
+■ Efficiency : 14.3%
+Maximum Output Power Point : 2111W
+Maximum Efficiency : 77.8%
+■ Speed: 242 r/m
+■ Current:
+A
+■ Efficiency: 77.8 %
+■ Torque: 79.3 N.M
+■ Speed: 242 r/m
+■ Current:
+56.88 A
+■ Output power: 2111
+Total Cost of Trolley:
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: BLDC Motor + Controller 1500W,48V — Cost(in rupees): 18000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Lead-Acid Battery (42Ah,12V) — Cost(in rupees): 18000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Throttle — Cost(in rupees): 700
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: MCB(63A) — Cost(in rupees): 400
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: MCB(5A) — Cost(in rupees): 200
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Backtyre(2 nos.) — Cost(in rupees): 2000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Back ring(2 nos.) — Cost(in rupees): 1800
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Front Wheel Tyre — Cost(in rupees): 1000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Front wheel rim — Cost(in rupees): 1000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: LCD Display — Cost(in rupees): 1200
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Junction Box — Cost(in rupees): 50
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Caliper + Brake — Cost(in rupees): 3000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Differential + Leaf Spring — Cost(in rupees): 11000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Brake Rod — Cost(in rupees): 300
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Key Switch — Cost(in rupees): 700
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Push Button — Cost(in rupees): 200
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Parts: Headlight — Cost(in rupees): 400
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Socopsar — 400: 2000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Switches — 400: 200
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Steel — 400: 5000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Colour — 400: 500
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Lock — 400: 300
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Nut & Bold — 400: 150
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Welding Rod — 400: 300
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Grinding & Cutting Wheel — 400: 100
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Wire — 400: 1000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Seat — 400: 200
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Cable Tie — 400: 180
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Insulation Tape — 400: 40
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Buck Converter — 400: 1162
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Indicator Circuitry — 400: 200
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Mudguard — 400: 1000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Belt — 400: 500
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: Finishing Tool — 400: 2000
+Battery Swapping System : Designed the vehicle with a swappable battery option, allowing users to quickly replace a low battery with a fully charged one,... | Total Cost of Trolley: Backlight + Indicator: TOTAL — 400: 75182
+VISVESVARAYA NATIONAL INSTITUTE OF
+TECHNOLOGY, NAGPUR Tesla Club of Innovation
+Report
+A one-day Workshop on 'Matlab and Simulink' was organized by Tesla Club of Innovation, Visvesvaraya National Institute of Technology (VNIT), Nagpur on 19th January 2025 for the 1st year students of VNIT Nagpur.
+The 1st year students were well informed that they need to install Matlab & Simulink into their laptop one day before the event. They were provided the detailed method of installing Software into their device. Before the start of the event
+Students learning Matlab
+it was made sure that all the students had Matlab & Simulink in their laptop with certain exceptions where the student was made to sit with another student with Matlab & Simulink. The Workshop started at around 11:00 am with the students being introduced to the importance of coding and simulation softwares in various fields of engineering. Then, In a duration of about 2 hours they were taught the basics of coding which included basic matrix manupulation and mathematical function.
+After the Matlab Session was over, the students were introduced to the basics of the simulink and also application was taught by using simulations. Refreshment were also given to the participant so that they stay focused and energised.
+The students were then taken to the club after the workshop where they were shown the vehicle the Tesla
+team had built so that they could get a more clear and practical understanding of the Mechanical
+and Electrical parts that they were taught. They were asked for suggestions or ideas that they would like to give so as to make the vehicle more efficient and smooth. The Workshop got over.
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR
+Tesla Club of Innovation
+Fusion 360 Workshop Report
+A oneday Workshop on ' Fusion 360 ' was organized by Tesla Club of I nnovation, Visvesvaraya National Institute of Technology (VNIT), Nagpur on 11 th January 2025 for the 1 s t year students of all the departments at VNIT Nagpur .
+Students learning Fusion360
+The 1st year students were well informed that they need to i nstall Fusion 360 i nto their l aptop 2 days before the event. They were provided the detailed method of i nstalling Fusion 360 into their device. Before the start of the event it was made sure that all the students had
+Fusion 360 i n their l aptop with certain exceptions where the student was made to sit
+with another student with Fusion 360. The Workshop started at around 10:00 am with the students being i ntroduced to the i mportance of CAD/CAM software in various fields of engineering. Then, in a duration of about 3 hours they were taught the basic concepts of fusion 360.
+We started by explaining the concepts of Orthographic and Isometric Projections to help them visualize designs effectively. Once they grasped these fundamentals, we moved on to hands-on 3D modeling in Fusion 360. Using practical examples like a toy block, glass bottle, hex nut, and four-bar mechanism, we guided them through the process, making i t easier to understand key design techniques. By the end of the workshop, participants had a solid foundation in CAD modeling and the confidence to explore more complex designs on their own. Lastly, they were given a practice question as home assignment of slider crank mechanism.
+The Workshop got over with them being informed about the Tesla Club and the recruitment process at 1:30 pm.
+T

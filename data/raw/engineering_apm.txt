@@ -1,6 +1,6 @@
 SOURCE_URL: https://vnit.ac.in/engineering/apm
 TITLE: VNIT Nagpur Applied Mechanics Department
-FETCHED: 2026-09-21
+FETCHED: 2026-10-02
 ---
 Specialization(s)
 Structural Engineering
@@ -21,18 +21,12 @@ Vision
 The Department is committed to provide post graduate academic and research programs to produce high quality human resource with ability to meet the global challenges associated with built environment and to emerge as centre for advanced studies in the field of structural engineering.
 Mission
 The mission of the department is to achieve excellence in structural and earthquake engineering education, research and professional service. It is endeavored to equip students to assume leadership positions in engineering practice, education, research and serve mankind with structures designed for safety, serviceability and economy.
-Department Stats
-0
-PG Specialisations
-0
-Faculty
-0
-Students
-0
-Publications (This Year)
-0
-Ongoing R&D Projects (With Budget of 231.41 Lakhs)
-0
+Department Stats 0
+PG Specialisations 0
+Faculty 0
+Students 0
+Publications (This Year) 0
+Ongoing R&D Projects (With Budget of 231.41 Lakhs) 0
 Patents: (This Year) Published and Filed
 News & Events
 PhD Admission – Summer 2026

@@ -1,0 +1,426 @@
+SOURCE_URL: http://vnit.ac.in/wp-content/uploads/2023/04/20210318_YUKTI-Sanchita-2021.pdf
+TITLE: Yukti-Sanchita
+FETCHED: 2023-04-01
+FOUND_ON: https://vnit.ac.in/s-tic-vnit
+---
+Document: Yukti-Sanchita (dated 2023-04-01)
+N
+S
+R
+N
+7
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ 2021 YUKTI-Sanchita 2021
+õÖ´ÖŸÖÖ ×®Ö´ÖÖÔÞÖ Û ÖµÖÔÛÎ ´Ö Û ÖµÖÖÔ»ÖµÖ CAPACITY BUILDING PROGRAMME OFFICE
+B
+õÖ´ÖŸÖÖ ×®Ö´ÖÖÔÞÖ ÛúÖµÖÔÛÎú´Ö ÛúÖµÖÖÔ»ÖµÖ ³ÖÖ¸üŸÖßµÖ †ÓŸÖ×¸üõÖ †®ÖãÃÖÓ¬ÖÖ®Ö ÃÖÓÝÖšü®Ö
+Capacity Building Programme Office Indian Space Research Organisation
+†ÓŸÖ×¸üõÖ ×¾Ö³ÖÖÝÖ, ³ÖÖ¸üŸÖ ÃÖ¸üÛúÖ¸ü †ÓŸÖ×¸üõÖ ³Ö¾Ö®Ö, ®µÖæ ²Öß ‡Ô ‹»Ö ¸üÖê›ü ²ÖëÝÖ»Öæ¹ý -560094
+Department of Space, Government of India Antariksh Bhavan, New BEL Road Bengaluru-560094
+i
+Technical Guidance
+Shri. Jiwan Kumar Pandit Associate Director STIC & HRD, CBPO, ISRO-HQ
+Technical Support and Compilation
+Shri. Nishant Kumar Programme Manager
+STIC & HRD, CBPO, ISRO-HQ
+For any queries please contact
+Director
+Capacity Building Programme Office
+Indian Space Research Organisation HQ Department of Space, Government of India Antariksh Bhavan, New BEL Road Bengaluru-560 094 E-mail: dir.cbpo@isro.gov.in
+Associate Director Space Technology Incubation Centres & Human Resource Development (STIC & HRD) Capacity Building Programme Office
+Indian Space Research Organisation HQ Department of Space, Government of India Antariksh Bhavan, New BEL Road Bengaluru-560 094 E-mail: jkpandit@isro.gov.in ii
+3r-aftar faram STRH HR , -560 231. ：+91-80-23415241/2217 2333 :+91-80-2341 5328
+si.t. forar Dr K. SIVAN Rnat Chairman
+Message Message
+ISRO encourages the collaboration amongst Academia, R & D Institutions and Industry for developing innovative ideas in the domain of space science and technology and realising them for the benefit of the Indian Space Programme.
+Today, a large share of our population is in the range of 2035 years who aspire avenues to contribute their worth through innovative ideas and their talent. It is essential to engage their intellect, in developing newer technologies and realising highly reliable products for Indian Space Programme, thereby transforming them as future entrepreneurs.
+Indian Space Research Organisation
+Department of Space Goverment of India Antariksh Bhavan
+New BEL Road, Bangalore - 560 231, India
+Telphone: +91-80-2341 5241 / 2217 2333
+Fax
++91-80-2341 5328
+e-mail chairman@isro.gov.in
+With recent announcement of reforms in space sector, it is important to carryout capacity building in a transformative manner for phenomenal predictable growth in Space Sector in coming decades. The 100% self-reliance in Space Technology in tune of "rf T Aatmanirbhar Bharat" can only be achieved by creating a consistence confluence amos s s o e o s stry
+I am delighted to note that Capacity Building Programme Office (CBPO) have expanded the academic interaction activities in Space domain by setting up of Space Technology Incubation Centre (S-TIC), Regional Academic Centre for Space (RAC-S), Academic Chairs and Space Technology Cells in every region of our country.
+CBPO has brought forth "g-ifraT YUKTI-Sanchita 2021" (Youth Upgradation by Knowledge Iransformation through Incubators - Sanchita), a compilation of all Product Development / Innovative Project proposals from DOS / ISRO Centres / Labs / Units at a single place. These Product Development / Innovative Project proposals are open up for further processing and execution.
+-if 2021 provides a better insight of the Product Development / Innovative Project proposals relevant to Indian Space Programme, that can be taken up at Space Technology Incubation Centre, Regional Academic Centre for Space, Start-ups by the academia / industries under the mentorship of Scientists and Engineers from ISRO.
+I am sure that the academia / industries will utilise their expertise in arriving at innovative solutions to the above proposals in line with the objectives of the Indian Space Programme.
+March15,2021 March 15, 2021
+(. fK. Sivan)
+iii
+2
+,560 094, +918023410079 /2217 2118
+3raafter fara STRATROSR 3afr
+a: +91802341 6316
+E-mail: pvv_krishnan@isro.gov.in
+Dr. P.V. Venkitakrishnan
+Director, CBPO
+Foreword
+The Product Development is an exhaustive knowledge oriented domain, where the inter-disciplinary expertise is required to bring out a quality product in four 'D' phases viz. Design, Development, Demonstration, Deployment.
+The Products relevant to Space Science and Technology are unique in the way that many of them can be tested in actual conditions only during the deployment phase. A detailed know-how of each aspect of envisaged Product, including need, design, fabrication, environmental factors and limitations is compulsory. The functioning and testing in all feasible simulated environmental conditions of the Product will only ensure the acceptability and clearance of developed product for real use.
+ISRO HEADQUARTERS
+Department of Space Government of India Antariksh Bhavan
+New BEL Road, Bengaluru - 560 094, INDIA
+Tel (0ff) : +91 802341 0079 / 2217 2118
+: +91 802341 6316
+Fax:
+E-mail : pvv_krishnan@isro.gov.in
+As expansion of Space sector is inevitable in near future, it is important to have collaboration amongst the DOS / ISRO Centres / Labs / Units, academia and industries for developing the products used in conventional and futuristic space industry with a potential for techno-commercial exploitation in other areas as well for betterment of humankind.
+With this background, a compilation of 108 Product Development / Innovative Project proposals from DOS / ISRO centres are provided in "f-ifaT YUKTI-Sanchita 2021". This will help the Space Technology Incubation Centre, Regional Academic Centre for Space, Start-ups and Industries to prepare detail project proposal and further execution of project under mentorship from the Scientists and Engineers of DOS/ ISRO.
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards " Aatmnirbhar Bharat" in Space sector. It will also encourage and provide expertise to young minds for initiating Start-ups as budding entrepreneurs, in the domain of Space Technology.
+March 15,2021 March 15, 2021
+(..P.V. Venkitakrishnan)
+Content
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Geospatial Solution for Smart Parking — Page No.: 1
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: AI (Artificial Intelligence) in Soil Management for Diversified Agriculture — Page No.: 1
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of Self-Bearing based Drive system — Page No.: 2
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of Electric Pump fed system Module — Page No.: 3
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and Development of Electronic Feeler Gauge (Electronic Small Gap Measurement Gauge) — Page No.: 4
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of Terahertz based noncontact coating measurement system — Page No.: 5
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of Augmented Reality Headset / Glass for assembly and integration applications — Page No.: 5
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Development of Artificial Intelligence based performance assessment tool — Page No.: 6
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Development of Anti-jamming receiver for NavIC — Page No.: 7
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Development of Multi-band geodetic grade antenna — Page No.: 7
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Development of NavIC RTK receivers (base-stations and rovers) — Page No.: 8
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Development of a prototype Spectrofluorophotometer for quantification of contaminations with fluorescent properties in cleaned Space components / systems — Page No.: 8
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of a prototype Urine Recycling System (URS) for zero gravity environment — Page No.: 9
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of VR based interactive Space Station module — Page No.: 10
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of low cost Cesium atomic clock — Page No.: 11
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: SiC Based 0 to -70 kV(pulsed) High Voltage Switch Bank intended to fed pulse power to a wide range of Microwave tubes in a variety of applications up to 1% Beam Duty — Page No.: 11
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: SiC Based Pulsed Power supply modulator (PSM) with control and monitoring unit intended to operate a wide range of Pulsed Extended Interaction Klystrons (EIK) in a variety of applications like defence and civilian purpose high frequency radars (~95 GHz) — Page No.: 12
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: UAV-Aided Weather Radar Calibration — Page No.: 13
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of Tri Band (S, L1 & L5 Band) Microstrip Antenna — Page No.: 14
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of Software Defined Radio (SDR) based Telemetry, Tele-command and Tracking Processor (TTCP) — Page No.: 15
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Design and development of Motorised / Miniaturised Servo Control System for DTH (Direct to Home) Antenna Terminal (MCS-DTH) — Page No.: 16
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Product Development / Innovative Projects Proposal: Development of Sensors for Autonomous Navigation of Nano and Micro Satellites Constellations — Page No.: 16
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Miniaturized Pressure Regulators (non-moving type) for low flow rate application | 17
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Spring energized C ring seals for flange joints | 18
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Ultrasonic transducer | 19
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Computer Vision System for an AI assistant | 20
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of frequency converters such as Up Converters, Down Converters and Test Loop Translators in C, Ext-C, Ku and Ka band | 21
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Frequency selective band limited power sensor | 22
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Coaxial components | 22
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Switching Units | 23
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Uplink Power Control unit | 24
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of IF Switching Unit | 25
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Photodetector for low intensity light levels in UV/VIS/IR wavelength regions | 25
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of lightweight greenhouse gas sensors for Atmospheric Science studies | 26
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of lightweight Particulate Matter (PM1, PM2.5 and PM10) sensor system for Atmospheric Science studies | 27
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of mobile connected compact Bore well water level sensor | 28
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Programmable Automated Field Deployable High Frequency Rainwater Sampler | 29
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of active RF, microwave and mm-wave circuits | 30
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Passive RF components | 30
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of module for Ground Penetrating Radar (GPR) real time data processing and display | 31
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Portable Calibration System for Environment Sensors | 32
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Safe Ship Navigation | 33
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Integrated information system for agriculture monitoring and crop insurance | 34
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of advanced two phase flow heat transfer devices : Flexible Heat Pipe | 34
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Bi-Directional Battery Charge-Discharge Regulator (BCDR) | 35
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Hybrid Polyhydroxy urethanes for aerospace applications | 36
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Radiation Shielding and Spacecraft propulsion using Magnetic Fields | 37
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Realisation of Al Alloy AA2219 / AA2014 Integrally stiffened cylindrical structure through flow forming | 37
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Optimal sizing of raw material for realizing bi-metallic adapter through frictional welding route | 38
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of new filler metal for super alloys with inoculants | 39
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Fracture properties enhancement for additive manufactured aerospace super alloys by Electron Beam based process | 40
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of solenoid coils for Liquid Helium applications | 40
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Stepper Motor for space application | 41
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of high entropy alloy components for aerospace applications | 42
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of functionally graded multi-material parts for aerospace applications | 43
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of optimised hypergolic green bipropellants (H 2 O 2 / ethanol based fuel or H 2 O 2 / kerosene based fuel or any other alternative fuel combination) with ignition delay in the order of 20ms | 44
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Miniature Ultrasonic pulser / receiver | 44
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Spectrogeochemical models of Platinum Group of Elements and Rare Earth Elements Hosted Ultramafic and Alkaline Complexes for their space based detection | 45
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Wrist Wearable Wireless Communication Device for EVA (Extra-Vehicular Activities) in Space | 46
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Personalized Health Monitor for Astronauts | 47
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Flat Panel Beam Steerable Array Antenna System for Satcom-On-The-Move (SOTM) Terminals | 48
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of In-Situ Gas Sensor in Visible and IR Range | 48
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Multi-Spectral Polarimeter Sensor for Aerosol Measurement | 49
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Space Grade Heat Switches | 50
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of variable data rate CCSDS compliant Direct Digital Demodulator | 50
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of CQD based SWIR Imaging Sensor | 51
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Si based Photonic Device Design | 52
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of space qualified vapour chamber | 53
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Perforated Plate Heat Exchanger (PPHE) for cooling of gaseous Helium by using liquid Hydrogen | 53
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Flux less soldering process for Die attachment | 54
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Ferrite based microwave circulators & isolators | 55
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Direct bonding of Copper (DBC) to Ceramics and Thermal & Electrical Modelling of DBC Substrate | 55
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of White Conductive Thermal Control Material system | 56
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Process Development for Decapsulation of electronic components for failure analysis | 57
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Metalized Carbon Composite core for CTE & Thermal Management in PCBs | 58
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Point of Load (POL) Switching Regulator | 59
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Single chip core power system | 59
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Sliding Regulator for Battery Tied Power Bus | 60
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Biosensors system for body vitals | 61
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Electromagnetic Radiation shield for CubeSat | 62
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Energy absorption system for impact / crash | 62
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Micro Thermo Electric Generator (Micro TEG) | 63
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design, Development and Realization of High Efficiency Roller screws for Electromechanical Actuation System | 64
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Vibration Isolators using Negative Stiffness mechanism | 65
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Reinforced Graphite for Throat Inserts | 65
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Ultra High Precision Sub Micron Level Measurement Facility for the measurement of Coefficient of Thermal Expansion for Dimensionally Stable Composite Structures | 66
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of a positive head vacuum casting setup for solid propellant cartons for ultrasonic burning rate measurement system | 67
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Precision Regulator | 69
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Metal Ceramic Packages | 69
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Fabric reinforced rubber diaphragms | 70
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development and experimental characterization of Soft seat for Thermal relief valves for Cryogenic applications | 71
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Thermal Conditioning Unit (TCU) | 71
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Smart Fibers for Pressure, Temperature and Strain measurements | 72
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of high precision three channel monopulse tracking receiver | 73
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of IF / L-band Satellite Modem | 74
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Thermal Ribbon Temperature Sensor | 74
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of 16-Bit Bidirectional, 3.3 V/1.8 V Supply, Multi-Purpose Transceiver with 3 state Outputs | 75
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and development of Avionics Interface components | 76
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Mixed-Signal Receiver ASIC | 77
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Silicon High voltage MOSFET for 20-40V | 78
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Lateral Insulated Gate Bipolar Transistors (IGBT) | 78
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development and Fabrication of electronic transmitter for O 2 , H 2 & N 2 H 4 gas sensor | 79
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of Ka-band RF Connectors | 80
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Development of MMIC Packages for Space applications | 80
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: High Switching Frequency DC-DC converters using GaN device | 81
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and Development of a Personal Hygiene Management System (PHMS) as a payload for space habitats | 82
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: Design and Development of LNA, LNBC & VSAT Antenna | 83
+I hope the execution and outcome of 108 Product Development / Innovative Project proposals will create a stepping stone towards Aatmnirbhar in Space... | Content: 3D printed PCBs Manufacturing System | 84
+Brief
+Recognising the need for a broader academic interface with institutions across the country, a series of capacity building initiatives have been taken up to further strengthen the involvement of academia for ISRO programmes. The two major initiatives in this regard are setting up of Space Technology Incubation Centre (S-TIC) and Regional Academic Centre for Space (RAC-S) throughout our country.
+ISRO has already set-up six S-TIC one each at National Institute of Technology - Agartala (for NorthEastern region), Dr. B.R. Ambedkar National Institute of Technology - Jalandhar (for Northern region) and National Institute of Technology - Tiruchirappalli (for Southern region), Visvesvaraya National Institute of Technology - Nagpur (for Western region), Maulana Azad National Institute of Technology - Bhopal (for Central region) and National Institute of Technology - Rourkela (for Eastern region).
+The Space Technology Incubation Centre has been envisaged to attract and nurture the young academia with innovative ideas / research aptitude who can carry out research in the domain of Space Science and Technology and realise them towards indigenous development of the spaceworthy products. In the process they can transform themselves as future entrepreneurs and contribute positively towards the Indian Space Programme.
+Similarly, ISRO has already set-up five RAC-S one each at National Institute of Technology - Kurukshetra (for Northern region), Malviya National Institute of Technology -Jaipur (for Western region), National Institute of Technology -Surathkal (for Southern region), Gauhati University (for North-Eastern region) and Indian Institute of Technology (BHU)-Varanasi (formerly known as ITBHU) (for Central region) for pursuing advanced research in the areas of relevance to the future technological and programmatic needs of the Indian Space Programme and act as a facilitator for the promotion of space technology activities in the region.
+ISRO also strongly promotes and encourages the sharing of technical matters, related to spaceworthy products for their indigenous development,with Industries and Start-ups in line with the theme ' †ÖŸ´Ö×®Ö³ÖÔ¸ ³ÖÖ¸ŸÖ Aatmanirbhar Bharat'.
+' µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021' is a compilation of 108 Product Development / Innovative Projects proposal from all DOS/ISRO Centre / Lab / Unit at a single place. Each proposal comprises of a brief write-up about the topic with the email of its mentor from DOS/ISRO.
+The proposals are classified as:
+Proposal Nos. YS/PD-IP/301 to YS/PD-IP/346 are suitable to be taken up at Space Technology Incubation Centre as the outcome of these proposals have a good market potential and can lead to the initiation of a Start-up.
+Proposal Nos. YS/PD-IP/347 to YS/PD-IP/387 are oriented towards research and suitable to be taken up at Regional Academic Centre for Space.
+Proposal Nos. from YS/PD-IP/388 to YS/PD-IP/405 are suitable for indigenisation through industrial collaboration.
+Proposal Nos. from YS/PD-IP/406 to YS/PD-IP/408 are best suited to be taken up by Start-ups.
+The general instructions and Flow Chart, guiding the prospective Principal Investigator / co-Principal Investigator/s to prepare a detailed proposal, is provided.
+The Proposal Format is provided in Annexure - 'A'.
+The details of the S-TIC and RAC-S coordinators at various DOS/ ISRO Centre/Lab/Unit is provided in Annexure - 'B' and 'C' respectively.
+The biodata of the Investigators has to be provided as per Form-A.
+' µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021' will provide a better insight towards harnessing the technical prowess of the confluence of the Academia, Industry and R&D Institution of our country in line with the objectives of the Indian Space Programme.
+March 18, 2021
+·Öß¾Ö®Ö Ûã ´ÖÖ¸ ¯ÖÓ×›ŸÖ Jiwan Kumar Pandit
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/301
+Geospatial Solution for Smart Parking
+01 Mentor/s
+Dr. Sameer Saran
+Indian Institute of Remote Sensing, Dehradun, PIN 248 001 sameer@iirs.gov.in
+Kabil Oberai, kapil@iirs.gov.in Ashutosh Kumar Jha, akjha@iirs.gov.in Prabhakar Alok Verma, prabhakar@iirs.gov.in
+02 Objective
+The objective of the proposed topic is to develop geospatial solution utilizing high resolution satellite imagery and the Visible / Thermal cameras for providing services to the citizens about the availability of parking spots in the designated parking areas in a city. This will avoid them searching for the suitable places and wasting fuel thereby reducing air pollution. Solution will provide citizens information on the availability of parking spot which they can book for designated time while making their travel plan.
+03. Scope
+AI/ML based model for parking spot availability.
+Mapping of the designated parking areas of the local agencies taking one parking spot in the lead city as a use case.
+Indoor navigation for guiding to the parking spot.
+04. Expected Results / Deliverables
+A trained AI/ML model for identifying the vacant / occupied parking spots.
+Geospatial solution for smart parking utilizing high resolution imagery and Visible/Thermal cameras for mapping including indoor navigation and vacant / occupancy identification respectively.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/302
+AI (Artificial Intelligence) in Soil Management for Diversified Agriculture
+01 Mentor/s
+Dr. Suresh Kumar Indian Institute of Remote Sensing, Dehradun, PIN 248 001
+suresh_kumar@iirs.gov.in
+02 Objective
+(i) Generation of Geospatial data base of Farm and Farming System at Block Level/ Region (Geo-Farm).
+(ii) Developing Smart Soil Management System for assessing Soil Fertility and Crop Productivity Potential using soil sensors and Machine Learning (Geo-Smart Soil).
+(iii) Developing Smart Diversified Crop Planning System using Decision Criterion Method (GeoCrop Diversification).
+03. Scope
+Soil Fertility & Soil Quality Evaluation and identifying constrains of micro-nutrients in Optimizing Agricultural Production.
+Strategic Recommendation for promoting Diversified Agriculture to achieve Doubling Farmer's Income.
+Sustainable Use of Land Resources to address Land Neutrality / Degradation.
+04. Expected Results / Deliverables
+The project indents to develop methodology / procedure on digital platform in developing large data base of agricultural fields and farming systems including cost/benefit as well as soil constrains to analyse their suitability for various crops. Software's need to be developed for allocation of field of suitable crops to optimize yield for diversification of agriculture. Temporal UAV images will be obtained to identify soil fertility constrains and to recommend nutrients applications to maximize crop yield.
+The project will develop modules for Crop Diversification Recommendation in the block / region:
+(i) Geo-Farm module to create digital database of spatial and non-spatial data.
+(ii) Geo-Smart Soil Module will be developed to analyse soil fertility using soil sensors and UAV images using AI techniques.
+(iii) Geo-Crop Diversification Module will be developed to allocate suitable crops by analysing cost/benefit and recommendation of research from ICAR and other Institution.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/303
+Design and development of Self-Bearing based Drive system
+01 Mentor/s
+Ravichandran MH ISRO Inertial System Unit, Thiruvananthapuram, PIN 695 013 mh_ravichandran@vssc.gov.in
+2
+02 Objective
+Traditionally, magnetically levitated motors use active magnetic bearing (AMBs) for levitation and a conventional motor for rotation. A self-bearing motor (SBM) integrates an AMB and an electric motor into a single device. In other words, an SBM is an electric motor that can simultaneously levitate and rotate a shaft. The major benefits of an SBM are compactness and economy. An SBM is more compact because of its reduced shaft length, yielding higher critical speeds and more stable operation of the rotating shaft. The aim of the project is to design and develop a self-bearing motor to operate at 1,50,000 rpm and deliver a torque output of 0.01 Nm. Motor is preferably a slot-less BLDC / PMSM motor. Drive electronics will be designed and developed for the high-speed self-bearing motor. Sensor less control techniques shall be explored for the motor control and emphasis shall be place on making the whole system compact and power efficient.
+03. Scope
+Design and development of Self Bearing Motor.
+Design and development of suspension and control electronics for the Self-Bearing motor.
+Development of Actuator based on this drive system.
+Completed functional demonstration of the of the actuator.
+04. Expected Results / Deliverables
+A full-scale prototype of self-bearings lot-less BLDC / PMSM motor with 1,50,000 rpm and 0.01 Nm of output torque.
+Power electronics drive and sensor less control of the prototype motor.
+Analytical and finite element based results, AUTOCAD drawings of the prototype motor, controller PCBs, technical reports and process control documents.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/304
+Design and development of Electric Pump fed system Module
+01 Mentor/s
+W. Vinse Antro ISRO Propulsion Complex, Mahendragiri, PIN 627 133 vinse.w@iprc.gov.in
+02 Objective
+Objective of the project is to minimize propellant payload and obtain the flexibility of thruster for throttling through electric pump fed module.
+03. Scope
+Development of electric pump-fed module system for upper stage engines.
+04. Expected Results / Deliverables
+A Brushless DC motor, power system, pump and command integrated together as a module which can be used for varying missions with minor changes. It shall be easily integrated with the system.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/305
+Design and Development of Electronic Feeler Gauge (Electronic Small Gap Measurement Gauge)
+01 Mentor/s
+Surya Prakash Singh
+ISRO Propulsion Complex, Mahendragiri, PIN 627 133 surya@iprc.gov.in Murugesan N, murugesan.n@iprc.gov.in
+02 Objective
+To Develop an Inductive or Capacitive based Electronic gap measurement Gauge (Range 0.05 to 1 mm), The gauge shall have LED / LCD display to show the approximate gap available between two metal plates.
+03. Scope
+To device a gauge setup and electronics circuit for gap measurement.
+04. Expected Results / Deliverables
+An Inductive or Capacitve based Electronic gap measurement Gauge (Range 0.05 to 1mm) with LED / LCD display for measured value.
+Characterstic determination of developed gauge.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/306
+Design and development of Terahertz based noncontact coating measurement system
+01 Mentor/s
+Padmanabhan P. ISRO Propulsion Complex, Mahendragiri, PIN 627 133 padmanabhan_p@iprc.gov.in
+02 Objective
+To design and realize Terahertz noncontact measurement system for measuring coating thickness and to study the feasibility of defect identification from data spectrum obtained during measurements.
+03. Scope
+The proposed measuring system shall have Terahertz generator, probes for measuring coating thickness during the process and after the process, data processing and display unit.
+04. Expected Results / Deliverables
+A noncontact, accurate, online Coating thickness measurement system will be designed and realised. THz spectroscopy can also be used for non-destructively evaluation of coatings.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/307
+Design and development of Augmented Reality Headset / Glass for assembly and integration applications
+01 Mentor/s
+K. Subbulakshmi ISRO Propulsion Complex, Mahendragiri, PIN 627 133 subbu@iprc.gov.in
+Md. Rameez Khasim, rameez@iprc.gov.in
+02 Objective
+The finished product will have wearable spectacles / Headset that will overlap the computer generated image and reality.
+03. Scope
+To develop an AR based wearable spectacles/Headset that will be helpful during assembly and integration, alignment and routing of the lines on article hardware or test stand. Will also be helpful in fault detection, if equipped with a high resolution camera.
+04. Expected Results / Deliverables
+A headset that can superimpose a computer generated image on the reality being seen through a camera.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/308
+Development of Artificial Intelligence based performance assessment tool
+01 Mentor/s
+K. Subbulakshmi ISRO Propulsion Complex, Mahendragiri, PIN 627 133 subbu@iprc.gov.in
+Md. Rameez Khasim, rameez@iprc.gov.in
+02 Objective
+The prime objective is to make a machine find patterns and form relations among the various parameters that assess the performance of a hardware thereby enabling the machine to identify possible reasons for anomalies and suggest the rectification actions to be carried out.
+03. Scope
+Will be helpful to assess from subsystem level to final flight assessment.
+04. Expected Results / Deliverables
+An AI/ML model that can form a correlation between the parameters of the system. An interactive software and database to use the output generated by the model and give the assessment of the system in an understandable manner.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/309
+Development of Anti-jamming receiver for NavIC
+01 Mentor/s
+Akhileshwar Reddy ISRO Headquarters, Bengaluru, PIN 560 094 akhileshwar@isro.gov.in
+02 Objective
+Develop an anti-jamming receiver for NavIC with supporting GUI.
+Provide combined L1, L5 and S band RF outputs or individual L1, L5 and S band RF output.
+03. Scope
+Develop an anti-jamming receiver for NavIC with supporting GUI.
+Provide combined L1, L5 and S band RF outputs or individual L1, L5 and S band RF output.
+04. Expected Results / Deliverables
+Anti-jamming system for NavIC with hardware and software.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/310
+Development of Multi-band geodetic grade antenna
+01 Mentor/s
+P Sajith ISRO Headquarters, Bengaluru, PIN 560 094
+sajith@isro.gov.in
+02 Objective
+Design and simulate right hand circular polarized antenna system for L1, L2, L5 and S bands.
+To validate the designed antennas by fabrication and testing the prototypes.
+03. Scope
+Design and simulate right hand circular polarized antenna system for L1, L2, L5 and S bands
+To validate the designed antennas by fabrication and testing the prototypes.
+04. Expected Results / Deliverables
+Multi-band geodetic grade antenna with radome for GNSS signals including NavIC.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/311
+Development of NavIC RTK receivers (base-stations and rovers)
+01 Mentor/s
+P Afjal Das ISRO Headquarters, Bengaluru, PIN 560 094 afjaldas@isro.gov.in
+02 Objective
+Develop a real-time kinetic (RTK) receiver for NavIC with carrier-phase tracking.
+03. Scope
+Develop a real-time kinetic (RTK) receiver for NavIC with carrier-phase tracking.
+04. Expected Results / Deliverables
+RTK receivers with NavIC capability for both base-station and rovers.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/312
+Development of a prototype Spectrofluorophotometer for quantification of contaminations with fluorescent properties in cleaned Space components / systems
+01 Mentor/s
+ISRO Headquarters, Bengaluru, PIN 560 094
+Nishant Kumar nishantkumar@isro.gov.in
+Jiwan Kumar Pandit, jkpandit@isro.gov.in
+02 Objective
+The objective of development of an indigenised Spectrofluorophotometer is to have an in-house reliable equipment that can be utilised for verification / quantification of oil contaminations in cleaned Space components /systems.
+03. Scope
+To develop an integrated indigenised prototype of Spectrofluorophotometer including software interface.
+To test and characterise the developed prototype with reference samples.
+04. Expected Results / Deliverables
+The deliverables shall be prototype of the Spectrofluorophotometer. Spectrofluorophotometer is being used in R&D, medical and industrial applications and its suppliers are very few in the world. A business start-up based on Spectrofluorophotometer has a good potential to succeed. A business model can also be developed by providing the Spectrofluorophotometer testing services based on rental charges. The project will also provide expertise in the field of fluorescence spectroscopy, that can be utilised to develop new products based on this technology.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/313
+Design and development of a prototype Urine Recycling System (URS) for zero gravity environment
+01 Mentor/s
+Anurag Kumar Sinha ISRO Headquarters, Bengaluru, PIN 560 094 ak_sinha@isro.gov.in
+Jiwan Kumar Pandit, jkpandit@isro.gov.in
+Abhishek Jha, abhishekjha@isro.gov.in
+Nishant Kumar, nishantkumar@isro.gov.in
+02 Objective
+The objective of development of a prototype Urine Recycling System (URS) is to make an efficient indigenised solution for processing cum recycling model for Urine in zero gravity environment like space station or human interplanetary mission. The resupply dependency of water for long term human presence shall be reduced by effective recycling of Urine.
+03. Scope
+To develop a concept demonstration model for Urine Recycling System suitable for zero gravity environment.
+To design and develop a prototype of Urine Recycling System in terms of optimisation of weight, power requirements, chemicals used and recycling efficiency.
+To provide recommendations for suitable adaptations of spin-off technology for processing of urine at public urinals.
+04. Expected Results / Deliverables
+The deliverables of this Project shall be a concept demonstration model for Urine Processor suitable for zero gravity environment, a prototype of Urine Processor System in terms of optimisation of weight, power requirements, chemical used and recycling efficiency, and recommendations for suitable adoptions for eco-friendly processing of Urine in public urinals.
+The project will also bring an advancement of membrane technology for effective recycling and utilising of waste water. The expertise obtained from the project can be converted for foundation of a start-up based on generation of fertilisers from Urine processing from public Urinals. It will also help to improve the quality of sanitation at public urinals in tune with objectives of ' Swachchh Bharat' mission.
+Start-up ideas can also be explored based on expertise obtained in membrane technology for conversion of sea water in to domestic supply / drinking water at industrial scale in cost effective manner.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/314
+Design and development of VR based interactive Space Station module
+01 Mentor/s
+Nishant Kumar
+ISRO Headquarters, Bengaluru, PIN 560 094 nishantkumar@isro.gov.in
+Jiwan Kumar Pandit, jkpandit@isro.gov.in
+02 Objective
+To inherit space technology related awareness through interactive Space Station module understanding its concept and features based on 'Learn with VR'.
+03. Scope
+To design and develop VR based interactive Space Station module.
+04. Expected Results / Deliverables
+The project will deliver a VR based interactive Space Station module. The experience gained from these products can be utilised to develop more interactive module viz. planetary exploration module, deep sea experience module, edutainment tools for future generations. A start-up based on VR based product can be initiated based on the outcome of this proposal.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/315
+Design and development of low cost Cesium atomic clock
+01 Mentor/s
+D Suresh
+ISRO Telemetry Tracking and Command Network (ISTRAC), Bengaluru, PIN 560 058 dsuresh@istrac.gov.in
+Aakanksha Avnish Bhardwajan, aakanksha_bhardwajan@istrac.gov.in
+02 Objective
+The various objectives envisaged of this development project are as follows:
+Indigenisation of Cesium based atomic clock technology for ground applications.
+Reduction in dependency on foreign vendors.
+Better control on the production process and improved quality.
+Saving of foreign exchange.
+Capacity building through technology transfer to the Indian industries.
+Increased competition and hence reduction in overall cost.
+03. Scope
+Design of a Cesium based atomic clock matching state-of-the-art technology.
+Fabrication of the end product to meet the ground applications.
+Optimisation of power consumption, size and cost.
+04. Expected Results / Deliverables
+Cesium based atomic clock matching state-of-the-art technology.
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/316
+SiC Based 0 to -70 kV(pulsed) High Voltage Switch Bank intended to fed pulse power to a wide range of Microwave tubes in a variety of applications up to 1% Beam Duty
+01 Mentor/s
+Anandan V K
+ISRO Telemetry Tracking and Command Network (ISTRAC), Bengaluru, PIN 560 058 anandanvk@istrac.gov.in
+02 Objective
+In any Radar transmitter the H.V Switching circuit plays a vital role and offers a greater challenge to both designers and operators of the transmitter. The aim of this project to design a HV switch Bank is to provide a unique single step HV Pulse for any RF tube cathode pulsing as a form of hard switching up to 1% beam duty.
+03. Scope
+The scope of work is realization of -70 kV SiC Based Switching Matrix ranging from -70 kV to Ground voltage with 1% beam duty ratio that can cater for the requirements of S Band to X-Band DWR Transmitter. The work contents are detailed below.
+Realization of -70 kV switch matrix with controls and interlocks.
+Integrated performance demonstration with RF Tube as a microwave load.
+04. Expected Results / Deliverables
+The following items shall be delivered as part of this project:
+The following items shall be delivered as part of this project | 04. Expected Results / Deliverables: Sl No | Subsystem Name | Quantity
+The following items shall be delivered as part of this project | 04. Expected Results / Deliverables: HV SWITCH BANK | 1
+The following items shall be delivered as part of this project | 04. Expected Results / Deliverables: Control & Interlock system | 1
+µÖã×ŒŸÖ-ÃÖÓ×'ÖŸÖÖ YUKTI-Sanchita 2021: YS/PD-IP/317
+SiC Based Pulsed Power supply modulator (PSM) with control and monitoring unit intended to operate a wide range of Pulsed Extended Interaction Klystrons (EIK) in a variety of applications like defence and civilian purpose high frequency radars (~95 GHz)
+01 Mentor/s
+Anandan V K ISRO Telemetry Tracking and Command Network (ISTRAC), Bengaluru, PIN 560 058 anandanvk@istrac.gov.in
+02 Objective
+The proposed power supply modulator (PSM) intended to operate a wide range of pulsed Extended Interaction Klystrons (EIK) in a variety of applications. A Control and Monitoring Unit (CMU) provides modulation control and monitoring for the PSM. Synchronizing and triggering signals are generated within the control unit which also serves to monitor, protect and report on the status of the transmitter.
+03. Scope
+Realization of PSM for Extended Interaction Klystron (Input 230 Volt).
+Realization of Control and monitoring unit (CMU) for the above modulator.

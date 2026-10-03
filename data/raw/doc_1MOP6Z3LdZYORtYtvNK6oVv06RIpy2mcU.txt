@@ -1,0 +1,70 @@
+SOURCE_URL: https://drive.google.com/file/d/1MOP6Z3LdZYORtYtvNK6oVv06RIpy2mcU/view
+TITLE: Next Next post: SIH 2026 – Notification For Internal Hackathon
+FETCHED: 2026-09-21
+FOUND_ON: https://vnit.ac.in/%f0%9f%8e%93-vnit-nagpur-24th-convocation-2026
+---
+Document: Next Next post: SIH 2026 – Notification For Internal Hackathon (dated 2026-09-21)
+विश्वेश्वरय्या राष्ट्रीय प्रौद्योगिकी संस्थान , नागपुर & 440 010 ( भारत )
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR - 440 010 (INDIA)
+संगणक विज्ञान एवं अभियांत्रिकी विभाग , नागपुर DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, NAGPUR
+PABX: (0712) 2801322, 2801272, 2801296
+Fax: (0712) 2223969(D), 2223230 (Gen.)
+Gram : VISRENCOL Web-site : www.vnit.ac.in
+Date: 31 Aug 2026
+SIH 2026 - N otification For Internal Hackathon
+Important Dates:
+Submission Deadline:
+15th September 2026, 11:59 PM
+Presentations:
+17-19 September 2026, 4:00 PM onwards
+Venue:
+Hall 33, New Academic Building (3rd Floor)
+Dear Students,
+We are excited to inform you that the Smart India Hackathon (SIH) 2026 , organized by the Ministry of Education, Government of India, is approaching. V N IT will participate in SIH 2026, with team selection carried out through an Internal Hackathon (IH) as per the guidelines received on participation in SIH2026.
+Participation in the Internal Hackathon (IH) requires submission of your problem statements and solution approaches by 15th September 2026, 11:59 PM . Kindly refer to the following guidelines for team formation, submissions, and presentations.
+Team Formation Guidelines:
+Each team must consist of six members, with at least one female member.
+Interdisciplinary teams are encouraged but not mandatory.
+Teams must elect a team leader.
+A team can have a mentor from amongst the faculty guiding the team. (Optional)
+Every team must have a unique name ( Ensure the name does not reference the institute ).
+Submit the Google form to fill in details for all team members:
+https://bit.ly/4gNmXmz *
+Please note: When you open the link, please wait for the automatic security check. (for all links in this document).
+(Details required are StudentID, Enrolment N o., Team N ame, N ame of Student, Member Status, Gender, EmailID, Mobile N o., Degree Program, Branch/Stream, Year etc. )
+Guidelines for Problem Statement and Solution Submission for IH:
+Each team should select at most two problem statements* from the SIH portal through the link https://www.sih.gov.in/sih2026PS
+विश्वेश्वरय्या राष्ट्रीय प्रौद्योगिकी संस्थान , नागपुर & 440 010 ( भारत )
+VISVESVARAYA NATIONAL INSTITUTE OF TECHNOLOGY, NAGPUR - 440 010 (INDIA)
+संगणक विज्ञान एवं अभियांत्रिकी विभाग , नागपुर DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, NAGPUR
+PABX: (0712) 2801322, 2801272, 2801296
+Fax: (0712) 2223969(D), 2223230 (Gen.)
+Gram : VISRENCOL Web-site : www.vnit.ac.in
+Each team must submit 6 slides for their problem statement using the template provided by SIH 2026 (https://bit.ly/4gOOnZo).
+Each team can submit at most two different problem solutions.
+If the team wants to submit two problem statements, then each must be submitted on two different sets of six slides, each.
+Leave the Team ID field blank on Slide 1.
+All Slides are mandatory.
+All submissions must be made online.
+The last date for submission for IH is 15 Sept 2026, 11:59 PM .
+For submission, each Team Leader will register on Google Classroom with the following link https://bit.ly/4zLUru7.
+Google Classroom Registration should be done by 6 Sept 2025 latest by 6 PM.
+11.The Team leader, after registration on this link, will do the submissions under the tab 'Classwork' on Google Classroom . He/She will also enter the team details mentioned above in the Google Form.
+12.Also, the team leader will have to join the WhatsApp group created for operation of the Internal Hacakthon organizing through the following link: https://bit.ly/4zJjNc1
+Offline Presentation Guidelines for IH:
+Each team will have 10 minutes for their presentation:
+5 to 7 minutes for presenting the problem statement and solution approach.
+3 to 5 minutes for Q&A with the judges.
+A maximum of 100 teams will be selected, with 5 teams on the waitlist.
+Presentations will be conducted from 17 Sept 2025 from 4 PM onwards at Hall 33, N ew Academic Building (3rd Floor ) and may continue till 19 Sept 2025.
+All team members should be present during the presentation.
+For more information on SIH 2026, please visit the SIH portal: https://www.sih.gov.in
+We look forward to your enthusiastic participation!
+Checklist for registering for Internal Hackathon 2026 :
+Team data - https://bit.ly/4gNmXmz
+Problem Selection: https://www.sih.gov.in/sih2026PS
+Problem Submission PPTs: https://bit.ly/4gOOnZo
+Classroom Submission of IH problem : https://bit.ly/ 4zLUru7
+WhatsApp Group for IH2026 for Team leaders and any other members of the group interested: https:// bit.ly/4zJjNc1
+Best Regards
+(Anil Mokhade) Asso. Professor SPOC-2026 for SIH2026
