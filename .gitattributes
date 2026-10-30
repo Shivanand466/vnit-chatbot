@@ -3,3 +3,5 @@
 Dockerfile text eol=lf
 *.yml text eol=lf
 *.py text eol=lf
+# Shell scripts must keep Unix line endings, or bash reads the carriage return as part of each command
+*.sh text eol=lf
