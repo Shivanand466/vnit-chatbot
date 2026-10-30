@@ -338,8 +338,13 @@ def _tool_calls_of(message):
 
 
 def run(question: str, report: dict, api_key: str = None, base_url: str = None,
-        model: str = None) -> dict:
+        model: str = None, extra=None, search_grade: dict = None) -> dict:
     """Answer `question` agentically, starting from the first search `report` (agent.answer).
+
+    `extra` are passages the corrective gate (respond.py, grader.py) added
+    because the first search looked weak, as (result, text) pairs; they are
+    shown after the first search's. `search_grade` is the grader's verdict,
+    told to the model in one line.
 
     Returns answer, sources, mode, trace, verification and usage. Raises
     AgentUnavailable when the LLM cannot be used at all.
@@ -375,12 +380,20 @@ def run(question: str, report: dict, api_key: str = None, base_url: str = None,
                           + f": {len(first)} passages from "
                           + f"{len({r['source_url'] for r, _ in first})} sources."})
 
-    titles = tools.matching_titles(question, exclude=[r["source_url"] for r, _ in first])
+    for r, text in extra or []:
+        pid, new = evidence.add(r, text, origin="corrective")
+        if new:
+            first_block.append(f"[{pid} · doc {tools.doc_id(r['source_url'])}] "
+                               f"{generate.passage_header(r)[1:-1]}\n{text}")
+    titles = tools.matching_titles(question,
+                                   exclude=[p["result"]["source_url"] for p in evidence.passages])
+    quality = (f"\n\nSearch quality: {search_grade['grade']} ({search_grade['why']})."
+               if search_grade else "")
     messages = [
         {"role": "system", "content": _system_prompt()},
         {"role": "user", "content": f"Student's question: {question}\n\nFirst search results:\n\n"
                                     + ("\n\n".join(first_block) or "(nothing found)")
-                                    + f"\n\n{titles}"},
+                                    + f"\n\n{titles}{quality}"},
     ]
 
     # Decide and act, round by round. The model either answers (no tool calls)

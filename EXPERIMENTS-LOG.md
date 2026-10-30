@@ -275,6 +275,79 @@ Retrieval benchmarks are unchanged, as they should be (the first search is untou
 
 **Harness fix found on the way.** `check_answers.py --only X` wrote just the X results to `answer_check.json`, overwriting the full 39-question run. The runbook's later steps use `--only` repeatedly, so `--only` now replaces only its own questions in the saved file.
 
+## 22. Corrective retrieval gate (Runbook 7, Step 2)
+
+**Why.** Choosing to look further was left entirely to the LLM, and for the 2025-26 placement figures it never chose the T&P page (§20c). Corrective RAG grades the retrieved passages and fixes retrieval *before* answering when they look weak. The cross-encoder already scored every candidate, and those scores were thrown away after sorting.
+
+**Changed.**
+- `query._rerank` returns the scores with the order; every result carries `"rerank"` (None without the reranker). The order is unchanged: the top-7 chunk ids of three questions were saved before the change and are compared in `test_agentic.py`; `chunk_ranks` 29/32, `fact_ranks` 15/18 and `evaluate` 16/19 are identical.
+- `grader.grade(question, report)` (no LLM): `top` is the best cross-encoder score for the whole question; `coverage` is the share of the question's rarer word stems (IDF over all chunks, at or above the median of the question's own words) plus any academic year it names, found in the top 3 passages. `correct` if top ≥ 3.0 and coverage ≥ 0.75; `incorrect` if top < 0; otherwise `ambiguous`, and always `ambiguous` when a named academic year appears in none of the top 3.
+- `respond.corrective_passages`: when the grade is not `correct` (and `CRAG_GATE` is not `off`), look inside the 2 best-titled pages the first search did not reach (`tools._title_scores`, `query.retrieve_within`) and keep each one's best passage if it scores above 0. They go to the planner after the first search's passages (`planner.run(extra=...)`, origin `corrective`), with one line telling the model `Search quality: <grade> (<why>)`. The trace shows "The first search looked weak (…), so I also looked inside “…”." No LLM call is added.
+- The one-shot fallback is unchanged and does not get the corrective passages (the smaller change); the grade line is then left out of its trace, so the trace never claims a lookup the answer did not use.
+
+**Calibration** (`grade_calibration.py`; "hit" = the answer passage is among the 7 sent to the LLM, from `chunk_ranks.py`):
+
+| question | top | coverage | answer passage in top 7 | grade |
+|---|---|---|---|---|
+| civil_intake | 2.5 | 0.33 | hit | ambiguous |
+| 5g_announced | 6.7 | 1.00 | hit | correct |
+| placements | -1.2 | 1.00 | MISS | incorrect |
+| chemical_spec | 3.8 | 1.00 | hit | correct |
+| electrical_mtech | 7.5 | 1.00 | hit | correct |
+| director | 7.1 | 1.00 | hit | correct |
+| dean_academic_email | 5.5 | 1.00 | hit | correct |
+| mech_established | 5.1 | 0.50 | hit | ambiguous |
+| registrar | 7.8 | 1.00 | hit | correct |
+| btech_fee_open | 8.2 | 0.75 | hit | correct |
+| btech_fee_scst | 7.8 | 0.75 | hit | correct |
+| kotak_scholarship | 7.7 | 0.67 | hit | ambiguous |
+| idfc_deadline | 7.8 | 0.75 | hit | correct |
+| hostel_fee_first_year | 8.0 | 1.00 | hit | correct |
+| classes_start_fy | 7.9 | 0.75 | hit | correct |
+| endsem_fy | 8.1 | 0.75 | hit | correct |
+| hostel_fee_girls | 7.0 | 0.50 | hit | ambiguous |
+| cse_established | 7.4 | 1.00 | hit | correct |
+| reexam_dates | 6.9 | 0.50 | hit | ambiguous |
+| convocation | 7.3 | 1.00 | hit | correct |
+| adddrop_deadline | 8.0 | 1.00 | hit | correct |
+| antiragging_helpline | 7.8 | 1.00 | hit | correct |
+| summer_term_fee | 3.1 | 0.33 | hit | ambiguous |
+| summer_term_max_courses | 5.9 | 1.00 | hit | correct |
+| dean_academic_name | 7.3 | 1.00 | hit | correct |
+| dean_planning_email | 6.3 | 0.67 | hit | ambiguous |
+| msc_tuition | 7.2 | 0.67 | MISS | ambiguous |
+| mtech_tuition | 6.6 | 0.50 | hit | ambiguous |
+| mtech_fee_scst | 7.6 | 0.75 | hit | correct |
+| barch_tuition | 5.4 | 0.67 | MISS | ambiguous |
+| hostel_appliances | 4.9 | 0.33 | hit | ambiguous |
+| midsem_slot_a | 6.8 | 1.00 | hit | correct |
+| unanswerable_1995 | -2.9 | 0.33 | decline | incorrect |
+| unanswerable_wifi | -5.7 | 0.00 | decline | incorrect |
+| unanswerable_old_hostel_fee | 5.1 | 0.75 | decline | ambiguous |
+| unanswerable_director_salary | -0.1 | 0.00 | decline | incorrect |
+| unanswerable_bus_pass | 0.5 | 0.00 | decline | ambiguous |
+
+Results: every miss grades not `correct` (3/3), 20 of 29 hits grade `correct`, and all 5 must-decline questions grade not `correct`. How the thresholds were chosen:
+- `LOW = 0`: the placement miss is the only answerable question below it (−1.2); three of the five must-decline questions are below it too.
+- `HIGH = 3.0`: separates nothing on its own beyond civil_intake (2.5), which coverage catches anyway; the hits' scores run 2.5 to 8.2.
+- `COVER = 0.75`: M.Sc and B.Arch tuition score 7.2 and 5.4, as high as hits, so only coverage separates them (0.67, both missing "yearly"). **This separation is fragile and is recorded as such**: "yearly" is a word students use and fee sheets don't, and B.Tech OPEN tuition, which also lacks it, reaches 0.75 only because its question has four key words. Most uncovered words in the hits are phrasing of this kind ("money", "held", "keep", "my", "address"), which is why 9 hits grade `ambiguous`. A gate that fires on them costs up to two in-page searches (no LLM) and ~250 prompt tokens per page kept.
+- The year rule was added after the first calibration run graded the 2015-16 hostel-fee question `correct` (5.1 on the 2026-27 sheets, coverage 0.75 with the year counted as one word in four). A named year no top passage mentions is a strong sign of the wrong document.
+- One `ambiguous` hit is a real signal, not phrasing: for the girls' hostel fee the top 3 whole-question passages come from the M.Tech/M.Sc hostel page, and "girls" is in none of them; the girls' sheet is lower in the top 7.
+
+**Budget.** For the placements question the first agent prompt is ~4,600 tokens with the corrective passage (budget 6,000).
+
+**End to end** (`check_answers.py --only`, gpt-oss-120b):
+
+| Question | Before (30 Oct) | After |
+|---|---|---|
+| placements | FAIL (opened the report, declined) | **PASS**: 678 and 170 from the T&P page, cited, verified, no tool calls, 3,688 tokens |
+| director | PASS | PASS (graded correct, gate silent) |
+| hostel_fee_first_year | PASS | PASS |
+| hostel_fee_girls | PASS | PASS |
+| unanswerable_director_salary, unanswerable_old_hostel_fee (matched by `--only`) | PASS | PASS (still refused) |
+
+The saved 39-question file now reads 36/39 (35 + placements). `test_agentic.py`: 35/35.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

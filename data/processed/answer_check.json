@@ -67,36 +67,35 @@
  {
   "name": "placements",
   "question": "How many students got placed in 2025-26 and how many companies came?",
-  "pass": false,
+  "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
-  "missing": [
-   "678",
-   "170"
-  ],
+  "missing": [],
   "forbidden": [],
-  "answer": "I’m sorry, but none of the provided documents state the total number of students placed in the 2025‑26 batch or give a count of the companies that recruited them. You could check the “Placement and Internship Report 2025‑26” on the VNIT website (vnit.ac.in) for a summary table that usually includes those figures.",
-  "sources": [],
+  "answer": "**More than 678 students were placed in 2025‑26, and over 170 companies participated.**\n\n- The Training & Placement page states that “for the Placement Season 2025‑26, more than 678 students … secured employment … offers were extended by over 170 reputed organizations”[1].",
+  "sources": [
+   "https://vnit.ac.in/section/tnp/"
+  ],
   "verification": {
    "verdict": "verified",
-   "checked": 4,
-   "supported": 4,
+   "checked": 6,
+   "supported": 6,
    "unsupported": []
   },
   "usage": {
-   "llm_calls": 3,
-   "tokens": 10557,
-   "waited_for_quota_s": 32.3,
-   "tool_calls": 2,
-   "passages_seen": 13,
-   "passages_cited": 0
+   "llm_calls": 1,
+   "tokens": 3688,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 11,
+   "passages_cited": 1
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: placement.",
    "Split the question into 2 parts and searched for each and for the whole question: 10 passages from 6 sources.",
-   "Looked inside “Placement and Internship Report 2025-2026” for “placed”",
-   "Searched for “Placement and Internship Report 2025-26 total placed students”: Placement and Internship Report 2025-2026",
-   "Wrote the answer after 2 round(s) of tool use.",
-   "Checked 4 figure(s) against the sources: all found."
+   "The first search looked weak (best match scored -1.2, below 0), so I also looked inside “VNIT Nagpur – Training & Placement Department”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
   ]
  },
  {
@@ -171,30 +170,33 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Prof. (Dr.) Prem Lal Patel** is the current Director of VNIT, Nagpur[1][2].",
+  "answer": "**Prof. (Dr.) Prem Lal Patel** is the current Director of VNIT.\n\n- The VNIT Alumni event on 25 June 2026 lists “Director Prof. P. L. Patel” among the institute’s leadership[1].\n- The Director’s profile page and recent news (May 2024) state that Prof. Prem Lal Patel took charge as Director on 21 May 2024 and continues in that role[2][3].",
   "sources": [
+   "https://drive.google.com/file/d/1FiXQu6BD4ZcfBqxuC-nxRWid6YkKOYZO/view",
    "https://vnit.ac.in/director-vnit-nagpur/",
-   "https://drive.google.com/file/d/1FiXQu6BD4ZcfBqxuC-nxRWid6YkKOYZO/view"
+   "https://vnit.ac.in/basic_science/chemistry/wp-content/uploads/2024/08/News-Letter-Issue-17.pdf"
   ],
   "verification": {
-   "verdict": "nothing to check",
-   "checked": 0,
-   "supported": 0,
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 2668,
+   "tokens": 2803,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 7,
-   "passages_cited": 2
+   "passages_cited": 3
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: people.",
    "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked relevant (score 7.1).",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "No figures, dates or contact details to check in this answer."
+   "Checked 5 figure(s) against the sources: all found."
   ]
  },
  {
@@ -435,20 +437,20 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 32,150**\n\n- Hostel Fees for first‑year boys admitted in 2026‑27 list the Winter 2026 fee as Rs. 32,150 /‑[1].\n- The UG hostel admission procedure confirms the total amount for boys for Winter 2026 is Rs. 32,150 /‑[2].\n\nNote: This fee applies to first‑year B.Tech (and B.Arch) male students for the Winter 2026 session.",
+  "answer": "**Rs. 32,150** for the Winter 2026 session.\n\n- The hostel fee for first‑year boys (B.Tech/B.Arch) admitted in 2026‑27 is Rs. 32,150 for Winter 2026[1].\n- The same amount is confirmed in the UG hostel admission procedure for 2026‑27: “For Boys: Total amount of Rs. 32150/- Winter 2026”[2].\n\nNote: This fee applies to first‑year B.Tech/B.Arch male students admitted for the 2026‑27 academic year.",
   "sources": [
    "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
    "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 8,
-   "supported": 8,
+   "checked": 9,
+   "supported": 9,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3357,
+   "tokens": 3400,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 6,
@@ -456,9 +458,11 @@
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 8.0).",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 8 figure(s) against the sources: all found."
+   "Checked 9 figure(s) against the sources: all found."
   ]
  },
  {
@@ -611,29 +615,31 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**₹32,650** for first‑year B.Tech (and B.Arch) girls for the Winter 2026 session.\n\n- Hostel Admission Procedure for UG (B.Tech/B.Arch) 1st‑year students admitted in 2026‑27: “For Girls : Total amount of Rs. 32650/‑ Winter 2026 to be paid at the time of Hostel Admission”[1].\n\nNote: This fee applies to first‑year B.Tech/B.Arch female students admitted for the 2026‑27 academic year, payable for the Winter 2026 session.",
+  "answer": "**Rs. 32,650** for the Winter 2026 session.\n\n- The hostel fee for first‑year UG (B.Tech/B.Arch) girls admitted in 2026‑27 is Rs. 32650 /‑ payable for Winter 2026[1].",
   "sources": [
    "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 9,
-   "supported": 9,
+   "checked": 5,
+   "supported": 5,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3456,
+   "tokens": 3915,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
-   "passages_seen": 6,
+   "passages_seen": 8,
    "passages_cited": 1
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “girls”, “sessi”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “HOSTEL FEES FOR SECOND YEAR GIRLS ADMITTED IN YEAR 2025-26”.",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 9 figure(s) against the sources: all found."
+   "Checked 5 figure(s) against the sources: all found."
   ]
  },
  {
@@ -1142,31 +1148,31 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "The available VNIT documents do not list the hostel fee for first‑year B.Tech boys for the 2015‑16 academic year[1].\n\n*You may look for older fee schedules in the “Hostel Fee Estimate & Demand Letter” archives on the VNIT website (e.g., vnit.ac.in/hostel‑fees) or ask the hostel office for the 2015‑16 record.*",
-  "sources": [
-   "https://drive.google.com/file/d/1O_wlD5BE7p_M2lDAK5uhlVRYJzB1z0Dg/view"
-  ],
+  "answer": "I’m sorry, but none of the provided documents contain the hostel fee for first‑year B.Tech boys for the 2015‑16 academic year. You could look for the “Hostel Fee Estimate & Demand Letter for UG Students” for the 2015‑16 session on the VNIT website (e.g., under Admissions → Hostel → Fee Structure) or ask for the specific 2015‑16 fee document.",
+  "sources": [],
   "verification": {
    "verdict": "verified",
-   "checked": 4,
-   "supported": 4,
+   "checked": 3,
+   "supported": 3,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 3,
-   "tokens": 10107,
-   "waited_for_quota_s": 20.1,
+   "tokens": 9947,
+   "waited_for_quota_s": 22.2,
    "tool_calls": 2,
    "passages_seen": 7,
-   "passages_cited": 1
+   "passages_cited": 0
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention 2015-16); no better-titled page had a relevant passage, so I continued with what it found.",
    "Searched for “hostel fee first year B.Tech boys 2015-16”: HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026-27",
-   "Looked up documents titled like “hostel fees first year B.Tech 2015-16”: Hostel fees; First Year B.Tech Teaching Slots and Time Table; Coursebook for First Year B.Tech & B.Arch",
+   "Looked up documents titled like “hostel fee first year B.Tech 2015-16”: Hostel Fee Estimate & Demand Letter for UG Students; First Year B.Tech Teaching Slots and Time Table; Coursebook for First Year B.Tech & B.Arch",
    "Wrote the answer after 2 round(s) of tool use.",
-   "Checked 4 figure(s) against the sources: all found."
+   "Checked 3 figure(s) against the sources: all found."
   ]
  },
  {
@@ -1176,7 +1182,7 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "I’m sorry, but none of the provided passages contain information about the monthly salary of the VNIT Director. You could check the **VNIT official website** (e.g., the Director’s profile page or the institute’s “Administration”/“Financials” sections) or contact the institute’s administrative office for the most up‑to‑date salary details.",
+  "answer": "I’m sorry, but none of the provided passages contain information about the monthly salary of the Director of VNIT. You may look for this detail on the official VNIT website (e.g., the “Administration” or “Director’s Office” pages) or in recent VNIT annual reports.",
   "sources": [],
   "verification": {
    "verdict": "refused",
@@ -1186,17 +1192,19 @@
   },
   "usage": {
    "llm_calls": 3,
-   "tokens": 7342,
-   "waited_for_quota_s": 4.1,
+   "tokens": 8154,
+   "waited_for_quota_s": 12.8,
    "tool_calls": 2,
-   "passages_seen": 7,
+   "passages_seen": 9,
    "passages_cited": 0
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: people.",
    "Searched VNIT's pages and documents: 7 passages from 5 sources.",
-   "Searched for “Director VNIT monthly salary”: Click here for the Advertisement; Director, VNIT, Nagpur; Advertisement No. VNIT/Faculty-Recruitment/Asst.Prof./01/2025 Dated : 4th July, 2025.",
-   "Looked up documents titled like “Director Office Staff”: Director Office Staff; Administrative Officers; Technical / Other Cadre Officers",
+   "The first search looked weak (best match scored -0.1, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “monthly salary Director VNIT”: Click here for the Advertisement; Advertisement No. VNIT/Faculty-Recruitment/Asst.Prof./01/2025 Dated : 4th July, 2025.; Advertisement No. VNIT/Faculty-Recruitment/Prof./03/2025 Dated : 4th July, 2025",
+   "Searched for “Director VNIT advertisement salary”: Click here for the Advertisement; Advertisement No. VNIT/Faculty-Recruitment/Asst.Prof./01/2025 Dated : 4th July, 2025.",
    "Wrote the answer after 2 round(s) of tool use.",
    "The sources do not cover this, so the answer says so instead of guessing."
   ]

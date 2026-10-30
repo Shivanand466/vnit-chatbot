@@ -49,8 +49,8 @@ Final-year project (FYP). Built with free and open-source tools only.
 | Web pages | ✅ 81 pages from vnit.ac.in |
 | Documents | ✅ **406 converted** — every usable document VNIT links: fee sheets, all 19 hostel fee sheets, academic calendars, scholarship notices, admission instructions, timetables, course books, department brochures, placement reports, Academic Rule Book. 599 links found, 456 selected after filters; of those, 33 excluded as lists of people, 5 had no readable text, 3 were Hindi-only and 7 failed (3 are dead links on vnit.ac.in) |
 | Search index | ✅ 8,162 chunks |
-| Answer quality | ✅ **35 of 39** test questions answered correctly end to end by the agent; all 5 "impossible" questions correctly refused (details below) |
-| Agentic layer | ✅ **Added 30 October 2026**: a router, a planner with four tools (search again, find a document, look inside it, calculate), and a verifier that checks every figure before an answer is shown, with one automatic revision. Every step is visible in the chat page. 32/32 automated tests pass (`pipeline/test_agentic.py`, no key needed) |
+| Answer quality | ✅ **35 of 39** test questions answered correctly end to end by the agent in the last full run; all 5 "impossible" questions correctly refused. Since then the placement question has been fixed (corrective search gate) and passes on re-test, so the saved results read **36/39** (details below) |
+| Agentic layer | ✅ **Added 30 October 2026**: a router (kind of question and topic), a corrective search gate that grades the first search and looks inside the best-titled pages when it is weak, a planner with four tools (search again, find a document, look inside it, calculate), and a verifier that checks every figure before an answer is shown, with one automatic revision. Every step is visible in the chat page. 35/35 automated tests pass (`pipeline/test_agentic.py`, no key needed) |
 | Chat page | ✅ Works; one-click start with `start_chatbot.bat` (Windows). Shows "How I found this", a ✓/⚠ verification badge and numbered citations |
 | Safety | ✅ Keys kept outside the project and never printed; per-visitor rate limit; answers can't inject code into the page; every converted document re-checked against the personal-data filter |
 | Deployment | 🟡 **Public link from the laptop** with `start_public_link.bat` (free Cloudflare tunnel). Not always-online: Hugging Face now charges (PRO) for Docker Spaces, and free hosts with 512 MB of memory are too small (see "Deploying" below) |
@@ -61,16 +61,16 @@ Measured on 30 October 2026, with every question reaching the AI (no quota fallb
 
 | Check | What it measures | Result |
 |---|---|---|
-| `check_answers.py` (agent) | Asks the real chatbot **39 questions** (34 facts verified by hand in the sources, 5 it must refuse, 2 follow-up conversations) through the same path as the chat page | **35/39 correct** |
+| `check_answers.py` (agent) | Asks the real chatbot **39 questions** (34 facts verified by hand in the sources, 5 it must refuse, 2 follow-up conversations) through the same path as the chat page | **35/39 correct** in the full run of 30 Oct; **36/39** saved after the placement fix was re-tested |
 | (same) | The 5 questions whose answers are *not* in VNIT's material | **5/5 correctly refused** (no made-up answers) |
 | (same) | How often the agent decided to use tools | 9 of 39 questions |
 | `check_answers.py --pipeline oneshot` | The same questions through the older one-search, one-call pipeline | being measured: 19/20 so far, the same as the agent on those 20 (see `EXPERIMENTS-LOG.md` §20f) |
-| `test_agentic.py` | The agent's tools, the verifier and the decision loop (no key needed) | **32/32** |
+| `test_agentic.py` | The agent's tools, the verifier and the decision loop (no key needed) | **35/35** |
 | `chunk_ranks.py` | Does the passage holding the answer reach the AI? (32 questions) | 29/32 |
 | `fact_ranks.py` | Is the passage containing the answer among the top 3 found? | 15/18 |
 | `evaluate.py` | Is the right *page or document* among the top 3? (19 questions) | 16/19 |
 
-The four questions still failing are known, documented weak spots: the 2025-26 placement totals (the agent's `read_document` tool *can* find them inside the T&P page, but the agent opens the placement report instead), the M.Sc and B.Arch tuition (the scanned fee tables lost their labels in OCR), and one exam slot's mid-sem date (timetable rows split across passages). Earlier rounds: 17/18 on the original 18-question check (3 Oct), 13/18 before that.
+The 2025-26 placement totals (678 students, 170 companies) failed in the full run because the agent opened the placement report instead of the T&P page. A corrective search gate now grades the first search (it scored −1.2, far below the ~7 of a good match), looks inside the best-titled page the search missed, and finds the figures there before the AI is asked: it passes on re-test (`EXPERIMENTS-LOG.md` §22). The three still failing are known, documented weak spots: the M.Sc and B.Arch tuition (the scanned fee tables lost their labels in OCR), and one exam slot's mid-sem date (timetable rows split across passages). Earlier rounds: 17/18 on the original 18-question check (3 Oct), 13/18 before that.
 
 Answered correctly, among others:
 - Civil Engineering intake (120/year) and the 5G lab announcement date (27 Oct 2023);
@@ -87,7 +87,7 @@ Full answers, each with its steps and verification, are saved in `data/processed
 ### Known limitations
 
 - **One paragraph can lose to a long list.** The 2025-26 placement figures sit in one paragraph of the T&P page, while two placement reports contribute hundreds of company-list passages that match the same words. See `EXPERIMENTS-LOG.md` §16.
-- **The agent doesn't always pick the best page to open.** For the placement totals it has the right tool and the T&P page is listed for it, but it opens the placement report instead, then correctly says the figures aren't there. See `EXPERIMENTS-LOG.md` §20c.
+- **The agent doesn't always pick the best page to open by itself.** For the placement totals it opened the placement report instead of the T&P page (`EXPERIMENTS-LOG.md` §20c). The corrective search gate now does that lookup as code when the first search looks weak (§22), but its thresholds were calibrated on this project's 37 test questions, so other weak searches may slip past it.
 - **Questions that need extra lookups are slower** on the free plan: 30–70 seconds instead of a few, because the agent waits for the per-minute allowance rather than fail.
 - **Designed posters.** A two-column poster can pair a label with the wrong value: the IDFC scholarship poster's "Application deadline" ended up next to the award amount, leaving the date on its own line. The chatbot declines rather than guessing which label owns the date.
 - **Answers can vary slightly between runs**, because the AI model isn't perfectly repeatable. One test question passed in one run and failed in the next two with no change to the data.
@@ -106,7 +106,7 @@ The chatbot itself is finished and working. What remains is optional:
 1. **For the FYP report:** the numbers in "Measured quality", `EXPERIMENTS-LOG.md` (every change tried, with measurements — including the two that were measured and rejected) and `docs/development-history/` are ready-made evidence. §12 is a good story to tell: a parameter tuned on a small corpus (the reranking pool) silently became the biggest limit on accuracy once the corpus grew four times larger.
 2. **Always-online hosting** (optional): replace PyTorch with the lighter ONNX runtime so the app fits a free 512 MB host such as Render, then re-run the three checks. Or pay for Hugging Face PRO and run `deploy/deploy_to_hf.py` unchanged. For a demo, `start_public_link.bat` already gives a public address from the laptop.
 3. **Refresh the data** before the demo, if VNIT has posted new notices since 3 October 2026 — `HOW-TO-RUN.md` §5 has the commands. New documents are converted at roughly 1–3 minutes each.
-4. **The remaining weak spots**, if there is time: the page-level retrieval stage now exists as the agent's `read_document` tool, and it does find the 2025-26 placement figures inside the T&P page, but the agent doesn't yet choose that page by itself (see `EXPERIMENTS-LOG.md` §20). Reading two-column posters reliably would fix the IDFC-style layouts.
+4. **The remaining weak spots**, if there is time: the M.Sc and B.Arch fee tables damaged by OCR, and the slot-A mid-sem row. Reading two-column posters reliably would fix the IDFC-style layouts.
 5. **Rotate the Groq key** after submission: it was pasted into a chat during development, so treat it as public. Create a new one at https://console.groq.com/keys and save it in `C:\Users\<you>\groq-key.txt`.
 
 ---

@@ -82,9 +82,15 @@ _reranker = {"model": None, "failed": False}
 
 def _rerank(question, chunks, candidate_ids):
     """Re-order candidates with the cross-encoder; if it can't be loaded
-    (e.g. first run without internet), keep the original order."""
+    (e.g. first run without internet), keep the original order.
+
+    Returns (ids in order, their cross-encoder scores). The scores are kept
+    for grader.py, which judges from them whether the search found anything
+    relevant; they are None when the reranker is unavailable.
+    """
+    unscored = (list(candidate_ids), [None] * len(candidate_ids))
     if _reranker["failed"]:
-        return candidate_ids
+        return unscored
     if _reranker["model"] is None:
         try:
             from sentence_transformers import CrossEncoder
@@ -92,10 +98,11 @@ def _rerank(question, chunks, candidate_ids):
         except Exception as e:
             print(f"[rerank] disabled, couldn't load {RERANK_MODEL}: {type(e).__name__}: {e}")
             _reranker["failed"] = True
-            return candidate_ids
+            return unscored
     pairs = [(question, f"{chunks[i]['title']}. {chunks[i]['text']}") for i in candidate_ids]
     scores = _reranker["model"].predict(pairs)
-    return [candidate_ids[j] for j in sorted(range(len(candidate_ids)), key=lambda j: -scores[j])]
+    order = sorted(range(len(candidate_ids)), key=lambda j: -scores[j])
+    return [candidate_ids[j] for j in order], [float(scores[j]) for j in order]
 
 
 def _interleave(*orders):
@@ -179,30 +186,24 @@ def retrieve(question: str, k: int = 3):
                     data["tfidf_vectorizer"].transform([variant]), data["tfidf_matrix"])[0]
                 orders.append(list(_fuse(variant_sims, keyword)))
             pool = _candidates(question, chunks, _interleave(*orders))
-            ranked = _rerank(question, chunks, pool)[:k]
+            ranked, rerank = _rerank(question, chunks, pool)
+            ranked, rerank = ranked[:k], rerank[:k]
         else:
             ranked = sims.argsort()[::-1][:k]
+            rerank = [None] * len(ranked)
     else:
         vectorizer, matrix = data["vectorizer"], data["matrix"]
         q_vec = vectorizer.transform([question])
         sims = cosine_similarity(q_vec, matrix)[0]
         ranked = sims.argsort()[::-1][:k]
+        rerank = [None] * len(ranked)
 
-    results = []
-    for idx in ranked:
-        c = chunks[idx]
-        results.append({
-            "score": float(sims[idx]),
-            "text": c["text"],
-            "title": c["title"],
-            "source_url": c["source_url"],
-            "fetched": c.get("fetched", ""),
-        })
-    return results
+    return [_as_result(chunks[idx], sims[idx], score) for idx, score in zip(ranked, rerank)]
 
 
-def _as_result(c, score):
-    return {"score": float(score), "text": c["text"], "title": c["title"],
+def _as_result(c, score, rerank=None):
+    """`score` is the embedding similarity; `rerank` the cross-encoder's score (None without it)."""
+    return {"score": float(score), "rerank": rerank, "text": c["text"], "title": c["title"],
             "source_url": c["source_url"], "fetched": c.get("fetched", "")}
 
 
@@ -255,8 +256,8 @@ def retrieve_within(question: str, source_urls, k: int = 4):
     by_sim = sims.argsort()[::-1][:RERANK_POOL]
     pool = [ids[j] for j in by_sim]
     sim_of = {ids[j]: sims[j] for j in by_sim}
-    ranked = _rerank(question, chunks, pool)[:k]
-    return [_as_result(chunks[i], sim_of[i]) for i in ranked]
+    ranked, rerank = _rerank(question, chunks, pool)
+    return [_as_result(chunks[i], sim_of[i], score) for i, score in zip(ranked[:k], rerank[:k])]
 
 
 def main():

@@ -32,6 +32,7 @@ import os
 import agent
 import followup
 import generate
+import grader
 import planner
 import router
 import tools
@@ -145,8 +146,16 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
                    + (f" in {len(sub_questions)} parts" if len(sub_questions) > 1 else "") + "."}
 
     if use_agent:
+        grade, extra, grade_note = None, [], None
+        if gate_enabled():
+            grade = grader.grade(searched, report)
+            extra = corrective_passages(searched, report) if grade["grade"] != "correct" else []
+            grade_note = {"step": "grade", "verdict": grade["grade"], "text": _grade_text(grade, extra)}
         try:
-            result = planner.run(searched, report)
+            result = planner.run(searched, report, extra=extra, search_grade=grade)
+            steps = result["trace"]
+            if grade_note:
+                steps = steps[:1] + [grade_note] + steps[1:]  # right after the first search
             return {
                 "question": asked,
                 "understood_as": searched if rewrite_note else None,
@@ -156,7 +165,7 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
                 "kind": kind,
                 "intent": topic,
                 "sub_questions": sub_questions,
-                "trace": trace + result["trace"],
+                "trace": trace + steps,
                 "verification": result["verification"],
                 "usage": result["usage"],
             }
@@ -193,6 +202,54 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
 
 
 FALLBACK_TOKENS = 3000
+
+# Pages whose titles best match the question, looked inside when the first
+# search grades weak (grader.py), and passages kept from each.
+CORRECTIVE_DOCUMENTS = 2
+CORRECTIVE_PASSAGES = 2
+
+
+def gate_enabled() -> bool:
+    return os.environ.get("CRAG_GATE", "on").strip().lower() not in ("off", "0", "false", "no")
+
+
+def corrective_passages(question: str, report: dict) -> list:
+    """Look inside the best-titled pages the first search did not reach.
+
+    The planner could do this itself with find_documents and read_document, and
+    for the 2025-26 placement figures it never did (EXPERIMENTS-LOG §20c). Done
+    here as code, it costs no LLM call and happens every time the first search
+    looks weak. Returns (result, text) pairs, at most one per page, and only
+    passages the reranker scores above grader.LOW.
+    """
+    import query
+
+    reached = {r["source_url"] for r, _ in generate.select_passages(report)}
+    catalogue = query.list_sources()
+    found = []
+    candidates = [catalogue[i]["url"] for _score, i in tools._title_scores(question)
+                  if catalogue[i]["url"] not in reached][:CORRECTIVE_DOCUMENTS]
+    for url in candidates:
+        best = query.retrieve_within(question, [url], k=CORRECTIVE_PASSAGES)[:1]
+        if best and best[0]["rerank"] is not None and best[0]["rerank"] > grader.LOW:
+            r = best[0]
+            text = r["text"]
+            if len(text) > generate.MAX_CHUNK_CHARS:
+                text = text[:generate.MAX_CHUNK_CHARS].rsplit(" ", 1)[0] + "..."
+            found.append((r, text))
+    return found
+
+
+def _grade_text(grade: dict, extra) -> str:
+    if grade["grade"] == "correct":
+        if grade["top"] is None:
+            return "Could not grade the first search (no reranker), so used it as it was."
+        return f"The first search looked relevant (score {grade['top']:.1f})."
+    if not extra:
+        return (f"The first search looked weak ({grade['why']}); no better-titled page had a "
+                "relevant passage, so I continued with what it found.")
+    titles = " and ".join(f"“{r['title']}”" for r, _ in extra)
+    return f"The first search looked weak ({grade['why']}), so I also looked inside {titles}."
 
 ROUTE_NOTES = {
     router.GREETING: "Recognised a greeting, so no search was needed.",

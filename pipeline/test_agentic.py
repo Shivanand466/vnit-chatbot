@@ -336,6 +336,75 @@ def test_respond_reports_the_intent_in_the_trace():
     assert {"step": "route", "text": "Topic: people."} in out["trace"], out["trace"]
 
 
+# ---------------------------------------------------------------------------
+# Corrective retrieval gate
+# ---------------------------------------------------------------------------
+
+PLACEMENTS = "How many students got placed in 2025-26 and how many companies came?"
+
+# Top-7 chunk ids before the reranker's scores were kept (30 Oct 2026, index of
+# 8,162 chunks): keeping the scores must not change the order. Rebuilding the
+# index renumbers chunks, so these need updating after build_index.py.
+RANKING_SNAPSHOT = {
+    "Who is the current Director of VNIT?": [110, 106, 7245, 107, 2612, 80, 7029],
+    "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?":
+        [2921, 2925, 2918, 2923, 6600, 2448, 5962],
+    PLACEMENTS: [6446, 3468, 3469, 3467, 6444, 6449, 6438],
+}
+
+
+def test_keeping_rerank_scores_leaves_the_order_unchanged():
+    chunks = query.load_index()["chunks"]
+    if len(chunks) != 8162:
+        return  # a rebuilt index numbers chunks differently; the snapshot no longer applies
+    position = {(c["source_url"], c["text"]): i for i, c in enumerate(chunks)}
+    for question, ids in RANKING_SNAPSHOT.items():
+        results = query.retrieve(question, k=7)
+        assert [position[(r["source_url"], r["text"])] for r in results] == ids, question
+        scores = [r["rerank"] for r in results]
+        assert scores == sorted(scores, reverse=True), scores
+
+
+def test_grade_separates_a_weak_first_search():
+    import agent
+    import grader
+    weak = grader.grade(PLACEMENTS, agent.answer(PLACEMENTS))
+    good = grader.grade("Who is the current Director of VNIT?",
+                        agent.answer("Who is the current Director of VNIT?"))
+    old_year = "What was the hostel fee for first year B.Tech boys in 2015-16?"
+    other_year = grader.grade(old_year, agent.answer(old_year))
+    assert weak["grade"] != "correct", weak
+    assert good["grade"] == "correct", good
+    assert other_year["grade"] != "correct" and "2015-16" in other_year["why"], other_year
+
+
+def test_gate_puts_the_placement_figures_in_front_of_the_agent():
+    import os
+    import requests
+
+    sent = []
+
+    def fake_post(url, **kw):
+        sent.append(kw["json"])
+        return _reply("The figures are not in the passages.")
+
+    original, saved = requests.post, os.environ.get("GENAI_API_KEY")
+    requests.post, os.environ["GENAI_API_KEY"] = fake_post, "test-key"
+    try:
+        out = respond.answer(PLACEMENTS, use_agent=True)
+    finally:
+        requests.post = original
+        if saved is None:
+            os.environ.pop("GENAI_API_KEY")
+        else:
+            os.environ["GENAI_API_KEY"] = saved
+    first_prompt = sent[0]["messages"][1]["content"]
+    assert "678" in first_prompt and "Search quality:" in first_prompt, first_prompt[-400:]
+    grade_steps = [t for t in out["trace"] if t["step"] == "grade"]
+    assert grade_steps and "Training & Placement" in grade_steps[0]["text"], out["trace"]
+    assert out["trace"].index(grade_steps[0]) > 0
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]

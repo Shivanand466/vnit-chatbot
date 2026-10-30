@@ -27,10 +27,10 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 | Page-level benchmark (`evaluate.py`, 19 questions) | 16/19 |
 | Answer-chunk ranks (`fact_ranks.py`) | **15/18** |
 | Real-path retrieval (`chunk_ranks.py`, 32 questions through `agent.answer`) | **29/32** have the answer-bearing passage among the 7 sent to the LLM; 26/32 in the top 3 |
-| End-to-end answer check (`check_answers.py`, 39 cases) | **35/39** through the agent (2026-10-30), every question reaching the LLM; 5/5 must-decline questions refused. One-shot baseline on the same questions being measured (19/20 so far, equal to the agent on those 20). See §6 and EXPERIMENTS-LOG §20 |
+| End-to-end answer check (`check_answers.py`, 39 cases) | **35/39** through the agent in the full run of 2026-10-30, every question reaching the LLM; 5/5 must-decline questions refused. Placements fixed since by the corrective gate and passing on re-test: saved results **36/39** (EXPERIMENTS-LOG §22). One-shot baseline on the same questions being measured (19/20 so far, equal to the agent on those 20). See §6 and EXPERIMENTS-LOG §20 |
 | LLM | Groq free tier: `openai/gpt-oss-120b` for the agent, `openai/gpt-oss-20b` for the one-shot fallback and follow-up rewriting (separate daily allowances, §5a) |
-| Agentic layer (added 2026-10-30) | Router (kind of message, and topic: fees, hostel, calendar, …) → follow-up resolver → first search → **planner** with four tools (`search_vnit`, `find_documents`, `read_document`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported. Falls back to the one-shot pipeline if the agent cannot run. See §5a |
-| Agent tests (`test_agentic.py`, no key needed) | **32/32** |
+| Agentic layer (added 2026-10-30) | Router (kind of message, and topic: fees, hostel, calendar, …) → follow-up resolver → first search → **corrective gate** (grades the first search from the reranker's scores; if weak, looks inside the 2 best-titled pages it missed) → **planner** with four tools (`search_vnit`, `find_documents`, `read_document`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported. Falls back to the one-shot pipeline if the agent cannot run. See §5a |
+| Agent tests (`test_agentic.py`, no key needed) | **35/35** |
 | API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-30. Follow-up questions ("and for girls?"), a "How I found this" panel listing the agent's steps, a verification badge, numbered citations, and a thumbs up/down rating on every answer |
 | Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
@@ -78,7 +78,7 @@ vnit-chatbot/
     ├── tools.py               <- the agent's tools + the numbered evidence log ([P1], [P2]…)
     ├── verifier.py            <- checks every figure/date/email/phone against the passages
     ├── generate.py            <- one-shot prompt, shared answer rules, extractive fallback
-    ├── test_agentic.py        <- 32 tests for intent, tools, verifier and agent loop (no key needed)
+    ├── test_agentic.py        <- 35 tests for intent, the search grade, tools, verifier and agent loop (no key needed)
     ├── feedback_summary.py    <- counts the thumbs up/down ratings
     ├── evaluate.py            <- page-level benchmark
     ├── fact_ranks.py          <- answer-chunk rank check (no LLM needed)
@@ -151,6 +151,7 @@ The one-shot pipeline searched once and printed whatever the LLM wrote. When tha
                                                        calculate
 ```
 
+0. **Grade** (`grader.py`, Corrective RAG, no LLM). The first search is graded from the cross-encoder's best score for the whole question (`top`) and the share of the question's rarer words and academic year found in the top 3 passages (`coverage`): `correct` if top ≥ 3.0 and coverage ≥ 0.75, `incorrect` if top < 0, otherwise `ambiguous` (always, if a named academic year is in none of the top 3). Thresholds were calibrated on the test questions (`grade_calibration.py`, EXPERIMENTS-LOG §22). When the grade is not `correct`, `respond.corrective_passages` looks inside the 2 best-titled pages the first search did not reach and adds each one's best passage if it scores above 0; the model is also told `Search quality: <grade> (<why>)`. This is the lookup the planner did not choose by itself for the placement figures. `CRAG_GATE=off` disables it; the one-shot fallback does not use it.
 1. **Observe.** The first search's passages — exactly the ones the one-shot path would send — go to the LLM, labelled `[P1]`, `[P2]`… with the document each comes from (`doc S57`). Below them is a short list of pages whose *titles* match the question, so the agent can see a relevant page even when none of its paragraphs ranked.
 2. **Decide.** If the passages answer the question, the agent answers straight away: one LLM call, the same cost as before. Otherwise it acts.
 3. **Act** with four tools (OpenAI-style function calling, which Groq supports):
@@ -240,5 +241,6 @@ Earlier rounds: adding titles to chunks 11 → 12/18; sending 5 passages instead
 | `GENAI_MODEL` | `openai/gpt-oss-20b` | If Groq retires it (404 `model_not_found`), pick a current one from `GET {base_url}/models` |
 | `VNIT_KEY_FILE` | `%USERPROFILE%\vnit-secrets.txt` | Google Drive API key file |
 | `AGENT_MODE` | `on` | `off` answers every lookup with the one-shot pipeline instead of the agent |
+| `CRAG_GATE` | `on` | `off` disables the corrective retrieval gate (§5a step 0) |
 | `AGENT_MODEL` | `openai/gpt-oss-120b` | The agent's model. Kept different from `GENAI_MODEL` on purpose: Groq's free daily allowance (~200,000 tokens) is per model, so when the agent's runs out, the one-shot fallback still has its own |
 | `GENAI_TOKENS_PER_MINUTE` | `8000` | The provider's per-minute token allowance, used by the agent's pacer until the first response's headers report the real figure |
