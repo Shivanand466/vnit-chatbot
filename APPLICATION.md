@@ -30,7 +30,7 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 | End-to-end answer check (`check_answers.py`, 39 cases) | **35/39** through the agent in the full run of 2026-10-30, every question reaching the LLM; 5/5 must-decline questions refused. Placements fixed since by the corrective gate and passing on re-test: saved results **36/39** (EXPERIMENTS-LOG §22). One-shot baseline on the same questions being measured (19/20 so far, equal to the agent on those 20). See §6 and EXPERIMENTS-LOG §20 |
 | LLM | Groq free tier: `openai/gpt-oss-120b` for the agent, `openai/gpt-oss-20b` for the one-shot fallback and follow-up rewriting (separate daily allowances, §5a) |
 | Agentic layer (added 2026-10-30) | Router (kind of message, and topic: fees, hostel, calendar, …) → follow-up resolver → first search → **clarify or assume** (slots.py: asks which programme/gender when the relevant passages differ, or fills it from the chat's profile) → **corrective gate** (grades the first search from the reranker's scores; if weak, looks inside the 2 best-titled pages it missed) → **planner** with five tools (`search_vnit`, `find_documents`, `read_document`, `lookup_table`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported → **hand-off**: a refusal or unconfirmed answer gets the right office's contact (`data/contacts.json`). Falls back to the one-shot pipeline if the agent cannot run. See §5a |
-| Agent tests (`test_agentic.py`, no key needed) | **49/49** |
+| Agent tests (`test_agentic.py`, no key needed) | **53/53** |
 | API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-30. Follow-up questions ("and for girls?"), a "How I found this" panel listing the agent's steps, a verification badge, numbered citations, and a thumbs up/down rating on every answer |
 | Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
@@ -78,7 +78,7 @@ vnit-chatbot/
     ├── tools.py               <- the agent's tools + the numbered evidence log ([P1], [P2]…)
     ├── verifier.py            <- checks every figure/date/email/phone against the passages
     ├── generate.py            <- one-shot prompt, shared answer rules, extractive fallback
-    ├── test_agentic.py        <- 49 tests for intent, the search grade, slots, hand-off, table lookup, tools, verifier and agent loop (no key needed)
+    ├── test_agentic.py        <- 53 tests for intent, the search grade, slots, hand-off, table lookup, tools, verifier and agent loop (no key needed)
     ├── feedback_summary.py    <- counts the thumbs up/down ratings
     ├── evaluate.py            <- page-level benchmark
     ├── fact_ranks.py          <- answer-chunk rank check (no LLM needed)
@@ -245,6 +245,8 @@ Earlier rounds: adding titles to chunks 11 → 12/18; sending 5 passages instead
 | `GENAI_BASE_URL` | `https://api.groq.com/openai/v1` | Any OpenAI-compatible provider |
 | `GENAI_MODEL` | `openai/gpt-oss-20b` | If Groq retires it (404 `model_not_found`), pick a current one from `GET {base_url}/models` |
 | `VNIT_KEY_FILE` | `%USERPROFILE%\vnit-secrets.txt` | Google Drive API key file |
+| `AGENT_TOOLS` | `on` | `off` offers the agent no tools: it answers from the first search (for the ablations, EXPERIMENTS-LOG §26) |
+| `VERIFY_REVISE` | `on` | `off` still verifies and flags, but makes no revision call (ablations) |
 | `AGENT_MODE` | `on` | `off` answers every lookup with the one-shot pipeline instead of the agent |
 | `LOOKUP_TABLE` | `on` | `off` removes the `lookup_table` tool (it is also removed if `facts.db` has not been built) |
 | `CLARIFY` | `on` | `off` disables clarifying questions (§5a step A) |

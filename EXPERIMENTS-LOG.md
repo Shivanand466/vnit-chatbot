@@ -461,6 +461,47 @@ Passage search finds the second (readable) row, which answers for SC/ST only. Th
 
 `test_agentic.py`: 49/49 (parser on 6 real lines, the girls' total and M.Sc rows, SQL-ish input changes nothing, the switch, rows sharing a lead-in). Retrieval checks unchanged.
 
+## 26. Ablations: what each piece contributes (Runbook 7, Step 6)
+
+**Why.** The Agent-Orchestrated Adaptive RAG paper measured reflection *lowering* overall scores and multiplying latency six times. Adding a piece is not evidence that it helps, so each one is measured on its own.
+
+**Switches** (environment variables, default on; each is pinned by a test that it fully disables its piece):
+- `AGENT_TOOLS=off`: no tools are offered; the agent answers from the first search;
+- `VERIFY_REVISE=off`: verifies and flags, but makes no revision call;
+- `CRAG_GATE=off`: no grade, no corrective passages (§22);
+- `CLARIFY=off`: neither asks back nor applies the profile (§23);
+- `LOOKUP_TABLE=off`: removes the table tool (§25).
+
+**Hard set** (`check_answers.py --set hard`, 14 questions):
+- the questions that failed or used tools on 30 Oct: placements, M.Sc, B.Arch, slot A, summer-term fee;
+- the girls' hostel fee;
+- two must-decline questions (Wi-Fi, 2015-16 hostel fee);
+- both conversations;
+- the 4 clarify cases.
+
+Each configuration saves to its own file (`--config <name>` → `answer_check_<name>.json`). The one-shot row is read from the full one-shot run restricted to the same questions, since that pipeline has no pieces to switch.
+
+**How it is run.** `pipeline/run_ablations.sh`, unattended. Two tracks run side by side because each model has its own daily allowance:
+- gpt-oss-20b finishes the one-shot baseline;
+- gpt-oss-120b runs the five agent configurations in order, then one full run of all 43 cases (39 + 4 clarify), which becomes the headline number.
+
+`check_answers.py` now exits with 2 when a run is unfinished; the script waits 30 minutes and resumes. `ablation_table.py` prints the table. It started on 30 Oct 2026 at 15:08 IST.
+
+**Results:** see the table below, updated as runs finish (`python ablation_table.py`).
+
+<!-- ablation-table -->
+Hard set: 14 questions (placements, msc_tuition, barch_tuition, midsem_slot_a, summer_term_fee, hostel_fee_girls, unanswerable_wifi, unanswerable_old_hostel_fee, conv_hostel_girls, conv_mtech_tuition, clarify_hostel_vague, clarify_then_answer, no_clarify_when_specific, no_clarify_director)
+
+| configuration | correct | must-decline refused | tokens / question | seconds / question | tool calls / question | gate fired | asked back | switches |
+|---|---|---|---|---|---|---|---|---|
+| one-shot | 2/7 (7 not answered yet) | 1/1 | — | — | — | 0 | 0 | `--pipeline oneshot` |
+| agent, no tools | not run yet | | | | | | | `AGENT_TOOLS=off CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
+| agent (30 Oct) | not run yet | | | | | | | `CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
+| + CRAG gate | not run yet | | | | | | | `CLARIFY=off LOOKUP_TABLE=off` |
+| + clarify | not run yet | | | | | | | `LOOKUP_TABLE=off` |
+| full | not run yet | | | | | | | `none` |
+<!-- /ablation-table -->
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

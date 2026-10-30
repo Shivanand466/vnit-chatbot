@@ -174,3 +174,25 @@ Done when:
 | No-key checks | unchanged |
 | `--only msc`, `--only barch`, `--only slot_a` run, outcome recorded honestly | done (above, and EXPERIMENTS-LOG §25) |
 | `--only hostel_fee`, `--only btech_fee` | PASS |
+
+## Step 6. Ablations and final numbers
+
+- Switches, default on, each tested to fully disable its piece: `AGENT_TOOLS`, `VERIFY_REVISE`, `CRAG_GATE`, `CLARIFY` (asking *and* the profile), `LOOKUP_TABLE`.
+- `check_answers.py`: `--set hard` (14 questions, list `HARD`), `--config <name>` (own results file), time per question, exit code 2 when unfinished. `--set` without `--config` merges into the saved file, like `--only`.
+- `pipeline/ablation_table.py` prints the comparison table.
+- `pipeline/run_ablations.sh` runs everything unattended. Two tracks (gpt-oss-20b: one-shot baseline; gpt-oss-120b: no tools → 30 Oct agent → + CRAG gate → + clarify → full, on the hard set, then one full run of all 43 cases). Each run resumes after a 30-minute wait whenever the daily allowance runs out. Started 30 Oct 2026, 15:08 IST. Log: `data/processed/ablation_runs.log`.
+- The earlier one-shot loop was stopped and folded into this runner: its "finished" test counted 41 cases, and with the 4 clarify cases it would never have stopped.
+
+```
+python test_agentic.py     -> 53/53 passed
+python ablation_table.py   -> see EXPERIMENTS-LOG §26 (refreshed as runs finish)
+```
+
+**If the laptop restarts or this window closes before the runs finish**, open Git Bash and type:
+
+```
+cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-chatbot/pipeline
+bash run_ablations.sh
+```
+
+It carries on where it stopped and never asks a question twice. When `../data/processed/ablation_runs.log` says "all tracks done", run `python ablation_table.py`.
