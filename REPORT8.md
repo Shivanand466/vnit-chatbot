@@ -17,3 +17,19 @@ What was done for each step of `RUNBOOK-7-AGENTIC-UPGRADES.md`, the commands run
 | End to end | `python check_answers.py` | 35/39 (saved run, 30 Oct) |
 
 The one-shot baseline (`--pipeline oneshot`) stood at 24/26 with 13 questions not yet asked; it resumes in the background as the gpt-oss-20b allowance refills.
+
+## Step 1. Topic intent
+
+- `router.intent(question)` returns one of `fees, hostel, calendar, scholarship, placement, admission, people, department, rules, other`, checked in a fixed priority order (hostel → fees → scholarship → placement → calendar → admission → people → department → rules). `respond.answer` adds `intent` to every reply (None for direct replies) and the trace line "Topic: …".
+- All 39 `check_answers.py` questions were tagged and read by hand; none needed a special case.
+- Also fixed: `check_answers.py --only` overwrote the full results file with just its subset. It now merges.
+
+Done when:
+
+| Check | Result |
+|---|---|
+| `python test_agentic.py` | **32/32** (29 + 3 new: intents of 20 check questions, priority order, intent in the trace) |
+| `python chunk_ranks.py` | 29/32 (unchanged) |
+| `python fact_ranks.py` | 15/18 (unchanged) |
+| `python evaluate.py` | 16/19 (unchanged) |
+| EXPERIMENTS-LOG §21 | written |

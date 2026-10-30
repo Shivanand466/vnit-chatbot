@@ -76,6 +76,50 @@ _VNIT_TERMS = re.compile(
     re.I)
 
 
+# Topics, for the steps that depend on what a lookup is about: which details a
+# question needs before it can be answered (slots.py), and which office to
+# point to when the documents don't answer it (respond.py). Checked in this
+# order, so "hostel fee" is a hostel question and "scholarship deadline" a
+# scholarship one, not a fee or calendar question.
+FEES = "fees"
+HOSTEL = "hostel"
+CALENDAR = "calendar"
+SCHOLARSHIP = "scholarship"
+PLACEMENT = "placement"
+ADMISSION = "admission"
+PEOPLE = "people"
+DEPARTMENT = "department"
+RULES = "rules"
+OTHER = "other"
+
+_TOPICS = [
+    (HOSTEL, r"hostels?|mess|warden|hall of residence|room|wi-?fi"),
+    (FEES, r"fees?|tuition|cost|costs|charges?|payment|pay|refund|remission|rs\.?|₹"),
+    (SCHOLARSHIP, r"scholarships?|fellowships?|stipend|financial aid|kanya"),
+    (PLACEMENT, r"placements?|placed|recruit\w*|internships?|companies|package|ctc|t\s*&\s*p"),
+    (CALENDAR, r"exams?|examinations?|re-?exam\w*|mid-?\s?sem\w*|end-?\s?sem\w*|classes|"
+               r"registration|register|semester|session|convocation|holidays?|"
+               r"calendar|timetable|time table|slot|add.{0,5}drop|summer term"),
+    (ADMISSION, r"admissions?|admitted|intake|enrol+\w*|seats?|jee|josaa|csab|dasa|"
+                r"reporting|eligib\w*|cut-?off"),
+    (PEOPLE, r"director|deans?|registrar|hods?|head|contact|e-?mail|phone|helpline|"
+             r"who is|who are"),
+    (DEPARTMENT, r"departments?|dept|specializ\w*|specialis\w*|labs?|faculty|"
+                 r"engineering|b\.?tech|m\.?tech|ph\.?d|programmes?|programs?|courses?"),
+    (RULES, r"rules?|rule book|ordinance|attendance|grading|grades?|backlog|ragging|"
+            r"discipline|regulations?|cgpa|sgpa"),
+]
+_TOPIC_PATTERNS = [(name, re.compile(rf"\b(?:{words})(?!\w)", re.I)) for name, words in _TOPICS]
+
+
+def intent(question: str) -> str:
+    """The topic of a lookup question: one of FEES, HOSTEL, ... OTHER."""
+    for name, pattern in _TOPIC_PATTERNS:
+        if pattern.search(question or ""):
+            return name
+    return OTHER
+
+
 def route(question: str) -> str:
     """Which kind of question this is: one of the constants above."""
     q = (question or "").strip()

@@ -121,6 +121,9 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
         trace.append({"step": "understand",
                       "text": f"Read the follow-up with the earlier questions as: “{searched}”"})
     trace.append({"step": "route", "text": ROUTE_NOTES[kind]})
+    topic = None if kind in router.NO_SEARCH else router.intent(searched)
+    if topic:
+        trace.append({"step": "route", "text": f"Topic: {topic}."})
 
     if kind in router.NO_SEARCH:
         return {
@@ -130,6 +133,7 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
             "sources": [],
             "mode": f"direct ({kind})",
             "kind": kind,
+            "intent": topic,
             "sub_questions": [],
             "trace": trace,
             "verification": None,
@@ -150,6 +154,7 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
                 "sources": result["sources"],
                 "mode": result["mode"],
                 "kind": kind,
+                "intent": topic,
                 "sub_questions": sub_questions,
                 "trace": trace + result["trace"],
                 "verification": result["verification"],
@@ -180,6 +185,7 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
         "sources": composed["sources"],
         "mode": composed["mode"],
         "kind": kind,
+        "intent": topic,
         "sub_questions": sub_questions,
         "trace": trace,
         "verification": check,

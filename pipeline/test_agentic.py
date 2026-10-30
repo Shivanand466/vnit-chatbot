@@ -15,6 +15,7 @@ import sys
 import planner
 import query
 import respond
+import router
 import tools
 import verifier
 
@@ -288,6 +289,51 @@ def test_respond_falls_back_when_the_agent_cannot_run():
 def test_respond_greeting_skips_search():
     out = respond.answer("hello")
     assert out["mode"] == "direct (greeting)" and out["trace"][-1]["step"] == "route"
+    assert out["intent"] is None
+
+
+# ---------------------------------------------------------------------------
+# Topic intent
+# ---------------------------------------------------------------------------
+
+def test_intent_of_the_answer_check_questions():
+    import check_answers
+    expected = {
+        "hostel_fee_first_year": "hostel", "hostel_fee_girls": "hostel",
+        "unanswerable_wifi": "hostel", "hostel_appliances": "hostel",
+        "btech_fee_open": "fees", "mtech_fee_scst": "fees", "summer_term_fee": "fees",
+        "director": "people", "dean_academic_email": "people", "registrar": "people",
+        "antiragging_helpline": "people",
+        "placements": "placement",
+        "kotak_scholarship": "scholarship", "idfc_deadline": "scholarship",
+        "classes_start_fy": "calendar", "endsem_fy": "calendar", "midsem_slot_a": "calendar",
+        "chemical_spec": "department", "mech_established": "department",
+        "unanswerable_1995": "other",
+    }
+    questions = {name: q for name, q, _m, _n in check_answers.CHECKS}
+    wrong = {name: router.intent(questions[name]) for name in expected
+             if router.intent(questions[name]) != expected[name]}
+    assert not wrong, wrong
+
+
+def test_intent_priority_order():
+    # Hostel before fees, scholarship before calendar: the more specific topic wins.
+    assert router.intent("What is the mess fee?") == "hostel"
+    assert router.intent("Last date for the scholarship form?") == "scholarship"
+    assert router.intent("Attendance rules for the end sem exam") == "calendar"
+    assert router.intent("What is the attendance rule?") == "rules"
+
+
+def test_respond_reports_the_intent_in_the_trace():
+    import os
+    saved = os.environ.pop("GENAI_API_KEY", None)
+    try:
+        out = respond.answer("Who is the Registrar of VNIT?", use_agent=False)
+    finally:
+        if saved is not None:
+            os.environ["GENAI_API_KEY"] = saved
+    assert out["intent"] == "people", out["intent"]
+    assert {"step": "route", "text": "Topic: people."} in out["trace"], out["trace"]
 
 
 if __name__ == "__main__":

@@ -267,6 +267,14 @@ The four agent failures are the documented weak spots, not new ones: placements 
 
 Retrieval benchmarks are unchanged, as they should be (the first search is untouched): `evaluate.py` 16/19, `fact_ranks.py` 15/18, `chunk_ranks.py` 29/32. `test_agentic.py`: 29/29.
 
+## 21. Topic intent (Runbook 7, Step 1)
+
+**Changed.** `router.intent(question)` tags every lookup with a topic: `hostel, fees, scholarship, placement, calendar, admission, people, department, rules, other`. Keyword patterns, checked in that fixed order so the more specific topic wins ("hostel fee" is `hostel`, "scholarship last date" is `scholarship`). `respond.answer` returns it as `intent` (None for greetings and other direct replies) and adds "Topic: …" to the trace. Nothing uses it yet; Steps 3 and 4 do (which details a question needs; which office to point to). It is rule-based, as MARAUS's coordinator and the adaptive-RAG classifier tag queries before retrieval, but without an LLM call: free, instant and repeatable.
+
+**Measured.** All 39 `check_answers.py` questions were tagged and read by hand; every tag was sensible on the first ordering (e.g. the anti-ragging helpline is `people`, ahead of `rules`, which is what Step 4's hand-off needs; "a day scholar bus pass cost" is `fees`, since the scholarship pattern needs "scholarship", not "scholar"). Twenty of them, plus the priority cases, are pinned in `test_agentic.py`. No retrieval change, so `evaluate.py` 16/19, `fact_ranks.py` 15/18, `chunk_ranks.py` 29/32 are unchanged; `test_agentic.py` 32/32.
+
+**Harness fix found on the way.** `check_answers.py --only X` wrote just the X results to `answer_check.json`, overwriting the full 39-question run. The runbook's later steps use `--only` repeatedly, so `--only` now replaces only its own questions in the saved file.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

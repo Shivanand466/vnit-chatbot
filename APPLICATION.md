@@ -29,8 +29,8 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 | Real-path retrieval (`chunk_ranks.py`, 32 questions through `agent.answer`) | **29/32** have the answer-bearing passage among the 7 sent to the LLM; 26/32 in the top 3 |
 | End-to-end answer check (`check_answers.py`, 39 cases) | **35/39** through the agent (2026-10-30), every question reaching the LLM; 5/5 must-decline questions refused. One-shot baseline on the same questions being measured (19/20 so far, equal to the agent on those 20). See §6 and EXPERIMENTS-LOG §20 |
 | LLM | Groq free tier: `openai/gpt-oss-120b` for the agent, `openai/gpt-oss-20b` for the one-shot fallback and follow-up rewriting (separate daily allowances, §5a) |
-| Agentic layer (added 2026-10-30) | Router → follow-up resolver → first search → **planner** with four tools (`search_vnit`, `find_documents`, `read_document`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported. Falls back to the one-shot pipeline if the agent cannot run. See §5a |
-| Agent tests (`test_agentic.py`, no key needed) | **29/29** |
+| Agentic layer (added 2026-10-30) | Router (kind of message, and topic: fees, hostel, calendar, …) → follow-up resolver → first search → **planner** with four tools (`search_vnit`, `find_documents`, `read_document`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported. Falls back to the one-shot pipeline if the agent cannot run. See §5a |
+| Agent tests (`test_agentic.py`, no key needed) | **32/32** |
 | API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-30. Follow-up questions ("and for girls?"), a "How I found this" panel listing the agent's steps, a verification badge, numbered citations, and a thumbs up/down rating on every answer |
 | Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
@@ -78,7 +78,7 @@ vnit-chatbot/
     ├── tools.py               <- the agent's tools + the numbered evidence log ([P1], [P2]…)
     ├── verifier.py            <- checks every figure/date/email/phone against the passages
     ├── generate.py            <- one-shot prompt, shared answer rules, extractive fallback
-    ├── test_agentic.py        <- 29 tests for tools, verifier and agent loop (no key needed)
+    ├── test_agentic.py        <- 32 tests for intent, tools, verifier and agent loop (no key needed)
     ├── feedback_summary.py    <- counts the thumbs up/down ratings
     ├── evaluate.py            <- page-level benchmark
     ├── fact_ranks.py          <- answer-chunk rank check (no LLM needed)
@@ -120,7 +120,7 @@ This matters twice over:
 
 ## 5. How a question is answered
 
-Everything goes through `respond.answer` (the API and `check_answers.py` alike). Before any search, `router.route` decides what kind of message it is: a greeting, thanks, "what can you do?" or an obviously out-of-scope request gets a fixed reply with no search and no LLM call; anything else is a lookup. A lookup runs steps 0–2 below (the first search), then the agent of §5a. Step 3 is the one-shot composer, which is now the agent's fallback and the measured baseline.
+Everything goes through `respond.answer` (the API and `check_answers.py` alike). Before any search, `router.route` decides what kind of message it is: a greeting, thanks, "what can you do?" or an obviously out-of-scope request gets a fixed reply with no search and no LLM call; anything else is a lookup, and `router.intent` tags it with a topic (`fees`, `hostel`, `calendar`, `scholarship`, `placement`, `admission`, `people`, `department`, `rules` or `other`; keyword patterns in a fixed priority order, no LLM call), shown in the trace as "Topic: …". A lookup runs steps 0–2 below (the first search), then the agent of §5a. Step 3 is the one-shot composer, which is now the agent's fallback and the measured baseline.
 
 0. **Resolve a follow-up** (`followup.resolve`): retrieval has no memory, so "and for girls?" matches nothing on its own. When a question cannot stand alone — it opens with a connective ("and…", "what about…") or carries a referring word with no subject of its own — it is rewritten against the last three questions, and the chat page shows the result as "Understood as: …". The rewrite is one short LLM call (`reasoning_effort: "low"`, measured at ~117 completion tokens); if there is no key or the call fails, the previous question and the follow-up are glued together, which reads awkwardly but still retrieves. An ordinary question is never touched and costs nothing extra.
 1. **Split** (`agent.decompose`): "X and Y" becomes two sub-questions when both parts are real questions. A pronoun in the second part is replaced by the first part's subject ("...and when was **it** announced" → "when was **the 5G lab** announced").

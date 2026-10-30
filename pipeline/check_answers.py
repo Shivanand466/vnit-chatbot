@@ -338,7 +338,14 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
             print(f"  reason: {reason[:160]}")
         print("  If this is a 429, wait (or for the daily limit, until tomorrow) and run again "
               "with --resume.")
-    path.write_text(json.dumps(results, indent=1, ensure_ascii=False), encoding="utf-8")
+    # An --only run replaces just its own questions in the saved file; writing
+    # the subset alone would throw away the last full run's other answers.
+    saved = results
+    if only and path.exists():
+        fresh = {r["name"]: r for r in results}
+        old = json.loads(path.read_text(encoding="utf-8"))
+        saved = [fresh.pop(r["name"], r) for r in old] + list(fresh.values())
+    path.write_text(json.dumps(saved, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"Full answers saved to {path}")
     return results
 
