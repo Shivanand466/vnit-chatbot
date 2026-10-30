@@ -25,10 +25,14 @@ verifier can check each figure against exactly what the model was shown.
 """
 import ast
 import operator
+import os
 import re
+import sqlite3
+from pathlib import Path
 
 import generate
 import query
+import slots
 from programme_terms import contradicts, years
 
 # How much a tool returns. Each tool round adds to a prompt that Groq's free
@@ -54,7 +58,10 @@ class Evidence:
 
     @staticmethod
     def _key(r):
-        return (r["source_url"], r["text"][:80])
+        # The whole text, not its start: table rows from one document share a
+        # long lead-in, and keyed on the first 80 characters every row of a fee
+        # sheet would have been taken for the first one.
+        return (r["source_url"], r["text"])
 
     def add(self, r: dict, text: str, origin: str = "tool"):
         """Register a passage; returns (pid, is_new). `origin` is "first" for the first search."""
@@ -302,6 +309,21 @@ SCHEMAS = [
             "query": {"type": "string", "description": "What to look for inside that document."}},
             "required": ["document_id", "query"]}}},
     {"type": "function", "function": {
+        "name": "lookup_table",
+        "description": "Look up rows of the tables in VNIT's documents (fee sheets, hostel fee "
+                       "sheets, exam timetables, academic calendars). Use it for fee amounts and "
+                       "dated table entries, e.g. keywords 'tuition fee' with programme 'msc', or "
+                       "'mid sem slot A'. The filters are optional; rows that do not state a "
+                       "filtered detail are still returned, after the ones that match it.",
+        "parameters": {"type": "object", "properties": {
+            "keywords": {"type": "string", "description": "Words in the row, its column or the document title."},
+            "programme": {"type": "string", "enum": list(slots.LABELS["programme"])},
+            "gender": {"type": "string", "enum": list(slots.LABELS["gender"])},
+            "category": {"type": "string", "enum": list(slots.LABELS["category"])},
+            "study_year": {"type": "string", "enum": list(slots.LABELS["study_year"])},
+            "academic_year": {"type": "string", "description": "Like 2026-27."}},
+            "required": ["keywords"]}}},
+    {"type": "function", "function": {
         "name": "calculate",
         "description": "Exact arithmetic, e.g. '125000 * 4' or '32650 - 32150'. Use it for any "
                        "total, difference or multiplication in your answer.",
@@ -311,6 +333,15 @@ SCHEMAS = [
 ]
 
 TOOL_NAMES = [s["function"]["name"] for s in SCHEMAS]
+
+
+def active_schemas() -> list:
+    """The tools offered to the model: lookup_table only when its database exists and
+    LOOKUP_TABLE is not "off" (for the ablations of EXPERIMENTS-LOG)."""
+    off = os.environ.get("LOOKUP_TABLE", "on").strip().lower() in ("off", "0", "false", "no")
+    if off or not FACTS_PATH.exists():
+        return [s for s in SCHEMAS if s["function"]["name"] != "lookup_table"]
+    return SCHEMAS
 
 
 def run_tool(name: str, args: dict, evidence: Evidence) -> dict:
@@ -354,6 +385,18 @@ def run_tool(name: str, args: dict, evidence: Evidence) -> dict:
             return {"observation": obs,
                     "summary": f"Looked inside “{src['title']}” for “{q}”"}
 
+        if name == "lookup_table":
+            kw = str(args.get("keywords", "")).strip()
+            tags = {k: str(args[k]) for k in TABLE_TAGS if args.get(k)}
+            rows = lookup_table(kw, **tags)
+            if not rows:
+                return {"observation": "No table rows match. Try other keywords or fewer filters.",
+                        "summary": f"Looked up table rows for “{kw}”: none found"}
+            return {"observation": evidence.render(rows, TOOL_PASSAGE_CHARS),
+                    "summary": f"Looked up table rows for “{kw}”"
+                               + (f" ({', '.join(tags.values())})" if tags else "")
+                               + f": {len(rows)} rows from {_titles(rows)}"}
+
         if name == "calculate":
             expr = str(args.get("expression", ""))
             value = safe_calculate(expr)
@@ -365,6 +408,60 @@ def run_tool(name: str, args: dict, evidence: Evidence) -> dict:
     except Exception as e:  # a tool must never take the whole answer down
         return {"observation": f"Error running {name}: {type(e).__name__}: {e}",
                 "summary": f"{name} failed ({type(e).__name__})"}
+
+
+# ---------------------------------------------------------------------------
+# Table lookup: rows of the documents' tables, from data/processed/facts.db.
+# ---------------------------------------------------------------------------
+
+FACTS_PATH = Path(__file__).parent.parent / "data" / "processed" / "facts.db"
+TABLE_TAGS = ("programme", "gender", "category", "study_year", "academic_year")
+TABLE_ROWS = 8
+_LEAD_IN_CHARS = 140
+
+
+def lookup_table(keywords: str, **tags) -> list:
+    """Table rows matching `keywords`, filtered by the tags given, as result dicts.
+
+    The query is always parameterised and built here: the model chooses
+    keywords and tag values, never SQL. The database holds one record per
+    cell; a result is one whole table row (its cells joined), because a lone
+    cell -- "2026-27 1st YR: 64200" -- means nothing without the row's label
+    and its "Total" cell. Keywords are word stems (as in find_documents),
+    matched in the row's cells, label, lead-in and document title; a row must
+    match at least half of them.
+
+    A tag filter keeps rows that state that value *or state none*, as
+    programme_terms.py does for passages: most fee-sheet rows name their group
+    only in the title, if at all. Rows that do state it come first, then rows
+    matching more keywords, then rows holding figures, then newer documents.
+    """
+    words = sorted(_words(keywords))
+    if not words or not FACTS_PATH.exists():
+        return []
+    valid = {k: v for k, v in tags.items()
+             if (k == "academic_year" and re.fullmatch(r"20\d{2}-\d{2}", v))
+             or (k in slots.LABELS and v in slots.LABELS[k])}
+    row_text = ("(lead_in || ' ' || row_label || ' ' || title || ' ' "
+                "|| group_concat(column || ' ' || value, ' '))")
+    hits = " + ".join([f"({row_text} LIKE ?)"] * len(words))
+    exact = " + ".join([f"({k} IS ?)" for k in valid]) or "0"  # IS: 0 or 1, never NULL
+    where = " AND ".join([f"({k} = ? OR {k} IS NULL)" for k in valid]) or "1"
+    sql = (f"SELECT doc_url, title, date, lead_in, row_label, "
+           f"group_concat(column || ': ' || value, '; '), {hits} AS hits, {exact} AS exact, "
+           f"MAX(number IS NOT NULL) AS figures FROM facts WHERE {where} "
+           f"GROUP BY doc_url, lead_in, row_label HAVING hits >= ? "
+           f"ORDER BY exact DESC, hits DESC, figures DESC, date DESC LIMIT ?")
+    likes = [f"%{w}%" for w in words]
+    params = likes + list(valid.values()) + list(valid.values())         + [(len(words) + 1) // 2, TABLE_ROWS]
+    with sqlite3.connect(f"file:{FACTS_PATH}?mode=ro", uri=True) as db:
+        rows = db.execute(sql, params).fetchall()
+    results = []
+    for url, title, date, lead_in, row_label, cells, _hits, _exact, _figures in rows:
+        lead = lead_in if len(lead_in) <= _LEAD_IN_CHARS else lead_in[:_LEAD_IN_CHARS] + "..."
+        results.append({"text": f"{lead} | {row_label} | {cells}", "title": title,
+                        "source_url": url, "fetched": date, "score": 0.0, "rerank": None})
+    return results
 
 
 def matching_titles(text: str, exclude=(), n: int = 4) -> str:

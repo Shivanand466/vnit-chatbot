@@ -29,8 +29,8 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 | Real-path retrieval (`chunk_ranks.py`, 32 questions through `agent.answer`) | **29/32** have the answer-bearing passage among the 7 sent to the LLM; 26/32 in the top 3 |
 | End-to-end answer check (`check_answers.py`, 39 cases) | **35/39** through the agent in the full run of 2026-10-30, every question reaching the LLM; 5/5 must-decline questions refused. Placements fixed since by the corrective gate and passing on re-test: saved results **36/39** (EXPERIMENTS-LOG §22). One-shot baseline on the same questions being measured (19/20 so far, equal to the agent on those 20). See §6 and EXPERIMENTS-LOG §20 |
 | LLM | Groq free tier: `openai/gpt-oss-120b` for the agent, `openai/gpt-oss-20b` for the one-shot fallback and follow-up rewriting (separate daily allowances, §5a) |
-| Agentic layer (added 2026-10-30) | Router (kind of message, and topic: fees, hostel, calendar, …) → follow-up resolver → first search → **clarify or assume** (slots.py: asks which programme/gender when the relevant passages differ, or fills it from the chat's profile) → **corrective gate** (grades the first search from the reranker's scores; if weak, looks inside the 2 best-titled pages it missed) → **planner** with four tools (`search_vnit`, `find_documents`, `read_document`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported → **hand-off**: a refusal or unconfirmed answer gets the right office's contact (`data/contacts.json`). Falls back to the one-shot pipeline if the agent cannot run. See §5a |
-| Agent tests (`test_agentic.py`, no key needed) | **44/44** |
+| Agentic layer (added 2026-10-30) | Router (kind of message, and topic: fees, hostel, calendar, …) → follow-up resolver → first search → **clarify or assume** (slots.py: asks which programme/gender when the relevant passages differ, or fills it from the chat's profile) → **corrective gate** (grades the first search from the reranker's scores; if weak, looks inside the 2 best-titled pages it missed) → **planner** with five tools (`search_vnit`, `find_documents`, `read_document`, `lookup_table`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported → **hand-off**: a refusal or unconfirmed answer gets the right office's contact (`data/contacts.json`). Falls back to the one-shot pipeline if the agent cannot run. See §5a |
+| Agent tests (`test_agentic.py`, no key needed) | **49/49** |
 | API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-30. Follow-up questions ("and for girls?"), a "How I found this" panel listing the agent's steps, a verification badge, numbered citations, and a thumbs up/down rating on every answer |
 | Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
@@ -78,7 +78,7 @@ vnit-chatbot/
     ├── tools.py               <- the agent's tools + the numbered evidence log ([P1], [P2]…)
     ├── verifier.py            <- checks every figure/date/email/phone against the passages
     ├── generate.py            <- one-shot prompt, shared answer rules, extractive fallback
-    ├── test_agentic.py        <- 44 tests for intent, the search grade, slots, hand-off, tools, verifier and agent loop (no key needed)
+    ├── test_agentic.py        <- 49 tests for intent, the search grade, slots, hand-off, table lookup, tools, verifier and agent loop (no key needed)
     ├── feedback_summary.py    <- counts the thumbs up/down ratings
     ├── evaluate.py            <- page-level benchmark
     ├── fact_ranks.py          <- answer-chunk rank check (no LLM needed)
@@ -161,6 +161,7 @@ The one-shot pipeline searched once and printed whatever the LLM wrote. When tha
    - `search_vnit(query)` — search everything again with other words (3 passages back);
    - `find_documents(keywords)` — find pages/documents by title. Titles are matched on word stems weighted by rarity (so "placement" counts for far more than "students"), with the academic year and the programme/year/gender contradiction filter of `programme_terms.py` applied to titles too;
    - `read_document(document_id, query)` — search *inside one* page or document (`query.retrieve_within`). This is the page-level stage EXPERIMENTS-LOG §16 asked for: the T&P paragraph holding the 2025-26 placement figures ranks 293rd corpus-wide but 1st inside its own page;
+   - `lookup_table(keywords, programme?, gender?, category?, study_year?, academic_year?)` — rows of the documents' tables from `data/processed/facts.db` (`build_facts.py`: 23,088 cells from 210 documents), one result per table row, filtered by tags read from the document title, with SQL built in code and parameterised. Offered unless `LOOKUP_TABLE=off`; in the live runs so far the agent has not chosen it (EXPERIMENTS-LOG §25);
    - `calculate(expression)` — exact arithmetic (an AST walker, never `eval`), so totals are not done "in the head".
    Up to 2 rounds, at most 2 tool calls per round. A tool that fails returns an error message the model can correct, never an exception.
 4. **Answer** with citations `[P3]`. The final answer is written from a clean prompt holding every passage found (no tool history): with the tool calls still in the conversation, gpt-oss kept calling tools even when none were offered, and Groq rejected the reply (`400 tool_use_failed`).
@@ -245,6 +246,7 @@ Earlier rounds: adding titles to chunks 11 → 12/18; sending 5 passages instead
 | `GENAI_MODEL` | `openai/gpt-oss-20b` | If Groq retires it (404 `model_not_found`), pick a current one from `GET {base_url}/models` |
 | `VNIT_KEY_FILE` | `%USERPROFILE%\vnit-secrets.txt` | Google Drive API key file |
 | `AGENT_MODE` | `on` | `off` answers every lookup with the one-shot pipeline instead of the agent |
+| `LOOKUP_TABLE` | `on` | `off` removes the `lookup_table` tool (it is also removed if `facts.db` has not been built) |
 | `CLARIFY` | `on` | `off` disables clarifying questions (§5a step A) |
 | `CRAG_GATE` | `on` | `off` disables the corrective retrieval gate (§5a step B) |
 | `AGENT_MODEL` | `openai/gpt-oss-120b` | The agent's model. Kept different from `GENAI_MODEL` on purpose: Groq's free daily allowance (~200,000 tokens) is per model, so when the agent's runs out, the one-shot fallback still has its own |

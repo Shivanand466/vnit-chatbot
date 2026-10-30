@@ -131,6 +131,7 @@ REM 2. Find and read new documents (notices, fee sheets...) - slow: about 1 minu
 REM 3. Rebuild the search index
 python chunk.py
 python build_index.py
+python build_facts.py
 
 REM 4. Check quality
 python evaluate.py
@@ -140,9 +141,9 @@ set GENAI_API_KEY=<paste key here only in this window>
 python check_answers.py
 ```
 
-`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about a minute, and should print `44/44 passed`.
+`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about a minute, and should print `49/49 passed`.
 
-`check_answers.py` asks 39 real questions through the agent and takes about 45 minutes, because of the free plan's per-minute limit. To measure the older, simpler pipeline on the same questions, add `--pipeline oneshot`. If the free plan's **daily** limit runs out part-way (the end of the output warns you), run the same command again the next day with `--resume` added: it only re-asks the questions that didn't get a real answer.
+`check_answers.py` asks 39 real questions (plus 4 checks of the clarifying questions) through the agent and takes about 45 minutes, because of the free plan's per-minute limit. To measure the older, simpler pipeline on the same questions, add `--pipeline oneshot`. If the free plan's **daily** limit runs out part-way (the end of the output warns you), run the same command again the next day with `--resume` added: it only re-asks the questions that didn't get a real answer.
 
 ---
 

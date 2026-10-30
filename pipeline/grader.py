@@ -28,6 +28,7 @@ alongside whether the answer passage was among those sent to the LLM. The
 table and the reasoning are in EXPERIMENTS-LOG §22.
 """
 import math
+import re
 import statistics
 
 import query
@@ -115,5 +116,13 @@ def grade(question: str, report: dict) -> dict:
         verdict, why = "ambiguous", f"best match scored only {top:.1f}"
     else:
         verdict, why = "ambiguous", ("the top passages do not mention "
-                                     + ", ".join(f"“{w}”" for w in missing))
+                                     + ", ".join(f"“{_as_written(w, question)}”" for w in missing))
     return {"grade": verdict, "top": top, "coverage": round(coverage, 2), "why": why}
+
+
+def _as_written(stem: str, question: str) -> str:
+    """The question's own word for a stem ("yearl" -> "yearly"), for the trace."""
+    for word in re.findall(r"[A-Za-z0-9]+", question):
+        if word.lower().startswith(stem):
+            return word
+    return stem

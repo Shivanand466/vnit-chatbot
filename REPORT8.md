@@ -138,3 +138,39 @@ Done when:
 | `--only wifi` | PASS, refusal pattern still matches with the contact appended (no separate `handoff` field needed) |
 | Chat page renders the bold line | yes (`renderAnswer` handles `**…**`) |
 | No-key checks | unchanged (no retrieval change) |
+
+## Step 5. Table lookup tool (TableRAG-style)
+
+- Looked at 40 real table lines first; two shapes (headers with `—` and `; `, and headerless `|` rows). Both are parsed.
+- New `pipeline/build_facts.py` → `data/processed/facts.db` (gitignored; added to HOW-TO-RUN §5 after `build_index.py`).
+- New tool `lookup_table` in `tools.py`: parameterised SQL, one result per table row, tag filters keep rows that state the value or none. `LOOKUP_TABLE=off` removes it. Planner prompt names it first for fee amounts and table dates.
+- `Evidence` now keys passages on their whole text (rows of one sheet share their first 80 characters).
+
+```
+python build_facts.py
+  23,088 table cells from 210 documents (6,414 numeric)
+    other 18,367 | admission 1,296 | fees 1,140 | hostel fees 1,132 | calendar / timetable 721 | scholarship 432
+python test_agentic.py                          -> 49/49 passed
+python check_answers.py --only msc              -> [FAIL] msc_tuition missing ['15,?000']  (tools: 2, check: refused)
+python check_answers.py --only barch            -> [PASS] barch_tuition  (tools: 2, check: verified)
+python check_answers.py --only slot_a           -> [FAIL] midsem_slot_a  (tools: 0, check: verified)  answered 04/09/2026
+  (prompt line moved into the "act" sentence, then:)
+python check_answers.py --only msc              -> [FAIL] msc_tuition  (tools: 0, check: nothing to check)
+python check_answers.py --only hostel_fee       -> 3/3 PASS
+python check_answers.py --only btech_fee        -> 2/2 PASS
+```
+
+Honest outcome:
+- **The agent never called `lookup_table`** in any live run. The tool returns the right rows (tested), but the planner did not choose it. Per the runbook, it was not forced by code.
+- **M.Sc still fails because of OCR damage.** The OPEN-category row is `Folr t orf VNIT, Nagpur. | Fees per year: Tuition Fee — First Year: 15000; Second Year: 15000`: it never says whom it is for. The agent finds the readable SC/ST row (NIL) and stops there.
+- **Slot A is an ambiguous question, not a wrong answer.** The agent's 04/09/2026 is the real slot-A date for higher semesters (UG-PG Higher Semester Timetable, Winter 26); the check expects the first-year date (1 Oct). The question does not name a year of study. Making the chatbot ask (adding `study_year` to `REQUIRED["calendar"]`), or rewording the check, is a decision left to Shivanand.
+- **B.Arch tuition now passes** (failed on 30 Oct), via `read_document`.
+
+Done when:
+
+| Check | Result |
+|---|---|
+| Tests | 49/49 |
+| No-key checks | unchanged |
+| `--only msc`, `--only barch`, `--only slot_a` run, outcome recorded honestly | done (above, and EXPERIMENTS-LOG §25) |
+| `--only hostel_fee`, `--only btech_fee` | PASS |

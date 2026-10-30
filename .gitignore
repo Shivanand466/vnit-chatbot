@@ -6,6 +6,8 @@ __pycache__/
 # Rebuilt from data/raw by pipeline/chunk.py + pipeline/build_index.py
 data/processed/index.pkl
 data/processed/chunks.jsonl
+# Rebuilt from data/raw by pipeline/build_facts.py
+data/processed/facts.db
 
 # Written while a document is being converted, so a crashed run can tell which
 # document it died on; meaningless once the run ends

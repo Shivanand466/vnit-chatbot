@@ -403,6 +403,64 @@ Through the live API: "What is the hostel fee?" → B.Tech → Girls → "Rs 32,
 - Tests: every contact appears verbatim in its source file with its URL; a hostel refusal gets the hostel contact; a normal answer, and a refusal on a topic with no known office, get nothing.
 - `test_agentic.py` 44/44; no retrieval change.
 
+## 25. Table lookup tool (Runbook 7, Step 5)
+
+**Why.** Fee amounts and exam dates live in tables. TableRAG keeps document tables in a database and answers table questions with a query; MARAUS gives numeric questions their own agent. The two OCR-damaged fee questions (§18d) fail because the lead-in above the table is unreadable ("Folr t orf VNIT, Nagpur."), so passage search for "M.Sc tuition" never reaches the row.
+
+**Looked before parsing.** 40 real table lines (`grep " | " data/raw/doc_*.txt`) showed two shapes:
+- `<lead-in> | <caption>: <row header>: <row label> — <column>: <value>; …`
+- a headerless one, `<lead-in> | <caption>: <row label> | <value> | <value>`.
+
+Both are parsed. OCR noise in headers (`2026-27.1" YR`, `TYPE.TYPE`) is kept as it is.
+
+**Built.**
+- `build_facts.py` writes `data/processed/facts.db` (gitignored, rebuilt after `build_index.py`): **23,088 cells from 210 documents** (6,414 numeric; hostel fees 1,132, fees 1,140, calendars/timetables 721, admission 1,296, scholarship 432, other 18,367). Tags (programme, gender, category, year of study, academic year) are read from title + lead-in + row label. Only documents in the index are included, so the privacy exclusions carry over.
+- `tools.lookup_table` returns one result per *table row* (its cells joined), not per cell: as single cells, 8 results for the girls' hostel sheet were all header cells ("Sr. No.") and never reached the total. Matching:
+  - keywords are word stems matched in cells, row label, lead-in and title, and a row must match at least half of them;
+  - a tag filter keeps rows that state the value *or state none* (as `programme_terms.py` does), since most fee rows name their group only in the title;
+  - order: rows stating the filtered values first, then more keywords matched, then rows holding figures, then newer documents.
+- The SQL is built in code and parameterised; the model gives only keywords and tag values (enums).
+- A bug found while testing: in SQLite `NULL = 'btech'` is NULL, so a sum of tag matches containing it is NULL and the right sheet sorted *last*. `IS` (0 or 1) fixed it.
+- Rows become `[P#]` passages through `Evidence`, so citations and the verifier work unchanged. `Evidence` now keys passages on their whole text, not the first 80 characters: rows of one sheet share a long lead-in and would otherwise collapse into one label.
+- `LOOKUP_TABLE=off`, or a missing `facts.db`, removes the tool.
+
+**Tool-level results (no LLM):**
+
+| Lookup | First rows |
+|---|---|
+| `hostel fee total`, B.Tech, girls, 2026-27 | the girls' 2026-27 sheet, "Total; 2026-27 1st YR: 64200; …" |
+| `tuition fee`, M.Sc | 2-year M.Sc estimate: "Tuition Fee — First Year: NIL" (SC/ST table), then "First Year: 15000" (the OCR-damaged OPEN table) |
+| `tuition fee`, B.Arch | 5-year B.Arch estimate: "First Year: 125000; …", then the SC/ST/PwD row (0) |
+| `mid sem slot A` | First Year B.Tech/B.Arch exam schedule, slot A, "Mid Sem.Date: 01/10/2026" |
+
+The runbook's test asked for a row containing 32650. The girls' sheet states ₹32,650 (the Winter 2026 instalment) in a *sentence*, not its table, whose row is the yearly total ₹64,200. The test checks that row instead.
+
+**End to end** (`check_answers.py --only`, gpt-oss-120b):
+
+| Question | 30 Oct | Now | Notes |
+|---|---|---|---|
+| `barch_tuition` | FAIL | **PASS** | ₹1,25,000 found via `read_document` on the JoSAA fee document, not `lookup_table` |
+| `msc_tuition` | FAIL | FAIL | see below |
+| `midsem_slot_a` | FAIL | FAIL | see below |
+| `hostel_fee_*`, `btech_fee_*` (regression) | PASS | PASS | |
+
+**The agent never called `lookup_table`.** It was offered in every run above and chosen in none.
+- First run, the prompt line from the runbook as its own sentence after the other tools: for M.Sc the agent used `search_vnit` and `find_documents`, found only the SC/ST table (NIL), and said the other categories were not in the documents.
+- The line was then moved into the "act before giving up" sentence, naming `lookup_table` first for fee amounts and table dates. The retry answered from the first search with **no tool calls at all**: it judged the SC/ST "NIL" row enough and said the OPEN fee was not shown.
+
+The runbook says not to force a tool by code, and this was not done. The honest reading: the tool works (the 15,000 row is the second row it returns), but the planner's failure for M.Sc is deciding *not to look further*, not picking the wrong tool. The OCR damage is visible in the source lines:
+
+```
+Folr t orf VNIT, Nagpur. | Fees per year: Tuition Fee — First Year: 15000; Second Year: 15000
+Following mentioned the 2 year FEE ESTIMATE for the SC/ ST students admitted in the M. Sc. Program of VNIT, Nagpur. | Fees per year: Tuition Fee — First Year: NIL; Second Year: NIL
+```
+
+Passage search finds the second (readable) row, which answers for SC/ST only. The first row does not say which students it is for. Even a model that found it would have to infer "OPEN" from the SC/ST table beside it, and the answering rules forbid that inference.
+
+**Slot A is ambiguous, not wrong.** The agent answered **04/09/2026** from the *UG-PG Higher Semester Timetable (Winter 26)*, which really gives slot A's mid-sem as 04/09/2026 for 3rd/5th/7th/9th-semester students. The check expects 1 Oct, the *first-year* date from the First Year academic calendar and exam schedule. The question ("When is the mid semester exam for slot A in Winter 2026?") names no year of study, so both are right for some students. §18e called this a split timetable row; with the table data it is clearly a question whose answer depends on the student's year. That is a Step 3 case: `study_year` is not in `REQUIRED["calendar"]`. Adding it would make the chatbot ask, and that change, and any change to the check's question, is left for a decision rather than made to pass a test.
+
+`test_agentic.py`: 49/49 (parser on 6 real lines, the girls' total and M.Sc rows, SQL-ish input changes nothing, the switch, rows sharing a lead-in). Retrieval checks unchanged.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

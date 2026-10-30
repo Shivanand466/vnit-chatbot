@@ -73,6 +73,13 @@ class _ToolUseFailed(Exception):
 
 
 def _system_prompt() -> str:
+    offered = {t["function"]["name"] for t in tools.active_schemas()}
+    # Measured: as a separate line after the other tools, gpt-oss-120b never
+    # chose lookup_table for an M.Sc fee whose table row it would have found,
+    # so it is named first among the actions, for the questions it suits.
+    tables = ("for a fee amount or a date that a fee sheet, timetable or calendar would give in "
+              "a table, lookup_table first (it reads the documents' tables directly, including "
+              "scanned sheets that passage search misses); " if "lookup_table" in offered else "")
     return (
         "You are the VNIT Nagpur student helpdesk agent. You answer students' questions "
         "about VNIT using only passages from VNIT's own website and documents, which you "
@@ -83,7 +90,7 @@ def _system_prompt() -> str:
         "Decide what to do:\n"
         "- If the passages answer the question, answer straight away. Do not call tools "
         "you do not need.\n"
-        "- If they do not, act before giving up: search_vnit with other words (the words a "
+        f"- If they do not, act before giving up: {tables}search_vnit with other words (the words a "
         "notice, fee sheet or calendar would use); or find_documents to locate the "
         "document that should hold the answer and read_document to search inside it; or "
         "calculate for any total or difference. You can call several tools at once.\n"
@@ -212,7 +219,7 @@ class _LLM:
         payload = {"model": self.model, "messages": messages, "max_tokens": MAX_TOKENS,
                    "temperature": 0}
         if tools_on:
-            payload["tools"] = tools.SCHEMAS
+            payload["tools"] = tools.active_schemas()
             payload["tool_choice"] = "auto"
         attempts = 0
         while True:
@@ -403,7 +410,7 @@ def run(question: str, report: dict, api_key: str = None, base_url: str = None,
     rounds = 0
     calculations = []
     for _ in range(MAX_TOOL_ROUNDS):
-        if _estimate_tokens({"messages": messages, "tools": tools.SCHEMAS}) > PROMPT_BUDGET:
+        if _estimate_tokens({"messages": messages, "tools": tools.active_schemas()}) > PROMPT_BUDGET:
             break
         try:
             message = llm.chat(messages, tools_on=True)

@@ -306,7 +306,7 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**₹ 125,000 per year** for B.Tech students in the OPEN (as well as OBC/EWS) category[1].\n\n- Tuition fee listed as ₹ 125,000 for each of the four years for students admitted in OPEN/OBC/EWS category[1].\n\nNote: This figure applies to the regular B.Tech programme for Indian‑resident students in the OPEN category.",
+  "answer": "**₹125,000 per year** for B.Tech students in the OPEN (as well as OBC/EWS) category[1].\n\n- The 4‑Year Fee Estimate document lists the tuition fee for each of the four years as 125,000 INR for students admitted under OPEN/OBC/EWS[1].\n\nNote: This figure applies to each academic year of the B.Tech programme for the OPEN, OBC, and EWS categories.",
   "sources": [
    "https://drive.google.com/file/d/1YwaPEqSM2OtnfmSd_N5W3ESgaIB_3Flv/view"
   ],
@@ -318,7 +318,7 @@
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3295,
+   "tokens": 3573,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 7,
@@ -326,7 +326,9 @@
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: fees.",
    "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 8.2).",
    "Wrote the answer from the first search; no further lookups were needed.",
    "Checked 2 figure(s) against the sources: all found."
   ]
@@ -338,21 +340,21 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**SC/ST B.Tech students pay ₹0 tuition fee (no tuition fee is charged).**\n\n- *Common Fees 2026‑27* lists “B. Tech.SC, ST, PWD: NIL” for tuition fees [1].\n- *4 Year Fee Estimate for B.Tech* (2024) shows “Tuition Fee — First Year: 0; Second Year: 0; Third Year: 0; Fourth Year: 0” for SC/ST/PwD students [2].\n- *Fees Information B Tech B Arch Admission Through JoSAA* (2024) states “No Tuition Fees is charged from SC/ ST/ PwD candidates.” [3]\n\n**Note:** This applies to all B.Tech programmes for students belonging to the SC, ST, or PwD categories.",
+  "answer": "**SC/ST B.Tech students pay **₹ 0** tuition fee.**\n\n- The 4‑Year Fee Estimate for B.Tech lists “Tuition Fee — First Year: 0; Second Year: 0; Third Year: 0; Fourth Year: 0” for SC/ST/PwD candidates[1].\n- The Common Fees 2026‑27 sheet shows “B. Tech.SC, ST, PWD: NIL” for tuition fees[2].\n- The JoSAA admission fee notice states “No Tuition Fees is charged from SC/ ST/ PwD candidates”[3].",
   "sources": [
-   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view",
    "https://drive.google.com/file/d/1YwaPEqSM2OtnfmSd_N5W3ESgaIB_3Flv/view",
+   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view",
    "https://drive.google.com/file/d/1FiFXbv4qJw2wTCWdsb6xlgiGUZX9v-5l/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 4,
-   "supported": 4,
+   "checked": 1,
+   "supported": 1,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3578,
+   "tokens": 3750,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 7,
@@ -360,9 +362,11 @@
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: fees.",
    "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 7.8).",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 4 figure(s) against the sources: all found."
+   "Checked 1 figure(s) against the sources: all found."
   ]
  },
  {
@@ -437,20 +441,20 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 32,150** for the Winter 2026 session.\n\n- The hostel fee for first‑year boys (B.Tech/B.Arch) admitted in 2026‑27 is Rs. 32,150 for Winter 2026[1].\n- The same amount is confirmed in the UG hostel admission procedure for 2026‑27: “For Boys: Total amount of Rs. 32150/- Winter 2026”[2].\n\nNote: This fee applies to first‑year B.Tech/B.Arch male students admitted for the 2026‑27 academic year.",
+  "answer": "**₹32,150** for first‑year B.Tech boys for the Winter 2026 session.\n\n- The hostel fee notice for first‑year boys admitted in 2026‑27 lists the Winter 2026 fee as Rs. 32,150 /‑[1].\n- The UG (B.Tech/B.Arch) admission procedure also confirms the total amount of Rs. 32,150 /‑ for boys for Winter 2026[2].\n\nNote: This fee applies to first‑year B.Tech (and B.Arch) male students admitted for the 2026‑27 academic year.",
   "sources": [
    "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
    "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 9,
-   "supported": 9,
+   "checked": 8,
+   "supported": 8,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3400,
+   "tokens": 3632,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 6,
@@ -462,7 +466,7 @@
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
    "The first search looked relevant (score 8.0).",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 9 figure(s) against the sources: all found."
+   "Checked 8 figure(s) against the sources: all found."
   ]
  },
  {
@@ -613,19 +617,19 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 32,650** for the Winter 2026 session.\n\n- The hostel fee for first‑year UG (B.Tech/B.Arch) girls admitted in 2026‑27 is Rs. 32650 /‑ payable for Winter 2026[1].",
+  "answer": "**Rs. 32,650** for the Winter 2026 session.\n\n- Hostel Admission Procedure for UG (B.Tech/B.Arch) 1st‑year students admitted in 2026‑27: “For Girls : Total amount of Rs. 32650/- Winter 2026 to be paid at the time of Hostel Admission”[1].\n\nNote: This fee applies to first‑year B.Tech (and B.Arch) girls admitted for the 2026‑27 academic year.",
   "sources": [
    "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 5,
-   "supported": 5,
+   "checked": 6,
+   "supported": 6,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3915,
+   "tokens": 4300,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 8,
@@ -635,9 +639,9 @@
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
-   "The first search looked weak (the top passages do not mention “girls”, “sessi”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “HOSTEL FEES FOR SECOND YEAR GIRLS ADMITTED IN YEAR 2025-26”.",
+   "The first search looked weak (the top passages do not mention “girls”, “session”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “HOSTEL FEES FOR SECOND YEAR GIRLS ADMITTED IN YEAR 2025-26”.",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 5 figure(s) against the sources: all found."
+   "Checked 6 figure(s) against the sources: all found."
   ]
  },
  {
@@ -940,29 +944,31 @@
    "15,?000"
   ],
   "forbidden": [],
-  "answer": "**₹0 per year** – the tuition fee for SC/ST M.Sc. students is NIL.\n\n- Tuition Fee listed as “First Year: NIL; Second Year: NIL” for SC/ST students in the 2‑year fee estimate document [**P1**].\n- The same NIL tuition fee appears in the detailed fee breakdown for SC/ST students [**P2**].\n\n**Note:** This figure applies only to SC/ST category students; tuition fees for other categories are not provided in the available documents.",
-  "sources": [],
+  "answer": "**Yearly tuition fee for M.Sc. students: ₹0 (no tuition fee).**\n\n- The 2‑year fee estimate for SC/ST M.Sc. students lists “Tuition Fee – First Year: NIL; Second Year: NIL”[1].\n\n**Note:** This figure is provided only for SC/ST category students; the fee for Open/EWS categories is not shown in the available documents.",
+  "sources": [
+   "https://drive.google.com/file/d/1ARUdONHAu1pFaYGIZ8CRkYBvHbA-jtnu/view"
+  ],
   "verification": {
-   "verdict": "refused",
+   "verdict": "nothing to check",
    "checked": 0,
    "supported": 0,
    "unsupported": []
   },
   "usage": {
-   "llm_calls": 3,
-   "tokens": 9458,
-   "waited_for_quota_s": 11.7,
-   "tool_calls": 2,
+   "llm_calls": 1,
+   "tokens": 3942,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
    "passages_seen": 8,
-   "passages_cited": 0
+   "passages_cited": 1
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: fees.",
    "Searched VNIT's pages and documents: 7 passages from 4 sources.",
-   "Searched for “M.Sc tuition fee VNIT”: 2 Year Fee Estimate for Master of Science",
-   "Searched for “M.Sc tuition fee VNIT 2024”: HOSTEL FEE INFORMATION FOR WINTER 2025 ( (For M.Sc. students Admitted in year 2024); Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27",
-   "Wrote the answer after 2 round(s) of tool use.",
-   "The sources do not cover this, so the answer says so instead of guessing."
+   "The first search looked weak (the top passages do not mention “yearl”), so I also looked inside “Notice No. 3266 dated 17 November 2025 Regarding Hostel Fee payment information for Summer 2025 for all UG – M.Sc. students for 2025-26”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
   ]
  },
  {
@@ -1038,35 +1044,37 @@
  {
   "name": "barch_tuition",
   "question": "What is the yearly tuition fee for B.Arch students at VNIT?",
-  "pass": false,
+  "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
-  "missing": [
-   "1,?25,?000|125000"
-  ],
+  "missing": [],
   "forbidden": [],
-  "answer": "The provided documents do not contain the standard yearly tuition fee for B.Arch students (general category) at VNIT.\n\n*You may consult the latest “Fee Structure” page on the VNIT website (vnit.ac.in) or ask for the current B.Arch tuition fee in the institute’s fee notice.*",
-  "sources": [],
+  "answer": "**Rs 125,000 per year** for B.Arch tuition.\n\n- JoSAA admission fee document lists Tuition Fee for B.Arch as Rs 125,000 (to be paid semester‑wise) [1].\n- Same figure appears in the detailed fee breakdown for B.Arch [1].\n\nNote: SC/ST/PwD candidates are exempt from tuition fees as per the same fee schedule [1].",
+  "sources": [
+   "https://drive.google.com/file/d/1FiFXbv4qJw2wTCWdsb6xlgiGUZX9v-5l/view"
+  ],
   "verification": {
-   "verdict": "refused",
-   "checked": 0,
-   "supported": 0,
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 3,
-   "tokens": 12401,
-   "waited_for_quota_s": 27.9,
+   "tokens": 13370,
+   "waited_for_quota_s": 45.3,
    "tool_calls": 2,
-   "passages_seen": 10,
-   "passages_cited": 0
+   "passages_seen": 14,
+   "passages_cited": 2
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: fees.",
    "Searched VNIT's pages and documents: 7 passages from 5 sources.",
-   "Looked inside “Common Fees_2026-27” for “Tuition Fee B Arch”",
-   "Searched for “B.Arch tuition fee 2026 VNIT”: HOSTEL FEES FOR B.ARCH. BOYS ADMITTED IN YEAR 2022-23; Common Fees_2026-27; HOSTEL FEES FOR B.ARCH GIRLS ADMITTED IN YEAR 2022-23",
+   "The first search looked weak (the top passages do not mention “yearl”), so I also looked inside “HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026-27” and “Orientation program for 1st Year B. Tech. and B. Arch. students (2026 Admission)”.",
+   "Searched for “B.Arch tuition fee VNIT 2026-27”: HOSTEL FEES FOR B.ARCH. BOYS ADMITTED IN YEAR 2022-23; HOSTEL FEES FOR B.ARCH GIRLS ADMITTED IN YEAR 2022-23; W26-Fee Notice Odd Term – Academic Year 2026-27-UG-PG",
+   "Looked inside “Fees Information B Tech B Arch Admission Through JoSAA” for “tuition fee B.Arch”",
    "Wrote the answer after 2 round(s) of tool use.",
-   "The sources do not cover this, so the answer says so instead of guessing."
+   "Checked 2 figure(s) against the sources: all found."
   ]
  },
  {
@@ -1114,29 +1122,32 @@
    "1(st)?\\s*(Oct|October)|(Oct|October)\\s*1"
   ],
   "forbidden": [],
-  "answer": "**Mid semester exam for Slot A in Winter 2026 is on 04 September 2026.**\n\n- The UG‑PG Higher Semester Timetable lists Slot A with Mid Sem Date 04/09/2026 (2.30 pm – 4.00 pm)[1].",
+  "answer": "**Mid‑semester exam for Slot A is on 04 September 2026.**\n\n- UG‑PG Higher Semester Timetable (Winter 26) lists Slot A – Mid Sem Date: 04/09/2026[1].\n- The Academic Calendar (Winter 2026) states the mid‑semester exam period runs from 4 Sept to 12 Sept 2026[2].",
   "sources": [
-   "https://drive.google.com/file/d/165jU5At1xtZFAOU4vkrTWCTSbe20HfO0/view"
+   "https://drive.google.com/file/d/165jU5At1xtZFAOU4vkrTWCTSbe20HfO0/view",
+   "https://drive.google.com/file/d/1uIEpHZrCq-y9tbKDHSHTcEnQnLINO5g1/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 3,
-   "supported": 3,
+   "checked": 6,
+   "supported": 6,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3787,
+   "tokens": 4119,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 7,
-   "passages_cited": 1
+   "passages_cited": 2
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: calendar.",
    "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked relevant (score 6.8).",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 3 figure(s) against the sources: all found."
+   "Checked 6 figure(s) against the sources: all found."
   ]
  },
  {
@@ -1146,8 +1157,10 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "I’m sorry, but none of the provided documents contain the hostel fee for first‑year B.Tech boys for the 2015‑16 academic year. You could look for the “Hostel Fee Estimate & Demand Letter for UG Students” for the 2015‑16 session on the VNIT website (e.g., under Admissions → Hostel → Fee Structure) or ask for the specific 2015‑16 fee document.",
-  "sources": [],
+  "answer": "I’m sorry, but none of the provided documents contain the hostel fee for first‑year B.Tech boys for the 2015‑16 academic year. You could look for the “Hostel Fee Estimate & Demand Letter for UG Students” for the 2015‑16 session on the VNIT website (e.g., under Student Services → Hostel → Fee Details) or ask for the specific 2015‑16 fee schedule.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "sources": [
+   "https://vnit.ac.in/administrative-officers"
+  ],
   "verification": {
    "verdict": "verified",
    "checked": 3,
@@ -1156,8 +1169,8 @@
   },
   "usage": {
    "llm_calls": 3,
-   "tokens": 9947,
-   "waited_for_quota_s": 22.2,
+   "tokens": 10456,
+   "waited_for_quota_s": 26.1,
    "tool_calls": 2,
    "passages_seen": 7,
    "passages_cited": 0
@@ -1168,9 +1181,10 @@
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
    "The first search looked weak (the top passages do not mention 2015-16); no better-titled page had a relevant passage, so I continued with what it found.",
    "Searched for “hostel fee first year B.Tech boys 2015-16”: HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026-27",
-   "Looked up documents titled like “hostel fee first year B.Tech 2015-16”: Hostel Fee Estimate & Demand Letter for UG Students; First Year B.Tech Teaching Slots and Time Table; Coursebook for First Year B.Tech & B.Arch",
+   "Looked up documents titled like “hostel fees first year B.Tech boys 2015-16”: Hostel fees; First Year B.Tech Teaching Slots and Time Table; Coursebook for First Year B.Tech & B.Arch",
    "Wrote the answer after 2 round(s) of tool use.",
-   "Checked 3 figure(s) against the sources: all found."
+   "Checked 3 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
   ]
  },
  {

@@ -517,6 +517,94 @@ def test_normal_answer_gets_no_contact():
     assert respond.hand_off(_finished(refusal, "placement"))["answer"] == refusal
 
 
+# ---------------------------------------------------------------------------
+# Table lookup (build_facts.py, tools.lookup_table)
+# ---------------------------------------------------------------------------
+
+def test_table_parser_on_real_lines():
+    import build_facts
+    # Copied from data/raw/doc_*.txt: fee rows, a calendar row, an exam-slot row,
+    # a row without column headers, and a line that is not a table row.
+    fee = ("Following mentioned the 4 Year Fee Estimate for the students admitted in OPEN/ OBC/ "
+           "EWS Category in B. Tech. | Fees per year: Tuition Fee — First Year: 125000; "
+           "Second Year: 125000; Third Year: 125000; Fourth Year: 125000")
+    lead, label, cells = build_facts.parse_line(fee)
+    assert label == "Tuition Fee" and cells[0] == ("First Year", "125000") and len(cells) == 4
+    assert lead.endswith("| Fees per year"), lead
+    nil = ("Following mentioned the 2 year FEE ESTIMATE for the SC/ ST students admitted in the "
+           "M. Sc. Program of VNIT, Nagpur. | Fees per year: Tuition Fee — First Year: NIL; "
+           "Second Year: NIL")
+    assert build_facts.parse_line(nil)[2] == [("First Year", "NIL"), ("Second Year", "NIL")]
+    phd = ("(This is subject to the revision from time to time) | 13. PAYMENT OF FEES AND DEPOSIT "
+           "(Rs.): Head: Tuition Fees — Ph.D. (Full-Time) Per Sem. (in ₹): 7500.00; Ph.D. "
+           "(Part-Time) Per Sem. (in ₹): 15000.00")
+    _lead, label, cells = build_facts.parse_line(phd)
+    assert label == "Tuition Fees" and cells[1] == ("Ph.D. (Part-Time) Per Sem. (in ₹)", "15000.00")
+    calendar = ("ACADEMIC CALENDAR (Winter 2026) for First Year PG (M.Tech/M.Sc/MBA) | Ukkxiwj "
+                "VISVESVARAYA NATIONAL INSTITUTE: EXAMINATIONS.Slot: A — EXAMINATIONS.Mid Sem: "
+                "1 st Oct; EXAMINATIONS.End Sem: 7 th Dec; EXAMINATIONS.Re Exam: 28 th Dec")
+    _lead, label, cells = build_facts.parse_line(calendar)
+    assert label == "A" and cells[0] == ("EXAMINATIONS.Mid Sem", "1 st Oct"), cells
+    headerless = ("HOSTEL FEE FOR THE FIRST YEAR UG STUDENTS FOR ACADEMIC YEAR 2025-26 | Table B: "
+                  "Hostel Fee (Refundable / Adjustable as per actual): Caution Money | #R | 15000 "
+                  "| 0 | 15000")
+    _lead, label, cells = build_facts.parse_line(headerless)
+    assert label == "Caution Money" and cells[1] == ("column 2", "15000"), cells
+    assert build_facts.parse_line("Session wise Hostel Fees payable for Winter 2026 is Rs. 32650/-") is None
+    assert [build_facts.parse_number(v) for v in ("1,25,000", "Rs. 32650/-", "Nil", "*20000", "--")] \
+        == [125000.0, 32650.0, 0.0, 20000.0, None]
+
+
+def test_lookup_table_finds_the_girls_hostel_total():
+    # The Winter 2026 payment (Rs 32,650) is stated in a sentence of this sheet,
+    # not in its table; the table's row is the year's total, 64,200.
+    if not tools.FACTS_PATH.exists():
+        return  # facts.db is built by build_facts.py; not in a fresh clone
+    rows = tools.lookup_table("hostel fee total", programme="btech", gender="girls",
+                              academic_year="2026-27")
+    first = rows[0]
+    assert "GIRLS ADMITTED IN YEAR 2026-27" in first["title"] and "64200" in first["text"], first
+    msc = tools.lookup_table("tuition fee", programme="msc")
+    assert any("Master of Science" in r["title"] and "15000" in r["text"] for r in msc), msc
+
+
+def test_lookup_table_never_runs_text_as_sql():
+    import sqlite3
+    if not tools.FACTS_PATH.exists():
+        return
+    count = lambda: sqlite3.connect(tools.FACTS_PATH).execute("SELECT COUNT(*) FROM facts").fetchone()[0]
+    before = count()
+    for attack in ["'; DROP TABLE facts; --", "x' OR '1'='1", "%", "_"]:
+        tools.lookup_table(attack)
+        tools.lookup_table("fee", programme=attack, academic_year=attack)
+    assert count() == before
+    ev = tools.Evidence()
+    out = tools.run_tool("lookup_table", {"keywords": "'; DROP TABLE facts; --"}, ev)
+    assert "Error" not in out["observation"], out
+
+
+def test_lookup_table_can_be_switched_off():
+    import os
+    saved = os.environ.get("LOOKUP_TABLE")
+    os.environ["LOOKUP_TABLE"] = "off"
+    try:
+        names = [s["function"]["name"] for s in tools.active_schemas()]
+    finally:
+        if saved is None:
+            os.environ.pop("LOOKUP_TABLE")
+        else:
+            os.environ["LOOKUP_TABLE"] = saved
+    assert "lookup_table" not in names and "search_vnit" in names
+
+
+def test_rows_sharing_a_lead_in_are_separate_passages():
+    ev = tools.Evidence()
+    lead = "Following mentioned the 4 Year Fee Estimate for the students admitted in OPEN category"
+    a = {"text": f"{lead} | Tuition Fee | First Year: 125000", "title": "t", "source_url": "u"}
+    b = {"text": f"{lead} | Total (Rs.) | First Year: 135450", "title": "t", "source_url": "u"}
+    assert ev.add(a, a["text"])[0] != ev.add(b, b["text"])[0]
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]
