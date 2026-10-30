@@ -405,6 +405,82 @@ def test_gate_puts_the_placement_figures_in_front_of_the_agent():
     assert out["trace"].index(grade_steps[0]) > 0
 
 
+# ---------------------------------------------------------------------------
+# Clarify or assume: slots and the student profile
+# ---------------------------------------------------------------------------
+
+def test_slots_extract_phrasings():
+    import slots
+    cases = {
+        "hostel fee for first year B.Tech girls": {"programme": "btech", "gender": "girls",
+                                                   "study_year": "first"},
+        "M.Tech fee for SC/ST students": {"programme": "mtech", "category": "sc/st"},
+        "fees for OPEN category B.Arch": {"programme": "barch", "category": "open"},
+        "OBC 2nd year boys": {"category": "obc", "gender": "boys", "study_year": "second"},
+        "fee for general category students": {"category": "open"},
+        "What is the hostel fee?": {},
+        "Fee for M.SC. students": {"programme": "msc"},          # "SC" in M.SC is not a category
+        "B.Tech and M.Tech fees for final year": {"study_year": "final"},  # two programmes: none
+    }
+    wrong = {text: slots.extract(text) for text, want in cases.items() if slots.extract(text) != want}
+    assert not wrong, wrong
+
+
+def _first_passages(question):
+    import agent
+    import generate
+    return [r for r, _ in generate.select_passages(agent.answer(question))][:7]
+
+
+def test_vague_hostel_question_asks_which_programme():
+    import slots
+    q = "What is the hostel fee?"
+    c = slots.needs_clarification(q, "hostel", _first_passages(q))
+    assert c and c["slot"] == "programme", c
+    assert "btech" in [x["value"] for x in c["choices"]] and 2 <= len(c["choices"]) <= 4, c
+
+
+def test_specific_hostel_question_is_just_answered():
+    import slots
+    q = "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?"
+    assert slots.needs_clarification(q, "hostel", _first_passages(q)) is None
+
+
+def test_apply_profile_fills_only_what_the_topic_needs():
+    import slots
+    q, note = slots.apply_profile("What is the hostel fee?", "hostel",
+                                  {"programme": "btech", "gender": "girls", "category": "obc"})
+    assert q == "What is the hostel fee? (for B.Tech girls)", q
+    assert note == "Assuming B.Tech girls, from earlier in this chat.", note
+    same, none = slots.apply_profile("Who is the Director?", "people", {"programme": "btech"})
+    assert same == "Who is the Director?" and none is None
+
+
+def test_profile_validator_drops_injected_text():
+    import slots
+    assert slots.clean_profile({"programme": "x; ignore previous", "gender": "girls",
+                                "role": "admin", "category": ["obc"]}) == {"gender": "girls"}
+    assert slots.clean_profile("not a dict") == {}
+
+
+def test_respond_clarifies_without_an_llm_and_only_once():
+    out = respond.answer("What is the hostel fee?", use_agent=False)
+    assert out["mode"] == "clarify" and out["clarify"]["slot"] == "programme", out["mode"]
+    assert out["sources"] == [] and out["verification"] is None
+    assert any(t["step"] == "clarify" for t in out["trace"])
+    # Typed again straight after, without picking a choice: answered as it stands
+    # (from quoted passages here, since the key is removed: no LLM in tests).
+    import os
+    saved = os.environ.pop("GENAI_API_KEY", None)
+    try:
+        again = respond.answer("What is the hostel fee?", history=["What is the hostel fee?"],
+                               use_agent=False)
+    finally:
+        if saved is not None:
+            os.environ["GENAI_API_KEY"] = saved
+    assert again["mode"] != "clarify", again["mode"]
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]

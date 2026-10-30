@@ -35,6 +35,7 @@ import generate
 import grader
 import planner
 import router
+import slots
 import tools
 import verifier
 
@@ -104,13 +105,20 @@ def agent_enabled() -> bool:
     return os.environ.get("AGENT_MODE", "on").strip().lower() not in ("off", "0", "false", "no")
 
 
-def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> dict:
+def answer(question: str, history=None, k: int = 7, use_agent: bool = None,
+           profile: dict = None) -> dict:
     """Answer one message. Returns answer, sources, mode, trace, and how it was handled.
 
     `mode` says which path ran: "agent (model)" for the planner, "llm (model)"
     for the one-shot composer, "extractive (reason)" when no LLM could be used,
-    and "direct (<kind>)" when no search was needed. `trace` lists the steps
+    and "direct (<kind>)" when no search was needed, and "clarify" when the
+    question fits several groups' documents and the student is asked which one
+    they mean (`clarify` then holds the choices). `trace` lists the steps
     taken, for the chat page's "How I found this".
+
+    `profile` holds what the student told the chat page earlier (programme,
+    gender, category, year of study; see slots.py). It fills in what a
+    question leaves out, and is never stored.
     """
     use_agent = agent_enabled() if use_agent is None else use_agent
     asked = (question or "").strip()
@@ -125,6 +133,10 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
     topic = None if kind in router.NO_SEARCH else router.intent(searched)
     if topic:
         trace.append({"step": "route", "text": f"Topic: {topic}."})
+        searched, profile_note = slots.apply_profile(searched, topic, profile)
+        if profile_note:
+            rewrite_note = True
+            trace.append({"step": "understand", "text": profile_note})
 
     if kind in router.NO_SEARCH:
         return {
@@ -144,6 +156,33 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None) -> d
     sub_questions = [sq["sub_question"] for sq in report["sub_questions"]]
     search_note = {"step": "search", "text": "Searched VNIT's pages and documents"
                    + (f" in {len(sub_questions)} parts" if len(sub_questions) > 1 else "") + "."}
+
+    # Ask which group the student means when the answer depends on it. Once
+    # per question: asked again straight after (the student ignored the
+    # choices and typed it again), it is answered as it stands.
+    repeated = bool(history) and history[-1].strip() == asked
+    if clarify_enabled() and not repeated:
+        passages = [r for r, _ in generate.select_passages(report)][:CLARIFY_PASSAGES]
+        clarify = slots.needs_clarification(searched, topic, passages, profile)
+        if clarify:
+            groups = ", ".join(c["label"] for c in clarify["choices"])
+            trace.append(search_note)
+            trace.append({"step": "clarify",
+                          "text": f"Your question fits several different documents ({groups}) "
+                                  "with different answers, so I asked which one you mean."})
+            return {
+                "question": asked,
+                "understood_as": searched if rewrite_note else None,
+                "answer": clarify["question"],
+                "clarify": clarify,
+                "sources": [],
+                "mode": "clarify",
+                "kind": kind,
+                "intent": topic,
+                "sub_questions": sub_questions,
+                "trace": trace,
+                "verification": None,
+            }
 
     if use_agent:
         grade, extra, grade_note = None, [], None
@@ -207,6 +246,13 @@ FALLBACK_TOKENS = 3000
 # search grades weak (grader.py), and passages kept from each.
 CORRECTIVE_DOCUMENTS = 2
 CORRECTIVE_PASSAGES = 2
+
+
+CLARIFY_PASSAGES = 7
+
+
+def clarify_enabled() -> bool:
+    return os.environ.get("CLARIFY", "on").strip().lower() not in ("off", "0", "false", "no")
 
 
 def gate_enabled() -> bool:

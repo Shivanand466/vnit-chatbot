@@ -71,6 +71,17 @@
   }
   .starters button:hover { border-color: var(--accent); }
 
+  /* Choices under a clarifying question */
+  .choices { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px; }
+  .choices button {
+    font: inherit; font-size: .85rem; color: var(--accent);
+    background: var(--accent-soft); border: 1px solid transparent;
+    padding: 6px 13px; border-radius: 999px; cursor: pointer;
+  }
+  .choices button:hover:not(:disabled) { border-color: var(--accent); }
+  .choices button:disabled { opacity: .45; cursor: default; }
+  #clear-details { margin-left: 6px; }
+
   /* Conversation */
   #chat {
     flex: 1 1 auto; overflow-y: auto; display: flex; flex-direction: column;
@@ -213,7 +224,7 @@
     <textarea id="question" rows="1" placeholder="Ask about fees, hostels, admissions, exams, scholarships…" autocomplete="off"></textarea>
     <button class="send" type="submit" id="send">Ask</button>
   </form>
-  <p class="hint">Enter to send · Shift+Enter for a new line · follow-ups like “and for girls?” work</p>
+  <p class="hint">Enter to send · Shift+Enter for a new line · follow-ups like “and for girls?” work<a href="#" id="clear-details" hidden>· Clear my details</a></p>
   <div id="api-row">server: <input id="api-url" value="http://localhost:8000/ask" spellcheck="false"></div>
 </div>
 
@@ -224,6 +235,14 @@ const input = document.getElementById('question');
 const sendBtn = document.getElementById('send');
 const apiUrlInput = document.getElementById('api-url');
 const asked = [];   // questions so far, so a follow-up can be understood
+// Details the student picked from clarifying questions (programme, gender...).
+// Kept in memory only, never in localStorage: the server does not store it
+// either, so closing the page forgets it.
+let profile = {};
+const clearDetails = document.getElementById('clear-details');
+
+function showProfile() { clearDetails.hidden = Object.keys(profile).length === 0; }
+clearDetails.addEventListener('click', e => { e.preventDefault(); profile = {}; showProfile(); });
 
 if (location.protocol.startsWith('http')) apiUrlInput.value = location.origin + '/ask';
 
@@ -378,6 +397,26 @@ function fillAnswer(turn, data) {
   }
   turn.appendChild(bubble);
 
+  // A clarifying question: one button per choice. Picking one remembers it and
+  // asks the original question again with it filled in.
+  if (data.clarify && data.clarify.choices) {
+    const row = document.createElement('div');
+    row.className = 'choices';
+    data.clarify.choices.forEach(c => {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = c.label;   // textContent, so a label can never be HTML
+      b.addEventListener('click', () => {
+        row.querySelectorAll('button').forEach(x => x.disabled = true);
+        profile[data.clarify.slot] = c.value;
+        showProfile();
+        send(data.question, c.label, turn.historyAtAsk);
+      });
+      row.appendChild(b);
+    });
+    bubble.appendChild(row);
+  }
+
   // The agent's steps: what it searched, which documents it opened, what it
   // calculated, and what the verifier found -- so it can be checked, not trusted.
   if (data.trace && data.trace.length) {
@@ -391,7 +430,8 @@ function fillAnswer(turn, data) {
     const list = document.createElement('ol');
     const KIND = { understand: 'understood', route: 'decided', search: 'searched',
                    tool: 'acted', answer: 'answered', verify: 'checked', revise: 'revised',
-                   fallback: 'fallback' };
+                   fallback: 'fallback', grade: 'graded', clarify: 'asked back',
+                   handoff: 'handed off' };
     data.trace.forEach(t => {
       const li = document.createElement('li');
       const kind = document.createElement('span');
@@ -420,8 +460,8 @@ function fillAnswer(turn, data) {
     meta.appendChild(badge);
   }
 
-  // Rating only makes sense for a real answer, not a greeting.
-  if (!String(data.mode).startsWith('direct')) {
+  // Rating only makes sense for a real answer, not a greeting or a question back.
+  if (!String(data.mode).startsWith('direct') && data.mode !== 'clarify') {
     const row = document.createElement('span');
     row.className = 'rate';
     const status = document.createElement('span');
@@ -443,17 +483,25 @@ function fillAnswer(turn, data) {
 async function ask() {
   const question = input.value.trim();
   if (!question || sendBtn.disabled) return;
-  addMine(question);
   input.value = '';
   input.style.height = 'auto';
+  send(question, question, asked.slice(-3));
+}
+
+// `shown` is what appears as the student's message: the question itself, or
+// the choice they clicked ("B.Tech") when a clarified question is re-asked.
+async function send(question, shown, history) {
+  if (sendBtn.disabled) return;
+  addMine(shown);
   sendBtn.disabled = true;
   const pending = addThinking();
+  pending.historyAtAsk = history;
 
   try {
     const resp = await fetch(apiUrlInput.value, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ question, history: asked.slice(-3) }),
+      body: JSON.stringify({ question, history, profile }),
     });
     if (!resp.ok) {
       let detail = 'HTTP ' + resp.status;

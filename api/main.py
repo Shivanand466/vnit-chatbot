@@ -7,7 +7,11 @@ may search again, open a document or calculate, and every figure in its answer
 is checked against the sources (verifier.py). Without a key or quota it falls
 back to a one-shot answer, then to quoting passages. `history` is optional; it
 lets a follow-up like "and for girls?" be rewritten to stand on its own (see
-followup.py), and the response says so in `understood_as`.
+followup.py), and the response says so in `understood_as`. `profile` is
+optional too: details the student chose earlier (programme, gender, ...; see
+slots.py), which fill in what a vague question leaves out. When a question
+fits several groups' documents, the response has mode "clarify" and a
+`clarify` object with choices for the chat page to show as buttons.
 
 The response also carries `trace` (the steps taken, shown in the chat page as
 "How I found this"), `verification` (the verifier's verdict) and, for agent
@@ -42,6 +46,7 @@ from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
 import respond
+import slots
 
 
 @asynccontextmanager
@@ -113,6 +118,9 @@ def _check_rate_limit(ip: str, bucket: str = "ask"):
 class Question(BaseModel):
     question: str
     history: list[str] = []
+    # What the student told the chat page (programme, gender, ...): kept in the
+    # page only, sent with each question, and never stored here.
+    profile: dict = {}
 
 
 class Feedback(BaseModel):
@@ -145,7 +153,7 @@ def ask(q: Question, request: Request):
     # respond.answer owns the whole hierarchy: resolve a follow-up, decide what
     # kind of message this is, search only if it needs searching, then compose.
     history = [h.strip()[:MAX_QUESTION_CHARS] for h in q.history if h and h.strip()][-MAX_HISTORY:]
-    return respond.answer(question, history)
+    return respond.answer(question, history, profile=slots.clean_profile(q.profile))
 
 
 @app.post("/feedback")

@@ -1248,30 +1248,32 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**₹32,650** for first‑year B.Tech (and B.Arch) girls for the Winter 2026 session.\n\n- The UG hostel admission procedure for 2026‑27 states: “For Girls: Total amount of Rs. 32650/- Winter 2026 to be paid at the time of Hostel Admission”[1].\n\nNote: This fee applies to first‑year B.Tech/B.Arch female students admitted in the 2026‑27 academic year.",
+  "answer": "**Rs. 32,650** for first‑year B.Tech (and B.Arch) girls for the Winter 2026 session[1].\n\n- This amount is the total hostel fee payable at the time of admission for girls admitted in 2026‑27[1].\n- Applies specifically to first‑year undergraduate (B.Tech/B.Arch) female students.",
   "sources": [
    "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 8,
-   "supported": 8,
+   "checked": 3,
+   "supported": 3,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3389,
+   "tokens": 3937,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
-   "passages_seen": 6,
+   "passages_seen": 8,
    "passages_cited": 1
   },
   "trace": [
    "Read the follow-up with the earlier questions as: “What is the hostel fee for first year B.Tech girls for the Winter 2026 session?”",
    "A question about VNIT: looking it up.",
+   "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “girls”, “sessi”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “HOSTEL FEES FOR SECOND YEAR GIRLS ADMITTED IN YEAR 2025-26”.",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 8 figure(s) against the sources: all found."
+   "Checked 3 figure(s) against the sources: all found."
   ],
   "understood_as": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?"
  },
@@ -1314,5 +1316,145 @@
    "Rewrote the answer after the check. Checked 9 figure(s): could not find 27 in the sources."
   ],
   "understood_as": "What is the yearly tuition fee for M.Tech students in the OPEN category?"
+ },
+ {
+  "name": "clarify_hostel_vague",
+  "question": "What is the hostel fee?",
+  "pass": true,
+  "mode": "clarify",
+  "missing": [],
+  "forbidden": [],
+  "answer": "Which programme are you asking about?",
+  "sources": [],
+  "profile": {},
+  "choices": [
+   "btech",
+   "barch",
+   "msc",
+   "phd"
+  ],
+  "verification": null,
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents.",
+   "Your question fits several different documents (B.Tech, B.Arch, M.Sc, Ph.D) with different answers, so I asked which one you mean."
+  ]
+ },
+ {
+  "name": "clarify_then_answer",
+  "question": "What is the hostel fee for first year?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs 32,650** for first‑year B.Tech (UG) girls [​P1​].\n\n- This amount is listed in the “HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026‑27” under the payment category “Hostel Fee For First Year UG/PG/PhD – For Girls” [​P1​].",
+  "sources": [
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
+   "https://drive.google.com/file/d/13pqqEFCDId3FtSWE-6JW0ejbS4aowgrJ/view",
+   "https://drive.google.com/file/d/1v3hzPajyoacstokKd1xWpFce3QcYtzdH/view",
+   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3357,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 0
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Assuming B.Tech girls, from earlier in this chat.",
+   "Searched VNIT's pages and documents: 6 passages from 5 sources.",
+   "The first search looked relevant (score 7.2).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ],
+  "profile": {
+   "programme": "btech",
+   "gender": "girls"
+  }
+ },
+ {
+  "name": "no_clarify_when_specific",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 32,150** for the Winter 2026 session.\n\n- The hostel fee for first‑year boys (B.Tech/B.Arch) admitted in 2026‑27 is Rs. 32,150 for Winter 2026[1].\n- The same amount is confirmed in the UG hostel admission procedure for 2026‑27: “For Boys: Total amount of Rs. 32150/- Winter 2026”[2].\n\nNote: This fee applies to first‑year B.Tech/B.Arch male students admitted for the 2026‑27 academic year.",
+  "sources": [
+   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 9,
+   "supported": 9,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3400,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 8.0).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 9 figure(s) against the sources: all found."
+  ],
+  "profile": {}
+ },
+ {
+  "name": "no_clarify_director",
+  "question": "Who is the Director of VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Prof. (Dr.) Prem Lal Patel** is the Director of VNIT.\n\n- The institute’s Director page lists Prof. (Dr.) Prem Lal Patel as having taken charge on 21 May 2024[1].\n- A VNIT news‑letter notes his inaugural visit as the new Director, confirming his appointment on 21 May 2024[2].",
+  "sources": [
+   "https://vnit.ac.in/director-vnit-nagpur/",
+   "https://vnit.ac.in/basic_science/chemistry/wp-content/uploads/2024/08/News-Letter-Issue-17.pdf"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2679,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: people.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 8.5).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ],
+  "profile": {}
  }
 ]

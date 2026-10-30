@@ -348,6 +348,39 @@ Results: every miss grades not `correct` (3/3), 20 of 29 hits grade `correct`, a
 
 The saved 39-question file now reads 36/39 (35 + placements). `test_agentic.py`: 35/35.
 
+## 23. Clarify or assume: slots and a student profile (Runbook 7, Step 3)
+
+**Why.** "What is the hostel fee?" has no single answer: there are 19 near-identical hostel fee sheets, one per programme, year and gender. The agent picked one, so a student could be told another group's fee. AdvisingWise's agent can ask the student for missing information and keeps a profile; MARAUS traced most of its remaining errors to vague questions.
+
+**Changed.**
+- New `slots.py`. `extract` reads programme, gender, category (OPEN/General, OBC, SC/ST, SC, ST, EWS, PwD) and year of study, each only when exactly one value is named. `REQUIRED` lists what a topic needs: hostel → programme and gender; fees → programme and category; calendar → programme. `needs_clarification` asks back only when a required slot is missing from both the question and the profile *and* the relevant first-search passages hold two or more different values for it. `apply_profile` fills in slots from earlier in the chat ("What is the hostel fee? (for B.Tech girls)") and says so in the trace. `clean_profile` keeps only known keys and values.
+- `respond.answer(..., profile=None)`, in this order: resolve follow-up → route → topic → apply profile → first search → clarify check (`CLARIFY=off` disables it) → corrective gate → planner. A clarification returns `mode: "clarify"` with the choices, no sources and no LLM call. If the same question is asked again straight after (the student typed it instead of choosing), it is answered as it stands.
+- `api/main.py` takes `profile`, cleans it and never stores it. The chat page keeps the profile in memory only (not localStorage), shows the choices as buttons, re-asks the original question when one is clicked, shows the assumption as "Understood as", and has a "Clear my details" link.
+- `check_answers.py` has 4 new cases (`CLARIFY_CHECKS`), with a profile and a "clarify" expectation.
+
+**What had to be tightened, and how it was measured.** The first version counted every passage. Running all the test questions through it, two of the existing 39 were asked back:
+- "How much does one summer term course cost?" got a choice between M.Tech and B.Arch;
+- "How much does a day scholar bus pass cost?" got a choice between M.Tech and M.Sc.
+
+In both cases those passages were fee estimates that the reranker scored 2–3 (bus pass: below 1). They matched the topic, not the question. So a passage now counts only if its rerank score is at least 3.0, the line `grader.py` draws for a relevant first search. A passage naming several values ("Boys & Girls", "OPEN/OBC/EWS") is general and never counts. Result: **0 of the existing 39 clarify**, measured through `respond.answer` with no key.
+
+**Choices.** The vague hostel question's top passages are from the Ph.D and M.Sc hostel pages; the B.Tech sheets name their programme mostly in titles, often as "UG (B.Tech/B.Arch)". So choices also count the 10 best-titled documents (titles naming one or two values). The 4 values backed by the most documents are offered, in a fixed order (B.Tech first) so buttons never move. Choices for "What is the hostel fee?": B.Tech, B.Arch, M.Sc, Ph.D. After B.Tech: Boys, Girls.
+
+**Results.**
+
+| Case | Result |
+|---|---|
+| `clarify_hostel_vague`: "What is the hostel fee?" | PASS: clarify, choices btech, barch, msc, phd |
+| `clarify_then_answer`: "…for first year?" with profile B.Tech girls | PASS: ₹32,650, verified |
+| `no_clarify_when_specific` | PASS: answered (₹32,150) |
+| `no_clarify_director` | PASS: answered |
+| `conv_hostel_girls` (regression) | PASS |
+| Clarifications on the existing 39 | 0 |
+
+Through the live API: "What is the hostel fee?" → B.Tech → Girls → "Rs 32,650 is the total hostel fee for B.Tech girls (double-seater) admitted in 2026-27", 3 figures verified, 0 tool calls. Retrieval checks are unchanged (no retrieval change). `test_agentic.py`: 41/41.
+
+**Limits.** Slot values come from regexes over passages and titles. A sheet that never states its group (some say only "FIRST YEAR GIRLS") supports the gender choice but not the programme. Category questions ("fees" without a category) never clarify on the current data, because the fee estimates name several categories in one passage. That is why `msc_tuition` and `barch_tuition` are answered rather than asked back.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

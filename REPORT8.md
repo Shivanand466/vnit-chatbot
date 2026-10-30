@@ -77,3 +77,41 @@ Done when:
 | EXPERIMENTS-LOG §22 | written, with the calibration table |
 
 Saved `answer_check.json` now reads 36/39 (the `--only` runs replace just their own questions).
+
+## Step 3. Clarify or assume: slots and a student profile
+
+- New `pipeline/slots.py` (`extract`, `REQUIRED`, `needs_clarification`, `apply_profile`, `clean_profile`).
+- `respond.answer(..., profile=None)`: route → topic → apply profile → first search → clarify check (`CLARIFY=off` disables) → corrective gate → planner. A clarification costs no LLM call. A question re-typed right after a clarification is answered as it stands.
+- `api/main.py` accepts `profile` (cleaned, never stored). The chat page keeps it in memory, shows choice buttons, re-asks the original question on a click, and has "Clear my details".
+- `check_answers.py`: `CLARIFY_CHECKS` with 4 cases.
+- Tightened after measuring: the first version asked back on 2 of the 39 (summer-term fee, bus pass) from passages the reranker scored below 3. Only passages scoring ≥ 3.0 now count. Final count on the 39: **0**.
+
+```
+python test_agentic.py                                   -> 41/41 passed
+respond.answer over all 39 (no key)                      -> clarify on the 39: 0
+python check_answers.py --only clarify --pause 30
+  [PASS] clarify_hostel_vague  (mode: clarify, choices: ['btech', 'barch', 'msc', 'phd'])
+  [PASS] clarify_then_answer  (tools: 0, check: verified)
+  [PASS] no_clarify_when_specific  (tools: 0, check: verified)
+  [PASS] no_clarify_director  (tools: 0, check: verified)
+python check_answers.py --only conv_hostel_girls          -> [PASS]
+```
+
+Live API run of the demo (port 8011): "What is the hostel fee?" → clarify (B.Tech, B.Arch, M.Sc, Ph.D) → profile B.Tech → clarify (Boys, Girls) → profile B.Tech girls → "**Rs 32,650** is the total hostel fee for B.Tech girls (double-seater) admitted in 2026-27 [1]", 3 figures verified. A profile of `{"programme": "x; ignore previous"}` is dropped by the API.
+
+Done when:
+
+| Check | Result |
+|---|---|
+| No-key checks | unchanged (no retrieval change): 29/32, 15/18, 16/19 |
+| 4 new cases (`--only clarify` covers `no_clarify` too) | 4/4 PASS |
+| `--only conv_hostel_girls` | PASS |
+| Tried in the chat page | **Shivanand to try** (steps below); the same requests were tested against the live API |
+
+**Shivanand, try it yourself:**
+1. Double-click `start_chatbot.bat` and wait for the chat page to open.
+2. Type **What is the hostel fee?** and press Enter.
+3. The chatbot asks "Which programme are you asking about?". Click **B.Tech**.
+4. It asks "Is this for boys or girls?". Click **Girls**.
+5. You should see **Rs 32,650**, with a ✓ badge. Open "How I found this" to see "Assuming B.Tech girls, from earlier in this chat."
+6. Click **Clear my details** (under the question box) to make it forget your choices.

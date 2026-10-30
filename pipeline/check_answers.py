@@ -152,6 +152,21 @@ CONVERSATIONS = [
      [r"70,?000"], []),
 ]
 
+# Clarify-or-assume cases (slots.py): name, question, profile the chat page
+# sends, and what must happen. "clarify" names a value that must be among the
+# choices offered; otherwise the answer is checked like any other, and it must
+# not have been a clarifying question. The vague question needs no LLM.
+CLARIFY_CHECKS = [
+    ("clarify_hostel_vague", "What is the hostel fee?", {}, {"clarify": "btech"}),
+    # HOSTEL FEES FOR FIRST YEAR GIRLS ADMITTED IN YEAR 2026-27 (Rs 32,650)
+    ("clarify_then_answer", "What is the hostel fee for first year?",
+     {"programme": "btech", "gender": "girls"}, {"must": [r"32,?650"]}),
+    ("no_clarify_when_specific",
+     "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?", {},
+     {"must": [r"32,?150"]}),
+    ("no_clarify_director", "Who is the Director of VNIT?", {}, {"must": [r"Prem\s*Lal\s*Patel"]}),
+]
+
 PROCESSED = Path(__file__).parent.parent / "data" / "processed"
 # The agent's results keep the old file name, since the agent is what the chat
 # page runs; the baseline gets its own file so the two can be compared.
@@ -184,6 +199,30 @@ _CITATION = re.compile(r"\[\d+\]")
 
 def reached_llm(mode: str) -> bool:
     return mode.startswith(("llm", "agent"))
+
+
+def _score_clarify(name, question, profile, expect, out, results):
+    """Score a CLARIFY_CHECKS case: a clarifying question with the right choice, or a right answer."""
+    if "clarify" in expect:
+        offered = [c["value"] for c in (out.get("clarify") or {}).get("choices", [])]
+        ok = out["mode"] == "clarify" and expect["clarify"] in offered
+        record = {"name": name, "question": question, "pass": ok, "mode": out["mode"],
+                  "missing": [] if ok else [f"clarify with {expect['clarify']}"], "forbidden": [],
+                  "answer": out["answer"], "sources": [], "profile": profile, "choices": offered,
+                  "verification": None, "usage": None,
+                  "trace": [t["text"] for t in out.get("trace", [])]}
+        results.append(record)
+        print(f"[{'PASS' if ok else 'FAIL'}] {name}  (mode: {out['mode']}, choices: {offered})")
+        sys.stdout.flush()
+        return ok
+    forbidden_mode = out["mode"] == "clarify"
+    ok = _score(name, question, out, expect.get("must", []), expect.get("must_not", []), results,
+                extra={"profile": profile})
+    if forbidden_mode:
+        results[-1]["pass"] = False
+        results[-1]["forbidden"].append("asked a clarifying question")
+        print(f"  -> FAIL: {name} asked a clarifying question instead of answering")
+    return ok and not forbidden_mode
 
 
 def _quota_failure(mode: str, trace_texts) -> bool:
@@ -237,8 +276,12 @@ def rescore(pipeline: str = "agent"):
     saved = json.loads(path.read_text(encoding="utf-8"))
     patterns = {name: (must, must_not) for name, _q, must, must_not in CHECKS}
     patterns.update({name: (must, must_not) for name, _t, must, must_not in CONVERSATIONS})
+    patterns.update({name: (e.get("must", []), e.get("must_not", []))
+                     for name, _q, _p, e in CLARIFY_CHECKS if "clarify" not in e})
     changed = []
     for r in saved:
+        if r["name"] not in patterns:
+            continue  # a clarifying-question case: nothing in its answer to re-mark
         must, must_not = patterns[r["name"]]
         answer = _CITATION.sub("", normalise(r["answer"]))
         r["missing"] = [p for p in must if not re.search(p, answer, re.I)]
@@ -298,10 +341,25 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
         if _daily_limit(out):
             break
 
+    for name, question, profile, expect in [c for c in CLARIFY_CHECKS if only in c[0]]:
+        if results and _daily_limit_hit(results):
+            break
+        if name in kept:
+            results.append(kept[name])
+            continue
+        if asked and "clarify" not in expect:
+            time.sleep(pause)
+        asked += 1
+        out = respond.answer(question, profile=profile, use_agent=use_agent)
+        _score_clarify(name, question, profile, expect, out, results)
+        if _daily_limit(out):
+            break
+
     # Once the daily allowance is spent, every further question would fail
     # the same way -- 35 of 39 did on 2026-10-30 -- so the run stops, the
     # failed question is dropped, and --resume asks it and the rest later.
-    total = len([c for c in CHECKS if only in c[0]]) + len([c for c in CONVERSATIONS if only in c[0]])
+    total = sum(len([c for c in cases if only in c[0]])
+                for cases in (CHECKS, CONVERSATIONS, CLARIFY_CHECKS))
     if results and _daily_limit_hit(results):
         dropped = results.pop()
         print(f"\nSTOPPED: the free daily AI allowance is used up (at {dropped['name']}). "
