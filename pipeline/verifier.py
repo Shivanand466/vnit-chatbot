@@ -42,7 +42,7 @@ _WORKED = re.compile(r"([\d(][\d,.\s()+\-*/x×÷₹]*?)\s*=\s*(?:Rs\.?|INR|₹)?
 NOT_FOUND = re.compile(
     r"(do(es)? not|doesn't|don't|no (information|details|mention)|"
     r"not (contain|mention|provide|cover|include|specif|state|available|list)|couldn't find|"
-    r"could not find|unable to find|none of the (provided |retrieved )?(passages|documents|sources)|"
+    r"could not find|unable to find|none of the (provided |retrieved |available )?(\w+ )?(passages|documents|sources)|"
     r"no (passage|document|source)s? (provides?|contains?|mentions?|states?|gives?))",
     re.I)
 

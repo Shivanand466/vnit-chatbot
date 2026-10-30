@@ -576,36 +576,34 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "I’m sorry, but none of the provided VNIT documents contain the hostel Wi‑Fi password. You could ask the hostel office directly (e.g., Assistant Registrar Hostel at (0712) 2801373) or check the latest notice on the VNIT website’s Hostel section for that information.",
+  "answer": "I’m sorry, but none of the provided VNIT documents contain the hostel Wi‑Fi password.\n\nYou can obtain it by contacting the Assistant Registrar (Hostel) at (0712) 2801373 or 2801117, or by checking the hostel notice board or the VNIT portal’s hostel information page.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
   "sources": [
-   "https://drive.google.com/file/d/1p43rYEc4pVkVVgw8MNeQ5FsCl-O0ThWc/view",
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
-   "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view",
-   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view",
-   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view",
-   "https://vnit.ac.in/section/hostel/"
+   "https://vnit.ac.in/administrative-officers"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 2,
-   "supported": 2,
+   "checked": 3,
+   "supported": 3,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 3,
-   "tokens": 9659,
-   "waited_for_quota_s": 30.5,
+   "tokens": 9169,
+   "waited_for_quota_s": 20.0,
    "tool_calls": 2,
-   "passages_seen": 10,
+   "passages_seen": 8,
    "passages_cited": 0
   },
   "trace": [
    "A question about VNIT: looking it up.",
+   "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (best match scored -5.7, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
    "Searched for “hostel wifi password VNIT”: Hostel Information for UG 1st Year Students; Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27; Hostel Admission Information Notice for First Year MBA Students (Academic Year 2026–27)",
-   "Searched for “WiFi password hostel VNIT”: Hostel Information for UG 1st Year Students; VNIT Nagpur – Hostel Section; Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27",
+   "Looked up documents titled like “wifi password hostel VNIT”: VNIT Nagpur – Hostel Section; Hostels – VNIT Nagpur – Hostel Section; Fees – VNIT Nagpur – Hostel Section",
    "Wrote the answer after 2 round(s) of tool use.",
-   "Checked 2 figure(s) against the sources: all found."
+   "Checked 3 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
   ]
  },
  {

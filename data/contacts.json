@@ -1,0 +1,38 @@
+{
+ "_about": "Which office to point a student to when VNIT's documents don't answer a question, by topic (router.intent). Every email and phone number is copied character for character from the data/raw file named by source_file; test_agentic.py checks that. Topics whose office none of those pages names (placement, scholarship, admission, department, rules) are left out rather than guessed.",
+ "hostel": {
+  "office": "Assistant Registrar, Hostel Section",
+  "email": "AR_HOSTEL@vnit.ac.in",
+  "phone": "0712-2801373",
+  "source_url": "https://vnit.ac.in/administrative-officers",
+  "source_file": "administrative_officers.txt"
+ },
+ "fees": {
+  "office": "Assistant Registrar, Accounts Section",
+  "email": "ar_accounts@vnit.ac.in",
+  "phone": "0712-2801366",
+  "source_url": "https://vnit.ac.in/administrative-officers",
+  "source_file": "administrative_officers.txt"
+ },
+ "calendar": {
+  "office": "Deputy Registrar, Exam Section",
+  "email": "dr_acd@vnit.ac.in",
+  "phone": "0712-2801365",
+  "source_url": "https://vnit.ac.in/administrative-officers",
+  "source_file": "administrative_officers.txt"
+ },
+ "people": {
+  "office": "Director Office",
+  "email": "director_office@vnit.ac.in",
+  "phone": "0712-2801370",
+  "source_url": "https://vnit.ac.in/contact-us/",
+  "source_file": "contact_us.txt"
+ },
+ "other": {
+  "office": "Registrar Office",
+  "email": "registrar_office@vnit.ac.in",
+  "phone": "0712-2801359",
+  "source_url": "https://vnit.ac.in/contact-us/",
+  "source_file": "contact_us.txt"
+ }
+}

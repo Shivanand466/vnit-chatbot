@@ -115,3 +115,26 @@ Done when:
 4. It asks "Is this for boys or girls?". Click **Girls**.
 5. You should see **Rs 32,650**, with a ✓ badge. Open "How I found this" to see "Assuming B.Tech girls, from earlier in this chat."
 6. Click **Clear my details** (under the question box) to make it forget your choices.
+
+## Step 4. Hand off to the right office
+
+- New `data/contacts.json`: hostel, fees, calendar, people, other. Copied by hand from `contact_us.txt` and `administrative_officers.txt`. Placement, scholarship, admission, department and rules are left out, because no page names their office with a contact.
+- `respond.hand_off`: an LLM answer that is a refusal, or whose verdict is `unsupported`, gets `**Who can help:** office — email, phone` when its topic has an office. The contact page is added to the sources and a trace line is added. The contact is not re-verified.
+- Found and fixed: `verifier.is_refusal` missed "none of the provided VNIT documents…" (an extra word), so the first live Wi-Fi run got no contact. The pattern now matches `check_answers.py`'s.
+
+```
+python test_agentic.py                    -> 44/44 passed
+python check_answers.py --only wifi       -> [PASS] unanswerable_wifi (tools: 2, check: verified)
+  ...none of the provided VNIT documents contain the hostel Wi-Fi password.
+  **Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373
+  sources: https://vnit.ac.in/administrative-officers
+```
+
+Done when:
+
+| Check | Result |
+|---|---|
+| Tests (contacts verbatim in source files; hostel refusal gets contact; normal answer gets nothing) | pass |
+| `--only wifi` | PASS, refusal pattern still matches with the contact appended (no separate `handoff` field needed) |
+| Chat page renders the bold line | yes (`renderAnswer` handles `**…**`) |
+| No-key checks | unchanged (no retrieval change) |

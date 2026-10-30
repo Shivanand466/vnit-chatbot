@@ -381,6 +381,28 @@ Through the live API: "What is the hostel fee?" → B.Tech → Girls → "Rs 32,
 
 **Limits.** Slot values come from regexes over passages and titles. A sheet that never states its group (some say only "FIRST YEAR GIRLS") supports the gender choice but not the programme. Category questions ("fees" without a category) never clarify on the current data, because the fee estimates name several categories in one passage. That is why `msc_tuition` and `barch_tuition` are answered rather than asked back.
 
+## 24. Hand off to the right office (Runbook 7, Step 4)
+
+**Why.** A correct refusal ("none of the documents contain the hostel Wi-Fi password") was a dead end for the student. Commercial university assistants send the questions they cannot answer to the right office.
+
+**Changed.**
+- `data/contacts.json` maps a topic (§21) to one office. It was written by hand from `contact_us.txt` and `administrative_officers.txt`, with every email and phone copied character for character and `source_url` taken from the file's `SOURCE_URL:` line:
+  - hostel → Assistant Registrar, Hostel Section;
+  - fees → Assistant Registrar, Accounts Section;
+  - calendar → Deputy Registrar, Exam Section;
+  - people → Director Office;
+  - other → Registrar Office.
+- Placement, scholarship, admission, department and rules are **left out**: no page in the data names their office with a contact (the T&P page carries no email or phone), and a guessed office is worse than none.
+- `respond.hand_off`: when an LLM-written answer is a refusal, or its verification verdict is `unsupported`, and the topic has an office, it appends `**Who can help:** <office> — <email>, <phone>`. It also adds the contact page to the sources and the trace line "I couldn't find this in VNIT's documents, so I've added who to contact." The contact is not passed through the verifier again, since it comes from a checked file, not from the LLM.
+- The chat page renders the bold line as it is; it only gained a label ("handed off") for the new trace step.
+
+**A verifier gap found on the way.** The first live run of `--only wifi` passed but got no contact. The answer read "none of the provided **VNIT** documents contain…", and `verifier.is_refusal` allowed no extra word there. `check_answers.py`'s pattern had already been widened for that in §20e, but the verifier's had not. They now match, and the phrase is in `test_agentic.py`. This also changes which answers the verifier labels "refused".
+
+**Results.**
+- `--only wifi`: PASS. The answer ends "**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373", the Administrative Officers page is listed as a source, and the answer still matches the refusal pattern.
+- Tests: every contact appears verbatim in its source file with its URL; a hostel refusal gets the hostel contact; a normal answer, and a refusal on a topic with no known office, get nothing.
+- `test_agentic.py` 44/44; no retrieval change.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

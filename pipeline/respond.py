@@ -27,7 +27,9 @@ existed, `api/main.py` called retrieval directly and a greeting triggered a
 full search of 8,000 passages, while "what can you do?" was answered out of
 whichever documents came back.
 """
+import json
 import os
+from pathlib import Path
 
 import agent
 import followup
@@ -195,7 +197,7 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None,
             steps = result["trace"]
             if grade_note:
                 steps = steps[:1] + [grade_note] + steps[1:]  # right after the first search
-            return {
+            return hand_off({
                 "question": asked,
                 "understood_as": searched if rewrite_note else None,
                 "answer": result["answer"],
@@ -207,7 +209,7 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None,
                 "trace": trace + steps,
                 "verification": result["verification"],
                 "usage": result["usage"],
-            }
+            })
         except Exception as e:
             trace.append(search_note)
             trace.append({"step": "fallback",
@@ -226,7 +228,7 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None,
     if composed["mode"].startswith("llm"):
         check = verifier.verify(composed["answer"], shown, searched)
         trace.append({"step": "verify", "text": verifier.summary(check), "verdict": check["verdict"]})
-    return {
+    return hand_off({
         "question": asked,
         "understood_as": searched if rewrite_note else None,
         "answer": composed["answer"],
@@ -237,10 +239,48 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None,
         "sub_questions": sub_questions,
         "trace": trace,
         "verification": check,
-    }
+    })
 
 
 FALLBACK_TOKENS = 3000
+
+CONTACTS_PATH = Path(__file__).parent.parent / "data" / "contacts.json"
+_contacts = {}
+
+
+def contacts() -> dict:
+    """Topic -> the office to contact (data/contacts.json, copied by hand from VNIT's pages)."""
+    if not _contacts:
+        data = json.loads(CONTACTS_PATH.read_text(encoding="utf-8"))
+        _contacts.update({k: v for k, v in data.items() if not k.startswith("_")})
+    return _contacts
+
+
+def hand_off(reply: dict) -> dict:
+    """When the answer says the documents don't cover it, add who can help.
+
+    A refusal used to be a dead end. Commercial university assistants route
+    the questions they cannot answer to the right office; here the office comes
+    from a hand-checked file, not from the LLM, so it is not verified again.
+    Only answers written by an LLM qualify: a quoted-passages answer is not a
+    refusal, and a topic with no known office gets nothing rather than a guess.
+    """
+    contact = contacts().get(reply.get("intent"))
+    check = reply.get("verification") or {}
+    written = str(reply["mode"]).startswith(("agent", "llm"))
+    if not (contact and written and (verifier.is_refusal(reply["answer"])
+                                     or check.get("verdict") == "unsupported")):
+        return reply
+    reply["answer"] += (f"\n\n**Who can help:** {contact['office']} — "
+                        f"{contact['email']}, {contact['phone']}")
+    if contact["source_url"] not in {s["url"] for s in reply["sources"]}:
+        reply["sources"] = reply["sources"] + [{"title": contact["office"],
+                                                "url": contact["source_url"], "date": ""}]
+    reply["trace"] = reply["trace"] + [{"step": "handoff", "text": (
+        "I couldn't find this in VNIT's documents, so I've added who to contact."
+        if verifier.is_refusal(reply["answer"]) else
+        "Part of this answer could not be confirmed, so I've added who to contact.")}]
+    return reply
 
 # Pages whose titles best match the question, looked inside when the first
 # search grades weak (grader.py), and passages kept from each.

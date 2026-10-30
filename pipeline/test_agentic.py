@@ -83,6 +83,7 @@ def test_verifier_compares_academic_years_as_units():
 def test_verifier_recognises_refusals():
     assert verifier.is_refusal("I couldn’t find the Wi‑Fi password in the documents.")
     assert verifier.is_refusal("None of the provided documents state the total.")
+    assert verifier.is_refusal("none of the provided VNIT documents contain the password.")
     assert not verifier.is_refusal("The fee is Rs. 32,650.")
 
 
@@ -479,6 +480,41 @@ def test_respond_clarifies_without_an_llm_and_only_once():
         if saved is not None:
             os.environ["GENAI_API_KEY"] = saved
     assert again["mode"] != "clarify", again["mode"]
+
+
+# ---------------------------------------------------------------------------
+# Hand-off to the right office
+# ---------------------------------------------------------------------------
+
+def test_contacts_are_copied_exactly_from_vnit_pages():
+    from pathlib import Path
+    raw = Path(__file__).parent.parent / "data" / "raw"
+    for topic, c in respond.contacts().items():
+        page = (raw / c["source_file"]).read_text(encoding="utf-8")
+        assert c["email"] in page and c["phone"] in page, topic
+        assert f"SOURCE_URL: {c['source_url']}" in page, topic
+
+
+def _finished(answer, intent, verdict="refused", mode="agent (test)"):
+    return {"answer": answer, "intent": intent, "mode": mode, "sources": [], "trace": [],
+            "verification": {"verdict": verdict}}
+
+
+def test_refusal_gets_the_offices_contact():
+    out = respond.hand_off(_finished("None of the documents mention the hostel Wi-Fi password.", "hostel"))
+    assert "**Who can help:** Assistant Registrar, Hostel Section" in out["answer"], out["answer"]
+    assert "AR_HOSTEL@vnit.ac.in" in out["answer"] and "0712-2801373" in out["answer"]
+    assert out["sources"][-1]["url"] == "https://vnit.ac.in/administrative-officers"
+    assert out["trace"][-1]["step"] == "handoff"
+    assert verifier.is_refusal(out["answer"])  # still reads as a refusal to check_answers
+
+
+def test_normal_answer_gets_no_contact():
+    answer = "The hostel fee is Rs. 32,650 [1]."
+    assert respond.hand_off(_finished(answer, "hostel", "verified"))["answer"] == answer
+    # No office known for the topic: nothing is guessed.
+    refusal = "The documents do not say how many companies came."
+    assert respond.hand_off(_finished(refusal, "placement"))["answer"] == refusal
 
 
 if __name__ == "__main__":

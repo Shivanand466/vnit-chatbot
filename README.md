@@ -16,7 +16,7 @@ Final-year project (FYP). Built with free and open-source tools only.
 - The chatbot searches VNIT's web pages and documents, picks the most relevant passages, and an **AI agent** (Groq, free tier) reads them and decides: answer now, or **act** — search again with other words, find a specific document by its title and look inside it, or calculate a total. It then writes a short answer **using only what it found**, with numbered links to the sources.
 - Before the answer is shown, a **verifier** checks every figure, date, email and phone number in it against the documents the agent read. Anything it can't confirm is sent back for one rewrite, and if it still can't be confirmed, the answer says so.
 - Under each answer, **"How I found this"** lists every step the agent took, so you can check its reasoning instead of trusting it.
-- If the answer isn't in VNIT's material, it **says so instead of making something up**. In every test round so far, it has never invented an answer.
+- If the answer isn't in VNIT's material, it **says so instead of making something up**, and adds **who can help**: the right VNIT office's email and phone, copied from VNIT's own contact pages. In every test round so far, it has never invented an answer.
 
 ## How it works (short version)
 
@@ -51,7 +51,7 @@ Final-year project (FYP). Built with free and open-source tools only.
 | Documents | ✅ **406 converted** — every usable document VNIT links: fee sheets, all 19 hostel fee sheets, academic calendars, scholarship notices, admission instructions, timetables, course books, department brochures, placement reports, Academic Rule Book. 599 links found, 456 selected after filters; of those, 33 excluded as lists of people, 5 had no readable text, 3 were Hindi-only and 7 failed (3 are dead links on vnit.ac.in) |
 | Search index | ✅ 8,162 chunks |
 | Answer quality | ✅ **35 of 39** test questions answered correctly end to end by the agent in the last full run; all 5 "impossible" questions correctly refused. Since then the placement question has been fixed (corrective search gate) and passes on re-test, so the saved results read **36/39** (details below) |
-| Agentic layer | ✅ **Added 30 October 2026**: a router (kind of question and topic), a corrective search gate that grades the first search and looks inside the best-titled pages when it is weak, clarifying questions with buttons when a question fits several groups ("What is the hostel fee?" → B.Tech? → Girls?), remembered for the rest of the chat, a planner with four tools (search again, find a document, look inside it, calculate), and a verifier that checks every figure before an answer is shown, with one automatic revision. Every step is visible in the chat page. 41/41 automated tests pass (`pipeline/test_agentic.py`, no key needed) |
+| Agentic layer | ✅ **Added 30 October 2026**: a router (kind of question and topic), a corrective search gate that grades the first search and looks inside the best-titled pages when it is weak, clarifying questions with buttons when a question fits several groups ("What is the hostel fee?" → B.Tech? → Girls?), remembered for the rest of the chat, a "Who can help" office contact when the answer isn't in VNIT's documents, a planner with four tools (search again, find a document, look inside it, calculate), and a verifier that checks every figure before an answer is shown, with one automatic revision. Every step is visible in the chat page. 44/44 automated tests pass (`pipeline/test_agentic.py`, no key needed) |
 | Chat page | ✅ Works; one-click start with `start_chatbot.bat` (Windows). Shows "How I found this", a ✓/⚠ verification badge and numbered citations |
 | Safety | ✅ Keys kept outside the project and never printed; per-visitor rate limit; answers can't inject code into the page; every converted document re-checked against the personal-data filter |
 | Deployment | 🟡 **Public link from the laptop** with `start_public_link.bat` (free Cloudflare tunnel). Not always-online: Hugging Face now charges (PRO) for Docker Spaces, and free hosts with 512 MB of memory are too small (see "Deploying" below) |
@@ -66,7 +66,7 @@ Measured on 30 October 2026, with every question reaching the AI (no quota fallb
 | (same) | The 5 questions whose answers are *not* in VNIT's material | **5/5 correctly refused** (no made-up answers) |
 | (same) | How often the agent decided to use tools | 9 of 39 questions |
 | `check_answers.py --pipeline oneshot` | The same questions through the older one-search, one-call pipeline | being measured: 19/20 so far, the same as the agent on those 20 (see `EXPERIMENTS-LOG.md` §20f) |
-| `test_agentic.py` | The agent's tools, the verifier and the decision loop (no key needed) | **41/41** |
+| `test_agentic.py` | The agent's tools, the verifier and the decision loop (no key needed) | **44/44** |
 | `chunk_ranks.py` | Does the passage holding the answer reach the AI? (32 questions) | 29/32 |
 | `fact_ranks.py` | Is the passage containing the answer among the top 3 found? | 15/18 |
 | `evaluate.py` | Is the right *page or document* among the top 3? (19 questions) | 16/19 |
