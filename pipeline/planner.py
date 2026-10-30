@@ -409,7 +409,7 @@ def run(question: str, report: dict, api_key: str = None, base_url: str = None,
     answer = ""
     rounds = 0
     calculations = []
-    for _ in range(MAX_TOOL_ROUNDS):
+    for _ in range(MAX_TOOL_ROUNDS if switched_on("AGENT_TOOLS") else 0):
         if _estimate_tokens({"messages": messages, "tools": tools.active_schemas()}) > PROMPT_BUDGET:
             break
         try:
@@ -466,7 +466,7 @@ def run(question: str, report: dict, api_key: str = None, base_url: str = None,
                 "write out (e.g. 125000 × 4 = 500000). If you cannot support a figure, leave it "
                 "out and say it was not found. Reply with the corrected answer only.")}]
         try:
-            revised = _chat_text(llm, revision)
+            revised = _chat_text(llm, revision) if switched_on("VERIFY_REVISE") else ""
         except AgentUnavailable:
             revised = ""
         if revised:
@@ -494,6 +494,16 @@ def run(question: str, report: dict, api_key: str = None, base_url: str = None,
                   "tool_calls": sum(1 for t in trace if t["step"] == "tool"),
                   "passages_seen": len(evidence.passages), "passages_cited": len(set(cited))},
     }
+
+
+def switched_on(flag: str) -> bool:
+    """An on/off environment switch, on unless set to off/0/false/no.
+
+    For measuring what each piece contributes (EXPERIMENTS-LOG ablations):
+    AGENT_TOOLS=off answers from the first search with no tools offered, and
+    VERIFY_REVISE=off still verifies and flags, but makes no revision call.
+    """
+    return os.environ.get(flag, "on").strip().lower() not in ("off", "0", "false", "no")
 
 
 def _chat_text(llm: _LLM, messages) -> str:

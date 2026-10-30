@@ -135,7 +135,9 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None,
     topic = None if kind in router.NO_SEARCH else router.intent(searched)
     if topic:
         trace.append({"step": "route", "text": f"Topic: {topic}."})
-        searched, profile_note = slots.apply_profile(searched, topic, profile)
+        # CLARIFY=off switches off the whole of clarify-or-assume, the profile too.
+        searched, profile_note = slots.apply_profile(
+            searched, topic, profile if clarify_enabled() else None)
         if profile_note:
             rewrite_note = True
             trace.append({"step": "understand", "text": profile_note})

@@ -167,6 +167,17 @@ CLARIFY_CHECKS = [
     ("no_clarify_director", "Who is the Director of VNIT?", {}, {"must": [r"Prem\s*Lal\s*Patel"]}),
 ]
 
+# The hard subset, for measuring what each piece of the agent contributes
+# (EXPERIMENTS-LOG ablations) at about a third of a full run's quota: the
+# questions that failed or needed tools on 2026-10-30, the girls' hostel fee,
+# two must-decline questions, both conversations and the clarify cases.
+HARD = [
+    "placements", "msc_tuition", "barch_tuition", "midsem_slot_a", "summer_term_fee",
+    "hostel_fee_girls", "unanswerable_wifi", "unanswerable_old_hostel_fee",
+    "conv_hostel_girls", "conv_mtech_tuition",
+    "clarify_hostel_vague", "clarify_then_answer", "no_clarify_when_specific", "no_clarify_director",
+]
+
 PROCESSED = Path(__file__).parent.parent / "data" / "processed"
 # The agent's results keep the old file name, since the agent is what the chat
 # page runs; the baseline gets its own file so the two can be compared.
@@ -209,7 +220,7 @@ def _score_clarify(name, question, profile, expect, out, results):
         record = {"name": name, "question": question, "pass": ok, "mode": out["mode"],
                   "missing": [] if ok else [f"clarify with {expect['clarify']}"], "forbidden": [],
                   "answer": out["answer"], "sources": [], "profile": profile, "choices": offered,
-                  "verification": None, "usage": None,
+                  "verification": None, "usage": None, "seconds": out.get("seconds"),
                   "trace": [t["text"] for t in out.get("trace", [])]}
         results.append(record)
         print(f"[{'PASS' if ok else 'FAIL'}] {name}  (mode: {out['mode']}, choices: {offered})")
@@ -252,6 +263,7 @@ def _score(name, question, out, must, must_not, results, extra=None):
               "missing": missing, "forbidden": forbidden, "answer": out["answer"],
               "sources": [s["url"] for s in out["sources"]],
               "verification": out.get("verification"), "usage": out.get("usage"),
+              "seconds": out.get("seconds"),
               "trace": [t["text"] for t in out.get("trace", [])]}
     record.update(extra or {})
     results.append(record)
@@ -265,14 +277,14 @@ def _score(name, question, out, must, must_not, results, extra=None):
     return ok
 
 
-def rescore(pipeline: str = "agent"):
+def rescore(pipeline: str = "agent", config: str = ""):
     """Re-mark saved answers with the current patterns, without asking anything again.
 
     For when a pattern was wrong, not an answer: the answers stay exactly as
     the chatbot gave them, only the marking changes, and the change shows up
     in the patterns' history rather than as a hand-edited results file.
     """
-    path = RESULTS_PATHS[pipeline]
+    path = results_path(pipeline, config)
     saved = json.loads(path.read_text(encoding="utf-8"))
     patterns = {name: (must, must_not) for name, _q, must, must_not in CHECKS}
     patterns.update({name: (must, must_not) for name, _t, must, must_not in CONVERSATIONS})
@@ -295,9 +307,24 @@ def rescore(pipeline: str = "agent"):
     print(f"\nAnswer check ({pipeline}, re-scored): {sum(r['pass'] for r in saved)}/{len(saved)} passed")
 
 
-def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bool = False):
+def results_path(pipeline: str = "agent", config: str = "") -> Path:
+    """Where a run's answers are saved: per pipeline, or per named configuration."""
+    return PROCESSED / f"answer_check_{config}.json" if config else RESULTS_PATHS[pipeline]
+
+
+def complete(results, total: int) -> bool:
+    """Every question asked and answered by the LLM (or, for a clarify case, asked back)."""
+    return len(results) == total and all(reached_llm(r["mode"]) or r["mode"] == "clarify"
+                                         for r in results)
+
+
+def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bool = False,
+        subset: str = "", config: str = ""):
     use_agent = pipeline == "agent"
-    path = RESULTS_PATHS[pipeline]
+    path = results_path(pipeline, config)
+
+    def wanted(name):
+        return only in name and (subset != "hard" or name in HARD)
 
     # --resume keeps every saved result that reached the LLM and asks the rest
     # again: a run cut short by the daily quota can be finished the next day
@@ -310,14 +337,14 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
 
     results = []
     asked = 0
-    for name, question, must, must_not in [c for c in CHECKS if only in c[0]]:
+    for name, question, must, must_not in [c for c in CHECKS if wanted(c[0])]:
         if name in kept:
             results.append(kept[name])
             continue
         if asked:
             time.sleep(pause)
         asked += 1
-        out = respond.answer(question, use_agent=use_agent)
+        out = _timed(respond.answer, question, use_agent=use_agent)
         _score(name, question, out, must, must_not, results)
         if _daily_limit(out):
             break
@@ -326,7 +353,7 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
     # exactly as the chat page sends them (`history`). The earlier turns are not
     # answered here -- the rewrite only reads the questions -- which saves a
     # whole answer's worth of quota per conversation.
-    for name, turns, must, must_not in [c for c in CONVERSATIONS if only in c[0]]:
+    for name, turns, must, must_not in [c for c in CONVERSATIONS if wanted(c[0])]:
         if results and _daily_limit_hit(results):
             break
         if name in kept:
@@ -335,13 +362,13 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
         if asked:
             time.sleep(pause)
         asked += 1
-        out = respond.answer(turns[-1], history=turns[:-1], use_agent=use_agent)
+        out = _timed(respond.answer, turns[-1], history=turns[:-1], use_agent=use_agent)
         _score(name, " | ".join(turns), out, must, must_not, results,
                extra={"understood_as": out.get("understood_as")})
         if _daily_limit(out):
             break
 
-    for name, question, profile, expect in [c for c in CLARIFY_CHECKS if only in c[0]]:
+    for name, question, profile, expect in [c for c in CLARIFY_CHECKS if wanted(c[0])]:
         if results and _daily_limit_hit(results):
             break
         if name in kept:
@@ -350,7 +377,7 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
         if asked and "clarify" not in expect:
             time.sleep(pause)
         asked += 1
-        out = respond.answer(question, profile=profile, use_agent=use_agent)
+        out = _timed(respond.answer, question, profile=profile, use_agent=use_agent)
         _score_clarify(name, question, profile, expect, out, results)
         if _daily_limit(out):
             break
@@ -358,7 +385,7 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
     # Once the daily allowance is spent, every further question would fail
     # the same way -- 35 of 39 did on 2026-10-30 -- so the run stops, the
     # failed question is dropped, and --resume asks it and the rest later.
-    total = sum(len([c for c in cases if only in c[0]])
+    total = sum(len([c for c in cases if wanted(c[0])])
                 for cases in (CHECKS, CONVERSATIONS, CLARIFY_CHECKS))
     if results and _daily_limit_hit(results):
         dropped = results.pop()
@@ -399,13 +426,20 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
     # An --only run replaces just its own questions in the saved file; writing
     # the subset alone would throw away the last full run's other answers.
     saved = results
-    if only and path.exists():
+    if (only or subset) and not config and path.exists():
         fresh = {r["name"]: r for r in results}
         old = json.loads(path.read_text(encoding="utf-8"))
         saved = [fresh.pop(r["name"], r) for r in old] + list(fresh.values())
     path.write_text(json.dumps(saved, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"Full answers saved to {path}")
-    return results
+    return results, total
+
+
+def _timed(fn, *args, **kwargs):
+    start = time.time()
+    out = fn(*args, **kwargs)
+    out["seconds"] = round(time.time() - start, 1)
+    return out
 
 
 if __name__ == "__main__":
@@ -421,10 +455,17 @@ if __name__ == "__main__":
     ap.add_argument("--pause", type=float, default=30.0)
     ap.add_argument("--pipeline", choices=sorted(RESULTS_PATHS), default="agent")
     ap.add_argument("--resume", action="store_true")
+    ap.add_argument("--set", default="", choices=["", "hard"], dest="subset",
+                    help="hard: only the HARD questions (for the ablations)")
+    ap.add_argument("--config", default="",
+                    help="save to answer_check_<config>.json, e.g. one per ablation configuration")
     ap.add_argument("--rescore", action="store_true",
                     help="re-mark the saved answers with the current patterns; asks nothing")
     a = ap.parse_args()
     if a.rescore:
-        rescore(a.pipeline)
+        rescore(a.pipeline, a.config)
     else:
-        run(a.only, a.pause, a.pipeline, a.resume)
+        results, total = run(a.only, a.pause, a.pipeline, a.resume, a.subset, a.config)
+        # Exit code 2 when the run is unfinished (daily quota, fallbacks), so a
+        # script can wait and run it again with --resume.
+        sys.exit(0 if complete(results, total) else 2)

@@ -21,3 +21,6 @@ data/feedback/
 *key*.txt
 *secret*.txt
 .env
+
+# Progress log of pipeline/run_ablations.sh
+data/processed/ablation_runs.log

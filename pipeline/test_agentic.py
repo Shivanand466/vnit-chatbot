@@ -605,6 +605,78 @@ def test_rows_sharing_a_lead_in_are_separate_passages():
     assert ev.add(a, a["text"])[0] != ev.add(b, b["text"])[0]
 
 
+# ---------------------------------------------------------------------------
+# Ablation switches: each one fully disables its piece
+# ---------------------------------------------------------------------------
+
+def _with_env(flags, fn):
+    import os
+    saved = {k: os.environ.get(k) for k in flags}
+    os.environ.update(flags)
+    try:
+        return fn()
+    finally:
+        for k, v in saved.items():
+            if v is None:
+                os.environ.pop(k, None)
+            else:
+                os.environ[k] = v
+
+
+def test_agent_tools_off_offers_no_tools():
+    out, sent = _with_env({"AGENT_TOOLS": "off"},
+                          lambda: _run_with([_reply("The fee is **Rs. 32,650** [P1].")]))
+    assert len(sent) == 1 and "tools" not in sent[0], sent
+    assert out["usage"]["tool_calls"] == 0
+
+
+def test_verify_revise_off_flags_without_a_revision_call():
+    out, sent = _with_env({"VERIFY_REVISE": "off"},
+                          lambda: _run_with([_reply("The fee is **Rs. 73,000** [P1].")]))
+    assert len(sent) == 1 and out["verification"]["verdict"] == "unsupported"
+    assert "could not confirm 73,000" in out["answer"]
+    assert not any(t["step"] == "revise" for t in out["trace"])
+
+
+def test_clarify_switch_turns_off_asking_and_assuming():
+    import os
+    saved = os.environ.pop("GENAI_API_KEY", None)
+    try:
+        vague = _with_env({"CLARIFY": "off"},
+                          lambda: respond.answer("What is the hostel fee?", use_agent=False,
+                                                 profile={"programme": "btech"}))
+    finally:
+        if saved is not None:
+            os.environ["GENAI_API_KEY"] = saved
+    assert vague["mode"] != "clarify" and vague["understood_as"] is None, vague["mode"]
+
+
+def test_gate_switch_removes_the_corrective_passages():
+    import requests
+
+    def ask(gate):
+        sent = []
+
+        def fake_post(url, **kw):
+            sent.append(kw["json"])
+            return _reply("The figures are not in the passages.")
+
+        original = requests.post
+        requests.post = fake_post
+        try:
+            out = _with_env({"CRAG_GATE": gate, "GENAI_API_KEY": "test-key"},
+                            lambda: respond.answer(PLACEMENTS, use_agent=True))
+        finally:
+            requests.post = original
+        return out, sent[0]["messages"][1]["content"]
+
+    on, on_prompt = ask("on")
+    off, off_prompt = ask("off")
+    assert any(t["step"] == "grade" for t in on["trace"]) and "678" in on_prompt
+    assert not any(t["step"] == "grade" for t in off["trace"])
+    assert "Search quality:" not in off_prompt and "678" not in off_prompt
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]

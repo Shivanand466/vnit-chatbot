@@ -715,5 +715,243 @@
    "Searched VNIT's pages and documents.",
    "Checked 2 figure(s) against the sources: all found."
   ]
+ },
+ {
+  "name": "dean_academic_name",
+  "question": "Who is the Dean (Academic) at VNIT?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Dr. V. R. Kalamkar**\n\n- Listed as Dean (Academic) on the official “Deans” page of VNIT (https://vnit.ac.in/deans-2026).",
+  "sources": [
+   "https://vnit.ac.in/deans-2026",
+   "https://drive.google.com/file/d/1VYqcetf9bl47iWAIviZ90EAXFI7XN4Kx/view",
+   "https://drive.google.com/file/d/1_hgJglRVNtknD5nhkPsm6xEE6rdTlRat/view",
+   "https://drive.google.com/file/d/1FiXQu6BD4ZcfBqxuC-nxRWid6YkKOYZO/view",
+   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view",
+   "https://vnit.ac.in/director-vnit-nagpur/",
+   "https://drive.google.com/file/d/1kdTKdt7oxbFrpduAZH9cIn14jUzDYM6R/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "dean_planning_email",
+  "question": "What is the email address of the Dean (Planning and Development)?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**deanp_f@vnit.ac.in**\n\n- From the Deans list (2026) – Dr. Ratnesh Kumar, Dean (Planning & Development)  \n- (The 2025 Senate Members list names Dr. Ranjan S. Sonparote, but the 2026 Deans list is more recent.)",
+  "sources": [
+   "https://vnit.ac.in/deans-2026",
+   "https://drive.google.com/file/d/1ki-CGVc5eUAGj7sORvekAj0HLMJjt-E1/view",
+   "https://drive.google.com/file/d/1VYqcetf9bl47iWAIviZ90EAXFI7XN4Kx/view",
+   "https://drive.google.com/file/d/1_JgCKpP1Y-JKrTLIR4b7aTt6ZqywRx-_/view",
+   "https://drive.google.com/file/d/1boP1FGBjjk5WwsVnkLutOAcoLSj-K1Nw/view",
+   "https://drive.google.com/file/d/1leVvr2GEIiWgoKzioLKTNzX3ESh4Zx-5/view",
+   "https://drive.google.com/file/d/10vMEaTpNvk2HLfYn9Z3fNixg51RV6ISs/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "msc_tuition",
+  "question": "What is the yearly tuition fee for M.Sc students at VNIT?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "15,?000"
+  ],
+  "forbidden": [],
+  "answer": "**The tuition fee for M.Sc. students is NIL for both first and second years (for SC/ST students).**  \n- From the “2 Year Fee Estimate for Master of Science” (dated 2024‑04‑16): “Fees per year: Tuition Fee — First Year: NIL; Second Year: NIL.”  \n\n**Note:** This figure applies only to SC/ST students; tuition fees for OPEN/OBC/EWS categories are not mentioned in the provided passages.",
+  "sources": [
+   "https://drive.google.com/file/d/1ARUdONHAu1pFaYGIZ8CRkYBvHbA-jtnu/view",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view",
+   "https://drive.google.com/file/d/1mzxryJP1oaJ5nU6lKur2eEPdl3kZpDNI/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_tuition",
+  "question": "What is the yearly tuition fee for M.Tech students in the OPEN category?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹70,000** per year for M.Tech students in the OPEN category.  \n- 2 Year Fee Estimate for Master of Technology (dated 2024‑04‑16): Tuition Fee — First Year ₹70,000; Second Year ₹70,000.  \n- M Tech Institute Spot Round Admission (ISR) 2024 brochure (dated 2024‑06‑01): Tuition Fee — ₹70,000 per year.  \n\nNote: the figure applies to OPEN/OBC/EWS students for the 2024‑25 academic session.",
+  "sources": [
+   "https://drive.google.com/file/d/1rSmfTQ0R2G5eeI7-WvnVG0Lsf8OdOnzy/view",
+   "https://vnit.ac.in/section/academics/wp-content/uploads/2024/06/Info-Brochure-updated-on-20th-Jun-2024.pdf",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view",
+   "https://drive.google.com/file/d/1rNIoQRRMIVkyBs2m0OivVTgkTNYPwadl/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 8,
+   "supported": 8,
+   "unsupported": []
+  },
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents.",
+   "Checked 8 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_fee_scst",
+  "question": "What tuition fee do SC/ST M.Tech students pay?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Nil tuition fee.**  \n\n- **Common Fees_2026-27** (dated 2026‑08‑07): Tuition Fees (sem I) – M. Tech SC, ST, PWD: nil.  \n- **M.Tech (Research) Information Brochure July 2026** (dated 2026‑05‑04): SC/ST/PwD candidates are given 100 % waiver in tuition fees.  \n- **Fees Information M Tech Admission Through CCMT** (dated 2024‑04‑16): “No Tuition Fees is charged from SC/ ST/ PwD candidates.”  \n\nNote: applies to SC/ST (and PwD) students enrolled in the M.Tech program.",
+  "sources": [
+   "https://drive.google.com/file/d/1ZqAPg85PB2oxYMmorzfmozrNSj8qyGc5/view",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view",
+   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view",
+   "https://vnit.ac.in/section/academics/wp-content/uploads/2024/06/Info-Brochure-updated-on-20th-Jun-2024.pdf",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "barch_tuition",
+  "question": "What is the yearly tuition fee for B.Arch students at VNIT?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "1,?25,?000|125000"
+  ],
+  "forbidden": [],
+  "answer": "The tuition fee for B.Arch students in the SC/ST/PWD category is **Rs. 0 per year**.\n\n- **5 Year Fee Estimate for Bachelor of Architecture** (dated 2024‑04‑16) lists “Tuition Fee – First Year: 0; Second Year: 0; Third Year: 0; Fourth Year: 0; Fifth Year: 0” for SC/ST/PWD students.  \n\nNote: No tuition fee figure is provided for General/OBC/EWS or other categories in the passages.",
+  "sources": [
+   "https://drive.google.com/file/d/1jlvFI-ICnK79qqddsXQc5CankZSgWVZ2/view",
+   "https://drive.google.com/file/d/1iaeXg0Uwv7eVE62reQHPBjU__XX4S2hB/view",
+   "https://vnit.ac.in/section/academics/wp-content/uploads/2023/07/Fees-for-NRI_Foreign-Nationals-for-DASA_ICCR_MEA-Admission.pdf",
+   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_appliances",
+  "question": "Can I keep a refrigerator in my hostel room at VNIT?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**No – refrigerators are not allowed in VNIT hostel rooms.**  \n- The Hostel Information for UG 1st‑Year Students (2025‑08‑16) states that “use of all types of motorised vehicles and electrical appliances viz. … refrigerators … is strictly prohibited (except air coolers in summer).”  \n- The same prohibition appears in the Hostel Admission Information Notices for MBA, M.Tech., Ph.D. and M.Sc. students (dated 2026‑07‑22, 2026‑07‑27, etc.).  \n\nNote: The prohibition applies to all students in all hostel buildings.",
+  "sources": [
+   "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view",
+   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view",
+   "https://drive.google.com/file/d/1EXK3S9BRjD3yXIeY7E6qad9M8-hDbvHm/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "midsem_slot_a",
+  "question": "When is the mid semester exam for slot A in Winter 2026?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "1(st)?\\s*(Oct|October)|(Oct|October)\\s*1"
+  ],
+  "forbidden": [],
+  "answer": "**4 September 2026**\n\n- Mid‑semester exam for Slot A in Winter 2026 is scheduled for 04/09/2026, 2:30 pm‑4:00 pm (UG‑PG Higher Semester Timetable, dated 2026‑08‑28).  \n- Note: This applies to Slot A for all higher‑semester UG & PG programmes.",
+  "sources": [
+   "https://drive.google.com/file/d/1uIEpHZrCq-y9tbKDHSHTcEnQnLINO5g1/view",
+   "https://drive.google.com/file/d/1a0YAtYckbn18GpcfqlOG4THZibdGoXwA/view",
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view",
+   "https://drive.google.com/file/d/1m_7DBXozIR3LFoOn40i5dWyRy5qfXYFY/view",
+   "https://drive.google.com/file/d/165jU5At1xtZFAOU4vkrTWCTSbe20HfO0/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": null,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Searched VNIT's pages and documents.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
  }
 ]
