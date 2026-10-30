@@ -26,7 +26,7 @@ job() {
   local name=$1; shift
   for attempt in $(seq 1 200); do
     echo "[$(date '+%d %b %H:%M')] $name: attempt $attempt" >> "$LOG"
-    env "$@" --resume 2>&1 | grep --line-buffered -E "^\[(PASS|FAIL)\]|Answer check|STOPPED" >> "$LOG"
+    env "$@" --resume 2>&1 | grep --line-buffered -E "^\[(PASS|FAIL)\]|Answer check|STOPPED"       | sed -u "s/^/  $name: /" >> "$LOG"
     if [ "${PIPESTATUS[0]}" -eq 0 ]; then
       echo "[$(date '+%d %b %H:%M')] $name: done" >> "$LOG"
       return 0
@@ -53,6 +53,8 @@ agent_track() {
   job "full (all questions)" "$PY" check_answers.py --config full
 }
 
+# Stopping this script (Ctrl+C, closing the window) stops both tracks too.
+trap 'kill 0' INT TERM
 echo "[$(date '+%d %b %H:%M')] started" >> "$LOG"
 oneshot_track &
 agent_track &
