@@ -2,10 +2,16 @@
 Minimal API for the VNIT website chatbot pilot.
 
 POST /ask {"question": "...", "history": ["earlier question", ...]} ->
-retrieves, decomposes, and composes an answer (LLM if GENAI_API_KEY is set and
-reachable, extractive otherwise). `history` is optional; it lets a follow-up
-like "and for girls?" be rewritten to stand on its own (see followup.py), and
-the response says so in `understood_as`.
+answers through respond.answer: the agent (planner.py) reads a first search,
+may search again, open a document or calculate, and every figure in its answer
+is checked against the sources (verifier.py). Without a key or quota it falls
+back to a one-shot answer, then to quoting passages. `history` is optional; it
+lets a follow-up like "and for girls?" be rewritten to stand on its own (see
+followup.py), and the response says so in `understood_as`.
+
+The response also carries `trace` (the steps taken, shown in the chat page as
+"How I found this"), `verification` (the verifier's verdict) and, for agent
+answers, `usage` (LLM calls, tokens, tool calls).
 
 POST /feedback {"question": "...", "answer": "...", "rating": "up"|"down"}
 appends one line to data/feedback/feedback.jsonl, so a demo week produces real
@@ -35,9 +41,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
-import agent
-import followup
-import generate
+import respond
 
 
 @asynccontextmanager
@@ -45,7 +49,7 @@ async def lifespan(app):
     # Load the index and the search/rerank models before accepting requests,
     # so the first real question isn't the slow one (~20s of model loading).
     try:
-        agent.answer("warm up")
+        respond.warm_up()
         print("Models loaded - chatbot ready.")
     except Exception as e:
         print(f"Warm-up skipped ({type(e).__name__}: {e}); first question will be slower.")
@@ -138,23 +142,10 @@ def ask(q: Question, request: Request):
         raise HTTPException(400, f"Please keep questions under {MAX_QUESTION_CHARS} characters.")
     _check_rate_limit(_client_ip(request))
 
-    # A follow-up ("and for girls?") is rewritten to stand on its own before
-    # retrieval, which has no memory of the conversation.
+    # respond.answer owns the whole hierarchy: resolve a follow-up, decide what
+    # kind of message this is, search only if it needs searching, then compose.
     history = [h.strip()[:MAX_QUESTION_CHARS] for h in q.history if h and h.strip()][-MAX_HISTORY:]
-    searched, note = followup.resolve(question, history)
-
-    report = agent.answer(searched)
-    composed = generate.compose_answer(report)
-    return {
-        "question": question,
-        # Only set when the question was rewritten, so the page can show the
-        # guess rather than silently answering something else.
-        "understood_as": searched if note else None,
-        "answer": composed["answer"],
-        "sources": composed["sources"],
-        "mode": composed["mode"],
-        "sub_questions": [sq["sub_question"] for sq in report["sub_questions"]],
-    }
+    return respond.answer(question, history)
 
 
 @app.post("/feedback")

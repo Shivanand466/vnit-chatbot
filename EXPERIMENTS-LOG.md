@@ -139,7 +139,7 @@ Left failing deliberately. The chatbot says it cannot find the figures rather th
 
 ## 17. Final measurement: the full corpus (2026-10-03)
 
-Experiments 10–16 were measured with 185 documents indexed. Re-measured after converting everything VNIT links — 81 pages + 406 documents, 8,147 chunks, 2.2× the chunks of the §12–16 runs:
+Experiments 10–16 were measured with 185 documents indexed. Re-measured after converting everything VNIT links — 81 pages + 406 documents, 8,162 chunks, 2.2× the chunks of the §12–16 runs:
 
 | Check | 148 docs (09-22) | 185 docs (10-02) | **406 docs (10-03)** |
 |---|---|---|---|
@@ -218,6 +218,54 @@ Tuning the per-source pool cap against it (the final results were coming back wi
 4 is adopted: it wins on the benchmark that runs the real path and on `fact_ranks`, and costs one question on `evaluate`'s page-level measure. Passages per sub-question were also raised 5 → 7 with the context budget 6,000 → 7,000 chars, because pooling spreads the answer-bearing passage a little wider and at 5 the girls' fee sheet lost the budget race.
 
 **A warning about free-tier limits as a measurement hazard:** sending 7 passages instead of 5, plus a rewrite call per conversation turn, pushed the suite over Groq's per-minute token allowance part-way through a run. Every question after that point fell back to extractive and scored as a failure — 31/39 became 21/39, then 0/39, which reads as a collapse in quality and is nothing of the sort. `check_answers.py` now prints a warning naming the affected questions and the reason, and paces at 30s. Any measurement run on a free tier should be read with that in mind.
+
+## 20. The agentic layer: planner, tools, verifier (2026-10-30)
+
+The one-shot pipeline searched once and printed whatever the LLM wrote; README listed "the planner and verifier" as the missing agentic pieces. Built in `planner.py`, `tools.py` and `verifier.py` (design in APPLICATION.md §5a). The principle throughout: the tuned first search is the agent's first observation, not something it replaces, so a question the old pipeline answered is answered from the same passages.
+
+### 20a. What the free tier forced
+
+- **Groq counts the requested `max_tokens` against the 8,000-tokens-a-minute allowance up front.** At `max_tokens` 2,000, a question with one tool round (call 1 ≈ 4,200 tokens with its reservation, call 2 ≈ 5,500) could never fit in a minute, and *every* tool-using question was refused with a 429 and fell back. Lowered to 1,200, plus a pacer that reads `x-ratelimit-remaining-tokens` and waits the few seconds the refill needs. Measured afterwards: tool-using questions wait 15–45 s for quota instead of failing.
+- **The daily allowance (~200,000 tokens per model per rolling 24 h) is the real limit for measurement.** The first full agent run reached the LLM on 3 questions; the other 35 were refused, because a day of building and testing had spent gpt-oss-20b's allowance. Two fixes: (1) the agent runs on `gpt-oss-120b` and the fallback on `gpt-oss-20b`, which have separate allowances, so in use the fallback survives the agent's quota running out; (2) the daily limit is recognised from Groq's error text and stops the run at once, and `check_answers.py --resume` finishes it later without re-asking answered questions.
+- **A bug the daily limit exposed:** Groq writes "try again in 12m3.2s"; the parser read only the trailing seconds and retried after 3.2 s. Fixed and tested.
+
+### 20b. What gpt-oss did that the design had to absorb
+
+- **It called tools it was not offered.** For the final answer, tools were withdrawn, but with tool calls still in the conversation the model kept emitting them (including `read_document` with `cursor`/`loc` arguments, from the browsing tool it was trained with), and Groq returned `400 tool_use_failed`; with retries and quota waits, two questions took ~150 s and then fell back. The final answer is now written from a clean prompt holding every passage found and no tool history; it has not happened since.
+- **It wrote citations several ways:** `[P3]`, `[P3, P5]`, `【P3】`, `[**P3**]`, plus stray `【commentary】`. All are normalised to `[1]`, `[2]` matching the sources list; unknown labels are removed and recorded in the trace.
+
+### 20c. The placements question: the tool works, the planner does not choose it
+
+`read_document` on the T&P page returns the paragraph with **678 students and 170 organisations** at rank 1 (`test_agentic.py` pins this) — the page-level stage §16 asked for. But neither gpt-oss-20b nor gpt-oss-120b opens that page by itself: both open the *2025-26 Placement Report* (which has internship seat counts, not totals), search it a second time, and then correctly say the figures are not in what they found. Two changes were tried to steer it, both kept because they improved what the agent sees without hurting anything measured:
+- a list of pages whose **titles** match the question is shown with every search (~60 tokens). Title matching first ranked hostel-fee notices above the T&P page, because "placed" ≠ "Placement" and "students" is in a hundred titles; stems (first five letters) and rarity weighting (IDF over titles) fixed that, and the programme/year/gender filter now applies to titles too, so "B.Tech girls" no longer lists the M.Tech sheet first;
+- a line in the prompt: if a document you opened does not hold the answer, look for another page; headline figures are often on a section's own page.
+The T&P page now appears second in the list the agent is shown. It still picks the report. This is left as the one known planning failure, with the honest outcome that the agent declines rather than quoting 2024-25 numbers.
+
+### 20d. Verifier findings
+
+Deterministic checking of figures, dates, emails and phone numbers caught a real problem in its first live use and three of its own bugs:
+- **Real catch:** asked for four years of B.Tech tuition, the first draft stated ₹5,00,000 with no visible derivation. Flagged; the revision wrote out 1,25,000 × 4 = 5,00,000, whose arithmetic the verifier checks; verified.
+- **Own bugs, each now a test:** a phone number at the end of a sentence ("…5522.") was missed; "Total = 125,000 × 4 = 500,000" was mis-parsed because the scan paired "Total =" with the first number; and an academic year written "2026-27" was flagged against a source saying "2026-2027" (the "27" checked alone). Academic years are now compared as units.
+
+### 20e. Harness fault, again (§18d's lesson)
+
+The first scoring of the agent run showed **31/39**, with four "must decline" questions failing. All four answers were read by hand: every one was a correct refusal ("none of the provided documents contain information about…"), a phrasing the refusal pattern did not include. The one-shot run then produced a fifth ("No passage provides the hostel Wi-Fi password"). The pattern was widened for both phrasings, and `check_answers.py --rescore` re-marks the saved answers without asking anything again, so the correction is in the pattern's history rather than in a hand-edited results file. Only those five results changed.
+
+### 20f. Results
+
+`check_answers.py`, 39 cases, every question reaching the LLM (agent: gpt-oss-120b; 2026-10-30):
+
+| | agent | one-shot baseline |
+|---|---|---|
+| End-to-end | **35/39** | in progress: **19/20** on the questions answered so far (the agent scores 19/20 on the same 20) |
+| Must-decline questions refused | **5/5** | 2/2 so far |
+| Tools used | on 9/39 questions | — |
+| Tokens per question (average) | 4,815 | not recorded (one call, ~3,000 by the prompt size of §20a) |
+| Verifier verdicts | 30 verified, 4 refusals, 4 nothing to check, 1 flagged (the "2026-27" false alarm of §20d, since fixed) | — |
+
+The four agent failures are the documented weak spots, not new ones: placements (§20c), M.Sc and B.Arch tuition (the OCR-damaged fee tables of §18d; the answer passage is outside the top 12 and at rank 9 in `chunk_ranks.py`, and the agent's two extra searches did not reach it either), and slot-A mid-sem (§18e, a per-slot timetable row). Questions where tools made the difference include the summer-term per-course fee (₹3,000, which §18e listed as failing: the agent opened the Summer Term 2026 notice and found it) and the girls' hostel fee in an earlier live test (it opened the hostel admission procedure).
+
+Retrieval benchmarks are unchanged, as they should be (the first search is untouched): `evaluate.py` 16/19, `fact_ranks.py` 15/18, `chunk_ranks.py` 29/32. `test_agentic.py`: 29/29.
 
 ## Ideas not tried (would need more time/budget to responsibly test)
 

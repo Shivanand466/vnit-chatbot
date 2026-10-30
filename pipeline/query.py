@@ -201,6 +201,64 @@ def retrieve(question: str, k: int = 3):
     return results
 
 
+def _as_result(c, score):
+    return {"score": float(score), "text": c["text"], "title": c["title"],
+            "source_url": c["source_url"], "fetched": c.get("fetched", "")}
+
+
+_catalogue_cache = {"mtime": None, "sources": None}
+
+
+def list_sources():
+    """Every page and document in the index, once each: title, url, date, chunk ids.
+
+    The agent's `find_documents` tool searches this, so it can go straight to
+    "the 2025-26 placement report" instead of hoping a passage of it ranks.
+    """
+    data = load_index()
+    if _catalogue_cache["mtime"] != _index_cache["mtime"]:
+        sources = {}
+        for i, c in enumerate(data["chunks"]):
+            s = sources.setdefault(c["source_url"], {
+                "title": c["title"], "url": c["source_url"],
+                "date": c.get("fetched", ""), "chunk_ids": []})
+            s["chunk_ids"].append(i)
+        _catalogue_cache["sources"] = list(sources.values())
+        _catalogue_cache["mtime"] = _index_cache["mtime"]
+    return _catalogue_cache["sources"]
+
+
+def retrieve_within(question: str, source_urls, k: int = 4):
+    """Like retrieve(), but only over the chunks of the given pages/documents.
+
+    This is the page-level stage that EXPERIMENTS-LOG.md §16 called for: the
+    2025-26 placement figures sit in one paragraph of the T&P page, which ranks
+    293rd corpus-wide behind hundreds of company-list passages -- but within
+    that one page, competing only with its own 22 chunks, it is easy to find.
+    """
+    data = load_index()
+    chunks = data["chunks"]
+    wanted = set(source_urls)
+    ids = [i for i, c in enumerate(chunks) if c["source_url"] in wanted]
+    if not ids:
+        return []
+
+    if data.get("type", "tfidf") == "embeddings":
+        model = _get_embedding_model(data["model_name"])
+        q = model.encode([question], normalize_embeddings=True)
+        sims = cosine_similarity(q, data["embeddings"][ids])[0]
+    else:
+        sims = cosine_similarity(data["vectorizer"].transform([question]), data["matrix"][ids])[0]
+
+    # A single document is small enough to rerank whole (the largest has a few
+    # hundred chunks; the cap keeps the cross-encoder's work bounded).
+    by_sim = sims.argsort()[::-1][:RERANK_POOL]
+    pool = [ids[j] for j in by_sim]
+    sim_of = {ids[j]: sims[j] for j in by_sim}
+    ranked = _rerank(question, chunks, pool)[:k]
+    return [_as_result(chunks[i], sim_of[i]) for i in ranked]
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("question")

@@ -3398,5 +3398,52 @@
   "title": "Gallery",
   "tier": 2,
   "seconds": 1668
+ },
+ "drive:1QF-4xDVx_Ltld7ldOqtDjyd8gK2cs05C": {
+  "result": "ok",
+  "words": 2997,
+  "file": "doc_1QF-4xDVx_Ltld7ldOqtDjyd8gK2cs05C.txt",
+  "title": "Vol I Issue I",
+  "tier": 2,
+  "seconds": 2518
+ },
+ "drive:1In5LlODvePl8yo3geWGB0JXYgUCplR6g": {
+  "result": "error",
+  "error": "timeout",
+  "title": "Gazette Notification NIT-Statutes Dated 23 April 2009"
+ },
+ "web:https://vnit.ac.in/engineering/mech/wp-content/uploads/2025/07/M.-Tech.-PIE-course-book-Oct-2024-1.pdf": {
+  "result": "ok",
+  "words": 12642,
+  "file": "doc_ontent_uploads_2025_07_M_Tech_PIE_course_book_Oct_2024_1_pdf.txt",
+  "title": "Production and Industrial Engineering",
+  "tier": 2,
+  "seconds": 1453
+ },
+ "drive:1IKZVCykor8ZOw4NwfYc-k3KoqUJ2qazr": {
+  "result": "ok",
+  "words": 6074,
+  "file": "doc_1IKZVCykor8ZOw4NwfYc-k3KoqUJ2qazr.txt",
+  "title": "Annexure 1",
+  "tier": 2,
+  "seconds": 1355
+ },
+ "web:http://vnit.ac.in/wp-content/uploads/2023/04/center_for_materials.pdf": {
+  "result": "ok",
+  "words": 3131,
+  "file": "doc__wp_content_uploads_2023_04_center_for_materials_pdf.txt",
+  "title": "Material Engineering Centre",
+  "tier": 2,
+  "seconds": 1635
+ },
+ "web:http://vnit.ac.in/wp-content/uploads/2023/04/20210318_YUKTI-Sanchita-2021.pdf": {
+  "result": "error",
+  "error": "timeout",
+  "title": "Yukti-Sanchita"
+ },
+ "web:https://vnit.ac.in/wp-content/uploads/2022/12/ESTABLISHMENT_MANUAL.pdf": {
+  "result": "error",
+  "error": "timeout",
+  "title": "Establishment Manual"
  }
 }

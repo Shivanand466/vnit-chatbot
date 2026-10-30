@@ -12,24 +12,26 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 - **Zero budget.** Free and open-source only. The LLM is Groq's free API; retrieval runs locally.
 - **Honesty over coverage.** When the answer isn't in its sources, it must say so, never guess.
 
-**In one sentence:** crawl the website and its linked documents into plain text → split into ~150-word chunks → index them two ways (meaning and keywords) → for each question, find candidate chunks with hybrid search, re-order them with a reranker, and have an LLM write a cited answer from only those chunks → serve it through a small web API and chat page.
+**In one sentence:** crawl the website and its linked documents into plain text → split into ~150-word chunks → index them two ways (meaning and keywords) → for each question, find candidate chunks with hybrid search and a reranker, then hand them to an **agent** that decides whether they answer the question or whether to act (search again, open a specific document, calculate), writes a cited answer, and has every figure in it **verified** against the sources → serve it through a small web API and chat page that shows each step.
 
 ---
 
-## 2. Status (as of 2026-10-03)
+## 2. Status (as of 2026-10-30)
 
 | Part | Status |
 |---|---|
 | Web pages | **81** pages crawled from vnit.ac.in |
 | Documents (PDF notices, fee sheets, calendars…) | **406 converted** (`data/raw/doc_*.txt`). 599 found, 456 selected; of those, 33 excluded as lists of people, 5 no readable text, 3 Hindi-only, 7 failed (3 are dead links on vnit.ac.in). Re-run `ingest_documents.py convert`; it skips finished ones |
-| Chunks in the index | **8,147** |
+| Chunks in the index | **8,162** |
 | Retrieval | Title-prefixed chunks → hybrid (sentence embeddings + TF-IDF keywords) → programme/year contradiction filter → 60-candidate cross-encoder reranking → up to 5 passages per (sub-)question |
 | Page-level benchmark (`evaluate.py`, 19 questions) | 16/19 |
 | Answer-chunk ranks (`fact_ranks.py`) | **15/18** |
 | Real-path retrieval (`chunk_ranks.py`, 32 questions through `agent.answer`) | **29/32** have the answer-bearing passage among the 7 sent to the LLM; 26/32 in the top 3 |
-| End-to-end answer check (`check_answers.py`, 39 cases) | **31/39** on the last complete run; the retrieval changes made after it are measured only by `chunk_ranks.py` so far, because Groq's free daily token quota ran out — re-run to confirm (see §6) |
-| LLM | Groq `openai/gpt-oss-20b` (free tier) |
-| API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-03. Follow-up questions ("and for girls?") and a thumbs up/down rating on every answer |
+| End-to-end answer check (`check_answers.py`, 39 cases) | **35/39** through the agent (2026-10-30), every question reaching the LLM; 5/5 must-decline questions refused. One-shot baseline on the same questions being measured (19/20 so far, equal to the agent on those 20). See §6 and EXPERIMENTS-LOG §20 |
+| LLM | Groq free tier: `openai/gpt-oss-120b` for the agent, `openai/gpt-oss-20b` for the one-shot fallback and follow-up rewriting (separate daily allowances, §5a) |
+| Agentic layer (added 2026-10-30) | Router → follow-up resolver → first search → **planner** with four tools (`search_vnit`, `find_documents`, `read_document`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported. Falls back to the one-shot pipeline if the agent cannot run. See §5a |
+| Agent tests (`test_agentic.py`, no key needed) | **29/29** |
+| API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-30. Follow-up questions ("and for girls?"), a "How I found this" panel listing the agent's steps, a verification badge, numbered citations, and a thumbs up/down rating on every answer |
 | Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
 ---
@@ -55,7 +57,8 @@ vnit-chatbot/
 │   └── processed/
 │       ├── chunks.jsonl
 │       ├── index.pkl
-│       └── answer_check.json  <- last end-to-end answer check results
+│       ├── answer_check.json  <- last end-to-end answer check (agent pipeline)
+│       └── answer_check_oneshot.json <- same questions, one-shot pipeline (baseline)
 └── pipeline/
     ├── fetch_utils.py         <- polite HTTP fetch, robots.txt check, link extraction
     ├── crawl.py / recrawl.py  <- discover new pages / refresh known pages
@@ -66,9 +69,16 @@ vnit-chatbot/
     ├── build_index.py         <- embeddings + TF-IDF index; pre-downloads the reranker
     ├── followup.py            <- rewrites "and for girls?" to stand on its own
     ├── programme_terms.py     <- which programme/year/gender a text is about
-    ├── query.py               <- hybrid search + contradiction filter + reranking
+    ├── query.py               <- hybrid search + contradiction filter + reranking;
+    │                             document catalogue and search-inside-one-document
     ├── agent.py               <- splits compound questions, retrieves per part and whole
-    ├── generate.py            <- builds the prompt, calls the LLM, extractive fallback
+    ├── router.py              <- greeting / capability / out-of-scope / lookup, before any search
+    ├── respond.py             <- the one entry point: resolve → route → search → agent → verify
+    ├── planner.py             <- the agent: decides, calls tools, answers, revises once
+    ├── tools.py               <- the agent's tools + the numbered evidence log ([P1], [P2]…)
+    ├── verifier.py            <- checks every figure/date/email/phone against the passages
+    ├── generate.py            <- one-shot prompt, shared answer rules, extractive fallback
+    ├── test_agentic.py        <- 29 tests for tools, verifier and agent loop (no key needed)
     ├── feedback_summary.py    <- counts the thumbs up/down ratings
     ├── evaluate.py            <- page-level benchmark
     ├── fact_ranks.py          <- answer-chunk rank check (no LLM needed)
@@ -110,6 +120,8 @@ This matters twice over:
 
 ## 5. How a question is answered
 
+Everything goes through `respond.answer` (the API and `check_answers.py` alike). Before any search, `router.route` decides what kind of message it is: a greeting, thanks, "what can you do?" or an obviously out-of-scope request gets a fixed reply with no search and no LLM call; anything else is a lookup. A lookup runs steps 0–2 below (the first search), then the agent of §5a. Step 3 is the one-shot composer, which is now the agent's fallback and the measured baseline.
+
 0. **Resolve a follow-up** (`followup.resolve`): retrieval has no memory, so "and for girls?" matches nothing on its own. When a question cannot stand alone — it opens with a connective ("and…", "what about…") or carries a referring word with no subject of its own — it is rewritten against the last three questions, and the chat page shows the result as "Understood as: …". The rewrite is one short LLM call (`reasoning_effort: "low"`, measured at ~117 completion tokens); if there is no key or the call fails, the previous question and the follow-up are glued together, which reads awkwardly but still retrieves. An ordinary question is never touched and costs nothing extra.
 1. **Split** (`agent.decompose`): "X and Y" becomes two sub-questions when both parts are real questions. A pronoun in the second part is replaced by the first part's subject ("...and when was **it** announced" → "when was **the 5G lab** announced").
 2. **Retrieve** (`query.retrieve`) for each sub-question, and also for the whole question (splitting can lose shared context):
@@ -124,13 +136,49 @@ This matters twice over:
 4. **Fallback:** if there's no key or the LLM call fails, the answer is built from the top passages directly, and `mode` says `extractive (reason)`. The API always reports `mode`, and the chat page shows it. An *empty* answer counts as a failure too: gpt-oss-20b can spend its whole token budget on its reasoning channel and return no content, which was briefly shown to a user as a blank answer, so `generate.py` retries once with `reasoning_effort: "low"` and then falls back to extractive.
 5. **Rating** (`POST /feedback`): each answer carries thumbs up/down. A rating appends one JSON line to `data/feedback/feedback.jsonl` — timestamp, rating, question, answer, mode — with no IP address, since counting useful answers does not require knowing who asked. The file is gitignored: it holds real students' questions, which are their data, not the project's source. It has its own rate-limit bucket so rating answers cannot consume someone's allowance of questions.
 
+### 5a. The agent: plan, act, verify (`planner.py`, `tools.py`, `verifier.py`)
+
+The one-shot pipeline searched once and printed whatever the LLM wrote. When that search missed, it could only say "not found", and nothing checked the answer it did give. The agent adds both:
+
+```
+ first search (steps 0-2) ──► agent reads the passages ──► answer? ──yes──► verify ──ok──► reply
+                                    ▲                        │ no                 │ unsupported
+                                    │                        ▼                    ▼
+                                    └──── observe ◄──── call tools          revise once, re-verify;
+                                     (up to 2 rounds)  search_vnit           still unsupported →
+                                                       find_documents        visible warning
+                                                       read_document
+                                                       calculate
+```
+
+1. **Observe.** The first search's passages — exactly the ones the one-shot path would send — go to the LLM, labelled `[P1]`, `[P2]`… with the document each comes from (`doc S57`). Below them is a short list of pages whose *titles* match the question, so the agent can see a relevant page even when none of its paragraphs ranked.
+2. **Decide.** If the passages answer the question, the agent answers straight away: one LLM call, the same cost as before. Otherwise it acts.
+3. **Act** with four tools (OpenAI-style function calling, which Groq supports):
+   - `search_vnit(query)` — search everything again with other words (3 passages back);
+   - `find_documents(keywords)` — find pages/documents by title. Titles are matched on word stems weighted by rarity (so "placement" counts for far more than "students"), with the academic year and the programme/year/gender contradiction filter of `programme_terms.py` applied to titles too;
+   - `read_document(document_id, query)` — search *inside one* page or document (`query.retrieve_within`). This is the page-level stage EXPERIMENTS-LOG §16 asked for: the T&P paragraph holding the 2025-26 placement figures ranks 293rd corpus-wide but 1st inside its own page;
+   - `calculate(expression)` — exact arithmetic (an AST walker, never `eval`), so totals are not done "in the head".
+   Up to 2 rounds, at most 2 tool calls per round. A tool that fails returns an error message the model can correct, never an exception.
+4. **Answer** with citations `[P3]`. The final answer is written from a clean prompt holding every passage found (no tool history): with the tool calls still in the conversation, gpt-oss kept calling tools even when none were offered, and Groq rejected the reply (`400 tool_use_failed`).
+5. **Verify** (`verifier.py`, plain code, no LLM): every figure ≥ 10, date, email and phone number in the answer must appear in a passage the model was shown, be a `calculate` result, or be the visible result of arithmetic written in the answer ("1,25,000 × 4 = 5,00,000", whose arithmetic is checked). Number formats are normalised (Indian grouping, lakh ↔ digits, phone numbers split differently, "19 th" → "19th"). It cannot judge names or whether a figure is attached to the right label — it checks what can be checked exactly, which is also where a wrong answer does most harm (fees, deadlines).
+6. **Revise.** If anything is unsupported, the model is told which figures and gets one rewrite; the rewrite is verified again. If it still fails, the answer ends with "Note: I could not confirm X…", and the chat page shows a warning badge.
+7. **Cite.** `[P3]` labels become `[1]`, `[2]` numbered by the sources list, which holds only the pages actually cited. Citations to passages never shown are removed and recorded. A refusal lists no sources.
+
+Every step is returned as `trace` and shown under each answer as **"How I found this"**; `verification` drives the badge ("✓ 4 figures checked against sources" / "⚠ not confirmed: …"); `usage` records LLM calls, tokens, tool calls and time spent waiting for quota.
+
+**Budget.** Groq's free tier allows 8,000 tokens a minute *per model*, and counts the requested `max_tokens` up front. One agent call is ~3,000 prompt tokens. So: `max_tokens` is 1,200 (at 2,000 a tool round's second call was always refused); tool results are 3 passages; a passage already shown is referred to by label only; the agent stops acting when its prompt would exceed 6,000 tokens; and a process-wide pacer reads Groq's `x-ratelimit-remaining-tokens` header and waits the few seconds the refill needs instead of running into a 429. A question that uses tools typically costs ~10,000 tokens and 30–70 seconds on the free tier; one answered from the first search costs ~3,000 tokens and a few seconds.
+
+**Two models, two allowances.** The free tier also caps each model at roughly 200,000 tokens per rolling 24 hours. A full 39-question check through the agent needs ~230,000. So the agent runs on `openai/gpt-oss-120b` (`AGENT_MODEL`), the larger model of the same family, which is also better at choosing tools; the one-shot fallback and the follow-up rewrite stay on `openai/gpt-oss-20b` (`GENAI_MODEL`). When one model's daily allowance is spent, the other still answers. The daily limit is recognised from Groq's error text and stops the agent at once, rather than waiting and retrying.
+
+**Fallback.** If the agent cannot run (no key, quota spent, network), `respond.py` writes the answer in one step from the same first search (`generate.llm_answer`), which itself falls back to quoting passages — and the one-shot answer is still verified, since the check needs no LLM. `AGENT_MODE=off` forces the one-shot path.
+
 ---
 
 ## 6. Measured quality
 
-Run on 2026-10-03 with 81 pages + 406 documents (8,147 chunks). Full answers: `data/processed/answer_check.json`.
+Run on 2026-10-03 with 81 pages + 406 documents (8,162 chunks). Full answers: `data/processed/answer_check.json`.
 
-> **Status of these numbers.** The 18-question answer check scored **17/18**. It was then widened to **39 cases** (34 facts, 5 that must be declined, 2 two-turn conversations), which immediately found four real bugs — see EXPERIMENTS-LOG.md §18. The widened suite's last complete run was **31/39**; the retrieval changes made after it (pooling both phrasings, per-source cap 4, 7 passages per sub-question) are so far measured only by `chunk_ranks.py`, because the day's free Groq quota ran out. **Re-run `check_answers.py` once the quota resets** to get a final end-to-end figure. The honest reading today: retrieval is measurably better than when 17/18 was recorded, on a test set twice the size, and the end-to-end number needs confirming.
+> **Latest (2026-10-30), with the agent:** **35/39** on the 39-case check (34 facts, 5 that must be declined, 2 two-turn conversations), every question reaching the LLM, all 5 must-decline questions refused; the agent used tools on 9 of the 39. The four failures are the documented weak spots (placements, M.Sc and B.Arch tuition, slot-A mid-sem). Details, the baseline comparison and what the agent changed are in EXPERIMENTS-LOG.md §20. The tables below are the 18-question rounds of September and October, kept as the history of how retrieval got here.
 
 | Check | 148 documents (2026-09-22) | 406 documents (2026-10-03) |
 |---|---|---|
@@ -191,3 +239,6 @@ Earlier rounds: adding titles to chunks 11 → 12/18; sending 5 passages instead
 | `GENAI_BASE_URL` | `https://api.groq.com/openai/v1` | Any OpenAI-compatible provider |
 | `GENAI_MODEL` | `openai/gpt-oss-20b` | If Groq retires it (404 `model_not_found`), pick a current one from `GET {base_url}/models` |
 | `VNIT_KEY_FILE` | `%USERPROFILE%\vnit-secrets.txt` | Google Drive API key file |
+| `AGENT_MODE` | `on` | `off` answers every lookup with the one-shot pipeline instead of the agent |
+| `AGENT_MODEL` | `openai/gpt-oss-120b` | The agent's model. Kept different from `GENAI_MODEL` on purpose: Groq's free daily allowance (~200,000 tokens) is per model, so when the agent's runs out, the one-shot fallback still has its own |
+| `GENAI_TOKENS_PER_MINUTE` | `8000` | The provider's per-minute token allowance, used by the agent's pacer until the first response's headers report the real figure |

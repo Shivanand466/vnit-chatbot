@@ -80,35 +80,71 @@ def compose_extractive(report: dict) -> dict:
     }
 
 
-def llm_answer(report: dict, api_key: str = None, base_url: str = None, model: str = None) -> dict:
-    """Compose a proper natural-language answer via an OpenAI-compatible chat
-    completion endpoint (works with Groq, OpenRouter, Together, etc. -- any
-    provider with an OpenAI-compatible /chat/completions route).
+# How to reason over the passages and how to write the answer. Shared by the
+# one-shot prompt below and the agent's system prompt (planner.py), so both
+# paths answer by the same rules; the wording is the one measured in
+# EXPERIMENTS-LOG.md §18-19.
+ANSWER_GUIDE = (
+    "Work in this order:\n"
+    "1. Decide which passages actually concern the question. Ignore the rest — "
+    "they were retrieved by keyword similarity and some will be irrelevant. "
+    "Never stretch an unrelated passage into an answer.\n"
+    "2. If no passage answers the question, say so in one sentence and stop. "
+    "Suggest what the student could ask instead, or where on vnit.ac.in to look. "
+    "Do not assemble an answer out of loosely related material.\n"
+    "3. If the passages answer it, work out the answer. You may do arithmetic "
+    "and combine facts across passages (e.g. multiply a yearly fee by the number "
+    "of years), showing the calculation. Use ordinary reasoning for anything the "
+    "passages don't need to state, such as what a date implies about a deadline.\n"
+    "4. If the question is partly covered, answer that part and say plainly which "
+    "part you could not find.\n\n"
+    "Write the answer like this:\n"
+    "- Start with the direct answer in one short sentence, with the key figure, "
+    "date or name in **bold**. No preamble.\n"
+    "- Then, only if there is more to say, a short bullet list of the supporting "
+    "details, each naming the document or page it comes from.\n"
+    "- Put any condition the student must notice on its own line, starting with "
+    "'Note:' — which category, programme, year or gender a figure applies to, or "
+    "that a document is older than others.\n"
+    "- Keep it under 120 words unless the question genuinely needs a list. "
+    "No headings, no tables unless comparing three or more things.\n\n"
+    "Rules: state which group a figure applies to (OPEN/OBC/EWS vs SC/ST/PwD, "
+    "programme, year of study, boys/girls) whenever the passages make that "
+    "distinction. When dated documents disagree, use the most recent and give its "
+    "date. Never invent a figure, date, name or link."
+)
 
-    Reads GENAI_API_KEY / GENAI_BASE_URL / GENAI_MODEL from the environment
-    if not passed explicitly. Falls back to the extractive answer if no key
-    is configured, or if the request fails for any reason (including the
-    network restriction described at the top of this file) -- callers
-    always get *an* answer back, with `mode` telling them which kind.
+
+def passage_header(r: dict) -> str:
+    """The line that introduces a passage in a prompt: title, link, and date for documents."""
+    dated = f" — dated {r['fetched']}" if r.get("fetched") and _is_document(r["source_url"]) else ""
+    return f"[{r['title']} — {r['source_url']}{dated}]"
+
+
+def sources_of(results) -> list:
+    """One source entry per distinct page or document, in first-seen order."""
+    sources, seen = [], set()
+    for r in results:
+        if r["source_url"] not in seen:
+            seen.add(r["source_url"])
+            sources.append({"title": r["title"], "url": r["source_url"],
+                            "date": r.get("fetched", "") if _is_document(r["source_url"]) else ""})
+    return sources
+
+
+def select_passages(report: dict) -> list:
+    """The passages to show the LLM for `report`, as (result, possibly-truncated text) pairs.
+
+    Deduplicated by chunk, each capped at MAX_CHUNK_CHARS, and stopped at
+    MAX_CONTEXT_CHARS of formatted prompt text.
     """
-    api_key = api_key or os.environ.get("GENAI_API_KEY")
-    base_url = base_url or os.environ.get("GENAI_BASE_URL", "https://api.groq.com/openai/v1")
-    model = model or os.environ.get("GENAI_MODEL", "openai/gpt-oss-20b")
-
-    if not api_key:
-        result = compose_extractive(report)
-        result["mode"] = "extractive (no GENAI_API_KEY set)"
-        return result
-
     # UPDATE (2026-09-21, see REPORT3.md): was sq["results"][:2] -- but
     # retrieve_for_subquestion() is called with k=3, and REPORT3.md's real
     # LLM tests found correct pages sitting at rank 3 that never made it
     # into the prompt because only the top 2 were ever sent. Now sends up to
     # 3 per sub-question; MAX_CONTEXT_CHARS below still caps total size, so
     # this doesn't reopen the 429 risk that top-2 was originally capping.
-    context_blocks = []
-    used_sources = []  # (title, url) actually included in context, in order, deduped
-    seen_urls = set()
+    chosen = []
     seen_chunk_keys = set()  # (source_url, text[:80]) -- dedupe by actual chunk, not just page
     total_chars = 0
 
@@ -120,17 +156,12 @@ def llm_answer(report: dict, api_key: str = None, base_url: str = None, model: s
         text = r["text"]
         if len(text) > MAX_CHUNK_CHARS:
             text = text[:MAX_CHUNK_CHARS].rsplit(" ", 1)[0] + "..."
-        dated = f" — dated {r['fetched']}" if r.get("fetched") and _is_document(r["source_url"]) else ""
-        block = f"[{r['title']} — {r['source_url']}{dated}]\n{text}"
-        if total_chars + len(block) > MAX_CONTEXT_CHARS and context_blocks:
+        block = f"{passage_header(r)}\n{text}"
+        if total_chars + len(block) > MAX_CONTEXT_CHARS and chosen:
             return False  # hard ceiling reached -- caller should stop adding
-        context_blocks.append(block)
+        chosen.append((r, text))
         total_chars += len(block)
         seen_chunk_keys.add(key)
-        if r["source_url"] not in seen_urls:
-            seen_urls.add(r["source_url"])
-            used_sources.append({"title": r["title"], "url": r["source_url"],
-                                 "date": r.get("fetched", "") if _is_document(r["source_url"]) else ""})
         return True
 
     # A compound question split into sub-questions can lose context that only
@@ -154,18 +185,38 @@ def llm_answer(report: dict, api_key: str = None, base_url: str = None, model: s
         for r in sq["results"][:7]:
             if not _add_chunk(r):
                 break
+    return chosen
 
-    context = "\n\n".join(context_blocks)
+
+def llm_answer(report: dict, api_key: str = None, base_url: str = None, model: str = None) -> dict:
+    """Compose a proper natural-language answer via an OpenAI-compatible chat
+    completion endpoint (works with Groq, OpenRouter, Together, etc. -- any
+    provider with an OpenAI-compatible /chat/completions route).
+
+    Reads GENAI_API_KEY / GENAI_BASE_URL / GENAI_MODEL from the environment
+    if not passed explicitly. Falls back to the extractive answer if no key
+    is configured, or if the request fails for any reason (including the
+    network restriction described at the top of this file) -- callers
+    always get *an* answer back, with `mode` telling them which kind.
+    """
+    api_key = api_key or os.environ.get("GENAI_API_KEY")
+    base_url = base_url or os.environ.get("GENAI_BASE_URL", "https://api.groq.com/openai/v1")
+    model = model or os.environ.get("GENAI_MODEL", "openai/gpt-oss-20b")
+
+    if not api_key:
+        result = compose_extractive(report)
+        result["mode"] = "extractive (no GENAI_API_KEY set)"
+        return result
+
+    passages = select_passages(report)
+    context = "\n\n".join(f"{passage_header(r)}\n{text}" for r, text in passages)
+    used_sources = sources_of(r for r, _ in passages)
 
     prompt = (
-        "Answer the student's question using ONLY the passages below. "
-        "Cite the source title for every claim. If the passages don't cover "
-        "part of the question, say so plainly instead of guessing.\n"
-        "If a figure applies only to a particular group (e.g. a fee category like "
-        "OPEN/OBC/EWS vs SC/ST/PwD, or a specific programme or year), say which "
-        "group it applies to. If passages are dated documents that disagree, "
-        "prefer the most recent one and mention its date.\n\n"
-        f"Passages:\n{context}\n\nQuestion: {report['question']}\n\nAnswer:"
+        "You are the VNIT Nagpur student helpdesk assistant. Answer the student's "
+        "question using the passages below as your only source of facts about VNIT.\n\n"
+        f"{ANSWER_GUIDE}\n\n"
+        f"Passages:\n{context}\n\nStudent's question: {report['question']}\n\nAnswer:"
     )
 
     try:

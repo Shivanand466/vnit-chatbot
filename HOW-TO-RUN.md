@@ -37,8 +37,12 @@ Never paste keys into chats, emails or code. Keep them only in these files:
 **To stop:** close the black window.
 
 Each answer shows:
-- **Sources**: the web pages or documents it used (click to check them).
-- **mode**: `llm (...)` means the AI wrote the answer. `extractive (...)` means the AI couldn't be reached (no key, no internet), so it shows the best matching passages instead.
+- **Sources**: the web pages or documents it used (click to check them). The small numbers in the answer, like ¹ or ², match the numbered sources.
+- **How I found this**: click it to see every step the chatbot took: what it searched, whether it opened a specific document or did a calculation, and what the checker found.
+- **A green ✓ badge** ("4 figures checked against sources") means every number, date, email and phone number in the answer was found in the documents it read. An **orange ⚠ badge** means something could not be confirmed, and the answer says so.
+- **mode**: `agent (...)` means the AI agent wrote the answer (the normal case). `llm (...)` means the agent couldn't run and the answer was written in one simpler step. `extractive (...)` means the AI couldn't be reached at all (no key, no internet), so it shows the best matching passages instead.
+
+Most answers take a few seconds. A question where the chatbot decides it needs to look further can take **up to about a minute**, because the free Groq plan only allows a certain amount of AI use per minute and the chatbot waits for it rather than fail. The page says "Looking further…" while that happens.
 
 ---
 
@@ -74,6 +78,14 @@ Also show one question it **can't** answer (for example: *"What is the hostel wi
 
 **Show a follow-up too.** Ask *"What is the hostel fee for first year B.Tech boys for the Winter 2026 session?"*, then just *"and for girls?"*. The answer changes to ₹32,650, and a line above it says "Understood as: What is the hostel fee for first year B.Tech girls…" — so the examiner can see the chatbot's own interpretation rather than taking it on trust.
 
+**Show that it is agentic.** This is the part to point at when asked "how is this an agent and not just a chatbot?":
+
+1. Ask *"What is the total tuition fee for all four years of B.Tech for an OPEN category student?"* The documents only give the yearly fee (₹1,25,000), so the chatbot has to work out ₹5,00,000 itself. Open **How I found this**: you'll see it either used its calculator or wrote the calculation out, and the checker confirmed the figures.
+2. Ask *"What is the hostel fee for first year B.Tech girls for the Winter 2026 session?"* and open **How I found this**. Sometimes it answers straight from its first search; sometimes it decides the first search wasn't enough and *opens the hostel admission document* to look inside it. Either way the steps are listed.
+3. Ask *"What is the hostel wifi password?"* The steps show it searched again with different words before saying it couldn't find it, rather than giving up after one try or making something up.
+
+In one sentence for examiners: *it decides for itself whether it has enough information, uses tools (search again, open a specific document, calculate) when it doesn't, and checks every figure in its answer against the documents before showing it.*
+
 **The 👍/👎 buttons** under each answer save the rating to `data/feedback/feedback.jsonl`. If you let classmates use the chatbot for a few days before your demo, that file becomes real evidence for your report. To see the numbers:
 
 ```
@@ -97,6 +109,8 @@ It prints how many ratings there are, how many were helpful, and lists the quest
 | No wifi at the venue | It still works in `extractive` mode (shows passages, not written answers). Consider using a phone hotspot. |
 | The page says it can't reach the server | Check the black window is still open, then reload `http://127.0.0.1:8000/`. |
 | "Too many questions - please wait a minute" | A safety limit (10 questions per minute per person). Wait a minute. |
+| Answers say `mode: llm (...)` and the steps say "The agent could not run" | The free AI allowance was used up for the moment. The answer is still real, just written in one simpler step. Wait a minute between questions during a demo. |
+| You want the old, simpler behaviour for a demo | Before starting, add the line `set AGENT_MODE=off` to `start_chatbot.bat` just above the line that starts with `"%PY%" -m uvicorn`. Remove it to get the agent back. |
 
 ---
 
@@ -121,9 +135,14 @@ python build_index.py
 REM 4. Check quality
 python evaluate.py
 python fact_ranks.py
+python test_agentic.py
 set GENAI_API_KEY=<paste key here only in this window>
 python check_answers.py
 ```
+
+`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about a minute, and should print `29/29 passed`.
+
+`check_answers.py` asks 39 real questions through the agent and takes about 45 minutes, because of the free plan's per-minute limit. To measure the older, simpler pipeline on the same questions, add `--pipeline oneshot`. If the free plan's **daily** limit runs out part-way (the end of the output warns you), run the same command again the next day with `--resume` added: it only re-asks the questions that didn't get a real answer.
 
 ---
 
