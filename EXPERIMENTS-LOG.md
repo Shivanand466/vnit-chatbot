@@ -494,10 +494,10 @@ Hard set: 14 questions (placements, msc_tuition, barch_tuition, midsem_slot_a, s
 
 | configuration | correct | must-decline refused | tokens / question | seconds / question | tool calls / question | gate fired | asked back | switches |
 |---|---|---|---|---|---|---|---|---|
-| one-shot | 8/13 (1 not answered yet) | 2/2 | — | 35 | — | 0 | 1 | `--pipeline oneshot` |
+| one-shot | 9/14 | 2/2 | — | 44 | — | 0 | 1 | `--pipeline oneshot` |
 | agent, no tools | 7/14 | 2/2 | 2,736 | 43 | 0.0 | 0 | 0 | `AGENT_TOOLS=off CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
-| agent (30 Oct) | not run yet | | | | | | | `CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
-| + CRAG gate | not run yet | | | | | | | `CLARIFY=off LOOKUP_TABLE=off` |
+| agent (30 Oct) | 7/14 | 2/2 | 3,419 | 43 | 0.0 | 0 | 0 | `CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
+| + CRAG gate | 1/2 (12 not answered yet) | 1/1 | — | 57 | — | 0 | 0 | `CLARIFY=off LOOKUP_TABLE=off` |
 | + clarify | not run yet | | | | | | | `LOOKUP_TABLE=off` |
 | full | not run yet | | | | | | | `none` |
 <!-- /ablation-table -->
