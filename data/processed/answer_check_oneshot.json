@@ -953,5 +953,289 @@
    "Searched VNIT's pages and documents.",
    "Checked 5 figure(s) against the sources: all found."
   ]
+ },
+ {
+  "name": "unanswerable_old_hostel_fee",
+  "question": "What was the hostel fee for first year B.Tech boys in 2015-16?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "No passage provides the hostel fee for first‑year B.Tech boys for the 2015‑16 academic year.  \nFor that information, please check the older “Hostel Fee Estimate & Demand Letter” PDFs or the university’s official fee structure page on vnit.ac.in.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "sources": [
+   "https://drive.google.com/file/d/1QoFVZPQae7mXoQNza05-K6aUreW79yYm/view",
+   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view",
+   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
+   "https://drive.google.com/file/d/1O_wlD5BE7p_M2lDAK5uhlVRYJzB1z0Dg/view",
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 61.5,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents.",
+   "Checked 1 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "unanswerable_director_salary",
+  "question": "What is the monthly salary of the VNIT Director?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I couldn’t find the monthly salary of the VNIT Director in the provided passages.  \nTry asking the Human Resources office or check the official VNIT website’s “Contact” or “Staff” sections for salary details.\n\n**Who can help:** Director Office — director_office@vnit.ac.in, 0712-2801370",
+  "sources": [
+   "https://drive.google.com/file/d/1zEa2v6OrJXfkW6aX-QWzrW__qDGJCuHp/view",
+   "https://drive.google.com/file/d/1g6hqu4Q9t6_0sP5TvxYbmDFHnYudlumk/view",
+   "https://drive.google.com/file/d/1W3aw91SdBtPvGxE54dx5LfX14EcXZ_Dp/view",
+   "https://drive.google.com/file/d/1-sqCQwzh5NPg_LmLjdSm53dQCq1VvtbF/view",
+   "https://vnit.ac.in/director-vnit-nagpur/",
+   "https://vnit.ac.in/contact-us/"
+  ],
+  "verification": {
+   "verdict": "refused",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 64.9,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: people.",
+   "Searched VNIT's pages and documents.",
+   "The sources do not cover this, so the answer says so instead of guessing.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "unanswerable_bus_pass",
+  "question": "How much does a day scholar bus pass cost at VNIT?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I couldn't find that information.  \nCheck the **Transport** or **Student Services** sections on the official VNIT website (vnit.ac.in) or email the student helpdesk for bus‑pass details.\n\n**Who can help:** Assistant Registrar, Accounts Section — ar_accounts@vnit.ac.in, 0712-2801366",
+  "sources": [
+   "https://drive.google.com/file/d/12I__zeaUFJeyrYvrmqANMJ16Ot9RpAr2/view",
+   "https://drive.google.com/file/d/1e1LtW7wFG7f-AMn40KkZpe2TFCgqihQT/view",
+   "https://drive.google.com/file/d/1mzxryJP1oaJ5nU6lKur2eEPdl3kZpDNI/view",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view",
+   "https://drive.google.com/file/d/1keQM1-Ewhmt5S984waL2vtbmKjZrTmp3/view",
+   "https://drive.google.com/file/d/1FlbVSTT1mAi61TEm8A1BCNFVbUNzqcbc/view",
+   "https://drive.google.com/file/d/1ARUdONHAu1pFaYGIZ8CRkYBvHbA-jtnu/view",
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "refused",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 64.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents.",
+   "The sources do not cover this, so the answer says so instead of guessing.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "conv_hostel_girls",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session? | and for girls?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 32650**.\n\n- **HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026‑27** – specifies the total hostel fee for first‑year B.Tech girls for the Winter 2026 session as **Rs. 32650**.",
+  "sources": [
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
+   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://drive.google.com/file/d/1v3hzPajyoacstokKd1xWpFce3QcYtzdH/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 64.1,
+  "trace": [
+   "Read the follow-up with the earlier questions as: “What is the hostel fee for first year B.Tech girls for the Winter 2026 session?”",
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents.",
+   "Checked 4 figure(s) against the sources: all found."
+  ],
+  "understood_as": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?"
+ },
+ {
+  "name": "conv_mtech_tuition",
+  "question": "What is the yearly tuition fee for B.Tech students in the OPEN category? | what about M.Tech?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹70,000** per year for OPEN‐category M.Tech students.  \n- 2 Year Fee Estimate (2024‑04‑16) lists Tuition Fee : First Year ₹70 000, Second Year ₹70 000 for OPEN/OBC/EWS.  \n- M Tech ISR 2024 brochure (2024‑06‑01) shows Tuition Fee : M Tech ₹70 000 per year.  \n\nNote: This figure applies to the OPEN, OBC, and EWS categories of M.Tech admissions.\n\n**Who can help:** Assistant Registrar, Accounts Section — ar_accounts@vnit.ac.in, 0712-2801366",
+  "sources": [
+   "https://drive.google.com/file/d/1rSmfTQ0R2G5eeI7-WvnVG0Lsf8OdOnzy/view",
+   "https://vnit.ac.in/section/academics/wp-content/uploads/2024/06/Info-Brochure-updated-on-20th-Jun-2024.pdf",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view",
+   "https://drive.google.com/file/d/1rNIoQRRMIVkyBs2m0OivVTgkTNYPwadl/view",
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "unsupported",
+   "checked": 7,
+   "supported": 4,
+   "unsupported": [
+    "70"
+   ]
+  },
+  "usage": null,
+  "seconds": 8.8,
+  "trace": [
+   "Read the follow-up with the earlier questions as: “What is the yearly tuition fee for M.Tech students in the OPEN category?”",
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents.",
+   "Checked 7 figure(s): could not find 70 in the sources.",
+   "Part of this answer could not be confirmed, so I've added who to contact."
+  ],
+  "understood_as": "What is the yearly tuition fee for M.Tech students in the OPEN category?"
+ },
+ {
+  "name": "clarify_hostel_vague",
+  "question": "What is the hostel fee?",
+  "pass": true,
+  "mode": "clarify",
+  "missing": [],
+  "forbidden": [],
+  "answer": "Which programme are you asking about?",
+  "sources": [],
+  "profile": {},
+  "choices": [
+   "btech",
+   "barch",
+   "msc",
+   "phd"
+  ],
+  "verification": null,
+  "usage": null,
+  "seconds": 138.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents.",
+   "Your question fits several different documents (B.Tech, B.Arch, M.Sc, Ph.D) with different answers, so I asked which one you mean."
+  ]
+ },
+ {
+  "name": "clarify_then_answer",
+  "question": "What is the hostel fee for first year?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 32,650** for a first‑year B.Tech girl (2026‑27 session).  \n- From the “HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026‑27” document, which lists the payment category for UG first‑year girls as Rs. 32,650.  \nNote: The figure applies to first‑year B.Tech (and B.Arch) girls for the 2026‑27 academic year.",
+  "sources": [
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
+   "https://drive.google.com/file/d/13pqqEFCDId3FtSWE-6JW0ejbS4aowgrJ/view",
+   "https://drive.google.com/file/d/1v3hzPajyoacstokKd1xWpFce3QcYtzdH/view",
+   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 9.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Assuming B.Tech girls, from earlier in this chat.",
+   "Searched VNIT's pages and documents.",
+   "Checked 5 figure(s) against the sources: all found."
+  ],
+  "profile": {
+   "programme": "btech",
+   "gender": "girls"
+  }
+ },
+ {
+  "name": "no_clarify_when_specific",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 32150**.\n\n- *HOSTEL FEES FOR FIRST YEAR BOYS ADMITTED IN YEAR 2026‑27* (2026‑04‑10): “Session wise Hostel Fees payable … for Winter 2026 is Rs. 32150/-”  \n- *HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1st‑Year Students Admitted in 2026‑27* (2026‑08‑07): “For Boys: Total amount of Rs. 32150/- Winter 2026 to be paid at the time of Hostel Admission.”  \n\nNote: Applies to first‑year B.Tech boys for the Winter 2026 session.",
+  "sources": [
+   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 10,
+   "supported": 10,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 7.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents.",
+   "Checked 10 figure(s) against the sources: all found."
+  ],
+  "profile": {}
+ },
+ {
+  "name": "no_clarify_director",
+  "question": "Who is the Director of VNIT?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Prof. Prem Lal Patel**  \n- Director VNIT, Nagpur website: confirms he assumed charge on 21 May 2024.  \n- News‑Letter Issue 17 (2024‑08‑01): notes his inaugural visit and takeover date.",
+  "sources": [
+   "https://vnit.ac.in/director-vnit-nagpur/",
+   "https://vnit.ac.in/basic_science/chemistry/wp-content/uploads/2024/08/News-Letter-Issue-17.pdf",
+   "https://drive.google.com/file/d/1FiXQu6BD4ZcfBqxuC-nxRWid6YkKOYZO/view",
+   "https://drive.google.com/file/d/1VYqcetf9bl47iWAIviZ90EAXFI7XN4Kx/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 21.1,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: people.",
+   "Searched VNIT's pages and documents.",
+   "Checked 4 figure(s) against the sources: all found."
+  ],
+  "profile": {}
  }
 ]

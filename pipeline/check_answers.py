@@ -240,7 +240,18 @@ def _quota_failure(mode: str, trace_texts) -> bool:
     # The agent names the daily limit in its trace; the one-shot path only
     # reports "429" in its mode. With 30s between questions, a 429 that
     # survives the agent's own waiting is the daily limit in practice.
-    return not reached_llm(mode) and ("429" in mode or any("daily allowance" in t for t in trace_texts))
+    # When the agent's allowance runs out, respond.py quietly answers with the
+    # one-shot fallback instead: that answer measures the wrong pipeline (10 of
+    # the 14 "agent (30 Oct)" ablation answers were such fallbacks), so it
+    # counts as unanswered too, even when it happens to be right.
+    spent = any("daily allowance" in t for t in trace_texts)
+    return spent if reached_llm(mode) else "429" in mode or spent
+
+
+def answered(r) -> bool:
+    """A saved result that counts: reached the measured pipeline, or asked back."""
+    return ((reached_llm(r["mode"]) or r["mode"] == "clarify")
+            and not _quota_failure(r["mode"], r.get("trace", [])))
 
 
 def _daily_limit(out) -> bool:
@@ -250,7 +261,7 @@ def _daily_limit(out) -> bool:
 
 def _daily_limit_hit(results) -> bool:
     last = results[-1]
-    return not last["pass"] and _quota_failure(last["mode"], last.get("trace", []))
+    return _quota_failure(last["mode"], last.get("trace", []))
 
 
 def _score(name, question, out, must, must_not, results, extra=None):
@@ -298,7 +309,7 @@ def rescore(pipeline: str = "agent", config: str = ""):
         answer = _CITATION.sub("", normalise(r["answer"]))
         r["missing"] = [p for p in must if not re.search(p, answer, re.I)]
         r["forbidden"] = [p for p in must_not if re.search(p, answer, re.I)]
-        ok = reached_llm(r["mode"]) and not r["missing"] and not r["forbidden"]
+        ok = answered(r) and r["mode"] != "clarify" and not r["missing"] and not r["forbidden"]
         if ok != r["pass"]:
             changed.append(f"{r['name']}: {'FAIL -> PASS' if ok else 'PASS -> FAIL'}")
         r["pass"] = ok
@@ -314,8 +325,7 @@ def results_path(pipeline: str = "agent", config: str = "") -> Path:
 
 def complete(results, total: int) -> bool:
     """Every question asked and answered by the LLM (or, for a clarify case, asked back)."""
-    return len(results) == total and all(reached_llm(r["mode"]) or r["mode"] == "clarify"
-                                         for r in results)
+    return len(results) == total and all(answered(r) for r in results)
 
 
 def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bool = False,
@@ -332,7 +342,7 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
     kept = {}
     if resume and path.exists():
         kept = {r["name"]: r for r in json.loads(path.read_text(encoding="utf-8"))
-                if reached_llm(r["mode"])}
+                if answered(r)}
         print(f"Resuming: keeping {len(kept)} saved result(s) that reached the LLM.")
 
     results = []

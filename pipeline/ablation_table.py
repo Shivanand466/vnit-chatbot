@@ -18,7 +18,7 @@ restricted to the same questions: the one-shot pipeline has no pieces to switch.
 import json
 import sys
 
-from check_answers import HARD, PROCESSED, reached_llm
+from check_answers import HARD, PROCESSED, answered
 
 # (row label, results file, environment switches used)
 CONFIGS = [
@@ -42,17 +42,17 @@ def row(label, filename, switches):
     if not path.exists():
         return f"| {label} | not run yet | | | | | | | `{switches}` |"
     results = [r for r in json.loads(path.read_text(encoding="utf-8")) if r["name"] in HARD]
-    answered = [r for r in results if reached_llm(r["mode"]) or r["mode"] == "clarify"]
-    declines = [r for r in answered if r["name"].startswith("unanswerable_")]
-    usage = [r.get("usage") or {} for r in answered]
+    counted = [r for r in results if answered(r)]
+    declines = [r for r in counted if r["name"].startswith("unanswerable_")]
+    usage = [r.get("usage") or {} for r in counted]
     tokens = _mean([u.get("tokens") for u in usage])
-    seconds = _mean([r.get("seconds") for r in answered])
+    seconds = _mean([r.get("seconds") for r in counted])
     tool_calls = _mean([u.get("tool_calls") for u in usage if u])
-    gate = sum(any("first search looked weak" in t for t in r.get("trace", [])) for r in answered)
-    asked_back = sum(r["mode"] == "clarify" for r in answered)
-    score = f"{sum(r['pass'] for r in answered)}/{len(answered)}"
-    if len(answered) < len(HARD):
-        score += f" ({len(HARD) - len(answered)} not answered yet)"
+    gate = sum(any("first search looked weak" in t for t in r.get("trace", [])) for r in counted)
+    asked_back = sum(r["mode"] == "clarify" for r in counted)
+    score = f"{sum(r['pass'] for r in counted)}/{len(counted)}"
+    if len(counted) < len(HARD):
+        score += f" ({len(HARD) - len(counted)} not answered yet)"
     fmt = lambda v, spec: "—" if v is None else format(v, spec)
     return (f"| {label} | {score} | {sum(r['pass'] for r in declines)}/{len(declines)} | "
             f"{fmt(tokens, ',.0f')} | {fmt(seconds, '.0f')} | {fmt(tool_calls, '.1f')} | "

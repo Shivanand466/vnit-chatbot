@@ -677,6 +677,21 @@ def test_gate_switch_removes_the_corrective_passages():
     assert "Search quality:" not in off_prompt and "678" not in off_prompt
 
 
+
+def test_quota_fallback_is_not_an_agent_answer():
+    # A one-shot answer written because the agent's daily allowance ran out
+    # must be asked again, or an ablation silently measures the fallback.
+    import check_answers
+    spent = "The agent could not run (the free AI daily allowance is used up (429)), so ..."
+    fallback = {"mode": "llm (openai/gpt-oss-20b)", "pass": True, "trace": [spent]}
+    agent = {"mode": "agent (openai/gpt-oss-120b)", "pass": False, "trace": ["Searched ..."]}
+    oneshot = {"mode": "llm (openai/gpt-oss-20b)", "pass": True, "trace": ["Searched ..."]}
+    assert not check_answers.answered(fallback)
+    assert check_answers.answered(agent) and check_answers.answered(oneshot)
+    assert check_answers.answered({"mode": "clarify", "pass": True, "trace": []})
+    assert not check_answers.complete([agent, fallback], 2)
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]

@@ -184,7 +184,7 @@ Done when:
 - The earlier one-shot loop was stopped and folded into this runner: its "finished" test counted 41 cases, and with the 4 clarify cases it would never have stopped.
 
 ```
-python test_agentic.py     -> 53/53 passed
+python test_agentic.py     -> 54/54 passed
 python ablation_table.py   -> see EXPERIMENTS-LOG §26 (refreshed as runs finish)
 ```
 

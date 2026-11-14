@@ -487,6 +487,8 @@ Each configuration saves to its own file (`--config <name>` → `answer_check_<n
 
 `check_answers.py` now exits with 2 when a run is unfinished; the script waits 30 minutes and resumes. `ablation_table.py` prints the table. It started on 30 Oct 2026 at 15:08 IST.
 
+**Harness fault, a third time (§18d, §20e).** The first "agent (30 Oct)" row read 7/14 with 0 tool calls, which looked like a finding: offered tools, the agent never used them. It was not one. When the agent's daily allowance runs out, `respond.py` answers with the one-shot fallback on gpt-oss-20b, and the harness counted those answers as finished: 10 of that row's 14 answers, 2 of the first CRAG answers and 1 no-tools answer came from the fallback. Since 14 Nov a fallback caused by the daily allowance counts as unanswered (`check_answers.answered`, pinned by a test), `--resume` asks those questions again, and the table counts only real agent answers. Lesson: when a system degrades quietly, the measurement has to check *which* path answered, not just that an answer came back.
+
 **Results:** see the table below, updated as runs finish (`python ablation_table.py`).
 
 <!-- ablation-table -->
@@ -495,9 +497,9 @@ Hard set: 14 questions (placements, msc_tuition, barch_tuition, midsem_slot_a, s
 | configuration | correct | must-decline refused | tokens / question | seconds / question | tool calls / question | gate fired | asked back | switches |
 |---|---|---|---|---|---|---|---|---|
 | one-shot | 9/14 | 2/2 | — | 44 | — | 0 | 1 | `--pipeline oneshot` |
-| agent, no tools | 7/14 | 2/2 | 2,736 | 43 | 0.0 | 0 | 0 | `AGENT_TOOLS=off CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
-| agent (30 Oct) | 7/14 | 2/2 | 3,419 | 43 | 0.0 | 0 | 0 | `CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
-| + CRAG gate | 1/2 (12 not answered yet) | 1/1 | — | 57 | — | 0 | 0 | `CLARIFY=off LOOKUP_TABLE=off` |
+| agent, no tools | 7/13 (1 not answered yet) | 2/2 | 2,736 | 45 | 0.0 | 0 | 0 | `AGENT_TOOLS=off CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
+| agent (30 Oct) | 2/4 (10 not answered yet) | 0/0 | 3,419 | 36 | 0.0 | 0 | 0 | `CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
+| + CRAG gate | 0/0 (14 not answered yet) | 0/0 | — | — | — | 0 | 0 | `CLARIFY=off LOOKUP_TABLE=off` |
 | + clarify | not run yet | | | | | | | `LOOKUP_TABLE=off` |
 | full | not run yet | | | | | | | `none` |
 <!-- /ablation-table -->

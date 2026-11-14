@@ -1,0 +1,69 @@
+[
+ {
+  "name": "placements",
+  "question": "How many students got placed in 2025-26 and how many companies came?",
+  "pass": false,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [
+   "678",
+   "170"
+  ],
+  "forbidden": [],
+  "answer": "No passage contains the number of students placed for 2025‑26 or the total companies that visited. Check the official Placement and Internship Report on the VNIT website or contact the Placement Cell for that data.",
+  "sources": [
+   "https://drive.google.com/file/d/1y0-zl67_-zP6xcLUrWasGyCnQx-W-xwn/view",
+   "https://drive.google.com/file/d/1kejECNfQyOyYpOQD6hr560WA5Q_BExJc/view",
+   "https://drive.google.com/file/d/16ur4iXJBJSAWXGVkhFTzh1xqTUaxXPZ-/view",
+   "https://drive.google.com/file/d/1wI4ykcHPLwNmS9P460XzW9YI0nABEgFI/view",
+   "https://drive.google.com/file/d/1-8kE1lLm8eSrQg3GEqnSnVqcVerkQb9H/view",
+   "https://drive.google.com/file/d/19LLe8J2Db1wbe_1HLAeMP1HLDxBmKC7V/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 56.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents in 2 parts.",
+   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "unanswerable_wifi",
+  "question": "What is the hostel wifi password?",
+  "pass": true,
+  "mode": "llm (openai/gpt-oss-20b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I couldn't find any information on the hostel wifi password.  \nYou may ask the hostel manager directly or check the hostel notice board and the hostel‑section of the VNIT website.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "sources": [
+   "https://drive.google.com/file/d/1p43rYEc4pVkVVgw8MNeQ5FsCl-O0ThWc/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view",
+   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view",
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "refused",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": null,
+  "seconds": 58.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents.",
+   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
+   "The sources do not cover this, so the answer says so instead of guessing.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ }
+]
