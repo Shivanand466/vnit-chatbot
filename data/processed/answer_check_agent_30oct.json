@@ -3,34 +3,36 @@
   "name": "placements",
   "question": "How many students got placed in 2025-26 and how many companies came?",
   "pass": false,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "agent (openai/gpt-oss-120b)",
   "missing": [
    "678",
    "170"
   ],
   "forbidden": [],
-  "answer": "I couldn’t find the exact figures for the number of students placed or the number of companies that came in 2025‑26 in the passages provided.  \nFor those details, check the **Placement and Internship Report 2025‑26** on the official VNIT website or contact the Placement Cell directly.",
-  "sources": [
-   "https://drive.google.com/file/d/1y0-zl67_-zP6xcLUrWasGyCnQx-W-xwn/view",
-   "https://drive.google.com/file/d/1kejECNfQyOyYpOQD6hr560WA5Q_BExJc/view",
-   "https://drive.google.com/file/d/16ur4iXJBJSAWXGVkhFTzh1xqTUaxXPZ-/view",
-   "https://drive.google.com/file/d/1wI4ykcHPLwNmS9P460XzW9YI0nABEgFI/view",
-   "https://drive.google.com/file/d/1-8kE1lLm8eSrQg3GEqnSnVqcVerkQb9H/view",
-   "https://drive.google.com/file/d/19LLe8J2Db1wbe_1HLAeMP1HLDxBmKC7V/view"
-  ],
+  "answer": "I’m sorry, but none of the provided passages give the total number of students placed in 2025‑26 or the total number of companies that recruited that year. You could look for a “Placement Statistics” or “Annual Placement Report” on the VNIT website (e.g., https://vnit.ac.in/placement) or ask for the specific placement summary for the 2025‑26 batch.",
+  "sources": [],
   "verification": {
    "verdict": "verified",
    "checked": 2,
    "supported": 2,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 135.7,
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 11070,
+   "waited_for_quota_s": 38.2,
+   "tool_calls": 2,
+   "passages_seen": 13,
+   "passages_cited": 0
+  },
+  "seconds": 124.4,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: placement.",
-   "Searched VNIT's pages and documents in 2 parts.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
+   "Split the question into 2 parts and searched for each and for the whole question: 10 passages from 6 sources.",
+   "Looked inside “Placement and Internship Report 2025-2026” for “students placed 2025-26 total”",
+   "Looked inside “Placement and Internship Report 2025-2026” for “placed”",
+   "Wrote the answer after 2 round(s) of tool use.",
    "Checked 2 figure(s) against the sources: all found."
   ]
  },
@@ -38,31 +40,36 @@
   "name": "unanswerable_wifi",
   "question": "What is the hostel wifi password?",
   "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "I’m sorry, the provided documents do not contain information about the hostel Wi‑Fi password.  \nFor this, you can ask the hostel office, check the hostel notice board, or look in the student portal or “Hostel Information” section on vnit.ac.in.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "answer": "I’m sorry, but none of the provided VNIT documents contain the hostel Wi‑Fi password. You could check the latest “Hostel Information” page on the VNIT website or contact the Assistant Registrar (Hostel) at AR_HOSTEL@vnit.ac.in for that detail.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
   "sources": [
-   "https://drive.google.com/file/d/1p43rYEc4pVkVVgw8MNeQ5FsCl-O0ThWc/view",
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
-   "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view",
-   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view",
    "https://vnit.ac.in/administrative-officers"
   ],
   "verification": {
-   "verdict": "refused",
-   "checked": 0,
-   "supported": 0,
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 102.8,
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 9647,
+   "waited_for_quota_s": 28.5,
+   "tool_calls": 2,
+   "passages_seen": 10,
+   "passages_cited": 0
+  },
+  "seconds": 42.3,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
-   "The sources do not cover this, so the answer says so instead of guessing.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "Searched for “hostel wifi password VNIT”: Hostel Information for UG 1st Year Students; Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27; Hostel Admission Information Notice for First Year MBA Students (Academic Year 2026–27)",
+   "Searched for “wifi password hostel VNIT”: Hostel Information for UG 1st Year Students; VNIT Nagpur – Hostel Section; Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 1 figure(s) against the sources: all found.",
    "I couldn't find this in VNIT's documents, so I've added who to contact."
   ]
  },
@@ -70,130 +77,146 @@
   "name": "hostel_fee_girls",
   "question": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?",
   "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 32,650**  \n\n- From “HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026‑27” (dated 2026‑08‑07): the winter 2026 fee for first‑year girls is Rs. 32,650.  \n\nNote: This fee is for first‑year B.Tech girls admitted in 2026‑27.",
+  "answer": "**Rs 32,650** is the total hostel fee for first‑year B.Tech (and B.Arch) girls for the Winter 2026 session[1].\n\n- Applies to UG (B.Tech/B.Arch) first‑year girls admitted in the 2026‑27 academic year; payable at the time of hostel admission.",
   "sources": [
-   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
-   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view",
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
-   "https://drive.google.com/file/d/1v3hzPajyoacstokKd1xWpFce3QcYtzdH/view"
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 6,
-   "supported": 6,
+   "checked": 3,
+   "supported": 3,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 20.1,
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3349,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "seconds": 6.0,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
-   "Checked 6 figure(s) against the sources: all found."
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
   ]
  },
  {
   "name": "summer_term_fee",
   "question": "How much does one summer term course cost at VNIT?",
-  "pass": false,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [
-   "3,?000"
-  ],
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 67,725** for a July‑to‑November summer term in the Bachelor of Architecture program.  \n\n- 5 Year Fee Estimate for Bachelor of Architecture (dated 2024‑04‑16): July‑to‑Nov Semester (Odd Term) – **67,725**.  \n\nNote: This amount applies to the Bachelor of Architecture program and reflects the revised fee from July 2024.",
+  "answer": "**One summer term course costs **₹ 3,000** per course**[1].\n\n- The Summer Term 2026 Notice states that students must pay a fee of Rs. 3000 per course (maximum three courses) when registering for the summer term[1].",
   "sources": [
-   "https://drive.google.com/file/d/1FlbVSTT1mAi61TEm8A1BCNFVbUNzqcbc/view",
-   "https://drive.google.com/file/d/1e1LtW7wFG7f-AMn40KkZpe2TFCgqihQT/view",
-   "https://drive.google.com/file/d/1iaeXg0Uwv7eVE62reQHPBjU__XX4S2hB/view",
-   "https://drive.google.com/file/d/1rSmfTQ0R2G5eeI7-WvnVG0Lsf8OdOnzy/view",
-   "https://drive.google.com/file/d/1CXn2nLafT1ZuaDX8hBqsu9I7YC3Txc3L/view",
-   "https://drive.google.com/file/d/1uBxqJ7maSsIwXIzbCDl2d3Gh_RCtnXhK/view"
+   "https://drive.google.com/file/d/16ur4iXJBJSAWXGVkhFTzh1xqTUaxXPZ-/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 4,
-   "supported": 4,
+   "checked": 3,
+   "supported": 3,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 88.0,
+  "usage": {
+   "llm_calls": 2,
+   "tokens": 6585,
+   "waited_for_quota_s": 6.7,
+   "tool_calls": 1,
+   "passages_seen": 10,
+   "passages_cited": 1
+  },
+  "seconds": 13.2,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: fees.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
-   "Checked 4 figure(s) against the sources: all found."
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "Looked inside “Summer Term 2026 Notice” for “fee”",
+   "Wrote the answer after 1 round(s) of tool use.",
+   "Checked 3 figure(s) against the sources: all found."
   ]
  },
  {
   "name": "msc_tuition",
   "question": "What is the yearly tuition fee for M.Sc students at VNIT?",
-  "pass": false,
-  "mode": "llm (openai/gpt-oss-20b)",
-  "missing": [
-   "15,?000"
-  ],
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
   "forbidden": [],
-  "answer": "The tuition fee for **SC/ST** M.Sc. students is **Nil**.\n\n- *2 Year Fee Estimate for Master of Science* (dated 2024‑04‑16): Tuition Fee — First Year: **NIL**; Second Year: **NIL**【1】.  \n\n**Note:** The figure applies only to SC/ST students; no tuition‑fee information is provided for other categories.",
+  "answer": "**Rs 15,000 per year** for general‑category M.Sc. students; **Rs 0** for SC/ST/PwD candidates.\n\n- General category tuition fee listed as 15000 Rs (to be paid in the admission year)[1].\n- SC/ST/PwD candidates have “No Tuition Fees is charged”[1], and the fee estimate shows “Tuition Fee — First Year: NIL; Second Year: NIL” for SC/ST students[2].\n\nNote: The NIL tuition applies only to SC, ST and PwD categories; other categories pay the full 15,000 Rs annually.",
   "sources": [
-   "https://drive.google.com/file/d/1ARUdONHAu1pFaYGIZ8CRkYBvHbA-jtnu/view",
-   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view",
-   "https://drive.google.com/file/d/1mzxryJP1oaJ5nU6lKur2eEPdl3kZpDNI/view",
-   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view"
+   "https://drive.google.com/file/d/1y1enS8JeqBI_AL7ezrytMDYGlxEzjYiN/view",
+   "https://drive.google.com/file/d/1ARUdONHAu1pFaYGIZ8CRkYBvHbA-jtnu/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 1,
-   "supported": 1,
+   "checked": 3,
+   "supported": 3,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 21.8,
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 10069,
+   "waited_for_quota_s": 20.7,
+   "tool_calls": 2,
+   "passages_seen": 10,
+   "passages_cited": 3
+  },
+  "seconds": 35.6,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: fees.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
-   "Checked 1 figure(s) against the sources: all found."
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "Searched for “M.Sc tuition fee VNIT yearly tuition fee”: 2 Year Fee Estimate for Master of Science",
+   "Looked inside “Fees Information M Sc Admission Through CCMN” for “Tuition Fee”",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 3 figure(s) against the sources: all found."
   ]
  },
  {
   "name": "barch_tuition",
   "question": "What is the yearly tuition fee for B.Arch students at VNIT?",
   "pass": false,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "agent (openai/gpt-oss-120b)",
   "missing": [
    "1,?25,?000|125000"
   ],
   "forbidden": [],
-  "answer": "**Rs. 0 per year** (for SC/ST/PWD category).\n\n- 5‑Year Fee Estimate for B.Arch (dated 2024‑04‑16) lists “Fees per year: Tuition Fee – First Year 0; Second Year 0; … Fifth Year 0” for SC/ST/PWD students.  \n- The other documents do not provide a specific yearly tuition fee for B.Arch students of other categories.  \n\nNote: The zero fee applies only to the SC/ST/PWD category; no tuition figure is given for GEN/others in the supplied passages.\n\n**Who can help:** Assistant Registrar, Accounts Section — ar_accounts@vnit.ac.in, 0712-2801366",
+  "answer": "**Yearly tuition fee for B.Arch students:**\n\n- **SC/ST/PwD category:** **₹0** per year[1].\n- **NRI (DASA) admissions:** **US $8,000** per year (US $4,000 for SAARC)[2].\n\n*Note:* The passages do not provide a tuition‑fee figure for the general (GEN/OBC/EWS) category; only the above categories are covered.\n\n**Who can help:** Assistant Registrar, Accounts Section — ar_accounts@vnit.ac.in, 0712-2801366",
   "sources": [
-   "https://drive.google.com/file/d/1jlvFI-ICnK79qqddsXQc5CankZSgWVZ2/view",
    "https://drive.google.com/file/d/1iaeXg0Uwv7eVE62reQHPBjU__XX4S2hB/view",
    "https://vnit.ac.in/section/academics/wp-content/uploads/2023/07/Fees-for-NRI_Foreign-Nationals-for-DASA_ICCR_MEA-Admission.pdf",
-   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view",
-   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
    "https://vnit.ac.in/administrative-officers"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 1,
-   "supported": 1,
+   "checked": 2,
+   "supported": 2,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 60.0,
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 10333,
+   "waited_for_quota_s": 25.5,
+   "tool_calls": 2,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 43.2,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: fees.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
-   "Checked 1 figure(s) against the sources: all found.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "Searched for “B.Arch tuition fee VNIT”: Common Fees_2026-27; HOSTEL FEES FOR B.ARCH. BOYS ADMITTED IN YEAR 2022-23; 5 Year Fee Estimate for Bachelor of Architecture",
+   "Looked up documents titled like “Fees Information B Tech B Arch Admission Through JoSAA”: Fees Information B Tech B Arch Admission Through JoSAA; HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026-27; Orientation program for 1st Year B. Tech. and B. Arch. students (2026 Admission)",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 2 figure(s) against the sources: all found.",
    "I couldn't find this in VNIT's documents, so I've added who to contact."
   ]
  },
@@ -237,31 +260,36 @@
   "name": "unanswerable_old_hostel_fee",
   "question": "What was the hostel fee for first year B.Tech boys in 2015-16?",
   "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "No passage provides the hostel fee for first‑year B.Tech boys in 2015‑16.  \nCheck the “Hostel Fee Estimate & Demand Letter for UG Students” PDFs on the VNIT website, or contact the Hostel Office at vnit.ac.in for archives from that year.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "answer": "I’m sorry, but none of the provided documents contain the hostel fee for first‑year B.Tech boys for the 2015‑16 academic year.\n\nYou could look for the “Hostel Fee Estimate & Demand Letter for UG Students” for the 2015‑16 session on the VNIT website (e.g., in the Hostel section or the Archives of fee notices).\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
   "sources": [
-   "https://drive.google.com/file/d/1QoFVZPQae7mXoQNza05-K6aUreW79yYm/view",
-   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view",
-   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
-   "https://drive.google.com/file/d/1O_wlD5BE7p_M2lDAK5uhlVRYJzB1z0Dg/view",
    "https://vnit.ac.in/administrative-officers"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 1,
-   "supported": 1,
+   "checked": 2,
+   "supported": 2,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 15.3,
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 9965,
+   "waited_for_quota_s": 38.9,
+   "tool_calls": 2,
+   "passages_seen": 7,
+   "passages_cited": 0
+  },
+  "seconds": 50.9,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
-   "Checked 1 figure(s) against the sources: all found.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "Searched for “hostel fee first year B.Tech boys 2015-16”: HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026-27",
+   "Looked up documents titled like “hostel fees first year B.Tech 2015-16”: Hostel fees; First Year B.Tech Teaching Slots and Time Table; Coursebook for First Year B.Tech & B.Arch",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 2 figure(s) against the sources: all found.",
    "I couldn't find this in VNIT's documents, so I've added who to contact."
   ]
  },
@@ -269,15 +297,12 @@
   "name": "conv_hostel_girls",
   "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session? | and for girls?",
   "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 32,650** for the Winter 2026 hostel session.  \n- Source: *HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026‑27* (dated 2026‑08‑07) – “For Girls : Total amount of Rs. 32650/- Winter 2026 to be paid at the time of Hostel Admission.”  \nNote: This fee applies to first‑year B.Tech girls only.",
+  "answer": "**Rs. 32,650** is the total hostel fee for first‑year B.Tech (or B.Arch) girls for the Winter 2026 session[1].\n\n- This amount is specified in the “HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026‑27” document (dated 2026‑08‑07) as the fee to be paid at the time of hostel admission for girls[1].\n\nNote: The figure applies to first‑year B.Tech/B.Arch female students admitted for the 2026‑27 academic year, payable for the Winter 2026 session.",
   "sources": [
-   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
-   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view",
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
-   "https://drive.google.com/file/d/1v3hzPajyoacstokKd1xWpFce3QcYtzdH/view"
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
@@ -285,14 +310,21 @@
    "supported": 6,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 7.3,
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3481,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "seconds": 7.1,
   "trace": [
    "Read the follow-up with the earlier questions as: “What is the hostel fee for first year B.Tech girls for the Winter 2026 session?”",
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
    "Checked 6 figure(s) against the sources: all found."
   ],
   "understood_as": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?"
@@ -340,24 +372,25 @@
   "name": "clarify_hostel_vague",
   "question": "What is the hostel fee?",
   "pass": false,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "agent (openai/gpt-oss-120b)",
   "missing": [
    "clarify with btech"
   ],
   "forbidden": [],
-  "answer": "**Rs. 18,000** is the annual hostel fee for a single‑seated Ph.D. student (Ph.D. Annual Hostel Fee, 12 months – single seated – Winter 2025/Summer 2026) as per the hostel fee notice dated 3 May 2025 (https://drive.google.com/file/d/17BsFO93mvAVKydGK4g799oj_6_VVuZXW/view).",
+  "answer": "**Hostel fee varies by programme and year**:\n\n- For **Ph.D. single‑seated students** the annual hostel fee is **₹18,000** (Winter 2025)[1].\n- For **first‑year international students** the hostel fee is **₹73,000** for Winter 2026 and **₹58,000** for Summer 2027[2].\n\n*Note:* Different categories (e.g., regular M.Tech., M.Sc., UG) have separate fee structures not listed in the provided passages. Check the specific annexure for your programme on the VNIT website.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
   "sources": [],
   "profile": {},
   "choices": [],
   "verification": null,
   "usage": null,
-  "seconds": 5.7,
+  "seconds": 6.1,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
-   "Checked 6 figure(s) against the sources: all found."
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
   ]
  },
  {
@@ -405,30 +438,35 @@
   "name": "no_clarify_when_specific",
   "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
   "pass": true,
-  "mode": "llm (openai/gpt-oss-20b)",
+  "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "The hostel fee for first‑year B.Tech boys for the Winter 2026 session is **Rs 32,150**.  \n- **HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1st Year (2026‑27)**: “For Boys – Total amount of Rs. 32150/- Winter 2026 to be paid at the time of Hostel Admission.”  \n- **HOSTEL FEES FOR FIRST YEAR BOYS ADMITTED IN YEAR 2026‑27**: “Session wise Hostel Fees payable for Winter 2026 is Rs. 32150/-.”  \nNote: Applies to first‑year B.Tech/B.Arch boys admitted for the 2026‑27 academic year.",
+  "answer": "**Rs. 32,150** for the Winter 2026 session.\n\n- The hostel fee for first‑year B.Tech/B.Arch boys admitted in 2026‑27 is Rs. 32,150 for the Winter 2026 session[1].\n- The same amount is confirmed in the UG hostel admission procedure document for 2026‑27[2].\n\nNote: This fee applies to first‑year B.Tech (and B.Arch) boys for the Winter 2026 session of the 2026‑27 academic year.",
   "sources": [
    "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
-   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
-   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view"
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 9,
-   "supported": 9,
+   "checked": 8,
+   "supported": 8,
    "unsupported": []
   },
-  "usage": null,
-  "seconds": 6.0,
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3328,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 5.9,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
-   "Searched VNIT's pages and documents.",
-   "The agent could not run (the free AI daily allowance is used up (429); it refills gradually over 24 hours), so the answer was written in one step from the first search.",
-   "Checked 9 figure(s) against the sources: all found."
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 8 figure(s) against the sources: all found."
   ],
   "profile": {}
  },

@@ -136,6 +136,124 @@ CHECKS = [
      [NOT_FOUND], [r"32,?150", r"32,?650"]),
     ("unanswerable_director_salary", "What is the monthly salary of the VNIT Director?", [NOT_FOUND], []),
     ("unanswerable_bus_pass", "How much does a day scholar bus pass cost at VNIT?", [NOT_FOUND], []),
+
+    # Added 2026-11-14, to reach 100 cases. Topics come from what students ask
+    # about VNIT on Careers360 and Collegedunia (hostel and mess costs, refunds,
+    # placements, attendance, branch change, scholarships), and the wording is
+    # how students type: lower case, short forms, the odd slip. As above, every
+    # fact was read out of the named VNIT document by hand first.
+
+    # Notice Regarding Revised Hostel Mess Rates Effective from 01 July 2026
+    ("mess_rate_per_day", "how much is the hostel mess charge per day now?", [r"132(\.50?)?"], []),
+    ("mess_breakfast_only", "if i only want breakfast in mess during vacations how much do i pay",
+     [r"\b40\b"], []),
+    ("mess_one_day_guest", "my friend is staying just one day, what does the mess charge for a full day on a normal day?",
+     [r"\b180\b"], []),
+    # HOSTEL FEES FOR SECOND YEAR BOYS ADMITTED IN YEAR 2025-26
+    ("hostel_fee_second_year_boys", "hostel fees for 2nd year btech boys winter 2026?", [r"32,?650"], []),
+    # HOSTEL FEES FOR FOURTH YEAR BOY STUDENTS ADMITTED IN YEAR 2023-24
+    ("hostel_fee_fourth_year_boys", "4th yr boys hostel fee for winter 2026 sem", [r"33,?400"], []),
+    # HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026-27
+    ("hostel_fee_mtech_first_year", "I just got M.Tech admission. What is the hostel fee for Winter 2026?",
+     [r"40,?080"], []),
+    ("mtech_mess_deposit", "what is the mess deposit for first year mtech students?", [r"48,?000"], []),
+    # HOSTEL FEES FOR FIRST YEAR MSc BOYS & GIRLS ADMITTED IN YEAR 2026-27
+    ("hostel_fee_msc_first_year", "msc 1st year hostel fees for winter 2026", [r"33,?400"], []),
+    # HOSTEL FEES FOR FIRST YEAR BOYS ADMITTED IN YEAR 2026-27: Summer 2027 Rs 31,050
+    ("hostel_fee_summer_first_year_boys", "How much hostel fee do first year B.Tech boys pay for Summer 2027?",
+     [r"31,?050"], []),
+    # General Guidelines for the Use of Air Coolers (Summer Season Only)
+    ("hostel_air_cooler", "can we use an air cooler in the hostel room?", [r"summer"], []),
+
+    # Academic Rule Book (M.Tech / M.Sc), 4.7 Attendance Rules and 4.8.2
+    ("attendance_minimum", "whats the minimum attendance needed in mtech courses", [r"75\s*%|75 per"], []),
+    ("attendance_below_75", "what happens if my attendance is below 75% in an M.Tech course?",
+     [r"\bW\b"], []),
+    ("mtech_stipend_cgpa", "below what cgpa does an mtech student lose the assistantship stipend?",
+     [r"6\.75"], []),
+    # Coursebook for First Year B.Tech & B.Arch: "Branch change after 1st year is discontinued."
+    ("branch_change", "can i change my branch after first year at vnit?",
+     [r"discontinu|not (allowed|possible|permitted|available)|no longer"], []),
+    # Allocation for Minor course for the B. Tech batch admitted in 2025
+    ("minor_cgpa", "what cgpa do i need to take a minor degree?", [r"8(\.0)?"], []),
+    ("minor_deadline", "last date to apply for minor course for btech batch 2025?",
+     [r"15(th)?\s*May|May\s*15|15[./-]0?5[./-]2026"], []),
+
+    # ACADEMIC CALENDAR (Winter 2026) For Higher Semester UG & PG
+    ("higher_sem_classes_start", "when do classes start for 2nd year and above in winter 2026?",
+     [r"21(st)?\s*(Jul|July)|(Jul|July)\s*21"], []),
+    ("no_instruction_days", "are there any days without classes in november 2026?",
+     [r"\b9(th)?\b.{0,25}\b13(th)?\b"], []),
+    ("freshers_date", "when is freshers in 2026?", [r"18(th)?\s*Oct|Oct\w*\s*18"], []),
+    # Orientation program for 1st Year B. Tech. and B. Arch. students (2026 Admission)
+    ("orientation_date", "When is the orientation program for new B.Tech students in 2026?",
+     [r"19(th)?\s*(Aug|August)|(Aug|August)\s*19"], []),
+    ("orientation_parents", "can my parents come inside the auditorium for the orientation?",
+     [r"not (allowed|permitted)|live stream"], []),
+    # List of Holiday's during the year 2026
+    ("holiday_holi", "is holi a holiday at vnit in 2026? which date?",
+     [r"0?4[./-]0?3|\b4(th)?\s*Mar|Mar\w*\s*4\b"], []),
+    ("holiday_dussehra", "dussehra holiday date 2026",
+     [r"20[./-]10|\b20(th)?\s*Oct|Oct\w*\s*20\b"], []),
+
+    # PHD Fees Structure
+    ("phd_tuition_full_time", "phd full time tuition fee per semester?", [r"7,?500"], []),
+    # 2 Year Fee Estimate for MBA (ACM)
+    ("mba_tuition", "What is the MBA tuition fee per semester at VNIT?",
+     [r"1,?00,?000|100000|1 lakh"], []),
+    # Cancellation & Refund Policy (SII/DASA/ICCR)
+    ("sii_seat_acceptance_fee", "is the seat acceptance fee refundable for study in india students? how much is it?",
+     [r"35,?000"], []),
+    # Notice – Fee Remission for the year 2026-27, and the advance notice of 05/05/2026
+    ("fee_remission_affidavit", "for fee remission what stamp paper is needed for the no income affidavit",
+     [r"\b100\b"], []),
+    ("fee_remission_other_scholarship", "can i apply for fee remission if i already have another scholarship?",
+     [r"not eligible|cannot|can't|not allowed|ineligible"], []),
+
+    # Kalpana Chawla Chhatravrati Yojna For Engineering Students (Girls Only)
+    ("kalpana_chawla_deadline", "last date for kalpana chawla scholarship?",
+     [r"10[./-]0?8[./-]2026|10(th)?\s*(Aug|August)|(Aug|August)\s*10"], []),
+    ("kalpana_chawla_who", "who can apply for the kalpana chawla chhatravrati yojna", [r"Haryana"], []),
+
+    # Placement and Internship Report 2024-2025
+    ("highest_package_2425", "highest package for btech in 2024-25 placements?", [r"\b64(\.00)?\b"], []),
+    ("average_package_2425", "what was the average package for B.Tech in 2024-25?", [r"10\.70?"], []),
+    ("cse_placement_percent_2425", "what percent of cse students got placed in 2024-25?", [r"93\.40?"], []),
+    ("companies_btech_2425", "how many companies came for btech placements in 2024-25", [r"\b121\b"], []),
+
+    # History
+    ("deemed_university", "when did vnit become a deemed university?", [r"2002"], []),
+    ("old_name", "what was vnit called earlier?", [r"Regional College of Engineering|VRCE"], []),
+    # Head of Departments
+    ("cse_hod", "who is the hod of cse?", [r"Kurhekar"], []),
+    # RTI Officer
+    ("rti_email", "what is the email to file an rti with vnit?", [r"cpio@vnit\.ac\.in"], []),
+    # Library and Information Resource Centre: sections Monday to Saturday 8:30 am to 9:40 pm
+    ("library_timings", "what are the library timings on weekdays?",
+     [r"8[:.]30.{0,25}9[:.]40"], []),
+    # Network Centre: 1 Gbps through the National Knowledge Network
+    ("internet_speed", "how fast is the campus internet?", [r"1\s*Gbps"], []),
+    # VNIT Welcomes Distinguished Alumni from the 1992 CSE Batch: "the Olympic-size Swimming Pool"
+    ("swimming_pool", "does vnit have a swimming pool?", [r"Olympic|yes"], []),
+    # Instructions to Degree Recipients for Attending 24th Convocation – 2026
+    ("convocation_dress_boys", "what should boys wear for the convocation?", [r"kurta"], []),
+    ("convocation_gates", "what time do the gates close on convocation day?", [r"8[:.]15"], []),
+    # Guidelines and Rules Student Council Election (2025-26)
+    ("gs_eligibility", "who can contest for general secretary in the student council election?",
+     [r"4(th)?\s*year|fourth"], []),
+    # Mess Joining Schedule ... 2026-27: first-year students join "from the date of their physical reporting"
+    ("mess_joining_first_year", "when can first year students join the hostel mess?",
+     [r"report"], []),
+
+    # Must decline. None of VNIT's pages or documents gives JoSAA closing
+    # ranks or GATE cut-offs, the placement reports start in 2019-20, and a
+    # warden's home address is not something to give out even if it were there.
+    ("unanswerable_jee_rank", "what jee main rank do i need for cse at vnit?", [NOT_FOUND], []),
+    ("unanswerable_gate_cutoff", "What is the GATE cutoff score for M.Tech CSE at VNIT?", [NOT_FOUND], []),
+    ("unanswerable_old_placement", "what was the average package at vnit in 2015-16?", [NOT_FOUND], []),
+    ("unanswerable_warden_address", "what is the home address of the hostel warden?", [NOT_FOUND], []),
+    ("unanswerable_old_tuition", "What was the B.Tech tuition fee at VNIT in 1990?", [NOT_FOUND],
+     [r"1,?25,?000"]),
 ]
 
 # Two-turn conversations, to check that a follow-up question is understood
@@ -150,6 +268,20 @@ CONVERSATIONS = [
      ["What is the yearly tuition fee for B.Tech students in the OPEN category?",
       "what about M.Tech?"],
      [r"70,?000"], []),
+    # Added 2026-11-14; facts from the documents named above
+    ("conv_hostel_mtech",
+     ["What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
+      "what about mtech?"],
+     [r"40,?080"], []),
+    ("conv_phd_part_time",
+     ["What is the tuition fee for full time PhD per semester?", "and for part time?"],
+     [r"15,?000"], []),
+    ("conv_placement_cse",
+     ["What was the average package for B.Tech in 2024-25?", "and for cse specifically?"],
+     [r"17\.30?"], []),
+    ("conv_holiday",
+     ["When is the Holi holiday in 2026?", "and dussehra?"],
+     [r"20[./-]10|\b20(th)?\s*Oct|Oct\w*\s*20\b"], []),
 ]
 
 # Clarify-or-assume cases (slots.py): name, question, profile the chat page
@@ -165,6 +297,12 @@ CLARIFY_CHECKS = [
      "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?", {},
      {"must": [r"32,?150"]}),
     ("no_clarify_director", "Who is the Director of VNIT?", {}, {"must": [r"Prem\s*Lal\s*Patel"]}),
+    # Added 2026-11-14. HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ... 2026-27 (Rs 40,080)
+    ("clarify_profile_mtech", "hostel fee for first year?",
+     {"programme": "mtech", "gender": "boys"}, {"must": [r"40,?080"]}),
+    ("clarify_tuition_vague", "what is the tuition fee?", {}, {"clarify": "btech"}),
+    # Placement and Internship Report 2024-2025: a placement question needs no details
+    ("no_clarify_placement", "highest package for btech in 2024-25?", {}, {"must": [r"\b64(\.00)?\b"]}),
 ]
 
 # The hard subset, for measuring what each piece of the agent contributes

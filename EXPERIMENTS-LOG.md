@@ -483,7 +483,7 @@ Each configuration saves to its own file (`--config <name>` → `answer_check_<n
 
 **How it is run.** `pipeline/run_ablations.sh`, unattended. Two tracks run side by side because each model has its own daily allowance:
 - gpt-oss-20b finishes the one-shot baseline;
-- gpt-oss-120b runs the five agent configurations in order, then one full run of all 43 cases (39 + 4 clarify), which becomes the headline number.
+- gpt-oss-120b runs the five agent configurations in order, then one full run of all the cases, which becomes the headline number: 43 when it started (39 + 4 clarify), 100 since 14 Nov (§27).
 
 `check_answers.py` now exits with 2 when a run is unfinished; the script waits 30 minutes and resumes. `ablation_table.py` prints the table. It started on 30 Oct 2026 at 15:08 IST.
 
@@ -497,12 +497,32 @@ Hard set: 14 questions (placements, msc_tuition, barch_tuition, midsem_slot_a, s
 | configuration | correct | must-decline refused | tokens / question | seconds / question | tool calls / question | gate fired | asked back | switches |
 |---|---|---|---|---|---|---|---|---|
 | one-shot | 9/14 | 2/2 | — | 44 | — | 0 | 1 | `--pipeline oneshot` |
-| agent, no tools | 7/13 (1 not answered yet) | 2/2 | 2,736 | 45 | 0.0 | 0 | 0 | `AGENT_TOOLS=off CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
-| agent (30 Oct) | 2/4 (10 not answered yet) | 0/0 | 3,419 | 36 | 0.0 | 0 | 0 | `CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
-| + CRAG gate | 0/0 (14 not answered yet) | 0/0 | — | — | — | 0 | 0 | `CLARIFY=off LOOKUP_TABLE=off` |
+| agent, no tools | 7/14 | 2/2 | 2,736 | 48 | 0.0 | 0 | 0 | `AGENT_TOOLS=off CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
+| agent (30 Oct) | 9/14 | 2/2 | 6,269 | 34 | 0.8 | 0 | 0 | `CRAG_GATE=off CLARIFY=off LOOKUP_TABLE=off` |
+| + CRAG gate | 9/14 | 2/2 | 5,803 | 31 | 0.6 | 9 | 0 | `CLARIFY=off LOOKUP_TABLE=off` |
 | + clarify | not run yet | | | | | | | `LOOKUP_TABLE=off` |
 | full | not run yet | | | | | | | `none` |
 <!-- /ablation-table -->
+
+## 27. A 100-case answer check, written like students (2026-11-14)
+
+**Why.** 39 questions (plus 4 clarify cases) is a small sample, and most were written by the developer, in full sentences, about topics already known to be in the data. Real students type "hostel fees for 2nd year btech boys winter 2026?" and ask about things nobody tested.
+
+**How the 57 new cases were chosen.**
+- **Topics** from the questions students actually ask about VNIT on Careers360 and Collegedunia: hostel and mess costs, refunds and cancellation, placements (packages, companies), attendance, branch change, scholarships, contacts.
+- **Facts** only from VNIT's own documents in `data/raw`, each read by hand and named in a comment above the case, as in §18. Third-party sites were used for *what* to ask, never for the answers; their figures (₹35,000–70,000 a year for the hostel, for example) are approximate and out of date.
+- **Wording** as students type: lower case, short forms ("4th yr", "hod of cse", "msc 1st year"), no "VNIT" in many questions.
+- **Spread:** 44 new facts (mess rates, hostel fees for every year and for M.Tech/M.Sc, the PG attendance and stipend rules, branch change, minors, the Winter 2026 calendar, holidays, PhD/MBA fees, refunds, fee remission, scholarships, 2024-25 placements, history, HoD, RTI, library, internet, convocation, elections), 5 more that must be declined (JoSAA closing ranks and GATE cut-offs, which no VNIT document gives; a 2015-16 package, older than any placement report; a warden's home address; a 1990 tuition fee), 4 more conversations and 3 more clarify cases.
+
+The counts are now 77 facts, 10 must-decline, 6 conversations and 7 clarify cases: **100**. The hard set of §26 is unchanged, so the ablation rows stay comparable; the "full (all questions)" run now covers all 100.
+
+**First check, no key.** The new cases have not been through the AI yet; that is the full run's job. Instead, each was run through the chatbot's own steps up to the AI call (route, topic, profile, search, clarify, search grade with its corrective passages), checking the expected answer against the passages the AI would be shown. **41 of the 47** answerable single questions reach it. The misses are kept, because they are real weak spots, not faults in the tests:
+- **Not found by search:** when higher-semester classes start (21 July), the Holi holiday (4 March), PhD full-time tuition (₹7,500 a semester), how many companies came for B.Tech in 2024-25 (121), who can stand for General Secretary (4th-year students). The agent may still find them with its tools.
+- **Asks back when it need not:** "when can first year students join the hostel mess?" gets a programme question, although the answer (from the day they report) is the same for everyone.
+- **Does not ask back when it should:** "what is the tuition fee?" is answered without asking which programme.
+- **Profile not enough:** "hostel fee for first year?" with the profile M.Tech / boys does not bring the M.Tech fee sheet (₹40,080) to the AI.
+
+Conversations need the AI's rewrite and were not checked this way.
 
 ## Ideas not tried (would need more time/budget to responsibly test)
 
