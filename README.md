@@ -76,7 +76,8 @@ Measured from 30 October to 8 November 2026, with every answer coming from the p
 | (same) | The 5 questions whose answers are *not* in VNIT's material | **5/5 correctly refused** (no made-up answers) |
 | (same) | How often the agent decided to use tools | 7 of the 43 saved answers |
 | `check_answers.py --pipeline oneshot` | The same 43 cases through the older one-search, one-call pipeline (finished 8 Nov) | **34/39 + 4/4** (38/43). It misses the placement totals, the summer-term fee and the B.Arch fee, which the agent finds by opening documents |
-| `check_answers.py`, the 57 cases added 14 Nov | Not yet asked through the AI (they wait for the full run). Checked without a key instead: does search bring the passage holding the answer to the AI? | **41 of 47** answerable ones; the 6 misses are listed in `EXPERIMENTS-LOG.md` §27 |
+| `check_answers.py`, the 57 cases added 14 Nov | Asked through the agent, a day's free allowance at a time (started 14 Nov) | **13/13 correct so far** (mess rates, hostel fees for every year and for M.Tech/M.Sc, mess deposit, air coolers, attendance rules, the M.Tech stipend rule); 44 still to be asked. All 100 so far: **48/50** |
+| (same, no key) | Does search bring the passage holding the answer to the AI? | **41 of 47** answerable ones; the 6 misses are listed in `EXPERIMENTS-LOG.md` §27 |
 | `ablation_table.py` | What each piece adds, on 14 hard questions | being measured (`EXPERIMENTS-LOG.md` §26) |
 | `test_agentic.py` | Intent, search grade, clarifying questions, hand-off, table lookup, the tools, the verifier and the decision loop (no key needed) | **54/54** |
 | `chunk_ranks.py` | Does the passage holding the answer reach the AI? (32 questions) | 29/32 |

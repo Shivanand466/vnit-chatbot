@@ -1254,15 +1254,15 @@
   ]
  },
  {
-  "name": "conv_hostel_girls",
-  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session? | and for girls?",
+  "name": "mess_rate_per_day",
+  "question": "how much is the hostel mess charge per day now?",
   "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 32,650** for first‑year B.Tech (and B.Arch) girls for the Winter 2026 session[1].\n\n- This amount is the total hostel fee payable at the time of admission for girls admitted in 2026‑27[1].\n- Applies specifically to first‑year undergraduate (B.Tech/B.Arch) female students.",
+  "answer": "**₹132.5 per day** (effective from 1 July 2026)[1]\n\n- The notice revises all hostel mess rates to a uniform charge of ₹132.5 per day, inclusive of taxes[1].\n- This rate applies to any student availing the mess facility for a minimum of three consecutive days[1].",
   "sources": [
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
+   "https://drive.google.com/file/d/1d8WE_sFxw8pBtdvXukeSw4USCYwaXUD5/view"
   ],
   "verification": {
    "verdict": "verified",
@@ -1272,102 +1272,32 @@
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3937,
+   "tokens": 3797,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 8,
-   "passages_cited": 1
+   "passages_cited": 2
   },
+  "seconds": 102.3,
   "trace": [
-   "Read the follow-up with the earlier questions as: “What is the hostel fee for first year B.Tech girls for the Winter 2026 session?”",
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
-   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
-   "The first search looked weak (the top passages do not mention “girls”, “sessi”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “HOSTEL FEES FOR SECOND YEAR GIRLS ADMITTED IN YEAR 2025-26”.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked weak (the top passages do not mention “now”), so I also looked inside “Hostel fees”.",
    "Wrote the answer from the first search; no further lookups were needed.",
    "Checked 3 figure(s) against the sources: all found."
-  ],
-  "understood_as": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?"
- },
- {
-  "name": "conv_mtech_tuition",
-  "question": "What is the yearly tuition fee for B.Tech students in the OPEN category? | what about M.Tech?",
-  "pass": true,
-  "mode": "agent (openai/gpt-oss-120b)",
-  "missing": [],
-  "forbidden": [],
-  "answer": "**₹70,000 per year** for M.Tech students in the OPEN (and OBC/EWS) category[1].\n\n- The 2‑year fee estimate lists Tuition Fee — First Year: 70,000; Second Year: 70,000 for OPEN/OBC/EWS students[1].\n- The 2024‑25 ISR brochure states Tuition Fee — M Tech (Rs): 70,000 per year[2].\n- The 2026‑27 brochures also show Tuition Fee — M Tech (Rs): 70,000 per year[3][4].\n\nNote: I could not confirm 27 in VNIT's documents, so please check the linked source before relying on it.",
-  "sources": [
-   "https://drive.google.com/file/d/1rSmfTQ0R2G5eeI7-WvnVG0Lsf8OdOnzy/view",
-   "https://vnit.ac.in/section/academics/wp-content/uploads/2024/06/Info-Brochure-updated-on-20th-Jun-2024.pdf",
-   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view",
-   "https://drive.google.com/file/d/1rNIoQRRMIVkyBs2m0OivVTgkTNYPwadl/view"
-  ],
-  "verification": {
-   "verdict": "unsupported",
-   "checked": 9,
-   "supported": 8,
-   "unsupported": [
-    "27"
-   ]
-  },
-  "usage": {
-   "llm_calls": 2,
-   "tokens": 6161,
-   "waited_for_quota_s": 0.0,
-   "tool_calls": 0,
-   "passages_seen": 7,
-   "passages_cited": 5
-  },
-  "trace": [
-   "Read the follow-up with the earlier questions as: “What is the yearly tuition fee for M.Tech students in the OPEN category?”",
-   "A question about VNIT: looking it up.",
-   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
-   "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 9 figure(s): could not find 27 in the sources.",
-   "Rewrote the answer after the check. Checked 9 figure(s): could not find 27 in the sources."
-  ],
-  "understood_as": "What is the yearly tuition fee for M.Tech students in the OPEN category?"
- },
- {
-  "name": "clarify_hostel_vague",
-  "question": "What is the hostel fee?",
-  "pass": true,
-  "mode": "clarify",
-  "missing": [],
-  "forbidden": [],
-  "answer": "Which programme are you asking about?",
-  "sources": [],
-  "profile": {},
-  "choices": [
-   "btech",
-   "barch",
-   "msc",
-   "phd"
-  ],
-  "verification": null,
-  "usage": null,
-  "trace": [
-   "A question about VNIT: looking it up.",
-   "Topic: hostel.",
-   "Searched VNIT's pages and documents.",
-   "Your question fits several different documents (B.Tech, B.Arch, M.Sc, Ph.D) with different answers, so I asked which one you mean."
   ]
  },
  {
-  "name": "clarify_then_answer",
-  "question": "What is the hostel fee for first year?",
+  "name": "mess_breakfast_only",
+  "question": "if i only want breakfast in mess during vacations how much do i pay",
   "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs 32,650** for first‑year B.Tech (UG) girls [​P1​].\n\n- This amount is listed in the “HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026‑27” under the payment category “Hostel Fee For First Year UG/PG/PhD – For Girls” [​P1​].",
+  "answer": "**₹40 per day** for breakfast during vacations (paid directly to the mess contractor)[1].\n\n- This rate is listed in the “Notice Regarding Revised Hostel Mess Rates Effective from 01 July 2026” and applies to any student availing the mess on a need‑basis or during vacation periods.\n\nNote: The charge is per day; you pay the contractor directly each day you take breakfast.",
   "sources": [
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
-   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
-   "https://drive.google.com/file/d/13pqqEFCDId3FtSWE-6JW0ejbS4aowgrJ/view",
-   "https://drive.google.com/file/d/1v3hzPajyoacstokKd1xWpFce3QcYtzdH/view",
-   "https://drive.google.com/file/d/1zyv_0Bmk0YOAZsdBPDAKrFugH6ewyKiw/view"
+   "https://drive.google.com/file/d/1d8WE_sFxw8pBtdvXukeSw4USCYwaXUD5/view"
   ],
   "verification": {
    "verdict": "verified",
@@ -1377,73 +1307,172 @@
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3357,
+   "tokens": 3282,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 6,
-   "passages_cited": 0
+   "passages_cited": 1
   },
+  "seconds": 9.2,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
-   "Assuming B.Tech girls, from earlier in this chat.",
-   "Searched VNIT's pages and documents: 6 passages from 5 sources.",
-   "The first search looked relevant (score 7.2).",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked weak (best match scored only 1.7); no better-titled page had a relevant passage, so I continued with what it found.",
    "Wrote the answer from the first search; no further lookups were needed.",
    "Checked 2 figure(s) against the sources: all found."
-  ],
-  "profile": {
-   "programme": "btech",
-   "gender": "girls"
-  }
+  ]
  },
  {
-  "name": "no_clarify_when_specific",
-  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
+  "name": "mess_one_day_guest",
+  "question": "my friend is staying just one day, what does the mess charge for a full day on a normal day?",
   "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 32,150** for the Winter 2026 session.\n\n- The hostel fee for first‑year boys (B.Tech/B.Arch) admitted in 2026‑27 is Rs. 32,150 for Winter 2026[1].\n- The same amount is confirmed in the UG hostel admission procedure for 2026‑27: “For Boys: Total amount of Rs. 32150/- Winter 2026”[2].\n\nNote: This fee applies to first‑year B.Tech/B.Arch male students admitted for the 2026‑27 academic year.",
+  "answer": "**₹180 per day** for a single‑day full‑day mess charge on a normal day[1].\n\n- The revised hostel mess rates (effective 1 July 2026) state that a student who avails the mess for only one day is charged **₹180 per day on normal days**; higher rates apply on special lunch/dinner days and Fridays[1].\n\nNote: “Normal day” means any day that is not a Sunday, Wednesday (special lunch/dinner) or Friday.",
   "sources": [
-   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
-   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
+   "https://drive.google.com/file/d/1d8WE_sFxw8pBtdvXukeSw4USCYwaXUD5/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 9,
-   "supported": 9,
+   "checked": 3,
+   "supported": 3,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3400,
+   "tokens": 3266,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 6,
-   "passages_cited": 2
+   "passages_cited": 1
   },
+  "seconds": 12.2,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
-   "The first search looked relevant (score 8.0).",
+   "The first search looked weak (best match scored only 1.4); no better-titled page had a relevant passage, so I continued with what it found.",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 9 figure(s) against the sources: all found."
-  ],
-  "profile": {}
+   "Checked 3 figure(s) against the sources: all found."
+  ]
  },
  {
-  "name": "no_clarify_director",
-  "question": "Who is the Director of VNIT?",
+  "name": "hostel_fee_second_year_boys",
+  "question": "hostel fees for 2nd year btech boys winter 2026?",
   "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Prof. (Dr.) Prem Lal Patel** is the Director of VNIT.\n\n- The institute’s Director page lists Prof. (Dr.) Prem Lal Patel as having taken charge on 21 May 2024[1].\n- A VNIT news‑letter notes his inaugural visit as the new Director, confirming his appointment on 21 May 2024[2].",
+  "answer": "**Rs 32,650** is the hostel fee for 2nd‑year BTech boys for the Winter 2026 session [​P1】.\n\n- This amount is listed in the “HOSTEL FEES FOR SECOND YEAR BOYS ADMITTED IN YEAR 2025‑26” document dated 10 April 2026, under “Session wise Hostel Fees payable for the Academic Year 2026‑27 for Winter 2026”[1].\n\nNote: The figure applies to BTech (4‑year) second‑year male students for the winter term of the 2026‑27 academic year.",
   "sources": [
-   "https://vnit.ac.in/director-vnit-nagpur/",
-   "https://vnit.ac.in/basic_science/chemistry/wp-content/uploads/2024/08/News-Letter-Issue-17.pdf"
+   "https://drive.google.com/file/d/1lEgLzIoqiU8iTZqFtyka6x_RgyGwZeW5/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 8,
+   "supported": 8,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4020,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 9.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 7.3).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 8 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_fourth_year_boys",
+  "question": "4th yr boys hostel fee for winter 2026 sem",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 33,400** for the Winter 2026 semester.\n\n- This amount is listed in the “Hostel Fees for Fourth Year Boy Students admitted in Year 2023‑24” document (dated 10 Apr 2026) as the fee payable for the Academic Year 2026‑27, Winter 2026 semester[1].\n\nNote: Applies to fourth‑year male undergraduate students admitted in the 2023‑24 batch.",
+  "sources": [
+   "https://drive.google.com/file/d/190mQEfAhbooI0vwmhHkNgqNQf2VkMWGZ/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 8,
+   "supported": 8,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3223,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 5,
+   "passages_cited": 1
+  },
+  "seconds": 9.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 5 passages from 5 sources.",
+   "The first search looked relevant (score 7.0).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 8 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_mtech_first_year",
+  "question": "I just got M.Tech admission. What is the hostel fee for Winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 40,080**\n\n- According to the “HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026‑27” notice (dated 10 Apr 2026), the Winter 2026 hostel fee is Rs. 40,080 /‑[1]\n\nNote: This amount applies to first‑year M.Tech students (both boys and girls) admitted for the 2026‑27 academic session.",
+  "sources": [
+   "https://drive.google.com/file/d/1QoFVZPQae7mXoQNza05-K6aUreW79yYm/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4344,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
+  },
+  "seconds": 10.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “just”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “Notice No. 3265 dated 17 November 2025 Regarding Hostel Fee payment information for Summer 2025 for all M.Tech. – Ph.D. Students for 2025-26”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_mess_deposit",
+  "question": "what is the mess deposit for first year mtech students?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Mess deposit for first‑year M.Tech students: ₹ 48,000 (one‑year advance).**\n\n- Listed in the “Hostel Fee (Refundable / Adjustable as per actual)” table for first‑year M.Tech students (academic year 2025‑26) as the total mess deposit amount ₹ 48,000[1].\n\nNote: This figure applies to the academic year 2025‑26 and covers the full year’s mess charges.",
+  "sources": [
+   "https://drive.google.com/file/d/13pqqEFCDId3FtSWE-6JW0ejbS4aowgrJ/view"
   ],
   "verification": {
    "verdict": "verified",
@@ -1453,20 +1482,238 @@
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 2679,
+   "tokens": 4019,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 12.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (best match scored only 2.8); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_msc_first_year",
+  "question": "msc 1st year hostel fees for winter 2026",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs 33,400** is the hostel fee for first‑year MSc students (boys & girls) for the Winter 2026 session of the 2026‑27 academic year[1].\n\n- This amount is listed in the “HOSTEL FEES FOR FIRST YEAR MSc BOYS & GIRLS ADMITTED IN YEAR 2026‑27” document dated 10 April 2026.\n\nNote: The fee applies to all MSc first‑year students (both genders) for the Winter 2026 period.",
+  "sources": [
+   "https://drive.google.com/file/d/1cQzCo7gDQ0crd8GydTnT6agQPB5XQ8sX/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3771,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 8.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 9.6).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_summer_first_year_boys",
+  "question": "How much hostel fee do first year B.Tech boys pay for Summer 2027?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 31,050** for Summer 2027.\n\n- The hostel fee schedule for first‑year boys admitted in 2026‑27 lists Summer 2027 fee as Rs. 31,050 /‑[1].\n\nNote: This amount applies to first‑year B.Tech (and B.Arch) male students.",
+  "sources": [
+   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3269,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 5,
+   "passages_cited": 1
+  },
+  "seconds": 9.5,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 5 passages from 4 sources.",
+   "The first search looked relevant (score 7.8).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_air_cooler",
+  "question": "can we use an air cooler in the hostel room?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Yes, you may use an air‑cooler in a hostel room, but only during the summer season and according to the hostel’s guidelines.**\n\n- Air coolers are permitted for use in hostels **only in the summer season** and must be placed at the designated location without obstructing passages [1].\n- The cooler must meet safety requirements (proper earthing, no loose wiring, within permissible electrical load) and residents are responsible for any damage caused [1].\n- General hostel rules state that all electrical appliances are prohibited **except air coolers in summer** [2][3][4].\n\n**Note:** Use is limited to the summer period; compliance with the “General Guidelines for the Use of Air Coolers” is mandatory.",
+  "sources": [
+   "https://drive.google.com/file/d/1XFOAbD5WHWwp86u_3qbkCSoRT-AmHGEo/view",
+   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view",
+   "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3217,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 6
+  },
+  "seconds": 8.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 7.5).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "attendance_minimum",
+  "question": "whats the minimum attendance needed in mtech courses",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Minimum attendance required for M.Tech courses is **75 %** of the classes actually held.**\n\n- The Academic Rule Book states that “Every student must attend minimum of 75 % of the classes actually held for that course” for M.Tech (and M.Sc) programmes[1].\n- The same 75 % minimum is repeated in the course‑book for Production & Industrial Engineering M.Tech, Bio‑Medical Engineering M.Tech, CAD/CAM M.Tech and Electric Vehicle Technology M.Tech programmes[2][3][4][5].\n\n*Note: Attendance may be relaxed by the course coordinator by up to 25 % in exceptional cases, but the baseline minimum remains 75 %.*",
+  "sources": [
+   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view",
+   "https://vnit.ac.in/engineering/mech/wp-content/uploads/2025/07/M.-Tech.-PIE-course-book-Oct-2024-1.pdf",
+   "https://drive.google.com/file/d/1ryERrEMqvSeJt8Ie7ShjO53o9wUFSlhM/view",
+   "https://drive.google.com/file/d/1bFyHCUpagNUThwLBf_GkryhUnPuFaQRv/view",
+   "https://drive.google.com/file/d/1TrDoTrVEmNbPbLHA8c3OD45_rEHI44sp/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3296,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 5
+  },
+  "seconds": 8.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: department.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (best match scored only 0.6); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "attendance_below_75",
+  "question": "what happens if my attendance is below 75% in an M.Tech course?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**If your attendance falls below 75 % in an M.Tech course you will receive a “W” (withdrawn) grade, be barred from the end‑semester exam, re‑examination and summer term, and your answer books will not be evaluated; additionally, any assistantship you hold will not be paid for that month and repeated shortfall can lead to termination of your studentship and assistantship**[1].",
+  "sources": [
+   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3368,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 7,
    "passages_cited": 2
   },
+  "seconds": 7.7,
   "trace": [
    "A question about VNIT: looking it up.",
-   "Topic: people.",
-   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
-   "The first search looked relevant (score 8.5).",
+   "Topic: department.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked relevant (score 4.9).",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 4 figure(s) against the sources: all found."
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_stipend_cgpa",
+  "question": "below what cgpa does an mtech student lose the assistantship stipend?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**M.Tech students lose their assistantship stipend if their CGPA falls below **6.75**.**\n\n- The Academic Rule Book states that if a student’s CGPA, calculated after re‑examination, is less than 6.75, the stipend is reduced according to institute norms, and can be restored only when the CGPA rises to 6.75 or above [1].\n\n**Note:** The CGPA threshold applies after any re‑examination; improvement to 6.75 or higher restores the stipend.",
+  "sources": [
+   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view"
   ],
-  "profile": {}
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 2,
+   "tokens": 6916,
+   "waited_for_quota_s": 3.0,
+   "tool_calls": 1,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 23.1,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: scholarship.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (the top passages do not mention “lose”, “mtech”); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “M.Tech assistantship CGPA below stipend terminated”: Academic Rule Book; M Tech Institute Spot Round Admission (ISR) 2026 for GATE, Non-GATE & Sponsored candidates",
+   "Wrote the answer after 1 round(s) of tool use.",
+   "No figures, dates or contact details to check in this answer."
+  ]
  }
 ]
