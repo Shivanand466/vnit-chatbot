@@ -147,3 +147,43 @@ Notices search, tested in headless Edge (screenshots, then deleted):
 `python build_site.py`: `Built 89 pages into dist/`, no warnings.
 
 **Done when:** every pages.json entry has a built page: yes, 75 of 75. Notices search filters correctly: yes (table above). Build warning-free: yes.
+
+## Step 5. The VNIT Assistant chat widget
+
+Built `assets/js/vnit-assistant.js` and `assets/css/vnit-assistant.css`, loaded on every page by `templates/base.html`. Every widget class starts with `va-` so it can't clash with the site's styles.
+
+- **Opening and closing:** a round "Ask VNIT Assistant" button sits bottom-right. It opens a 400×600 panel, which is full screen below 600 px. Esc or the × button closes it. Focus moves to the question box on opening and back to the button on closing. `?assistant=open` in the address opens it on load (for screenshots), and so does any `[data-open-assistant]` element, such as the home page button and the footer button.
+- **Suggested questions per page:** taken from HOW-TO-RUN §3.
+  - Hostel pages: the vague "What is the hostel fee?" (it asks back with buttons), the first-year B.Tech boys fee, and the wifi question that it can't answer.
+  - Academics: calendar dates. Admissions: tuition. Departments: Civil, Electrical and Mechanical questions. About and Administration: Director and Dean (Academic). Notices: scholarships.
+- **Which server it talks to:** `window.VNIT_ASSISTANT_API` if a page sets it. Otherwise, when the page is served over http(s) under `/site/`, the same address's `/ask`. Otherwise `http://127.0.0.1:8000/ask`. There is no settings box.
+- **Server not reachable:** "The VNIT Assistant isn't running. Start it with start_website.bat."
+- **Conversation state:** `asked` and `profile` live in memory only (no localStorage, no cookies), exactly like the chat page. **They are forgotten when the visitor moves to another page.** This is accepted, and matches the chatbot's privacy rule.
+
+Test, no server running: `tools/widget_test.html` loads `students/hostel.html?assistant=open` in a frame, types "What is the hostel fee?" and presses Ask. The screenshot shows the question, then "The VNIT Assistant isn't running. Start it with start_website.bat." with the mode "error"; the page itself is unaffected. At 390 px the panel fills the screen, with the three hostel suggestions.
+
+Also dropped from page text in this step: photo file names that the crawl picked up from image sliders ("IMG-20240302-WA0016", "Oplus_131072 cultnite").
+
+**Feature comparison with `vnit-chatbot/frontend/index.html`:**
+
+| Chat page feature | Widget |
+|---|---|
+| Starter questions | yes, chosen per page (3) |
+| Markdown answers via `renderAnswer`, everything escaped first with `escapeHtml` | yes, same code |
+| `[1]` citations as superscripts | yes |
+| Numbered sources as links, only `http(s)://` URLs made links | yes; a non-http source shows as plain text instead of `href="#"` |
+| "Understood as" line | yes |
+| Clarify choice buttons that set the profile and re-ask the original question with the same history | yes |
+| "Clear my details" | yes (a button, shown only when details are set) |
+| "How I found this" with the step kinds | yes, same labels |
+| ✓ / ⚠ verification badge | yes |
+| Mode note | yes |
+| 👍/👎 calling `/feedback` | yes; not shown for direct, clarify or error answers (the chat page also shows them on errors) |
+| "Searching…" then "Looking further…" after 12 s | yes |
+| Error messages: server's `detail` / HTTP status | yes; "can't reach the server" now says the runbook's "isn't running" message |
+| Follow-up history (last 3 questions) | yes |
+| Enter sends, Shift+Enter new line, box grows | yes |
+| Server address box (`#api-row`) | **no**, on purpose: no settings for visitors; the address is chosen automatically (above) |
+| Dark mode | no; the site is light only (the runbook says dark mode isn't needed) |
+
+**Done when:** the widget loads on every built page: it is in `base.html`, and Step 7 checks every page. With no server, asking shows the "isn't running" message, not a broken page: yes. Feature comparison: above.

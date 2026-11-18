@@ -5,6 +5,7 @@ Step 1: DONE - 75 pages in 11 sections, 6 left out or special; 401 notices
 Step 2: DONE - build_site.py builds 87 pages; no 40% boilerplate found; widget text and zero counters dropped
 Step 3: DONE - home page: hero, 10 latest notices, news, quick links, director, events, rankings, emergency numbers
 Step 4: DONE - 75 content pages, 11 section indexes, notices with working search, contact, 404 (89 pages)
+Step 5: DONE - floating VNIT Assistant on every page with every chat-page feature except the server box; 'isn't running' message tested
 
 ## Decisions
 
@@ -18,6 +19,7 @@ Step 4: DONE - 75 content pages, 11 section indexes, notices with working search
 - Home "Scholarships" quick link opens notices.html?q=scholarship (no scholarship page exists in the crawl). notices.js must read ?q= into the search box.
 - Home news skips headlines about lists of candidates (privacy) and one garbled Marathi headline.
 - Contact page = contact_us.txt + telephone_directory.txt (both Source lines shown); the faithfulness check must accept text from either raw file there.
+- Widget test harness: `bash tools/widget_shot.sh <page> <png> <w> <h> "<question>" ["B.Tech|Girls"] [http://127.0.0.1:8010/site/]` screenshots the page with the widget open after asking (and clicking choices). WAIT_MS env sets how long Edge waits (default 8000).
 - 404.html uses /site/ for its links (it is shown at arbitrary addresses by the server).
 
 ## Next step should know

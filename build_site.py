@@ -34,6 +34,8 @@ HINDI_NAME = "विश्वेश्वरय्या राष्ट्र�
 # Lines that are controls or labels of the old site's widgets, not content.
 WIDGET_LINES = {"Previous slide", "Next slide", "Read more →", "vnit_web", "View More", "​"}
 # Animated counters ("Faculty 0") were crawled before they counted up; the 0 is wrong.
+# Photo file names the crawl picked up from image sliders ("IMG-20240302-WA0016").
+PHOTO_NAME = re.compile(r"^(IMG|Oplus|DSC|WhatsApp Image)[-_ ]?[\w-]*( cultnite)*$", re.I)
 COUNTER_LINE = re.compile(r"^[A-Za-z][A-Za-z .()']{1,40} 0$")
 
 EMAIL = re.compile(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+")
@@ -75,7 +77,7 @@ def find_boilerplate(raw_files):
 # ---------------------------------------------------------------- cleaning
 
 def is_widget(line):
-    return line in WIDGET_LINES or bool(COUNTER_LINE.match(line))
+    return line in WIDGET_LINES or bool(COUNTER_LINE.match(line) or PHOTO_NAME.match(line))
 
 
 def should_join(previous, line):
