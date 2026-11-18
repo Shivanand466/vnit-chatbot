@@ -10,3 +10,7 @@ checks/*.png
 *key*.txt
 *secret*.txt
 .env
+
+# Full crawl of vnit.ac.in (HTML), rebuilt by tools/crawl_site.py
+crawl/html/
+content/pages/

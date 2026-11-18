@@ -62,6 +62,17 @@
     placements: "general", news: "general", recruitment: "people", more: "people", home: "general"
   };
 
+  // Which suggestions fit which part of the site, by the page's address (as on vnit.ac.in).
+  var PATH_SUGGESTIONS = [
+    [/hostel|non-saarc|facilities-hostel/, "hostel"],
+    [/section\/academics\/(fees|admission)|academic-programs/, "admissions"],
+    [/section\/academics|academic-event-calendar/, "academics"],
+    [/engineering\/|basic_science\/|\/arch\//, "departments"],
+    [/section\/rnc|5g-lab|centre-for-innovation|s-tic|coe/, "research"],
+    [/director|deans|registrar|head-of-departments|bog-|chairman|officers/, "people"],
+    [/notices/, "scholarships"]
+  ];
+
   var KIND = { understand: "understood", route: "decided", search: "searched",
     tool: "acted", answer: "answered", verify: "checked", revise: "revised",
     fallback: "fallback", grade: "graded", clarify: "asked back", handoff: "handed off" };
@@ -79,8 +90,11 @@
   }
 
   function suggestionsForPage() {
+    var path = window.location.pathname;
     var section = document.body.getAttribute("data-section") || "general";
-    if (/hostel|non-saarc/.test(window.location.pathname)) return SUGGESTIONS.hostel;
+    for (var i = 0; i < PATH_SUGGESTIONS.length; i++) {
+      if (PATH_SUGGESTIONS[i][0].test(path)) return SUGGESTIONS[PATH_SUGGESTIONS[i][1]];
+    }
     return SUGGESTIONS[SECTION_SUGGESTIONS[section] || "general"];
   }
 

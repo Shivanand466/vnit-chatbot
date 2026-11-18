@@ -42,7 +42,8 @@ def problems(html, needs_source):
 
 def main():
     sitemap = json.loads((DIST / "sitemap.json").read_text(encoding="utf-8"))
-    content_pages = {p["slug"] + ".html" for p in json.loads((CONTENT / "pages.json").read_text(encoding="utf-8"))}
+    site_paths = {p["path"] for p in json.loads((CONTENT / "site.json").read_text(encoding="utf-8"))}
+    content_pages = {e["path"] for e in sitemap if e.get("source_path") in site_paths}
     bad = 0
     for entry in sitemap:
         html = (DIST / entry["path"]).read_text(encoding="utf-8")

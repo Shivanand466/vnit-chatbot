@@ -183,3 +183,26 @@ a[href^="tel:"] { white-space: nowrap; }
   .breadcrumbs li + li::before { margin-left: 0; }
   .breadcrumbs ol { column-gap: 6px; row-gap: 2px; }
 }
+
+/* Full-site menus: nested levels inside the dropdowns and the side menus */
+.submenu ul, .side-menu ul ul { list-style: none; margin: 0; padding: 0 0 4px 12px; }
+.submenu .menu-label, .side-menu .menu-label { display: block; padding: 8px 14px 4px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+.submenu ul a { padding: 6px 14px; font-size: 0.9rem; }
+.submenu { min-width: 300px; }
+.side-menu .menu-label { padding: 8px 8px 2px; }
+.page-layout.single { grid-template-columns: minmax(0, 1fr); }
+.page-layout.single .content { max-width: 960px; }
+.post-date { color: var(--muted); font-size: 0.9rem; margin: -10px 0 16px; }
+.pictures-note { background: var(--wash); border-left: 4px solid var(--accent); padding: 10px 14px; border-radius: var(--radius); }
+.content h2 { font-size: 1.25rem; }
+.content h3 { font-size: 1.08rem; }
+.content h4 { font-size: 1rem; margin: 16px 0 6px; color: var(--navy-2); }
+.content ul, .content ol { padding-left: 22px; margin: 0 0 14px; }
+.content li { margin: 3px 0; }
+.content blockquote { margin: 0 0 14px; padding: 8px 14px; border-left: 3px solid var(--line); color: var(--muted); }
+.content td, .content th { min-width: 4em; }
+@media (max-width: 899px) {
+  .side-menu ul { display: block; }
+  .side-menu a { border: 0; padding: 6px 8px; font-size: 0.9rem; }
+  .side-menu ul ul { padding-left: 12px; }
+}
