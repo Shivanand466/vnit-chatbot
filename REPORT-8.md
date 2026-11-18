@@ -104,3 +104,23 @@ Built 87 pages into dist/
 87 = 75 content pages + 11 section index pages + the home page (a placeholder until Step 3).
 
 **Done when:** builds without errors: yes. `dist/index.html` exists: yes. At least one page per section: yes, every section folder has its pages plus `index.html`. Dropped-boilerplate list and page count: above.
+
+## Step 3. Home page
+
+Built `templates/home.html` and `build_home()` in `build_site.py`. Every item is copied from a raw file or `notices.json`:
+
+| Part | Copied from |
+|---|---|
+| Hero line | first sentence of `history.txt`: "Visvesvaraya National Institute of Technology, Nagpur is one of the thirty National Institutes of Technology in the country." |
+| Buttons | Admissions → `admissions/admission.html`, Academic calendar → `academics/academic-calendar.html`, Ask the VNIT Assistant (opens the widget, Step 5) |
+| Latest notices | the 10 newest in `notices.json`, with date and category; "All notices" → `notices.html` |
+| News and events | the first 12 headlines under "📢 Latest VNIT News" in `home.txt`. Each one that has its own page, or appears on a crawled News listing page, links there; the rest are plain text. Headlines about lists of candidates and one Marathi headline that the crawl garbled (contains �) are skipped. |
+| Quick links | Fees, Hostel, Academic calendar, Placements, Scholarships (opens Notices filtered to "scholarship"; there is no scholarship page in the crawl, only scholarship notices), Telephone directory, Contact |
+| From the Director | name, title and the first two sentences of the bio in `director.txt`, with "Read more" → `about/director.html` |
+| Upcoming events | the "🎯 Upcoming VNIT Events" list in `home.txt`, each with its 📅 date where the crawl gives one |
+| VNIT Ranking | the three ranking lines at the end of `home.txt` |
+| Emergency contacts | the line from `home.txt`, numbers as `tel:` links |
+
+Looked at screenshots at 1366 px and at 390 px: two columns on a laptop and one column on a phone, no overlap, and the menu fits on one row at 1366 px. Step 7 retakes these properly.
+
+**Done when:** home page builds: yes. Every item traces to a raw file or `notices.json`: yes (table above; Step 7's faithfulness check verifies it). Reads well at 1366 and 360–390 px: yes, by screenshot.

@@ -3,6 +3,7 @@
 Step 0: DONE - repo created; Python 3.13.5, Git 2.52, Edge found; ablation runner not running
 Step 1: DONE - 75 pages in 11 sections, 6 left out or special; 401 notices
 Step 2: DONE - build_site.py builds 87 pages; no 40% boilerplate found; widget text and zero counters dropped
+Step 3: DONE - home page: hero, 10 latest notices, news, quick links, director, events, rankings, emergency numbers
 
 ## Decisions
 
@@ -13,6 +14,8 @@ Step 2: DONE - build_site.py builds 87 pages; no 40% boilerplate found; widget t
 - Cleaning: the 40% boilerplate rule finds nothing (crawl was already clean), so it is kept but a small fixed list of widget controls ("Next slide", "Read more →", "vnit_web") and zero-valued animated counters are dropped instead.
 - Broken sentences are rejoined (only whitespace between line pieces changes). The faithfulness check in Step 7 must therefore compare text with whitespace removed.
 - "Home" is left out of the menu so it fits on one row at 1366 px; the institute name links home.
+- Home "Scholarships" quick link opens notices.html?q=scholarship (no scholarship page exists in the crawl). notices.js must read ?q= into the search box.
+- Home news skips headlines about lists of candidates (privacy) and one garbled Marathi headline.
 
 ## Next step should know
 - Notice titles are the document's own title; a few are single words ("Physics", "Gallery"). The Notices page should show the page each was found on, so they make sense.

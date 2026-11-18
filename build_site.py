@@ -39,7 +39,7 @@ COUNTER_LINE = re.compile(r"^[A-Za-z][A-Za-z .()']{1,40} 0$")
 EMAIL = re.compile(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+")
 PHONE = re.compile(r"(?<![\w/.-])(?:\+91[- ]?)?(?:\(?0\d{2,4}\)?[- ]?\d{3}[- ]?\d{1,4}[- ]?\d{0,4}|[6-9]\d{9})(?![\w/-])")
 PERSON = re.compile(r"^(Dr|Prof|Shri|Smt|Mr|Mrs|Ms)\b\.?")
-JOIN_AFTER = ("in", "of", "the", "and", "from", "to", "by", "for", "on", "at", "with", "a", "an", "as", "under", "&")
+JOIN_AFTER = ("st", "nd", "rd", "th", "in", "of", "the", "and", "from", "to", "by", "for", "on", "at", "with", "a", "an", "as", "under", "&")
 
 
 # ---------------------------------------------------------------- reading
@@ -396,8 +396,103 @@ def build_section_index(site, section):
     site.write(f"{section}/index.html", SECTIONS[section], main, section)
 
 
+def raw_between(raw_file, start, stop):
+    """Tidied lines of a raw file strictly between the line `start` and the line `stop`."""
+    lines = [tidy(x) for x in read_raw(raw_file)[1]]
+    first = lines.index(start) + 1
+    last = lines.index(stop, first) if stop else len(lines)
+    return [x for x in lines[first:last] if x]
+
+
+def news_links(site):
+    """{headline: page} for headlines that have their own page or appear on a news listing."""
+    links = {}
+    for page in site.section_pages("news"):
+        header, body = read_raw(page["raw_file"])
+        links.setdefault(tidy(header["TITLE"]), page)
+        for line in body:
+            line = tidy(line)
+            if line.endswith(" vnit_web"):
+                line = line[: -len(" vnit_web")]
+            links.setdefault(line, page)
+    return links
+
+
+def home_news(site, limit=12):
+    links = news_links(site)
+    items, seen = [], set()
+    for line in raw_between("home.txt", "📢 Latest VNIT News", "All News"):
+        if line in seen or "�" in line or re.search(r"candidates", line, re.I):
+            continue
+        seen.add(line)
+        page = links.get(line)
+        text = f'<a href="{page["slug"]}.html">{esc(line)}</a>' if page else esc(line)
+        items.append(f"        <li>{text}</li>")
+        if len(items) == limit:
+            break
+    return "\n".join(items)
+
+
+def home_events():
+    lines = raw_between("home.txt", "🎯 Upcoming VNIT Events", "All Events")
+    events, seen = [], set()
+    for i, line in enumerate(lines):
+        if line.startswith("📅") or line in seen:
+            continue
+        seen.add(line)
+        date = lines[i + 1] if i + 1 < len(lines) and lines[i + 1].startswith("📅") else ""
+        meta = f'<span class="meta">{esc(date)}</span>' if date else ""
+        events.append(f"        <li>{esc(line)}{meta}</li>")
+    return "\n".join(events)
+
+
+def home_notices(site, limit=10):
+    items = []
+    for n in site.notices[:limit]:
+        items.append(
+            f'        <li>{external(n["url"], n["title"])}'
+            f'<span class="meta">{esc(n["date"])}<span class="tag">{esc(n["category"])}</span></span></li>')
+    return "\n".join(items)
+
+
+QUICK_LINKS = [
+    ("Fees", "admissions/fees.html"),
+    ("Hostel", "students/hostel.html"),
+    ("Academic calendar", "academics/academic-calendar.html"),
+    ("Placements", "placements/training-and-placement.html"),
+    ("Scholarships", "notices.html?q=scholarship"),
+    ("Telephone directory", "more/telephone-directory.html"),
+    ("Contact", "more/contact.html"),
+]
+
+
+def home_director(site):
+    lines = site.lines("director.txt")
+    name, role, bio = lines[0], lines[1], lines[2]
+    if bio.startswith("Brief Bio: "):
+        bio = bio[len("Brief Bio: "):]
+    bio = " ".join(re.split(r"(?<=[a-z)]\.) (?=[A-Z])", bio)[:2])
+    return f"      <p><strong>{esc(name)}</strong><br>{esc(role)}</p>\n      <p>{esc(bio)}</p>"
+
+
+def home_rankings():
+    lines = raw_between("home.txt", "VNIT Ranking", None)
+    return "\n".join(f"        <li>{esc(x)}</li>" for x in lines)
+
+
+def home_emergency():
+    line = next(tidy(x) for x in read_raw("home.txt")[1] if x.startswith("Emergency Contact Numbers"))
+    return f"      <p>{linkify(line)}</p>"
+
+
 def build_home(site):
-    main = "<h1>Visvesvaraya National Institute of Technology, Nagpur</h1>"
+    template = Template((TEMPLATES / "home.html").read_text(encoding="utf-8"))
+    intro = re.match(r"(.+?\.)\s", site.lines("history.txt")[0]).group(1)
+    quick = "\n".join(f'        <li><a href="{href}">{esc(label)}</a></li>' for label, href in QUICK_LINKS)
+    main = template.substitute(
+        intro=esc(intro), notices=home_notices(site), news=home_news(site), quick_links=quick,
+        director=home_director(site), events=home_events(), rankings=home_rankings(),
+        emergency=home_emergency())
     site.write("index.html", "Home", main, "home")
 
 
