@@ -21,6 +21,10 @@ POST /feedback {"question": "...", "answer": "...", "rating": "up"|"down"}
 appends one line to data/feedback/feedback.jsonl, so a demo week produces real
 usage data instead of only self-written tests.
 
+When the VNIT website demo has been built next to this repo
+(../vnit-website/dist, see vnit-website/README.md), it is served at /site/,
+with this chatbot as the floating VNIT Assistant on every page.
+
 Run:
     cd vnit-chatbot
     uvicorn api.main:app --host 0.0.0.0 --port 8000
@@ -42,7 +46,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "pipeline"))
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, RedirectResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 import respond
@@ -64,6 +69,14 @@ async def lifespan(app):
 app = FastAPI(title="VNIT Website Chatbot", lifespan=lifespan)
 
 FRONTEND = Path(__file__).parent.parent / "frontend" / "index.html"
+SITE = Path(__file__).parent.parent.parent / "vnit-website" / "dist"
+
+if SITE.exists():
+    @app.get("/site", include_in_schema=False)
+    def site_root():
+        return RedirectResponse("/site/")
+
+    app.mount("/site", StaticFiles(directory=SITE, html=True), name="site")
 
 # Which web pages may call this API from a browser. "*" is fine locally (the
 # chat page may be opened as a file://). When deployed, the page is served by
