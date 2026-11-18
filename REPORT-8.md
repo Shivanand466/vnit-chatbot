@@ -1,5 +1,72 @@
 # Runbook 8 report: the VNIT website with the chatbot built in
 
+## Good morning
+
+**What was built.**
+- A copy of the VNIT website with 89 pages: home, 75 content pages in 11 menu sections, section overview pages, a searchable list of 401 notices, contact and a "not found" page.
+- It is built entirely from the pages and documents the chatbot already crawled from vnit.ac.in. A check confirms that every one of its 6,987 pieces of text is copied from the crawl.
+- The VNIT Assistant is a chat button in the corner of every page, with everything the chatbot's own chat page has: follow-ups, the clarifying buttons, sources, "How I found this", the ✓ check and 👍/👎.
+
+**Steps** (from PROGRESS-8.md): **all ten are DONE**, none PARTIAL or FAILED.
+
+| Step | Result |
+|---|---|
+| 0 | New repo `vnit-website/`, tools found (Python 3.13.5, Git, Edge) |
+| 1 | 75 pages in 11 sections; 6 files left out or special, each with a reason; 401 notices |
+| 2 | `build_site.py`, design, menu, phone layout |
+| 3 | Home page: notices, news, quick links, Director, events, rankings, emergency numbers |
+| 4 | All pages, department programme boxes, Notices search, Contact, 404 |
+| 5 | Chat widget on every page |
+| 6 | The chatbot server shows the site at `/site/`; `start_website.bat`; chatbot tests 54/54 |
+| 7 | 0 broken links, 0 page problems, 0 text not found in the crawl, screenshots, smoke test passed |
+| 8 | Phone fixes, fee-sheet headings, empty tabs removed; colour contrast all at least 5.2:1 |
+| 9 | README and this report |
+
+**The demo in 5 clicks:**
+1. Double-click `vnit-chatbot\start_website.bat`. After about 30 seconds the home page opens at `http://127.0.0.1:8000/site/`.
+2. Menu **Students → Hostel Section**.
+3. Click the orange **Ask VNIT Assistant** button (bottom right).
+4. Click the suggested question **"What is the hostel fee?"**. It asks back "Which programme are you asking about?"
+5. Click **B.Tech**, then **Girls**. The answer appears with its source, "How I found this" and the ✓ check.
+
+With your Groq key loaded, the answer is written in full. Without it, it quotes the best matching passage.
+
+**What still doesn't work, or isn't there:**
+- **The conversation starts again when you change page.** This is on purpose: it is kept in memory only, like the chat page, for privacy.
+- **Without the key, answers are quoted passages**, and sometimes from a near-identical document. In last night's test, after "B.Tech, Girls" it quoted the B.Arch girls fee sheet. Load the key for the demo.
+- On a phone, long breadcrumbs wrap so that "›" starts a line. Minor.
+
+**Missing content** (not in the crawl, so left out rather than invented):
+- No department page in the crawl has an email or phone number, so the department boxes show programmes only. Architecture, Chemical, Mechanical and Humanities have no programme lines either, so they have no box.
+- The department tabs (PEOs, POs, PSOs, Department Stats) were never opened by the crawler, so their contents are missing. The tab names were removed.
+- The old site's animated numbers ("Faculty", "Students", "Publications") were crawled as 0 and are left out.
+- There is no Scholarships page in the crawl. The home page's Scholarships link opens the Notices page searched for "scholarship".
+- No logo or photos (runbook rule). To add the logo if your guide approves, put `logo.png` in `vnit-website/assets/img/` and rebuild.
+- The faculty recruitment shortlist page is left out, because it lists named candidates. 55 documents are not on the Notices page: 33 marked as personal data, 14 failed to convert, 5 empty, 3 in Hindi only.
+
+**To put the code on GitHub** (optional; nothing has been pushed):
+- **The website repo** is new and has no GitHub remote yet. Create an empty repository on github.com (for example `vnit-website`), then, in Git Bash:
+  ```
+  cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-website
+  git remote add origin https://github.com/<your-username>/vnit-website.git
+  git push -u origin master
+  ```
+- **The chatbot repo** has one new commit, `2db31f2` (serve the site at `/site/`):
+  ```
+  cd ../vnit-chatbot && git push
+  ```
+  Pushing it also runs the Hugging Face workflow, which skips itself without `HF_TOKEN`. The Hugging Face copy has no `vnit-website` folder, so nothing changes there.
+
+**For the slides:** add a slide **"Built into the website"** after slide 11. Use the screenshot `checks/home-assistant-desktop.png` (home page with the assistant open) or `checks/demo-hostel-clarify-desktop.png` (hostel page, after clicking B.Tech and Girls), with one line: "The same chatbot, as a button on every page of a VNIT-style website built only from the crawled pages: 89 pages, 0 sentences not found in the source."
+
+**If you want it in HOW-TO-RUN.md**, this paragraph can be pasted into `vnit-chatbot/HOW-TO-RUN.md` after section 2b (the runbook kept the chatbot's docs read-only):
+
+> ## 2c. The chatbot inside a VNIT-style website (optional)
+>
+> Double-click `start_website.bat` instead of `start_chatbot.bat`. After about 30 seconds a copy of the VNIT website opens at `http://127.0.0.1:8000/site/`, built only from the pages the chatbot crawled, with an orange **Ask VNIT Assistant** button in the corner of every page. It is the same chatbot, with the same answers, sources and clarifying buttons. For a phone, use `start_public_link.bat` and add `/site/` to the end of its link. The site lives in the `vnit-website` folder next to this one; see its README to rebuild it.
+
+---
+
 ## Step 0. Preflight
 
 - `python --version`: Python 3.13.5 (`~/anaconda3/python.exe`)
@@ -323,3 +390,15 @@ All of Step 7's checks were re-run after the fixes, and the screenshots were ret
 6987 pieces instead of 7018, because the empty tab names are gone.
 
 **Done when:** every Step 7 check still passes: yes. Before/after list: above.
+
+## Step 9. README, how-to-run and this report
+
+- `vnit-website/README.md`:
+  - what the site is and that it is a demo, not the official site;
+  - **How to run** (`start_website.bat`, the public link plus `/site/`, and rebuilding);
+  - how it is built from the crawl (`tools/inventory.py`, `tools/notices.py`, `build_site.py`) and how to rebuild after the crawl is refreshed;
+  - how the widget finds its server;
+  - the checks.
+- The "Good morning" section at the top of this report, including the paragraph to paste into `vnit-chatbot/HOW-TO-RUN.md` (the chatbot's README and HOW-TO-RUN were not edited).
+
+**Done when:** README and REPORT-8 complete: yes. Every step's line in PROGRESS-8 filled in: yes (0 to 9, all DONE).

@@ -9,6 +9,7 @@ Step 5: DONE - floating VNIT Assistant on every page with every chat-page featur
 Step 6: DONE - chatbot server serves the site at /site/ (commit 2db31f2 in vnit-chatbot); start_website.bat; 54/54 tests pass
 Step 7: DONE - 0 broken links, 0 page problems, 0 of 7018 text pieces not in the crawl; 13 screenshots looked at; smoke test passed
 Step 8: DONE - phone chat button, phone notices table, hostel fee group headings, empty department tabs fixed; contrast all >= 5.2:1; checks still 0/0/0
+Step 9: DONE - README (what, how to run, how it is built, widget server, checks) and the Good morning report
 
 ## Decisions
 
