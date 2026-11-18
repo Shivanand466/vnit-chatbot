@@ -26,3 +26,49 @@ Last 3 lines of `data/processed/ablation_runs.log`:
 `run_ablations.sh` process: not running (nor the 100-case runner, halted on 14 Nov).
 
 **Done when:** repo exists with one commit: yes. PROGRESS-8 records Python, Git, Edge and the ablation state: yes.
+
+## Step 1. Content inventory
+
+Built `tools/inventory.py` (writes `content/pages.json` and `content/left_out.json`) and `tools/notices.py` (writes `content/notices.json`).
+
+`python tools/inventory.py`:
+```
+81 raw page files: 75 pages, 6 left out or special
+  About              5
+  Administration     8
+  Academics          3
+  Admissions         2
+  Departments        13
+  Research           12
+  Students           11
+  Placements         1
+  News and events    10
+  Recruitment        5
+  More               5
+```
+Left out or handled specially:
+
+| Raw file | Why |
+|---|---|
+| `faculty_recruitment_2025_shortlisted_candidates.txt` | lists named individual candidates (privacy rule) |
+| `recruitmen.txt` | identical text to `recruitment.txt` (same page at a second address) |
+| `section_academics_notice_new.txt` | identical text to `notices.txt` |
+| `index_php_category_events.txt` | identical text to `category_events.txt` |
+| `home.txt` | becomes the home page |
+| `notices.txt` | used on the home page and the Notices page |
+
+`index_php_category_news.txt` and `index_php_category_news_events.txt` look alike but list different stories, so both are kept (News, and News and Events).
+
+`python tools/notices.py`:
+```
+401 notices written (55 documents excluded or not converted)
+  academics    144
+  admissions   94
+  other        92
+  hostel       52
+  placements   16
+  recruitment  3
+```
+The 55 left out are the 33 the chatbot marked `personal_data`, 14 that failed to convert, 5 empty and 3 in Hindi only. Dates come from the document's own modified date (Google Drive) or the date the crawler recorded.
+
+**Done when:** pages.json and left_out.json account for every raw page file (asserted): yes, 75 + 6 = 81. notices.json has no excluded document (asserted): yes. Counts and left-out list above: yes.
