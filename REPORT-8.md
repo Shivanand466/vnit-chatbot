@@ -297,3 +297,29 @@ Without the key, the quoting mode picked the B.Arch girls fee sheet. That is a l
 The server stopped itself at its 170 s timeout.
 
 **Done when:** links, pages and faithfulness pass with zero problems: yes (0, 0, 0). Screenshots exist and were looked at: yes, 12 plus the demo one. Smoke test results above: yes.
+
+## Step 8. Polish from the screenshots
+
+| Problem from Step 7 | Before | After |
+|---|---|---|
+| 1. Phone: the chat button covers text | wide "Ask VNIT Assistant" pill over the last lines | a 56 px round button on phones (its label is still read out by screen readers); extra space under the content and footer, so the last lines scroll clear of it |
+| 2. Phone: Notices table too wide | Category column cut off, table scrolls sideways | Category column hidden below 600 px (the category buttons still filter); the date wraps, so the table fits at 390 px |
+| 3. Hostel Fees group labels look like list items | "Hostel Fees Estimate and Demand Note for UG Students" in the list | now a heading over its fee-sheet links. The rule is general: a plain line followed by two or more document links becomes a heading |
+| 4. Department pages: empty tab names | "PO's / PEO's", "PEO's", "PO's", "PSO's", "Department Stats" listed with nothing under them | dropped as widget text. Checked first: in every department file these lines are followed only by other tab names or by the zero counters. "Vision" and "Mission" do have text, so they stay |
+| 5. Phone: breadcrumb wrap | "›" starting a line | **still there**; minor, left as is |
+| 6. Laptop: floating button over the home page's right column | — | **left as is**: it is a floating button, and it moves with the scroll |
+
+Also checked in this step:
+- **Phone menu:** a test page clicked "Menu" then "Students" at 390 px. The screenshot shows the full-width menu with the Students pages listed under it.
+- **Colour contrast:** worked out for every text/background pair in `site.css` and `vnit-assistant.css` (links, buttons, chips, banners, footer, badges, widget small print). The lowest is 5.22:1 (widget small text); none is below 4.5:1.
+- **Widget tidy-up:** the zero-width space in the widget-text list is now written `​` in the code instead of an invisible character.
+
+All of Step 7's checks were re-run after the fixes, and the screenshots were retaken and looked at again:
+```
+0 broken internal links
+89 pages checked (75 content pages), 0 problems
+89 pages, 6987 pieces of text checked, 0 not found in the crawl
+```
+6987 pieces instead of 7018, because the empty tab names are gone.
+
+**Done when:** every Step 7 check still passes: yes. Before/after list: above.

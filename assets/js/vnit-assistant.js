@@ -145,7 +145,7 @@
     els.launcher.type = "button";
     els.launcher.setAttribute("aria-haspopup", "dialog");
     els.launcher.setAttribute("aria-expanded", "false");
-    els.launcher.innerHTML = '<span class="va-launcher-icon" aria-hidden="true"></span><span>Ask VNIT Assistant</span>';
+    els.launcher.innerHTML = '<span class="va-launcher-icon" aria-hidden="true"></span><span class="va-launcher-label">Ask VNIT Assistant</span>';
 
     els.panel = el("section", "va-panel");
     els.panel.id = "vnit-assistant";

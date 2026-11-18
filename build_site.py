@@ -32,7 +32,9 @@ BOILERPLATE_SHARE = 0.4
 HINDI_NAME = "विश्वेश्वरय्या राष्ट्रीय प्रौद्योगिकी संस्थान"
 
 # Lines that are controls or labels of the old site's widgets, not content.
-WIDGET_LINES = {"Previous slide", "Next slide", "Read more →", "vnit_web", "View More", "​"}
+WIDGET_LINES = {"Previous slide", "Next slide", "Read more →", "vnit_web", "View More", "\u200b",
+                # Department tab names whose contents the crawler never opened (empty on every page).
+                "PO's / PEO's", "PEO's", "PO's", "PSO's", "Department Stats"}
 # Animated counters ("Faculty 0") were crawled before they counted up; the 0 is wrong.
 # Photo file names the crawl picked up from image sliders ("IMG-20240302-WA0016").
 PHOTO_NAME = re.compile(r"^(IMG|Oplus|DSC|WhatsApp Image)[-_ ]?[\w-]*( cultnite)*$", re.I)
@@ -201,6 +203,18 @@ def render_people(lines, links):
     return '<ul class="people">\n' + "\n".join(items) + "\n</ul>"
 
 
+def link_groups(lines, links):
+    """Splits a run of short lines before each plain line that heads two or more document links,
+    so "Hostel Fees … for PG Students" becomes a heading over its fee sheets."""
+    groups = [[]]
+    for i, line in enumerate(lines):
+        heads = line not in links and sum(x in links for x in lines[i + 1:i + 3]) == 2
+        if heads and groups[-1]:
+            groups.append([])
+        groups[-1].append(line)
+    return groups
+
+
 def to_html(lines, links=None, skip_first=None):
     """Page lines -> HTML: headings, tables, lists of short lines, paragraphs.
     links maps a line's exact text to the document it links to."""
@@ -210,12 +224,21 @@ def to_html(lines, links=None, skip_first=None):
     def flush_short():
         if sum(bool(PERSON.match(s)) for s in short) >= 2:
             blocks.append(render_people(short, links))
-        elif len(short) >= 3:
-            items = "\n".join(f"<li>{render_line(s, links)}</li>" for s in short)
+            short.clear()
+            return
+        for group in link_groups(short, links):
+            render_short(group)
+        short.clear()
+
+    def render_short(group):
+        if group and group[0] not in links and sum(x in links for x in group[1:]) >= 2:
+            blocks.append(f"<h3>{esc(group[0])}</h3>")
+            group = group[1:]
+        if len(group) >= 3:
+            items = "\n".join(f"<li>{render_line(s, links)}</li>" for s in group)
             blocks.append(f'<ul class="lines">\n{items}\n</ul>')
         else:
-            blocks.extend(f"<p>{render_line(s, links)}</p>" for s in short)
-        short.clear()
+            blocks.extend(f"<p>{render_line(s, links)}</p>" for s in group)
 
     i = 0
     if skip_first and lines and lines[0] == skip_first:

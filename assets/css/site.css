@@ -173,3 +173,13 @@ th { background: var(--wash); color: var(--navy); }
 .people li { border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px; font-size: 0.93rem; }
 .people strong { color: var(--navy); }
 a[href^="tel:"] { white-space: nowrap; }
+
+/* Phones: keep the last lines clear of the floating chat button; narrower notice table; tidier breadcrumbs */
+@media (max-width: 599px) {
+  .site-footer { padding-bottom: 88px; }
+  main { padding-bottom: 80px; }
+  .notices-table th:last-child, .notices-table td:last-child { display: none; }
+  .notices-table td:first-child { white-space: normal; min-width: 5.5em; }
+  .breadcrumbs li + li::before { margin-left: 0; }
+  .breadcrumbs ol { column-gap: 6px; row-gap: 2px; }
+}
