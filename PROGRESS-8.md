@@ -7,6 +7,7 @@ Step 3: DONE - home page: hero, 10 latest notices, news, quick links, director, 
 Step 4: DONE - 75 content pages, 11 section indexes, notices with working search, contact, 404 (89 pages)
 Step 5: DONE - floating VNIT Assistant on every page with every chat-page feature except the server box; 'isn't running' message tested
 Step 6: DONE - chatbot server serves the site at /site/ (commit 2db31f2 in vnit-chatbot); start_website.bat; 54/54 tests pass
+Step 7: DONE - 0 broken links, 0 page problems, 0 of 7018 text pieces not in the crawl; 13 screenshots looked at; smoke test passed
 
 ## Decisions
 
@@ -22,6 +23,8 @@ Step 6: DONE - chatbot server serves the site at /site/ (commit 2db31f2 in vnit-
 - Contact page = contact_us.txt + telephone_directory.txt (both Source lines shown); the faithfulness check must accept text from either raw file there.
 - Widget test harness: `bash tools/widget_shot.sh <page> <png> <w> <h> "<question>" ["B.Tech|Girls"] [http://127.0.0.1:8010/site/]` screenshots the page with the widget open after asking (and clicking choices). WAIT_MS env sets how long Edge waits (default 8000).
 - Server test recipe: from vnit-chatbot, `env -u GENAI_API_KEY timeout 170 ~/anaconda3/python.exe -m uvicorn api.main:app --host 127.0.0.1 --port 8010` in the background; /health is ready after ~36 s.
+- Step 8 should fix, from the Step 7 screenshots: (1) launcher covers text at the bottom on phones, (2) notices table too wide on phones, (3) hostel fee group labels not shown as headings, (4) empty tab names on department pages, (5) breadcrumb wrap on phones.
+- Re-run everything with: build_site.py, tools/check_links.py, tools/check_pages.py, tools/check_faithful.py, bash tools/screenshots.sh.
 - 404.html uses /site/ for its links (it is shown at arbitrary addresses by the server).
 
 ## Next step should know

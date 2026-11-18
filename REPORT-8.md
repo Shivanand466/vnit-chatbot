@@ -220,3 +220,80 @@ Commit in vnit-chatbot, with only the two files added by name: `2db31f2 Serve th
 `git status --short` in vnit-chatbot afterwards: ` M data/processed/answer_check.json`, the same as at Step 0.
 
 **Done when:** all checks in 3 and 4 pass: yes. `git status` shows only what it showed in Step 0: yes.
+
+## Step 7. Checks: links, faithfulness, screenshots, chatbot smoke test
+
+All in `tools/`, so they can be re-run: `check_links.py`, `check_pages.py`, `check_faithful.py`, `screenshots.sh` (with `shot.sh`, `widget_shot.sh`, `phone_frame.html`, `widget_test.html`) and `smoke_test.py`.
+
+### Links (`python tools/check_links.py`)
+```
+89 pages, 9697 internal links, 1296 external links
+     552  drive.google.com
+     346  tel:
+     229  vnit.ac.in
+     169  mailto:
+0 broken internal links
+```
+The first run found **267 broken links**: three footer links on every page, written `$rootmore/contact.html`. The template engine read `$rootmore` as one unknown name. Fixed in `build_site.py`.
+
+### Required parts of every page (`python tools/check_pages.py`)
+```
+89 pages checked (75 content pages), 0 problems
+```
+It checks for a title, the demo banner and its link, noindex, the footer credit, the widget script, exactly one `<h1>`, the Source line on content pages, and nothing loaded from another domain. The first run flagged Student Activity Clubs: its source address really is `http://vnit.ac.in/…` and the check only allowed `https://`, so the check was corrected.
+
+### Faithfulness (`python tools/check_faithful.py`)
+```
+89 pages, 7018 pieces of text checked, 0 not found in the crawl
+```
+- **What it does:** every piece of visible text in `<main>` (paragraphs, list items, cells, headings, cut at `<br>` and spans) must appear in that page's raw file(s), comparing with whitespace removed. Notice rows are checked against `notices.json`. The allow-list holds only the site's own labels and section names.
+- **First run: 56 misses.** Most were section names in breadcrumbs (now allow-listed as site labels), but **6 were real build bugs**: sentences glued together across lines that were not next to each other in the crawl, because a repeated line between them had been dropped. Fixed in `clean_lines`: lines are only rejoined when they are adjacent in the raw file.
+- **The check works:** adding the made-up sentence "The hostel fee is Rs 1 for everyone." to Hostel Fees made it report `NOT IN CRAWL: The hostel fee is Rs 1 for everyone.`; removing it brought it back to 0.
+
+### Screenshots (`bash tools/screenshots.sh`, headless Edge)
+Home, CSE department, Hostel Fees, Notices, Contact, and Home with the widget open, each at 1366×900 and 390×844, in `checks/` (PNG files are not committed). Every one was opened and looked at.
+
+Visible problems:
+1. **Phone: the "Ask VNIT Assistant" button covers the last lines of text** at the bottom of every page (notices table, contact page, department page).
+2. **Phone: the Notices table is wider than the screen**, and the Category column is cut off. It does scroll sideways inside its box, but it looks broken.
+3. **Hostel Fees: the group labels** ("Hostel Fees Estimate and Demand Note for UG Students", "… for PG Students") look like ordinary list items, not headings over their fee sheets.
+4. **Department pages: the old site's tab names** ("PO's / PEO's", "PEO's", "PO's", "PSO's", "Department Stats") appear as a list with nothing under them. Their contents were inside tabs the crawler did not open. The text is faithful but looks empty.
+5. Phone: long breadcrumbs wrap so the "›" starts a line (minor).
+6. Laptop: the floating button sits over the bottom-right corner of the home page's right column while scrolling (minor; it's a floating button).
+
+No overlapping text, no cut-off menus, and the widget opens full screen on a phone as intended.
+
+### Chatbot smoke test, no key (`python tools/smoke_test.py`, server on 8010 started as in Step 6)
+```
+GET /site/: ok, banner and widget script present
+
+Q: Who is the current Director of VNIT?
+   mode: extractive (no GENAI_API_KEY set) | sources: 1
+   answer: 'On "Who is the current Director of VNIT?" — Director, VNIT, Nagpur says: Water Resources Society, and Institution of Civil Engineers, India. He has been instrumental in setting up a Centre of Excellen'
+
+Q: What is the email of the Dean (Academic)?
+   mode: extractive (no GENAI_API_KEY set) | sources: 1
+   answer: 'On "What is the email of the Dean (Academic)?" — Deans says: Dr. Ratnesh Kumar Dean (Planning & Development) Email: deanp_f@vnit.ac.in Dr.'
+
+Q: When do classes start for first year B.Tech students in Winter 2026?
+   mode: extractive (no GENAI_API_KEY set) | sources: 1
+   answer: 'On "When do classes start for first year B.Tech students in Winter 2026?" — ACADEMIC CALENDAR (Winter 2026) for First Year UG (B.Tech/B.Arch) says: conducting classes of first year UG courses. | Comme'
+
+Q: What is the hostel fee?
+   mode: clarify | choices: ['B.Tech', 'B.Arch', 'M.Sc', 'Ph.D']
+   answer: 'Which programme are you asking about?'
+
+smoke test PASSED
+```
+Without the key, the chatbot quotes the best passage instead of writing an answer, so the passages above are the right pages but not always the right sentence. That is expected. With the key, the same questions are answered properly (see the chatbot's own answer check).
+
+**The full demo click path through the widget, on the real server:**
+1. `tools/widget_test.html` was served from the same server for this one test (a temporary copy, removed afterwards), opened `/site/students/hostel.html?assistant=open` and asked "What is the hostel fee?".
+2. It clicked **B.Tech**, then **Girls**.
+3. The screenshot (`checks/demo-hostel-clarify-desktop.png`) shows the answer with its source chip, "How I found this (5 steps)", the mode note, 👍/👎 and "Clear my details".
+
+Without the key, the quoting mode picked the B.Arch girls fee sheet. That is a limit of no-key mode, not of the widget.
+
+The server stopped itself at its 170 s timeout.
+
+**Done when:** links, pages and faithfulness pass with zero problems: yes (0, 0, 0). Screenshots exist and were looked at: yes, 12 plus the demo one. Smoke test results above: yes.

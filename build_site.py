@@ -100,21 +100,22 @@ def clean_lines(lines, boilerplate):
     """Crawl lines -> page lines: boilerplate and widget text dropped, repeats
     collapsed, sentences broken over lines rejoined. Wording is never changed."""
     out, seen = [], set()
+    previous_kept = False
     for raw in lines:
         line = tidy(raw)
         if line.endswith(" vnit_web"):
             line = line[: -len(" vnit_web")]
-        if not line or line in boilerplate or is_widget(line):
+        if not line:
             continue
-        if out and line == out[-1]:
-            continue
-        if len(line) >= 25 and line in seen:
+        if line in boilerplate or is_widget(line) or (out and line == out[-1]) or (len(line) >= 25 and line in seen):
+            previous_kept = False
             continue
         seen.add(line)
-        if out and should_join(out[-1], line):
+        if out and previous_kept and should_join(out[-1], line):
             out[-1] = join(out[-1], line)
         else:
             out.append(line)
+        previous_kept = True
     return out
 
 
@@ -328,7 +329,7 @@ class Site:
             title=esc(title), root=root, section=section, emergency=self.emergency(),
             logo=logo, hindi_name=HINDI_NAME, menu=self.menu(root),
             main=main.replace("$root", root),
-            footer=Template(self.footer()).safe_substitute(root=root),
+            footer=self.footer().replace("$root", root),
             scripts=scripts.replace("$root", root))
         out = DIST / path
         out.parent.mkdir(parents=True, exist_ok=True)
