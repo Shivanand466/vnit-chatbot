@@ -187,3 +187,36 @@ Also dropped from page text in this step: photo file names that the crawl picked
 | Dark mode | no; the site is light only (the runbook says dark mode isn't needed) |
 
 **Done when:** the widget loads on every built page: it is in `base.html`, and Step 7 checks every page. With no server, asking shows the "isn't running" message, not a broken page: yes. Feature comparison: above.
+
+## Step 6. Serve the website from the chatbot server
+
+Changed `vnit-chatbot/api/main.py`:
+- one sentence in the docstring about `/site/`;
+- imports `RedirectResponse` and `StaticFiles`;
+- `SITE = …/vnit-website/dist`;
+- when `SITE` exists, `GET /site` redirects to `/site/` and `app.mount("/site", StaticFiles(directory=SITE, html=True))`.
+
+Nothing else in the file changed. The Docker image has no `vnit-website`, so on Hugging Face nothing changes.
+
+Added `vnit-chatbot/start_website.bat`: a copy of `start_chatbot.bat` that opens `http://127.0.0.1:8000/site/` (and says "website" in its messages). Key loading is unchanged.
+
+Test with no key: `env -u GENAI_API_KEY timeout 170 python -m uvicorn api.main:app --host 127.0.0.1 --port 8010`. Healthy after about 36 s.
+
+| Check | Result |
+|---|---|
+| `GET /site/` | 200, contains the demo banner |
+| `GET /site` | redirected to `/site/`, 200 |
+| `GET /site/notices.html` | 200, 401 notice rows |
+| `GET /` | 200, still the old chat page (`<title>VNIT Chatbot</title>`) |
+| `GET /site/no-such-page.html` | 404 with the site's "Page not found" page |
+| `POST /ask` "Who is the Director of VNIT?" | `mode: "extractive (no GENAI_API_KEY set)"`, 1 source, answer starts "On "Who is the Director of VNIT?" — Director, VNIT, Nagpur says: Prof. (Dr.) Prem Lal Patel, President ISH & Director VNIT Nagpur…" |
+
+The server stopped itself at the 170 s timeout, and port 8010 was confirmed free afterwards.
+
+`cd pipeline && python test_agentic.py` (no key): **54/54 passed**.
+
+Commit in vnit-chatbot, with only the two files added by name: `2db31f2 Serve the VNIT website at /site/ when it has been built`. Not pushed.
+
+`git status --short` in vnit-chatbot afterwards: ` M data/processed/answer_check.json`, the same as at Step 0.
+
+**Done when:** all checks in 3 and 4 pass: yes. `git status` shows only what it showed in Step 0: yes.

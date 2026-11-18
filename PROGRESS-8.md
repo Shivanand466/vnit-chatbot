@@ -6,6 +6,7 @@ Step 2: DONE - build_site.py builds 87 pages; no 40% boilerplate found; widget t
 Step 3: DONE - home page: hero, 10 latest notices, news, quick links, director, events, rankings, emergency numbers
 Step 4: DONE - 75 content pages, 11 section indexes, notices with working search, contact, 404 (89 pages)
 Step 5: DONE - floating VNIT Assistant on every page with every chat-page feature except the server box; 'isn't running' message tested
+Step 6: DONE - chatbot server serves the site at /site/ (commit 2db31f2 in vnit-chatbot); start_website.bat; 54/54 tests pass
 
 ## Decisions
 
@@ -20,6 +21,7 @@ Step 5: DONE - floating VNIT Assistant on every page with every chat-page featur
 - Home news skips headlines about lists of candidates (privacy) and one garbled Marathi headline.
 - Contact page = contact_us.txt + telephone_directory.txt (both Source lines shown); the faithfulness check must accept text from either raw file there.
 - Widget test harness: `bash tools/widget_shot.sh <page> <png> <w> <h> "<question>" ["B.Tech|Girls"] [http://127.0.0.1:8010/site/]` screenshots the page with the widget open after asking (and clicking choices). WAIT_MS env sets how long Edge waits (default 8000).
+- Server test recipe: from vnit-chatbot, `env -u GENAI_API_KEY timeout 170 ~/anaconda3/python.exe -m uvicorn api.main:app --host 127.0.0.1 --port 8010` in the background; /health is ready after ~36 s.
 - 404.html uses /site/ for its links (it is shown at arbitrary addresses by the server).
 
 ## Next step should know
