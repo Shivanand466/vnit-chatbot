@@ -72,3 +72,35 @@ Left out or handled specially:
 The 55 left out are the 33 the chatbot marked `personal_data`, 14 that failed to convert, 5 empty and 3 in Hindi only. Dates come from the document's own modified date (Google Drive) or the date the crawler recorded.
 
 **Done when:** pages.json and left_out.json account for every raw page file (asserted): yes, 75 + 6 = 81. notices.json has no excluded document (asserted): yes. Counts and left-out list above: yes.
+
+## Step 2. Layout, design and the build script
+
+Built `build_site.py` (standard library only), `templates/base.html`, `templates/page.html`, `templates/section.html`, `assets/css/site.css` and `assets/js/site.js`.
+
+- **Look:** demo banner, then the emergency-numbers line from `home.txt`, then a navy header with the institute name as text plus the Hindi name. The Hindi name, "विश्वेश्वरय्या राष्ट्रीय प्रौद्योगिकी संस्थान", is copied from the crawled documents, since no page file has it. Under that is a menu of 11 section dropdowns plus Notices. Pages have a white content area, one warm accent colour, system fonts, and a footer with the postal address, phone and email copied from `contact_us.txt`. No logo file, so no logo is shown.
+- **Menu:** dropdowns open on hover and on click or Enter, and Esc closes them. Below 900 px the menu becomes a "Menu" button.
+- **Links:** every link inside the site is relative, so `dist/index.html` opens straight from the folder.
+- **Cleaning** (`clean_lines`):
+  - Drops the header.
+  - Drops boilerplate: **no line appears in 40% or more of the 77 page files**, so nothing is dropped this way. The crawler had already removed the menus.
+  - Collapses repeated lines.
+  - Rejoins sentences the crawl broke over two lines: a line starting in lower case or with punctuation, an unclosed bracket, or a line ending in "of", "the" and similar words.
+  - Drops the old site's widget controls: "Previous slide", "Next slide", "Read more →", "View More", the author tag "vnit_web".
+  - Drops the animated counters that were crawled before they counted up ("Faculty 0", "STUDENTS 0"). Those zeros are wrong, not content.
+- **Turning lines into HTML** (`to_html`):
+  - A short line followed by a long one becomes a heading.
+  - Runs of `|` lines become tables. Page files have almost none, so this rarely applies.
+  - Runs of names starting "Dr./Prof./Shri…" become one card per person.
+  - Other runs of short lines become a plain list; long lines become paragraphs.
+  - Emails and phone numbers become `mailto:`/`tel:` links.
+  - **A line whose text is exactly the link text of a crawled document from that page becomes a link to that document** (opens in a new tab). For example, every "HOSTEL FEES FOR …" line on Hostel Fees opens its PDF. Documents marked personal data are never linked.
+- **Screenshots:** `tools/shot.sh` takes them with headless Edge. Edge needs its own profile folder, writes the PNG a few seconds after it returns, and cannot make a window narrower than about 500 px, so phone widths load the page inside a 390 px frame (`tools/phone_frame.html`).
+
+`python build_site.py`:
+```
+No line is in 40% or more of page files; nothing dropped as boilerplate.
+Built 87 pages into dist/
+```
+87 = 75 content pages + 11 section index pages + the home page (a placeholder until Step 3).
+
+**Done when:** builds without errors: yes. `dist/index.html` exists: yes. At least one page per section: yes, every section folder has its pages plus `index.html`. Dropped-boilerplate list and page count: above.
