@@ -319,8 +319,8 @@ class Site:
             f'<p><button class="button secondary" type="button" data-open-assistant>Ask the VNIT Assistant</button></p></div>'
         )
 
-    def write(self, path, title, main, section="", scripts=""):
-        root = "../" * path.count("/")
+    def write(self, path, title, main, section="", scripts="", root_override=None):
+        root = root_override or "../" * path.count("/")
         logo = f'<img src="{root}assets/img/logo.png" alt="VNIT logo">' if self.has_logo else ""
         page = self.base.substitute(
             title=esc(title), root=root, section=section, emergency=self.emergency(),
@@ -364,7 +364,7 @@ def first_sentence(lines):
 
 # ---------------------------------------------------------------- pages
 
-def build_content_page(site, page, summary=""):
+def build_content_page(site, page, summary="", extra=""):
     template = Template((TEMPLATES / "page.html").read_text(encoding="utf-8"))
     section = page["section"]
     root = "$root"
@@ -378,7 +378,8 @@ def build_content_page(site, page, summary=""):
                                  (SECTIONS[section], f"{root}{section}/index.html"),
                                  (page["title"], None)]),
         section_title=esc(SECTIONS[section]), side_menu=side, heading=esc(page["title"]),
-        summary=summary, body=to_html(lines, site.links_for(page["source_url"]), skip_first=page["title"]),
+        summary=summary,
+        body=to_html(lines, site.links_for(page["source_url"]), skip_first=page["title"]) + extra,
         source=source_line(page))
     site.write(page["slug"] + ".html", page["title"], main, section)
 
@@ -496,6 +497,65 @@ def build_home(site):
     site.write("index.html", "Home", main, "home")
 
 
+PROGRAMME = re.compile(r"^(B\.? ?Tech|M\.? ?Tech|Ph\.? ?D|B\.? ?Arch|M\.? ?Sc|M\.? ?Arch|MBA|M\. ?Plan)")
+
+
+def department_summary(site, page):
+    """A box of the programme lines and contacts found in the department's own file."""
+    lines = site.lines(page["raw_file"])
+    programmes = [x for x in lines if PROGRAMME.match(x) and len(x) <= 70
+                  and not x.endswith(":") and not re.search(r"admission|scholar|presented", x, re.I)]
+    programmes = [x for x in dict.fromkeys(programmes)
+                  if not any(o != x and o.startswith(x.rstrip(".")) for o in programmes)]
+    contacts = [x for x in lines if (EMAIL.search(x) or PHONE.search(x)) and len(x) <= 120]
+    parts = []
+    if programmes:
+        parts.append("<h2>Programmes offered</h2><ul>"
+                     + "".join(f"<li>{esc(x)}</li>" for x in dict.fromkeys(programmes)) + "</ul>")
+    if contacts:
+        parts.append("<h2>Contact</h2><ul>" + "".join(f"<li>{linkify(x)}</li>" for x in contacts[:4]) + "</ul>")
+    if not parts:
+        return ""
+    return '    <div class="summary-box">' + "".join(parts) + "</div>\n"
+
+
+def build_contact_page(site, page):
+    """Contact Us, followed by the telephone directory page's text."""
+    directory = site.by_slug["more/telephone-directory"]
+    extra = (f'<h2>{esc(directory["title"])}</h2>\n'
+             + to_html(site.lines(directory["raw_file"]), site.links_for(directory["source_url"]))
+             + "\n" + source_line(directory).strip())
+    build_content_page(site, page, extra=extra)
+
+
+def build_notices(site):
+    template = Template((TEMPLATES / "notices.html").read_text(encoding="utf-8"))
+    found_on_titles = {norm_url(p["source_url"]): p for p in site.pages}
+    found_on_titles[norm_url("https://vnit.ac.in")] = {"title": "Home", "slug": "index"}
+    categories = Counter(n["category"] for n in site.notices)
+    filters = ['    <button class="filter" type="button" data-category="all" aria-pressed="true">All</button>']
+    filters += [f'    <button class="filter" type="button" data-category="{esc(c)}" aria-pressed="false">{esc(c)}</button>'
+                for c, _ in categories.most_common()]
+    rows = []
+    for n in site.notices:
+        page = found_on_titles.get(norm_url(n["found_on"]))
+        where = (f'<span class="found-on">Listed on: <a href="{page["slug"]}.html">{esc(page["title"])}</a></span>'
+                 if page else "")
+        rows.append(f'<tr data-category="{esc(n["category"])}"><td>{esc(n["date"])}</td>'
+                    f'<td>{external(n["url"], n["title"])}{where}</td><td>{esc(n["category"])}</td></tr>')
+    main = template.substitute(filters="\n".join(filters), count=len(rows), rows="\n".join(rows))
+    site.write("notices.html", "Notices", main, "notices",
+               scripts='<script src="$rootassets/js/notices.js"></script>\n')
+
+
+def build_404(site):
+    main = ('<h1>Page not found</h1>\n'
+            '<p>This page is not part of the demo site.</p>\n'
+            '<p><a class="button" href="$rootindex.html">Go to the home page</a> '
+            '<button class="button secondary" type="button" data-open-assistant>Ask the VNIT Assistant</button></p>')
+    site.write("404.html", "Page not found", main, "404", root_override="/site/")
+
+
 def copy_assets():
     target = DIST / "assets"
     if target.exists():
@@ -518,10 +578,17 @@ def main():
     DIST.mkdir(exist_ok=True)
     copy_assets()
     for page in site.pages:
-        build_content_page(site, page)
+        if page["slug"] == "more/contact":
+            build_contact_page(site, page)
+        elif page["section"] == "departments":
+            build_content_page(site, page, summary=department_summary(site, page))
+        else:
+            build_content_page(site, page)
     for section in SECTIONS:
         build_section_index(site, section)
     build_home(site)
+    build_notices(site)
+    build_404(site)
     (DIST / "sitemap.json").write_text(json.dumps(site.built, indent=1, ensure_ascii=False), encoding="utf-8")
     report_boilerplate(site)
     print(f"Built {len(site.built)} pages into dist/")

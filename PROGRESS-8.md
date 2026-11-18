@@ -4,6 +4,7 @@ Step 0: DONE - repo created; Python 3.13.5, Git 2.52, Edge found; ablation runne
 Step 1: DONE - 75 pages in 11 sections, 6 left out or special; 401 notices
 Step 2: DONE - build_site.py builds 87 pages; no 40% boilerplate found; widget text and zero counters dropped
 Step 3: DONE - home page: hero, 10 latest notices, news, quick links, director, events, rankings, emergency numbers
+Step 4: DONE - 75 content pages, 11 section indexes, notices with working search, contact, 404 (89 pages)
 
 ## Decisions
 
@@ -16,12 +17,14 @@ Step 3: DONE - home page: hero, 10 latest notices, news, quick links, director, 
 - "Home" is left out of the menu so it fits on one row at 1366 px; the institute name links home.
 - Home "Scholarships" quick link opens notices.html?q=scholarship (no scholarship page exists in the crawl). notices.js must read ?q= into the search box.
 - Home news skips headlines about lists of candidates (privacy) and one garbled Marathi headline.
+- Contact page = contact_us.txt + telephone_directory.txt (both Source lines shown); the faithfulness check must accept text from either raw file there.
+- 404.html uses /site/ for its links (it is shown at arbitrary addresses by the server).
 
 ## Next step should know
 - Notice titles are the document's own title; a few are single words ("Physics", "Gallery"). The Notices page should show the page each was found on, so they make sense.
 
 - Python: `~/anaconda3/python.exe` (3.13.5).
-- Screenshots: use `bash tools/shot.sh <page> <png> <width> <height>` (handles Edge's own profile, its late PNG, and phone widths via a frame).
+- Screenshots: use `bash tools/shot.sh <page> <png> <width> <height>` (handles Edge's own profile, its late PNG, ?query pages, and phone widths via a frame). Edge on Windows does not print --dump-dom output, so JS behaviour is checked by screenshots.
 - Edge for screenshots: `/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe`.
 - Git identity in this repo is copied from vnit-chatbot (Doddi Shivanand).
 - vnit-chatbot `git status --short` at Step 0: only ` M data/processed/answer_check.json`. Step 6 must leave it exactly like that.

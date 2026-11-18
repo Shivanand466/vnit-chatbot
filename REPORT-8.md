@@ -124,3 +124,26 @@ Built `templates/home.html` and `build_home()` in `build_site.py`. Every item is
 Looked at screenshots at 1366 px and at 390 px: two columns on a laptop and one column on a phone, no overlap, and the menu fits on one row at 1366 px. Step 7 retakes these properly.
 
 **Done when:** home page builds: yes. Every item traces to a raw file or `notices.json`: yes (table above; Step 7's faithfulness check verifies it). Reads well at 1366 and 360–390 px: yes, by screenshot.
+
+## Step 4. Every other page, plus Notices with search
+
+- **Content pages (75):** each has breadcrumbs (Home › Section › Page), a left menu of the section's pages (it becomes a row of chips on a phone), the cleaned content and the Source line.
+- **Department pages (13):** the same, plus a "Programmes offered" box built only from programme lines in that department's own file. Lines are kept when they start with B.Tech, M.Tech, Ph.D, M.Sc, B.Arch or MBA, are 70 characters or shorter, and don't mention admission; a short line is dropped when a fuller one starts with it. The department files contain **no email or phone number**, so no box has a contact part. Departments with no programme lines (Architecture, Chemical, Mechanical, Humanities) have no box.
+- **Section index pages (11):** a card per page, showing the page title and its first sentence.
+- **Notices (`notices.html`):**
+  - All 401 notices in a table (date, title, category). Each title opens the document in a new tab, and a "Listed on" link (295 of 401) goes to the site page it was found on.
+  - `assets/js/notices.js` adds a search box (all words must match) and category buttons, and reads `?q=` and `?category=` from the address. Without JavaScript, the tools stay hidden and all rows show.
+- **Contact (`more/contact.html`):** Contact Us followed by the Telephone Directory page's text, each with its own Source line. Every number is exactly as crawled.
+- **404 (`404.html`):** link home and the chat button. Its links use `/site/` because a server shows it at any address; that only matters under the chatbot server.
+
+Notices search, tested in headless Edge (screenshots, then deleted):
+
+| Address | Shown |
+|---|---|
+| `notices.html?q=hostel%20fees` | "20 of 401 notices", all hostel-fee documents |
+| `notices.html?category=placements` | "16 of 401 notices", Placements button pressed (16 is the placements count from Step 1) |
+| `notices.html?q=zzzz` | "0 of 401 notices" and "No notice matches. Try fewer words, or ask the VNIT Assistant." |
+
+`python build_site.py`: `Built 89 pages into dist/`, no warnings.
+
+**Done when:** every pages.json entry has a built page: yes, 75 of 75. Notices search filters correctly: yes (table above). Build warning-free: yes.

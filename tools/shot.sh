@@ -7,10 +7,13 @@ cd "$(dirname "$0")/.." || exit 1
 EDGE="/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
 PROFILE="$(cygpath -w "${TEMP:-/tmp}")\vnit-website-edge-profile"
 OUT="checks/$2"
-PAGE="file:///$(cygpath -m "$PWD/dist/$1")"
+FILE="${1%%\?*}"
+QUERY=""
+[ "$FILE" != "$1" ] && QUERY="?${1#*\?}"
+PAGE="file:///$(cygpath -m "$PWD/dist/$FILE")$QUERY"
 WIN="$3"
 if [ "$3" -lt 600 ]; then
-  PAGE="file:///$(cygpath -m "$PWD/tools/phone_frame.html")?w=$3&h=$4&src=$(echo "$PAGE" | sed 's/?/%3F/; s/&/%26/g')"
+  PAGE="file:///$(cygpath -m "$PWD/tools/phone_frame.html")?w=$3&h=$4&src=$(echo "$PAGE" | sed 's/%/%25/g; s/?/%3F/; s/&/%26/g')"
   WIN=600
 fi
 mkdir -p checks

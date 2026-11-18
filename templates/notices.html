@@ -1,0 +1,20 @@
+<nav class="breadcrumbs" aria-label="Breadcrumb"><ol><li><a href="index.html">Home</a></li><li aria-current="page">Notices</li></ol></nav>
+<h1>Notices</h1>
+<p>Every document linked from vnit.ac.in that the VNIT Assistant has read, newest first. Each title opens the document itself on vnit.ac.in or Google Drive.</p>
+<div class="notice-tools" id="notice-tools" hidden>
+  <label for="notice-search">Search notices</label>
+  <input id="notice-search" type="search" placeholder="for example: hostel fees, scholarship, timetable" autocomplete="off">
+  <div class="filters" role="group" aria-label="Filter by category">
+$filters
+  </div>
+</div>
+<p class="notice-count" id="notice-count" aria-live="polite">$count notices</p>
+<div class="table-wrap">
+<table class="notices-table">
+<thead><tr><th scope="col">Date</th><th scope="col">Title</th><th scope="col">Category</th></tr></thead>
+<tbody>
+$rows
+</tbody>
+</table>
+</div>
+<p class="notice-count" id="notice-none" hidden>No notice matches. Try fewer words, or ask the VNIT Assistant.</p>
