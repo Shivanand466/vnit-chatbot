@@ -1,0 +1,11 @@
+SOURCE_URL: https://vnit.ac.in/rti-details-1-10/
+TITLE: RTI Details/1/10
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Last Updated  Date: [last-modified]
+Organisation and Function 1.10  Name, designation and other particulars of public information officers [Section 4(1) (b) (xvi)] 1.10.1
+Name and designation of the public information officer (PIO), Assistant Public Information officer (APIO) & Appellate Authority
+Public information officer (PIO) & Appellate Authority 1.10.2
+Address, telephone numbers and email 10 of each designated official.
+Public information officer (PIO) & Appellate Authority

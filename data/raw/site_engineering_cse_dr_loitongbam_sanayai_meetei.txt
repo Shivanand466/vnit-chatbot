@@ -1,0 +1,181 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-loitongbam-sanayai-meetei/
+TITLE: Dr. Loitongbam Sanayai Meetei
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Loitongbam Sanayai Meetei
+Brief Bio
+Brief Bio
+Dr. Loitongbam Sanayai Meetei is an Assistant Professor at Visvesvaraya National Institute of Technology (VNIT), Nagpur. Prior to joining VNIT, he worked as a Postdoctoral Researcher at the Indian Institute of Technology Guwahati (IIT Guwahati) and as an Assistant Professor at Siksha 'O' Anusandhan (SOA) University, Bhubaneswar. During his PhD, he was also a Visiting Researcher at Saarland University, Germany. He has prior industry experience with multinational and IT companies. His research interests include Machine Translation, Human Language Technology, Multimodal AI/ML and Low-Resource Language Processing.
+Assistant Professor
+Department of Computer Science & Engineering
+VNIT Nagpur, Maharashtra.
+Work Experience:
+VNIT Nagpur [2026- till date]
+Postdoc (IIT Guwahati) [2025-2026]
+SOA University [2023-2025]
+Xerox Business Services Pvt. Ltd. [2014-2016]
+Pratian Technologies Pvt. Ltd [2013]
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D 2018-2024
+Computer Science and Engineering
+National Institute of Technology Silchar 2
+M.Tech 2016-2018
+Computer Science and Engineering
+National Institute of Technology Silchar 3
+B.Tech 2008-2012
+Information Technology
+NEHU, Meghalaya
+Contact Details
+Phone:
+Email:
+Address:
+sanayai@cse.vnit.ac.in 303,New Academic Building,VNIT Nagpur
+Research interest
+Research Interest
+Natural Language Processing
+Machine Translation
+Sentiment Analysis
+Human Language Technology
+Multimodal AI/ML
+Low-Resource Language Processing
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year
+Sr. No.
+Awards/Guest lecture delivered
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 5
+Loitongbam Sanayai Meetei, Thoudam Doren Singh and Sivaji Bandyopadhyay
+An empirical study of a novel multimodal dataset for low resource machine translation
+Knowledge and Information Systems 2024
+Springer 4
+Loitongbam Sanayai Meetei, Thoudam Doren Singh and Sivaji Bandyopadhyay
+Exploiting Multiple Correlated Modalities can Enhance Low-Resource Machine Translation Quality
+Multimedia Tools and Applications 2024
+Springer 3
+Loitongbam Sanayai Meetei, Alok Singh, Thoudam Doren Singh and Sivaji Bandyopadhyay
+Do cues in a video help in handling rare words in a machine translation system under a low-resource setting?
+Natural Language Processing Journal 2023
+Elsevier 2
+Chanambam Sveta Devi, Loitongbam Sanayai Meetei, Bipul Syam Purkayastha
+An empirical study on English-Mizo statistical machine translation with bible corpus
+International journal of electrical and computer engineering systems 2022
+IJECES 1
+Loitongbam Sanayai Meetei, Thoudam Doren Singh, Samir Kumar Borgohain and Sivaji Bandyopadhyay
+Low resource language specific pre-processing and features for sentiment analysis task.
+Language Resources and Evaluation 2021
+Springer
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 16
+Singh, A. J., Meetei, L. S., & Surajkanta, Y
+Adapting IndicTrans2 for Legal Domain MT via QLoRA Fine-Tuning at JUST-NLP 2025
+Proceedings of 1st Workshop on NLP for Empowering Justice (JUST-NLP 2025) 2025
+ACL Anthology 15
+Singh, K. B., Singh, N. A., Meetei, L. S., Bandyopadhyay, S., & Singh, T. D.
+NITS-CNLP low-resource neural machine translation systems of English-Manipuri language pair
+Proceedings of the Eighth Conference on Machine Translation 2023
+ACL Anthology 14
+Singh, K. B., Singh, N. A., Meetei, L. S., Singh, N. J., Singh, T. D., & Bandyopadhyay, S
+A comparative study of transformer and transfer learning MT models for English-Manipuri 20th International Conference on Natural Language Processing (ICON) 2023
+ACL Anthology 13
+Singh, A., Singh, S. M., Meetei, L. S., Das, R., Singh, T. D., & Bandyopadhyay, S
+VATEX2020: pLSTM framework for video captioning
+Procedia Computer Science 2023
+Elsevier 12
+Meetei, L. S., Singh, S. M., Singh, A., Das, R., Singh, T. D., & Bandyopadhyay,
+Hindi to English multimodal machine translation on news dataset in low resource setting
+Procedia Computer Science 2023
+Elsevier 11
+Singh, A., Meetei, L. S., Singh, S. M., Singh, T. D., & Bandyopadhyay, S
+An efficient keyframes selection based framework for video captioning
+Proceedings of the 18th international conference on natural language processing (ICON) 2021
+ACL Anthology 10
+Singh, S. M., Meetei, L. S., Singh, A., Singh, T. D., & Bandyopadhyay, S.
+On the transferability of massively multilingual pretrained models in the pretext of the indo-aryan and tibeto-burman languages
+Proceedings of the 18th international conference on natural language processing (ICON) 2021
+ACL Anthology 9
+Meetei, L. S., Rahul, L., Singh, A., Singh, S. M., Singh, T. D., & Bandyopadhyay, S
+An experiment on speech-to-text translation systems for Manipuri to English on low resource setting
+Proceedings of the 18th international conference on natural language processing (ICON) 2021
+ACL Anthology 8
+Singh, S. M., Meetei, L. S., Singh, T. D., & Bandyopadhyay, S
+Multiple captions embellished multilingual multi-modal neural machine translation
+Proceedings of the first workshop on multimodal machine translation for low resource languages (MMTLRL 2021) 2021
+ACL Anthology 7
+Meetei, L. S., Singh, T. D., & Bandyopadhyay, S
+Low resource multimodal neural machine translation of English-Hindi in news domain
+Proceedings of the first workshop on multimodal machine translation for low resource languages (MMTLRL 2021) 2021
+ACL Anthology 6
+Rahul, L., Meetei, L. S., & Jayanna, H. S
+Statistical and neural machine translation for Manipuri-English on intelligence domain
+Advances in Computing and Network Communications: Proceedings of CoCoNet 2021
+Springer 5
+Singh, A., Meetei, L. S., Singh, T. D., & Bandyopadhyay, S
+Generation and evaluation of hindi image captions of visual genome
+Proceedings of the International Conference on Computing and Communication Systems: I3CS 2021
+Springer 4
+Meetei, L. S., Singh, T. D., Bandyopadhyay, S., Vela, M., & van Genabith, J
+English to Manipuri and mizo post-editing effort and its impact on low resource machine translation
+Proceedings of the 17th international conference on natural language processing (ICON) 2020
+ACL Anthology 3
+Meetei, L. S., Das, R., Singh, T. D., & Bandyopadhyay, S
+Automatic extraction of locations from news articles using domain knowledge
+Proceedings of International Conference on Big Data, Machine Learning, and Applications 2019
+Springer 2
+Meetei, L. S., Singh, T. D., & Bandyopadhyay, S.
+Extraction and identification of manipuri and mizo texts from scene and document images
+Proceedings of International Conference on Pattern Recognition and Machine Intelligence (PReMI) 2019
+Springer 1
+Meetei, L. S., Singh, T. D., & Bandyopadhyay, S
+WAT2019: English-Hindi Translation on Hindi Visual Genome Dataset
+Proceedings of the 6th Workshop on Asian Translation 2019
+ACL Anthology

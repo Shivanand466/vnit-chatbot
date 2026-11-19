@@ -98,19 +98,28 @@ def fetch_page(url: str):
     if "charset" not in content_type.lower():
         resp.encoding = resp.apparent_encoding or "utf-8"
 
-    soup = BeautifulSoup(resp.text, "html.parser")
+    title, text = html_to_text(resp.text)
+    return title or url, text, content_type, resp.text
+
+
+def html_to_text(html: str):
+    """(title, clean_text) of one HTML page, the way every crawled page is read.
+
+    Its own function so pages fetched some other way (the website's full
+    crawl, saved as HTML) are read exactly like the ones fetch_page fetches.
+    The title is "" when the page has neither an <h1> nor a <title>."""
+    soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["nav", "header", "footer", "script", "style", "noscript", "form"]):
         tag.decompose()
 
     title_tag = soup.find("h1") or soup.find("title")
-    title = title_tag.get_text(strip=True) if title_tag else url
+    title = title_tag.get_text(strip=True) if title_tag else ""
 
     main = soup.find("main") or soup.find("article") or soup.body or soup
     text = main.get_text(separator="\n", strip=True)
     text = re.sub(r"\n{3,}", "\n\n", text)  # collapse excess blank lines
     text = _rejoin_sentences(text)
-
-    return title, text, content_type, resp.text
+    return title, text
 
 
 def extract_internal_links(url: str, html: str, allowed_netloc: str):

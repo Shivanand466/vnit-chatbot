@@ -1,0 +1,167 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-d-b-zodpe/
+TITLE: Dr. D. B. Zodpe – VNIT Nagpur Mechanical Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. D. B. Zodpe
+Brief Bio
+Dr. D. B. Zodpe is an Associate Professor in the Department of Mechanical Engineering at Visvesvaraya National Institute of Technology (VNIT), Nagpur. He obtained his M.Tech. in Mechanical Engineering from IIT Kanpur in 1987 with First Class distinction and completed his Ph.D. from VNIT Nagpur in 2007.With more than three decades of academic, industrial, and research experience, Dr. Zodpe has contributed significantly to the fields of Thermal Engineering, Refrigeration and Air Conditioning, Renewable Energy, Heat Transfer, Computational Fluid Dynamics (CFD), and Energy Conservation. Prior to joining academia, he worked as a Sales Engineer at Voltas Ltd. He has served VNIT in various academic positions including Lecturer, Senior Lecturer, Lecturer (Selection Grade), and Associate Professor.His current research focuses on energy-efficient refrigeration and air-conditioning systems, solar energy technologies, alternative fuels, and sustainable energy solutions. He has guided several Ph.D. scholars in the areas of biodiesel-fueled engines, solar air heaters, and biomedical flow systems, leading to publications in reputed national and international journals.Dr. Zodpe is a member of the Indian Society of Refrigeration and Air Conditioning Engineers (ISHRAE), Nagpur Chapter, and has served as Institute In-charge for Air Conditioning Maintenance Contracts. He regularly teaches undergraduate and postgraduate courses in Refrigeration and Cryogenics, Air Conditioning, Advanced Refrigeration and Air Conditioning, and Renewable Energy Sources.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D 2007
+VNIT Nagpur 2
+Master of Technology (M.Tech) 1987
+IIT Kanpur 3
+Bachelor of Engineering (B.E) 1985
+Mechanical Engineering
+VRCE, Nagpur University
+Contact
+Phone:
+Email:
+Address:
+0712-280-1274 dbzodpe@mec.vnit.ac.in
+Flat no C-002, Sanchayani Prestige Complex, Swawlambi Nagar,Nagpur-440022
+Research Interest
+Thermal Engineering, Refrigeration and Air conditioning
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Advisory Report on Problems related with Air conditioning of Operation Theater at IGGMC Nagpur
+IGGMC Nagpur
+Coordinators 2019 0.73
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Prediction of the Blood Flow Through Stenosis in AVF for Hemodialysis (Book Chapter – Lecture Notes in Mechanical Engineering)
+Shembekar, S.; Zodpe, D.B.; Padole, P.M.
+Springer, Singapore 978-981-16-0549-9 2021
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+UG admissions to be done for 2014
+VNIT Nagpur
+Co-Chairman 2014 2
+Institutes AC maintenance contract for 8 Years
+VNIT Nagpur
+Incharge 3
+Sr. No.
+Awards 1
+S.No.
+Paper Citation 1
+Shembekar, S., Zodpe, D. B., & Padole, P. M., “Computational Fluid-Structure Interaction Simulation of Hemodynamics of Arteriovenous Fistula,” Journal of Mechanics in Medicine and Biology, Apr. 2023, DOI: 10.1142/S0219519423500471.
+2
+Shembekar, S. N., Zodpe, D. B., & Padole, P. M., “Prediction of the Anastomosis Angle of Arteriovenous Fistula in Hemodialysis to Standardize the Surgical Technique,” Bio-Medical Materials and Engineering, Feb. 2022, DOI: 10.3233/BME-211389.
+3
+Gawande, V. B., Dhoble, A. S., Zodpe, D. B., Chamoli, S., & Bali, S., “Optimisation of Design Parameters in Solar Air Heater Channel with Right-Angle Triangular Inserts Using the Taguchi Approach,” International Journal of Ambient Energy, Nov. 2022, DOI: 10.1080/01430750.2020.1791980.
+4
+Shembekar, S., Zodpe, D. B., & Padole, P. M., “Computational Study of Anastomosis Angle of Arteriovenous Fistula for Hemodialysis,” Molecular and Cellular Biomechanics, May 2022.
+5
+Satputaley, S. S., Zodpe, D. B., & Deshpande, N. V., “Performance, Combustion and Exhaust Emissions Analysis of a Diesel Engine Fuelled with Algae Oil and Algae Biodiesel,” Materials Today: Proceedings, 2018, DOI: 10.1016/j.matpr.2018.11.031.
+6
+Gawande, V. B., Dhoble, A. S., & Zodpe, D. B., “A Comparative Analysis of Thermo-Hydraulic Performance of a Roughened Solar Air Heater Using Various Rib Shapes,” Australian Journal of Mechanical Engineering, Oct. 2018, DOI: 10.1080/14484846.2018.1563756.
+7
+Gawande, V. B., Dhoble, A. S., Zodpe, D. B., & Fale, S. G., “Thermal Performance Evaluation of Solar Air Heater Using Combined Square and Equilateral Triangular Rib Roughness,” Australian Journal of Mechanical Engineering, Sept. 2018, DOI: 10.1080/14484846.2018.1530261.
+8
+Satputaley, S. S., Zodpe, D. B., & Deshpande, N. V., “Performance, Combustion and Emission Study on CI Engine Using Microalgae Oil and Microalgae Oil Methyl Esters,” Journal of the Energy Institute, Aug. 2017, DOI: 10.1016/j.joei.2016.05.009.
+9
+Gawande, V. B., Dhoble, A. S., Zodpe, D. B., & Chamoli, S., “Experimental and CFD Investigations of Convection Heat Transfer in Solar Air Heater with Reverse L-Shaped Rib,” Solar Energy, 2016, DOI: 10.1016/j.solener.2016.02.040.
+10
+Gawande, V. B., Dhoble, A. S., Zodpe, D. B., & Chamoli, S., “A Review of CFD Methodology Used in Literature for Predicting Thermo-Hydraulic Performance of a Roughened Solar Air Heater,” Renewable and Sustainable Energy Reviews, 2016, DOI: 10.1016/j.rser.2015.10.025.
+11
+Gawande, V. B., Dhoble, A. S., Zodpe, D. B., & Chamoli, S., “Experimental and CFD-Based Thermal Performance Prediction of Solar Air Heater Provided with Chamfered Square Rib as Artificial Roughness,” Journal of the Brazilian Society of Mechanical Sciences and Engineering, 2016, DOI: 10.1007/s40430-015-0413-6.
+12
+Gawande, V. B., Dhoble, A. S., Zodpe, D. B., & Chamoli, S., “Experimental and CFD-Based Thermal Performance Prediction of Solar Air Heater Provided with Right-Angle Triangular Rib as Artificial Roughness,” Journal of the Brazilian Society of Mechanical Sciences and Engineering, 2016, DOI: 10.1007/s40430-015-0391-8.
+13
+Gawande, V. B., Dhoble, A. S., Zodpe, D. B., & Chamoli, S., “Analytical Approach for Evaluation of Thermal Hydraulic Performance of Roughened Solar Air Heater,” Case Studies in Thermal Engineering, Sept. 2016, DOI: 10.1016/j.csite.2016.05.005.
+14
+Gawande, V. B., Dhoble, A. S., & Zodpe, D. B., “Effect of Roughness Geometries on Heat Transfer Enhancement in Solar Thermal Systems – A Review,” Renewable and Sustainable Energy Reviews, Apr. 2014, DOI: 10.1016/j.rser.2014.01.024.
+15
+Gawande, V. B., Dhoble, A. S., & Zodpe, D. B., “CFD Analysis to Study Effect of Circular Vortex Generator Placed in Inlet Section to Investigate Heat Transfer Aspects of Solar Air Heater,” Scientific World Journal, 2014, DOI: 10.1155/2014/567257.
+16
+Shukla, S. P., & Zodpe, D. B., “Performance Comparison of Microchannel Heat Exchanger with Fin Tube Heat Exchanger for Split Air Conditioner,” International Journal of Creative Research Thoughts, Apr. 2013.
+S.No.
+Paper Citation 1
+Shembekar, S. N., Zodpe, D. B., & Padole, P. M., “Prediction of the Blood Flow Through Stenosis in AVF for Hemodialysis,” 4th International and 19th National Conference on Machines and Mechanisms (iNaCoMM 2019), IIT Mandi, December 2019.
+2
+Satputaley, S. S., Zodpe, D. B., & Deshpande, N. V., “Jatropha and Neem Biodiesel as an Alternative Fuel for CI Engine – A Review,” International Conference on Sustainable Energy and Environmental Challenges (SEEC-2018), IISc Bangalore, January 2018.
+3
+Satputaley, S. S., Zodpe, D. B., & Deshpande, N. V., “Comparison of Performance and Emission Characteristics of Double Cylinder Four Stroke CI Engine between Diesel and Neem Biodiesel Blend,” International Conference on Sustainable Energy and Environmental Challenges (SEEC-2018), IISc Bangalore, January 2018.
+4
+Satputaley, S. S., & Zodpe, D. B., “Critical Review on Neem Biodiesel as an Alternative Fuel for Diesel Engine,” 44th National Conference on Fluid Mechanics and Fluid Power, Amrita University, Kerala, December 2017.
+5
+Satputaley, S. S., & Zodpe, D. B., “Jatropha Biodiesel as an Alternative Fuel for C.I. Engine – A Review,” 44th National Conference on Fluid Mechanics and Fluid Power, Amrita University, Kerala, December 2017.
+6
+Satputaley, S. S., Zodpe, D. B., & Deshpande, N. V., “Performance and Emission Study of CI Engine Fuelled with Diesel and Microalgae Biodiesel with EGR,” International Conference on Sustainable Energy and Environmental Challenges (SEEC-2017), Mohali, India, February 2017.
+7
+Satputaley, S. S., Zodpe, D. B., & Deshpande, N. V., “Design and Development of EGR System for NOx Reduction in Stationary CI Engine,” International Conference on Sustainable Energy and Environmental Challenges (SEEC-2017), Mohali, India, February 2017.
+8
+Satputaley, S. S., Zodpe, D. B., & Deshpande, N. V., “Experimental Investigation of EGR Effect on Performance and Emission Characteristics of CI Engine,” 1st International and 18th ISME Conference, NIT Warangal, December 2016.
+9
+Satputaley, S. S., Zodpe, D. B., & Deshpande, N. V., “Performance, Combustion and Exhaust Emissions Analysis of a Diesel Engine Fuelled with Algae Oil and Algae Biodiesel,” 6th International and 43rd National Conference on Fluid Mechanics and Fluid Power (FMFP 2016), MNNIT Allahabad, December 2015.
+10
+Satputaley, S. S., & Zodpe, D. B., “Performance and Exhaust Emissions Analysis of a Diesel Engine Fuelled with Algae Oil,” 5th International Conference on Advances in Energy Research (ICAER 2015), IIT Bombay, October 2015.
+11
+Bhambere, M. B., & Zodpe, D. B., “Biogas as an Alternative Fuel for Transportation,” 17th ISME Conference on Advances in Mechanical Engineering, IIT Delhi, December 2012.
+12
+Gawande, V. B., Zodpe, D. B., & Pawar, G. P., “Aerodynamic Analysis of NACA Wind Turbine Blades Using CFD for Obtaining Optimum Angle of Attack and Maximum Power Coefficient,” International Conference on Emerging Trends in Electrical Engineering and Energy Management (ICE TEEEM-2012), December 2012.
+13
+Bhambere, M. B., & Zodpe, D. B., “Flow Analysis of Flue Gases in ESP Inlet Duct Using CFD,” 5th International Conference on Advances in Mechanical Engineering (ICAME-2011), SVNIT Surat, June 2011.
+14
+Gawande, V. B., Zodpe, D. B., & Kachale, D., “Comparative Study of Drag and Lift on Aerofoil Blades: CFD Approach,” 4th International Conference on Advances in Mechanical Engineering, SVNIT Surat, September 2010.
+15
+Satputaley, S. S., & Zodpe, D. B., “Application of CFD in Various Fields of Engineering,” International Conference on Total Engineering Analysis and Manufacturing Technologies (TEAM Tech 2008), IISc Bangalore, 2008.
+16
+Satputaley, S. S., & Zodpe, D. B., “Biomass for Electricity Generation: A Cleaner and Efficient Technology in Small and Medium Villages for Sustainable Power Development,” MIPFEST-08, Koneru Lakshmaiah College of Engineering, January 2008.
+17
+Satputaley, S. S., & Zodpe, D. B., “Scope of Biogas as an Alternative Fuel for Fossil Fuels,” PCAE-IFToMM International Conference (PICA 2006), Priyadarshini College of Engineering, Nagpur, July 2006.
+18
+Zodpe, D. B., & Deshpande, N. V., “Alternatives in Power Generation: Biomass – The New Source of Energy,” PCAE-IFToMM International Conference (PICA 2006), Priyadarshini College of Engineering, Nagpur, July 2006.
+19
+Satputaley, S. S., & Zodpe, D. B., “Use of Ethanol Based Oxygenates for Smoke Reduction in C.I. Engines,” CASSEEE, Uttar Pradesh Technical University, Lucknow, June 2006.
+20
+Zodpe, D. B., & Deshpande, N. V., “Optimization of Gobar Gas as an Alternative Fuel for Diesel Engine Generators,” ASME Internal Engines Division Spring Technical Conference, Chicago, USA, April 2005.
+21
+Zodpe, D. B., & Deshpande, N. V., “Design of an Exhaust Gas Fired Vapour Absorption Refrigeration Chiller for Milk Tanker,” 14th ISME Conference, Delhi College of Engineering, December 2005.
+22
+Zodpe, D. B., & Deshpande, N. V., “Effect of Oxygen Enrichment of Fuel Using Oxygenates on Smoke Density of Compression Ignition Engines,” Purdue Conference on Refrigeration and Air Conditioning, Indiana, USA, July 2004.
+23
+Zodpe, D. B., & Deshpande, N. V., “Exhaust Gas Simulation,” SAE Third International Conference on Automotive and Fuel Technology, New Delhi, January 2004.
+24
+Zodpe, D. B., Thombre, S. B., & Singh, G. P., “Energy Conservation Due to Certain Condenser Modifications in Household Refrigerator,” International Conference on Thermal Energy Storage Technologies, Indore (M.P.), March 2003.
+25
+Prasad, M., & Zodpe, D. B., “Effect of Variable Heat Transfer Coefficient on the Performance Calculations of the Fins,” International Conference on Thermal Energy Storage Technologies, Indore (M.P.), March 2003.
+26
+Prasad, M., & Zodpe, D. B., “Comparative Performance of Non-Conventional Air-Conditioning Systems,” 15th National and 4th ISME/ASME Conference, Pune, January 2000.

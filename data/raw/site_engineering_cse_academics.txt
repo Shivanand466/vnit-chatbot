@@ -1,0 +1,138 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/academics/
+TITLE: Academics | VNIT Nagpur Computer Science Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+COURSE OF STUDY
+Curriculum
+B. Tech
+M.Tech.
+E-M.Tech in CSE (GEN AI)
+Ph.D.
+Achievements
+E-Resources
+Program
+Description 1. UG – BTech (CSE)
+Started with 30 seats in 1987
+Intake increased to 60 in 2006
+Intake increased to 81 in 2009
+Intake increased to 92 in 2010
+Intake increased to 135 in 2018
+Intake decreased to 120 in 2019
+Intake increased to 135 in 2021 2. UG – BTech (AI & DS)
+Started with 60 seats in 2026 2. PG – MTech (CSE)
+Full time program started in 2007 with 18 seats
+Current intake is 38 in full time mode only
+Part Time program started in 2003
+Part time program discontinued 3. PhD – CSE
+Full Time Program started in 2007
+(Currently there are about 30 full time and 100 part time research scholars ) 4. Minor
+Started in 2023 with intake of 30
+Helpful Links
+B.Tech. First Year Computer Science and Engineering  Scheme and Course Book (Updated on 25/07/2025)
+B.Tech.  in CSE – Course book (for student admitted in year 2025 and later)
+B.Tech. Computer Science and Engineering Course Book (for student admitted before 2025)
+B.Tech. in AI and DS – Course book
+OC, Minor and other Departmental courses Course Book (latest)
+COURSE CONTENT FOR MINOR IN MACHINE LEARNING
+COURSE CONTENT FOR FUNDAMENTALS OF MACHINE LEARNING
+M.Tech. Computer Science and Engineering Course Book (latest)
+Guidelines, Rules & Regulations of Ph.D (Full Time) and (Part Time) Programs January 2024 onwards
+BTech Course Highlights
+BTech core courses to cover entire GATE (CSE) syllabus
+BTech core courses to be completed by 3rd year
+A wide range of electives are included to cover most of the areas of current research in computer science and engineering.
+To add industry perspective, practicing people are invited to conduct full courses.
+Department offers 3 Open Courses and 4 other Department Courses
+In a Minor course, a student has to complete 1 extra subject per semester from 3rd to 6th Semester
+BTech Higher Sem Courses Overview
+Maths – Prob & Stats(3), Discrete Maths (3), Linear Algebra (4)
+Theory – Data Structures (3/4), Programming Languages(4), Algorithms(5), Theory of Computation(5)
+Systems – Digital Ckts(3), Computer Organization (4), OS (5), Networks(5), Compilers(6), Databases (6), Security (6), S/W Engg(6)
+Electives – OOP (4), Web Prog (4/5), Fuzzy (5), Image Proc(6), AI (7), ML(8), Information Retrieval (7), Pattern Reco (7), Cryptography(7), Deep Learning (8), Game Theory (8), Business Intelligence (8), etc.
+B.Tech. Schemes 2009 Admitted Batch 2010 Admitted Batch 2011 and 2012 Admitted Batch 2018 Admitted Batch 2024 Onwards
+CSE and AI-DS 2025 onwards
+Course Book
+CSE-2025 onwards
+(for student admitted in 2025 and later)
+AI DS-2025 onwards
+(for student admitted in 2025 and later) 2014-2015 2015-2016 2017-2018 2021-2022 2024-2025
+B.Tech. First Year Computer Science and Engineering  Scheme and Course Book (Updated on 25/07/2025)
+Course content for minor in Machine Learning
+MTech Course Highlights
+MTech core courses to cover computer science essentials – Mathematics, Programming, Theory, and Systems
+MTech electives to be in research areas of faculty and/or teaching support provided by industry – CS Core, Image Processing, Security, Bio, NLP, Systems Design, Data Analytics, AI/ML, Fuzzy, etc.
+MTech students can complete their theory courses in 2 semesters, leaving 2 semesters for project work
+M Tech Schemes
+Course Book
+Course book 2024-2025
+Department of Computer Science & Engineering
+VNIT, Nagpur – 440010
+Executive M. Tech (Online) in Computer Science & Engineering (Generative AI)
+Admissions Open for the Batch starting January 2026.
+Last Date to apply is 20 th
+November, 2025
+Program Highlights
+Online classes over weekends with support of recordings etc.
+Non- GATE with UG degree in CS / IT / CE/ CE/ Related branches is eligible.
+Tech. core courses to cover computer science essentials – Mathematics, Programming, Theory, and Systems.
+Tech. electives to be in research areas of faculty and/or teaching support provided by industry – CS Core, Image Processing, AI/ML, Deep Learning, Gen AI, etc.
+Curriculum at par with regular offline M. Tech. Programs.
+Curated with hands-on for future industry readiness.
+Experienced in-house faculties.
+NEP aligned features like early exit and entry options.
+Affordable and a great opportunity for working professionals.
+Program Flyer
+:
+Information Brochure
+Program Details
+:
+Program Timeline
+:
+Course Book
+:
+Application Google form link for “
+Executive M. Tech Admissions – Batch starting January 2026
+”.
+Alternative link if the above link does not work:
+https://forms.gle/cSPJXgjjxo7LtGyp7
+If it still does not work, copy the link and paste in your browser address bar directly.
+Doctoral Program
+Guidelines, Rules & Regulations of Ph.D (Full Time) and (Part Time) Programs January 2024 onwards
+Guidelines, Rules and Regulations Governing Ph.D. (Full time) Programs January-2019 onwards.
+Guidelines, Rules & Regulations of Ph.D. (Part Time) Programs and Information Brochure July-2020.
+Other information
+Rule Book 2018
+Department and Faculty
+Achievements and Recognition
+Prof. O.G. Kakde is Director IIIT Nagpur
+Faculty members are BoS and Senate members of different academic institutions
+Cumulative consultancy/projects around Rs. 3 Cr (Last 3 years)
+Cumulative Faculty Publications:
+SCI:  202   Scopus&Conf: 226   Books: 35    Patents: 6
+Student Research Papers: 11
+Some books are used as text books in various universities
+E-Resources List :-
+These E-Books can be access through the following URLs :
+Sr. No.
+Publishers
+List Of Titles Of eBooks
+Download 1.
+T & F www.crcnetbase.com 2.
+Pearson Education www.myilibrary.com
+List 3.
+Springer http://link.springer.com
+Download List
+Tool 4.
+ACM Transactions http://dl.acm.org/
+Tool 5.
+IEEE Transactions http://ieeexplore.ieee.org/Xplore/home.jsp i)
+Conferences ii)
+Journals iii)
+Standards
+Tool 6.
+Science Direct http://www.sciencedirect.com/
+Tool
+One can download e-copy, or print these Journals after accessing through.
+
+Note : For download copy "Open Url" Column.

@@ -1,0 +1,12 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/alumni/
+TITLE: Alumni – Electrical Engineering  VNIT Nagpur MH
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+All VNIT Electrical Engineering alumni (B.Tech/M.Tech/Ph.D.) are requested to register their current details to the Official Electrical Engineering Department Alumni Database using the link given below.
+Alumni link:
+Click Here
+Name
+Degree Awarded
+Year of Award of First Degree from VNIT
+Name of the Organization / Institute

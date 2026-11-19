@@ -1,0 +1,196 @@
+SOURCE_URL: https://vnit.ac.in/scopus-publications-architecture-and-planning/
+TITLE: Scopus Publications – Architecture and Planning
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No.
+Authors
+Department
+Title
+Source title
+Document Type 1
+Mishra G.K.; Deshmukh A.M.
+Architecture & Planning
+Assessment of urban sprawl using proximity factors in Lucknow City, India
+Journal of Earth System Science
+Article 2
+Vijayan M.; Patil A.; Kapse V.
+Architecture & Planning
+AN AGENT-BASED COMPUTATIONAL MODEL ON HOUSEHOLD ELECTRICITY CONSUMPTION IN INDIAN CITIES
+Journal of Green Building
+Article 3
+Patle S.; Ghuge V.V.
+Architecture & Planning
+Evolution and performance analysis of thermal comfort indices for tropical and subtropical region: a comprehensive literature review
+International Journal of Environmental Science and Technology
+Review 4
+Vaidya M.; Keskar R.; Kotharkar R.
+Architecture & Planning
+DEALB: A Post-classification Framework for Regionalizing Local Climate Zones in the Urban Environment
+Journal of the Indian Society of Remote Sensing
+Article 5
+Vaidya M.; Keskar R.; Kotharkar R.
+Architecture & Planning
+Quantifying the effect of surrounding spatial heterogeneity on land surface temperature based on local climate zones using mutual information
+Sustainable Cities and Society
+Article 6
+Kotharkar R.; Dongarsane P.
+Architecture & Planning
+Investigating outdoor thermal comfort variations across Local Climate Zones in Nagpur, India, using ENVI-met
+Building and Environment
+Article 7
+Kotharkar R.; Dongarsane P.; Ghosh A.; Kotharkar V.
+Architecture & Planning
+Numerical analysis of extreme heat in Nagpur city using heat stress indices, all-cause mortality and local climate zone classification
+Sustainable Cities and Society
+Article 8
+Garg R.; Pankaj; Kumar A.; Brar T.S.; Kamal M.A.
+Architecture & Planning
+Optimization of Structural Grid in Low Rise Reinforced Cement Concrete Framed Buildings
+Springer Series in Geomechanics and Geoengineering
+Conference paper 9
+Vaidya M.; Keskar R.; Kotharkar R.
+Architecture & Planning
+Classifying heterogeneous urban form into local climate zones using supervised learning and greedy clustering incorporating Landsat dataset
+Urban Climate
+Article 10
+Kotharkar R.; Dongarsane P.; Ghosh A.
+Architecture & Planning
+Quantification of summertime thermal stress and PET range in a tropical Indian city
+Urban Climate
+Article 11
+Mishra G.K.; Deshmukh A.M.
+Architecture & Planning
+Land resource mapping framework for delhi city using urban sprawl modelling methods
+Spatial Intelligence for a Greener Planet: AI Applications in Environmental Pollution Mapping, Analysis and Mitigation
+Book chapter 12
+Kaleshwarwar A.; Bahadure S.
+Architecture & Planning
+Assessing dynamics of urban solar PV power generation using grid divisional method
+Energy and Buildings
+Article 13
+Mohite S.; Surawar M.
+Architecture & Planning
+Assessment and prediction of pedestrian thermal comfort through machine learning modelling in tropical urban climate of Nagpur City
+Theoretical and Applied Climatology
+Article 14
+Sharma G.K.; Ghuge V.V.
+Architecture & Planning
+How urban growth dynamics impact the air quality? A case of eight Indian metropolitan cities
+Science of the Total Environment
+Article 15
+Dandge A.A.; Patil A.P.
+Architecture & Planning
+A Comparative Analysis of Bhumija-Style Gondeshwar Temple’s Acoustic Characteristics with Hemadpanti-Style Temples
+International Journal of Architectural Heritage
+Article 16
+Kaleshwarwar A.; Bahadure S.
+Architecture & Planning
+Assessment of Solar Power Sustainability in Urban Areas
+Advances in 21st Century Human Settlements
+Book chapter 17
+Varaprasad G.; Bahadure S.
+Architecture & Planning
+Environmental Assessment of Kakinada City, Andhra Pradesh, India
+Advances in 21st Century Human Settlements
+Book chapter 18
+Patil R.; Bahadure P.
+Architecture & Planning
+Framework for Implementation of Compact City Concept in Indian Cities
+Advances in 21st Century Human Settlements
+Book chapter 19
+Varaprasad G.; Bahadure S.
+Architecture & Planning
+Integration of IoT for Sustainable Urban Development
+Advances in 21st Century Human Settlements
+Book chapter 20
+Loya S.; Bahadure S.
+Architecture & Planning
+Sustainable Water Supply Infrastructure for Amritsar, India
+Advances in 21st Century Human Settlements
+Book chapter 21
+Badar R.; Bahadure S.
+Architecture & Planning
+Addressing SDG 11.7: A Review of Literature on Urban Open Spaces in India
+Advances in 21st Century Human Settlements
+Book chapter 22
+Kapai N.; Bahadure P.
+Architecture & Planning
+Urban Restructuring Through the Development of Underutilized Lands to Achieve Sustainable Compact City Model
+Advances in 21st Century Human Settlements
+Book chapter 23
+Kamble T.; Bahadure S.
+Architecture & Planning
+What Does Urban Sustainability Mean? An Overview of Studies from 10 Countries
+Advances in 21st Century Human Settlements
+Book chapter 24
+Neha J.; Meenal S.
+Architecture & Planning
+Assessing Non-motorized Mobility Planning: A Case of Indore City
+Sustainable Civil Infrastructures
+Conference paper 25
+Sharma G.K.; Ghuge V.V.
+Architecture & Planning
+Assessment of urban growth dynamics in eight Indian metropolitan cities using spatial metrics
+Journal of Spatial Science
+Article 26
+Patle S.; Ghuge V.V.
+Architecture & Planning
+Urban fragmentation approach for assessing thermal environment dynamics: A case study of semi-arid city from a comfort perspective
+Urban Climate
+Article 27
+Kumar Kirme S.; Kapse V.S.
+Architecture & Planning
+A comprehensive review of residential building energy efficiency measures in India
+Energy and Buildings
+Review 28
+Mohite S.; Surawar M.
+Architecture & Planning
+Impact of urban street geometry on outdoor pedestrian thermal comfort during heatwave in Nagpur city
+Sustainable Cities and Society
+Article 29
+Dandge A.A.; Patil A.P.
+Architecture & Planning
+Acoustic Characterization of Hemadpanti-Style Hindu Temples: A Case Study of the Markanda and Mrikunda Temples
+Acoustics Australia
+Article 30
+Surawar S.; Surawar M.; Nagpure H.
+Architecture & Planning
+Assessing Walkability Near Metro Stations: A Case in Nagpur
+Advances in 21st Century Human Settlements
+Book chapter 31
+Mohite S.; Surawar M.
+Architecture & Planning
+Assessing the Walkability of Nagpur City at Neighborhood Level Using Walk Score Index
+Advances in 21st Century Human Settlements
+Book chapter 32
+Gaurkhede N.T.; Adane V.S.
+Architecture & Planning
+SUSTAINABLE DRAINAGE SOLUTIONS FOR FLOOD MITIGATION IN DEVELOPING TROPICAL/SUB-TROPICAL REGIONS THROUGH RAINFALL-RUNOFF MODELLING: A CASE OF NAGPUR, INDIA
+Applied Ecology and Environmental Research
+Article 33
+Mohite S.; Surawar M.
+Architecture & Planning
+Assessing Pedestrian Thermal Comfort to Improve Walkability in the Urban Tropical Environment of Nagpur City
+Geographica Pannonica
+Article 34
+Shakya R.; Khan S.
+Architecture & Planning
+Climate Change Vulnerability through Spatial Assessment: A Study of Central India
+Natural Hazards Review
+Article 35
+Kumar M.; Khan S.
+Architecture & Planning
+Post-occupancy assessment of student housing facilities in an educational campus: case study of Visvesvaraya National Institute of Technology Nagpur, India
+Archnet-IJAR: International Journal of Architectural Research
+Article 36
+Gujar S.; Deshmukh A.
+Architecture & Planning
+Impact of Vegetation on Visual Comfort in Residential Intermediate Open Spaces Using Rhino-Grasshopper Case Study: Nagpur, India
+Advances in 21st Century Human Settlements
+Book chapter 37
+Mishra G.K.; Deshmukh A.M.
+Architecture & Planning
+Urban Sprawl in the context of proximity factors using Shannon’s Entropy Index and fractal dimensions: a case of Lucknow
+Journal of Spatial Science
+Article

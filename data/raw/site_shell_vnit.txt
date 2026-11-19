@@ -1,0 +1,35 @@
+SOURCE_URL: https://vnit.ac.in/shell_vnit/
+TITLE: SHELL
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+S.H.E.L.L.
+Join SHELL Club – Ignite Your Cybersecurity and electrify your future in Ethical Hacking, Cryptography,and Network Security
+About Club
+S.H.E.L.L is the official cybersecurity club of NIT Nagpur, dedicated to fostering a strong security culture. Since its founding in 2017 by Aaditya Gupta, the club has grown into a powerful team of security lovers.
+Our alumni have gone on to work in top security roles, excelling in penetration testing, cryptography, web security, and more.
+⚡
+What We Do
+· Compete &amp; host Capture The Flag (CTF) competitions
+· Conduct hands-on workshops on security topics
+· Engage in bug bounty &amp; penetration testing
+· Contribute to open-source cybersecurity projects
+· Provide mentorship &amp; guidance for students
+Events and Activities
+Club Updates
+Recent Events
+Upcoming Event: A workshop on
+Reverse Engineering in March 2025
+Recruitment of 1st Years to be done in April 2025
+Networking Workshop, February 2025
+Linux OS workshop, January 2025
+Blockchain Workshop, September 24
+Club Activities
+Team Members
+Upcoming Events
+Connect With Us
+OFFICIAL EMAIL: shellpwn@vnit.ac.in
+You can find SHELL on Instgram, Github, CTFtime and Linkedin with the username @shellpwn
+Instagram
+Github
+Linkedin

@@ -1,0 +1,29 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mining/faculty/
+TITLE: Faculty – VNIT Nagpur Mining Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+HEAD OF THE DEPARTMENT
+Dr. Ajay Kumar Agarwal
+Associate Professor  & Head of the Department
+PROFESSOR
+Dr.  N. R. Thote
+Blasting, Rock Mechanics, Excavation, Mine Environment and Management
+ASSOCIATE PROFESSOR
+Dr. A.K. Agarwal
+Water Pollution, Rock Mechanics, Slope stability
+Dr. Ritesh D. Lokhande
+Ground Control, Mine Design, Slope Stability, Instrumentation & Monitoring and Subsidence
+ASSISTANT PROFESSOR
+Dr. Sandeep  Panchal
+Rock Mechanics & Ground Control, Underground Coal Mining, Paste Filling.
+Dr. Nikhil Ninad Sirdesai
+Geomechanics, Novel Mining Methods, Engineering Geology, Soft Computing
+Dr. Anupam Anant Kher
+Mine Safety, Mine Ventilation, Mine Systems Engineering
+Dr. Sumant Mohanto
+Rock Mechanics & Ground Control, Underground Metal Mining, Slope Stability, Numerical Simulation, Soft Computing
+Dr. Nachiket Bhagade
+Rock excavation engineering, damage mechanics and near-field dynamics.
+Dr. Rishi Sharma
+Iron ore agglomeration, Drying of iron ore agglomerates, Dust Generation Potential of Rocks, Acid Mine Drainage, Underground Mining Methods

@@ -1,0 +1,484 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-mrs-d-d-shrimankar/
+TITLE: Dr. (Mrs.) D.D. Shrimankar​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. (Mrs.) D.D. Shrimankar​
+Brief Bio
+Brief Bio
+PhD VNIT,  Associate Professor
+Visvesvaraya National Institute of Technology
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D 2009-2013
+Computer Science and Engineering
+Visvesvaraya National Institute of Technology, Nagpur 2
+M.Tech 2004-2007
+Computer Science and Engineering
+R.T.M Nagpur University 3
+B.E.
+1993-1997
+Computer Technology
+R.T.M Nagpur University
+Contact Details
+Phone:
+Email:
+Address:
+0712-2801023 / 9860606477 dshrimankar@cse.vnit.ac.in
+Department of Computer Science and Engineering, VNIT Campus, South Ambazari Road, Nagpur
+Research Interest
+IoT and Embedded Systems
+High Performance Computing
+Machine and Deep Learning
+Computer and Wireless Networks.
+Embedded and Real Time Systems
+Image and Video Processing.
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+PhD Supervised
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Impact Assessment Study of POWERGRID CSR Project
+PowerGrid
+Member 2024 4.99 Lakh
+Description
+Author(s)
+Publisher
+ISBN
+Year
+“Commercial Bamboo Clustering and Classification using Artificial Intelligence”, in Handbook, “Convergence of Cloud Computing, AI, and Agriculture Science”
+Ankush Sawarkar and D. D. Shrimankar
+Handbook, “Convergence of Cloud Computing, AI, and Agriculture Science” 2023
+“Morphological, Physical and Chemical Characteristics of Commercial Bamboo Species for Phyto-management of Polluted Sites”, in India.  Print ISSN:- 0367 – 827X Online ISSN:- 2582 – 8460.
+Ankush Sawarkar and D. D. Shrimankar
+Journal of Environmental Science & Engineering, a constituent laboratory of CSIR-NEERI, Nagpur.
+ISSN:- 0367 – 827X Online ISSN:- 2582 – 8460 2022
+“Role of Bamboo and Other Sustainable, Commercial Plant Species for Controlling Soil Erosion in the Degraded Area” in India. Print ISSN:- 0367 – 827X Online ISSN:- 2582 – 8460.
+Ankush Sawarkar and D. D. Shrimankar
+Journal of Environmental Science & Engineering, a constituent laboratory of CSIR-NEERI, Nagpur.
+2021
+Key-Lectures: Keyframes Extraction in Video Lectures. In: Tanveer, M., Pachori, R. (eds) Machine Intelligence and Signal Analysis. Advances in Intelligent Systems and Computing, vol 748. Springer, (2019) Singapore. https://doi.org/10.1007/978-981-13-0923-6_39
+Kumar, K., Shrimankar, D.D., et.al
+Springer, Singapore 2019
+V-LESS: A Video from Linear Event Summaries. In: Chaudhuri, B., Kankanhalli, M., Raman, B. (eds) Proceedings of 2nd International Conference on Computer Vision & Image Processing . Advances in Intelligent Systems and Computing, vol 703. Springer,(2019) Singapore. https://doi.org/10.1007/978-981-10-7895-8_30
+Kumar, K., Shrimankar, D.D., et. al .
+Springer, Singapore 2019
+“Post-deployment energy-efficient schemes in wireless sensor networks a study on three well-known energy efficient approaches,” in Handbook of Research on the IoT, Cloud Computing, and Wireless Network Optimization. Year 2018 (Published)
+Rohit Pachlore and D. D. Shrimankar
+Handbook of Research on the IoT, Cloud Computing, and Wireless Network Optimization.
+2018
+SOMES: An Efficient SOM Technique for Event Summarization in Multi-view Surveillance Videos. In: Sa, P., Bakshi, S., Hatzilygeroudis, I., Sahoo, M. (eds) Recent Findings in Intelligent Computing Techniques . Advances in Intelligent Systems and Computing, vol 709. Springer, (2018) Singapore. https://doi.org/10.1007/978-981-10-8633-5_38
+Kumar, K., Shrimankar, D.D., et.al.
+Springer, Singapore 2018
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Five Days Workshop on “Advances in Computer Networks(ACN-2018)” . Organized by Department of Computer Science and Engineering, VNIT, Nagpur. Date: 10 – 14 December 2018.
+2
+Five Days Workshop on “High Performance Computing (HPC-2016)”. Organized by Department of Computer Science and Engineering, VNIT, Nagpur. Date: 23 – 27 May 2016.
+3
+Three Days Workshop on “Parallel, Cluster and Cloud Computing on Multicore and GPU (PCCCMG-2015)”. Organized by Department of Computer Science and Engineering, VNIT, Nagpur. Date: 4 – 6 Sept 2015.
+4
+One-Week Computer Network Workshop, Organized by VNIT, through CDEEP from IIT Bombay. Duration: 30 June 2014 – 5 July 2014 (6 days).
+5
+One-Week DBMS Workshop, Organized by VNIT, through CDEEP from IIT Bombay. Duration: 13 Dec 2010 – 23 Dec 2010. (10 days).
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Girls Hostel – Warden (No. of girls student (450))
+Working as Warden Girls’ Hostel
+From 2022 – till date 2
+Networking/ Internet / MIS Facilities to all departments and sections of the Institute.
+In-charge Network Center
+Year 2013 – 2026 3
+Concovation Committee
+Member
+Year 2013 – Year 2026 4
+Worked as Departmental Examination Co-ordinator
+Departmental Exam Coordinator
+Year 2009 – 11      Year 2017 – 18      Year 2020 – 22      Year 2026 – till date 5
+Worked as core committee member ofBTech Admission (CCMT)
+Central Committee member
+Year 2012 – 2018 6
+Worked as core committee member ofBTech Admission (JoSAA)
+Central Committee member
+Year 2017 – Year 2026 7
+Girls Hostel – warden (No. of girls student (640)
+Warden
+March 2011 – May 2015
+Sr. No.
+Awards 1
+Received “Young Faculty Research Fellowship” award on March 2016 by Meity Digital India, Media Lab Asia, Government of India for five years, with per year grant of Rs 740000.00
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+Apurva Khandekar, Shrimankar D D
+“Generative AI for Medical Imaging: A Systematic Review of Medels, Applications, and Clinical Challenges”
+Journal of Archives of Computational Methods in Engineering 2026
+Springer 2
+Ekta Tiwari, Shrimankar D D, et. al
+“Matrix Gating-based Long Short-Term Memory Deep Learning for Cardiovascular Disease Risk Stratification with Intraplaque Neovascularization Biomarker”
+Journal of Mechanics in Medicine and Biology 2026
+World Scientific Publishing 3
+Ekta Tiwari, Shrimankar D D, et. al
+“Women’s Cardiovascular Disease and Stroke Risk Stratification 2 Using Precision and Personalized Framework Embedded with 3 Explainable Artificial Intelligence Paradigm: A 4 Narrative Review”
+Diagnostics 2026 2026
+MDPI 4
+Ekta Tiwari, Shrimankar D D, et. al
+“Generative Artificial Intelligence vs. Transformer and Benchmarking Against Deep/Machine Learning: Classification and Scientific Validation of Heart Failure Patients Using Women’s Transcriptomic “Gene Data
+Diagnostics 2026 2026
+MDPI 5
+Ekta Tiwari, Shrimankar D D, et. al
+“Scientific validation of hybrid deep learning using unseen paradigm and explainability for classification of women’s heart failure gene”expression
+Journal of Soft Computing 2026
+Springer 6
+Ekta Tiwari, Shrimankar D D, et. al
+“Long short-term memory network with exponential gating mechanism: a deep learning approach for cardiovascular stroke risk stratification”
+Biomedical Informatic 2025 2025
+Elsevier 7
+Ekta Tiwari, Shrimankar D D, et. al
+“Artificial intelligence-based cardiovascular/stroke risk stratification in women affected by autoimmune disorders: a narrative survey”
+NIH National Library of Medicine, National Center for Biotechnology Information, Springer 2025
+Springer 8
+Aditi R. Durge, Shrimankar D D.
+“DHFS-ECM: Design of a Dual Heuristic Feature Selection-based Ensemble Classification model for the identification of Bamboo Species from Genomic Sequences”.
+International Journal on Current Genomics, Bentham Science (SCI). Published online: 5 January 2024 2024 9
+Sony Ahuja, Shrimankar D. D.
+“ A Study and Analysis of Disease Identification using Genomic Sequence Processing Models: An Empirical Review”,
+International Journal on Current Genomics, Bentham Science (SCI). Published online: 24 November 2023.
+2023 10
+Sawarkar, A.D., Shrimankar, D.D., et.al,
+“Bamboo as a sustainable crop for land restoration in India: challenges and opportunities”,
+International Journal of Environment, Development anf Sustainability, Springer Nature B.V, SCI. Accepted September 2023 2023
+Springer 11
+Sawarkar, A.D., Shrimankar, D.D., et.al,
+“Bamboos as a cultivated medicinal grass for industries: A systematic review”,
+International Journal of Industrial Crops and Products, Elsevier, SCI. DOI: https://doi.org/10.1016/j.indcrop.2023.117210. Published online July 2023 2023
+Elsevier 12
+Aditi Durge, Shrimankar D. D.
+“ Heuristic Analysis of Genomic Sequence Processing Models for High Efficiency Prediction: A Statistical Perspective”,
+International Journal on Current Genomics, Bentham Science (SCI). Published online: October 2022 2022 13
+Sawarkar, A.D., Shrimankar, D.D., et.al,
+“Traditional System Versus DNA Barcoding in Identification of Bamboo Species: A Systematic Review”,
+International Journal of Molecular Biotechnology, (SCI) Springer, DOI: https://doi.org/10.1007/s12033-021-00337-4 . Published online 17 May 2021 2021
+Springer 14
+Sawarkar, A.D., Shrimankar, D.D., et.al,
+“Commercial clustering of sustainable bamboo species in India”,
+Industrial Crops and Products, 154, 112693. ELSEVIER, (SCI) ScienceDirect. https://doi.org/10.1016/j.indcrop.2020.112693 . Published online 19 June 2020.
+2020
+Elsevier 15
+Garima Singh, Deepti Shrimankar,
+“Secure and efficient intra-MME handovers via mobile relays within the LTE-A and future 5G high-speed train networks”,
+Peer-to-Peer Networking and Applications, Print ISSN: 1936-6442 Online: 1936-6450, (SCI) . Volumn 12. pp 1-18. Publisher: Springer US. Published Online 29 October 2019.
+2019
+Springer 16
+Manish Paliwal, Deepti Shrimankar,
+“Effective Resource Management in SDN enabled Data Center Network based on Traffic Demand”,
+IEEE ACCESS, Print ISSN: 2169-3536 Online: 2169-3556, (SCI) DOI: 10.1109 /ACCESS.2019.2919348. Manuscript Accepted : 7th May 2019 Published Online: Published online.
+2019
+IEEE 17
+Umesh Balande, Deepti Shrimankar,
+“SRIFA: Stochastic Ranking with Improved-Firefly-Algorithm for Constrained Optimization Engineering Design Problems” .
+Mathematics 2019, 7, 250; ISSN (2227-7390) (SCI). doi:10.3390/math7030250. Published online: 11 March 2019 2019 18
+Rohit Pachlore, Deepti Shrimankar,
+“LAR-CH: A Cluster-Head Rotation Approach for Sensor networks”.
+IEEE Sensors Journal, (SCI). ISSN: Print 1530-437X Online: 1558-1748. CD-ROM: 2379-9153. DOI: 10.1109/JSEN. 2018. 2872065 Volume 18, Issue 23, pages 9821 – 9828. Published Online: 24 September 2018.
+2018
+IEEE 19
+Manish Paliwal, Deepti Shrimankar,
+“Controllers in SDN: A Review Report”,
+IEEE ACCESS, Print ISSN: 2169-3536 Online: 2169-3556, (SCI) DOI: 10.1109/ ACCESS. 2018.2846236 Volume: 6, Issue: 1, pp: 36256-362701. Manuscript Accepted : 29th May 2018 Published Online: 18 July 2018 2018
+IEEE 20
+Krishan Kumar, Deepti D. Shrimankar
+“ESUMM: Event SUMMarization on scale-free network”.
+IETE Technical Review. (SCI) Publisher:Taylor & Francis. https://doi.org/ 10.1080/ 02564602.2018.1454347. Accepted: 13 March 2018. Published Online: 12 June 2018.
+2018
+Taylor &Francis 21
+Krishan Kumar, Deepti D. Shrimankar,
+“Deep Event Learning boosT-up Approach: DELTA”
+International Journal of Multimedia Tools Application, (SCI). DOI: 10.1007/s11042-018-5882-z. Volume 77, Issue 6, pp 7383–7404. Manuscript First Revision: 21 December 2017. Accepted: 13 March 2018. Published Online: 28 March 2018 2018 22
+Garima Singh, Deepti Shrimankar,
+“Dynamic Group Based Efficient Access Authentication and Key agreement Protocol for MTC in LTE-A networks”.
+An International Journal on Wireless Personal Communication, ISSN: 0929-6212 (Print) 1572-834X (Online) (SCI). DOI 10.1007/s11277-018-5719-0. Published by Springer Science+Business Media.Accepted: 17 December 2017, Published online:13 April 2018 2018
+Springer 23
+Garima Singh, Deepti Shrimankar,
+“A Privacy-Preserving Authentication Protocol with Secure Handovers for the LTE/LTE-A Networks”. SADHANA
+ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES. (SCI)Bimonthly ISSN: 0256-2499 INDIAN ACAD SCIENCES, C V RAMAN AVENUE, SADASHIVANAGAR, P B #8005, BANGLORE, INDIA, 560080. Received: 23rd July 2017, Accepted: 03 December 2017, Revised: 19th September 2017. Published online: 3rd July 2018 2018 24
+Rohit Pachlore, Deepti Shrimankar,
+“VCH-ECCR: A Centralized Routing Protocol for Wireless Sensor Networks”.
+An International Journal of Sensors, ISSN: 1687-725X (Print) ISSN: 1687-7268 (Online). (SCI). Volume 2017 (2017), Article ID 8946576, 10 pages. Received 19 June 2017; Revised 24 September 2017; Accepted 8 October 2017. Published Online: 14 December 2017.
+2017 25
+Umesh Balande, Deepti Shrimanklar,
+“An Oracle penalty and modified augmented lagrangian methods with firefly algorithm for constrained optimization problems”.
+An International Journal on Operation Research, ISSN: 1109-2858 (Print) 1866-1505 (online). (SCI). DOI 10.1007/s12351-017-0346-1. Received: 21 November 2016 / Revised: 27 July 2017 / Accepted: 16 August 2017. Published Online: 22 August 2017. @Springer-Verlag GmbH Germany 2017 2017
+Springer 26
+Omprakash Tembhurne, Deepti Shrimankar.
+“N_PSO: Endmember Extraction Using Advance Particle Swarm Optimization for NLMM”.
+SADHANA – ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES. (SCI) Bimonthly ISSN: 0256-2499 INDIAN ACAD SCIENCES, C V RAMAN AVENUE, SADASHIVANAGAR, P B #8005, BANGLORE, INDIA, 560080. Accepted 14 August 2017, Published online: Yet to publish Online.
+2017 27
+Krishan Kumar, Deepti D. Shrimankar,
+“F-DES: Fast and Deep Event Summarization”
+IEEE Transactions on Multimedia, Print ISSN:1520 – 9210 , Online ISSN: 1941 – 0077. Volume: 20 Issue: 2, PP: 323-334, Issue: 99. DOI: 10.1109/ TMM. 2017. 2741423. Publisher: IEEE. Accepted: 29 July 2017 / Published Online: 17 August 2017 2017
+IEEE 28
+Omprakash Tembhurne, Deepti D. Shrimankar,
+“FC-TLBO:Fully Constrained Meta-Heuristic Algorithm for Abundance Estimation using Linear Mixing Model”.
+SADHANA – ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES. (SCI) Bimonthly ISSN: 0256-2499 INDIAN ACAD SCIENCES, C V RAMAN AVENUE, SADASHIVANAGAR, P B #8005, BANGLORE, INDIA, 560080. Volume 42, Issue 7, pp 1123–1133. MS. Received 21 June 2016; revised 16Nov 2016; Accepted 17 January 2017. Published online: 02 June 2017.
+2017 29
+Krishan Kumar, Deepti D. Shrimankar,
+“ Eratosthenes sieve based key-frame extraction technique for event summarization in videos”
+Multimed Tools Appl, (SCI) DOI 10.1007/s11042-017-4642-9. Received: 22 August 2016 / Revised: 10 February 2017 / Accepted: 21 March 2017 . Published Online: 31 March 2017 © Springer Science+Business Media New York 2017.
+2017
+Springer 30
+D. D. Shrimankar and S. R. Sathe.
+“Analysis of Parallel Algorithms on SMP Node and Cluster of Workstations Using Parallel Programming Models with New Tile-based Method for Large Biological Datasets”
+International Journal of Bioinformatics and Biology Insights, Volume 10, Issue 1, pp. 255 – 265, 30th November 2016. ISSN: 1177-9322. Web of Science (WoS). Published by : Libertas Academica. Impact Factor:2.40 (2015) Indexes: Web of Sciences, Emerging Sources Citation Index, Scopus, Directory of Open Access Journals, Selected EBSCO, Elsevier & Gale databases.
+2015
+Elsevier 31
+Mr. Pankaj Mohrut, Dr. Deepti Shrimankar.
+“Image Contrast Enhancement Using Joint Segmentation”.
+International Journal of Advanced Engineering and Global Technology,Volume 3, Issue 6, pp823-828, June 2015. ISSN No.:2309 – 4893. Index by – ProQuest, ULRICHS WEB, CiteSeer, EBSCO, Google Scholar, NASA, INF RMATICS, Scientific Commons, WorldCat, National Library of Sweden.
+2015 32
+Mr. Pankaj Mohrut, Dr. Deepti Shrimankar.
+“Image Contrast Enhancement Techniques : A Report”.
+International Research Journal of Engineering and Technology,Volume 2, Issue 2, pp823-828, May 2015. ISSN No.:2395 – 0072. Index by – ProQuest, ULRICHS WEB, CiteSeer, EBSCO, Google Scholar, NASA, INF RMATICS, Scientific Commons, WorldCat, National Library of Sweden.
+2015 33
+Mrs. Deepti Shrimankar and ShaileshSathe.
+“Performance Evaluation of Global Sequence Alignment Algorithm on Multicore Architecture with Reference to Cache”.
+International Journal of Advanced Engineering and Global Technology, Volume 03, issue 04, pp500-510, April 2015. ISSN No.: 2309-4893.
+2015 34
+Mr. Prafulla K. Mendhe, Dr. Deepti Shrimankar.
+“High Performance Computing Approach For Motif Search Using OpenMP and OpenMPI”.
+International Journal forTechnological Research In Engineering, Volume 2, Issue 7, pp:1316-1319, March 2015. ISSN No.: 2347 – 4718. Index by – Scribd, Scientific Commons, Scirus, DOAJ, .docstoc, CiteSeer.
+2015 35
+Mrs. Deepti Shrimankar and ShaileshSathe.
+“Performance Analysis of OpenMP and MPI for NW algorithm on multicore architecture”.
+Internatioanl Journal of Advanced Studies in Computer Science and Engineering, Volume 3, Issue 6, pp23-34, June 2014. ISSN No: 2278-7917. Published by:International Association of Academicians, Scholars, Scientists & Engineers. Index by: ProQuest, ULRICH’S, Google Scholar, BASE, Scinus, Academia.edu, CiteSeer, Cornell University Library, Insex Copernicus, Journal Seek, slideshare, Scribd, Global Education Index.
+2014
+International Association of Academicians, Scholars, Scientists & Engineers.
+36
+Mrs. Deepti Shrimankar, Dr. S. R Sathe.
+“Parallelizing and Analyzing the Behavior of Sequence Alignment Algorithm on a Cluster of Workstations for Large Datasets”.
+International Journal of Computer Applications (0975 – 8887),Volume 74, issue. 21, pp18-30, July 2013. ISSN No.: 0975 – 8887. Published By : FCS® (Foundation of Computer Science, USA) Index by – ProQuest, ULRICHS WEB, CiteSeer, EBSCO, Google Scholar, NASA, INF RMATICS, Scientific Commons, WorldCat, National Library of Sweden.
+2013
+FCS® (Foundation of Computer Science, USA) 37
+Mrs. Deepti Shrimankar, Dr. S. R. Sathe.
+“A Tile-based Parallel Global Algorithm for Biological Sequence Alignment on multi core architecture”.
+Journal of Information and Communication Technology, Volume 2, Issue 2, pp:1-10, February 2012. ISSN No.: 2047-3168. Index by – Scribd, Scientific Commons, Scirus, DOAJ, .docstoc, CiteSeer 2012
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+Apurva Khandekar, Shrimankar D D, et.al
+Latent Diffusion Models for Multi-Model MRI Contrast Synthesis: A Comparative Study 14th International Conference on Intelligent Systems and Embedded Design (ISED 2026) at NIT Warangal 2026
+IEEE Explore 2026 2
+Chirravuri V S S Aditya, Dr. Deepti Shrimankar, et. al
+High-Perofrmance Computing in Deep Larning Models for Sediment Load Forecasting 5th International Conference on River Corridor Research and Management (RCRM2026) at IIT Jammu 2026
+Springer 2026 3
+Ashvini Bais, Deepti Shrimankar
+“A Multi-Method Explainable Framework using ConvNeXt for Breast Tumor Detection in Ultrasound Imaging” jointly organized by National Institute of Technology Puducherry, Karaikal, India and Politecnico di Torino, Italy during 14th – 16th May 2026
+International Conference on Data-Driven Approaches to Dynamical Systems and Computational Modeling (IC3DCM – 2026) 2026
+IC3DCM – 2026 4
+Ramadevi Salunke, Dipti Shrimankar
+“Dual-Path DSNet: An Anchor-Based and Anchor-Free Framework for Efficient Video Summarization”.
+2nd Congress on Intelligent Machines and Algorithms (CIMA 2026) organized by National Institute of Technology Puducherry, India, during May 23–24, 2026.
+2026
+Springer LNNS (Scopus Indexed) 5
+Ahuja, S. K., Shrimankar, D. D.
+“Design of an Integrated Model for Deep Causal Interpretation and Evolutionary Prediction of Zika Virus Mutations” 16th International Conference on Bioscience, Biochemistry and Bioinformatics (ICBBB 2026) 2026
+ICBBB 2026 6
+Ekta Tiwari, Dipti Shrimankar, et. al.
+“Comparative Analysis of different Transformer-based Models for Cardiovascular Disease Risk Stratification using Biomarker data” 2nd IEEE International Conference on Cognitive Computing in Engineering, Communication, Science and Biomedical Health Informatics 2026
+IC3ECSBHI-2026 7
+Ekta Tiwari, Dipti Shrimankar, et. al.
+“Deep learning based Long Short-Term Memory embedded with Matrix Gating for Cardiovascular Disease Risk Stratification in Carotid Ultrasound” 2nd International Conference on Pioneering Developments in Computer Science and Digital Technologies 2025
+IC2SDT-2025 8
+Ekta Tiwari, Dipti Shrimankar, et. al.
+“Carotid Artery Segmentation and Radiomic Feature Analysis in Ultrasound using Attention and Transformer-based UNet3+Variants: A Study of Cardiovascular Health in Hong Kong Women”
+Eighth International Conference on Image Information Processing (ICIIP -2025) 2025
+ICIIP-2025 9
+Ramadevi Salunke, Dipti Shrimankar
+“DeepShield: A Hybrid AI Framework for Detecting and Preventing Deepfake Attacks” 4th International Conference on the Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing 2025
+PCEMS 2025 10
+Ekta Tiwari, Dipti Shrimankar, et. al.
+“Attention Embedded with Extended Long Short-Term Memory Variants: A Novel Approach to Cardiovascular and Stroke Risk Stratification”
+The International Conference on Computational Intelligence and Computing Applications (ICCICA), Panipath, Haryana, India;
+2025
+ICCICA 2025 11
+Ahuja, S. K., Shrimankar, D. D.
+“Design of an Iterative Method for Deep Multimodal Feature Fusion in Heart Disease Diagnostics Utilizing Explainable AI”
+In Proceedings of the 1st International Conference on Explainable AI for Neural and Symbolic Methods (EXPLAINS 2024) 2024
+EXPLAINS 2024 12
+Ms Aditi Durge, Dr. Deepti Shrimankar
+“Design of an Iterative Method for Integrating Multi-omic Data and Clinical Insights in Brain Disease Research”
+The 17th International Conference on Brain Informatics 2024 , Bankok 13-15 December 2024 2024
+Brain Informatics 2024 13
+Ms Sony Ahuja, Dr. Deepti Shrimankar,
+“DEAN: Improving the efficiency of disease network using selective ensemble network aggregation model”.
+2nd International Conference on Intelligent Computing Systems and Applications (ICICSA-2023) organized by Department of Computer Science and Engineering, National Institute of Technology Silchar, Assam, India during September 22-23, 2023.
+2023
+(ICICSA-2023) 14
+Ms Aditi Durge, Dr. Deepti Shrimankar,
+“Optimized Ensemble Learning Framework for Prioritizing Biomolecular Markers in Yield Prediction Efficiency Enhancement”.
+2nd International Conference on Intelligent Computing Systems and Applications (ICICSA-2023) organized by Department of Computer Science and Engineering, National Institute of Technology Silchar, Assam, India during September 22-23, 2023.
+2023
+(ICICSA-2023) 15
+Mr. Ankush Sawarkar, Dr. Deepti Shrimankar,
+“Commercial Indian Bamboo Species Classification on matK DNA Barcode Sequences using Machine Learning Techniques with K-mer” .
+The International Conference on “Computer, Electronics and Electrical Engineering and Their Applications” (IC2E3 2023) at National Institute of Technology, Uttarakhand, India during 08th – 09th June, 2023. The Complete proceeding of IC2E3 2023 has been published in IEEE Xplore.
+2023
+IEEE 16
+Ms Sancheti Ramteke, Dr. Deepti Shrimankar,
+“Increase sustainability of Indian Agriculture by Analyzing Production”
+Third International Conference on “Secure Cyber Computing and Communications”, held on 26th – 28thMay 2023 at Dr. B R Ambedkar National Institute of Technology, Jalandhar, Punjab, India. The Complete proceeding of ICSCCC 2023 has been published in IEEE Xplore.
+2023
+IEEE 17
+Mr. Ankush Sawarkar, Dr. Deepti Shrimankar,
+“Commercial Clustering of Indian Bamboo Species Using Machine Learning Techniques” .
+The second International Conference on the “Paradigm shifts in Communication, Embedded Systems, Machine Learning and Signal Processing” (PCEMS 2023) at Visvesvaraya National Institute of Technology, Nagpur, India during 05th – 06th April, 2023. The Complete proceeding of PCEMS 2022 has been published in IEEE Xplore.
+2023
+IEEE 18
+Ms Aditi Durge, Dr. Deepti Shrimankar
+“MRQPMS: Design of a Map Reduce Bioinspired Model for Solving Quorum Planted Motif Search for High-Speed Deployments.
+14th International Conference on Bioinformatics Models,Methods and Algorithms (BIOINFORMATICS 2023) held in Lisbon-Portugal, February 16th to 18th 2023.
+2023
+BIOINFORMATICS 2023 19
+Rohit Pachlore, Deepti D. Shrimankar,
+“Load-Aware Cluster-Head Rotation in Wireless Sensor Network” 3rd International Conference on Internet of Things and Connected Technologies,     ICIoTCT 2018. Organized by Department of Computer Science and Engineering , MANIT Jaipur 3rd International Conference on Internet of Things and Connected Technologies (ICIoTCT), 26-27 March 2018. Organized by Malviya National Institute of Technology (MNIT), Jaipur, India. Scopus Index. ELSEVIER-SSRN Digital Library.
+2018
+Elsevier 20
+Umesh Balande, Deepti D. Shrimankar,
+“MTLBO-MS: Modified Teaching Learning Based Optimization on Multicore System”, 4th IEEE International Conference on Recent Advances in Information Technology. Organized by Department of Computer Science and Engineering IIT (ISM) Dhanbad. March 15-17 2017.
+2017
+IEEE 21
+Omprakash Tembhurne, Deepti D. Shrimankar,
+“Endmember Extraction Using Advance Particle Swarm Optimization” 4th IEEE International Conference on Recent Advances in Information Technology. Organized by Department of Computer Science and Engineering IIT (ISM) Dhanbad. March 15-17 2017.
+2018
+IEEE 22
+Omprakash Tembhurne, Deepti D. Shrimankar,
+“An Improved Endmember Extraction Using Evolutionary Approach” 13th IEEE International Conference on Industrial and Information Systems (ICIIS-2018) 2018
+IEEE 23
+Krishan Kumar, Deepti D. Shrimankar.
+“Key-Lectures: Keyframes extraction in video Lectures”
+International Conference on Machine Intelligence and Signal Processing. DOI: https:// doi.org / 10.1007/978-981-13-0923-6_39. ISBN: Print: 978-981-13-0922-9. Online: 978-981-13-0923-6. December 22 – 24, 2017 at IIT Indore, India. Published in proceeding in the SCOPUS indexed AISC series of Springer. Publisher: Springer, Singapore 2017
+Springer 24
+Rohit Pachlore, Deepti D. Shrimankar,
+“EEHCCP: An Energy-Efficient Hybrid Clustering Communication Protocol for Wireless Sensor Network”.
+9th EAI International Conference on Ad Hoc Networks. September 28–29, 2017, NIAGARA FALLS, CANADA.
+2017 25
+Krishan Kumar, Deepti D. Shrimankar
+V-LESS: a Video from Linear Event SummarieS
+The 2nd InternationalConference on Computer Vision & Image Processing (CVIP’17),Springer, 9 – 12 September 2017,Organized by IIT Roorkee (India).
+26
+Garima Singh, Deepti D. Shrimankar,
+“Security Analysis of LTE/SAE Networks with the Possibilities of Tampering E-Utran on NS3”.
+8th International Conference on Computing, Communication and Networking, (ICCCNI-2017), 3 – 5 July 2017. Organized by Indian Institute of Technology, Delhi, India. Published Online.
+2017 27
+Krishan Kumar, Deepti D. Shrimankar,
+“SOMES: An efficient SOM technique for Event Summarization in multiview survellience videos”.
+5th International Conference on Advanced Computing, Networking, and Informatics (ICACNI-2017), Springer, 1 – 3 June 2017. Organized by National Institute of Technology, Goa, India. Published Online.
+2017
+Springer 28
+Krishan Kumar, Deepti D. Shrimankar,
+“Event BAGGING: A novel event summarization approach in multiview surveillance videos”
+, IEEE nternational Conference on Innovations in Electronics, Signal Processing and Communication (IESC-2017), 6 – 7 April 2017, Meghalaya, India. Organized by National Institute of Technology, Shilong, Meghalaya. Published Online: October 2017.
+2017
+IEEE 29
+Krishan Kumar, Deepti D. Shrimankar,
+“Equal Partition based Clustering approach for Event Summarization in Videos”.
+IEEE 12th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS-2016) 28th Nov to 1st Dec 2016, Naples, Italy. Organized by National Research Council of Italy. pp. 119 – 126. Published online: April 2017.
+2016
+IEEE 30
+Mrs. Deepti Shrimankar and S.R.Sathe
+“Performance Evaluation of Parallel implementation of NW Algorithm using OpenMPI and OpenMP/MPI 2nd International Conference on Eco-friendly Computing and Communication Systems 17-19 October 2013, JUIT, India. Published by McGraw Hills Book – Advances in Energy Aware Computing and Communication Systems. Organized by – Department of Computer Science and Engineering, JAYPEE University of Information Technology, Shimla, Himachal Pradesh, INDIA.
+2013
+McGraw Hills Book 31
+Mrs. Deepti Shrimankar and S.R.Sathe,
+“Implementation of Parallel Algorithms on Cluster of Workstations”,
+The Second IEEE International Conference on Parallel, Distributed and Grid Computing (PDGC2012), 6 – 8 Dec 2012. Organized by – Department of Computer Science and Engineering, JAYPEE University of Information Technology, Shimla, Himachal Pradesh, INDIA. Published online in IEEE conference papers.
+2012
+IEEE 32
+Mrs. Deepti Shrimankar and S.R.Sathe,
+“Parallelization of DNA Sequence Alignment using OpenMP”.
+International Conference on Communication, Computing & Security (ICCCS 2011), 12 – 14 Feb 2011, Department of Computer Science and Engineering National Institute of Technology, Rourkela, Odisha, India. Published online through ACM Digital Library.
+2011
+ACM 33
+Mrs. Deepti Shrimankar and S.R.Sathe,
+“Parallelization and Implementation of Global Sequences Alignment using Tiling and OpenMP”.
+Annual International Conference on Advances in Distributed and Parallel Computing, (ADPC2010) 1 – 2 Nov 2010, Organized by Global Science and Technology Forum. Published by Global Science andTechnology Forum (GSTF) Singapore. ISBN: 978-981-08-7656-2.
+2010
+Type
+Completed/Ongoing
+Total
+Defended/Submitted On
+Name of the Candidate
+Title of the Thesis
+Full Time
+Completed 8 28th August 2026
+Aditi Durge
+Analysis of Genome Sequence Processing Models using ML and AI for Plant Species and Human Disease Classification 23rd December 2023
+Ankush Sawarkar
+Bamboo Plant Clustering and Classification using Machine Learning, Deep Transfer Learning with MajMulVot Algorithm and DNA Barcoding Methods 28th January 2021
+Manish Paliwal
+Flow Table Space Management And Energy Efficiency Issues In Hybrid SDN Design 17th March 2020
+Umesh Balande
+Firefly Algorithm for Constrained Engineering Optimization Problems 7th September 2019
+Garima Singh
+Conferring Secure and Efficient Authentication & Key Agreement Protocols for LTE/LTE-A and MTC Networks 12th August 2019
+Rohit Pachlor
+Low-Maintenance Clustering Protocols For Energy-Efficient Communication In Sensor Networks 15th February 2019
+Krishan Kumar
+Performance Enhancement of Events Detection and Summarization Models in Videos Over Cloud 24th August 2018
+Omprakash Tembhurne
+Hyperspectral Image Unmixing using Meta-Heuristic Approached
+Ongoing 4
+Registered Jan 2022
+Sony Ahuja
+Registered July 2024
+Apurva Khandekar
+Registered Jan 2025
+Pratima Patel
+Registered July 2026
+Deepmala Ekka
+Part Time
+Completed 0
+Ongoing 4
+Registered Jan 2024
+Ekta Tiwari
+Registered July 2024
+Ritu Gupta
+Registered Jan 2025
+Ashwini Bais
+Registered Jan 2025
+Ramadevi Salunke

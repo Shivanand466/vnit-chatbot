@@ -1,0 +1,16 @@
+SOURCE_URL: https://vnit.ac.in/pcems-2026-inaugurated-at-vnit-nagpur/
+TITLE: PCEMS-2026 Inaugurated at VNIT Nagpur
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+PCEMS-2026 Inaugurated at VNIT Nagpur vnit_web
+October 31, 2026
+News
+Nagpur | October 30, 2026: Visvesvaraya National Institute of Technology (VNIT), Nagpur, inaugurated the 5th International Conference on Paradigm Shift in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS-2026), bringing together researchers, academicians, scientists, industry experts and students.
+The inaugural ceremony was led by Prof. Prem Lal Patel, Director, VNIT Nagpur, in the presence of Chief Guest Prof. Arvind Choubey, Director, NIT Durgapur, Guest of Honour Dr. Bidhan Chandra Bag, Scientist-G and Station Head, DRDO Nagpur, and Prof. B. R. Sankapal, Deputy Director, VNIT Nagpur.
+The conference is being organized under the leadership of General Chairs Prof. Mulaveesala Ravibabu (IIT Delhi), Prof. Ashwin Kothari, Prof. K. M. Bhurchandi and Dr. Vishal R. Satpute (VNIT Nagpur), along with Conference Chairs Dr. Joydeep Sengupta and Dr. Neeraj Rao.
+PCEMS-2026 received 281 research paper submissions, reviewed by more than 200 experts. Notable contributions include research papers by Ayush Shrivastava on CNN-based weed species classification for precision agriculture and Rishender on advanced stealth technologies for fighter aircraft.
+The conference features keynote lectures by distinguished experts and emphasizes multidisciplinary research, indigenous technology development and innovation towards Viksit Bharat and Make in India. Technically co-sponsored by IEEE, the selected peer-reviewed papers are planned for publication in Springer’s prestigious Lecture Notes in Electrical Engineering series.
+The inaugural session concluded with a vote of thanks by Dr. Neeraj Rao.
+Posted in
+News

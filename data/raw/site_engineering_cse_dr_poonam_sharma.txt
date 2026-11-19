@@ -1,0 +1,335 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-poonam-sharma/
+TITLE: Dr. Poonam Sharma
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Poonam Sharma
+Brief Bio
+Brief Bio
+Associate Professor & Prof. In-charge Student Mentor Program (SMP)
+Department of Computer Science Engineering
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+M. Tech
+Computer Science
+RGPV, Bhopal 2
+Ph. D.
+Computer Science
+MANIT, Bhopal
+Contact Details
+Phone:
+Email:
+Address:
+0712 2801596 poonamsharma@cse.vnit.ac.in
+VNIT, Nagpur
+Research Interest
+Image processing and computer vision
+Machine Learning
+AI in Transportation
+Multimodal  image analysis
+Road Video analysis
+Video segmentation and analysis
+Image segmentation
+Multiclass classification
+Event detection
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+“Human Identification with reduced Recognition Time”
+Department of Science and Technology, New Delhi
+PI 3 Years from 31/03/2012 To 30/03/2015
+Rs. 29.95 lacs.
+2
+“Face Recognition under unconstrained environment for videos from internet“, Young Faculty Research Fellowship
+MEITY, New Delhi
+PI 18/01/2018-30/11/2020
+Rs. 22.5 Lacs 3
+Artificial Intelligence in Breed Identification in Cattle Breeds of Maharashtra
+Rajiv Gandhi Science & Technology Commission. (Government of Maharashtra)
+CO-PI 2023-2026 39.90 Lacs
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Consultancy forCorporate data warehouse system (CDWS) of Maharashtra Transmission Asset Management Corporate  (MTAMC) Project
+Maharashtra State Transmission Corporation Limited
+Member 2020-2023 20 Lakhs 2
+Impact Assessment Study of POWERGRID CSR Project
+Powergrid
+Member 2024 4.99 Lakhs
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Action recognition techniques, Intelligent Multimedia Processing and Computer Vision: Techniques and applications, Chap. 13
+Sharma Poonam, Arya K.V., Rajput, Shyam Singh
+IET 9781839537257
+August 2023
+AI- and ML-based multimedia processing for surveillance, Intelligent Multimedia Processing and Computer Vision: Techniques and applications, Chap. 12
+Sharma Poonam, Rai Deepak, Rajput Shyam Singh, Arya K.V.
+IET 9781839537257
+August 2023
+Securing Face Recognition System Using Blockchain Technology.
+Shankar S., Madarkar J., Sharma Poonam
+Springer, Singapore.
+Print ISBN978-981-15-6317-1 2020
+Face Recognition in Low-Resolution Space
+Shyam Singh Rajput, Karm Veer Arya, Poonam Sharma
+Chapman and Hall/CRC 9781351013437 2019
+Acquisition and Computation for Data in Biometric System
+Poonam Sharma, Karm Veer Arya,
+Chapman and Hall/CRC 9781351013437 2019
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Associate Dean -(Information Technology: MIS, Network & Website)
+VNIT Nagpur
+Associate Dean 2024-Till Date 2
+Warden Dr. Anandi Gopal Joshi Hostel
+VNIT Nagpur
+Warden 2022-2024 3
+Warden Kalpana Chawla Hostel
+VNIT Nagpur
+Warden 2019-2022 4
+Member, Internal Complaints Committee
+VNIT Nagpur
+Member 2019-2024 5
+Co Faculty Incharge, Robotics Lab, V R Jamdar Siemens Centre of Excellence
+VNIT Nagpur
+Co- Faculty Incharge 2022-24 6
+Website Coordinator
+VNIT Nagpur
+Website Coordinator 2018-2024 7
+Faculty Coordinator
+VNIT Nagpur
+Institute magazine -Insight 2017-2019 8
+DASA (Direct Admission of Students Abroad) Admission Committee
+VNIT Nagpur
+Member
+June 2017 – May 2018 9
+Member- Btech Admission Committee
+VNIT Nagpur
+Member
+April 2020-March 2022 10
+Member- NIRF Committee
+VNIT Nagpur
+Member
+April 2023-March 2024 11
+Faculty Coordinator- Freshar’s Eve
+VNIT Nagpur
+Coordinator 12
+Department Exam Controller
+VNIT Nagpur
+DEC
+January- December 2016 13
+Member, Institute of eminence document preparation committee
+VNIT Nagpur
+Member
+March 2017-November 2017 14
+Departmental MTech Class Coordinator
+VNIT Nagpur
+Faculty Coordinator 2016-2019 15
+Member, International Institute Interaction cell
+VNIT Nagpur
+Member
+March 2017-April 2020 16
+Faculty Incharge, Departmental Newsletter
+VNIT Nagpur
+Faculty Incharge
+April 2019- March 2023 17
+Faculty Coordinator, Student Mentor Programme
+VNIT Nagpur
+Faculty Coordinator
+April 2023-March 2024
+Sr. No.
+Awards 1
+Awarded “Career award for young teachers” for the year 2012 by AICTE for supporting research career.
+2
+Selected for “Australian Research Endeavour Fellowship 2008-09” for post doctoral research in Australia.
+3
+Selected for National Doctoral Fellowship (NDF) 2005-06 by All-India Council for Technical Education (AICTE), India.
+4
+Awarded “Innovative Student Projects Award 2005” from Indian National Academy of Engineering (INAE) for best B.Tech project in computer science discipline all over India.
+5
+Received Best paper award in third IEEE International Conference on Intelligent Sensing and Information Processing (ICISIP), 2005.
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+M. Krishna Siva Prasad, Poonam Sharma.
+“Multi-sense Embeddings Using Synonym Sets and Hypernym Information from Wordnet”.
+International Journal Of Interactive Multimedia And Artificial Intelligence, ISSN: 1989-1660, 6 (4), (2020): 68-79, DOI: http://doi.org/10.9781/ijimai.2020.07.001 Indexing: Science citation index expanded (SCIE) 2020 2
+M. Krishna Siva Prasad, Poonam Sharma.
+“Similarity of Sentences with Contradiction using Semantic Similarity Measures”.
+The Computer Journal, ISSN: 1460-2067, (in press). DOI: https://doi.org/10.1093/comjnl/bxaa100 Indexing: Science citation index expanded (SCIE) 3
+M.Krishna Siva Prasad, Poonam Sharma.
+“Exploring intrinsic information content models for addressing the issues of traditional semantic measures to evaluate verb similarity,” revision submitted to Computer Speech and Language, Elsevier Indexing: Science citation index expanded (SCIE) (Submitted after review)
+Elsevier 4
+J. Madarkar and P. Sharma,
+”Occluded face recognition using noncoherent dictionary”,
+Journal of Intelligent Fuzzy Systems, 2020. Published.
+2020 5
+J. Madarkar and P. Sharma,
+”Sparse Representation for Face Recognition: A Review Paper”,
+IET Image Processing, 2020.
+2020 6
+P. Singh, P. Sharma and J. Madarkar,
+“A Light-Weight Change Detection Method Using YCbCr-Based Texture Consensus Model”
+International Journal of Pattern Recognition and Artificial Intelligence 7
+Rimjhim Padam Singh, Poonam Sharma.
+“Instance -Vote Based Motion Detection using Spatially Extended Hybrid Feature Space”,
+Accepted in The Visual Computer 8
+P. Singh, P. Sharma and J. Madarkar,
+“Compute-Extensive Background Subtraction for Efficient Ghost Suppression,” in IEEE Access, vol. 7, pp. 130180-130196, 2019.
+2019
+IEEE 9
+Poonam Sharma, K. V. Arya and R. N. Yadav,
+“Efficient face recognition using generalized mean wavelet neural network”,
+Signal Processing, Vol. 93, no. 6, June 2013, pp. 1557–1565. SCI JOURNAL(Impact Factor 2.238) 2013 10
+Poonam Sharma, K. V. Arya and R. N. Yadav,
+“Pose-invariant face recognition using curvelet neural network”,
+IET Biometrics, Vol. 3, no. 3, September 2014, pp. 128 – 138. SCI JOURNAL(Impact factor 1.414) 2014 11
+Piyush Kumar Shukla, Sachin Goyal, Rajesh Wadhvani, M. A. Rizvi, Poonam Sharma, and Neeraj Tantubay,
+“Finding Robust Assailant Using Optimization Functions (FiRAO-PG) in Wireless Sensor Network,”
+Mathematical Problems in Engineering, vol. 2015, no. 594345, 2015. doi:10.1155/2015/594345 SCI JOURNAL(Impact factor 0.762).
+2015 12
+Amit Sharma, Poonam Sharma,
+“Rotation Invariant Offline Signature Recognition”,
+International Journal of Engineering sciences Research, vol. 03, no. 02, Aug 2012, pp. 92-98.
+2012 13
+Devshri Satyarthi, R. K. Gupta and Poonam Sharma,
+“Comparative Study of Offline Signature Verification Techniques”,
+International Journal of Electrical, Electronics & Computing Technology, vol. 8, no. 1, pp. 20-26, 2013.
+2013 14
+Arun Dixit, Poonam Sharma,
+“A Novel Approach of Wavelet Shrinkage for Image Denoising using Particle Swarm Optimizer”,
+Infocomp Journal of Computer Science, (In Press).
+15
+Arun Dixit, Poonam Sharma,
+“A Comparative Study of Wavelet Thresholding for Image Denoising”,
+I.J. Image, Graphics and Signal Processing, vol. 1, pp. 1-3, 2014.
+2014 16
+Gaurav Garg and Poonam Sharma,
+“An Analysis of Contrast Enhancement using Activation Functions”,
+International Journal of Hybrid Information Technology vol.7, no.5, pp. 235-244, 2014.
+2014 17
+Gaurav Garg and Poonam Sharma,
+“An analysis of Histogram equalization method for Brightness Preserving and Contrast Enhancement”,
+International Journal of Innovations & Advancement in Computer Science, vol. 3, no. 4, pp. 1-11, 2014.
+2014
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+Poonam Sharma, K. V. Arya and R. N. Yadav,
+“Extraction of Facial Features using Higher Order Moments in Curvelet Transform and Recognition using Generalized Mean Neural Networks”,
+International Conference on Soft Computing for problem solving at IIT Roorkee, Vol.131, pp 717-728, 20-22 Dec, 2011.
+2011 2
+Poonam Sharma, K. V. Arya and R. N. Yadav,
+‘Near Real Time Face Recognition Using Generalized Mean Neural Network Based On Pcnn Features”,
+International Conference on Signal Processing and Integrated Networks, 21-22 Feb 2014.
+2014 3
+Poonam Sharma and Gaurav Garg,
+“Entropy based Optimized Weighted Histogram Equalization for Hazy Images”, 9th IEEE International Conference on Industrial and Information Systems, ABV-IIITM, Gwalior, 15-18 Dec 2014.
+2014
+IEEE 4
+Poonam Sharma and Arun Dixit,
+“An Adaptive Harmony Search Algorithm for Solving Optimization Problems”,
+International conference on computational intelligence and communication networks(CICN 2014), Lakshmi Narain College of Technology, Bhopal, 7-8 Nov 2014.
+2014 5
+Rimjhim Padam Singh, Poonam Sharma,
+“Using Attractive- Repulsive Binary Local Gradient Contours for Sample-Consensus Background Modeling”
+SocPros 2020, Indore, India 6
+S. Shankar, J. Madarkar and P. Sharma,
+”Securing Face Recognition System Using Blockchain Technology”,
+International Conference on Machine Learning, Image Processing, Network Security and Data Sciences, 2020.
+2020 7
+Jitendra Madarkar, Poonam Sharma and Rimjhim Singh
+“Improved the Performance and Execution time of Face Recognition using MRSRC”
+SocPros 2018, Vellore, India 2018 8
+Rimjhim Singh,  Poonam Sharma and Jitendra Madarkar
+” Motion Detection using a Hybrid Texture Based Approach”,
+SocPros 2018, Vellore, India.
+2018 9
+Monika Rani Golla, Poonam Sharma and Jitendra Madarkar,
+Face Recognition Algorithm for Low Resolution Images”,
+SCI-18, Bhopal, India.
+2018 10
+Rimjhim Padam Singh, Poonam Sharma,
+“Improving Change Detection Using Centre-Symmetric Local Binary Patterns”.
+8 th International Conference on Pattern Recognition and Machine Intelligence, (PReMI-2019), ISBN: 978-3- 030-34872-4, (2019):507-514. DOI: https://doi.org/10.1007/978-3-030-34872- 4_56 2019 11
+M. Krishna Siva Prasad, Poonam Sharma,
+“Combining Common Words and Semantic Features for Sentence Similarity,” 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Bangalore, 2018, pp. 1-4, doi: 10.1109/ICCCNT.2018.8493713.
+2018 12
+M. Krishna Siva Prasad, Poonam Sharma,
+”Modified Path Measure to Assess Sentence Similarity,”
+Conference on Information and Communication Technology (CICT), Jabalpur, India, 2018, pp. 1-6, doi: 10.1109/INFOCOMTECH.2018.8722419.
+2018 13
+M. Krishna Siva Prasad, Poonam Sharma,
+“Hybrid semantic similarity measure to estimate word-pair similarity,”
+ISCO-2019, Karpagam college of Engineering, Coimbatore.
+2019 14
+Vimal Singh, Poonam Sharma,
+“A Survey on Image Morphing”,
+National Conference on Emerging trends in computer science & communication technology, Bareily, 06 April, 2013.
+2013 15
+Praveen Johari, Poonam Sharma,
+“A Survey on Text Identification”,
+National Conference on Emerging trends in computer science & communication technology, Bareily, 06 April, 2013.
+2013 16
+Poonam Sharma, K. V. Arya and R. N. Yadav,
+“Face Recognition using curvelet and wavelets: A Review”,
+National Conference on Recent Trends in Information Technology held at M.P.C.T., Gwalior, 26-27 Feb, 2010.
+2010 17
+Poonam Sharma,
+“A fault tolerant and adaptive dynamic channel allocation scheme in cellular networks”,
+National Conference on wired and wireless comm., BUIT, Bhopal, 26-27 April, 2008.
+2008 18
+Poonam Sharma,
+“Comparison of various channel allocation algorithms”,
+National Conference on wireless comm., GEC, Gwalior, 05-06 April, 2008.
+2008 19
+Poonam Sharma,
+“Distributed dynamic channel allocation algorithm in mobile networks”,
+National Conference on Recent trends in information technology, SRCEM, Gwalior, 15-16 April, 2006.
+2006 20
+Poonam Sharma,
+“Comparison of Dynamic Channel allocation algorithms in cellular networks”,
+Second M.P. Science congress, Bhopal, 17-18 December, 2005.
+2005 21
+Poonam Sharma,
+“Dynamic channel allocation in cellular mobile communication”,
+National Symposium on Data and Knowledge engineering, ADIT, Anand, Gujarat, 25 September, 2005.
+2005

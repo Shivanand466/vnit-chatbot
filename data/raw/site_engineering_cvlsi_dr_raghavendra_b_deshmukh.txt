@@ -1,0 +1,204 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cvlsi/dr-raghavendra-b-deshmukh/
+TITLE: Dr. Raghavendra B. Deshmukh​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Raghavendra B. Deshmukh​
+Brief Bio
+Brief Bio
+Professor
+Center for VLSI and Nanotechnology,
+Visvesvaraya National Institute of Technology,
+Nagpur.
+Phone Number:  +91-712-2801293
+E-mail ID:  rbdeshmukh@ece.vnit.ac.in
+Educational Details
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.E.
+1987
+Nagpur Univ.
+2
+M.Tech.
+1989
+(Electrical Engg.) Control Sys. & Instrumentation
+IIT, Bombay 3
+PhD 2006
+VLSI Design
+VNIT, Nagpur
+Contact Details
+Name:
+Phone
+Email
+Address
+Dr. Raghavendra B. Deshmukh 91-712-2801293 rbdeshmukh@ece.vnit.ac.in
+Center for VLSI and Nanotechnology,
+Visvesvaraya National Institute of Technology,
+South Ambazari Road,
+Nagpur-440010, Maharashtra, India
+Research Interests
+Research Interest
+Digital Design,
+CMOS Design,
+Reconfigurable FPGA Design
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal  Publications
+Conference  Publications
+Sponsored Research Projects
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Chips to Start-up (C2S) Programme
+MeitY
+Principle Investigator
+(Jan., 2024 to Jan., 2029)
+Access to various CAD tools are given 2
+Design and development of a Pico-ampere Source and Meter
+Board of Research in Nuclear Science (BRNS)
+Principle Investigator
+(3 Years) 25 Lakhs 3
+Center for nnovation, (Incubation Centre) VNIT. Nagpur
+Rajiv Gandhi Science and Technology Commission Government of Maharashtra (RGSTC)
+Principle Investigator
+(10 Years) 227 Lakhs 4
+Chip to system design special Manpower development program
+Ministry Of Communication and Information Technology
+Principle Investigator
+(10 Years) 150 Lakhs 5
+Exploration of Micro-cantilever platform for Agricultural Applications
+Department of science and Technology
+Principle Investigator
+(3 Years) 60 Lakhs
+Consultancy Projects
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1)
+Technical Scrutiny of Digital Angiography Unit1,40,300/-
+Alpha X-Ray Technologies
+Investigator 2006 1,40,300/- 2)
+Course for RFIC solutions
+S.M. Wireless Pvt. Ltd.
+Investigator 2012 26,560/- 3)
+Characterization of RF Circuits
+S.M. Wireless Pvt. Ltd.
+Investigator 2009-11 1,43,390/- 4)
+Technical report “LED Packaging Plant”
+M/S Hindustan Semiconductors Ltd.
+Investigator 2008-09 16854/- 5)
+Development of Laboratory Material for IMAGE
+Powai Labs Mumbai
+Investigator 2007 67,344/- 6)
+Technical Scrutiny of Digital Angiographic Unit
+Govt. Medical College Nagpur
+Investigator 2006 1,40,300/- 7)
+RFIC Characterization
+S.M. Wireless Pvt. Ltd.
+Investigator 2012 1,00,000/- 8)
+“Characterization of 2.4GHz FMCW Radar”.
+AG Electronics
+Investigator 2015 11,450/- 9)
+Pilot project for Incentivization of Good Traffic behavior for citizens of Nagpur
+GoI, Ministry of Road Transport and Highways
+Investigator 2020-ongoing
+(0.5%)(7,38,40,000)= 3,69,200/-
+Books or Book Chapter
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Patents
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1) R.B. Deshmukh, W.S. Khokle.“Method and Components for Digital Filter Reuse with Circuit for Computing DWT,” 2) R. M. Badghare, R.B. Deshmukh and R. M. Patrikar.“Method and Circuits for Performing Two’s Complement of a Binary Number”
+STTP & Workshop
+Sr. No.
+Title
+Administrative Responsibilities
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1)
+Head, Center for VLSI and Nanotechnology
+VNIT, Nagpur 2)
+Head, Electronics Engineering
+VNIT, Nagpur 3)
+Director, Centre for Innovation
+VNIT, Nagpur 4)
+Management Representative ISO 9000-2008 certification at institute level 5)
+Instrumental in starting Technology Incubation Center at VNIT (formulating, submitting and presenting the technology incubation proposals. Company formation) 6)
+Core member implementing TEQIP-II project.
+7)
+·  Instrumental in proposing M.Tech. in Nano Technology course from Year 2013 8)
+· Fourth ISSS National Conference on Microsystems, Smart Materials, Structures: 30th Sept to 1st Oct 2010, VNIT Nagpur. Convener 9)
+· Life Member:, ISSS, ISTE , IE., Member IEEE, Circuits and systems, Computer society
+Awards & Honors
+Sr. No.
+Awards 1)
+Coordinator SMDP-I, SMDP-II (2 Cr.). Lead member for starting 2)
+“M.Tech. VLSI Design” course since 2008 (with SMDP Funds 1 Cr) 3)
+Co-coordinator “Characterization and Simulation of Nano-Devices” (3.12 Cr R&D Funds).
+4)
+Co-coordinator for building Nano Technology facilities at institute level, TEQiP-II (1 Cr.) 5)
+Co-coordinator in starting MEMS Tire-I center sponsored by ADA  (56 Lakhs)
+Journal  Publications
+S.No.
+Paper Citation
+Selected Publications 1)
+PU Joshi, RB Deshmukh, “A Generalized Power Reduction Technique for Truncated Multiplier via Latching the Data Inputs Electrical Engineering, 48, 115–125, 2024 2)
+P. Zode, R. B. Deshmukh, “Optimization of elliptic curve scalar multiplication using constraint based scheduling”, Journal of Parallel and Distributed Computing 167, 232-239, 2022 3)
+P Zode, R. B. Deshmukh, “Novel fault attack resistant architecture for elliptic curve cryptography”, Microprocessors and Microsystems, vol. 84, 104049, 2021 4)
+R Somkuwar, J Chandwani, R. B. Deshmukh, “Bandwidth widening of piezoelectric energy harvester by free moving cylinders in liquid medium”, Microsystem Technologies, vol. 27, no. 5, pp. 1959-1970, 2021 5)
+M Rani, S.B. Dhok, R.B. Deshmukh, P Kumar, “Compressed Signal Classification Using Informed Instance Selection”, IETE Technical Review, vol. 38, no. 2, pp. 206-220, 2021 6)
+M. Rani, S.B. Dhok, R.B. Deshmukh, P. Kumar, “Overlap Aware Compressed Signal Classification”, IEEE Access 8, 52950-52967, 2020 7)
+M. Rani, S.B. Dhok, R.B. Deshmukh, “A Machine Condition Monitoring Framework Using Compressed Signal Processing”, Sensors 20 (1), 319, 2020 8)
+Jaya Chandwani, R Somkuwar, R. B. Deshmukh, “Multi-band piezoelectric vibration energy harvester for low-frequency applications” J Microsystem Technologies, 1-11, 2019.
+9)
+M Rani, S. B. Dhok, R. B. Deshmukh, “EEG Monitoring: Performance Comparison of Compressive Sensing Reconstruction Algorithms”, Information Systems Design and Intelligent Applications, 9-17, 2019.
+10)
+P Bhoyar, P Sahare, S. B. Dhok, R. B. Deshmukh, “Communication technologies and security challenges for internet of things: A comprehensive review”, AEU-International Journal of Electronics and Communications, 2018 11)
+P Zode, R. B. Deshmukh, “Side channel attack resistant architecture for elliptic curve cryptosystem, Cyber-Physical Systems”, vol. 4, no. 4, pp. 205-215, 2018 12)
+Somkuwar, J Chandwani, R. B. Deshmukh, “Wideband auto-tunable vibration energy harvester using change in centre of gravity”, Microsystem Technologies, vol. 24, no. 7, pp. 3033-3044, 2018.
+13)
+P Bhoyar, S. B. Dhok, R. B. Deshmukh, “Hardware implementation of secure and lightweight Simeck32/64 cipher for IEEE 802.15. 4 transceiver”, AEU-International Journal of Electronics and Communications 90, 147-154, 2018 14)
+M Rani, S. B. Dhok, R. B. Deshmukh, “A systematic review of compressive sensing: Concepts, implementations and applications”, IEEE Access 6, 4875-4894, 2018 15)
+S. B. Dhok, R. B. Deshmukh, AG Keskar, “Efficient fractal image coding using fast Fourier transform”, GSTF Journal on Computing (JoC) vol 1, no. 2, 2018 16)
+P Zode, R. B. Deshmukh, “MOS switch-based DPA-resistant GF(28) modulo multiplier”, International Journal of Electronics Letters,  vol. 6, no. 2, pp. 231-241, 2018 17)
+V Jain, A Hole, R Deshmukh, R Patrikar, ” Dynamic capacitive sensing of droplet parameters in a low-cost open EWOD system”, Sensors and Actuators A: Physical 263, 224-233, 2017 18)
+V Jain, TP Raj, R Deshmukh, R Patrikar, “Design, fabrication and characterization of low cost printed circuit board based EWOD device for digital microfluidics applications”, Microsystem Technologies 23 (2), 389-397, 2017 19)
+SB Dhok, RB Deshmukh, AG Keskar, “, Efficient fractal image coding using fast Fourier transform”, GSTF Journal on Computing (JoC) 1 (2), 2018 20)
+M Rani, SB Dhok, RB Deshmukh, “A Systematic Review of Compressive Sensing: Concepts, Implementations and Applications”, IEEE Access 6, 4875-4894, 2018 21)
+PU Joshi, RB Deshmukh, V Gudur, “Self-compensation scheme for truncation error in fixed width multipliers”, IET Circuits, Devices & Systems 12 (1), 55-62, 2017 22)
+P Zode, R Deshmukh, “MOS switch-based DPA-resistant GF (28) modulo multiplier”, International Journal of Electronics Letters, 1-11, 2017 23)
+P Zode, RB Deshmukh, A Samad, “Fast Architecture of Modular Inversion Using Itoh-Tsujii Algorithm”, International Symposium on VLSI Design and Test, 48-55, 2017RP Vandana Jain, T. Pravin Raj, Raghvendra Deshmukh, “Design, fabrication and characterization of low cost printed circuit board based EWOD device for digital microfluidics applications”, Microsystem Technologies, 2017
+Conference  Publications
+S.No.
+Paper Citation 1) A. A. Deshmukh, R. B. Deshmukh and R. M. Patrikar, “An Efficient Implementation of Self Timed Audio Sigma-Delta Modulator, 2013 EAMTA, Buenos Aires, South America, 15-16 August 2013, pp 27-31.
+2) Atul K. Dwivedi, R. B. Deshmukh, R. M. Patrikar, “Modeling and simulation of capacitive sensor for E.Coli bacteria in water”, in 16th International Workshop on Physics of Semiconductor Devices, Vandana Singh; Monica Katiyar; B. Mazhari; S. S. Iyer; Utpal Das; Aloke Dutta; Ritu Sodhi; S. Anantharamakrishna, Editors, Proceedings of SPIE Vol. 8549 (SPIE, Bellingham, WA 2012), 854914.
+3) Sujeet Kumar; R.B. Deshmukh and Rajendra Patrikar; “Low Power High Throughput Differential Current Mode Signaling Technique for Global VLSI Interconnect”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011.a.
+4) Gaurav Pendharkar, R.B. Deshmukh, R. M. Patrikar, “Effect of Surface Roughness on the single and multiphase fluid flow through microchannel using Lattice Boltzmann method”, IWPSD 2011, Dec 2011.
+5) Raju Lampande, R.B. Deshmukh, R. M. Patrikar,”Influence of Shape and Size on the Optical Properties of Palladium Nanostructures”, IWPSD 2011, Dec 2011.
+6) Atul Kumar Dwivedi, Gaurav pendharkar, R.B.Deshmukh, R.M. Patrikar, “Detection of E.Coli Cell using capacitance modulation”, Comsol conference Bangalore, India,October 29-30, 2010. (awarded 2nd prize by juri’s choice) 7) S.B. Dhok, R.B. Deshmukh and A.G. Keskar”Fast Fractal Encoding through FFT using modified cross correlation based similarity measure “, , International conference on Advanced Topics in Artificial Intelligence (ATAI) Phuket, Thailand Nov 2010.
+8)  Anurag Zope, Waman Khokle, Raghvendra B. Deshmukh, and Rajendra Patrikar,” Weak Inversion based Low Power Low Noise Sixth order gm-C Filter at 1V for ECG Application with 180nm Technology”, 13th IEEE VLSI Design & Test (VDAT) Symposium, July 2009.
+9) Raju Lampande, Chandrashekhar Kukade, Raghvendra B Deshmukh, and Rajendra Patrikar,” AnAlgorithm for High speed, Low power Implementation of Modular Multiplier”, 13th IEEE VLSI Design & Test (VDAT) Symposium, July 2009.
+10) R.M. Badghare, R.B. Deshmukh, R.M. Patrikar “Novel Circuits for Two’s Complement of a Binary Number” IEEE VDAT 2008 (VLSI Design and Test Symposium).
+11) Sanjiv K. Mangal, Rahul M. Badghare, R.B.Deshmukh and R.M. Patrikar “FPGA Implementation of Low Power Parallel Multiplier” The 20th International conference on VLSI Design Jan.2007.
+12) S K. Mangal, R.B. Deshmukh, R.M. Badghare, R.M. Patrikar “FPGA Implementation of Low Power ASU Multiplier” IEEE VDAT 2007 (VLSI Design and Test Symposium).

@@ -1,0 +1,250 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-m-r-ramteke/
+TITLE: Dr. M.R. Ramteke
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. M.R. Ramteke
+Brief Bio
+Brief Bio
+Prof. Manoj Kumar Ramteke Born on 12 June 1964 and obtained AMIE (Electrical Engg), M.Tech. (Electronics) and PhD (Electrical Engg) from RTM Nagpur University in 1988, 1993 and 2008 respectively.He joined the institute in August 1989. He is senior member of IEEE and Fellow of Institute of Engineers (India). He Presented papers in various IEEE international conferences in France, Spain, Japan, Australia, Poland , USA and many more. His research area is Power Electronics Converters, FACTS Devices.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2008
+Electrical Engg
+RTM Nagpur University/ VNIT 2
+M.Tech.
+1993
+Electronics Engg.
+Nagpur University/VRCE (VNIT) 3
+AMIE 1988
+Electrical Engg
+The Institution of Engineers (India) 4
+Diploma 1984
+Electrical Engg
+BTE, Maharashtra/ GP Nagpur
+Contact Details
+Phone:
+Email:
+Address:
+0712-2801124 mrramteke@eee.vnit.ac.in
+EE Dept, VNIT, Nagpur-440010
+Research Interest
+Research Interest
+Power Electronics High gain soft switched DC-DC Converters, FACTs Devices
+Ph.D. Supervision
+Snehal P. Gawande (2016); “Study of DSTATCOM for power quality improvement on distribution system”
+Prashant D Debre (2017); “Optimal power flow controller for DFIG incorporating FACT devices”
+Naresh Kumar Reddi(2019); “High Gain Soft Switched DC-DC converters for Distributed Generation”
+Koteshrao kothapalli (2021); “Soft-swithced high voltage conversion ratio DC-DC converters for renewable energy systems”
+Kalahashti Rajesh Babu (2023); “High gainSoft switched DC DC converter for Renewable Energy Systems”
+Yogesh Likhar (On going); ” Temperature Regulated Conductive Charger for EV and its grid interaction.”
+M.Tech Projects Guided:30
+M.Tech Projects Guided:30
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Power factor improvement of 3-phase AC input line using resonant converter & active filter
+MHRD
+Member 2002-2006 7.00 Lac 2
+Development of multilevel inverter for industrial drives
+NAMPET
+Member 2007-09 14.00 Lac 3
+FIST programme 2008:Power electronic group
+DST
+Member 2008-13 90.00 Lac 4
+Development of Camera based sensors for motion detection and its application for energy saving
+COE (TEQIP II)
+PI 2014- 2017 12.25 Lac
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+…….
+…..
+………
+……….
+……….
+……….
+Description
+Author(s)
+Publisher
+ISBN
+Year
+……
+………..
+…………
+………
+………
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+……
+………..
+…………
+………
+………
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Emerging Trends in Electrical and Electronics Systems,
+Partly funded TEQIP III & IEEE Bombay Section
+VNIT 11-16 Feb. 2019 15
+“Research Methodology”
+MHRD Sponsored
+VNIT 25 June-4 July, 2012 35
+“Free and open source software –FOSS”
+Software support by IIT Bombay
+VNIT 9-11 Oct, 2012 & Exam : 19 Oct, 2012 30
+Basic Electronics
+ISTE/ IITB (DEP mode)
+VNIT 28 June- 8 July, 2011 20
+Sr. No.
+Responsibility
+Year 1
+Member , APPEC 2025 onwards 2
+Member ,ACoFAR
+Dec2024 onwards 3
+Member, Space Audit Committee 2026 4
+Associate Dean (Electrical Works)
+May 2014 – April 2016 & currently ( Jan 2024 -APr 25) 5
+Associate Dean (Procurement and stores section)
+JAN 2021 -DEC 2023 6
+Liaison Officer (SC/ST) : Special Cell
+JUN 2009 – DEC 2011 7
+Coordinator : Distance Education Programme- C-DEEP Centre
+JAN 2008 – DEC 2011 8
+Dept.Coordinator (NBA committee) 2018-2019 9
+Chairman , M. Tech Admissions (CCMT) 2019-2020 10
+Mentor 2014-2015 11
+Chairman, Fee remission committee (UG) 2016-2017 12
+Chairman, Admission committee (UG) 2016-2017
+Convener, committee for correspondence with degree recipients (15th convocation) 2017-2018
+Year
+Awards 2018
+Fellow, Institute of Engineers (India) 2019
+Senior member,IEEE
+Sr. No.
+Paper Citation 1
+A. Bhadikar and M. R. Ramtake, “Performance Analysis of Fuzzy Controlled D-STATCOM for Power Quality Improvement,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 2026, pp. 1-5, doi: 10.1109/SEFET69291.2026.11687664.
+2
+S. Azmi, R. K. Keshri and M.R.Ramteke, “Design and simulation of 5kW Stacked Brick Modular Coil System for Charging While in Motion,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 2026, pp. 1-7, doi: 10.1109/SEFET69291.2026.11686938.
+3
+Y. Likhar, S. Saurav, R. K. Keshri and M. R. Ramteke, “Single Stage Isolated on Board EV Charger with PFC,” 2025 IEEE International Transportation Electrification Conference (ITEC-India), Pune, India, 2025, pp. 1-6, doi: 10.1109/ITEC-India67626.2025.11439811.
+4
+Y. Likhar, M. R. Ramteke and R. K. Keshri, “Adaptive Charging of Lithium-ion Batteries Based on State-of-Charge and Temperature for Enhanced Cycle Life,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 2026, pp. 1-6, doi: 10.1109/SEFET69291.2026.11686910.
+5
+Y. Likhar, R. K. Keshri and M. R. Ramteke, “Analysis and Compensation for DC Bus Voltage Overshoot in Power Electronics Converter for EV charger Application,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 2026, pp. 1-6, doi: 10.1109/SEFET69291.2026.11715559.
+6
+Y. Likhar, M. R. Ramteke and R. K. Keshri, “DC Bus Voltage Regulation for V2H Application of Bidirectional EV Charger,” 2025 IEEE International Transportation Electrification Conference (ITEC-India), Pune, India, 2025, pp. 1-6, doi: 10.1109/ITEC-India67626.2025.11439804.
+7
+Y. Likhar, S. Saurav, M. R. Ramteke and R. K. Keshri, “Comparison of Current Control Techniques in Boost PFC Converter for EV Battery Charging Applications,” 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-5, doi: 10.1109/SEFET61574.2024.10717942.
+8
+K. R. Babu, M. R. Ramteke, H. M. Suryawanshi and K. R. Kothapalli;”Single Switch Non-Isolated High Gain DC-DC Converter for PV Applications,” IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE2020), pp. 1-5, Cochin, 2020. doi: 10.1109/PESGRE45664.2020.9070407.
+9
+Kalahasthi Raiesh Babu, MR Ramteke, HM Suryawanshi, Koteswara Rao Kothapalli;”High Gain Soft Switched DC-DC Converter for Renewable Applications” 2020 IEEE Texas Power and Energy Conference (TPEC) 10
+Kalahasthi Raiesh Babu, MR Ramteke, HM Suryawanshi, Koteswara Rao Kothapalli;”A Novel High Gain Soft Switched Step-Up DC-DC Converter With Coupled Inductors” 2020 IEEE Texas Power and Energy Conference (TPEC) 11
+Kalahasthi Raiesh Babu, MR Ramteke, HM Suryawanshi, Koteswara Rao Kothapalli;”Single Switch Non-Isolated High Gain DC-DC Converter for PV Applications” 2020 IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE2020) 12
+Koteswara Rao Kothapalli, MR Ramteke, HM Suryawanshi;”Coupled Inductor based High Gain ZVS DC–DC Converter for Renewable Energy Systems” 2020 IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE2020) 13
+Koteswara Rao Kothapalli, MR Ramteke, HM Suryawanshi, Naresh Kumar Reddi;”Dual-input Single Inductor Current -Fed Isolated Soft-switched High Gain DC to DC Converter for Hybrid Energy Systems” IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), IIT Madras, pp. 1-5, Yr: 2018.
+14
+Koteswara Rao Kothapalli, MR Ramteke, HM Suryawanshi;”A Novel High Gain Soft-Switching Interleaved LCL Integrated Fly-back Step-up Converter without An Auxiliary Switch for DC Microgrid” IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), IIT Madras, pp. 1-5, Yr: 2018.
+15
+Naresh Kumar Reddi, Manoj R Ramteke, HM Suryawanshi;”An isolated dual-input LCLC resonant converter for hybrid energy systems” IEEE International Conference on Industrial Technology (ICIT), Lyon, pp. 629-633, Yr: 2018 16
+SP Gawande, MR Ramteke, HM Suryawanshi, VB Borghate;”Carrier-based hysteresis controlled constant switching frequency strategy for three-level inverter based DSTATCOM” IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), IIT Madras, pp. 1-6, Yr: 2018.
+17
+Ashok M Jadhav, Nita R Patne,Manoj R Ramteke, S Parvathy;”A novel approach to incentive based energy sharing among neighbourhood smart homes”, IEEE International Conference on Industrial Technology (ICIT), Lyon, pp. 1113-1118, Yr: 2018.
+18
+Nivedita Pande, SP Gawande, PD Debre, MR Ramteke, Akshay Kadu;”Power Quality Improvement of a Non-Stiff System using DSTATCOM with State Feedback Switching IEEE International Conference on Energy”, Communication, Data Analytics and Soft Computing (ICECDS-2017), PP: 2480 – 2486, Yr: 2017.
+19
+Rejith Jose, MR Ramteke;”Mitigation of Problems in Distribution Line Due to Nonlinear and Unbalanced Load Using Statcom”, 2017 IEEE International Conference on Technological Advancements in Power and Energy (TAP Energy ), PP: 1 – 6,Yr: 2017.
+20
+SP Gawande, Sachin M Pardeshi, SG Kadwane, MR Ramteke, MB Daigavane, PD Debre, BY Bagde;”Capacitor voltage balancing techniques for three level capacitor clamped multilevel inverter under load compensation” International Conference on Power Electronics, Drives and Energy Systems (PEDES), 2016 IEEE PP:1-6 Yr:2016 21
+R Nareshkumar, SP Gawande, K Koteswararao, MR Ramteke, HM Suryawanshi;”Multiport DC-DC boost converter with zero-current switching”,International Conference on Power Electronics, Drives and Energy Systems (PEDES), 2016 IEEE PP:1-6 Yr:2016 22
+R Nareshkumar, Manoj R Ramteke, Hiralal M Suryawanshi;”Closed-loop control of current-fed full-bridge parallel resonant soft-switched dc-dc boost converter for PV applications” Industrial Electronics Society, IECON 2016-42nd Annual Conference of the IEEE PP: 2462-2467 Yr:2016 23
+Nivedita Pande, Resham Tondare, SP Gawande, MR Ramteke, PD Debre;”Analysis of conventional inverter topologies for High voltage distribution system in shunt applications” Power, Communication and Information Technology Conference (PCITC), 2015 IEEE PP: 160-166 Yr:2015 24
+SP Gawande, MR Ramteke;”Integrated three-level NPC based DSTATCOM topology using MISCT control algorithm for load compensation with non-stiff source” Power Electronics and Drive Systems (PEDS), 2015 IEEE 11th International Conference on PP: 1178-1183 Yr:2015 25
+Piyush Patil, MR Ramteke;”Impact of Distributed Generation on power distribution system: Over-current protection by phase angle estimation” Power, Communication and Information Technology Conference (PCITC), 2015 IEEE PP:844-849 Yr:2015 26
+Ajinkya J Sonawane, SP Gawande, MR Ramteke;”Hysteresis based predictive control for DSTATCOM application” Power, Communication and Information Technology Conference (PCITC), 2015 IEEE PP:235-241 Yr:2015 27
+SP Gawande, PD Debre, Manoj R Ramteke;”A new DSTATCOM topology using hybrid renewable energy based dc-link VSI for power quality applications”,Industrial Electronics Society, IECON 2015-41st Annual Conference of the IEEE PP:002800-002885 Yr:2015 28
+K. N. Madakwar, M.R. Ramteke;”Analysis of Single-Phase Z–Source Inverter”, 6th International Conference on Innovations in Electrical and Electronics Engineering (ICIEEE2015), Pune. ISBN: 978-93-85225-32-1 29
+Prashant Debre, Rahul Juneja, DR Tutakane, M R Ramteke;”Overvoltage protection scheme for back to back converter of grid connected DFIG” Industrial Electronics Society, IECON 2015-41st Annual Conference of the IEEE PP: 003159-003162 Yr:2015 30
+KA Dharmadhikari, VR Doifode, SP Gawande, MR Ramteke;”Open loop and closed loop control schemes for capacitor voltage equalization in DSTATCOM application” Advanced Communication Control and Computing Technologies (ICACCCT), 2014 International Conference on PP: 124-129 Yr:2014 31
+Nivedita S Pande, SP Gawande, MR Ramteke;”Control of D-STATCOM under unbalanced and distorted voltages using Synchronous Detection method for load compensation”,Recent Advances and Innovations in Engineering (ICRAIE), 2014 PP:1-6 Yr:2014 32
+E Sai Sudheer Reddy, MR Ramteke;;”Active damped LCL filter based DSTATCOM with reduced sensors”,Recent Advances and Innovations in Engineering (ICRAIE), 2014 PP:1-6 Yr:2014 33
+RP Tondare, SP Gawande, MR Ramteke,”Modeling of split capacitor based DSTATCOM & voltage balancing scheme for load compensation” International Conference on emerging Trends in Communication, Control, Signal Processing & Computing Applications (C2SPCA), 2013 PP:1-6 Yr:2013 34
+RP Tondare, SP Gawande, MR Ramteke;”Analysis of Conventional Inverter Topologies in Shunt Applications for Unbalanced and Non-linear Loads”,Advances in Computing and Communications (ICACC), 2013 Third International Conference on PP: 372-376 Yr:2013 35
+Narendra devo; MR Ramteke;”A novel Multi Inverter with reduced number of switches “, Nat. Conf. on Elect Systems and Renewable Energy , 2013, B.I.T, Trichy, 36
+AK Mishra, MR Ramteke, HM Suryawanshi;”Comparative Evaluation of AC-DC Converters for Input Current Harmonics: A Study,International Conference on for Renewable Energies and Power Quality”, European Association, Spain PP:925-929 Yr:2012,International Conference on for Renewable Energies and Power Quality, European Association, Spain 37
+SP Gawande, S Khan, MR Ramteke;”Voltage sag mitigation using multilevel inverter based distribution static compensator (DSTATCOM) in low voltage distribution system”,Power Electronics (IICPE), 2012 IEEE 5th India International Conference on, PP:1-6, Yr:2012 38
+MM Renge, HM Suryawanshi,VB Borghate, MR Ramteke;”Multilevel inverter to eliminate common mode voltage in induction motor drives”2006 IEEE International Conference on Industrial Technology, 2354-2358 39
+MK Dhote, DM Holey, MR Ramteke;”Development of an expert system for detecting incipient fault in transformer by dissolved gas analysis Artificial intelligence and decision support systems”-ICEIS 2004, Porto
+S.No.
+Paper Citation 1 2
+R. B. Kalahasthi, M. R. Ramteke and H. M. Suryawanshi, “An Ultra-High Gain Quadratic Converter Based on Coupled Inductor and Switched Capacitor Techniques for DC Micro-Grid Applications,” in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 12, no. 2, pp. 1709-1718, April 2024, doi: 10.1109/JESTPE.2024.3359630.
+3
+R. B. Kalahasthi, M. R. Ramteke, H. M. Suryawanshi and A. K. Singh, “A ZVS-Based Non-Isolated High Step-Up DC–DC Converter With Low Voltage Stress for Renewable Applications,” in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 3, pp. 2793-2804, June 2023, doi: 10.1109/JESTPE.2023.3237076.
+4
+K. R. Kothapalli, M. R. Ramteke and H. M. Suryawanshi, “ZVS–ZCS High Step-Up/Step-Down Isolated Bidirectional DC–DC Converter for DC Microgrid,” in IEEE Transactions on Power Electronics, vol. 38, no. 6, pp. 7733-7745, June 2023, doi: 10.1109/TPEL.2022.3208455.
+5
+Rajesh Babu Kalahasthi, Manojkumar R. Ramteke, Hiralal Murlidhar Suryawanshi,”A high-gain low-ripple DC-DC converter for micro-grid applications,” International Journal of Circuit Theory and Applications (Wiley Publications), vol. 51, no.2, pp. 807-828, 2023. doi:10.1002/cta.3466. doi:doi:10.1002/cta.3466.
+6
+Kalahasthi RB, Ramteke MR, Suryawanshi HM;”A high step-up soft-switched DC- DC converter with reduced voltage stress for DC micro-grid applications,” International Journal of Circuit Theory and Applications (Wiley Publications), pp. 1- 19, 2022. doi:10.1002/cta.3499.
+7
+Rajesh Babu Kalahasthi, Manojkumar R. Ramteke, Hiralal Murlidhar Suryawanshi & Koteswara Rao Kothapalli,”A high gain soft switched DC-DC converter for renewable applications,” International Journal of Electronics (Taylor & Francis), pp. 1-21, 2022. doi: 10.1080/00207217.2022.2117423.
+8
+Kalahasthi RB, Ramteke MR, Suryawanshi HM, Kothapalli K,”A single-switch high- gain DC-DC converter for photovoltaic applications,” International Journal of Circuit Theory and Applications (Wiley Publications), vol. 50, no.4, pp.1194-1215, 2022. doi: 10.1002/cta.3205.
+9
+K. R. Kothapalli, M. R. Ramteke, H. M. Suryawanshi, N. K. Reddi and R. B. Kalahasthi, “Soft-Switched Ultrahigh Gain DC–DC Converter With Voltage Multiplier Cell for DC Microgrid,” in IEEE Transactions on Industrial Electronics, vol. 68, no. 11, pp. 11063-11075, Nov. 2021, doi: 10.1109/TIE.2020.3031453 10
+K. R. Kothapalli, M. R. Ramteke, H. M. Suryawanshi, N. K. Reddi and R. B. Kalahasthi, “A Coupled Inductor Based High Step-Up Converter for DC Microgrid Applications,” in IEEE Transactions on Industrial Electronics, vol. 68, no. 6, pp. 4927-4940, June 2021, doi: 10.1109/TIE.2020.2992019.
+11
+Naresh Kumar Reddi, M. R. Ramteke and H. M. Suryawanshi;”Design and realization of current-fed single-input dual-output soft-switched resonant converter”, Journal of circuits, systems, and computers. Vol.20, no.5, yr.2019.
+12
+Hiralal Murlidhar Suryawanshi, Snehal Pachpor, T Ajmal, Girish Gowd Talapur, Shelas Sathyan, Makarand S Ballal, Vijay B Borghate, Manoj R Ramteke;”Hybrid Control of High-Efficient Resonant Converter for Renewable Energy System,” in IEEE Transactions on Industrial Informatics, vol. 14, no. 5, pp. 1835-1845, May 2018, doi: 10.1109/TII.2017.2756703.
+13
+Naresh Kumar Reddi, M. R. Ramteke and H. M. Suryawanshi;”Dual-input single-output isolated resonant converter with zero voltage switching”, Electronics, Vol. 7(6):No. 96, ISSN 2079-9292. 2018 14
+Naresh Kumar Reddi, Manoj R Ramteke, Hiralal M Suryawanshi, Koteswararao Kothapalli, Snehal P Gawande; “An Isolated Multi-Input ZCS DC-DC Front-End-Converter Based Multilevel Inverter for the Integration of Renewable Energy Sources”, IEEE Transactions on Industry Applications. Vol. 54, no.1, pp. 494-504, Sept 2017. ISSN No: 1939-9367.
+15
+Amardeep B Shitole, Hiralal M Suryawanshi, Girish G Talapur, Shelas Sathyan, Makarand S Ballal, Vijay B Borghate, Manoj R Ramteke, Madhuri A Chaudhari,”Grid Interfaced Distributed Generation System With Modified Current Control Loop Using Adaptive Synchronization Technique,” in IEEE Transactions on Industrial Informatics, vol. 13, no. 5, pp. 2634-2644, Oct. 2017, doi: 10.1109/TII.2017.2665477.
+16
+Snehal Panjabrao Gawande, Manoj R Ramteke, Nivedita Pande,”Improved equal current approach for reference current generation in shunt applications under unbalanced and distorted source and load conditions”, IET Generation, Transmission & Distribution, Vol.10, No.4, pp.995-1005 , yr.2016 17
+AJ Sonawane, Snehal P Gawande, Sumant G Kadwane, Manoj R Ramteke;”Nearly constant switching frequency hysteresis-based predictive control for distributed static compensator applications”, IET Power Electronics, Vol.9, No.11, pp. 2174-2185, yr.2016 18
+SP Gawande, S Khan, MR Ramteke;”Design Consideration for Configuration, Topology & Control Schemes of DSTATCOM Implemented on Distribution Systems Lecture Notes on Information Theory” Vol 1 (3), June 2016 19
+SP Gawande, Manoj R Ramteke;”State feedback-based capacitor voltage equalization scheme in distribution static compensator for load compensation”, IET Generation, Transmission & Distribution Vol.9, No.15, pp. 2188-2197, yr.2015 20
+P Debre, A Kadu, MR Ramteke, DR Tutakane,”Analysis of DFIG based Wind Energy System with Grid Integration under normal and abnormal conditions”, IOSR Journal of Electrical and Electronics Engineering (IOSR-JEEE) e-ISSN: 2278-1676,p-ISSN: 2320-3331, Volume 10, Issue 2 Ver. III (Mar – Apr. 2015), PP 46-52 21
+SP Gawande, MR Ramteke;”Three-level NPC inverter based new DSTATCOM topologies and their performance evaluation for load compensation”, International Journal of Electrical Power & Energy Systems, Vol.61, No., pp. 576-584, yr.2014 22
+SP Gawande, MR Ramteke;”Current controlled PWM for multilevel voltage-source inverters with variable and constant switching frequency regulation techniques: a review”, Journal of Power Electronics, Vol.14, No.2, pp. 302-314, yr.2014 23
+H. M. Suryawanshi, M. R. Ramteke, K. L. Thakre and V. B. Borghate, “Unity-Power-Factor Operation of Three-Phase AC–DC Soft Switched Converter Based On Boost Active Clamp Topology in Modular Approach,” in IEEE Transactions on Power Electronics, vol. 23, no. 1, pp. 229-236, Jan. 2008, doi: 10.1109/TPEL.2007 24
+MR Ramteke, HM Suryawanshi, KL Thakre;”Single-phase resonant converter in three-phase system in modular approach”, EPE Journal, vol. 16, pp. 5-13, yr.2006.
+25
+Hiralal M Suryawanshi, Vijay B Borghate, Manojkumar R Ramteke, Krishna L Thakre;”Electronic ballast using a symmetrical half-bridge inverter operating at unity-power-factor and high efficiency”, Journal of Power Electronics, vol. 6, No. 4 pp. 330-339, 2006.
+26
+HM Suryawanshi, SS Tanavade, MR Ramteke, “Design and dynamic performance of modified series-parallel resonant converter”, EPE Journal, vol. 15, no.2, pp. 10-18, 2005.

@@ -1,0 +1,292 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-b-s-umre/
+TITLE: Dr. B.S. Umre
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. B.S. Umre
+Brief Bio
+Brief Bio
+Bhimrao Sitaram Umre
+Professor and Head,
+DOB: 27.08.1960
+BE, M. Tech., Ph. D. – Nagpur University
+Ph. D. Guided = 06 (May 2024)
+Ph. D. Ongoing = 05 (May 2024)
+Area of Specialization: i) Power System   ii) Torsional oscillations                                       iii) Condition Monitoring of Electrical Machines
+Teaching Experience: 40 Years
+Paper Published = 67
+Consultancy = 12
+Workshops = 2 – Coordinator and Co-coordinator
+International Conference =1 -Co- convener
+Worked as     1.Officer-Incharge, Electrical Maintenance Section 2. Warden 3.Remote Center Coordinator, C-DEEP 4. Associate Dean (Hostel Affairs) 5. Dean (Student Welfare) 6. Head, From January 2024
+Externally Sponsored R&D Project: 02
+Book: 01
+Other Achievements 1.	PPSA award, Project: Diagnosis of Incipient Fault Development in Transformer by Condition 2. Semifinalists Award – a cash prize equivalent of USD 200 Title of Project: Design and Development of an Intelligent Fault Tracking System Optical Fibre Cable in Railway Tracks.
+3. Member – Board of Studies, Electrical, Nagpur University 4.Member- RRC Electrical, Gondwana University, Gadchiroli 5. Member- Board of Studies, Electrical, YCCE, Nagpur 6. Mentor- Dr. Babasaheb Ambedkar College of Engineeing, Nagpur 7. Member- Board of Studies: Rajshri Shahu College of Engineering, Tathawade, Pune
+Patent Filed and Published: 08
+Patent Granted: 04
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+BE 1983
+Electronics and Power
+Nagpur University 2
+M. Tech.
+1986
+IPS
+Nagpur University 3
+Ph. D.
+2009
+Electrical – Torsional Oscillation
+Nagpur University
+Contact Details
+Phone:
+Email:
+Address:
+7122801208 bsumre@eee.vnit.ac.in
+VNIT 9423102827 bsumre@rediffmail.com
+Research Interest
+Research Interest
+Power System, Torsional Oscillation, Condition Monitoring of Electrical Machines
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Multiphase (Six Phase) Matrix Converter for Traction,
+DST,  (Science and Engg Research Board, (SERB), New Delhi,
+Co-PI 2017 42 Lakh.
+2
+FIST Electrical Measurement/ Machines/Drives
+DST,  (Science and Engg Research Board, (SERB), New Delhi,
+Co PI
+:2008 to 2014,
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Maintenance of Electrical HT Installation and Transformer 160 kVA at MRSAC
+MRSAC Nagpur
+Officer Incharge 1999 0.18 2
+Maintenance of Electrical HT Installation and Transformer 160 kVA at MRSAC
+MRSAC Nagpur
+Officer Incharge 2000 0.18 3
+Maintenance of Electrical HT Installation and Transformer 160 kVA at MRSAC
+MRSAC Nagpur
+Officer Incharge 2001 0.18 4
+Mineral Exploration Corporation Ltd, Seminary Hill, Nagpur
+MEC ltd Nagpur
+Officer Incharge 2001 0.16 5
+Maintenance of Electrical HT Installation and Transformer 160 kVA at MRSAC
+MRSAC Nagpur
+Officer Incharge 2002 0.24475 6
+Testing of Stoneless Dhara Domestic Floormill
+Honest Engineers, Rajkot
+Coordinator 2011 0.04 7
+Testing of Stoneless Dhara Domestic Floormill
+Honest Engineers, Rajkot
+Coordinator 2016 0.04 8 660 MW Generator Current Transformer-Insulation Evaluation
+Coordinator 2016 0.39 9
+Testng of Electric Shock Preventer
+Texonics, Nagpur
+Coordinator 2017 17 10
+Load Enhancement, Design and Specifications of Switchgear for Extrusion Press
+JNARDDC, Nagpur
+Coordinator 2017 0.4 11
+Testng of Electric Shock Preventer
+Texonics, Nagpur
+Coordinator 2023 0.0354 12
+Assessment of Electrical Power Requirement of Chandrapur Forest Academy
+Chandrapur Forest Academy
+Coordinator 2024 3
+Description
+Author(s)
+Publisher
+ISBN
+Year 1. Laboratory Manual for Electrical Machines
+D. P. Kothari, B. S. Umre
+I.K. International Publishing House Pvt. Ltd. New Delhi.
+9789385909757 2017 Second Edition
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Water and Energy Efficient Desert Cooler with Mosquito Net, 2014 1452/MUM/2014 23/04/2014
+Granted 2
+Automatic Watering System for Urinals 201621004016 04/02/2016
+Granted 3
+Model for the Analysis of Different Faults / Abnormal Condition of Transformer and Induction Motor 201621021851 24/06/2016
+Granted 4
+A system for Multi-Phase Power Conversion from Single Phase Alternating Current Supply 202221003696 22/01/2022
+Granted 5
+Real Time Monitoring of Railway Tracks using Optical Fiber against Broken Rails 201621028077 17/08/2016
+Filed 6
+Auxiliary Square Wave Excitation for Core Capacity Enhancement of the Transformer, 201621014904 28/04/2016
+Fled 7
+Oscillating Quiescent Point in Power Amplifier Biasing 201621014903 28/04/2016
+Filed 8
+Automatic Air Blast Flushing of Electrostatic Precipitator (ESP) 201621044748 04/04/2016
+Filed
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Electric Power System
+ISTE
+VNIT 10th to 15th July 2017
+Advanced Power Electronics, Applications and Implementation
+MHRD
+VNIT 11th  to 16th Jan 2015
+All India Seminar with International Participation on Renewable / Clean Energy and Energy Conservation
+IE & GOI
+IE Nagpur 13th to 14th October 2012
+Sr. No.
+Responsibility
+Year 1
+Head from January 2024 2
+Dean (Student Welfare) 01.05.2018 to 03.01.2021 3
+Associate Dean (Hostel Affairs) 30.4.2016 to 30.04.2018 4
+Remote Center Coordinator, C-DEEP
+January 2014 to April 2016 5
+Warden, New Boys Hostel
+July 2002 to June 2009 6
+Officer-Incharge, Electrical Maintenance Section
+August 1998 to June 2002
+Year
+Awards 2017
+PPSA award, jointly organized by POSOCO and IIT Delhi, Title of Project: Diagnosis of Incipient Fault Development in Transformer by Condition 2018
+Semifinalists Award – a cash prize equivalent of USD 200 Title of Project: Design and Development of an Intelligent Fault Tracking System Optical Fibre Cable in Railway Tracks.
+From 1995 to 2000 & from 2010 to 2015
+Member – Board of Studies, Electrical, Nagpur University
+Member- RRC Electrical, Gondwana University, Gadchiroli
+Member- Board of Studies, Electrical, YCCE, Nagpur
+Mentor- Dr. Babasaheb Ambedkar College of Engineeing, Nagpur
+Member- Board of Studies: Rajshri Shahu College of Engineering, Tathawade, Pune
+S.No.
+Paper Citation 1
+“Non Isolated quadratic input stage high gain dcdc converter with reduced voltage stress in DCM”, 2024 IEEE International Students’ Conference on Electrical, Electronics and Computer Science (SCEECS), 2024 2
+“Comparative Analysis of CMV Variation Using Different BUS Clamping SVPWM Techniques”, 2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T), 2024 3
+“Hybrid PWM control Scheme for Open-End Winding Five-Phase Induction Motor Drive to Suppress Lower Order Harmonics”, 2023 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), 2023 4
+MA Waghmare, BS Umre, MV Aware, A Kumar, L Charan, “A Low Cost Single Microcontroller Implementation for Space Vector Modulated 3∅ to 3∅ Indirect Matrix Converter”, 2023 IEEE 3rd International Conference on Smart Technologies for Power, Energy and Control (STPEC), 2023 5
+L Charan, BS Umre, MV Aware, “Lower Order Harmonic Suppression in Five-Phase Induction Motor Drive using Selective Harmonic Elimination Method”, 2023 IEEE 3rd International Conference on Smart Technologies for Power, Energy and Control (STPEC), 2023 6
+Kumar, Anup & Aware, Mohan & Umre, B. & Waghmare, Manoj. (2023). Single-Phase Grid-Connected Fault Tolerant Bi-directional Power Flow Converter for Electric Vehicle Charging System. 1-5. 10.1109/FES57669.2023.10183139.
+7
+S. D. Chennoju, B. S. Umre and U. V. Dongare, “Simulation of a Three-Phase Induction Motor with Stator Inter-Turn Short-Circuit Fault,” 2023 IEEE Renewable Energy and Sustainable E-Mobility Conference (RESEM), Bhopal, India, 2023, pp. 1-6, doi: 10.1109/RESEM57584.2023.10236313.
+8
+S. A. Yerkal, M. V. Aware, B. S. Umre, M. Waghmare and A. Kumar, “Common Mode Voltage Elimination in a Three-to-Six Phase Indirect Matrix Converter Using SVM Technique,” 2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2020, pp. 1-6, doi: 10.1109/PEDES49360.2020.9379372.
+9
+U. Dongare, B. Umre, M. Ballal and V. Dongare, “Design of Optimal MLP-Neural Network-based Induction Motor Fault Classifier,” 2022 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Trivandrum, India, 2022, pp. 1-6, doi: 10.1109/PESGRE52268.2022.9715874.
+10
+M. A. Waghmare, B. S. Umre, M. V. Aware and A. Kumar, “Single-phase to Six-phase Matrix Converter for Low Power Induction Motor Application,” 2022 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Trivandrum, India, 2022, pp. 1-5, doi: 10.1109/PESGRE52268.2022.9715914.
+11
+A. Kumar, M. V. Aware, B. S. Umre and M. A. Waghmare, “Comparative Performance Analysis of Single-Phase Grid-Connected Converters,” 2021 IEEE 2nd International Conference on Smart Technologies for Power, Energy and Control (STPEC), Bilaspur, Chhattisgarh, India, 2021, pp. 1-6, doi: 10.1109/STPEC52385.2021.9718610.
+12
+U. Dongare, B. Umre, M. Ballal and V. Dongare, “Incipient Faults Detection in Induction Motor using MLP-NN and RBF-NN-based Fault Classifier,” 2021 IEEE 2nd International Conference on Smart Technologies for Power, Energy and Control (STPEC), Bilaspur, Chhattisgarh, India, 2021, pp. 1-6, doi: 10.1109/STPEC52385.2021.9718693.
+13
+A. Kumar, M. V. Aware, B. S. Umre and M. A. Waghmare, “Single-Phase Grid-Connected Converter with Reduced DC-Link Voltage Ripple and Switch Count,” 2021 National Power Electronics Conference (NPEC), Bhubaneswar, India, 2021, pp. 01-05, doi: 10.1109/NPEC52100.2021.9672476.
+14
+M. A. Waghmare, B. S. Umre, M. V. Aware and A. Kumar, “Six-Phase Power Conversion from a Single-Phase Supply without any Energy Storage Intermediate for Induction Motor Control,” 2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON), Kuala Lumpur, Malaysia, 2021, pp. 1-6, doi: 10.1109/GUCON50781.2021.9573984 15
+A. Vishwakarma, A. Kanhe, A. Sri, S. Maddipatla, H. Bajaj and B. S. Umre, “Core Capacity Enhancement of a Three-Phase Core Type Transformer by Injection of Two-Level DC Excitation,” 2020 21st National Power Systems Conference (NPSC), Gandhinagar, India, 2020, pp. 1-5, doi: 10.1109/NPSC49263.2020.9331853.
+16
+A. Kumar, M. V. Aware, B. S. Umre and M. A. Waghmare, “Fault-Tolerant Grid-Connected Single to Three-Phase Multilevel Converter for Induction Motor Drive,” 2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2020, pp. 1-6, doi: 10.1109/PEDES49360.2020.9379622 17
+S. A. Yerkal, M. V. Aware, B. S. Umre, M. Waghmare and A. Kumar, “Common Mode Voltage Elimination in a Three-to-Six Phase Indirect Matrix Converter Using SVM Technique,” 2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2020, pp. 1-6, doi: 10.1109/PEDES49360.2020.9379372.
+18
+U. V. Dongare, B. S. Umre and M. S. Ballal, “Mathematical Modeling and Simulation of an Induction Motor with Stator Inter-Turn Faults,” 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC), Nagpur, India, 2020, pp. 1-6, doi: 10.1109/STPEC49749.2020.9297711.
+19
+M. A. Waghmare, B. S. Umre, M. V. Aware, A. Kumar and S. A. Yerkal, “Single-phase to Three-phase Multilevel Matrix Converter (1×3 M2C) for Induction Motor Drive,” 2020 IEEE International Conference on Power Systems Technology (POWERCON), Bangalore, India, 2020, pp. 1-6, doi: 10.1109/POWERCON48463.2020.9230558.
+20
+Waghmare, Manoj & Umre, B. & Aware, Mohan & Kumar, Anup. (2020). Space Vector Controlled Single-Phase to Three-Phase Direct Matrix Converter Drive. 10.1007/978-981-15-4775-1_15.
+21
+A. Kumar, M. V. Aware, B. S. Umre and M. A. Waghmare, “Bidirectional Power Flow of Grid Connected Single to Three Phase Multilevel Converter with Reduced Switch Count for Traction,” 2020 IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE2020), Cochin, India, 2020, pp. 1-6, doi: 10.1109/PESGRE45664.2020.9070428.
+22
+A. Kumar, M. V. Aware, B. S. Umre and M. A. Waghmare, “Grid Connected Multilevel Single to Three Phase Power Converter with Improved Performance,” TENCON 2019 – 2019 IEEE Region 10 Conference (TENCON), Kochi, India, 2019, pp. 1535-1540, doi: 10.1109/TENCON.2019.8929411 23
+Bagde, B.Y. & Umre, B.S.. (2017). Security constrained economic dispatch. 3458-3462. 10.1109/ICECDS.2017.8390103.
+24
+T. G. Vilhekar, M. S. Ballal and B. S. Umre, “Application of Sweep Frequency Response Analysis for the detection of winding faults in induction motor,” IECON 2016 – 42nd Annual Conference of the IEEE Industrial Electronics Society, Florence, Italy, 2016, pp. 1458-1463, doi: 10.1109/IECON.2016.7793565.
+25
+B. Y. Bagde, B. S. Umre, R. D. Bele and H. Gomase, “Optimal network reconfiguration of a distribution system using Biogeography Based Optimization,” 2016 IEEE 6th International Conference on Power Systems (ICPS), New Delhi, India, 2016, pp. 1-6, doi: 10.1109/ICPES.2016.7584114.
+26
+P. A. Venikar, M. S. Ballal, B. S. Umre and H. M. Suryawanshi, “Symmetrical components based advanced scheme for detection of incipient inter-turn fault in transformer,” 2015 International Conference on Condition Assessment Techniques in Electrical Systems (CATCON), Bangalore, India, 2015, pp. 127-132, doi: 10.1109/CATCON.2015.7449521.
+27
+P. A. Venikar, M. S. Ballal, B. S. Umre and H. M. Suryawanshi, “Transformer incipient inter-turn fault detection based on no-load current harmonic analysis,” 2015 IEEE Eindhoven PowerTech, Eindhoven, Netherlands, 2015, pp. 1-5, doi: 10.1109/PTC.2015.7232294.
+28
+P. A. Venikar, M. S. Ballal, B. S. Umre and H. M. Suryawanshi, “Search coil based transformer inter-turn fault detection,” 2014 Eighteenth National Power Systems Conference (NPSC), Guwahati, India, 2014, pp. 1-5, doi: 10.1109/NPSC.2014.7103865.
+29
+P. A. Venikar, M. S. Ballai and B. S. Umre, “Negative sequence based relay operate area approach to detect transformer inter-turn fault,” IECON 2014 – 40th Annual Conference of the IEEE Industrial Electronics Society, Dallas, TX, USA, 2014, pp. 749-754, doi: 10.1109/IECON.2014.7048584.
+30
+A. Q. H. Badar, B. S. Umre and A. S. Junghare, “Reducing Variable Trend Search algorithm for optimizing non linear multidimensional space search,” 2014 International Conference on Advances in Engineering & Technology Research (ICAETR – 2014), Unnao, India, 2014, pp. 1-4, doi: 10.1109/ICAETR.2014.7012914.
+31
+P. A. Venikar, M. S. Ballal, B. S. Umre and H. M. Suryawanshi, “Condition assessment of transformer by park’s vector and symmetrical components to detect inter turn fault,” 2013 IEEE 1st International Conference on Condition Assessment Techniques in Electrical Systems (CATCON), Kolkata, India, 2013, pp. 163-168, doi: 10.1109/CATCON.2013.6737491.
+32
+S. Pattnaik, B. S. Umre and D. Khare, “Green energy powered multiphase buck converter for microprocessors,” 2013 4th IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG), Rogers, AR, USA, 2013, pp. 1-5, doi: 10.1109/PEDG.2013.6785625.
+33
+B. S. Umre, J. B. Helonde, J. P. Modak and S. Renkey, “Application of gate-controlled series capacitors (GCSC) for reducing stresses due to sub-synchronous resonance in turbine-generator shaft,” 2010 IEEE Energy Conversion Congress and Exposition, Atlanta, GA, USA, 2010, pp. 2300-2305, doi: 10.1109/ECCE.2010.5617863.
+34
+B. S. Umre, M. K. Khedkar, M. T. Hande and J. P. Modak, “Application of STATCOM for Reducing Stresses due to Torsional Oscillations in Turbine-Generator Shaft,” 2007 IEEE Power Electronics Specialists Conference, Orlando, FL, USA, 2007, pp. 865-869, doi: 10.1109/PESC.2007.4342102.
+35
+M. A. Waghmare, B. S. Umre, M. V. Aware, A. Kumar and S. A. Yerkal, “Single-phase to Three-phase Multilevel Matrix Converter (1×3 M2C) for Induction Motor Drive,” 2020 IEEE International Conference on Power Systems Technology (POWERCON), Bangalore, India, 2020, pp. 1-6, doi: 10.1109/POWERCON48463.2020.9230558.
+36
+S.No.
+Paper Citation 1
+Modified Single-stage Single-phase to Multi-phase Matrix Converter for Extended Low Output Power Frequency Operation”, IEEE Transactions on Power Electronics, 2024 2
+U. V. Dongare, B. S. Umre, M. S. Ballal and V. P. Dongare, “Online Inter-Turn Fault Detection in Wound Rotor Induction Motors Based on VI Loci Pattern,” in IEEE Transactions on Industry Applications, vol. 60, no. 1, pp. 411-425, Jan.-Feb. 2024, doi: 10.1109/TIA.2023.3324631.
+3
+Topno, Seema & Umre, B. & Aware, M. & Sahoo, Lalit. (2023). Internal and cross sectional benchmarking of electrical energy use in opencast coal mine. Gornye nauki i tekhnologii = Mining Science and Technology (Russia). 8. 232-244. 10.17073/2500-0632-2023-03-100.
+4
+Dongare, Ujwala & Umre, Bhimrao & Ballal, Makarand. (2023). Stator inter-turn short-circuit fault diagnosis in induction motors applying VI loci-based technique. Energy Reports. 9. 1483-1493. 10.1016/j.egyr.2023.06.043.
+5
+Anup Kumar(B) , Mohan V. Aware , B. S. Umre , and Manoj A. Waghmare,” Single-Phase to Six-Phase (AC-DC-AC) Converter for Traction”,First Mandalika International Multi-Conference on Science and Engineering … 6
+M. A. Waghmare, B. S. Umre, M. V. Aware, A. Iqbal and A. Kumar, “Dual Stage Single-Phase to Multiphase Matrix Converter for Variable Frequency Applications,” in IEEE Transactions on Power Electronics, vol. 38, no. 2, pp. 1372-1377, Feb. 2023, doi: 10.1109/TPEL.2022.3207515 7
+Waghmare, M. A., Umre, B. S., Aware, M. V., & Kumar, A. (2020). Implementation of Space Vector Modulated Single-phase to Three-phase Indirect Matrix Converter for Induction Motor Drive Control. IETE Journal of Research, 68(5), 3447–3456. https://doi.org/10.1080/03772063.2020.1768162 8
+Dongare, U.V., Umre, B.S. & Ballal, M.S. Rotor winding inter-turn short-circuit fault detection in wound rotor induction motors using Wing Technique. J. Power Electron. 22, 614–628 (2022) 9
+A. Kumar, M. V. Aware, B. S. Umre and M. A. Waghmare, “An Adaptive Multi-Resonant Current Controller for a Single-Phase Grid-Tied Converter With Grid Disturbance Rejection Capability,” in IEEE Access, vol. 10, pp. 28053-28065, 2022, doi: 10.1109/ACCESS.2022.3157529 10
+Seema Ashishan Topno, Lalit Kumar Sahoo, B.S. Umre,Energy efficiency assessment of electric shovel operating in opencast mine,Energy,Volume 230,2021, 11
+A. Kumar, M. V. Aware and B. S. Umre, “Single-Phase to Three-Phase Power Converter With Reduced DC-Link Voltage Ripple and Grid Current Harmonics,” in IEEE Transactions on Industry Applications, vol. 57, no. 1, pp. 664-672, Jan.-Feb. 2021, doi: 10.1109/TIA.2020.3038357 12
+B. Y. Bagde, Shende, P., & B. S. Umre. (2020). Assessment of Available Transfer Capability in the Electricity Market. Helix – The Scientific Explorer | Peer Reviewed Bimonthly International Journal, 10(02), 15-20 13
+M. V. Aware, Yerkal, S. A. ., B. S. Umre, & Waghmare, M. . (2020). Comparative Study of Space Vector Controlled Three Phase-Six Phase Direct and Indirect Matrix Converter for Six Phase Induction Motor Drive. Helix – The Scientific Explorer | Peer Reviewed Bimonthly International Journal, 10(01), 271-277 14
+Mutha, S.M., Umre, B.S. Oscillating quiescent point in power amplifier biasing. Analog Integr Circ Sig Process 98, 265–276 (2019). https://doi.org/10.1007/s10470-018-1293-3 15
+Dhenuvakonda KR, Singh AR, Thakre MP, Umre BS, Kumar A, Bansal RC. Effect of SSSC-based SSR controller on the performance of distance relay and adaptive approach using synchronized measurement. Int Trans Electr Energ Syst. 2018; 28:e2620 16
+Bagde BY, Umre BS, Dhenuvakonda KR. An efficient transient stability-constrained optimal power flow using biogeography-based algorithm. Int Trans Electr Energ Syst. 2018; 28:e2467.
+17
+P. A. Venikar, M. S. Ballal, B. S. Umre and H. M. Suryawanshi, “Search Coil Based Online Diagnostics of Transformer Internal Faults,” in IEEE Transactions on Power Delivery, vol. 32, no. 6, pp. 2520-2529, Dec. 2017, doi: 10.1109/TPWRD.2017.2682083 18
+D. Koteswara Raju, Bhimrao S. Umre, Anjali S. Junghare, B. Chitti Babu,Mitigation of Subsynchronous Resonance with Fractional-order PI based UPFC controller,Mechanical Systems and Signal Processing, 19
+Koteswara Raju, D., Umre, B.S., Junghare, A.S. et al. Fractional-order PI based STATCOM and UPFC controller to diminish subsynchronous resonance. SpringerPlus 5, 1599 (2016).
+20
+Raju, D & Umre, Bhimrao & Junghare, A.S. & Babu, B.. (2016). Improved Control Strategy for Subsynchronous Resonance Mitigation with Fractional-order PI Controller. International Journal of Emerging Electric Power Systems. 17. 10.1515/ijeeps-2016-0037.
+21
+Venikar, P.A., Ballal, M.S., Umre, B.S. and Suryawanshi, H.M. (2016), Sensitive incipient inter-turn fault detection algorithm for power transformers. IET Electric Power Applications, 10: 858-868.
+22
+S. M. Mutha and B. S. Umre, “Optimum Utilization of Magnetization Characteristics for Power Capacity Enhancement of the Transformer and Considerable Saving in Core Cost,” in IEEE Transactions on Magnetics, vol. 52, no. 9, pp. 1-6, Sept. 2016, Art no. 8401706, doi: 10.1109/TMAG.2016.2562004.
+23
+Raju, D & BS, Umre. (2016). Mitigation of Subsynchronous Oscillations with Common Controller Based Statcom and SSSC. Journal of Electrical Engineering and Electronic Technology. 05. 10.4172/2325-9833.1000122.
+24
+Thakre, M. P., Kale, V. S., Raju, D. K., Umre, B. S., & Junaghare, A. S. (2015). Modelling of three zones distance relay with auto-recloser function using PSCAD/EMTDC>sup/sup< simulation: an active learning tool. Power Research – A Journal of CPRI, 493–504 24
+P. A. Venikar, M. S. Ballal, B. S. Umre and H. M. Suryawanshi, “A Novel Offline to Online Approach to Detect Transformer Interturn Fault,” in IEEE Transactions on Power Delivery, vol. 31, no. 2, pp. 482-492, April 2016, doi: 10.1109/TPWRD.2015.2440448 25
+Thakre, M. , Kale, V. , Dhenuvakonda, K. , Umre, B. and Junghare, A. (2015) Study and Mitigation of Subsynchronous Oscillations with SSC Based SSSC. Journal of Power and Energy Engineering, 3, 33-43. doi: 10.4236/jpee.2015.39003 26
+Umre BS, Rajesh V, Vijitha U, Koteswara Raju D, Archana Patil. Stability Analysis of SMIB System Incorporating the GeneticAlgorithm based TCSC Controller.
+27
+Saonerkar, A. K., B. Y. Bagde, and B. S. Umre. “DG placement in distribution network for power loss minimization using genetic algorithm.” Int. J. Res. Eng. Sci 2.02 (2014): 41-47.
+28
+Badar, A.Q., Umre, D.B., & Junghare, D.A. (2013). Study of Artificial Intelligence Optimization Techniques applied to Active Power Loss Minimization.
+29
+Altaf Q.H. Badar, B.S. Umre, A.S. Junghare,Reactive power control using dynamic Particle Swarm Optimization for real power loss minimization,International Journal of Electrical Power & Energy Systems,Volume 41 30
+BS Gajbhiye, MV Aware, BS Umre, R Patil, Single phase to three phase ac Matrix Converter for Traction 31
+BY Bagde, BS Umre, P Shende, H Gomase,Optimized-Capacitor-Allocation-in-Radial-Distribution-Network-Using-Teaching-Learning-Based-Optimization

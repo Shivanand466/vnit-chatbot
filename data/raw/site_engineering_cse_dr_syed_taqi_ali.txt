@@ -1,0 +1,315 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-syed-taqi-ali/
+TITLE: Dr. Syed Taqi Ali​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Syed Taqi Ali​
+Brief Bio
+Brief Bio
+Current: Assistant Professor, Department of CSE, VNIT, Nagpur (since May 2018)
+Past Experience: Assistant Professor, Department of Computer Engineering, NIT Kurukshetra (Sept 2013 - May 2018)
+From: Hyderabad, Telengana
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Bachelor of Engineering (B.E.) 2001-2005
+CSE
+Osmania university, Hyderabad 2
+Master of Technology (M.Tech.) 2007-2009
+CSE-IS Computer Science and Engineering with specialization in Information Security
+NITK Surathkal, Mangalore 3
+Ph.D.
+2009 - 2014 (Thesis submitted June 2013, Defended Dec 2014)
+CSE
+NIT Warangal
+Contact Details
+Phone:
+Email:
+Address:
+0712-2801794(Landline)  9896002963(Mobile) sta@cse.vnit.ac.in
+Room No. 107, Department of CSE, V N I T Campus, South Ambazari Road, Nagpur - 440010, MH
+Research Interest
+Provable Security and Cryptographic Protocols
+Public Key Cryptography
+Quantuam Cryptography
+Steganography
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+NIL
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+NIL
+Description
+Author(s)
+Publisher
+ISBN
+Year
+(Book Chapter) Extensions of IBE and Related Primitives in the book titled Functional Encryption
+Syed Taqi Ali
+Springer International Publishing 978-3-030-60890-3 2021
+(Book Chapter) Provable Security for Public Key Cryptosystems: How to Prove that the Cryptosystem is Secure in the Handbook of Research on Modern Cryptographic Solutions for Computer and Cyber Security
+Syed Taqi Ali
+IGI Global 978-1-522-50106-0 2016
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+NIL
+Sr. No.
+Title
+Organised:
+1
+One week Workshop on Information Security and Cryptography, 9th to 13th Dec 2019.
+2
+One week Workshop on Information Security and Cryptography, 5th to  9th Dec 2022.
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+SHELL- Cyber Security Club
+VNIT Nagpur
+Faculty incharge 2018 onwards 2
+Warden – JC Bose Hostel (1st year BTech)
+VNIT Nagpur
+Warden
+June 2024 – May 2025
+Sr. No.
+Awards
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher
+J_18
+Patel, Abhishek, Syed Taqi Ali and Manoj Kumar
+Estimation of reference evapotranspiration using ensemble machine learning models based on regional scenario
+Applied Water Science 2025
+Springer Science and Business Media Deutschland GmbH
+J_17
+Patel, Abhishek and Syed Taqi Ali
+Single Meteorological Parameter-Based Ensemble Modeling for Reference Evapotranspiration in California’s Weather Stations
+SN Computer Science 2025
+Springer
+J_16
+Venkata Bhikshapathi Chenam, Kondepati Dhana Sree and Syed Taqi Ali
+A Multi-receiver Certificateless Public-key Searchable Encryption:Field-free Subset Conjunctive and Disjunctive
+Peer-to-Peer Networking and Applications, Vol. 17, Issue 1 , pp. 3526, Springer, ISSN: 1936-6450, DOI:10.1007/s12083-024-01767-y 31-Jul-2024
+IOP Publishing Ltd
+J_15
+Venkata Bhikshapathi Chenam and Syed Taqi Ali
+A Pairing-free Dynamic Multi-receiver Certificateless Authenticated Searchable Encryption for cloud storage
+Journal of Information Security and Applications, Vol. 83, Issue 1 , pp. 103801, Elsevier, ISSN: 2214-2126, DOI:10.1016/j.jisa.2024.103801 04-Jun-2024
+Springer Nature
+J_14
+Justin Joseph and Syed Taqi Ali
+Tree based Quantum Anonymous Ranking Protocol
+Quantum Information Processing, Vol. 23, Issue 1 , pp. 263, Springer, ISSN: 1573-1332., DOI:10.1007/s11128-024-04476-w 05-Jul-2024
+Elsevier
+J_13
+Justin Joseph and Syed Taqi Ali
+Quantum secure ranking based on quantum walks
+Physica Scripta, Vol. 99, Issue 3 , pp. 35107, IOP Science, ISSN: 1402-4896, DOI:10.1088/1402-4896/ad224e 06-Feb-2024
+Springer Nature
+J_12
+Venkata Bhikshapathi Chenam, Suneeth Yadav Tummala and Syed Taqi Ali
+Public Key Authenticated Encryption with Field-free Subset Conjunctive and Disjunctive Keyword Search against Keyword Guessing Attacks
+Peer-to-Peer Networking and Applications, Vol. 17, Issue 3 , pp. 1036, Springer, ISSN: 1936-6450, DOI:10.1007/s12083-023-01618-2 08-Feb-2024
+Elsevier
+J_11
+Venkata Bhikshapathi Chenam and Syed Taqi Ali
+A Certificateless Authenticated Searchable Encryption with Dynamic Multi-Receiver for Cloud Storage
+Computer Communications, Vol. 211, Issue 1 , pp. 157, Elsevier, ISSN: 1873-703X, DOI:10.1016/j.comcom.2023.09.007 07-Sep-2023
+Elsevier
+J_10
+Justin Joseph and Syed Taqi Ali
+Multiparty quantum private comparison based on quantum walks
+Quantum Information Processing, Vol. 22, Issue 1 , pp. 1, Springer, ISSN: 1570-0755, DOI:10.1007/s11128-022-03758-5 12-Dec-2022
+World Scientific Publishing Co Pte Ltd
+J_09
+Venkata Bhikshapathi Chenam and Syed Taqi Ali
+A designated tester-based certificateless public key encryption with conjunctive keyword search for cloud-based MIoT in dynamic multi-user environment
+Journal of Information Security and Applications, Vol. 72, Issue 0 , pp. 1, Elsevier, ISSN: 2214-2126, DOI:10.1016/j.jisa.2022.103377 17-Dec-2022
+IGI Global
+J_08
+Venkata Bhikshapathi Chenam and Syed Taqi Ali
+A designated cloud server-based multi-user certificateless public key authenticated encryption with conjunctive keyword search against IKGA
+Computer Standards and Interfaces, Vol. 81, Issue 1 , pp. 1, Elsevier, ISSN: 0920-5489, DOI:10.1016/j.csi.2021.103603 24-Nov-2021
+IGI Global
+J_07
+Rajashree Gajabe, Syed Taqi Ali
+Secret Key Based Image Steganography In Spatial Domain
+International Journal of Image and Graphics, Vol. 22, Issue 2 , pp. 1, World Scientific , ISSN: 1793-6756, DOI:10.1142/S0219467822500140 06-May-2021
+InderScience Publishers
+J_06
+Mamta, BB Gupta (NITKKR), Syed Taqi Ali (VNIT)
+Dynamic Policy Attribute Based Encryption and its Application in Generic Construction of Multi-Keyword Search
+International Journal of E-Services and Mobile Applications, Vol. 11, Issue 4 , pp. 16, IGI Global Publishing, Hershey, USA, ISSN: 1941-6288, DOI:10.4018/IJESMA.2019100102 01-Oct-2019
+InderScience Publishers
+J_05
+Mamta, BB Gupta (NITKKR), Syed Taqi Ali (VNIT)
+ISEkFT: An IBE-Based Searchable Encryption Scheme with k-Keyword Fuzzy Search Trapdoor
+Journal of Information Technology Research, Vol. 12, Issue 3 , pp. 133, IGI Global Publishing, Hershey, USA, ISSN: 1938-7865, DOI:10.4018/JITR.2019070108 01-Jul-2019
+InderScience Publishers
+J_04
+Gopal Singh Kushwah, Syed Taqi Ali (NITKKR)
+Distributed Denial of Service attacks detection in Cloud Computing using Extreme Learning Machine
+International Journal of Communication Networks and Distributed Systems, Vol. 23, Issue 3 , pp. 328, Inderscience, ISSN: 1754-3924, DOI:10.1504/IJCNDS.2019.101915 02-Jul-2019
+InderScience Publishers
+J_03
+Syed Taqi Ali (NITKKR), BB Amberker (NITW)
+Attribute-Based Group Signature without Random Oracles with Attribute Anonymity
+International Journal of Information and Computer Security, Vol. 6, Issue 2 , pp. 109, Inderscience , ISSN: 1744-1773, DOI:10.1504/IJICS.2014.065162 16-Oct-2014
+InderScience Publishers
+J_02
+Syed Taqi Ali (NITKKR), BB Amberker (NITW)
+Dynamic Attribute Based Group Signature with Verifier-Local revocation and Backward Unlinkability in the Standard Model
+International Journal of Applied Cryptography, Vol. 3, Issue 2 , pp. 148, Inderscience , ISSN: 1753-0571, DOI:10.1504/IJACT.2014.062736 13-Jun-2014
+InderScience Publishers
+J_01
+Syed Taqi Ali (NITW), BB Amberker (NITW)
+A Dynamic Constant Size Attribute Based Group Signature Scheme with Attribute Anonymity
+Int. Journal of Information Privacy, Security and Integrity, Vol. 1, Issue 4 , pp. 312, Inderscience, ISSN: 1741-850X, DOI:10.1504/IJIPSI.2013.058207 11-Dec-2013
+InderScience Publishers
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher
+C_24
+Prathit Aswar and Syed Taqi Ali
+Enhancements to ODXT SSE Scheme: Algorithm Optimization and Leakage Suppression 2024 International Conference on Distributed Systems, Computer Networks and Cybersecurity (ICDSCNC),Springer,Bangaluru,20-21 Sept 2024,”pp.7,DOI:10.1109/ICDSCNC62492.2024.10939532 2024
+Springer
+C_23
+Akansha Singh, Venkata Bhikshapathi Chenam and Syed Taqi Ali
+Enhanced Provably Secure public key encryption with keyword search Scheme for Secure Cloud-based Keyword Search
+THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT),IEEE,IIT Mandi,24-28 June 2024,”pp.8,DOI:10.1109/ICCCNT61001.2024.10725485 2024
+IEEE
+C_22
+Justin Joseph and Syed Taqi Ali,
+Quantum Secure Multiparty Summation based on Quantum Walks
+International Conference on Quantum Technologies, Communications, Computing, Hardware and Embedded Systems Security (iQ-CCHESS’23),IEEE,IIIT Kottayam, Kerela,15-16 Sept 2023,”pp.5,DOI:10.1109/iQ-CCHESS56596.2023.10391635 2023
+Springer
+C_21
+Venkata Bhikshapathi Chenam and Syed Taqi Ali,
+“Bidirectional Certificateless Searchable Authenticated Encryption for Encrypted Email Application in IoT”,
+Second International Conference on Security, Privacy and Data Analytics (ISPDA 2022),Springer,NIT Surat,13-15 Dec 2022,”pp.359,DOI:10.1007/978-981-99-3569-7_26 2022
+Springer
+C_20
+Samiksha Kamble, Chenam Venkata Bhikshapathi and Syed Taqi Ali,
+“A Study on Fuzzy Keywords Search Techniques and Incorporating Certificateless Cryptography”,
+International Conference on Computing, Communication, Security & Intelligent Systems (IC3SIS’ 22),IEEE,SCMS School of Engineering and Technology (SSET), Kochi, Kerala,23-25 June 2022,”pp.1,DOI:10.1109/IC3SIS54991.2022.9885518 2022
+IEEE
+C_19
+Himanshu Gupta and Syed Taqi Ali,
+“Violence Detection Using Deep Learning Techniques”,
+International Conference on Emerging Techniques In Computational Intelligence,IEEE,Mahindra University, Hyderabad,25th – 27th Aug 2022,”pp.1,DOI:10.1109/ICETCI55171.2022.9921388 2022
+IEEE
+C_18
+Abhishek Patel and Syed Taqi Ali,
+“Prediction of Reference Evapotranspiration Data from Raipur Weather Station in Chhattisgarh using Decision Tree based Machine Learning Techniques”,
+International conference on Machine Learning, Image Processing, Network security and Data Science,Springer,NIT Raipur,11th – 12th December 2021,”pp.537,DOI:10.1007/978-981-19-5868-7_39 2021
+Springer
+C_17
+Syed Taqi Ali
+“Traceable and verifier-local revocable attribute-based signature with constant length”,
+International Conference on Security and Privacy (ICSP 2021),Springer,NIT Jamshedpur,16-17 Nov 2021,”pp.132,DOI:10.1007/978-3-030-90553-8_10 2021`
+Springer
+C_16
+Shivansh Mishra, Surjit Singh(NITKKR), Syed Taqi Ali (VNIT),
+“RCDSD: RSA based Cross Domain Secure Deduplication on Cloud Storage”, 9th International Conference on Computing Communication and Networking Technologies,IEEE,IISc Bangalore,10-12 July 2018,”pp.1,DOI:10.1109/ICCCNT.2018.8494127 2018
+IEEE
+C_15
+Shivansh Mishra, Surjit Singh(NITKKR), Syed Taqi Ali (VNIT),
+“MPoWS: Merged Proof of Ownership and Storage for Block Level Deduplication in Cloud Storage”, 9th International Conference on Computing Communication and Networking Technologies,IEEE,IISc Bangalore,10-12 July 2018,”pp.1,DOI:10.1109/ICCCNT.2018.8493976 2018
+IEEE
+C_14
+Humera Aqeel, Syed Taqi Ali,
+“A Provable and User Revocable Ciphertext-Policy Attribute Based Encryption with Updatable Ciphertext” 5th – International Conference on Innovations in Computer Science & Engineering (ICICSE – 2017),Springer,Guru Nanak Institution, Ibrahimpatnam hyderabad,18-19 Aug 2017,”pp.391,DOI:10.1007/978-981-10-8201-6_44 2018
+Springer
+C_13
+Neha Pramanick, Syed Taqi Ali,
+“Searchable Encryption with Pattern Matching for Securing Data on Cloud Server”,
+The Eighth International Conferences on Computing, Communication and Networking Technologies,IEEE,IIT Delhi,3-5 July 2017,”pp.1,DOI: 10.1109/ICCCNT.2017.8204157 2017
+IEEE
+C_12
+Neha Pramanick, Syed Taqi Ali ,
+“A Comparative Survey on Searchable Encryption Scheme”,
+The Eighth International Conferences on Computing, Communication and Networking Technologies,IEEE,IIT Delhi,3-5 July 2017,”pp.1,DOI: 10.1109/ICCCNT.2017.8204032 2017
+IEEE
+C_11
+Gopal Singh Kushwah, Syed Taqi Ali,
+“Detecting DDoS attacks in cloud computing using ANN and black hole optimization”,
+IEEE 2nd International Conference on Telecommunication and Networks (TELNET 2017),IEEE,Amity University Uttar Pradesh,10-11 Aug 2017,”pp.1,DOI: 10.1109/TEL-NET.2017.8343555 2017
+IEEE
+C_10
+Humera Aqeel, Syed Taqi Ali ,
+“Directly Revocable Attribute Based Encryption Scheme under Ciphertext-Policy”,
+International Conference on Computer, Communications and Electronics (Comptelix),IEEE,MNIT Jaipur,1-2 July 2017,”pp.1,DOI:10.1109/COMPTELIX.2017.8003999 2017
+IEEE
+C_09
+A. Rajagopalan, M. Jagga, A. Kumari and S. T. Ali (NITKKR) ,
+“A DDoS Prevention Scheme for Session Resumption SEA Architecture in Healthcare IoT “, 3rd IEEE- International Conference on Computational Intelligence & Communication Technology; CICT-2017,IEEE,ABES Engineering College, Ghaziabad,9-10 Feb. 2017,”pp.1,DOI:10.1109/CIACT.2017.7977361 2017
+IEEE
+C_08
+Shikha Rani, Syed Taqi Ali (NITKKR),
+“Expressive key-policy attribute-based constant-size signature”, 2017 ISEA Asia Security and Privacy (ISEASP),IEEE,SVNIT Surat, Gujarat ,29 Jan.-1 Feb. 2017,”pp.1,DOI:10.1109/ISEASP.2017.7976992 2017
+IEEE
+C_07
+Syed Taqi Ali(NITKKR), Ashraf Sultana, Ajay Jangra (UIET- KUK),
+“Mitigating DDoS Attack using Random Integer Factorization”,
+Fourth International Conference on Parallel, Distributed and Grid Computing (PDGC),IEEE,Jaypee University of Information Technology, Waknaghat, India,22-24 Dec. 2016,”pp.1,DOI:10.1109/PDGC.2016.7913212 2016
+IEEE
+C_06
+Umesh Chandra Yadav, Syed Taqi Ali,
+“Ciphertext Policy-Hiding Attribute-Based Encryption”,
+Fourth International Conference on Advances in Computing, Communications and Informatics (ICACCI 2015) ,IEEE,SCMS School of Engineering and Technology (SSET), Kochi, Kerala,10-13 Aug. 2015,”pp.1,DOI:10.1109/ICACCI.2015.7275921 2015
+IEEE
+C_05
+Srinivasa Rao Routhu, Syed Taqi Ali ,
+“PhishShield: A Desktop Application to Detect Phishing Webpages through Heuristic Approach”,
+Eleventh International Conference on Communication Networks, ICCN 2015,Elsevier,Capitol Hotel Bangalore.,August 21-23, 2015,”pp.147,DOI:10.1016/j.procs.2015.06.017 2015
+Elsevier
+C_04
+Srinivasa Rao Routhu, Syed Taqi Ali,
+“A Computer Vision Technique to Detect Phishing Attacks”,
+IEEE Int. Conference on Communication Systems and Network Technologies (CSNT 2015),IEEE,MIR Labs, Gwalior, MP,4-6 April 2015,”pp.1,DOI:10.1109/CSNT.2015.68 2015
+IEEE
+C_03
+Syed Taqi Ali and B B Amberker,
+“Dynamic Attribute Based Group Signature with Attribute Anonymity and Tracing in the Standard Model”,
+Third International Conference on Security, Privacy, and Applied Cryptography Engineering (SPACE 2013),Springer,IIT Kharagpur,October 19-23, 2013,”pp.147,DOI:10.1007/978-3-642-41224-0_11 2013
+Springer
+C_02
+Syed Taqi Ali and B B Amberker,
+“Short Attribute-Based Group Signature without Random Oracles with Attribute Anonymity”,
+International Symposium on Security in Computing and Communications (SSCC’13) ,Springer,SJCE, Mysore,August 22-24, 2013,”pp.223,DOI:10.1007/978-3-642-40576-1_22 2013
+Springer
+C_01
+Saraiah G, Taqi Ali Syed, Madhu Babu J, Avinash D, Radhesh Mohandas, Alwyn R Pais,
+“Throttling DDoS Attacks”,
+International Conference on Security and Cryptography, SECRYPT 2009,SciTePress ,Milan Italy,July 7-10, 2009,”pp.121,DOI:10.5220/0002229001210126 2009
+ScitePress

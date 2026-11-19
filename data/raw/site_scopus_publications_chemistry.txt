@@ -1,0 +1,256 @@
+SOURCE_URL: https://vnit.ac.in/scopus-publications-chemistry/
+TITLE: Scopus Publications – Chemistry
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No.
+Authors
+Depaprtment
+Title
+Source title
+Document Type 1
+Das R.S.; Kumar A.; Gaharwar S.S.; Senapati S.K.; Mandavgane S.A.
+Department of Chemistry
+DFT simulated Quercetin imprinted polymer: Selective recovery of Quercetin from onion solid waste
+Journal of Chromatography A
+Article 2
+Mourya A.K.; Gaikwad G.S.; Singh R.P.; khagar P.S.; Uke S.J.; Wankhade A.V.
+Department of Chemistry
+ZnO/Ag2ZrO3 nanocomposites: A tailored nanostructure for enhanced supercapacitor, photocatalytic & antimicrobial applications
+Journal of Alloys and Compounds
+Article 3
+Thakur J.S.; Dash O.; Ingle K.S.; Lahoti K.B.; Sudheendranath A.; Bhale N.A.; Dikundwar A.G.; Nayak S.K.
+Department of Chemistry
+Photoresponsive Halogen-Bonded Complexes of 1,3,5-Trifluoro-2,4,6-triiodobenzene and Alkoxyazopyridine Derivatives Based on Py-N···I Interactions: Synthesis, Structural, and Theoretical Insights
+Crystal Growth and Design
+Article 4
+Nandeshwar K.A.; Kodape S.M.; Rathod A.P.; Zodape S.P.
+Department of Chemistry
+Coupling solvent extraction with pervaporation for efficient separation of lycopene from tomato waste using chitosan/polyvinylpyrrolidone (CS/PVP) pervaporative membranes and its optimization study
+Biomass Conversion and Biorefinery
+Article 5
+Gaharwar S.S.; Majumdar A.; Kumar A.
+Department of Chemistry
+Pomegranate peel-derived activated carbon: An effective adsorbent for protocatechuic acid removal and environmental remediation
+Adsorption
+Article 6
+Morla K.S.; Deshmukh T.B.; Aparna R.K.; Sankapal B.R.; Banerjee A.
+Department of Chemistry
+Binder-Free Approach of Mixed-Valent Oxovanadates Anchored on MWCNTs as Supercapacitive Electrodes to Symmetric Supercapacitor Devices: Enriched Performance through the Incorporation of Guest Molecules in Capsular-Shaped Polyanions
+Energy and Fuels
+Article 7
+Gupta S.; Dev J R A.; Prakash Prasad C.; Kumar A.; Kumar Ghosh S.
+Department of Chemistry
+A potent Bioorganic azapodophyllotoxin derivative Suppresses tumor Progression in Triple negative breast Cancer: An Insight into its Inhibitory effect on tubulin polymerization and Disruptive effect on microtubule assembly
+Bioorganic Chemistry
+Article 8
+Satish G.M.; Taylor C.A.; Cowling S.J.; Gammons R.J.; Whitwood A.C.; Thakur J.S.; Dash O.; Ingle K.S.; Nayak S.K.; Bruce D.W.
+Department of Chemistry
+Re-evaluation of the Thermal Behavior of 2:1 Halogen-Bonded Complexes Formed between 4-Alkoxycyanobiphenyls and 1,4-Diiodotetrafluorobenzene
+Crystal Growth and Design
+Review 9
+Malik A.; Saini N.; Das R.S.; Kumar A.; Jain S.L.
+Department of Chemistry
+Light-induced, metal free, and green synthetic approach for N-methylation via coupling of benzylamine, benzaldehyde and CO2 at atmospheric pressure
+Molecular Catalysis
+Article 10
+Morla K.S.; Thakre D.; Deshmukh T.B.; Malo S.; Ahamed S.; Aparna R.K.; Sahoo S.; Sarma D.; Mondal K.C.; Sankapal B.R.; Banerjee A.
+Department of Chemistry
+In-depth understanding of electrochemical energy storage efficiency in a series of new 3d-4d mixed metal polyoxometalates: experimental and theoretical investigations
+Journal of Materials Chemistry A
+Article 11
+Verma M.G.; Das R.S.; Kumar A.
+Department of Chemistry
+Cu–ZrO2@GO scaffold: Visible spectrum triggered caffeine degradation and microbial inactivation
+Ceramics International
+Article 12
+Wajge S.W.; Das C.
+Department of Chemistry
+Investigating the effect of ferric ion on crosslinking of XNBR at higher content
+Journal of Polymer Research
+Article 13
+Garg A.; Pratap U.R.; Banerjee A.; Ghosh S.K.
+Department of Chemistry
+Development of a Dual-State Emissive Naphthalimide-Based Organic Probe: Interesting Synergistic Effects from the Solid State to the Solution Phase
+Crystal Growth and Design
+Article 14
+Nagdeve R.D.; Thakur J.S.; Chandrashekharappa S.; Bairagi K.M.; Deb P.K.; Venugopala K.N.; Mondal P.K.; Polentarutti M.; Alwassil O.I.; Mohanlall V.; Nayak S.K.
+Department of Chemistry
+Crystal structure, hydrogen bonding interactions, Hirshfeld surfaces, energy frameworks, and DFT calculation of Diethyl 3-(4-substitutedbenzoyl)indolizine-1,2-dicarboxylates
+Journal of Molecular Structure
+Article 15
+Zalke A.A.; Zaidi Z.; Sorokhaibam L.G.
+Department of Chemistry
+Desulfurization of simulated and commercial liquid fuel on nano-ZnO fabricated walnut shells
+Environmental Science and Pollution Research
+Article 16
+Nandeshwar K.A.; Kodape S.M.; Rathod A.P.
+Department of Chemistry
+Techno-Economic Analysis of Lycopene Production from Tomato Waste Using the Pervaporation Process
+Industrial and Engineering Chemistry Research
+Article 17
+Shelke B.N.; Jopale M.K.; Pratap U.R.; Kategaonkar A.H.
+Department of Chemistry
+Optimization of orange G and indigo carmine dye sequestration by incense stick ash: characterisation, isotherm, and kinetic analysis
+Biomass Conversion and Biorefinery
+Article 18
+Vaithiyalingam M.; Mohan Kumar R.; Khagar P.; Sabarathinam S.; Alghazwani Y.; Chidambaram K.
+Department of Chemistry
+Isolation of 6-gingerol and semi-synthesis of 1,4-benzodiazepines derivatives: An in-situ pharmacokinetics properties, molecular docking and molecular dynamics simulation assessments
+Saudi Journal of Biological Sciences
+Article 19
+Madhusree J.E.; Banerjee A.; Mal S.S.
+Department of Chemistry
+Organic-inorganic hybrid mixed-valent bisphosphonate-polyoxovanadates composites with activated carbon for energy storage applications
+Novel Materials for Energy Translation and Storage
+Book chapter 20
+Dudure R.; Pritam P.; Kumar Panda A.; Kumar Ghosh S.; Jadhao M.
+Department of Chemistry
+Mechanistic exploration of Perfluorooctanoic Acid-Induced Hen egg white lysozyme aggregation at physiological Conditions: Spectroscopic and thermodynamic insights
+Journal of Molecular Liquids
+Article 21
+Lingait D.; Sethy L.K.; Kumar A.
+Department of Chemistry
+Biopolymer sporopollenin reinforced pectin/PVA composite films for sustainable packaging application
+Sustainable Chemistry and Pharmacy
+Article 22
+Verma A.; Sahay S.S.; Nayak S.S.; Bhagat S.; Dani S.H.; Nayak B.; Pratap U.R.
+Department of Chemistry
+A green and metal-free one-pot three-component synthesis of thiazolobenzimidazoles in sustainable deep eutectic solvent
+Inorganic Chemistry Communications
+Article 23
+Ghugal S.G.; Ramteke P.; Kumar Tadi K.; Sarkar S.; Mary Gali S.; Umare S.S.; Lee W.; Jeong Y.; Yoon J.
+Department of Chemistry
+Visible light assisted photocatalytic performance of Europium doped ZnS-Nb2O5 heterostructure for mineralization of Acid violet 7 dye
+Journal of Photochemistry and Photobiology A: Chemistry
+Article 24
+Jain P.; Deolikar G.L.; Shrivastava A.; Motghare R.V.
+Department of Chemistry
+Synthesis and evaluation of mixed 3d transition metal organic frameworks for energy application
+Materials Today Communications
+Article 25
+Chakraborty S.; Das K.; Halder S.
+Department of Chemistry
+A review on chemo sensors and fluro sensors of mercury ions
+Inorganica Chimica Acta
+Article 26
+Chandak A.S.; Jain A.; Zodape S.P.
+Department of Chemistry
+Physiochemical study of 1-methyl imidazole trifluoro methane sulfonate ionic liquid in aqueous and aqueous amino acid solutions at different temperatures
+Chemical Physics Impact
+Article 27
+Ambilkar S.C.; Singal T.; Das C.
+Department of Chemistry
+Diverse role of zirconia in developing polymeric composites
+Polymer Bulletin
+Review 28
+Kurhade P.; Kodape S.; Junghare K.; Wankhade A.
+Department of Chemistry
+Green synthesis of MgO nanoparticles using the flower extracts of Madhuca longifolia and study of their morphological and antimicrobial properties
+Biomass Conversion and Biorefinery
+Article 29
+Wajge S.W.; Basu D.; Das A.; Mandal S.; K. Maji P.; Singh S.; Das C.
+Department of Chemistry
+Dynamic co-ordination networks in carboxylated nitrile rubber and development of self-healing and recyclable rubber composites
+Journal of Polymer Science
+Article 30
+Roy S.; Das K.; Halder S.
+Department of Chemistry
+Development of Suitable Hydrogen Bond Donor (HBD) Catalysts for the Synthesis of Cyclic Carbonates and Dithiocarbonates from Epoxide
+Catalysis Letters
+Article 31
+Singh R.P.; Shiwankar M.M.; Maurya A.K.; Talmale A.S.; Gaikwad G.S.; Wankhade A.V.
+Department of Chemistry
+Silver zirconate: A versatile visible light harvesting photocatalyst for oxygen evolution, PMS activation, and bactericidal activity
+Journal of Photochemistry and Photobiology A: Chemistry
+Article 32
+Ramteke P.; Bhoyar T.; Umare S.S.
+Department of Chemistry
+Enhanced Visible Light Photocatalytic Activity of Exfoliated Boron-TiO2 Composite for Degradation of Rhodamine B and Nitrogen Fixation
+ChemistrySelect
+Article 33
+Dadhe P.S.; Mandavgane S.A.; Kumar A.
+Department of Chemistry
+Extraction of 4-hydroxy benzoic acid from potato processing industrial waste
+International Journal of Chemical Reactor Engineering
+Article 34
+Gaharwar S.S.; Kumar A.; Mandavgane S.A.; Rahagude R.; Gokhale S.; Yadav K.; Borua A.P.
+Department of Chemistry
+Valorization of Punica granatum (pomegranate) peels: a case study of circular bioeconomy
+Biomass Conversion and Biorefinery
+Article 35
+Barai R.M.; Kumar D.; Wankhade A.V.
+Department of Chemistry
+Experimental Study of Graphene Oxide Nanofluid for Heat Transfer Application
+AIP Conference Proceedings
+Conference paper 36
+Banerjee A.; Paul B.; Marakatti V.S.
+Department of Chemistry
+Bioinspired catalysis with biomimetic clusters
+Bioderived Materials: Harnessing Nature for Advanced Biochemical Handiwork
+Book chapter 37
+Fartode S.A.; Fartode A.P.; Shelke T.R.; Wankhade A.V.; Dhoble S.J.
+Department of Chemistry
+A Preliminary Study of Thermoluminescence and Its Dosimetric Application: A Review
+AIP Conference Proceedings
+Conference paper 38
+Wajge S.W.; Das C.
+Department of Chemistry
+An Alternate Approach of Cross-Linking XNBR via Ferric-Carboxylate Interaction Assisted by Dimethylaminopyridine
+ACS Applied Polymer Materials
+Article 39
+Singh R.P.; Mourya A.K.; Gaikwad G.S.; Uke S.J.; Wankhade A.V.
+Department of Chemistry
+Silver Zirconate: A robust material for supercapacitor application, photocatalytic water splitting and photoactivation of persulfate ion for environmental remediation
+International Journal of Hydrogen Energy
+Article 40
+Roy S.; Das K.; Santra S.; Zyryanov G.V.; Halder S.
+Department of Chemistry
+Development of Silica-Immobilized Material as Heterogeneous Hydrogen Bond Donor (HBD) Catalyst: Synthesis of Cyclic Carbonates from CO2 and Epoxides
+ChemistrySelect
+Article 41
+Banerjee S.; Singh P.; Purkayastha P.; Kumar Ghosh S.
+Department of Chemistry
+Evolution of Organic Light Emitting Diode (OLED) Materials and their Impact on Display Technology
+Chemistry – An Asian Journal
+Review 42
+Patel V.; Jain A.; Zodape S.P.
+Department of Chemistry
+Exploring the Molecular Interactions of 1,3-Dimethylimidazolium Methyl Sulfate Ionic Liquid in Aqueous and Aqueous l-Alanine Solutions at Various Temperatures
+Journal of Chemical and Engineering Data
+Article 43
+Wahurwagh S.A.; Bhagat S.; Talmale A.S.; Wankhade A.V.; Zodape S.P.; Pratap U.R.
+Department of Chemistry
+Integration of ZnO into Polyhedral Oligomeric Silesquioxane (POSS) for Enhanced Adsorption and Removal of Malachite Green Dye from Aqueous Solution
+Journal of Inorganic and Organometallic Polymers and Materials
+Article 44
+Jain A.; Chandak A.S.; Zodape S.P.
+Department of Chemistry
+Thermophysical and Computational Studies of 1-(2-Hydroxyethyl)-3-methylimidazolium Chloride Ionic Liquid in Aqueous and Aqueous l-Alanine Solutions
+Journal of Chemical and Engineering Data
+Article 45
+Manna S.; Das K.; Halder S.
+Department of Chemistry
+Hydrogen Bond Donor-Catalyzed One-Pot Transformations of 2,2-Disubstituted Epoxides: Synthesis of Functionalized Nitrile-Rich Derivatives
+Journal of Organic Chemistry
+Article 46
+Nageshwar P.; Wajge S.W.; Dhakar G.L.; Thakre A.A.; Tripathi S.; Singh S.; Maji P.K.; Das C.
+Department of Chemistry
+Fabrication of Zinc(II) Mediated Poly(Acrylamide Co Acrylic Acid) Hydrogel with Thixotropic and Tribological Properties
+Macromolecular Rapid Communications
+Article 47
+Verma M.G.; Das R.S.; Bhardwaj A.K.; Kumar A.
+Department of Chemistry
+Global status of biogenic and nonbiogenic waste production and their employability in nanomaterial production
+Green and Sustainable Approaches Using Wastes for the Production of Multifunctional Nanomaterials
+Book chapter 48
+Singh S.; Maji P.K.; Das C.
+Department of Chemistry
+Nanocellulose as a reinforcing filler in natural rubber composites
+Elastomeric Nanocellulose Composites
+Book chapter 49
+Mourya A.K.; Singh R.P.; Belgamwar R.; Polshettiwar V.; Wankhade A.V.
+Department of Chemistry
+Synergistic Effect of Dendritic Fibrous Nanosilica and In2O3 Photocatalysts for Enhanced Visible-Light-Driven Hydrogen Generation
+Industrial and Engineering Chemistry Research
+Article

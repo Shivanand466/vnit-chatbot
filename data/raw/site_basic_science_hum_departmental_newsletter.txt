@@ -1,0 +1,16 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/hum/departmental-newsletter/
+TITLE: Departmental Newsletter – VNIT NAGPUR HUMANITIES & SOCIAL SCIENCES DEPARTMENT
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Departmental Newsletter
+News Letter Issue 1
+News Letter Issue 2
+News Letter Issue 3
+News Letter Issue 4
+News Letter Issue 5
+News Letter Issue 6
+News Letter Issue 7
+News Letter Issue 8
+News Letter Issue 9
+News Letter Issue 10

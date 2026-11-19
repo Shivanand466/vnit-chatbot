@@ -1,0 +1,227 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-a-s-mokhade/
+TITLE: Prof. A. S. Mokhade​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Prof. A. S. Mokhade​
+Brief Bio
+Brief Bio
+Associate Professor
+Anil Mokhade (he/him) is a dedicated educator and mentor who fosters a supportive and integrity-driven learning environment. With a rich blend of academic and professional experience, Anil is committed to educational excellence and continuous learning, contributing significantly to the field of Computer Science & Engineering, while nurturing the growth and success of students
+Professional Experience:
+Former positions at Wipro InfoTech and the National Institute of Science, Technology, and Development Studies, New Delhi
+Three years of administrative experience as Deputy CEO in the Rural Development Department, Government of Maharashtra
+Teaching Experience:
+27 years to date at VNIT, Nagpur in the Department of Computer Science &amp; Engineering
+Courses taught:
+Business Data Processing, Business Information Systems, Software Architecture, Computer Networks, Computer Graphics, Operating Systems, Software Engineering
+Currently teaching:
+Software Engineering to B. Tech. CSEs;  Introduction to Systems Engineering, Learning From Software Technical History to B.Tech, M.Tech, and Research Scholars of CSE dept.
+To know more about courses Click Here
+Additional Roles and Contributions:
+Undertook two research projects and developed a lab.
+Conducting consultancy services
+Organizing Faculty Development Programs (FDPs) and delivering guest lectures at various engineering colleges
+Serving on the Board of Studies for two engineering colleges
+Undertaking various responsibilities assigned by the department and the institute with utmost dedication
+Organized professional training for the Student Mentor Program for six years from its inception.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.E.
+1986
+Mechanical Engg.                            VRCE (Now VNIT) 2
+M. Tech.
+Jan 1988
+Computer Science                            IIT, Bombay 3
+Ph. D.
+2016
+Computer Science                            VNIT
+Contact Details
+Phone:
+Email:
+Address:
+0712-280 1048 asmokhade@cse.vnit.ac.in
+VNIT, Nagpur
+Research Interest
+Software Engineering
+Systems Engineering
+Data Analytics
+AI Engineering
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Parellel & Distributed Computing(TAPTEC)
+AICTE 1996-98
+Rs. 8 lakhs 2
+Setting up Business Information System Laboratory by Modifying old Business Data Processing Laboratory (MODROB)
+MHRD 2005-07
+Rs. 9 lakhs 3
+Development of Software Testing Tools Using Performance & Functional Testing Methodologies & Certification Program (R&D)
+MHRD 2005-2008
+Rs. 12 lakhs
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+The verification of servers, Desktop Computers, Operating systems, and other software as per specification was carried out for NMC Computer section.
+Nagpur Municipal Corporation
+April 2006
+Rs. 32076=00 2
+The query fired in the Birth & Death Certification Software was taking long time to process. Complete Oracle database system was tested on various parameters like Buffer Catch Hit Rate, Number of Physical Reads etc.
+Nagpur Municipal Corporation
+December- January 2010-11
+Rs. 1000/- per hour for 5 hours 3
+Evaluation of Finincial System Software
+Maharashtra Anilmal & Fishery Sciences University, Nagpur
+May-June 2011
+Rs.22,060/- 4
+Draft Request for Proposal for proposed Data Centers
+Nagpur Improvement Trust
+June 2011
+Rs.44120/- 5
+Request for Proposal Evaluation for proposed Data Centers
+Nagpur Municipal Corporation
+Feb-June 2012
+Rs.48,120/ 6
+Evaluation of Technical Bid for “Expression of Interest” for proposed Single Window System for Waste Disposal & Management Activities (Attendance, Sweeping, Transportation etc.)
+Nagpur Municipal Corporation
+May-June 2013
+Rs.11,236/- 7
+IT Audit of eROC- Registration of Contractors Software
+Public Works DepartmentGovt. of Maharashtra
+Jan – Match 2014
+Rs.44,944/- 8
+Technical Evaluation of tenders for ‘Web Based Online Admission Process and Student Cycle Management Software’ (Ready to Use)
+Maharashtra Animal & Fishery Science University, Nagpur
+June 2014
+Rs. 17,978/- 9
+Automated Meter Reading – Software Development
+Maharashtra State Electricity Transmission Corporation Ltd.
+Phase I – Rs. 12,00,000/-Phase II –Rs. 28,00,000/ 10
+Corporate Data Warehouse System
+Maharashtra State Electricity Transmission Corporation Ltd.
+Rs. 20,00,000/-
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Operating System
+MacMillan PublicationS.R.Sathe & Anil S. Mokhade
+S.R.Sathe & Anil S. Mokhade 2009
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+“Data Warehousing & Data Mining” -, two weeks organized from 16/06/08 to 28/06/08 (two weeks),  as a Co-coordinator 2
+“Multi-Dimensional Data  Analysis & Data Mining-2009(STC-MDADM-09)” – One weeks organized from 22nd June to 26th June 2009   as Co-cordinator 3
+“16th International Conference on  Management of Data (COMAD-2010)” Organized by CSI and VNIT, from 8th Dec to 10th Dec 2010, worked as Organizing Co-chair
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Chairman
+Admission Committee for Under Graduate 2018-19 2
+Vice-Chairman
+Admission Committee for Under Graduate 2017-18 3
+Coordinator
+NBA Program for Under Graduate, Dept. of CSE 2022 4
+Academic Auditor
+Govt. College of Engineering, Dept. of Computer Science & Engg. and Dept. of IT 2013, 2014, 2015, 2016, 2017,2018 5
+Resources Person for  “Curriculum Development Workshop”
+Yeshwantrao Chavan College of Engg.
+2007 6
+Member of the Inspection Team
+Director Technical Education, Govt. of Maharashtra for opening new engineering college / increase in intake  in Nagpur district for the session 2008-09 and inspected 20 engineering and management colleges 2008-09 7
+Life member of Computer Society of India 8
+Professional Membership of Association of Computing Machinery (ACM) 9
+Professional Membership Institute of Electrical & Electronics Engineers (IEEE) 10
+Member of  Board of Studies of Dept. of Computer Science , Govt. College of Engineering, Amaravati
+Sr. No.
+Awards
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 6
+Anil S. Mokhade & Omprakash G. Kakde
+“Overview of Selection Schemes in Real-coded Genetic Algorithms and Their Applications”,
+, Journal of Industrial and Intelligent Information, Vol. 2, No. 1 March 2014, pp 71-76 5
+Amit Shewale, Anil Mokhade, Nitesh Funde, & Neeraj Dhanraj Bokde,
+“An Overview of Demand Response in Smart Grid and Optimisation Techniques for Efficient Residential Appliance Scheduling Problem”,
+Energies, 13(16), 4266; https://doi.org/10.3390/en13164266 4
+Amit Shewale, Anil Mokhade, Nitesh Funde, & Neeraj Dhanraj Bokde,
+“A Survey of Efficient Deman-Side Management Techniques for the Residential Appliance Scheduling Problem in Smart Homes”,
+Energies, 2022, 15(8),2863; https://doi.org/10.3390/en15082863 3
+Vrushali Bongirwar, A. S. Mokhade,
+“Different methods, techniques and their limitations in protein structure prediction: A review,
+Progress in Biophysics and Molecular Biology, Available Online 16 May, 2022; https://doi.org/10.1016/j.pbiomolbio.2022.05.002 2022 2
+Santosk K Sahu Skumar, Anil Mokhade,
+“Stochastic Modeling Using Ensemble of Machine and Deep Learning for Intraday Stock Trading”
+SSRN Electronic Journal, Available online January 2022, DOI: 10.2139/ssrn.4137577 2022 1
+Vrushali Bongirwar, A. S. Mokhade,
+“An improved multi-scale convolutional neural network with gated recurrent neural network model for protein secondary structure prediction”,
+Neural Computing and Applications, Springer, Available online 13 May 2024, https://doi.org/10.1007/s00521-024-09822-8 2024
+Springer
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+Mokhade A.S.,
+“Scenario Based Decision Support System for Power Optimization”,
+National Conference on Energy, Communication & Computer Systems – NCECC, February 2-4, 2006 MAIT, New Delhi 2006 2
+Prashant Dahiwale, Anil Mokhade, M.M. Raghuwanshi
+“Intelligent Web Crawler”,
+,ACM International Conference and Workshop on Emerging Trends in Technology (ICWET 2010) – TCET, Mumbai, India -2010 2010 3
+Amit Khapardey, Anil Mokhade, Prashant Dahiwale,
+“Goal Oriented Ranking Scheme”,
+ACM International Conference and Workshop on Emerging Trends in Technology(ICWET2010) 2010 4
+Mokhade A. S.,
+”Achieving Excellence in Research with Problem-Solving Attitude and Techno-Managerial Approach-Refreshing Lessons for Leadership in Higher Education”, 2nd National Conference on “Excellence in Higher Education”- Transformational Leadership, June 28 – 30,2012, Department of Management Studies, IIT Delhi 2012 5
+Anil S. Mokhade & Omprakash G. Kakde,
+“Overview of Selection Schemes in Real-coded Genetic Algorithms and Their Applications”, 2nd International Conference on Software and Intelligent Information (ICSII 2013) (Workshop of ICGIP-2013), October 26-27, 2013, Hong Kong, By International Association of Computer Science and Information Technology.
+2013 6
+Anil S. Mokhade & Omprakash G. Kakde,
+“Overview of Selection Schemes in Real-coded Genetic Algorithms and Their Applications”,
+Journal of Industrial and Intelligent Information, Vol. 2, No. 1 March 2014, pp 71-76 2014 7
+Amit Shewale, Anil Mokhade, Nitesh Funde, & Neeraj Dhanraj Bokde,
+“An Overview of Demand Response in Smart Grid and Optimisation Techniques for Efficient Residential Appliance Scheduling Problem”
+Energies, 13(16), 4266; https://doi.org/10.3390/en13164266 8
+Amit Shewale, Anil Mokhade, Nitesh Funde, & Neeraj Dhanraj Bokde,
+“A Survey of Efficient Deman-Side Management Techniques for the Residential Appliance Scheduling Problem in Smart Homes”,
+Energies, 2022, 15(8),2863; https://doi.org/10.3390/en15082863 2022 9
+Vrushali Bongirwar, A. S. Mokhade,
+“Different methods, techniques and their limitations in protein structure prediction: A review,
+Progress in Biophysics and Molecular Biology, Available Online 16 May, 2022; https://doi.org/10.1016/j.pbiomolbio.2022.05.002 2022 10
+Santosk K Sahu Skumar, Anil Mokhade
+“Stochastic Modeling Using Ensemble of Machine and Deep Learning for Intraday Stock Trading”
+, SSRN Electronic Journal, Available online January 2022, DOI: 10.2139/ssrn.4137577 2022 11
+Vrushali Bongirwar, A. S. Mokhade,
+“An improved multi-scale convolutional neural network with gated recurrent neural network model for protein secondary structure prediction”,
+Neural Computing and Applications, Springer, Available online 13 May 2024, https://doi.org/10.1007/s00521-024-09822-8 2024
+Springer

@@ -1,0 +1,102 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-krishnama-raju-suraparaju/
+TITLE: Dr. Krishnama Raju Suraparaju
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Krishnama Raju Suraparaju
+Brief Bio
+Brief Bio
+Dr. Krishnama Raju is an Assistant Professor in the Department of Electrical Engineering, with a specialization in Control Systems. He holds both M.Tech and Ph.D. degrees in Control Systems, and has a strong passion for applying advanced control and machine learning techniques to modern power and energy systems.
+His current research focuses on the application of Machine Learning and Reinforcement Learning to Power Electronic Converters and Microgrids, aiming to develop intelligent and adaptive control strategies for real-world energy systems. He has also worked extensively on fuzzy logic-based control for renewable energy systems, particularly in Wind energy integration.
+He is keen to mentor motivated undergraduate and postgraduate students interested in control systems, power electronics, and AI-based energy solutions. His research group actively explores innovative ideas that bridge theory with practical implementation, using hardware-in-the-loop (HIL) systems.
+If you’re enthusiastic about shaping the future of smart and sustainable energy through advanced control and learning algorithms, you are welcome to join his research group.
+Education
+Degree
+Year
+Specialization
+University
+AMIE(UG) 2005
+Electrical Engineering
+Institution of Engineers(India)
+M.Tech 2011
+Control systems Engineering
+IIT Kharagpur
+Ph.D.
+2016
+Electrical Engineering
+IIT Roorkee
+PostDoc 2019
+Hybrid Electric Vehicles
+University of Warwick, UK
+Contact Details
+Phone:
+Email:
+Address:
+(+91-712-280-2228) krs@eee.vnit.ac.in; skrajuvnit@gmail.com 211, New Academic Building, VNIT Nagpur
+Research Interest
+Research Interest 1. Application of Artificial Intelligence to Electrical Systems especially Power Electronics and Microgrid Control 2. Control Systems
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Krishnama Raju, S. (2023). Application of Type-2 Fuzzy Logic Controllers in Renewable Energy Systems. In: Castillo, O., Kumar, A. (eds) Recent Trends on Type-2 Fuzzy Logic Systems: Theory, Methodology and Applications. Studies in Fuzziness and Soft Computing, vol 425.
+Krishnama Raju, S.,Castillo, O., Kumar, A.
+Springer, Cham
+Online ISBN978-3-031-26332-3; Print ISBN978-3-031-26331-6 2023
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Sr. No.
+Responsibility
+Year
+Year
+Awards
+S.No.
+Paper Citation 1
+Ravi Maloth and K. Suraparaju, “A Unified Observer-Based Sensor-less Operation of DC-DC Converters and DC Motor,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 2026, pp. 1-6, doi: 10.1109/SEFET69291.2026.11687471.
+2
+Ravi Maloth and K. Suraparaju, “Enhanced Voltage Control of DC-DC Boost Converters Using Deep Q-Network Learning Agent,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 2026, pp. 1-6, doi: 10.1109/SEFET69291.2026.11687320 3
+A. Prabhughate, P. Pande, G. Savale, K. Tiwari and K. Raju S, “Fault Diagnosis for Power Electronic Inverters: A Data Driven Approach,” 2025 22nd International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), Bangkok, Thailand, 2025, pp. 1-6, doi: 10.1109/ECTI-CON64996.2025.11101660.
+4
+L. Goyal, P. Dave, A. Dhabale and S. Krishnama Raju, “A Two Stage Approach of Route Planning for UAVs in Logistic Distribution,” 2024 International Conference on Futuristic Technologies in Control Systems & Renewable Energy (ICFCR), Malappuram, India, 2024, pp. 1-6, doi: 10.1109/ICFCR64128.2024.10763026.
+5
+A. Singhal, H. M. Suryawanshi, K. R. Suraparaju, P. P. Nachankar, D. Govind and C. L. Narayana, “An Improved Dual Fixed Frequency SOGI-PLL For Three-phase Grid-Connected Converter Under Unbalanced Condition,” 2022 IEEE IAS Global Conference on Emerging Technologies (GlobConET), Arad, Romania, 2022, pp. 687-691, doi: 10.1109/GlobConET53749.2022.9872473.
+6
+R. Bhandare, K. Vaidya and K. R. Suraparaju, “Grid Synchronization using Machine Learning,” 2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon), Mysuru, India, 2022, pp. 1-6, doi: 10.1109/MysuruCon55714.2022.9972611.
+S.No.
+Paper Citation 1
+S. Krishnama Raju and G. N. Pillai, “Design and Implementation of Type-2 Fuzzy Logic Controller for DFIG-Based Wind Energy Systems in Distribution Networks,” IEEE Transactions on Sustainable Energy, vol. 7, no. 1, pp. 345–353, 2016. https://doi.org/10.1109/TSTE.2015.2496170 (ISSN/ISBN : 1949-3029 2
+S. Krishnama Raju and G. N. Pillai, “Design and real time implementation of type-2 fuzzy vector control for DFIG based wind generators,” Renewable Energy, vol. 88, pp. 40–50, Apr. 2016. https://doi.org/10.1016/j.renene.2015.11.006   ( ISSN/ISBN : 0960-1481 3
+S Krishnama Raju and GN Pillai, “Type-2 Fuzzy Logic based Robust Control Strategy for Power Sharing in Microgrids with Uncertainties in Operating conditions,” International Transaction on Electrical Energy Systems,27(4),pp. 2294, 2017. https://doi.org/10.1002/etep.2294 (ISSN/ISBN : 2050-7038 4
+Shihabudheen KV, Raju SK, Pillai GN. “Control for grid‐connected DFIG‐based wind energy system using adaptive neuro‐fuzzy technique“, International transactions on electrical energy systems. 2018 May;28(5):e2526, https://doi.org/10.1002/etep.2526 5
+Shihabudheen KV, Pillai GN, Krishnama Raju S. “Neuro-Fuzzy Control of DFIG Wind Energy System with Distribution Network“, Electric Power Components and Systems. 2018 Aug 9;46(13):1416-31,  ISSN/ISBN:1532-5016

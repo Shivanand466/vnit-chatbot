@@ -1,0 +1,105 @@
+SOURCE_URL: https://vnit.ac.in/engineering/meta/infrastructure/
+TITLE: Infrastructure – Department of Metallurgical & Materials Engineering
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Infrastructure
+Chemical Analysis Laboratory
+Location :
+First floor, Old Building of Department
+Leco Carbon-Sulphur analyzer
+Oven ( Programmable )
+Vacuum Oven
+Previous
+Next
+Computational Material Science Laboratory
+Location : First floor, Materials Engineering Centre
+Corrosion Laboratory
+Location : First floor, Old building of Department
+Biologic Potentiostat 8 Channel
+Incubator
+Solartron 1245
+Versa Stat 3
+Previous
+Next
+Creep Laboratory
+Location : Ground floor, Materials Engineering Centre
+Creep Machine
+Small Punch Creep Testing Machine
+Previous
+Next
+Foundry Laboratory
+Location : Ground floor, Old Building of Department
+Clay Washer Tester
+Permeability Tester
+Shatter Index Tester
+Universal compression and shear strength machine
+Mouldability Index Tester
+Previous
+Next
+Fatigue Laboratory
+Location :  Ground floor, Old Building of Department
+Low cycle fatigue BISS 100kN equipment
+Low cycle fatigue INSTRON 100kN equipment
+Resonance based high cycle fatigue system (RUMUL Make; Model – Testronic)
+Previous
+Next
+Heat Treatment Laboratory
+Location : Ground floor, Materials Engineering Centre
+Mineral Dressing Laboratory
+Location : Ground floor, Old Building of Department
+Disc Crusher
+Jaw Crusher
+Roll Crusher
+Previous
+Next
+Physical Metallurgy Laboratory
+Location : First floor, Materials Engineering Centre
+Disc Polishing Machine
+Metallurgical Microscope
+Mounting Process
+PR 15
+Previous
+Next
+Polymer Processing Laboratory
+Location : First floor, New Academic Building
+Contact Angle Measurement Setup
+Melt Flow Index Measurement
+Spin Coating Unit
+Previous
+Next
+XRD AND SEM  Laboratory
+Location : Ground floor, Materials Engineering Centre
+Scanning-Electron-Microscope-SEM-300x225
+X-Ray-Diffractometer-XRD-246x300
+Previous
+Next
+Testing of Materials Laboratory
+Location : Ground floor, Materials Engineering Centre
+Charpy cum Izod Impact Testing Machine
+Instron 8502
+Instron 8802
+Optical Brinell Hardness Tester
+Rockwell Hardness Tester
+Vickers Microhardness Tester
+Previous
+Next
+Thermal Laboratory
+Location : First floor, Materials Engineering Centre
+Edmund Buhler arc melting furnace
+Perkin Elmer Thermo-gravimetric analyzer (TGA)
+Simultaneous thermal analyzer (STA)
+Previous
+Next
+Wear Laboratory
+Location :  Ground floor, Old Building of Department
+Airjet erosion tester
+Jet type slurry erosion tester
+Pot type slurry erosion tester
+Previous
+Next
+Welding and Joining Laboratory
+Location :  Ground floor, Old Building of Department
+Workshop
+Location :  Ground floor, Old Building of Department
+Rolling Mill

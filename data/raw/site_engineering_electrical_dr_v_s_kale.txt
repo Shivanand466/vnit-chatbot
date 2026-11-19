@@ -1,0 +1,281 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-v-s-kale/
+TITLE: Dr. V.S. Kale
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. V.S. Kale
+Brief Bio
+Brief Bio 1. B.E. and M. Tech. from V.R.C.E., Nagpur and Ph.D. from VNIT, Nagpur 2. Working as a Professor in the department of Electrical Engineering, VNIT 3. Teaching experience: 38 years 4. Area of specialization: Power System Protection, Application of AI in electrical engineering 5. Ph D Guided: 05 6. PG Dissertation Guided: 23 7. Patents: 2 8. Research Publications: 85 (Journals: 35 Conferences: 50) 9. Research Awards: 07 10. Consultancy: 1) Tribal Commissionerate, Govt. of Maharashtra, 2) Maharashtra Jeevan Pradhikaran, Govt. of Maharashtra 3) MSETCL, Govt. of Maharashtra 4) NBCC (India) Ltd. 5) Okaya Power 6) Blue Star Vishwa Infra JV 11. Workshops organized: 4 12.  Book Chapter: 1 13.  Administrative Assignments: 2) Associate Dean (Electrical Works) 2) Chairman, DASA Admission Committee 3) Hostel Warden 4) Professor In-charge of student techfest AXIS 14. Member of IEEE, USA, Institution of Engineers (India), Kolkata and Life Member of ISTE, New Delhi.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph D 2011
+Electrical Engineering
+VNIT Nagpur 2
+M Tech 1994
+Electronics
+Nagpur University 3
+B E 1986
+Electronics and Power
+Nagpur University
+Contact Details
+Phone:
+Email:
+Address:
+9890042531 vskale@eee.vnit.ac.in
+Department of Electrical Engineering, VNIT, Nagpur
+Research Interest
+Research Interest
+Power System Protection, Application of AI in electrical engineering
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Scrutiny of electrical estimates of Eklavya residential school buildings for technical sanction
+Tribal Commissionerate, Govt. of Maharashtra
+Coordinator 2017- 2019 5.87517 2
+Third party protection audit at 400kV Substation
+MSETCL
+Coordinator 2018 2.95 3
+Scrutiny of PLC control wiring for SCADA Automation System for water supply scheme at various places
+Maharashtra Jeevan Pradhikaran
+Coordinator 2019-2023 4.65864 4
+Vetting of ozonization system drawings
+MIDC Division Nagpur
+Coordinator 2024 0.354 5
+Vetting of designs and drawings of PWS
+Blue Star
+Coordinator 2024 5.9
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Application of Metaheuristic Algorithms in various aspects of electrical transmission and distribution systems protection
+Vijay Kale, Prashant Bedekar, Anamika Yadav
+CRC press (T & F Group) 978-0-367-55238-1 2021
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Application of SIPS for Effective Power Grid Management 202022100304 1. Jan 28, 2022.
+Granted 2
+A System for The Detection of High-Impedance Faults in Electrical Distribution Lines 202421001343
+April 2024
+Published
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Advances in Power Systems
+PowerGrid, Nagpur
+VNIT
+December 4-8, 2017 25
+Recent trends in Power System
+PRDC, Bangalore
+VNIT
+July 16-20, 2018 30
+Advances in Power Systems
+PowerGrid, Nagpur
+VNIT
+January, 21-25, 2019 26
+Simulation Software in Power System
+PRDC, Bangalore
+VNIT
+March 6-10, 2019 34
+Sr. No.
+Responsibility
+Year 1
+Associate Dean (Electrical Works) 2016-18 2
+Chairman DASA/ICCR/SII Admissions 2021-2023 3
+Hostel Warden 2011 to 2016 4
+Professor In-charge of student activity AXIS 2019-2022
+Year
+Awards 2024 1. Certificate of Achievement for significant contribution to International Conference, ICIAI-24, March 2024 held at Tokyo, Japan.
+2023 2. Best paper award for the research paper titled “A novel method for generator protection against power swing with ML-Fuzzy based intelligent relays” in International Conference, ICRCET-2023, held at Jakarta, Indonesia.
+2020 3. Best paper award for the research paper titled “Performance analysis of RDS by optimal deployment of DG and DSTATCOM considering network reconfiguration using SAR algorithm” in Springer International Conference, ICICA -20, Dec. 2020.
+2018 4. Best paper presentation award for the research paper titled “Application of metaheuristic algorithms for optimal allocation of DGs in RDS” in International Conference IFERP-18, Feb. 2018.
+2009 5. Best paper award for the paper titled “TW based fault location suing WT” from IEEE Bangalore Section, August 2009.
+2002 6. The Sir Thomas Ward Memorial Medal for the paper entitled “A precision output comparator as a non-linear system building block”, from Institution of Engineers, Dec. 2002.
+1998 7. Certificate of Merit for the research paper entitled “A new method of direction sensing for drive control and phase sequence detection” from Institution of Engineers, Jan. 1998.
+S.No.
+Paper Citation 1
+S. Khond, V. Kale, and M. S. Ballal, “A Combined Data Mining and Ensembled Machine Learning based Solution for High Impedance Fault Detection in Distribution Systems”, International Conference on Innovation in Artificial Intelligence (ICAI, 2024), (presented) 2
+S. Khond, V. Kale, and M. S. Ballal, “A Novel Method for Generator Protection against Power Swing with Machine Learning-Fuzzy based Intelligent Relay”, International Conference on Recent Challenges in Engineering and Technology, Jakarta, Indonesia, (Presented) 3
+S. Khond, V. Kale and M. S. Ballal, “A combined Data Mining and Machine Learning approach for High Impedance Fault Detection in Microgrids,” 2022 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Trivandrum, India, 2022, pp. 1-7, doi: 10.1109/PESGRE52268.2022.9715823.
+4
+S. Khond, V. Kale and M. S. Ballal, “Machine Learning-based Modification of Communication Assisted TRIP Schemes deployed with Distance Relays,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-6, doi: 10.1109/PEDES56012.2022.10079985.
+5
+S. Khond, V. Kale and M. S. Ballal, “Modified Communication Assisted Line Differential Protection Scheme with Adaptive Machine Learning-Based Relay,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-6, doi: 10.1109/PEDES56012.2022.10080726.
+6
+S. Khond, V. Kale and M. S. Ballal, “Data Mining Methods for Bad Data Detection and Event Data Acquisition in Microgrids,” 2022 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Trivandrum, India, 2022, pp. 1-6, doi: 10.1109/PESGRE52268.2022.9715808.
+7
+Meenakshi, V. Kale and S. Khond, “Adaptive Overcurrent Protection Scheme for Distribution Network Integrated With Distributed Energy Resources,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-5, doi: 10.1109/PEDES56012.2022.10080046.
+8
+Gulshan Kumar Patel, Vijay Kale and S. Khond, “Comparative Analysis of Machine Learning Models for Short-Term Load Forecasting”, 2023, OPJU International Technology Conference on Emerging Technologies for Sustainable Develeopement, Chattisgarh, India, 2023 (Accepted).
+9
+Sanjeev Sharad Gokhale and Vijay Kale, “Exploring the Fallacies in the Overcurrent Relay Coordination Optimization Problem With Simple Cases”, IEEE DELCON 2022, NSUT, Delhi, Feb. 2022 10
+Sudarshan Khond, Vijay Kale, Makarand Sudhakar Ballal, “Data Mining Methods for Bad Data Detection and Event Data Acquisition in Microgrids”, IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Kerala, pp. 1-6, Jan. 2022.
+11
+Sudarshan Khond, Vijay Kale, Makarand Sudhakar Ballal, “A combined Data Mining and Machine Learning approach for High Impedance Fault Detection in Microgrids”, IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Kerala, pp. 1-7, Jan. 2022.
+12
+N. Srinivas, V.S. Kale, Sai Nandini P. and Deepika Duppala “ Performance Analysis of Radial Distribution System by Optimal Deployment of DG and DSTATCOM considering network Reconfiguration using a SAR Algorithm,” International conference on Intelligent Computing and Applications, ICICA 2020, Odisha, India, December 2020 13
+Ritesh Rawat, Prashantbhai Chaudhari, Vijay.S.Kale, “A modified SFCL model performance investigation for a three-phase transmission network”, IEEE International Conference on Power Systems Technology (POWERCON), pp. 1-6, Sept. 2020, ISSN: 2642-6226, DOI: 10.1109/POWERCON48463.2020.9230571 14
+N.Srinivas, V.S. Kale, “Techno-Economic Issues with Increasing DG Penetration level in Sub-Transmission System,” in Proc. 10th International Conference on Computing, Communication and Networking Technologies (ICCCNT), IIT, Kanpur, pp. 1-6, July 6-8, 2019.
+15
+Deepika Duppala, Srinivas Nagaballi and Vijay S. Kale, “The Technical Impact of Increase in Penetration Level of DG Technologies on Power System,” in Proc. IEEE Region 10 Symposium (TENSYMP), Kolkata, India, pp. 491-496, June 7-9, 2019.
+16
+N.Srinivas, V.S. Kale, “Optimal deployment of DG and DSTATCOM in distribution system using swarm intelligent techniques,” in Proc. International Conference on Robotics, Control and Automation Engineering (RCAE), Beijing, China, pp. 65-70, December 26-28, 2018.
+17
+Srinivas Nagaballi, Rohit R. Bhosale and V. S. Kale, “A Hybrid Fuzzy and PSO based Optimum Placement and Sizing of DG in Radial Distribution System,” in Proc. International Conference on Smart Electric Drives and Power Systems (ICSEDPS), Nagpur, India, pp. 272-275, June 12-13, 2018.
+18
+N.Srinvas, V.S.Kale, “Real power loss reduction in radial distribution system by integrating DGs using MTLBO algorithm”, Accepted and Presented at ICPS 2017, COEP, Pune, Dec. 21-23, 2017.
+19
+N.Srinvas, V.S.Kale, “MTLBO algorithm for DG placement in RDS to improve voltage stability index and minimize losses”, Accepted and Presented at INDICON-2017, IIT Roorkee, Dec. 15-17, 2017.
+20
+N.Srinvas, V.S.Kale, “Review of network topologies in intelligent power system”, IEEE Region 10 Symposium, Cochin, pp.1-5, July 2017.
+21
+Ritesh Rawat, Vijay S Kale, Sanjeev S. Gokhale, “Application of nature inspired metaheuristic techniques to overcurrent relay coordination”, Future Technologies Conference (FTC), San Francisco, USA, pp. 130-136, 19 January 2017.
+22
+S. S. Gokhale , V. S. Kale, “Time overcurrent relay coordination using the Levy flight Cuckoo search algorithm”, IEEE Region 10 Conference TENCON, Macau, China,Nov. 2015, pp. 1 – 6.
+23
+Sanjeev Gokhale, Vijay Kale, “Application of the Firefly Algorithm to Optimal Over-Current Relay Coordination”, 14thInternational Conference on Optimization of Electrical And Electronic Equipment, Romania, May 2014, pp. 150-154.
+24
+V.S.Kale, MayankAgarwal, Prathamesh D. Kesarkar, Dev Raj Regmi, AnujChoudhary, ChitvanKillawala, “Optimal Coordination of overcurrent relays using Genetic Algorithm and Simulated Annealing”, IEEE International Conference on Control, Instrumentation, Energy & Communication, Feb. 2014, pp. 416-420.
+25
+G. B. Abande, MFAR Satarkar, Maroofa H. Rawoot,Mohan Thakre, V.S. Kale, , “Impact of STATCOM on distance relay”, IEEE International Conference on Circuit, Power and Computing Technologies, March 20-21,  2014,pp.809-813 26
+D. Hemasundar, Mohan Thakre, V.S. Kale, “Impact of STATCOM on Distance Relay – Modeling and Simulation Using PSCAD/EMTDC”, IEEE Students Conference on Electrical, Electronics and Computer Science, 1-2 March 2014, Bhopal,pp.1-6 27
+S.S.Gokhale, V.S.Kale, “An Overview of Applications of Intelligent OptimizationApproaches to Power Systems”, International Conference on Advanced Engineering Optimization Through Intelligent Techniques(AEOTIT), S.V. National Institute of Technology, Surat,  July 01-03, 2013, pp.348-352 28
+Syed Mohammad Zaffar, Vijay S. Kale, “Application of Differential Evolution Algorithms for Optimal Relay Coordination”, International Conference on Advanced Engineering Optimization Through Intelligent Techniques (AEOTIT), S.V. National Institute of Technology, Surat, July 01-03, 2013, pp.413-417 29
+V.S.Kale, S.R.Bhide, P.P.Bedekar, “Fault location estimation based on wavelet analysis of traveling waves”, IEEE International Asia-Pacific Power and Energy Engineering Conference, Shanghai, China, March 2012, pp.1-5.
+30
+P.P.Bedekar, S.R.Bhide, V.S.Kale, “Optimum PMU Placement considering one Line/one PMU outage and maximum redundancy using Genetic algorithm”, The 8th Electrical/Electronics, Computer, Telecommunications and Information Technology Association Conference, Thailand, May 2011, pp. 688-691.
+31
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Determining Optimum TMS and PS of Overcurrent Relays using Linear Programming Technique”, Eighth International Conference “ECTI-CON 2011”, KhonKaen, Thailand, 17-19 May 2011, pp. 750-753.
+32
+V.S.Kale, S.R.Bhide, P.P.Bedekar, “Traveling wave based protection of EHV transmission line using wavelet transform”, International Conference on Advances in Energy Conversion Technologies, Jan 7-10, 2010, MIT, Manipal, pp. 217-221.
+33
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Fault Section Estimation in Power System using Artificial Neural Network”, International Conference on Electrical Power and Energy Systems (ICEPES-2010) , Maulana Azad National Institute of Technology, Bhopal, 26-28 August 2010, Proc. Vol-II, pp. 47-50.
+34
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Optimum Coordination of Overcurrent Relays using Nonlinear Programming Method”, International Conference on Electrical Power and Energy Systems (ICEPES-2010) , Maulana Azad National Institute of Technology, Bhopal, 26-28 August 2010, Proc. Vol-II, pp. 51-55.
+35
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Determining optimum TMS and PS of Overcurrent Relays using Big-M Method”, Joint International Conference on Power Electronics, Drives and Energy Systems & 2010 Power India (IEEE PEDES 2010) , TheIEEE PES – IASDelhi Chapter, New Delhi, 21-23 December 2010.
+36
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “ANN-PSO Technique for Fault Section Estimation in Power System”, Fourth International Conference on Computer Applications in Electrical Engineering – Recent Advances (CERA- 09), Indian Institute of Technology, Roorkee,19-21 February 2010, Paper ID B1-26.
+37
+V.S.Kale, S.R.Bhide, P.P.Bedekar, “Faulted Phase Selection on Double Circuit Transmission Line using Wavelet Transform and Neural Network”, IEEE Third International Conference on Power Systems, 27-29 December, 2009, IIT Kharagpur, pp.1-6.
+38
+P.P.Bedekar, S.R.Bhide, V.S.Kale, “Fault Section estimation in power system using neuro-genetic approach”, IEEE Third International Conference on Power Systems, 27-29 December, 2009, IIT Kharagpur, pp.1-6.
+39
+P.P.Bedekar, S.R.Bhide, V.S.Kale, “Optimum coordination of overcurrent relays in distribution system using genetic algorithm”, IEEE Third International Conference on Power Systems, 27-29 December, 2009, IIT Kharagpur, pp.1-6.
+40
+V.S.Kale, S.R.Bhide, P.P.Bedekar, ““A new approach to digital distance protection using artificial neural network”, International conference on “Electrical energy systems & Power Electronics in emerging Economics”, 16-17 April, 2009, SRM University, Chennai, pp.872-876.
+41
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Optimum Unit Commitment for Thermal Power Plants – A Genetic Algorithm Approach”, IEEE INDICON – 2009, 18-20 December 2009, pp. 409-412.
+42
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Optimum coordination of overcurrent relays in distribution system using dual simplex method”, The Second International Conference on Emerging Trend in Engineering & Technology (ICETET 2009) , G. H. Raisoni College of Engineering, Nagpur, 16-18 December 2009, pp. 555-559.
+43
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Coordination of over-current relays in distribution systems using linear programming technique”, International Conference on Control Automation Communication and Energy Conservation2009(INCACEC-2009), Kongu Engineering College, Erode, 04-06 June 2009, pp. 905-908.
+44
+A.Jain, V.S.Kale, A.S.Thoke, ““Application of ANN to transmission line fault classification”, PCEA-IFToMM International Conference (PICA 2006), PCE & A, Nagpur, July 2006, pp.1-3.
+45
+A.Jain, V.S.Kale, A.S.Thoke, “”Application of Artificial Neural Network to Transmission Line Faulty Phase Selection and Fault Distance Location”, IASTED International Conference on Energy and Power Systems, Thailand, March 2006, pp262-267.
+46
+V.S.Kale, S.R.Bhide, P.P.Bedekar, S.A.Khandare, “Traveling Wave based Fault Location using Wavelet Transform”, IEEE Bangalore Section – 18th Annual Symposium on Emerging Needs in Computing, Communication, Signals and Power 2009, Bangalore, 29 August 2009, pp.1-4.
+47
+V.S.Kale, S.R.Bhide, R.A.Keswani, ”MRA for detection and classification of faults for digital protection of transmission lines”, National Conference on Nascent Technologies in the Engineering-2008, Navi Mumbai, pp. 1-4.
+48
+A.Jain, A.S.Thoke, V.S.Kale, “Application of ANN to transmission line fault distance location”, National Power Systems Conference (NPSC 06), IIT, Roorkee, Dec. 2006, pp. 1-6.
+49
+A.Jain, V.S.Kale, A.S.Thoke, “Applications of AI to power systems”, All India Seminar on Emerging Trends in Power Sector, The Institution of Engineers, Jharkhand State Centre, Ranchi, 5-6 August 2006, pp.1-2.
+50
+N.S.Rao, V.S.Kale, S.R.Bhide, Y.G.Paithankar, “Suggestions for improvement of selectivity of O.C.Relays”, Annual Technical Paper Meeting of Institution of Engineers, Nagpur, Feb. 19, 2005, pp. 291-295.
+51
+V.S.Kale, A.P.Gokhale, “A New Method Of Direction Sensing For Drive Control And Phase Sequence Detection”, Journal of Institution of Engineers, Vol. 77, Feb. 1997, pp 57-61.
+S.No.
+Paper Citation 1
+S. R. Khond, V. S. Kale and M. S. Ballal, “Detection of Bad Data and Estimation of Missing Parameter Values Using System Synergism,” in IEEE Transactions on Industry Applications, vol. 59, no. 5, pp. 5646-5658, Sept.-Oct. 2023, doi: 10.1109/TIA.2023.3276350.
+2
+Sudarshan Khond, Vijay Kale, Makarand Sudhakar Ballal, “Non-pilot accelerated trip for distance relays using total relative reactance change in Zone II”, Electric Power Systems Research, Volume 218, 2023, 109171, ISSN 0378-7796, https://doi.org/10.1016/j.epsr.2023.109171.
+3
+Kshitij Ekka, Vijay Kale and S. Khond, “Improved Adaptive Micro-grid Over Current Protection Scheme Considering False Tripping”, International Journal of Emerging Electric Power Systems (IJEPES), 2023 (Accepted).
+4
+Srinivas Nagaballi, Vijay S. Kale, “Decision Making using Pareto Optimality and Game Theory Strategy to Resolve the Conflict Between Techno-Economic Aspects for Optimal DG Deployment in RDS,” Journal of Solid State Technology, Vol.64, No.3, 2021. [Scopus Journal] 5
+Srinivas Nagaballi, Vijay S. Kale, “A Metaphor-Less Based AI Technique for Optimal Deployment of DG and DSTATCOM Considering Reconfiguration in the RDS for Techno-Economic Benefits,” Journal of Intelligent and Fuzzy Systems, Accepted, 2020. [SCIE Journal] 6
+Srinivas Nagaballi, Vijay S. Kale, “Pareto optimality and Game Theory Approach for Optimal Deployment of DG in Radial Distribution System to Improve Techno-Economic Benefits,” Applied Soft Computing Journal, vol. 92, pp. 1-13, March 2020.
+7
+Srinivas Nagaballi, Vijay S. Kale, “Maximum Permissible Level of Wind and Solar bsed DG penetration in Sub-transmission System without violating the Techno-Economic Benefits”, Journal of TEST Engineering and Management (Scopus Indexed), Vol. 82, Jan. 2020, pp. 9070-9075 8
+Srinivas N., V.S.Kale, “Assessment of Voltage Stability Indices to predict the line close to voltage collapse, International Journal of Recent Technology and Engineering, ISSN:2277-3878, Vol.7, No. 5S2, Jan. 2019, pp.386-392 9
+SrinivasNagaballi and Vijay S. Kale, “Application of Metaheuristic Algorithms for Optimal Allocation of DGs in Radial Distribution System,” International Journal of Engineering Research in Computer Science and Engineering (IJERCSE), vol. 5, Issue 2, pp. February 2018.
+10
+S.S.Gokhale, V.S.Kale, “On the significance of the plug setting in optimal time coordination of directional overcurrent relays”, International Transactions on Electrical Energy System, May 2018, Vol. 28, Issue 11,  pp. 1-15.
+11
+Arvind R. Singh, Nita R. Patne , Vijay S. Kale, “Synchronized measurement based an adaptive distance relaying scheme for STATCOM compensated transmission line”, International Journal of Measurement, Vol. 116, pp. 96-105, 2018, Elsevier, ISSN No. 0263-2241 12
+Arvind R. Singh, Nita R. Patne , Vijay S. Kale, Piyush Khadke, “Digital impedance pilot relaying scheme for STATCOM compensated TL for fault phase classification with fault location’”, IET Generation, Transmission and Distribution, Volume 11, Issue 10, 13 July 2017, p. 2586 – 2598, ISSN No. 1751-8695 13
+S.S.Gokhale, V.S.Kale, “An application of a tent map initiated chaotic Firefly algorithm for optimal relay coordination”, Elsevier Journal of Electrical Power and Energy Systems, vol. 78, 2016, pp.336-342.
+14
+Mohan P. Thakre, Vijay S. Kale,” An adaptive approach for three zone operation of digital distance relay with static var compensator using PMU”, Elsevier Journal of Electrical Power and Energy Systems, vol. 77, 2016, pp.327-336.
+15
+Mohan P. Thakre, Vijay S. Kale, KoteswaraRajuDhenuvakonda, Bhimrao S. Umre, Anjali S. Junghare, “Study and Mitigation of subsynchronous oscillations with SSC based SSSC”, Journal of Power and Energy Engineering, vol. 3, Sept. 2015, pp.33-43.
+16
+Arvind R. Singh, Nita R. Patne, Vijay S. Kale, “Adaptive distance protection setting in presence of mid-point STATCOM using synchronized measurement”, Elsevier Journal of Electrical Power and Energy Systems, vol. 67, 2015, pp.252-260.
+17
+Thakre, M.P.,Kale, V.S. “An adaptive strategy for three zone operation of numerical distance relay with shunt FACTS, based on PMU “,Journal of Electrical Engineering, 2015.
+18
+K Raju, BS Umre, AS Junghare, MP Thakre, VS Kale, “ Mitigation of Subsynchronous oscillations with common controller based statcom and SSSC”, Journal of Electrical Engineering and Electronic Technology 2016.
+19
+M.P.Thakre, V.S.Kale, “Distance Protection for Long Transmission Line Using PSCAD” International Journal of Advances in Engineering & Technology, Jan. 2014, vol. 6, No. 6, pp. 2579-2586.
+20
+V.S.Kale, S.R.Bhide, P.P.Bedekar,”Estimation of Fault Location on Transmission Lines with Mutual Coupling”, International Journal of Power & Energy Systems, vol. 32, No.2, 2012, pp. 57-64.
+21
+V.S.Kale, S.R.Bhide, P.P.Bedekar, “Faulted Phase Selection based on Wavelet Analysis of Traveling Waves”, International Journal of Computer and Electrical Engineering, Vol. 3, No. 3, June 2011, pp. 421-425 22
+V.S.Kale, S.R.Bhide, P.P.Bedekar, “Comparison of wavelet transform and Fourier Transform based methods of phasor estimation for numerical relaying”, Internaitonal Journal of Advances in Engineering Sciences, vol.1. no.1, Jan 2011, pp.55-59.
+23
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Optimum PMU Placement using Genetic Algorithm”, International Journal of Power System Optimization and Control, Vol. 2, Issue 1, 2010, pp. 85-91.
+24
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Application of Artificial Intelligent Techniques to Fault Section Estimation in Power System – A Review”, International Journal of Power System Optimization and Control, Vol. 2, Issue 1, 2010, pp. 167-174.
+25
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Fault section estimation in power system using Hebb’s rule and continuous genetic algorithm”, International Journal of Electrical Power and Energy Systems (Elsevier Publication), Vol. 33, Issue 3, Oct. 2010, pp. 457-465.
+26
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Optimum coordination of overcurrent relay timing using simplex method”, Electric Power Components and Systems (Taylor and Francis), Vol. 38, Issue 10, July 2010, pp. 1175-1193.
+27
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Optimum time coordination of overcurrent relays in distribution systems using Big-M (Penalty) method”, WSEAS Transactions on Power Systems, Vol. 4, Issue 11, 2009, pp. 341-350.
+28
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Optimum time coordination of overcurrent relays using two phase simplex method”, International Journal of Electrical and Computer Engineering (WASET), Vol. 4, Issue 12, 2009, pp. 774-778.
+29
+V.S.Kale, S.R.Bhide, P.P.Bedekar, G.V.K.Mohan, “Detection and Classification of Faults on Parallel Transmission Lines using Wavelet Transform and Neural Network”, International Journal of Electrical Systems Science and Engineering, vol. 1, no.4, 2008, pp. 364-368.
+30
+Mohan P Thakre and Vijay S Kale, Raju D.K., B.S.Umre and A.S.Junghare, “Modelling of three zones distance relay with auto-recloser function using PSCAD/EMTDC simulation: an active learning tool”, The Journal of CPRI, Vol. 11. No. 3, Sept. 2015, pp.493-504.
+31
+Mohan P Thakre and Vijay S Kale, “Effect of static var compensator on the performance of digital distance relay protection of transmission line”, TheJournal of CPRI, Vol. 10. No. 4, December, 2014, pp.1-12.
+32
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Optimum Coordination of Overcurrent Relays Using Revised Simplex Method”, The Journal of CPRI, Vol. 6, No. 1, March 2010, pp. 33-42.
+33
+P. P. Bedekar, S. R. Bhide, and V. S. Kale, “Determining optimum Time Multiplier Setting and Plug Setting of Overcurrent Relays Using the Continuous Genetic Algorithm”, The Journal of CPRI, Vol. 6, No. 1, March 2010, pp. 87-96.
+34
+P.M.Nawghare, A.P.Gokhale, V.S.Kale, “A Precision Output Comparator as a Non-linear System Building Block”, Journal of Institution of Engineers, Vol. 82, Jan.2002, pp 57-61.
+35
+V.S.Kale, A.P.Gokhale, “A New Method Of Direction Sensing For Drive Control And Phase Sequence Detection”, Journal of Institution of Engineers, Vol. 77, Feb. 1997, pp 57-61.

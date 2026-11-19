@@ -1,0 +1,336 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cvlsi/dr-rajendra-m-patrikar/
+TITLE: Dr. Rajendra  M. Patrikar​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Rajendra  M. Patrikar​
+Brief Bio
+Brief Bio
+Rajendra Patrikar is working presently as Professor at VNIT Nagpur at Center of VLSI and Nanotechnollogy. He has done his M.Tech in Electrical Engineering from IIT Bombay. He joined as Research engineer in the Microelectronics Project at in Department of Electrical Engineering at IIT Bombay after that. He also completed his Ph.D from the Department of Electrical Engineering IIT Bombay. He joined as faculty at IIT Bombay after working for an year at Computervision R&D Pune. Later he moved to Singapore to work in TECH Semiconductor (Now Micron) in Advance Device Technology Department. After working there for three years he moved to Institute of High Performance Computing , Singapore which is a supercomputing center, where he initiated work in the area of nanoelectronics and worked for three years. He was a Team Leader of Nanotechnology group at Computational Research Laboratory Pune (Super computing center by TATAs) for one Year. He has published about 45 papers in International Journals and 80 papers in international refereed conferences and 20 papers in national conferences.. He is a Fellow of IETE, Life member of ISSS, a senior member of IEEE and Member of SPIE. He has obtained project grants from various agencies and he is the coordinator of various projects, including projects sponsored by Ministry of Communication and Information Technology (MCIT) , Aeronautical Development Agency (ADA), Board of research in Nuclear Science (BRNS), Rajiv Gandhi Science and Technology Centre RGSTC). He is also part of a team responsible for starting incubation of technology companies at VNIT and heading a project on Incubation center. Recently he has edited a book MEMS Resonator Filters published by The Institute of engineering and technology (IET).
+Educational Details
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+1985-92
+Electrical Engineering
+Indian Institute of Technology Bombay 2
+M.Tech 1983-85
+Electrical Engineering
+Indian Institute of Technology Bombay 3
+Master of science 1981-83
+Physics
+Department Of Physics Nagpur University Nagpur
+Contact Details
+Name:
+Phone
+Email
+Address
+Rajendra M. Patrikar 0712-280-1336 rmpatrikar@cvn.vnit.ac.in
+Address: Quarter No.8, VNIT , Nagpur 440010
+Research Interests
+Research Interest
+VLSI Design and Technology  & Computations
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sponsored Research Projects
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Characterization and Simulation of Nano Devices
+Ministry of Electronics and Information Technology
+PI
+Completed in 2013 Duration 5 Years 312 Lakh 2
+Center for Innovation, (Incubation Centre) VNIT. Nagpur
+Rajiv Gandhi Science and Technology Commission Government of Maharashtra (RGSTC)
+PI 2011-16 227 Lakhs 3
+Chip to system design special Manpower development program (Wireless Sensor Network Node for Internet of Things (SOC for Zigbee)
+Ministry Of Communication and Information Technology
+PI 2006-12 & 2013-2021 110 Lakhs +hardware software 4
+Exploration of Micro-cantilever platform for Agricultural Applications
+Department of science and Technology
+PI 2017-2020 60 Lakhs 5
+Establishment of National MEMS design Center
+Aeronautical Development Agency
+PI 5 Years 20 lakh Plus CAD tools centrally purchased 6
+Design and Development of a Pico-ampere Source and Meter
+Board of Research in Nuclear Science (BRNS)
+PI 3 Years 25 Lakh 7
+Design and Fabrication of instrument for microfluidic studies.
+Aeronautical Development Agency
+PI 3 Years 16 Lakh 8
+Start Up Center
+MHRD and DST now transferred to Niti Ayog
+PI 5 Years 150Lakh
+Consultancy Projects
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Development of Vibration Sensors
+Indian Railways
+Chief-Investigator
+Ongoing
+NA 2
+Design and Characterization of RF Circuits for trans-receiver
+RF Solutions
+Chief-Investigator 2010-14 1 Lakh
+Books or Book Chapter
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Reconfigurable Adaptive Computing- Integer DCT based Real Time Video Watermarking for H.264 Encoder
+Amit M Joshi, Dr. V. Mishra, Dr. R. M. Patrikar
+CRC Press 978-1-4978-3176-8 2016
+Real Time Implementation of Digital Watermarking Algorithms for Image and VideoApplication Watermarking Vol.2
+Amit M Joshi, Dr. V. Mishra, Dr. R. M. Patrikar
+Publisher: Intech Publication, Croatia
+ISBN 979-953-307-895-2.
+2012
+Recent Advances in Communications Systems and Electrical Engineering, “Classification techniques and clustering architecture for wireless sensor networks”
+Sudhir G. Akojwar, R.M. Patrikar
+Springer International
+ISBN: 978-0-387-74937-2.
+March 2008
+Advanced Technologies – Implementation of Fault Tolerance Techniques for Grid Systems
+Meenakshi B. Bheevgade and Rajendra M. Patrikar
+Intech Publication, Croatia
+ISBN: 978-953-307-009-4 2009
+Patents
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Polymer Electrostatic MEMS Cantilever beam 201921008163 01-03-2019
+Granted 2
+MICRO CANTILEVER BASED TUNABLE TEMPERATURE SENSOR WITH ELECTRICAL READ-OUT 2358/MUM/2013 13/07/2013
+Granted 3
+MEMS BASED HIGH Q AND SELF TUNABLE BAND PASS FILTER 3604/MUM/2014 15/11/2014
+Granted 4
+NEURAL NETWORK BASED CALIBRATION OF MEASUREMENT DEVICES 3671/MUM/2014 19/11/2014
+Granted 5
+A microelectromechanical system (MEMS) cantilever switch for quadrature phase shift keying 419/MUM/2015 09/05/2015
+Granted 6
+YSTEM AND METHOD FOR TESTING A SEMCONDUCTOR CHIP
+US 2004/0253754A1
+Dec. 16, 2004/Jun. 16, 2003
+Granted
+STTP & Workshop
+Sr. No.
+Title 1
+ISSMD-2018 5th International Symposium on Semiconductor Materials and Devices 30th Nov. to 2nd Dec 2018 Organised at VNIT Nagpur 2
+Fourth ISSS National Conference on Microsystems, Smart Materials Structures ISSS-2010 Conference Dates   : Sep 30 – Oct1, 2010 3
+MEMS for Biomechanics and Biorobotics Foreign faculty: Prof. Shuji Tanaka  December 4, 2017 to December 8, 2017, at VNIT Nagpur.
+4
+Instruction Enhancement Program on Deep Submicron technology December 5-9 2016 5
+Advance VLSI Faculty Development Course 12 March 2007 to 16 March 6
+Advance VLSI Faculty Development Course 14th May -18th May,  2007
+Administrative Responsibilities
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Head of the Department
+VNIT 7/1/2019 to 30 June 2022 2
+Head of the department
+VNIT 1st July 2015 to 1st July 2017 3
+Chairman (Special Cell)
+VNIT 2013 to 2015 4
+Dean (Acad)
+VNIT 1st July 2010 to 1st July 2013 5
+Head of the Department
+VNIT 1st May 2009 to 30 June 2010
+Awards & Honors
+Sr. No.
+Awards
+Journal Publications
+S.No.
+Paper Citation 1
+S. Palekar, J. Kalumbe and R. M. Patrikar, “Machine-Learning-Assisted Blood Parameter Sensing Platform for Rapid Next Generation Biomedical and Healthcare Applications”, ECS J. Solid State Sci. Technol., 13, 027004, 2024 2
+V Jain, J Kalambe, RM Patrikar,” Automation of digital/droplet microfluidic platforms” – Droplet and Digital Microfluidics, Academic Press, 197-230, 2024 3
+P Bhoyar, P Sahare, MF Hashmi, SB Dhok, R Deshmukh, “Lightweight architecture for fault detection in Simeck cryptographic algorithms on FPGA”, International Journal of Information Technology, 16 (1), 337-343, 2024 4
+S Makdey, R Patrikar, “Design of behavior prediction model of molybdenum disulfide magnetic tunnel junctions using deep networks”, Semiconductor Science and Technology 38 (8), 085006, 2023.
+5
+S Palekar, J Kalambe, RM Patrikar, “IoT enabled microfluidics-based biochemistry analyzer based on colorimetric detection techniques”, Chemical Papers, 77 (6), 2935-2945, 2023 6
+S Puranik, M Barve, S Rodi, R Patrikar, “Acceleration of Trading System Back End with FPGAs Using High-Level Synthesis Flow”, Electronics, 12 (3), 520, 2023 7
+S. Puranik, M. Barve, S. Rodi, R.M. Patrikar, “FPGA-Based High-Throughput Key-Value Store Using Hashing and B-Tree for Securities Trading System, Electronics 12 (1), 183, 2022 8
+S.D. Palekar, J. Kalambe, R.M. Patrikar, “Biochemical Blood Sensing Platform With CMOS Image Sensor and Software-Based Wavelength Filter”, IEEE Sensors Journal 22 (22), 21753-21760, 2022 9
+SS Balpande, RS Pande, RM Patrikar, Grains level evaluation and performance enhancement for piezoelectric energy harvester Ferroelectrics 572 (1), 71-93 10
+R Solanki, A Manwani, A Mahajan, RM Patrikar Modeling of program/erase transient in heterogeneous SiNx charge trap flash memories, Superlattices and Microstructures 144, 106577 2020 11
+S Makdey, R Patrikar, MF Hashmi, Modeling and design of Magnetic Tunneling Junction using MoS 2/graphene quantum dots/MoS 2 approach, Journal of Nanoparticle Research 22 (7), 1-13 12
+AD Singh, RM Patrikar, “Design and fabrication of PDMS‐based electrostatically actuated MEMS cantilever beam” Micro & Nano Letters 15 (5), 302-307 7 2020 13
+AD Singh, RM Patrikar  Development of Nonlinear Electromechanical Coupled Macro Model for Electrostatic MEMS Cantilever Beam AD Singh, RM Patrikar IEEE Access 7, 140596 – 140605 14
+V Jain, RM Patrikar, A Low-Cost Portable Dynamic Droplet Sensing System for Digital Microfluidics Applications IEEE Transactions on Instrumentation and Measurement 2019 15
+T Pravinraj, RM Patrikar Modeling, Design, fabrication, and modeling of a low-cost droplet on demand device for lab-on-chip applications Microelectronic Engineering 16
+PP Deshpande, RS Pande, RM Patrikar Fabrication and characterization of zinc oxide piezoelectric MEMS resonator Microsystem Technologies, 26 (2), 415-423 2019 17
+T Pravinraj, R Patrikar A droplet actuation technique for a lab-on-chip device using partial wetting surface without external force” Sensors and Actuators A: Physical 285, 482-490 2019 18
+T Pravinraj, R Patrikar  Modeling and characterization of surface roughness effect on fluid flow in a polydimethylsiloxane microchannel using a fractal based lattice Boltzmann metho T Pravinraj, R Patrikar AIP Advances 8 (6), 065112 2018 19
+Dynamic capacitive sensing of droplet parameters in a low-cost open EWOD system V Jain, A Hole, R Deshmukh, R Patrikar Sensors and Actuators A: Physical 263, 224-233 20
+Dual Frequency MEMS Resonator Through Mixed Electrical & Mechanical Coupling Scheme A Morankar, RM Patrikar IET Circuits, Devices & Systems 2017 21
+Finite-Element, Modeling, of, Retention, in Nanocrystal Flash Memories With High-k Interpoly Dielectric Stack R Solanki, A Mahajan, R Patrikar IEEE Transactions on Electron Devices 2017 22
+Alok Naugarhiya, Pankaj Wakhradkar, Pravin N Kondekar, Ganesh C Patil, Rajendra M. Patrikar, “Analytical model for 4H-SiC superjunction drift layer with anisotropic properties for ultrahigh-voltage applications”, Journal of Computational Electronics, vol. 16, pp.190-201, 2017 23
+Rasika Dhavse, Kumar Prashant, Chetan Dabhi, Anand Darji, Rajendra M. Patrikar, “Modified ITAT Model for Data Retention in Nanocrystals Based Flash Memory Gate Stack”, Journal of Nano Research, vol. 45, pp.1-11, 2017 24
+T Pravinraj and Rajendra Patrikar. ”Modelling and investigation of partial wetting surfaces for drop dynamics using lattice Boltzmann method.” Applied Surface Science, Volume 409, (2017): 214-222. (DOI:https://doi.org/10.1016/j.apsusc.2017.02.242) 25
+Vandana Jain, Vasavi Devarasetty, Rajendra M. Patrikar, “Effect of electrode geometry on droplet velocity in open EWOD based device for digital microfluidics applications”, Journal of Electrostatics, vol. 87, pp.11-18, 2017 26
+Vinayak Pachkawade, Rajesh Junghare, Rajendra M. Patrikar, Michael Kraft, “Mechanically coupled ring-resonator filter and array (analytical and finite element model)”, IET Computers & Digital Techniques, vol. 10, pp.261-267, 2016 27
+Suresh S Balpande, Rajesh S Pande, Rajendra M. Patrikar, “Design and low cost fabrication of green vibration energy harvester”, Sensors and Actuators A: Physical, vol. 251, pp.134-141, 2016 28
+Ashutosh Mahajan, Dhiraj Gawhane, Rajendra M. Patrikar, “Finite Element Modeling of Fowler–Nordheim Program-Erase Process in High- k Interpoly Dielectric Flash Memories”, IEEE Transactions on Electron Devices, vol. 63, pp. 4729-4736, 2016 29
+S Sahare, RB Deshmukh, RM Patrikar” Role of Hydrogen in Transition from Amorphous Silicon to Nanocrystalline Silicon for Solar Cell Applications Advanced Science, Engineering and Medicine 6 (7), 785-790 2014 30
+Deepak G. Khushalania, Vaibhav R. Dubeya, Pratik P. Bheleya, Jayu P. Kalambea,Rajesh S. Pandea, Rajendra M. Patrikar ” Design optimization & fabrication of micro cantileverfor switching application ” Sensors and Actuators A vol 225 (2015) pp.1–7 31
+Kalambe, J. ; Patrikar, R. Design, Fabrication, and Characterization of Electrostatically Actuated Microcantilever Sensor for Temperature Detection Sensors Journal, IEEE Volume: 15 , Issue: 3 DOI: 10.1109/JSEN.2014.2365107 Publication Year: 2015 , Page(s): 1595 – 1601 32
+Amit Joshi, Dr. Vivekanand Mishra, Dr. R. M. Patrikar, “Real Time Implementation of Integer DCT based Video Watermarking architecture”, International Arab Journal of Information Technology (IAJIT), 33
+Dipika R. Barbadikar, Rashmi Rashmi, Sanjay Sahare, Rajendra Patrikar, Jatin Bhatt “Optimization of process parameter for synthesis of silicon quantum dots using low pressure chemical vapour deposition”, Bulletin of Materials Science 36(3) · June 2013 34
+Amit Joshi, Dr. Vivekanand Mishra, Dr. R. M. Patrikar “Design of Real Time Video Watermarking Based on Integer DCT for H.264 Encoder“, International Journal of Electronics, Taylor and Francis 35
+Gaurav Pendharkar, Raghvendra Deshmukh, Rajendra Patrikar “”Investigation of surface roughness effects on fluid flow in passive micromixers” Microsystem Technologies, 36
+Sushma Pardeshi, Rajendra Patrikar, Rita Dhodapkar, Anupama Kumar “Validation of computational approach to study monomer selectivity towards the template Gallic acid for rational molecularly imprinted polymer design” Journal of molecular Modeling, 06/2012; 18(11):4797-810. (2012) DOI 10.1007/s00894-012-1481-5 37
+Jayu Kalambe, Rajendra Patrikar “Design of Microcantilever Based Biosensor with Digital Feedback Control Circuit,” Published in Journal of Sensors, Hindawi Publication, Volume 2012,Article ID 586429, DOI: 10.1155/2012/586 38
+Mahendra Gaikwad and Rajendra Patrikar “Perfect Difference Network for Network-on-Chip Architecture” International Journal of Computer Science & Network Security (IJCSNS),Dae-Sang Office 301,Sangdo 5 dong 509-1,Dongjack,Seoul 156-743,Korea, ISSN:1738-7906,Vol.9,No.12, December 2009 39
+Mahendra Gaikwad and Rajendra Patrikar “Review of Switching Techniques for Network-on-Chip Architecture”, International Journal on Computer Engineering & Information Technology (IJCEIT), ISSN 0974-2034, Vol. 17, No. 22, Special Edition Jan-Feb. 2010, pp. 52-57 40
+Mahendra Gaikwad and Rajendra Patrikar “Review of Network-on-Chip Architecture”, International Journal on Computer Engineering & Information Technology (IJCEIT), ISSN 0974-2034, Vol. 13, No. 18, Special Edition Jan-Feb. 2010, pp. 19-22 41
+Ashwini Shrirao, Rashmi, and Rajendra M. Patrikar,‘Effect of Asymmetric Channel on Charging Behavior of 22 nm Quantum Dot Floating Gate Flash Memory Cell’, IEEE Transaction on Electron Devices (September Issue: Volume 59, Issue 9. Published online 27 July 2012, DOI: 10.1109/TED.2012.2204999).
+42
+Kshirsagar R.V.,Patrikar R.M. “Design of a Novel Fault Tolerant Voter Circuit for TMR Implementation to Improve Reliability in Digital Circuits”, Microelectronics Reliability 49 (2009), pp. 1573-1577, Dec. 2009. (DOI information: 10.1016/j.microrel.2009.08.001 43
+Rahul Badghare, Sanjiv Mangal, R.B.deshmukh, Rajendra Patrikar “Design of Low Power Parallel Multiplier” Journal of Low Power Electronics – Vol. 5, No.1, April 2009.
+44
+Rajesh S. Pande, Rajendra M. Patrikar, “Modeling and simulation for RF MEMS devices,” WSEAS Transactions on Electronics, Issue 4,Vol.5,April 2008, pp.155-165.
+45
+Sudhir G. Akojwar, Rajendra M. Patrikar ” Improving Life Time of Wireless Sensor Networks Using Neural Network Based Classification Techniques With Cooperative Routing” International Journal of Communications Issue 1, Volume 2, 2008 pp.75-86 46
+Rajendra M.Patrikar “Surface Roughness Simulation and Modelling ” Applied Surface Science, Volume 228, Issues 1-4, 30 April 2004, Pages 213-220 84 47
+Rajendra M.Patrikar, Murali K. and Li Er Ping “Thermal Distribution Calculations For Block Level Placement In Embedded Systems” Microelectronics Reliability, vol. 44, Issue 1 , January 2004, Pages 129-134 48
+Rajendra M.Patrikar, Chong YiDong , Wenjun Zhuang “Modelling Interconnects with Surface Roughness”, Microelectronics Journal Vol. 33 (2002) 929–934 49
+Chetan D.Parikh, R.M.Patrikar, “ A Compact Model For The N-Well Resistor” Solid State Electronics , vol.43, p683, 1999 50
+V.Ramgopal Rao, I.Eisele, R.M.Patrikar, D.K.Sharma, J.Vasi, T.Grabolla, “High Field Stressing Of LPCVD Gate Oxides”, IEEE Electron Devices Letters, vol.18, no.3, March 1997 51
+R.M.Patrikar, R.Lal, J.Vasi, “Interface State Generation Due To High-Field Stressing In MOS Oxides” Solid-State Electronics, vol.38, p. 477, (1995). 57 52
+R.M.Patrikar, R.Lal, J.Vasi, “Positive Charge Build-up  In  Various MOS Insulators Due  to  High  Field  Stressing”,  IEEE Electron  Devices Letters, vol. 11, p. 530 (1993).  94 53
+R.M.Patrikar, R.Lal, J.Vasi, “High Field Stressing of MOS  Oxides”, Journal of Applied Physics, vol. 74, p. 4598, (1993).
+54
+R.M.Patrikar, R.Lal, J.Vasi, “Power Law Model  of  Positive  Charge  Build-up in Silicon Dioxide Due To  High  Field  Stressing”,  Solid  State Electronics, vol. 36, p. 723, (1993).
+55
+R.M.Patrikar, R.Lal, J.Vasi, “High Field Stressing  Characteristics for the Case Silicon in Inversion”, Jnl. App. Phys., vol. 73, p. 3857, (1993) 199 56
+R.M.Patrikar,  R.Lal,  “New   Method   For   Assessing   Dielectric Reliability of  MOS Oxides”, Microelectronics And  Reliability  vol. 32, p. 961 (1992).
+57
+R.Lal, R.M.Patrikar, D.Sarkar and J.Vasi,  “Comparison  of  Defect Generation  by     Irradiation  and  High  Field  Stressing   In   MOS Structures,  Jnl.   of   the   Institution   of   Electronics   and Telecommunication Engg., vol. 36, p. 198, (1990).
+58
+R.M.Patrikar and R.Lal, “Field Acceleration Factor  For  Dielectric Breakdown Of   MOS Devices”, Microelectronics And  Reliability,  vol. 29, No. 4, p. 603, 1989.  48
+Conference Publications
+S.No.
+Paper Citation 1
+T Pravinraj and RajendraPatrikar “Inductive Splitting and Transport of a Droplet with no external actuation force for Lab on Chip devices”, 21st International Symposium on VLSI Design & Test (VDAT) Symposium, June29- July2, 2017, IIT Roorkee, India.
+2
+T Pravinraj and RajendraPatrikar “Modelling And Characterization Of Droplet Impingement And Splitting Using Lattice Boltzmann Method For Lab On A Chip Applications” 8th ISSS International Conference on Smart Materials, Structures and Systems July 5-7, 2017, IISc Bangalore, India 3
+Vandana Jain, Rajendra M. Patrikar,  “Real Time Droplet Velocity Measurement using open source Computer Vision for EWOD Device”,  Eighth ISSS National Conference on MEMS, Smart Materials, Structures and System, 28th-30th September 2016,  IIT Kanpur 4
+Amol Morankar and Rajendra M. Patrikar, “RF MEMS Band Pass Filter”, Proc. of 3rd International Conference on Emerging Electronics (ICEE), December 27-30, 2016, IIT Bombay, India 5
+Ravi Solanki, Ashutosh Mahajan and Rajendra M. Patrikar, “Finite Element Modeling of Retention Process in high-k Interpoly Dielectric Nanocrystal Flash Memories”, Proc. of 3rd International Conference on Emerging Electronics (ICEE), December 27-30, 2016, IIT Bombay, India 6
+VinayakPachkawade, Rajesh Junghare, R. M. Patrikar, “A small bandwidth microelectromechanical ring resonator-based bandpass filter, June 2015  19th International Symposium on VLSI Design and Test (VDAT) 7
+Rajesh Junghare, VinayakPachkawade, R. M. Patrikar, “A 2.47 GHz ultra NanoCrystaline diamond disk resonator with temperature compensation for RF application”, June 2015, 19th International Symposium on VLSI Design and Test (VDAT) 8
+AadityaHambarde, R. M. Patrikar, “Optimal Design of Coupled Microelectromechanical Resonating Arrays for Mass Sensing”, October 2015, COMSOL Conference, Pune, India.
+9
+Rasika Dhavse, Kumar Prashant, Chetan Dabhi, R. M. Patrikar, “Fabrication and Investigation of Low Voltage Programmabe Flash Memory Gate stack”,  November 2015, 1st International Conference on Micro-electronics, Computing & Communication Systems (MCCS-2015) 10
+VP Bhale, UD Dalal, RM Patrikar ” A high stability and excellent gain flatness 3–5 GHz 0.18 μm CMOS low noise amplifier for ultra-wide-band applications” Devices, Circuits and Systems (ICDCS), 2014 2nd International Conference on, 1-6 11
+J Kalambe, R Patrikar” Design and Development of Microcantilever Based Detector” Electronic Systems, Signal Processing and Computing Technologies (ICESC) 2014 12
+CT Kukade, RB Deshmukh, RM Patrikar” A Novel Parallel Multiplier for 2’s Complement Numbers Using Booth’s Recoding Algorithm” Electronic Systems, Signal Processing and Computing Technologies (ICESC) 2014 13
+P Borkar, J Kalambe, R Patrikar ” Impact of design parameters on actuation voltage and response time for micro-cantilever based device” (INDICON), 2013 Annual IEEE, 1-6 14
+R Dhavse, F Muhammed, C Sinha, V Mishra, RM Patrikar ” Memory characteristics of a 65 nm FGMOS capacitor with Si quantum dots as floating gates” (INDICON), 2013 Annual IEEE, 1-3 15
+Jayu Kalambe and Rajendra Patrikar “Fabrication and characterization of bilayerMicrocantilever based thermal detector” ISSS International Conference on Smart Materials,  Structures and Systems July 08-11, 2014, Bangalore, India 16
+Amit M Joshi, Dr. Vivekanand Mishra and Prof. Rajendra M Patrikar, “Low Complexity Hardware Implementation of Quantization and CAVLC for H.264 Encoder”, IEEE International Conference on computational Intelligence and Computing research (ICCIC-2014), 18-20 Dec, 2014, PARK College of Engineering and Technology, Coimbatore-641659, Tamilnadu, India.(presented and to be published ion IEEE Explorer) 17
+Dhavse, R. ; Muhammed, F. ; Sinha, C. ; Mishra, V. ; Patrikar, R.M., “ Simulation of Quantum Dot Flash Gate Stack with Lower Tunneling Voltages” Devices, Circuits and Communications (ICDCCom), 2014 International Conference on DOI: 10.1109/ICDCCom.2014.7024743 Publication Year: 2014 , Page(s): 1 – 6 IEEE Conference Publications 18
+Dhavse, Rasika ; Suresh, K. ; Mishra, Vivekanand ; Patrikar, Rajendra Memory Behaviour and Distributed Capacitive Coupling Model for Low Frequency Inversion Capacitance of a Quantum Dot Flash Memory Gate Stack Modelling Symposium (AMS), 2014 8th Asia DOI: 10.1109/AMS.2014.54 Publication Year: 2014 , Page(s): 241 – 246 IEEE Conference Publication 19
+Jayu Kalambe, Rajendra Patrikar  “Microcantilever Based Biosensor with Electrical Read-out Method”1st International Symposium on Physics & technology of Sensors (ICONSAT-2012) sponsored by IEEE, held at Pune, India March 08-10, 2012.
+20
+Jayu P Kalambe, Rajendra M Patrikar, “Microcantilever Based Biosensor with Electrical Read-out Method”, International Conference on Nano Science & Technology, at International Advance Research Centre for Powder Metallurgy and New Materials, Hyderabad, India, Jan 20th – 23rd 2012 21
+Amol Morankar, Dr. R. M. Patrikar, “Design & Simulation of Metal MEM Parallel Beam Resonator”, International Conference on Nano Science & Technology, at International Advance Research Centre for Powder Metallurgy and New Materials, Hyderabad, India, Jan 20th – 23rd 2012 22
+Atul K. Dwivedi, R. B. Deshmukh, R. M. Patrikar, “Modeling and simulation of capacitive sensor for E.Coli bacteria in water”, in 16th International Workshop on Physics of Semiconductor Devices, Vandana Singh; Monica Katiyar; B. Mazhari; S. s. Iyer; Utpal Das; Aloke Dutta; Ritu Sodhi; S. Anantharamakrishna, Editors, Proceedings of SPIE Vol. 8549 (SPIE, Bellingham, WA 2012), 854914 23
+Raju Lampande, R.B. Deshmukh, R. M. Patrikar,”Influence of Shape and Size on the Optical Properties of Palladium Nanostructures”, IWPSD 2011, Dec 2011.
+24
+Gaurav Pendharkar, R.B. Deshmukh, R. M. Patrikar, “Effect of Surface Roughness on the single and multiphase fluid flow through microchannel using Lattice Boltzmann method”, IWPSD 2011, Dec 2011.
+25
+Deshmukh, A.A.  Deshmukh, R.  Patrikar, R.; “ Low Power Asynchronous Sigma-Delta Modulator Using Hysteresis Level Control”, ISVLSI 2011, July 2011, pg 353 26
+Madhuri Borkar; Rashmi Gautam; and Rajendra Patrikar; “Simulation of 22nm n-Metal Oxide Semiconductor Field Effect Transistor”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011.
+27
+Sujeet Kumar; R.B. Deshmukh; and Rajendra Patrikar; “Low Power High Throughput Differential Current Mode Signaling Technique for Global VLSI Interconnect”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011.
+28
+Ashwini Shrirao; Rashmi Gautam; and Rajendra Patrikar; “Simulation of Low Voltage Flash Memory Cell”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011.
+29
+Kapil Soni; and Rajendra Patrikar; “Inductive Degenerated Low noise Amplifier for Wireless Application in 0.18um UMC CMOS”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011 30
+Rashmi and R. M. Patrikar, “Simulation of Nanostructure Floating Gate Asymmetric Channel EEPROM Cells”, Proceedings of XV International workshop on Physics of semiconductor Devices (IWPSD) 2009, New Delhi.
+31
+Raju Lampande, Gaurav Pendharkar and Rajendra Patrikar, “Study of Optical Properties of different nanostructures for biomedical application”, Proceedings of XV International workshop on Physics of semiconductor Devices (IWPSD) 2009, New Delhi.
+32
+Raju Lampande, Nilesh Barange, Rajendra Patrikar, “Nanoparticles Marker for Biological application using surface enhanced Raman Spectroscopy”, Nanotech conference & Expo 2010 , Anaheim CA ,USA, (Accepted) 33
+Anurag Zope,  W Khokle,  Raghvendra Deshmukh,  Rajendra Patrikar”, Constant Bias Current Gain Variation Method for Weak and Strong Inversion MOSFETs,” 14th IEEE VLSI Design & Test (VDAT) Symposium, July 2010.
+34
+Anita Deshmukh, Ravi Patil, Raghvendra Deshmukh, Rajendra Patrikar,”Asynchronous ADC Using Novel Asynchronous Subranging Scheme”,14th IEEE VLSI Design & Test (VDAT) Symposium, July 2010.
+35
+Praveen Kumar Reddy, Rajendra Patrikar,”A Novel Curvature Compensation Technique for voltage reference circuit”, 14th IEEE VLSI Design & Test (VDAT) Symposium, July 2010 36
+Anurag Zope, Waman Khokle, Raghvendra D. Deshmukh, and Rajendra Patrikar “Weak Inversion based Low Power Low Noise Sixth order gm-C Filter at 1V for ECG Application with 180nm Technology” VDAT 2009 37
+Raju Lampande, Chandrashekhar Kukade, Raghvendra D Deshmukh, Rajendra Patrikar “ An Algorithm for High speed, Low power Implementation of Modular Multiplier” VDAT 2009 38
+Amey Walke, W.S.khokle, Rajendra M Patrikar “Design of Low Power Low Pass Filter for ECG Application with deep Submicron technology” VDAT 2008-06-19 39
+Vinayak Pachkawade, Rajendra Patrikar, “ Selecting an optimunm bias current for an auxiliary amplifier for power optimisation” VDAT 2008 (accepted) 40
+Akojwar, S.G.; Patrikar, R.M.; Real Time Classifier For Industrial Wireless Sensor Network Using Neural Networks with Wavelet Preprocessors Industrial Technology, 2006. ICIT 2006. IEEE International Conference on 15-17 Dec. 2006 Page(s):512 – 517 41
+Pande, Rajesh; Patrikar, Rajendra; CAD tool for RF MEMS devices Design Automation Conference, 2008. ASPDAC 2008. Asia and South Pacific 21-24 March 2008 Page(s):89 – 94  Digital Object Identifier 10.1109/ASPDAC.2008.4484067 42
+Harode, A.N.; Pinge, M.; Joshi, A.; Patrikar, R.M.; Calculation of mobility using Monte Carlo method in a doped semiconducting single wall carbon nanotubes, Physics of Semiconductor Devices, 2007. IWPSD 2007. International Workshop on 16-20 Dec. 2007 Page(s):943 – 945 43
+Pande, R.S.; Jalgaonkar, A.; Patrikar, R.M.; A 3-D FEM based extractor for MEMS inductor with Monte-Carlo sampling Physics of Semiconductor Devices, 2007. IWPSD 2007. International Workshop on 16-20 Dec. 2007 Page(s):710 – 713 44
+Saket Sakunia, Shantanu A. Bhalerao, Abhishek V. Chaudhary, Mukund Jyotishi, Mandar Dixit, Raghav Jumde,  Rajendra M. Patrikar ” UbiSens: Achieving a low power Wireless Sensor Nodes” Fourth IEEE/IFIP International Conference on Wireless and Optical Communication Networks, 2007 45
+Navaram Kumar Rajendra Patrikar, Kishore Kulat, ”A Double-Pulsed Latch Flip-Flop” VDAT 2007 46
+Rahul Badghare; Sanjiv Mangal,Raghvendra Deshmukh, Rajendra Patrikar “FPGA Implementation of Low Power ASU Multiplier” VDAT 2007 47
+Sudhir Akojwar, Rajendra Patrikar “Neural Networks based Real Time Classifier for Wireless Sensor Networks and Framework for VLSI Implementation,” ISIE2007 IEEE International Symposium on Industrial Electronics June 4-7, 2007 48
+Sudhir G. Akojwar, R.M.Patrikar, Real Time Classifier For Industrial Wireless Sensor  Network Using Neural Networks with Wavelet Preprocessors, IEEE International conference on Industrial Technology, (ICIT 2006), 15-17 Dec 2006, Mumbai, INDIA 49
+Sudhir G. Akojwar, R.M.Patrikar, Classification techniques for sensor    data  and clustering architecture for wireless sensor networks, IAENG International conference on communication systems and applications (ICCSA’07) ,IMECS2007 , pp 1246 – 1255, Hong Kong, 21-23 march, 2007.
+50
+Mrunal. A. K, Shirasgaonkar. M, Rajendra Patrikar ” Highly Linear and Efficient AlGaAs/GaAs HBT Power Amplifier with Integrated Linearizer”;,. IEEE APCCAS 2006, Dec 4-5, Singapore 51
+Mrunal. A. K, Shirasgaonkar. M, Rajendra Patrikar  “Stacked Active Loads For Low Power, High Speed GaAs Digital Circuits”;. (IEEE APCCAS 2006, Dec 4-5, Singapore) 52
+Mrunal. A. K, Shirasgaonkar. M, Rajendra Patrikar “Highly Linear, Highly Efficient Power Amplifier Design, VDAT 2006, India.
+53
+Mrunal. A. K, Shirasgaonkar. M, Rajendra Patrikar “Power Amplifier Linearization using a Diode”;, IEEE MELECON 2006, May 16-19, Benalmádena (Málaga), Spain, pages: 173-176, Digital Object Identifier: 10.1109/MELCON.2006.1653064 54
+Sanjiv K. Mangal, Rahul.M.Badghare,R.B.Deshmukh, and R.M.Patrikar , “FPGA Implementation of Low power parallel multiplier ”, in Proc. of 20 th IEEE Int. VLSI Design conf., jan. 2007.
+55
+Amit Harode, Anup Narkhede, R.M.Patrikar ”An Investigation of the Temperature Dependence of the Mobility using Monte Carlo Method in Carbon Nanotubes” International Conference on MEMS and Semiconductor Nanotechnology (MEMS-NANO’05) December 2005 (I.I.T., Kharagpur).
+56
+Rajesh Pande, R.M.Patrikar “Effect of surface roughness on RF MEMS switch. “at International Conference on MEMS and Semiconductor Nanotechnology (MEMS-NANO’05) December 2005 (I.I.T., Kharagpur).
+57
+Hassan M Raza, R.M.Patrikar, “Can controller implementation on FPGA” PCEA-IFToMM International conference – PICA 2006 58
+R.V.Kshirsagar, R.M.Patrikar, Design of a reconfigurable multiprocessor core for higher performance and reliability of embedded systems”, IFIP International Conference on Very Large Scale Integration, held in Nice, France 59
+Shantanu A. Bhalerao, Abhishek V. Chaudhary, Rajendra M. Patrikar,”A CMOS Low Voltage Charge Pump”,in 20th Intl. Conf. on VLSI Design,2007 60
+Shantanu A. Bhalerao, Abhishek V. Chaudhary, Raghavendra B. Deshmukh, Rajendra M. Patrikar,”RF Energy Scavenging for Wireless Sensor Nodes”,in 10th IEEE VLSI Design And Test Symposium (VDAT), 2006 Held on August 9 – 12, 2006 at Goa 61
+Shantanu A. Bhalerao, Abhishek V. Chaudhary, Raghavendra B. Deshmukh, Rajendra M. Patrikar,”Powering Wireless Sensor Nodes using Ambient RF Energy”,in IEEE Conf. on Systems, Man, and Cybernetics, 2006 Held on October 8-11, 2006 at Taipei, Taiwan 62
+Makrand Shirasgaonkar, A.K. Mrunal, Rajendra M. Patrikar “Power Amplifier Linearization Using Diode on Voltage”, The 13th IEEE Mediterranean Electrotechnical Conference – MELECON – Benalmádena (Málaga) , Spain – May 2006 63
+Rajendra M. Patrikar Olivier Peyran “Design Planning for Uniform Thermal Distribution.” Design Planning for Uniform Thermal Distribution VLSI Design, 2006. Held jointly with 5th International Conference on Embedded Systems and Design., 19th International Conference on 03-07 Jan. 2006 Page(s):541 – 544 64
+Ganesan S Iyer and Rajendra M. Patrikar, “An Application of Neural Network Learning to Physical Design Optimization in VDSM Technology.” 8th VLSI Design & Test Workshops (VDAT), August,2004 65
+G anesan S Iyer and Rajendra M. Patrikar, “Effect on Surface Roughness on Physical Design Parameters.” 8th VLSI Design & Test Workshops (VDAT), August,2004.
+66
+Bai Ping; Li Er Ping; Rajendra M. Patrikar  “Simulation of Nano-scale  Single-Electron Devices and Circuits” Recent Advances in Computational Science and Engineering, Imperial College Press,  pp.235-238 67
+Rajendra M.Patrikar, Kiruthika Ramanatahan, “Surface Roughness Modeling” Recent Advances in Computational Science and Engineering, Imperial College Press, pp.239-242 68
+Rajendra M.Patrikar, Kantharaj Murali, and Li Er Ping, “A cad tool tostudy thermal distribution for block level placement in embedded systems,”Recent Advances in Computational Science and Engineering, Imperial College Press, pp.247-250.
+69
+Rajendra Patrikar, Kiruthika Ramanathan, Wenjun Zhuang “Surface Roughness Modelling with Neural Networks” Proceedings of International Conference on Neural Information Processing, CONIP02 pp. 1895-1899.
+70
+R.M.Patrikar, R.Lal and J.Vasi, “Physical Model For  Electron  Trap Generation In The MOS Oxides Stressed At High  Fields”  Physics  of Semiconductor Devices, Ed. by Krishan Lal, Narosa Publications  New Delhi (1993).
+71
+R.M.Patrikar, A.Mallik, L.Vijayraghvan, R.Lal, A.N.Chandorkar, “Flatband Shift Due To Irradiation on Pyrogenic Oxides”, Physics of Semiconductor Devices, p. 161, Supplementary Proceedings of Fifth International Workshop, Ed. by A.K.Shreedhar, W.S.Khokle, S.C.Jain, Published by Tata McGraw Hill Delhi, India. (1989).
+72
+R.M.Patrikar, S.V.Kolluri, U.R.Kasbekar, A.N.Chandorkar, A.V.Joshi, P.R.Apte, “Electromigration In Polysilicon”, Physics Of Semiconductor Devices, p. 161, Supplementary Proceedings of Fifth International Workshop, Ed. by W.S.Khokle and S.C.Jain, Published by Tata McGraw Hill Delhi, India. (1989) 73
+R.M.Patrikar, R.Lal and J.Vasi, “On The Nature Of Defect Generation  At Si-SiO  Interface”, Physics of Semiconductor  Devices,  p.  142, Supplementary Proceedings of Fifth International Workshop,  Ed.  by W.S.Khoklle and S.C.Jain, Published  by  Tata  McGraw  Hill  Delhi,  India. (1989).
+74
+R.M.Patrikar and R.Lal, “Why Time  Dependent  Dielectric  Breakdown Statistics Of SiO   Obeys  Log-Normal  Distribution”  presented  at International Symposium on  the  Physical  &  Failure  Analysis  of Integrated Circuits, Nov., 1989. (Singapore).
+75
+R.M.Patrikar and R.Lal, “Field Acceleration Factor  For  Dielectric Breakdown Of MOS Devices”, Fourth International Workshop On Physics Of Semiconductor Devices, Dec. 1987, Madras, India.
+76
+R.M.Patrikar and R.Lal, “Growth of thin oxides in nitric acid”, Third International Workshop On Physics Of Semiconductor Devices, Nov. 1985, Madras, India.

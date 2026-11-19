@@ -1,0 +1,30 @@
+SOURCE_URL: https://vnit.ac.in/finance-committee-2/
+TITLE: Finance Committee
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No.
+Name
+Designation
+Details 1
+Shri. Madabhushi Madan Gopal, IAS (Retd.)
+Former Additional Chief Secretary, Government of Karnataka
+Chairman 2
+Dr. Prem Lal Patel,
+Director, VNIT, Nagpur
+Member 3
+Joint Secretary (NITs) (Ex- officio)
+Ministry of Education, Government of India, New Delhi.
+Member 4
+Joint Secretary & Financial Advisor (Ex- officio)
+Integrated Finance Division, Ministry of Education, Government of India, New Delhi.
+Member 5
+Mr. Rajeev Madhukar Bhave
+Promoter and Director of M/s Vishwas Power Engineering Services Pvt. Ltd. Nagpur
+Member 6
+Prof. Milind Atrey
+Professor, Department of Mechanical Engineering, Indian Institute of Technology Bombay, Powai
+Member 7
+Shri Sachin S. Jagdale
+Registrar, VNIT, Nagpur
+Member-Secretary

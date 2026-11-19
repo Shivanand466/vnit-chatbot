@@ -1,0 +1,26 @@
+SOURCE_URL: https://vnit.ac.in/gian-2/
+TITLE: GIAN
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Workshops held under GIAN
+Sr.No.
+Name of the Coordinator
+Title
+Duration 1.
+Dr. Prabhat Sharma
+Advanced Wireless Communication Systems: A PHY Layer Perspective 12 -17 Dec. 2016 2.
+Prabhat Sharma
+Fundamentals of Optical Wireless Communication by
+Prof. Julian Cheng
+(Professor at University of British Columbia, Canada).
+14 – 19 Jan., 2018 3.
+Deep Gupta (Jan. 2018)
+Advanced Medical Imaging: Wireless Endoscopy Analysis by
+Dr. Petia Radeva
+(University of Barcelona, Spain) 02-06 Jan., 2018 4.
+Dr. R.K. Keshri
+Dr. H.M. Suryawanshi
+GIAN Course on Charging Systems for Electric Vehicles, Foreign Professor, Giuseppe Buja, Life Fellow IEEE, University of Padova, Italy 07-12 Dec., 2016 5.
+Dr. Pradyumn Chaturvedi
+Advanced Power Electronics for Future Energy Systems 2018 08 – 12 Jan., 2018

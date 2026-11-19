@@ -1,0 +1,94 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-avisha-tah/
+TITLE: Dr. Avisha Tah
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Avisha Tah
+Brief Bio
+Brief Bio
+Dr. Avisha Tah carried out post-doctoral research at IIT Madras on the topic of soft-switching techniques for power electronic converters. Presently, she is working as Assistant Professor in the Department of Electrical Engineering at VNIT Nagpur. Her research interests include control of power electronic converters to integrate renewable energy sources, soft-switching and PWM techniques of power converters.
+Education
+Degree
+Year
+Specialization
+University
+B. E.
+2012
+Electrical Engineering
+BESU, Shibpur
+M. Tech 2014
+Power and Energy Systems
+IIT Kharagpur
+Ph.D.
+2017
+Electrical Engineering
+IIT Kharagpur
+Contact Details fd
+Email:
+Address:
+avishatah@eee.vnit.ac.in
+Department of Electrical Engineering, VNIT Nagpur, Maharashtra, India
+Research Interest
+Research Interest
+Soft-switching and PWM techniques of power converters, Multilevel inverter, Renewable energy integration
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Sr. No.
+Responsibility
+Year
+Year
+Awards 2012
+Department topper in B.E. at BESU, Shibpur.
+2014
+Department topper in M.Tech (specialization in Power and Energy Systems) at IIT Kgp.
+S.No.
+Paper Citation 1
+S. Bouroju and A. Tah, “Modeling and Analysis of Actively-Damped DC-DC Boost Converter with Constant Power Load”, IEEE 8th International SCEECS, Bhopal,24-25 Feb, 2024.
+2
+A. Tah and D. Das, “Analysis on Different Aspects of Interconnected DC microgrids,” IEEE International Conference on Power Electronics, Drives and Energy Systems, presented in Trivandrum, India, 14-17 December 2016.
+S.No.
+Paper Citation 1
+A. Tah and Narasamma L., “Simple soft-switched phase-shifted FB converter for reduced voltage stress and negligible duty cycle loss,” IET Power Electronics, vol. 12, issue 11, pp. 2780-2792, 2019.
+2
+A. Tah and D. Das, “ Analysis and Investigation on Direct and Cross Coupling Effect of Small Isolated and Interconnected Wind Diesel Power Generating System,” IET Renewable Power Generation, vol. 11, issue 2, pp. 215-227, 2017.
+3
+A. Tah and D. Das, “An Enhanced Droop Control Method for Accurate Load Sharing and Voltage Improvement of Isolated and Interconnected DC Microgrids,” IEEE Trans. Sustainable Energy, vol. 7, no. 3, pp. 1194-1204, Jul. 2016.
+4
+A. Tah and D. Das, “ Operation of Small Hybrid Autonomous Power Generation System in Isolated, Interconnected and Grid Connected Modes,” Sustainable Energy Technologies and Assessments, 17(2016), 11-25.
+5
+A. Tah and D. Das, “Novel Analytical Method for the Placement and Sizing of Distributed Generation unit on Distribution Networks with and without considering P and PQV Buses,” International Journal of Electrical Power and Energy Systems, 78(2016), 401-413.

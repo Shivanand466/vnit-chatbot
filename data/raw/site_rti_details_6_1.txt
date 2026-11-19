@@ -1,0 +1,9 @@
+SOURCE_URL: https://vnit.ac.in/rti-details-6-1/
+TITLE: rti details 6/1
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Last Updated  Date: [last-modified]
+Information Disclosed on own Initiative 6.1  Item I information disclosed so that public have minimum resort to use to obtain information 6.1.1
+Item / information disclosed so that public have minimum resort to use of RTi Act to obtain information
+All relevant information is uploaded on institute website www.vnit.ac.in which includes annual reports for last 10 years, along with recent information related to admission, tenders, recruitment, TEQIP-III etc.

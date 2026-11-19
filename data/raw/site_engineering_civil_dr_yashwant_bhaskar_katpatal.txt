@@ -1,0 +1,439 @@
+SOURCE_URL: https://vnit.ac.in/engineering/civil/dr-yashwant-bhaskar-katpatal/
+TITLE: Dr. Yashwant Bhaskar Katpatal – VNIT- CIVIL Engineering
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Yashwant Bhaskar Katpatal
+Department Head, Professor
+Brief Bio
+Dr. Yashwant B. Katpatal is a Professor (HAG) at VNIT Nagpur. He joined VNIT Nagpur in 1993 after a brief stint at National Environmental Engineering Research Institute Nagpur from 1992-93. His research interest are in the area of Spatial Analysis through Remote Sensing data and Geographical Information System. Dr. Yashwant Katpatal was awarded several research projects sponsored by external agencies like MHRD, DST, CPHEEO, ISRO, BALCO, NARL etc. He has been granted 7 patents. Dr. Katpatal is passionate about ‘Earth Systems’ and human interaction, hence his area of research focusses on impact assessment using spatial analyses. Dr Katpatal has also worked as Dean (SC) during 2005-2009, Associate Dean (International Affairs) during 2017-2019, Chairman Special Cell of VNIT during 2014-2017, Head of Civil Engineering Department during 2021-2024. He is curently Dean ( Research and Consultancy) at VNIT since Jan 2024.  Dr Katpatal has Published more than 300 Research Papers in Int./National Journals/conferences/books. He has been invited to several international conferences as Speaker and member of the jury including Int. Symposium on Environment Management at Athens, Greece (1997); International Conference on Solid Waste Management at Philadelphia, USA (2008), Int. Conference on Earthquake Engineering at London, UK (2013) (Jury Member), AGU Int. conference at Washington, USA (2019) where he was also Paper presentation Judge.He believes in sharing scientific information and has delivered many Invited/ Expert lectures at various platforms like AICTE/ISTE/UGC/CPHEEO STTP, IWWA, Institution of Engineers, GSI, GTZ, WAPCOS, IPHE, MRSAC, RTMNU, RRSSC, NIT Bhopal, NIT Raipur, IIT Kanpur, GHRCOE, Amravati University, GSDA, CGWB, NBSS&LUP, Institution of town planners, Rotary & Lions club, ESRI, MOIL, NEERI, ACCE, RKNEC,PCOE,BDCOE,TIAG,IBM, DST, UGC Academic Staff College, etc. He has Guided 26 students for Ph. D. Degree, 103 students for M. Tech Thesis on Remote Sensing and GIS applications for water resources management, environment engineering, and urban planning. He is reviewer for many International Journals. Based on his research contributions, Dr Katpatal has been granted 7 patents while another 4 Patents on RS and GIS have been filed. Dr. Katpatal has completed more than 50 Consultancies in the areas of RS GIS applications to several organizations.He has been awarded several awards and best paper prizes for his contributions. He received ‘Young Scientist Award on his Doctoral Work, ‘Kamakshi Gold Medal’ by World Geospatial Forum, ‘Brijnandan Sharma Award’ from IWWA, University Gold Medal for standing First in the Country in Managment Program of IGNOU. He has Membership of various Professional Societies : Fellow/Life Member of Indian Society of Remote Sensing, Indian Water Works Association, Indian Water Resources Society, Indian Geological Congress, Indian Society for Technical Education, The Indian Society for Hydraulics, Institution of Engineers (India), Maharashtra Academy of Sciences, Mining Engineers Society, Agrometeorological Society, American Geophysical Union (AGU), European Association of Geophysicist and Engineers (2013-14) etc. He has organized several International /National Conference and Training Programs as Convener/Organizing secretary / Coordinator. Dr. Yashwant Katpatal believes that ‘Earth System and its sustainability’ is most important for mankind. He very much likes teaching and interaction with students.
+.
+Research Interest
+Remote Sensing & Geographic Information System
+Water Resource
+Management
+Environmental Impact Assessment
+Education
+Degree
+Year
+Specialization
+University
+PhD 1992
+Dr. HS Gaur University, Sagar, MP
+M.Tech 1988
+Dr. HS Gaur University, Sagar, MP
+Publications
+Linkedin
+Contact Details
+Name:
+Dr. Yashwant B. Katpatal
+Phone:
++91 712 2801083,+91 9422303373
+Email:
+ybkatpatal@rediffmail.com, ybkatpatal@civ.vnit.ac.in
+Address:
+Suyash,25 Saptagiri Nagar,Behind Narendra Nagar, Nagpur 440015 (Maharashtra)
+Sponsored Research Projects
+Consultancy Projects
+PhD Supervision
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Sponsored Research Projects
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Development Lab for EIA based studies through Remote Sensing
+MHRD
+Principal Coordinator 1997-2000 12 lacs
+Micromodel for groundwater recharge through characterization of the parameters using Remote sensing data and GIS.
+MHRD
+Principal Coordinator 2002-2004 5 lacs
+Environmental Impact Assessment studies for the Mining Areas of Vidarbha region using Multidate Multisensor Remote Sensing data.
+MHRD
+Principal Coordinator 2003-2005 10 Lacs
+Seismic Behaviour of underground structures
+DST
+Co-Principal Coordinator 2014-2017 57 Lacs
+Application of GNSS and atmospheric studies using navigation satellites and installation of GNSS receiver network
+National Atmospheric Research Laboratory, Gandaki
+Co-Principal Coordinator
+July 2016
+Expenditure incurred by NARL
+AI (Artificial Intelligence) in Soil Management for Diversified Agriculture
+ISRO -STIC
+Co-Principal Coordinator
+April 2023 18.5 Lakhs
+Feasibility Study on Flyash filling of Open cast mine at Manikpur Korba
+BALCO
+Co-Principal Coordinator
+October 2021 69.45 Lakhs
+National hydrology project for identification of causes for water level depletion in Coal Mines of Nagpur Region
+World Bank
+Expert Consultant to GSDA
+Jan 2022 60.34 Lakhs
+Use of Surface Water for Artificial Recharge to Groundwater in Over Exploited Area of Chauras, District Bhandara (Maharashtra)
+World Bank
+Expert Consultant  to GSDA
+Jan 2022 55.56 Lakhs
+Investigating the Linkages among Land Subsidence, Hydrological, Anthropogenic and Other Contributing Factors in Joshimath”
+National Water Mission, Ministry of Jal Shakti
+Co-PI
+Jan 2025 57.76 Lakhs
+Urban flood Resilience Index for Urban Areas
+CPHEEO
+CO-PI 2025-2027 46.04 Lakhs
+Consultancy Projects
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Minor Irrigation Division, Chandrapur, Maharashtra
+Coordinator 2022 3.8
+Ordinance Factory, Bhadravati, Maharashtra
+Coordinator 2022 4.5
+PWD, Maharashtra
+Coordinator
+Jan 2022 1.25
+WCL, Chandrapur
+Coordinator 2018 6.09
+VIDC, Maharashtra
+Coordinator 2018 3.84
+Chindwara Mines Ltd
+Coordinator 2017 2.42
+NEERI
+Coordinator 2017 4.94
+Lift Irrigation Division Bhiwapur
+Coordinator 2016 1.2
+Sidharud Adhyatm Samiti, Nagpur
+Coordinator 2016 0.12
+ImaGIS Nagpur
+Coordinator 2012 0.25
+PWD, Circle Chandrapur
+Coordinator 2011 0.62
+Bhupesh Baghel
+Coordinator 2011 0.94
+Medallion Consultancy Nagpur
+Coordinator 2011 0.49
+Hon Sessions Court Nagpur
+Coordinator 2011 0.4
+PWD Raipur Chattisgarh
+Coordinator
+Apr-10 6.62
+VIDC, Maharashtra
+Coordinator 2010 2.5
+Arun Tarar Project Engg. and managt Nagpur
+Coordinator
+Dec-10 1.44
+Apex spatial Technological solutions Pvt Ltd Nagpur
+Coordinator 2010 0.52
+MIHAN INDIA LIMITED
+Coordinator 2022 4.5
+Water Resources Department, Government of Maharashtra
+Coordinator 2022 3.25
+Water Resources Department, Government of Maharashtra
+Coordinator 2022 3.83
+PhD Supervision
+Title
+Student Name
+Completion Year
+Development and Management of Water resources of Bhandara District Using Geohydrological Parameters, Remote Sensing and GIS
+Y.A. Dube 2005
+Development of Decision Support system (D.S.S.) using Remote Sensing & GIS Techniques for sustainable Development of Micro-Watersheds
+Pinak Ranade 2009
+Micro model for development & augmentation of Groundwater Resource in urban setup of Nagpur metropolitan city,Maharashtra.
+P.K. Jain 2005
+Groundwater Resource Appraisal of Wardha District with recourse to Remote Sensing & GIS
+D.K. Agrawal 2007
+Analysis of Projection System Environments in Remotely Sensed rstaer and vector data and its application feasibility
+Rohit Mane 2007
+Designing a Spatial Decision Support System for Environmental Sustainability Assessments of mining Areas
+D.R. Sathpathy 2009
+The impact assessment based studies of erai Watershed in Chandrapur District, Maharashtra, using Geoinformatics approach
+Sanjay Patil 2010
+Designing a strategic model to implement PPP in Urban Water Sector
+H. C. Landge 2009
+Delineation of infiltration Characteristics within a watershed through integrated analysis of Spatial Parameters
+V.P. Mane
+June 2011
+Estimating Hydraulic characteristics of Flow regime in heterogeneous systems using Ground Penetrating Radar (GPR).
+A.D. Vasudeo
+October 2010
+Designing a Geohydrologic restoration model  for development and management of  Groundwater resources of  an over-exploited watershed
+Bhushan Lamsoge
+Dec 2013
+Development of spatial Seismic Risk Zonation module in GIS environment
+Sandeeep Shirkhedkar
+May 2016
+Spatial Correlation of Mechanical Properties of weathered Basaltic Terrain for foundation Characterization
+P.P. Saklecha
+Jan 2013
+Integrated Groundwater Management model for watersheds through spatial analysis of resources parameters
+Sarang Muley
+March 2015
+Impact of climatic variability on the response of hydrologic unit using Satellite Remote Sensing and Geospatial data
+Rajashri Bothale
+March 2016
+Groundwater Modeling in urban areas for recharge characterization using geoinformatics approach
+Tauseef A. Ansari
+June 2017
+Spatial Correlation of Surface and subsurface hydrological parameters for basin development
+Sarang Paranjape
+August 2020
+Study of Artificial Recharge to  aquifers using stream re-sectioning in reverse gradient, recharge shafts and  subsurface  harvesting structure in  Wardha district of Maharashtra state
+Vijay Bhusari
+Feb 2017
+Natural Disaster Vulnerability assessment of Gondia District Maharashtra India using digital elevation Modeling
+D K Pandey
+Feb. 2019
+Spatial Modeling for locating observation wells within diverse aquifers in watersheds using GIS
+Chandan Singh
+June 2018
+Impact assessment of global climate variability on water resource availability of Vena river basin in Vidarbha region using spatial approach
+Rishma C
+September 2018
+Study on groundwater augmentation of amb river basin umred, district nagpur, through aquifer characterization using geoinformatics approach.
+H D Bhave
+Nov 2021
+Spatial analyses including 3D Modeling for occurrence of Fluoride in the Chandrapur District
+Shilpa Janak
+June 2022
+Spatial Analysis of Impacts and Vulnerability of Transportation Network to Floods in Urban Watersheds
+M.S. Mukesh
+July 2022
+Assessment of Climate Change Impacts in Upper Bhima Sub-basin, Western Maharashtra, India using Spatial Approach
+Digambar Sambhaji Londhe
+July 2023
+Spatial Assessment of Climate Variability Impacts due to ENSO and IOD on Climate Sensitive Parameters over the Central India Region
+Tulshidas Jibhakate
+June 2026
+Spatial Analysis for comparative assessment of road infrastructure in organic and planned urban growth
+Anoona N P
+Ongoing
+Critical spatial assessment of parameters leading to flood disaster in urban areas
+Soumya Ranjan Khuntia
+Ongoing
+Spatio- temporal assessment of NPP for performance evaluation of irrigation
+Viditi Jaltare
+Ongoing
+Slope stability based analysis of dumps
+Shrikant lahbar
+Ongoing
+Book or Book Chapters
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Overlaying carrying capacity parameters for impact assessment studies through remote sensing
+Katpatal, Y.B.
+Engg. Geol. & Env., A.A.Balkema Publishers, USA pp. 1293-1298.
+905410879 7 1997
+On the deformation of Barr Conglomerate, Western flank of Delhi orogen, Rajasthan
+Katpatal, Y.B.
+The Indian Precambrians’ Special volume in the Honour of Mr. A.B. Roy, Scientific publishers, pp279-293 81-7233-186-X 1998
+Computing LESI around transportational network in Nagpur city
+Katpatal, Y.B. , S.P. Jog, R.S. Ayyangar, S. Srivastava
+Narosa Publishing House, New Delhi, Vol. 2, pp 533-541 81-7319-216-2 1998
+Pioli watershed health assessment through Remote Sensing and GIS
+Katpatal, Y.B.
+Published by Jain Brothers (New Delhi), Edited By K. S. Raju, A. K. Saraf, M. L. Dash, pp 153-159 81-86321-98-5 2004
+Identification of Water Conservation Sites in Kolar Watershed of Nagpur District, Maharashtra using Geographical Information System (GIS) TechniqueWatershed Management for Sustainable Development
+P. Kundal, S.V. Muley, and Y.B. Katpatal
+R.N. Tiwari and G.P. Pandey Publisher: Excellent Publishers, New Delhi 978-93-83083-82-4 2015
+Knowledge Dissemination for Ground Water Recharge in an Urban area using Spatial Decision Support System
+Tharimena Sai Kiran, Katpatal Y.B
+Radha publications, New Delhi 978-81-7487-760-4 2012
+Surface Runoff Depths by SCS Curve Number Method Integrated with satellite image and GIS Techniques. Urban Hydrology, Watershed Management and Socio-Economic Aspects
+Thiyam Tamphasana Devi, Katpatal Y. B
+Urban Hydrology, Watershed Management and Socio-Economic Aspects A book by Springer Publications 978-3-319-40195-9 2016
+Groundwater modeling in a semi-confined aquifer using GIS and MODFLOW
+Y.B. Katpatal, Priyanka Thakare, SNS Maunika
+Water management and Water governance Hydrological Modeling 978-3-030-58051-3 2021
+Monitoring of soil moisture variability and estabilishing the correlation with topography by remotely sensed GLDAS data
+Kaushalendra Verma, Katpatal Y.B
+Water management and Water governance Hydrological Modeling 978-3-030-58051-3 2021
+Spatial and Temporal Variations of Groundwater Level: A Case Study of Wainganga Sub-basin, Nagpur, India
+Singh C.K., Katpatal Y.B
+Groundwater. Water Science and Technology Library, vol 76. Springer, Singapore 978-981-10-5789-2 2018
+Geospatial applications in water resource management in special reference to climate change
+Katpatal, Y.B.
+Geospatial Applications in Water Resource Management with Special Reference to Climate Change 978-3-319-78710-7 2018
+Study of Pedestrian Movement in Correlation to the Transportation Infrastructure and Land Use/Land Cover in a Fast Developing Indian City
+Mukesh, M.S., Katpatal, Y.B.
+Geomatics in Civil Engineering; Springer Publication.
+978-981-13-7067-0 2019
+Remote Sensing and GIS-Based Analysis to Envisage Urban Sprawl to Enhance Transport Planning in a Fast Developing Indian City
+Anoona, N.P.,, Katpatal, Y.B.
+Geomatics in Civil Engineering; Springer Publication.
+978-981-13-7067-0 2019
+Estimation of Drought Indices for Assessing the Impact of Climatic Variables on Ground Water Fluctuation Over Upper Bhima Basin
+Akshay B. Jipkate Digambar S. Londhe and Yashwant B. Katpatal
+Book Chapter Ground Water management, Editors: Dalchand Jharia, Springer, Singapore.
+2020
+MODFLOW based Micro Watershed Groundwater Modeling – A case study at Junewani watershed, Hingna Taluk, Nagpur, Maharashtra
+Priyesh Biroju and Yashwant B. Katpatal
+Book Chapter Ground Water management, Editors: Dalchand Jharia, Springer, Singapore.
+2020
+Performance Evaluation of Pench Command Area of Maharashtra, India using Spatial Approach
+Katpatal Y B, Garima Newar, Digambar S Londhe
+MEDI-CAPS UNIVERSITY, INDORE, Springer Nature Singapore.
+978-981-15-5195-6 2019
+Patents
+Patent Title
+Application No.
+Date
+Present Staus
+Conformal Analysis of Spatial Shift in Conformal data 782/MUM/2012 23.3.1012
+Patent No. : 338692 Awarded on 17.6.20
+Assessing impacts of Mine dumps on sediment yield within mining watershed using remote sensing 783/MUM/2012 23.3.1012
+Patent No. : 348305 Granted on 30.9.20
+A SDSS Design Approach for assessing Environmental Sustainability in Mining Areas.
+898/MUM/2010 A
+Filed on: 29.03.2010 Pub on : 11.06.2010
+Granted on 24.10.2019 Patent No.:323595
+A Process for Water Quality Assessment Through Implementation of Cyclical Hierarchical Modelling Based DSS Module 1621/MUM/2011
+Filed On: 01.06.2011
+Granted On 17.05.2021 Patent No. : 366863
+A Fault Importance Index as Earthquake Source Criteria for Seismic Zonation 2021103681 28 June 2021
+Patent number: 2021103681 Awarded in March 2022
+An Apparatus for Recharging an Aquifer 202121024034 29/05/2021
+Patent number: 465990 awarded in Nov 2023
+Generation of Cummulative Road network service quality index for road networks in an urban area using geoinformatics 743/MUM/2015 dated 7.3.15
+Patent No. 562000 granted on 6.3.2025
+STTP & Workshop
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Resources Planning and Management using Remote Sensing and GIS Technology
+ISTE / AICTE
+VNIT Nagpur
+March 15-26, 2004 46
+Planning and management of Urban Infrastructure
+AICTE
+VNIT Nagpur
+July 20-25, 2009 40
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 27 to 31  Dec 2021 43
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 7-11 Feb 2022 43
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 7-11 March 2022 42
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 18-22 April 2022 43
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 20-24 June 2022 44
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 18-22 July 2022 43
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 22-26 August 2022 42
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 8-12 October 2022 42
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 14-19 November 2022 43
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 10-15 Dec 2022 43
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur
+July 31st to 5th August, 2023 35
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur
+Aug 28- Sept 2, 2023 35
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 9-14 Oct 2023 35
+Basic course Geographical Information System  for officers of Land record Department
+Govt of Maharashtra
+VNIT Nagpur 11-16 Dec 2023 35
+Administrative Responsibilities
+Responsibility
+Institute
+Role
+Year
+Dean ( R & C),
+VNIT Nagpur
+Dean
+Jan 2024 to Present
+Dean Student Counselling
+VNIT Nagpur
+Dean
+March 2006- March 2009
+Head, Department of Civil Engineering
+VNIT Nagpur
+Head
+Jan 2021- Jan 2024
+Associate Dean ( International Affairs and NIRF)
+VNIT Nagpur
+Coordinator 2017-19
+Chairman, Special Cell of VNIT
+VNIT Nagpur
+Chairman, 2015-2018
+Member APEC
+VNIT Nagpur
+Member 2015-2018
+Warden, Boys Hostel
+VNIT Nagpur
+Warden 1995-2001
+Warden, Boys Hostel
+VNIT Nagpur
+Warden 2003-2004
+Deputy Chief, Spot Valuation center at VRCE, for Nagpur University,
+VNIT Nagpur
+Deputy Chief, 2001
+Chief Invigilator, winter examination 2000.
+VNIT Nagpur
+Chief Invigilator, 2000
+Member Senate
+VNIT Nagpur
+Member
+Since 2006
+Professor In Charge
+AXIS, VNIT
+Coordinate Activities 2004 to 2014
+Professor In Charge
+Arohi, VNIT
+Coordinate activities 1995-2001
+Awards & Honors
+Year
+Award Description 1993
+Young Scientist Award” on the doctoral work, 1993 from M.P.Council of Sciand Tech.
+1998
+Best Lecture Award given by Indian Water Works Association at Chandigarh, 1998.
+2004
+Best Lecture Award given by Indian Water Works Association at Hyderabad 2004.
+2001
+UNIVERSITY GOLD MEDAL for standing First in the country in the Management Program of IGNOU in 2001.
+2002
+Invited by Hon. Prime Minister of India as State Guest to witness the Republic Day Parade from the Prime Ministers Box on 26.1.2002 for meritorious achievements 2006
+National B S Award given to young engineers/scientist in the area of water research at National Convention of IWWA at Jaipur, 2006.
+2011
+The KAMAKSHI GOLD MEDAL for Young Geospatial Scientist by Geospatial World Forum 2011 on 18th January at Hyderabad, India.
+2016
+Conferred Hon Fellowship from Maharashtra Academy of Sciences, in Nov 2016.
+2013
+Best paper Prize for paper at National Symposium ISRS Dec.2013 Vishakhapatanam 2013
+Best Paper Award, National Workshop on ” RS & GIS For Governance” IE (I)2013.
+2017
+Editor’s Best Paper in ‘Hydrogeology Journal’ on innovative design in 2017.
+2023
+Hon. Governor of maharashtra appointed him on Academic Council of RTMNU 2023
+Hon. Governor of maharashtra appointed him  on Advisory Council of RTMNU

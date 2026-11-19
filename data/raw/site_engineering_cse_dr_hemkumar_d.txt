@@ -1,0 +1,115 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-hemkumar-d/
+TITLE: Dr. Hemkumar D​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Hemkumar D​
+Brief Bio
+Brief Bio
+Assistant Professor
+Department of Computer Science Engg.
+VNIT, Nagpur
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2022
+Data Privacy
+NIT Warangal 2
+M.Tech 2012
+Computer Science and Information Security
+NIT Surathkal 3
+BE 2008
+Information Science
+VTU
+Contact Details
+Phone:
+Email:
+Address:
+8919645103 hemkumar@cse.vnit.ac.in
+Room No. 508, New Academic building VNIT Nagpur
+Research Interest
+Data Privacy
+Fedrated Learning
+Differential Privacy
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+DEC
+Dept. Level
+Co-ordinator 2023-24 2
+Representative of TEQIP Data and NBA Co-ordinator (UG and PG)
+Dept. Level
+Co-ordinator 2022-24 3
+LH-II Incharge
+Dept. Level
+Incharge 2022-24
+Sr. No.
+Awards 1
+Best Paper – 2023 in IEEE International Conference on Applied Intelligence and Sustainable Computing
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+D. Hemkumar,
+“Compare the Impacts of Data Correlation on Privacy Leakage in a Combined Privacy Preserving Approach,”
+International Conference on Applied Intelligence and Sustainable Computing (ICAISC), Dharwad, India, 2023, pp. 1-6, doi: 10.1109/ICAISC58445.2023.10199728.
+2023 2
+Hemkumar. D,
+“Data Correlation behaviour on Privacy Leakage in Differential Privacy,”
+International Conference on Computer, Electronics & Electrical Engineering & their Applications (IC2E3), Srinagar Garhwal, India, 2023, pp. 1-6, doi: 10.1109/IC2E357697.2023.10262438.
+2023 3
+D. Hemkumar and K. Vinaykumar,
+“Aggregate TCP Congestion Management for Internet QoS,”
+International Conference on Computing Sciences, Phagwara, India, 2012, pp. 375-378, doi: 10.1109/ICCS.2012.10.
+2012 4
+Mahto, Anil Kumar, Ajay Prasad, D. Hemkumar, and Prity Kumari.
+“Finding Optimal Tour Length of Mobile Agent in Wireless Sensor Network.”
+In Conference on Advances in Communication and Control Systems (CAC2S 2013), pp. 588-592. Atlantis Press, 2013.
+2013

@@ -1,0 +1,19 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/office-staff/
+TITLE: Office Staff | VNIT Nagpur Computer Science Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Office Staff at Department of computer science & engineering
+Sr. No.
+Name
+Designation
+Email
+Pics 1
+Mr. Gaurav Khajone
+Senior Assistant gauravkhajone@vnit.ac.in 2
+Mr. Gopal Thakare
+Junior Assistant gopalthakare@vnit.ac.in 3
+Ms. Aishwarya Hardas
+Office Attendant aishwaryahardas@vnit.ac.in 4
+Mr. Aniruddha Kondalkar
+Office Associate (Ad-hoc) mta1_cse@vnit.ac.in

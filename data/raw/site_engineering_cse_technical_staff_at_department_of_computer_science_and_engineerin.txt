@@ -1,0 +1,27 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/technical-staff-at-department-of-computer-science-and-engineering/
+TITLE: TECHNICAL STAFF AT DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING​ | VNIT Nagpur Computer Science Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+TECHNICAL STAFF AT DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+Sr. No.
+Name
+Designation
+Email
+Pics 1
+Mrs. Deepali Deshpande
+Technical Officer dsdeshpande@vnit.ac.in 2
+Mr. Neeraj Singh Bisht
+Technical Assistant neerajbisht@vnit.ac.in 3
+Mr. Abhishek Manoj Warthi
+TECHNICAL ASSISTANT abhishekwarthi@vnit.ac.in 4
+Mr. Akash Mahajan
+Technical Assistant akashmahajan@vnit.ac.in 5
+Mrs. Khanjali Mohod
+Technical Associate (Ad-hoc) khanjalimohod@vnit.ac.in 6
+Mrs. Aparna Marjiwe
+Technical Associate (Ad-hoc) aparnamarjiwe@vnit.ac.in 7
+Mr. Mayur Meshram
+Technical Associate (Ad-hoc) ta4_cse@vnit.ac.in 8
+Ms. Poonam Dahiya
+Technical Associate (Ad-hoc)

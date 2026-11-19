@@ -1,0 +1,22 @@
+SOURCE_URL: https://vnit.ac.in/reports-on-teqip-iii-conferences-workshop/
+TITLE: Reports on TEQIP III Conferences/Workshop
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Departments 1.
+Computer Science
+Ashish Tiwari 2.
+Electrical & Electronics
+Pradyumn Chaturvedi_STTP
+Pradyumn Chaturvedi_Visit 3.
+Electronics and Communication
+Deep Gupta 4.
+Metallurgical & Materials
+Jatin Bhatt
+Ajeet Kumar Srivastav 5.
+Mechanical
+V. R. Kalmakar
+A. B. Andhare, Prasad Kane & Sunil Joshi 6.
+Civil
+M. V. Latkar
+Kartik Balasundaram

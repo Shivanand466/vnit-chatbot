@@ -1,0 +1,30 @@
+SOURCE_URL: https://vnit.ac.in/section/uba/pi-village-adoption-list/
+TITLE: PI Village Adoption list – VNIT Nagpur – uba
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Village Adoption list
+Village Name
+Tehsil
+District
+PI, UBA, Coordinator
+Wagdara
+Wardha
+Wardha
+Dr. Vipin Kamble
+Amgaon Deoli
+Umred
+Nagpur
+Dr. Sonali Tajane
+Warthi
+Bhandara
+Bhandara
+Dr. Shrinivasan V
+Palli
+Bhamragad
+Gadchiroli
+Dr. Pravin Sawarkar
+Petha
+Etapalli
+Gadchiroli
+Dr. Udaysinh T Bhosale

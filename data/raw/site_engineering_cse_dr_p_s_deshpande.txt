@@ -1,0 +1,160 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-p-s-deshpande/
+TITLE: Dr. P. S. Deshpande​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. P. S. Deshpande​
+Brief Bio
+Brief Bio
+Head of the Department of Computer Science and Engineering.
+Working as Professor in Department of Computer Science in VNIT
+Consultant n the area of Information Systems, Data Mining, Pattern Recognition
+IT auditor for Nagpur Municipal Corporation
+Chairman – ACM Nagpur Local Chapter
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+Computer Science
+VRCE, Nagpur University 2
+M.Tech.
+Computer Science
+IIT Bombay
+Contact Details
+Phone:
+Email:
+Address:
+0712-2801026 psdeshpande@cse.vnit.ac.in
+VNIT, Nagpur head.cse.vnit.ac.in
+VNIT, Nagpur
+Research Interest
+Database Management Systems
+Data warehousing & Mining,Big Data
+Pattern Recognition
+Machine Learning
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Center of Excellence in Combedded Systems 2012 500 Lakhs 2
+Automatic Indexing for Devnagari documents
+One fulltime Ph.D. scholar and M.tech. students 2013
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Evaluation of Financial System for ERP
+Maharashtra Anilmal & Fishery Sciences University, Nagpur
+Dr. P. S. DeshpandeAnil S. Mokhade 2012
+Rs.22,060/- 2
+Data Center Technical bid evaluation
+Nagpur Municipal Corporation
+Dr. P. S. DeshpandeAnil S. Mokhade 2012
+Rs.48,120/- 3
+Strategy planning for Computerization & Draft preparation of Request For Proposal Document
+Nagpur Improvement Trust
+Dr. P. S. DeshpandeAnil S. Mokhade 2013
+Rs.44120/- 4
+Information Audit of Nagpur Municipal Corporation
+Nagpur Municipal Corporation
+Dr. P. S. DeshpandeAnil S. Mokhade 2013
+Rs.12 lacs 5
+ImplementationofSmart ClassroomTechnology andITInfrastructureatChandrapurForest Academy
+Department of Forest,Government of Maharashtra
+Dr.P.S.DeshpandeDr.Meera DhabuDr.Ashish Tewari 2019
+Rs 35 lacs 6
+Design of Secured Website
+South Central Cultural Zone
+Dr.P.S.DeshpandeDr.Meera Dhabu 2019
+Rs.50000 7
+Complete Development of meter data acquisition system for AMR project
+MAHATRANSCO,Mumbai
+Dr.P.S.DeshpandeDr.Anil MokhadeDr.Meera Dhabu 2019
+Rs 45 lacs 8
+Implementation of corporate data warehouse
+MAHATRANSCO,Mumbai
+Dr.P.S.DeshpandeDr.Anil MokhadeDr.Meera DhabuDr.Poonam Sharma 2019
+Rs. 75 lacs
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Oracle 7 Application Developers Guide
+Pustak Mahal, New Delhi 1997
+Oracle 8i SQL/PLSQL Programming
+Wiley DreamTech Press Pvt.Ltd. ,New Delhi 2001
+Oracle 9i SQL/PLSQL Programming
+Wiley DreamTech Press Pvt.Ltd. ,New Delhi 2003
+C and Data Structures
+Charles River Media,USA 2003
+Data Warehousing using Oracle9i/10G
+Wiley DreamTech Press Pvt.Ltd. ,New Delhi 2004
+Oracle 10G Programming
+Wiley DreamTech Press Pvt.Ltd. ,New Delhi 2005
+Multidimensional Modelling and Data Mining
+Wiley DreamTech Press Pvt.Ltd. ,New Delhi 2009
+Oracle 11g SQL/PLSQL Programming
+Wiley DreamTech Press Pvt.Ltd. ,New Delhi 2011
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Member ACM, 4426184, Chairman –Nagpur Local ACM Chapter
+Spreading awareness of new technology, Conducting workshops , lectures, Collaboration of academics and industry 2
+Member , Board of Studies
+Govt. College of Engg. Amaravati
+Designing academic curricula 3
+Member , Board of Studies
+Govt. College of Engg. Jalgaon
+Designing academic curricula 4
+Member , Board of Studies
+NIT Raipur
+Designing academic curricula 5
+Member, RPC
+NIT Surat
+Ph.D. progress evaluation 6
+Member, Technical Committee
+Technical Committee , CCB -2010
+Design and implementation of complete admission process for 30 NIT’ and CFI
+Sr. No.
+Awards
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1

@@ -1,0 +1,37 @@
+SOURCE_URL: https://vnit.ac.in/1-7-rti-details-backup/
+TITLE: 1.7 RTI details backup
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+1.7  Boards, Councils, Committees and other Bodies constituted as part of the Public Authority [Section 4(1)(b)(viii)] 1.7.1
+Name of Boards, Council, Committee etc.
+Board of Governance
+,
+Finance Committee,
+Building & Works Committee,
+Senate Members
+Staff Selection Committee
+Rajbhasha committee
+Store purchase committee
+Grievance Cell Committee
+Women Grievance Cell
+VNIT Deans
+Associate Deans
+Divisional Chairs 1.7.2
+Composition
+NIT Act 1.7.3
+Dates from which constituted
+As per NIT Act 2007 1.7.4
+Term/ Tenure
+NIT Act 1.7.5
+Powers and functions
+NIT Act 1.7.6
+Whether their meetings are open to the public?
+Yes 1.7.7
+Whether the minutes of the meetings are open to the public?
+Yes 1.7.8
+Place where the minutes if open to  the public are available?
+Senate meeting
+Finance meeting
+BoG meeting
+BWC meeting

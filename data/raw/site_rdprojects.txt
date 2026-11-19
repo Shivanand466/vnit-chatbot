@@ -1,0 +1,690 @@
+SOURCE_URL: https://vnit.ac.in/rdprojects/
+TITLE: R & D Projects
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+R&D Projects associated with Institute
+Applied Mechanics
+Architecture & Planning
+Chemistry
+Civil Engineering
+Chemical Engineering
+Computer Science & Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+Centre for VLSI & Nanotechnology
+Mathematics
+Mechanical Engineering
+Metallurgical and Material Engineering
+Mining Engineering
+Physics
+Applied Mechanics
+Sr. No.
+Project title
+Funding Agency
+(with date of award)
+Cost of Projects
+(Rs. In lakhs)
+Investigator(s)
+Present Status of the project 1
+Development of Technology for Rapid Construction of Staging of RCC Elevated Service Reservoir
+M/s Tejas Constructions & Infrastructure Private Limited, Pune 8.0
+Dr. R S Sonparote
+Ongoing 2
+Experimental Investigation on Shear Strength Standard grades of Plain concrete
+(M-20 to M-55)
+D P Jain and Group, Nagpur 5.0
+Dr Sangeeta Gadve
+Ongoing
+Architecture & Planning
+Sr. No.
+Project Title
+Funding Agency (with date of award)
+Cost of Projects
+(Rs. In lakhs)
+Investigator(s)
+Present Status of Project 1.
+Developing Framework for Heat Vulnerability Assessment and Model Heat Action Plan for Indian Cities
+National Disaster Management Authority; 23.03.2020 51.2
+Dr. Rajashree Kotharkar
+Dr. Ravindra Keskar
+Ongoing 2.
+Developing Regional Circulating and Ecological Sphere Framework for Enhancing Sustainable and Resilient development of City-Regions in South & South-East Asia
+IGES, Japan & START International, USA 18.03.2021 20.0
+Dr. Sameer Deshkar
+Ongoing 3.
+Developing Urban-Rural Partnerships Framework to Mitigate Climate-induced Water Availability Impacts on Food, Energy, Water (FEW) Security at Regional Level
+Asia Pacific Network for Global Change Research 01.02.2021 18.0
+Dr. Sameer Deshkar
+Ongoing
+Chemistry
+Sr. No.
+Project Title
+Funding Agency
+(with date of award)
+Cost of project (Rs. In Lakhs)
+Investigator
+Present status of the project 1
+Extraction of high value products from potato peel
+Merino Industries 24 January, 2019 15.00
+Dr. Anupama Kumar
+Dr. S.A. Mandavgane
+To be completed on 30 April, 2022 2
+Waste to wealth: Extracting nutraceutical (polyphenols) from tropical fruits’ residue by biorefinery approach
+MoFPI 16 October, 2019 32.74
+Dr. Anupama Kumar
+To be completed on 15 April, 2022 3
+Green Preservatives for enhancing the shelf life of Fruits and Vegetables using Biorefinery approach
+.
+KVIC 25 March, 2021 14.95
+Dr. Anupama Kumar
+Ongoing
+Civil Engineering
+Sr. No
+Project Title
+Funding Agency
+Cost of Project (Rs. in Lakhs)
+Investigator(s)
+Present status 1
+Technical & Feasibility study of overburden rock of Dongri Buzurg & Kandri Mines for consolidated hydraulic stowing in underground mines
+MOIL, India 39.25
+Prof I. L. Muthreja,
+Dr. Rajendra Yerpude
+Dr. A. D. Ghare
+Ongoing 2
+Design development of sustainable construction material from agricultural waste
+Housing and Urban Development Corporation 23.50
+Dr. R. V Ralegaonkar,
+Dr. Sachin A Mandavgane &
+Dr. Sachin V. Bakre
+Ongoing 3
+Seismic Behaviour of Underground Structure
+DST Oct 2014 56.70
+PI-Dr. A. Mandal
+Co-PI-O.R. Jaswal/Y B Katpatal
+Ongoing 4
+Modeling of permeability in multi-layered soil system using shear and compression wave velocities at different confining stress
+Science & Engineering Research Board, SERB, DST Govt of India
+( 04 June 2014) 22.61
+Dr. A. Patel
+Ongoing 5 1.      Manufacture of Geopolymer Flyash 2.      sand 3.      NTPC Raipur 4.      ( WR –II) 2016 40
+Dr. S.B. Wanjari
+Ongoing 6
+Use of RBI 81 for stabilization of roads
+Alchemist Tuchunologist 12
+V,S.landge, A.D.Vasudeo
+Ongoing 7
+Use of Zycoseal for road sub base stabilization
+Zydex industries 12
+V,S.landge, A.D.Vasudeo
+Ongoing 8
+Development of low cost, durable precast compound wall
+Department of Forest, Maharashtra State 5.64
+Abhay Tawalare,
+S. P. Wanjari
+Ongoing 9
+Predictive Approach for Early Detection of Contamination Zone in an Intermittent and Continuous Water Supply System and its health impact
+Department of Science and Technology, DST/TM/WTI/2K16/171(G) dated 30.12.2016 77.56
+Pawan Labhasetwar
+Rajesh Gupta,
+Pranav Nagarnaik, and
+Abha Sargaonkar
+Ongoing 10
+Multi-purpose multi-objective reservoir operation and planning using JAYA algorithm for equitable water distribution within Upper Godavari Basin
+SERB-DST (ECR) 15.93
+A B Mirajkar
+Ongoing 11
+Site classification scheme and amplification factors for Indian seismic design code
+File No : ECR/2016/001316
+SERB-DST 31.32
+Shrabony Adhikary
+Ongoing
+Chemical Engineering
+Sr.No.
+Project Title
+Funding Agency (with date of award)
+Cost of projects (Rs. In Lakhs)
+Investigator(s)
+Present status of the project 1.
+Combinatorial Approach to Predict Synergistic Ablation Behaviour of Hybrid Nano-Filled Phenolic-Carbon Composites under Aerodynamic Loading through Experimentations and Process Model Simulations
+Scheme for Promotion of Academic and Research Collaboration (SPARC), Ministry of Education Govt of India New Delhi
+Rs. 45,42,908 /-
+Prof. Dr. Shriram S. Sonawane
+,  Department of Chemical Engineering, Visvesvaraya National Institute of Technology, Nagpur MS. India,
+Dr. Raghu Raja Pandiyan Kuppusamy
+, Department of Chemical Engineering, NIT Warangal, INDIA, Prof.
+Dr. SHIRISH H SONAWANE
+, Department of Chemical Engineering, NIT Warangal, INDIA
+Awarded and Ongoing 2.
+Compact novel hybrid system for the human urine recycling and portable water recovery for long term human space mission
+ISRO, Department of Space, Govt of india 26.65
+Dr Shriram S. Sonawane, Dr Arvind Mungrey and Dr Alka Mungrey
+Ongoing 3.
+Thermal transformation of waste toner into Carbon nanotubes and Iron in a novel cascade reactor system
+SERB,DST
+Dr. R. P. Vijayakumar
+Ongoing 4.
+Feasibility study on Fly ash Filling of Open Cast Mine at Manikpur, Korba
+Bharat Aluminium Company Limited 69.45
+Dr. Diwakar Z. Shende (Co-PI) + 5
+Ongoing 5.
+On farm brown and green agrowaste biorefinery using traditional wisdom
+(DST/TDT/WMT/Traditional tech waste/2021/01)
+DST 34.73
+Dr. S. A. Mandavgane
+Ongoing 6.
+Development of process for sulphur removal from bottom ash of thermal power plant
+NTPC, Govt of India 6
+Dr. Shriram S. Sonawane
+Completed 7.
+Use of Biomass Ash to enhance the nutrient supply to the plant and effect on soil health, 55/14/02/ 2020-BRNS/ 35006
+DAE-BRNS 34.1
+Dr. S. A. Mandavgane
+Dr. Sonali Tajane,
+Dr. Sayaji Mehetre
+Ongoing 8.
+Development of valuable products from stubble waste/agricultural straw by bio refinery approach and field trials, (DST/TDT/WMT/2019/32)
+DST 6
+Dr. S. A. Mandavgane
+Ongoing 9.
+Development of valuable products from stubble waste/ agricultural straw by biorefinery approach and field trials
+(DST/TDT/WMT/2019-32A)
+DST 167.6
+(VNIT share: 56.71)
+Dr. S. A. Mandavgane
+Dr. Ashish Chaurasia
+Ongoing 10.
+Experimental Investigations of prototype designed Critical Heat Flux (CHF) Enhancement of High Performance Heat Transfer Nanofluids using SWCNT & MWCNT’S based Nanoparticles
+SERB,DST 50
+Dr Shriram S. Sonawane
+Ongoing 11.
+Valuable products from oranges – addressing a problem of Nagpur Division of Vidarbha, the largest orange producer (DST/SSTP/2018/76)
+DST 60.5
+Dr. S. A. Mandavgane
+Dr. Sonali Tajane,
+Dr. Yogendra Shastri,
+Dr. S. N. Naik
+Ongoing 12.
+Removal of Water from Spent acid
+Ordnance Factory Bhandara
+September 2017 11.32
+Dr. M. N. Varma
+Dr. K. L. Wasewar
+Dr. D. Z. Shende
+Dr. C. Ravikumar
+Completed 13.
+Development of orange waste bio refinery
+SYST-DST 11.16
+Dr. Sonali P. Tajane (PI)
+Completed 14.
+Development of a simple and cost effective process for recovery of proteins from dairy waste
+SYST-DST 15.98
+Dr. Shailesh Agrawal (PI)
+Completed 15.
+Development of starch based polyurethane Nano-coatings for packaging application by Sono-chemical approach
+MHRD, Republic of Tunisia & DST, Govt. of India 15
+Dr Shriram S. Sonawane and Dr Shirish H Sonawane
+Ongoing 16.
+Process Development for Production of Janus Nanoparticles for Selected Catalytic Reactions
+DST 23
+Dr Shriram S. Sonawane and Dr Shirish H Sonawane
+Ongoing 17.
+Development of Cost Effective Process for Phyco-Remediation of Dairy Wastewater and Valorization of Algal Biomass for Production of Bio-Succinic Acid: A Sustainable Approach towards bio-refinery
+DST-SERB 20
+Dr. Kailas Wasewar
+Dr. Suvidha Gupat
+Ongoing 18.
+Design and synthesis of ionic liquids for separation of bio-butanol from fermentation broth to enhance its production
+DBT 50
+Dr. Kailas Wasewar
+Dr. Ashish Chaurasia,
+Dr. Pradip Dhamole
+Ongoing 19.
+Process development of potato biorefinery
+SERB-DST 66.9
+Dr. Sachin Mandavgane (PI), Dr. Pradip Dhamole, Dr. Ashish Chaurasia
+Completed 20.
+Development of prototype lantern powered by spent laptop batteries
+SYST-DST 12.01
+Dr. Ravi Methekar (PI)
+Completed 21.
+Selective separation of water from acid mixture
+Ordnance Factory, Bhandara 11.73
+Dr. Mahesh N Varma (PI)
+Completed 22.
+Downstream processing of erythromycin using a new phase separation method
+SERB-DST Extra Mural Research Grant 24.13
+Dr. Pradip Dhamole (PI), Dr. Shailesh Agrawal, Dr. Piyush P. Wanjari
+Completed 23.
+Nanoparticles of different shapes conjugated with drugs to achieve enhanced therapeutic efficacy in treatment of cancer
+SERB-DST Extra Mural Research Grant 34
+Dr. C. Ravikumar (PI)
+Completed 24.
+Investigation of selective CO₂ capture by graphene-carbon nanotube hybrid nanostructures using molecular dynamics simulations
+SERB-DST Early Career Research Award 23.65
+Dr. Piyush P. Wanjari (PI)
+Completed 25.
+Developing functionalized properties on hollow ceramic microsphere for specific applications
+SERB-DST 35.66
+Dr. Diwakar Z. Shende (PI)
+Completed 26.
+Development of High Performance Heat Transfer Nanofluids Using Carbon Nanotubes (SWCNT & MWCNT’S) Nanoparticles and Its Applications in Double Pipe Heat Exchanger
+SERB-DST 5.5
+Dr. Shriram S. Sonawane (PI)
+Completed 27.
+Model based optimal design and fabrication of coin cells using spent lithium ion battery
+SERB-DST 33.64
+Dr. Ravi Methekar (PI)
+Completed 28.
+Experimental and modelling studies on the ionic liquid-mediated catalytic conversion of ligno-cellulosic biomass to fuel products
+SERB-DST Early Career Research Award 25.33
+Dr. Ashwin Gaikwad (PI)
+Completed 29.
+Rheological study of hydroxyl terminated polybutadiene (Htpb) – Aluminium nanoparticle (ANP) – ammonium perchlorate (AP) composite suspension
+HEMRL, DRDO Pune 10
+Dr. Kailas L. Wasewar (PI)
+Completed 30.
+Production of liquid hydrocarbons and carbon nanotubes using waste plastics as precursor
+SERB-DST
+Fast Track Young Scientist 27
+Dr. Vijayakumar R. P (PI)
+Completed 31.
+Development of controlled shape and size metal oxides nanoparticles, synthesis of nanofluids and application in heat exchanger.
+SERB-DST 22
+Dr. Shriram S. Sonawane (PI)
+Completed 32.
+Exploring the various applications of fly ash conduction of testing of ash and other raw materials and industry based technology development
+Vipra Ferro Alloys Ltd., Nagpur 6.6.00
+Dr. Diwakar Z. Shende (PI)
+Completed 33.
+Removal of chlorinated herbicides from dilute aqueous solution using biomass ashes
+SERB-DST 45
+Dr. Sachin Mandavgane (PI)
+Completed 34.
+Extractive fermentation with surfactants to enhance butanol production
+SERB-DST 29.17
+Dr. Pradip Dhamole (PI)
+Completed 35.
+Development and testing of micro fine powder bio-pesticide using Neem
+Department of Atomic Energy 22.6
+Dr. Sachin Mandavgane (PI)
+Completed 36.
+Synthesis and application of ionic liquids for deep-desulfurization of liquid fuels
+CSIR 25
+Dr. Kailas Wasewar (PI)
+Completed 37.
+Synthesis of nano catalyst from rice husk ash and its application
+DST
+Fast Track Young Scientist 22.26
+Dr. Sachin Mandavgane (PI)
+Completed 38.
+Development of green construction material using industrial waste for low-cost housing
+DST 22.01
+Dr. Sachin Mandavgane (PI)
+Completed 39.
+Reactive extraction of propionic acid
+DST 8.4
+Dr. Kailas Wasewar (PI)
+Completed
+Computer Science & Engineering
+Sr. No.
+Project  Title
+Funding Agency (with date of award)
+Cost of projects (Rs. in  Lakhs )
+Investigator (s)
+Present Status of the Project 1.
+Information Security Education and Awareness Project Phase – II
+Meity, New Delhi 2019 38.0
+Dr. S. R. Sathe Dr. U. A. Deshpande
+Ongoing 2.
+Genome-wide identification of cis-regulatory elements and development of G-logo tool for genome logo representation
+MeitY, Young Scientist Faculty Research Fellowship Award, GoI.
+7.40
+Dr. Deepti .D. Shrimankar
+Ongoing 3.
+Face Recognition under Unconstrained
+Environment for Videos from Internet
+Deity
+(Visvesvaraya Young faculty fellowship) 5.0
+Dr. Poonam Sharma
+Ongoing
+Electrical Engineering
+Sr. No.
+Project Title
+Funding Agency (with date of award)
+Cost of projects (Rs. In Lakhs)
+Investigator(s)
+Present status of the project 1
+A Solution for Stable and Combined Operation of multiple Renewable Sources: Intelligent DC Microgrid (IMP/2018/000179)
+DST-SERB IMPRINT-II 42.55
+Dr. Makarand S. Ballal
+Dr. H. M. Suryawanshi
+Completed 2
+Multiphase (Six Phase) Matrix Converter for Traction,
+(Science                                       and Engg Research Board, (SERB), New Delhi, 42
+Dr. M. V. Aware
+Dr. B. S. Umre
+Ongoing 3
+Modelling , Stability and Fault Analysis of BLDC type Multimachine System
+BARC 15 th
+Nov 2018 45
+Dr. Sunil Bhat
+Dr. Arghya Mitra
+Ongoing 4
+Development of 5kW Wireless Charger for Light Electric Vehicles
+NaMPET Ph-III (CDAC-T)
+MEITY 98.89
+Dr. Ritesh Kumar Keshri
+Dr. H.M. Suryawanshi
+Ongoing 5
+Sustainable Technology for Smart Off-Grid Renewable Energy Transformation and Electrochemical Storage Management
+DST-SERB 144
+Dr Pradyumn Chaturvedi, Prof. H. M. Suryawanshi, Dr. M. A. Chaudhari,
+Dr Siba Kumar Patro
+Ongoing 6
+SUSTainable ENergy System for Achieving Novel Carbon Neutral Energy Communities
+DST India under EU Horizon 2020 Consortium 57.79
+Dr Pradyumn Chaturvedi,
+Dr Siba Kumar Patro,
+Dr. Sunil Bhat
+Ongoing 7
+Highly Efficient and Reliable Solid State Transformer for Future Distribution Network with Renewable Energy Suppor
+DST-GITA under India-Taiwan Collaborative Research Program 27.30
+Dr Pradyumn Chaturvedi
+Ongoing 8
+Design and Development of Distributed Energy Resources Assisted Highly Efficient and Reliable Power Electronic Transformer for Off-Grid Rural Electrification
+DST-SERB 62.67
+Dr Pradyumn Chaturvedi, Prof. H. M. Suryawanshi
+Ongoing 9
+RE-EMPOWRED (India EU Consortium Project)
+DST/Horizon 2020 01 July 2021 67.8
+Dr. Ritesh Kumar Keshri, Dr. Arghya Mitra
+Dr. H.M. Suryawanshi
+Ongoing 10
+Planner Magnetics for Renewables and Electric Vehicle Charging
+DST/SERD 79.8
+Dr. Ritesh Kumar Keshri Dr. H.M. Suryawanshi
+Ongoing
+Electronics & Communication Engineering
+Sr. No.
+Project Title
+Funding Agency (with date of award)
+Cost of projects (Rs. In Lakhs)
+Investigator(s)
+Present status of the project 1
+Development of Fully-Automated Liver Cancer Detection and Severity Estimation System from H&E Stained Histopathological Images using Deep Learning-based Image Processing Methods
+SERB
+(2022-2025) 24.62
+Dr. Deep Gupta,
+Dr. Ankit Bhurane,
+Dr. Nisha Meshram (AIIMS Nagpur)
+Ongoing 2
+Analysis Design and Implementation of Intelligent Reflecting Surface (IRS) Assisted Wireless Communication Systems
+MeitY (2021-024) 56.0
+Dr. Prabhat Sharma, Dr. Ajeet Srivastava, Dr. KM Bhurchandi
+Ongoing 3
+Development of a simple and low cost unified smart video surveillance system for suspicious human activity recognition in wide area surveillance
+SERB (2019-2022) 42.16
+Dr. V.R. Satpute
+Ongoing
+Centre for VLSI & Nanotechnology
+Sr. No
+Project Title
+Funding Agency (with date of award)
+Cost of Projects   ( Rs. In Lakhs)
+Investigator (s)
+Present status of project 1
+Center for Innovation, (Incubation Centre) VNIT. Nagpur
+Rajiv Gandhi Science and Technology Commission Government of Maharashtra (RGSTC) 227
+Dr. R. M. Patrikar
+Dr. R. B. Deshmukh
+Ongoing 2
+Chip to system design special Manpower development program
+Ministry Of Communication and Information Technology 150
+Dr. R. M. Patrikar
+Dr. R. B. Deshmukh
+Ongoing 3
+Exploration of Micro-cantilever platform for Agricultural Applications
+DST 60.0
+Dr. R. M. Patrikar
+Ongoing 4
+IoT based Soil Parameter Tester for Comparison of Fertilizer Free Natural Farming and Chemical Fertilizer based Farming
+DST, SEED Division 23.64
+Dr. Ganesh C. Patil,
+Dr. Vasu Pulijala
+Ongoing 5
+MEMS Based Biomemetic Instrumental odor monitoring system
+DST 35.0
+Dr. Sharvari Deshmukh
+Ongoing 6
+Development of Photodetector for low  intensity light levels in UV/VIS/IR wavelength regions
+Indian Space Research Organisation (ISRO) 22.0
+Dr. Nikhil Deep Gupta
+Ongoing
+Mathematics
+Sr.No
+Project Title
+Funding Agency (with date of award)
+Cost of projects (Rs. In Lacs)
+Investigator(s)
+Present status of the project 1
+Direct and Inverse Voronovskaya Results for the Sampling Operators
+DST, SERB, 15 Feb 2022 6.6
+Dr. Sathish Kumar A
+Ongoing 2
+Classification of Frobenius Forms and F-pure threshold
+SERB, DST, 21 February, 2022 6.6
+Dr. Jyoti Singh
+Ongoing 3
+Development of Fractal Numerical Methods and Application in Solving Differential Equations
+SERB, DST, 19 February, 2022 6.6
+Dr. Vijender Nallapu
+Ongoing 4
+WENO Reconstruction Methods for Compressible flows
+DST-SERB
+(MATRICS) 05/02/2020 6.6
+Dr. Naga Raju Gande
+Ongoing 5
+High resolution numerical schemes for  hyperbolic conservation laws and its related problems
+DST-SERB 18 Feb., 2022 19.5
+Dr. Naga Raju Gande
+Ongoing 6
+Frozen iterative methods for regularization of nonlinear ill-posed operator equations in Banach spaces
+MATRICS SERB(DST) 11 February-2020 6.6
+Dr. Pallavi Mahale
+Ongoing
+Mechanical Engineering
+Sr. No.
+Project Title
+Funding Agency (with date of award)
+Cost of projects (Rs. In Lakhs)
+Investigator(s)
+Present status of the project 1
+BeTiC project
+RGSTC&DST 369.0
+Dr. A.M. Kuthe
+Ongoing 2
+Smart foundry
+DST 139.0
+Dr. A.M. Kuthe
+Completed 3
+Metal additive manufacturing using laser cladding
+SERB-DST, GoI 68.0
+Dr. T. V. K. Gupta
+Ongoing 4
+Centre of Excellence for setting up Pedal Operated Making cluster under Wellness and Cosmetic Industry (WCI).
+Khadi and Village Industry Commission 32.32
+Dr. R. V. Uddanwadikar
+Ongoing 5
+Wooden Toy Pilot Project
+Khadi and Village Industry Commission 14.37
+Dr. R. V. Uddanwadikar
+Ongoing 6
+Setting Up of High Skill Wooden Furniture Centre/Lab
+Khadi and Village Industry Commission 18.02
+Dr. R. V. Uddanwadikar
+Ongoing 7
+Experimental Investigation of Weldability by Cold Metal Transfer
+SERB-DST, GoI 34.10
+Dr. N. Lautere
+Ongoing 8
+Design of 1kW Roof Top Vertical Axis Wind Turbine
+SERB-DST, GoI 23.09
+Dr. S. Roga
+Ongoing 9
+Development of a Vascular Anastomosis Device for Arteriovenous Fistula Creation
+DST, New Delhi 21.6
+Dr. P.M. Padole,
+Dr. S.B. Thombre Dr. R.V. Uddanwadikar
+Ongoing
+Metallurgical and Material Engineering
+Sr.No.
+Project Title
+Funding Agency (with date of award)
+Cost of projects (Rs. In Lakhs)
+Investigator(s)
+Present status of the project 1.
+Proposal for Centre of Excellence for setting up Padel Operated Making cluster under Wellness and Cosmetic Industry
+Directorate of Wellness & Cosmetic Industry, KVIC, MSME, Government of India 06/03/2021 (1 Year) 32.32
+Dr. A. A. Likhite,
+Dr. M. M. Thawre,
+Dr. R. V. Uddanwadikar,
+Dr. A. V. Agasti,
+Dr. K. Pande,
+Dr. S. Dandekar,
+Dr. A. Raut.
+Ongoing 2.
+Augmentation of Conventional Agro-Tools and Innovation of Need Driven Tools Imparting better Ergonomics
+KVIC, Government of India    Sanctioned on:  21/10/2021
+(2 Year) 14.97
+Dr. M.M. Thawre,
+Dr. A. Likhite
+Dr. K. Pande
+Ongoing 3.
+Design and Development of Carpentry/Pottery Tools & Tools for Wood Craft/Toy Making
+KVIC, Government of India    Sanctioned on:  21/10/2021
+(2 Year) 14. 69
+Dr. M. M. Thawre,
+Dr. A.  Likhite
+Dr. K.Pande,
+Dr. S. Chopra
+Ongoing 4.
+Tailoring the actuation characteristics of SMA/Polyimide sandwich-structured composite for its viability towards actuator development for MEMS and soft robotic systems
+DST-SERB (CRG) 34.14
+Dr. R. V. Taiwade
+Ongoing 5.
+To develop Biocompatabile materials with a wide supercooled liquid region in Bulk Metallic Glass systems”
+DST- SERB
+March 2020 79.959
+Dr. J. G.  Bhatt,
+Dr. A. K. Srivastav
+Ongoing 6.
+Evolution of Ductility of Bulk Amorphous Alloys Zr Based Subjected to Severe Plastic Deformation and other treatments
+DST, International Bilateral Cooperation division
+January 2020 10.434
+Dr. J.G.Bhatt,
+Dr. D.Gunderov (Russia)
+Ongoing 7.
+Metal Additive Manufacturing using Laser Cladding
+DST
+April 2019 54.0
+Dr. T.V.K Gupta,
+Dr. J. G. Bhatt
+Ongoing 8.
+Augmentation of conventional   Agro Tools & Innovation of Need Driven Tools imparting better ergonomics
+KVIC 07/01/2022 14.97
+Dr. M.M.Thawre
+Dr. D. R. Peshwe
+Dr. A. A. Likhite
+Ongoing 9.
+Design & Development of Carpentry/ Pottery Tools& Tools for wood craft / Toy Making
+KVIC 28/12/2021 14.69
+Dr. M.M.Thawre
+Dr. D. R. Peshwe
+Dr. A. A. Likhite
+Ongoing 10.
+Analysis, Design and Implementation of Intelligent Reflecting Surfaces (IRS) Assisted Wireless Communication Systems
+Ministry of Electronics & Information Technology (MeitY) 15/01/  2021 56.80
+Dr. P. K. Sharma
+Dr. K.M.Bhurchandi
+Dr. A K. Srivastav
+Ongoing 11.
+To develop Biocompatabile materials with a wide supercooled liquid region in Bulk Metallic Glass systems
+DST- SERB 19/03/2020 79.95
+Dr. J. G.  Bhatt
+Dr. A. K. Srivastav
+Ongoing 12.
+Development of process and establishment of parameters for producing parts by permanent joining (welding) of Metal Additively Manufactured Aluminium alloy and conventionally manufactured parts/components of Aluminium alloy for current and futuristic applications in armament engineering
+ARMREB,
+August 2021 42.0
+Dr. V. Hiwarkar (DIAT)
+Dr. R.K. Khatirkar
+Ongoing
+Mining Engineering
+Sr. No.
+Project Title
+Funding Agency (with date of award)
+Cost of projects (Rs. In Lakhs)
+Investigator(s)
+Present status of the project 1
+Removal of metal ions contamination from mine water at deposit- 14/11C and deposit 11 B mines of BIOM
+NMDC 7.08
+Dr. A. K. Agarwal
+Dr. R D Lokhande
+Dr. I L Muthreja
+Dr. R R Yerpude
+Dr. S Zodape
+Ongoing 2
+Physico-mechanical response of rocks under varied thermal environments
+SERB-SRG 31.46
+Dr. N. N. Sirdesai
+Completed 3
+Risk investigations for slope failure of benches and dumps using geo-technical characteristics of rocks and their monitoring mechanism in Dudhichua opencast mine of Northern Coalfields Limited
+Northern Coalfields Limited (NCL) 51.401
+Dr. R R Yerpude
+Dr. I L Muthreja
+Dr. A. K. Agarwal
+Dr. R D Lokhande
+Ongoing 4
+Risk investigations for slope failure of benches and dumps using geo-technical characteristics of rocks and their monitoring mechanism in Jayant opencast mine of Northern Coalfields Limited
+Northern Coalfields Limited (NCL) 56.215
+Dr. R R Yerpude
+Dr. I L Muthreja
+Dr. A. K. Agarwal
+Dr. R D Lokhande
+Ongoing 5
+Feasibility study on Flyash filling of open cast mine at Manikpur, Korba
+Bharat Aluminum Company Limited, 23/10/2021 69.45
+Dr. S Wanjari
+Dr. Y. B. Katpatal
+Dr. D Z Shende
+Dr. K Wasewar
+Dr. A K Agarwal
+Dr. A A Kher
+Ongoing 6
+Effect of blasting on buffer zone of forest by MOIL opencast mines
+MOIL Pvt Ltd 4.51
+Dr. N R Thote
+Ongoing
+Physics
+Sr. No.
+Project Title
+Funding Agency (with date of award)
+Cost of projects (Rs. In Lakhs)
+Investigator(s)
+Present status of the project 1.
+Investigations on Ag-substituted Cu2ZnSnSe4 thin film absorber layers for the fabrication of heterojunction solar cells
+DST- SERB
+CRG/2019/006520 dated18/01/2020 33.65
+Dr. G. Hema Chandra
+Ongoing 2.
+Development of lithium disilicate based Nano glass ceramics for armor applications
+ARMREB, DRDO 28-11-2016 41.88
+Dr. (Mrs.) A. V. Deshpande
+Completed 3.
+Development of exchange coupled magnetic nanocomposites for magnetic energy storage through tuning ultrathin interfaces.
+DST- SERB
+March 2022.
+39.6
+Dr. K. Mohan Kant
+Ongoing

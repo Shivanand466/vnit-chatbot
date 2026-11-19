@@ -1,0 +1,227 @@
+SOURCE_URL: https://vnit.ac.in/scopus-publications-metallurgical-material-engineering/
+TITLE: Scopus Publications – Metallurgical & Material Engineering
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No
+.
+Authors
+Department
+Title
+Source title
+Document Type 1
+Gupta J.; Jha I.K.; Khatirkar R.K.; Singh J.
+Metallurgical & Materials Engineering
+Effect of aging on tensile and fracture behavior of a metastable Ti-15 V–3Cr–3Al–3Sn β-titanium alloy
+Journal of Alloys and Compounds
+Article 2
+Bhadauria A.; Reddy K.V.; Khatirkar R.K.; Bandhu D.; Gangwar P.K.
+Metallurgical & Materials Engineering
+Investigating the structural properties and wear resistance of martensitic stainless steels
+PLoS ONE
+Article 3
+Mehar S.; Sapate S.G.
+Metallurgical & Materials Engineering
+Wear energy approach for evaluation of tribological properties of Cr2O3-TiO2 coating
+Physica Scripta
+Article 4
+Kale S.; Thawre M.M.; Peshwe D.R.; Sarkar A.; Nagesha A.
+Metallurgical & Materials Engineering
+Impact of block-loading on the high cycle fatigue strength of superalloy 617M at 973 K
+Materials Today Communications
+Article 5
+Bohane P.; Gohil T.B.; Srivastav A.K.
+Metallurgical & Materials Engineering
+Machine learning-based predictive approach for pitting and uniform corrosion in geothermal energy systems
+Electrochimica Acta
+Article 6
+Behera A.; Kale S.; Thawre M.M.; Ballal A.
+Metallurgical & Materials Engineering
+The Significance of the Critical Stress Ratio in the Formulation of Nonlinear Constant Life Diagrams for CFRP Laminate Life Prediction
+Journal of The Institution of Engineers (India): Series E
+Article 7
+Settem M.; Islam M.; Srivastav A.K.
+Metallurgical & Materials Engineering
+Grain boundary junction disclinations in nanoparticles
+Acta Materialia
+Article 8
+Bohane P.; Ali R.; Deshmukh P.; Srivastav A.K.
+Metallurgical & Materials Engineering
+On the Role of Al-B Master Alloy and Heat Treatment on Synergistic Improvement in Electrical Conductivity and Hardness of Al-Mg-Si Alloys
+JOM
+Article 9
+Vishwakarma A.K.; Debnath D.; Pawar M.D.; Muthiyan V.; Gautam B.; Khatirkar R.; Shekhar H.; Hiwarkar V.D.
+Metallurgical & Materials Engineering
+Laser welding of additively manufactured AlSi10Mg and conventionally manufactured Al6061 alloy
+Welding in the World
+Article 10
+Maddi L.; Gavinola S.R.; Ballal A.
+Metallurgical & Materials Engineering
+Effect of Multiaxiality on the Stress Rupture Properties of P92 Steel
+Iranian Journal of Materials Science and Engineering
+Article 11
+V．B． R.; Srivastav A.K.; Wang P.; Du Y.
+Metallurgical & Materials Engineering
+Unraveling solidification pathways of pure elements by ultra-slow temperature vs. time profile measurements
+Thermochimica Acta
+Article 12
+Mahadule D.; Yadav A.; Gupta A.; Choi S.-H.; Khatirkar R.K.
+Metallurgical & Materials Engineering
+Effect of grain size on the recrystallization kinetics and crystallographic texture of unidirectionally rolled Ti-15V-3Cr-3Al-3Sn alloy
+Materials Today Communications
+Article 13
+Shekhawat S.K.; Khatirkar R.K.; Demiral M.
+Metallurgical & Materials Engineering
+Lattice Rotation Dependence on Microstructural Characteristics in a Low Carbon Steel
+Crystals
+Article 14
+Kumar A.; Seelaboyina R.; Jana S.; Laha T.; Keshri A.K.
+Metallurgical & Materials Engineering
+Development of macroporous silicone rubber composites by internal emulsion templating for acoustic applications
+Journal of Polymer Research
+Article 15
+Tandon V.; Park K.-S.; Khatirkar R.; Gupta A.; Choi S.-H.
+Metallurgical & Materials Engineering
+Evolution of Microstructure and Crystallographic Texture in Deformed and Annealed BCC Metals and Alloys: A Review
+Metals
+Review 16
+Vijayanand V.D.; Awale D.D.; Ballal A.R.; Thawre M.M.; Prasad Reddy G.V.
+Metallurgical & Materials Engineering
+Type IV Damage Evolution during Creep of 316LN SS-P91 Steel Dissimilar Weld Joint
+Journal of Materials Engineering and Performance
+Article 17
+Kumar Ramavajjala A.; Dandekar T.R.; Khatirkar R.K.; Joshi C.; Chouhan R.N.; Agnihotri A.
+Metallurgical & Materials Engineering
+A review on the correlation between microstructure, heat treatment and mechanical properties of additively manufactured AlSi10Mg by LPBF
+Critical Reviews in Solid State and Materials Sciences
+Review 18
+Verma J.; Bohane P.; Bhatt J.; Srivastav A.K.
+Metallurgical & Materials Engineering
+Unveiling glass forming ability patterns in bulk metallic glasses via advanced machine learning approaches
+Journal of Non-Crystalline Solids
+Article 19
+Sahu A.; Kumar A.
+Metallurgical & Materials Engineering
+Additive Manufacturing of Bulk Metallic Glasses
+Additive Manufacturing with Novel Materials: Processes, Properties and Applications
+Book chapter 20
+Awale D.D.; Dandekar T.R.; Ballal A.R.; Thawre M.M.
+Metallurgical & Materials Engineering
+Creep cavities and carbide evolution in interrupted creep conditions along P91 steel of dissimilar weld joint
+Journal of Adhesion Science and Technology
+Article 21
+Chowdary K.M.K.; Peshwe D.R.; Ballal A.R.; Prasad Reddy G.V.; Vanaja J.
+Metallurgical & Materials Engineering
+Comparative assessment of a continuum damage mechanics-based creep damage models for India-specific RAFM steel
+Materials at High Temperatures
+Article 22
+Bailmare D.B.; Pande K.N.; Peshwe D.; Chopra S.; Deshmukh A.D.
+Metallurgical & Materials Engineering
+Boosting capacitive performance of electrode material by facile incorporation of phthalic acid ligand-based bimetallic MOF for supercapacitors
+Electrochimica Acta
+Article 23
+Verma J.R.; Prabhu Y.; Jain A.; Bhatt J.
+Metallurgical & Materials Engineering
+Unveiling the Microstructural Segregation and Micro-hardness Behaviour in Ti-6Al-4 V Alloy Prepared through Copper Mould Casting
+Transactions of the Indian Institute of Metals
+Article 24
+Astanin V.V.; Korznikova E.A.; Gunderov D.V.; Astanin V.V.; Dmitriev S.V.; Bhatt J.
+Metallurgical & Materials Engineering
+Role of Nanosized Rotational Vortices in Cold Deformation of Metallic Glasses by the Example of Alloy Vit105
+Physical Mesomechanics
+Article 25
+Verma J.; Pranav S.; Jain A.; Bhatt J.
+Metallurgical & Materials Engineering
+Exploring the Role of Thermodynamic Parameters in Determining Zr–Cu–Al–Ag Glass-Forming Composition
+Metallurgical and Materials Transactions A: Physical Metallurgy and Materials Science
+Article 26
+Prabhu Y.; Jain A.; Narayan R.L.; Saini P.; Vincent S.; Ryu W.H.; Park E.S.; Bhatt J.
+Metallurgical & Materials Engineering
+Crystallization kinetics and nanoindentation studies of Cu46Zr40Ti8.5Al5.5 glassy alloy
+Journal of Non-Crystalline Solids
+Article 27
+Kale S.; Thawre M.M.; Peshwe D.R.; Nagesha A.; Sarkar A.; Dandekar T.R.
+Metallurgical & Materials Engineering
+Microstructural damage assessment in alloy 617M near high cycle fatigue threshold at elevated temperature
+Fatigue and Fracture of Engineering Materials and Structures
+Article 28
+Jain A.; Prabhu Y.; Verma J.; Bhatt J.
+Metallurgical & Materials Engineering
+Study of In-vitro cellular response in Cu46Zr40Ti8.5Al5.5 and Fe44.5Co44.5Zr7B4 compositions for biomedical applications
+Emergent Materials
+Article 29
+Raut L.P.; Taiwade R.V.; Fande A.; Narayane D.; Tawele P.
+Metallurgical & Materials Engineering
+Additive Manufacturing Integration with Welding
+Advanced Welding Techniques: Current Trends and Future Perspectives
+Book chapter 30
+Thakur A.; Gupta R.K.; Sapate S.G.; Peshwe D.R.; Mahajan Y.Y.
+Metallurgical & Materials Engineering
+Microstructure and Wear Behaviour of Ultrasonically Processed Al–MgAl2O4 In-Situ Composite
+Arabian Journal for Science and Engineering
+Article 31
+Fande A.W.; Taiwade R.V.; Narayane D.C.
+Metallurgical & Materials Engineering
+Experimental investigation of the flux-assisted TIG weldment of super duplex stainless steel
+Materials Today: Proceedings
+Conference paper 32
+Jain A.; Prabhu Y.; Gunderov D.; Bhatt J.
+Metallurgical & Materials Engineering
+Micro-indentation-Induced Deformation Studies on High-Pressure-Torsion-Processed Zr62Cu22Al10Fe5Dy1 Metallic Glass
+Journal of Materials Engineering and Performance
+Article 33
+Mehar S.; Sapate S.G.
+Metallurgical & Materials Engineering
+Contact severity maps for plasma sprayed YSZ modified Al2O3-3% TiO2 coatings
+Ceramics International
+Article 34
+Shende C.Y.; Bagde P.A.; Sapate S.G.
+Metallurgical & Materials Engineering
+A Review on Tribological Response of Advanced Ceramic Coatings.
+AIP Conference Proceedings
+Conference paper 35
+Gupta S.K.; Patil A.P.; Rathod R.C.; Gupta A.; Methani H.; Tandon V.
+Metallurgical & Materials Engineering
+Cold Metal Transfer Welding of Ferritic and Austenitic Stainless Steel: Microstructural, Mechanical, and Electrochemical Studies
+Journal of Materials Engineering and Performance
+Article 36
+Suranshe S.S.; Patil A.; Chavhan J.
+Metallurgical & Materials Engineering
+Step Wise Evaluation of Capacitance of Reduced Graphene Oxide in Multistep Reduction Process to Understand the Changes in Capacitance with Oxygen Functionalities
+Materials Letters
+Article 37
+Ambade S.P.; Tembhurkar C.K.; Patil A.; Tidke A.V.; Shelare S.D.; Prakash C.; Djukic M.B.; Khosravi N.; Paramasivam P.
+Metallurgical & Materials Engineering
+Microstructure, mechanical properties and sensitization of ultra-low nickel Cr–Mn austenitic stainless steels
+Journal of Materials Research and Technology
+Article 38
+Amrut Agasti; Parag Bhargava
+Metallurgical & Materials Engineering
+Phase Evolution during Ageing of Co-Electrodeposited Cu–Zn–Sn Thin Films and Effect of Soft Annealing
+Applied Solar Energy (English translation of Geliotekhnika)
+Article 39
+Suranshe S.S.; Patil A.; Chavhan J.
+Metallurgical & Materials Engineering
+Recycling of Graphite Rod from Primary Batteries to Make Graphene Oxide by Electrochemical Exfoliation Method for Supercapacitor Application
+Springer Proceedings in Materials
+Book chapter 40
+Agrawal V.; Khobragade M.; Thakur A.; Mahajan Y.Y.
+Metallurgical & Materials Engineering
+Grain Refinement by Ultrasonic Treatment (UT) in Al–Al3Zr Composite
+Springer Proceedings in Materials
+Conference paper 41
+Reddy S.R.; Li X.; Guo S.; Bhattacharjee P.P.; Chokshi A.H.
+Metallurgical & Materials Engineering
+High Strain Rate Superplastic Flow and Fracture Characteristics of a Fine-Grained Eutectic High Entropy Alloy
+Metallurgical and Materials Transactions A: Physical Metallurgy and Materials Science
+Article 42
+Vashishtha H.; Kumar D.; Taiwade R.V.
+Metallurgical & Materials Engineering
+Advanced Welding Techniques: Current Trends and Future Perspectives
+Advanced Welding Techniques: Current Trends and Future Perspectives
+Book 43
+Verma J.; Taiwade R.V.
+Metallurgical & Materials Engineering
+Welding Scope, Application, and Opportunities
+Advanced Welding Techniques: Current Trends and Future Perspectives
+Book chapter

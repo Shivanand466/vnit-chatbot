@@ -1,0 +1,217 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-p-v-kane/
+TITLE: Dr. P. V. Kane – VNIT Nagpur Mechanical Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. P. V. Kane
+Brief Bio
+Dr. Prasad V. Kane is B.E., M.Tech (Productionn Engg) from RTM Nagpur University and Ph. D. from VNIT, Nagpur, India. He is
+Currently working as Assistant Professor in Department of Mechanical Engineering at
+Visvesvaraya National Institute of Technology, Nagpur. He has work experience of Twenty Six years years in teaching and two years in Industry. His research interest areas are Machine Condition
+Monitoring, Quality, Reliability and Maintenance Engineering. He worked as supervisor for PhD , PG and UG Projects
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.E. Mechanical Engineering 1997
+Mechanical Engineering
+Nagpur University 2
+M.Tech.
+2005
+Production Engineering
+RTM Nagpur University, Nagpur 3
+Ph.D.
+2017
+Machine Condition Monitoring and Fault Diagnosis
+VNIT, Nagpur
+Contact
+Phone:
+Email:
+Address:
+0712-2801159 prasad_kane@mech.
+Department of Mechanical Engineering , VNIT Nagpur
+Research Interest
+Machine Condition Monitoring
+Maintenance Engineering
+Reliability Engineering
+Quality Engineering
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Investigation of Design Modifications of Switched Reluctance Motor to reduce vibrations and noise in Electric Vehicle
+Principal Investigator 2023 2831400
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Ambient Noise Monitoring (24 Hrs) and Vibration Monitoring at sensitive receptors along with Navi Mumbai Metro Rail Corridor Line-1 from Station
+Maharashtra Metro Rail Corporation Ltd, Taloja Navi Mmbai -410208 2022 3,42,000/- 2
+Ambient Noise Monitoring (24 Hrs) and Vibration Monitoring at sensitive receptors along with Navi Mumbai Metro Rail Corridor Line-1 from Station
+Maharashtra Metro Rail Corporation Ltd, Taloja Navi Mmbai -410208 2023 5,00,000/-
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+STTP on Manufacturing in 21st Century from 20th July 2009 to 24th July 2009 at VNIT Nagpur 2
+Symposium on Bamboo-Emerging Source of Energy for Industries on 10th Jan 2019
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Worked in the technical committee of the National Convention of Mechanical Engineers and National Seminar on Emerging Trends and Developments on Smart Manufacturing, Renewable Energy and Mechanical System Diagnostics / Design organised by The Institution of Engineers Nagpur Local Center In association with VNIT Nagpur 2
+Metrology lab
+VNIT Nagpur
+Incharge 2008 to till date 3
+M. Tech Admission Committee
+VNIT Nagpur
+Committee member 2010, 2014, 2019 4
+M.Tech Coordinator (IE)
+VNIT Nagpur
+Co-ordinator 2013-2015 5
+Technical Committee Member of the National Conference on Condition Monitoring 2024 6
+Co-ordinator for Smart Room, Dept Library, Seminar Hall from 2018-2023 7
+Organising secretary 3rd International Conference on Mathematical, Engineering and Management Sciences organised by VNIT Nagpur In association with MNIT Jaipur & Govt. Polytechnic Sakoli, India 8
+Chaired a session at the International Conference on Recent Advances in Science Engineering and Technology (RASET) orgnanised by MKSSS CumminsCollege of Engineering for Women, Nagpur in 2023.
+9
+Worked as Department TEQIP coordinator 10
+. Member of Annual Report Editing Committee for 2018-19 11
+Worked as Presiding Officer in 2019 Parliament Election and 2019 Assembly Elections 12
+Delivered expert lecture on topic “Reliability Centered Maintenance” at Khaperkheda Power Plant, Khaparkhed,  Nagpur on 03/01/2020 13
+Chaired  a Technical Session in ICAME-2020 organised,  held at VNIT, Nagpur on 12/12/2019.
+14
+Delivered guest lecture for 5th semester on topics would be from subject Purchase Management & Inventory control for 4 hrs at SATI Vidisha Inventory Management Under TWINING program of TEQIP on 1st August 2019.
+15
+Delivered Webinar for Ashok Leyland Employees on topic “Psychoacoustics and its application in condition monitoring” on 27th May 2020 as Industry Institute Interaction Program proposed by the Institute.
+16
+Worked as Department Exam Coordinator from Jan-2025 to Jan-2026 17
+Sr. No.
+Awards 1
+Best paper presentation in International Conference on Robotics Control, Automation, and AI [RCAAI-2022] held on 24th to 26th Nov 2022 organised by Department of Mechatronics of Manipal Institute of Technology in collaboration with Dept of Mechanical Engg, NIT, Surathkal, Karnataka 2
+Best Paper Award for presenting the paper “Design of an Improved Model for Gear Fault Diagnosis using Acoustic Data and EfficientNet-Based Deep Learning Process” at the First International Conference on Engineering and Technology for a Sustainable Future, held on 17–18 May 2025 at P.R. Pote Patil College of Engineering & Management.
+S. No.
+Publications 1
+Behara, S. S., & Kane, P. V. (2025). A multi-modal framework for intelligent bearing fault diagnosis of switched reluctance motor. Measurement, 119419.
+2
+Sagar, B. S. , Kane P.V. , Andhare A. B. and Lokhande M. M., (2026). A Compound CNN-LSTM Based Bearing Fault Diagnosis Of Switched Reluctance Motor. J All Phy Res Appli 2: 1-7. Keywords: Switched Reluctance Motor, Torque Ripples, Bearing Fault Diagnosis, Convolutional Neural Networks.
+3
+Santosh Sagar and P.V. Kane, “Intelligent Bearing Fault Diagnosis of Switched Reluctance Motor Using Hilbert-Huang Transformation and Region-Based Convolutional Neural Network”, International Journal of Acoustics and Vibration, Vol. 29, No. 4, 2024 (pp. 431–441) https://doi.org/10.20855/ijav.2024.29.42072 4
+Gundewar, S. K., & Kane, P. V. (2023). Sensitive Inter-turn Fault Detection Approach for Induction Motor Under Various Operating Conditions. Arabian Journal for Science and Engineering, 48(8), 10787-10801.
+5
+Loya, D., Mate, P., & Kane, P. (2023). Service quality analysis using quality function deployment for two-wheeler service center. Materials Today: Proceedings, 82, 351-355.
+6
+Khanorkar, Y., & Kane, P. V. (2023). Selective inventory classification using ABC classification, multi-criteria decision making techniques, and machine learning techniques. Materials Today: Proceedings, 72, 1270-1274.
+7
+Kumar, S., Bhatkulkar, T., & Kane, P. (2023). FMEA and FTA of coal handling system of power plant. Materials Today: Proceedings, 90, 197-200.
+8
+Gundewar, S. K., & Kane, P. V. (2022). Bearing fault diagnosis using time segmented Fourier synchrosqueezed transform images and convolution neural network. Measurement, 203, 111855.
+9
+Gundewar, S. K., & Kane, P. V. (2022). Rolling element bearing fault diagnosis using supervised learning methods-artificial neural network and discriminant classifier. International Journal of System Assurance Engineering and Management, 13(6), 2876-2894.
+10
+Gundewar, S., Kane, P., & Andhare, A. (2022). Detection of broken rotor bar fault in an induction motor using convolution neural network. Journal of Advanced Mechanical Design, Systems, and Manufacturing, 16(2), JAMDSM0020-JAMDSM0020.
+11
+Dhoble, R. M., Kane, P., Kesalkar, V. P., & Rayalu, S. S. (2022). Artificial Neural Network (ANN) Modelling for Removal of Arsenate from Groundwater by Impregnated Binary Oxide Adsorbent (IBOA). Journal of Algebraic Statistics, 13(2), 892-901.
+12
+Gundewar, S. K., & Kane, P. V. (2021). Condition monitoring and fault diagnosis of induction motor. Journal of Vibration Engineering & Technologies, 9, 643-674.
+13
+Kane, P. V., & Andhare, A. B. (2019). End of the Assembly Line Gearbox Fault Inspection Using Artificial Neural Network and Support Vector Machines. International Journal of Acoustics & Vibration, 24(1).
+14
+Kushwaha Deepak Kumar,  Kane, P. V. (2018). Ergonomic Evaluation of Shipping Crane Cabin Comfort Used in Steel Industry through Operator’s Opinion. International Journal of Machine Design and Manufacturing, 4(1), 11-17.
+15
+Kane, P. V., & Andhare, A. B. (2016). Application of psychoacoustics for gear fault diagnosis using artificial neural network. Journal of Low Frequency Noise, Vibration and Active Control, 35(3), 207-220.
+16
+Kushwaha, D. K., & Kane, P. V. (2016). Ergonomic assessment and workstation design of shipping crane cabin in steel industry. International journal of industrial ergonomics, 52, 29-39.
+17
+M.P. Joshi, Prasad V. Kane (2010), E-Kanban : A New Face of Kanban in India: A case study International, Journal of Advanced Manufacturing Systems, Vol 2 (1), 143-149
+S. No.
+Publications 1
+Palash S. Kuttarmare, Prasad V. Kane, Makarand M. Lokhande and Atul Bhalchandra Andhare, “Finite Element-Based Design Optimization of 8/6 SRM: Balancing Torque Ripple and Average TorquePerformance for EV Application”, International Conference on Manufacturing, Thermal and Design, Engineering (MATHED, 26-28 Dec 2025 at NIT Hamirpur.
+2
+Swapnil Gundewar and Prasad Kane, ” A novel bearing bearing fault diagnosis based on 2-D grayscale Fourier synchrosqueezed transform images and convolution neural network”,  International Conference on Advanced Materials & Manufacturing for Sustainability (ICAMMS-2026),  12-14 March 2026, VNIT, Nagpur 3
+Behara Santosh Sagar, Prasad V Kane , Atul B Andhare , Makarand M Lokhande,   “A Compound CNN-LSTM based Bearing Fault Diagnosis of Switched Reluctance Motor”, VETOMAC 2025 – 20th International Conference on Vibration Engineering & Technology Of Machinery, IIT Guwahati 18-19 Dec 2025 4
+Shubham Bundele, Palash Kuttarmare, Behara Santosh Sagar and Prasad V. Kane(2026), “Bearing Fault Diagnosis in Switch Reluctance Motor Using Acoustic Signal Processing and EfficientNet-Based Deep Learning”, International Conference on Advanced Materials & Manufacturing for Sustainability (ICAMMS-2026),  12-14 March 2026, VNIT, Nagpur 5
+Bundele, S., & Kane, P. V. (2025). Design of an Improved Model for Gear Fault Diagnosis Using Acoustic Data and EfficientNet-Based Deep Learning Process. In EPJ Web of Conferences (Vol. 328, p. 01012). EDP Sciences.
+6
+Doddi, S., Kuttarmare, P., & Kane, P. V. (2024, October). Natural Frequency Identification of a Switched Reluctance Motor Using FEM Software. In National Conference on Condition Monitoring (pp. 243-256). Singapore: Springer Nature Singapore.
+7
+Mandar Aswale, Tushar Golghate, Avinash Kumar Jha, Jitendra Kumar, Prasad Kane (2024) “Inventory Management using Forecasting Techniques: Case Study of an Electronics Shop” International Conference on Industrial Engineering & Analytics (ICONIEA) 2024 February 16-18 2024 at IIT Kharagpur Department of Industrial and System Engineering.
+8
+Prasad Kane and A. B. Andhare (2023) “Development of GUI for gear fault diagnosis using frequency domain and Time-Frequency domain analysis”, 18th International Conference on Vibration Engineering & Technology of Machinery organised by IIT Roorkee from 18th Dec to 20th Dec 2023 9
+Archisman Ray, Prasad Kane,(2023) “Ergonomic Design of Visual Inspection Workstation using Digital Human Modelling International Conference on Recent Advances in Science, Engineering and Technology (RASET) organized by MKSSS Cummins College of Engineering for Women, Nagpur during 29th and 30th September 2023, Cummins College of Engineering for Women Nagpur 10
+Kumar, S., Bhatkulkar, T., & Kane, P. (2023). FMEA and FTA of coal handling system of power plant. Materials Today: Proceedings, 90, 197-200.
+11
+Biswajit Ghosh, Swapnil Gundewar, and Prasad Kane (2023) “ Application of FMECA and FTA for Engines of Diesel Locomotives” International Conference on Recent Advances in Science, Engineering and Technology (RASET) organized by MKSSS Cummins College of Engineering for Women, Nagpur during 29th and 30th September 2023, Cummins College of Engineering for Women Nagpur 12
+Ayush Mishra, Swapnil Gundewar Prasad Kane (2023) “Gear Fault Classification using feature selection and machine learning technique” An International Conference on Intelligent Technologies for Sustainable Energy Management and Control(ITSEMSC-2023), November 23-25, 2023,YCCE Nagpur.
+13
+Sagar, B. S., Gundewar, S., Kane, P. V., & Tiwari, S. (2023). Comparative analysis of vibration and acoustic signals for fault diagnosis of plastic spur gears. In Recent Advances in Material, Manufacturing, and Machine Learning (pp. 863-869). CRC Press.
+14
+CHK Vinayak , Archisman Ray and Dr. P. V. Kane, (2023) “WORKSTATION DESIGN USING DIGITAL HUMAN MODELLING AND ATHREPOMETRY “, 1st Inernational Conference on Mechanical Design and Manufacturing, ICMDM2023, IIEST, Shibpur, Oct 2023 15
+Tejas Bhatkulkar and P. V. Kane, (2023) “APPLICATION OF FMEA AND FTA OF THE GRINDING SYSTEM OF THE ASH HANDLING PLANT FOR FAILURE ANALYSIS”, 1st International Conference on Mechanical Design and Manufacturing, April 27-28, 2023, IIEST Shibpur, INDIA(2023) 16
+Khanorkar, Y., & Kane, P. V. (2023). Selective inventory classification using ABC classification, multi-criteria decision making techniques, and machine learning techniques. Materials Today: Proceedings, 72, 1270-1274.
+17
+Gundewar, S. K., & Kane, P. V. (2022). Condition monitoring and fault diagnosis of induction motor in electric vehicle. In Machines, Mechanism and Robotics: Proceedings of iNaCoMM 2019 (pp. 531-537). Springer Singapore.
+18
+Gundewar, S., Kane, P., Behara, S., & Kumar, U. (2022, October). Welding defect detection using artificial neural network and support vector machine. In IOP Conference Series: Materials Science and Engineering (Vol. 1259, No. 1, p. 012029). IOP Publishing.
+19
+Behara, S. S., Kane, P. V., & Lokhande, M. M. (2022, July). Opportunities and Challenges of Switched Reluctance Motors for Traction Applications. In 2022 1st International Conference on Sustainable Technology for Power and Energy Systems (STPES) (pp. 1-6). IEEE.
+20
+Kane, P. V. (2022, November). Development of Real-Time Fault Diagnosis Technique for the Newly Manufactured Gearbox. In International Conference on Robotics, Control, Automation and Artificial Intelligence (pp. 861-869). Singapore: Springer Nature Singapore.
+21
+Madankar, T. A., Kane, P. V., Agrawal, D., & Kedar, S. V. (2021). Ergonomic Workstation Design for Welding Operation—A Case Study. In Advances in Industrial Machines and Mechanisms: Select Proceedings of IPROMM 2020 (pp. 229-241). Springer Singapore.
+22
+Gundewar, S. K., & Kane, P. V. (2021). Bearing Fault Diagnosis in Induction Motor Using Modified AlexNet Algorithm. In Advances in Industrial Machines and Mechanisms: Select Proceedings of IPROMM 2020 (pp. 205-218). Springer Singapore.
+23
+Tekade, R., Ramteke, G., & Kane, P. V. (2021). Analysis of Design of Head Restraints of Car Seat Considering Indian Anthropometry. In Advances in Industrial Machines and Mechanisms: Select Proceedings of IPROMM 2020 (pp. 653-663). Springer Singapore.
+24
+Bihari, Mohan, and P. V. Kane.(2021) “Evaluation and Improvement of Makespan Time of Flexible Job Shop Problem Using Various Dispatching Rules—A Case Study.” Advances in Mechanical Engineering: Select Proceedings of ICAME 2020. Springer Singapore, 2021.
+25
+Panse, A., & Kane, P. V. (2020). Failure Analysis and Process Capability Study of Transmission System at the End of Assembly Line. In Reliability, Safety and Hazard Assessment for Risk-Based Technologies: Proceedings of ICRESH 2019 (pp. 599-606). Springer Singapore.
+26
+Gundewar, S. K., & Kane, P. V. (2020). Fuzzy FMEA analysis of induction motor and overview of diagnostic techniques to reduce risk of failure. In Reliability, Safety and Hazard Assessment for Risk-Based Technologies: Proceedings of ICRESH 2019 (pp. 927-939). Springer Singapore.
+27
+Lal, H., & Kane, P. V. (2019). Gearbox fault detection using exponentially weighted moving average control charts. In Machines, Mechanism and Robotics: Proceedings of iNaCoMM 2017 (pp. 39-47). Springer Singapore.
+28
+Gundewar Swapnil, and P.V. Kane, (2019)”Bearing Fault diagnosis using Artificial Neural Network and Random Forest”, International Conference on Precision, Meso, Micro & Nano Engineering, IIT Indore, December 12-14, 2019 29
+Mr. Mohan Bihari and P.V. Kane(2019)  ‘Application of Scheduling Techniques for Effective Utilization of Production Capacity Planning and to achieve stable load plan’ at National Conference on Modern Tools in Engineering held at Samrat Ashok Technological Institute (SATI),  Vidisha on 5th April 2019 30
+P. V. Kane  and A. B. Andhare, (2016) “Online intelligent multi-fault diagnosis using virtual instrumentation for end of assembly line inspection of Gearbox”,  International conference on condition monitoring (ICCM 2016), Gitam university, Vizag, India Oct 26-27 2016 31
+P. V. Kane  and A. B. Andhare, (2015), “End of line quality inspection of gearbox  using ANN & SVM”, International Conference on industrial Engineering 2015, Nov. 26-28 2015, Organized by SVNIT, Surat in Association with Indian Institution of Industrial Engineering (IIIE), NHQ-Mumbai 32
+P. V. Kane  and A. B. Andhare (2015),”Psychoacoustics: Evolving Technique for Fault Diagnosis (2015), National Conference on Condition Monitoring, Organised by the NSTL Vishakhapattanam 6, 2015(2015) 33
+Ram Moharil and P.V. Kane,(2015) “Maintenance analysis of DRI rotary kiln & Design of controller for accretion prevention”, International Conference on industrial Engineering 2015 SVNIT, Surat, Gujrath Nov. 26-28 2015 Organized by SVNIT, Surat in Association with Indian Institution of Industrial Engineering (IIIE), NHQ-Mumbai 34
+P.V. Kane and A.B. Andhare (2015), “Design and development of Intelligent Diagnostics System for End of Assembly Line Inspection of Gearbox”,National Workshop on Industrial Problems on Machines and Mechanisms (IPRoMM 2016), organised by VNIT, Nagpur 35
+PV Kane, AB Andhare,(2014) “Gear fault diagnosis using ANN”, International Conference on Advances in Design & Manufacturing, ICAD&M’2014 organised by Department of Mechanical Engg, NIT Trichy.
+36
+Vivek Shatamraj and P.V. Kane, (2013) “Simulation and Analysis of Material Flow in an Automotive Assembly Plant”,  International Simulation Conference of India (ISCI), Indian Institute of Technology Madras (IITM) , Chennai, February 21-23,  2013 37
+Kapil Salve and Ergonomic (2013) “Assessment  and Musculoskeletal Problem in Household Utensil Cleaning Women Workers”, International Conference on Industrial Engineering(ICIE-2013),  Organised by Department of Mechanical Engineering, S.V.N.I.T., Surat, India  in Association with Indian Institution of Industrial Engineering (IIIE), NHQ-Mumbai November 20-22,2013 38
+Amit Adhaye and P.V. Kane,(2013)”Quality Function Deployment – Effective Tool to Incorporate Customer Needs into Product”, International Conference on Industrial Engineering (ICIE-2013) organized  at SVNIT, Surat in Association with Indian Institution of Industrial Engineering (IIIE), NHQ-Mumbai during  November 20-22, 2013 39
+RL Shrivastava, A V Kale, PV Kane, Planning of Kanban system for Warehouse of Tractor Assembly Plant, 14th ISME International Conference on Mechanical Engineering in Knowledge Age , Elite Publishing House Pvt. Ltd. India, 61-65 organised by DEC, Delhi 40
+A. Pinto,Adrian Pinto1, Vipul Singh1, Navanitheeshwaran M.S.1 and P.V. Kane,(2010)  “Review of Feasibility In Implementation Of Lean Manufacturing Philosophy”, International Conference on Advances in Industrial Engineering Applications (ICAIEA-2010), College of Engineering Guindy, Chennai India January 6-8, 2010 41
+Kane, P. V., & Deshpande, V. S. , (2007) “DESIGN OF ON-LINE INSPECTION METHODOLOGY FOR REDUCTION OF COST OF INTERNAL FAILURE-A CASE STUDY IN SHEET METAL INDUSTRY” 9th International Symposium on Measurement and Quality Control, 326-330, 2007 , organised by Department of Mechanical Engineering, IIT Chennai 42
+R.N. Dehankar, P.V. Kane,(2006) “Spiral Fracture Analysis of Human Tibia Bone under Torsional and Axial loading using FEA Approach – A Case Study “, International Conference on Total Engineering, Analysis and Manufacturing Technologies(TEAMTECH-2006)  organised by IISC Banglore 43
+TA Madankar, PV Kane (2005) Efforts to Modify Existing Rikshaw (Tricycle) Design to Reduce Human Efforts For Transport of Light Weight High Volume Material, 14th ISME International Conference on Mechanical Engineering in Knowledge Age , Elite Publishing House Pvt. Ltd. India, 61-65 44
+T. A. Madankar, Prasad V. Kane (2005), “Energy Conservation at Micro Level Through a Computerised Milage Testing Machine Indegenously Developed to Address Issues of Fuel Consumption & Pollution”, 14th ISME International Conference on Mechanical Engineering in Knowledge Age, Elite Publishing House Pvt. Ltd. India 45
+R.L. Shrivastava and P.V. Kane (2005), “Emergence of Pull System as an effective tool for improvement of productivity and quality-Echoes from  various corners of world”, 11th International Conference on Productivity and Quality Research (ICPQR-2005), IIT Delhi 46
+R.L. Shrivastava and P.V. Kane (2005), “Productivity and quality improvement through Kanban- A case study “, 11th International Conference on Productivity and Quality Research (ICPQR-2005), IIT Delhi

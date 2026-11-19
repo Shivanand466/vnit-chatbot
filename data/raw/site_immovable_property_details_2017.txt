@@ -1,0 +1,268 @@
+SOURCE_URL: https://vnit.ac.in/immovable-property-details-2017/
+TITLE: Immovable Property Details – 2017
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Applied Mechanics :
+A. P. KHATRI
+L. M. GUPTA
+O. R. JAISWAL
+S. V. BAKRE
+Ratnesh Kumar
+Manmohan Dass Goel
+R.K. Ingle
+R.S. Sonparote
+M.M.Mahajan
+Sanjay Borghate
+A.Y.Vyavahare
+Ashwin Gaikwad
+Sageeta Gadve
+Debarati Datta
+Physics :
+B R SANKAPAL
+GALI HEMA CHANDRA
+K. MOHAN KANT
+A.V. Deshpande
+M.S. Ramkarthik
+Poorva Singh
+R.S. Gedam
+S.M. Giripunje
+Sujata R. Patrikar
+V.K. Deshpande
+Architecture & Planning
+:
+V. K. BAKDE
+A. P. PATIL
+Chandra Sabnani
+V.S. Kapse
+V.V. Ghuge
+R.Kotharkar
+V.S.Adane
+Amit Wahurwagh
+Amit M. Deshmukh
+Aniket Deshmukh
+K.N.Joglekar
+Meenal M. Surawar
+Pankaj Bahadure
+Smita Khan
+Sameer M.Deshkar
+Sarika Bahadure
+Chemical :
+K. WASEWAR
+A.P. Rathod
+S.M. Kodape
+Shriram Sonawane
+A.S.Chaurasia
+Ashwin Gaikwad
+Diwakar Shende
+Piyush Wanjar i
+Paradip Dhamole
+Sachin Mandavgane
+Shailesh Agrawal
+C.Ravikumar
+Mahesh N.Varma
+R.P.Vijaykumar
+Ravi N.Methekar
+Sonali P.Tajne
+Ashwin Kannan
+Chemistry :
+Anupama Kumar
+J. D. EKHE
+RAMANI MOTGHARE
+S. K. GHOSH
+S. S. UMARE
+Abhishek Banerjee
+Atul V. Wankhade
+Chayan Das
+S.L. Gayatri
+S.P. Zodape
+Sandipan Haldar
+Susanta Kumar Nayak
+Umesh R. Pratap
+Civil :
+A. D. GHARE
+ANJAN PATEL
+R. V. RALEGAONKAR
+RAJESH GUPTA
+Y.B. Katpatal
+A.D. Vasudeo
+M.V. Latkar
+Shilpa R. Dongre
+Shrabony Adhikary
+A.R.Tembhurkar
+Ashwini B.Mirajkar
+Swapnil P.Wanjari
+V.A.Mhaisalkar
+Anirban Mandal
+Dilip H Lataye
+Mangesh V Madurwar
+Abhay Tawalare
+Vishrut Landge
+Computer Science :
+R. B. KESKAR
+Praveen Kumar
+ASHISH TIWARI
+M. KURHEKAR
+M. M. DHABU
+M. RADKE
+S. A. RAUT
+S. R. SATHE
+U. A. DESHPANDE
+P.S. Deshpande
+Poonam Sharma
+A.S.Mokhade
+O.G.Kakde
+Deepti Shrimankar
+M.R.Pimple
+Electrical & Electronics:
+Anjali Junghare
+Ashwin Dhabale
+Ashwin Dhabale
+B.S. Umre
+Bhooshan Rajpathak
+H.M. Suryawanshi
+M.A. Choudhari
+M.R. Ramteke
+M.S. Ballal
+M.V. Aware
+Makarand M. Lokhande
+Mohan Khedkar
+Nita R. Patne
+P.S. Kulkarni
+R.J. Satputaley
+Ritesh Kumar Keshri
+Sunil Bhat
+V.B. Borghate
+V.S. Kale
+Pradyumn Chaturvedi
+S.R.Tambay
+Arghya Mitra
+Electronics & Communication :
+A. G. KESKAR
+V.R. Satpute
+K. M. BHURCHANDI
+Prabhat Kumar Sharma
+K.D. Kulat
+A.S.Gandhi
+Ashwin Kothari
+Deep Gupta
+Joydeep Sengupta
+K.Surender
+Pradnys Ghare
+Saugata Sinha
+Vinay Kumar
+Mathematics :
+G. NAGAR RAJU
+V.V. Awasthi
+PRADIP ROUL
+G P SINGH
+Satish Kumar A.
+Deepesh Kumar Patel
+Jyothi Singh
+M.Devakar
+P.Pramod Chakravarthy
+Pallavi Mahale
+Rajendra Pant
+Mechanical :
+D. B. ZODPE
+A. A. THAKRE
+A. B. ANDHARE
+Y. M. PURI
+A. S. DHOBLE
+P. M. PADOLE
+ARUN SINGH
+PRAVIN SAWARKAR
+V. R. KALAMKAR
+Nitin Kumar Lautre
+J. G. SURYAWANSHI
+Ravikumar Dumpala
+M. S. KOTAMBKAR
+Dhananjay A. Jolhe
+P. V. KANE
+Ravi Kumar Peetala
+RASHMI UDDANWADIKAR
+S. S. CHIDDARWAR
+Animesh Chatterjee
+Vinayak Ghuge
+A.M.Kuthe
+Gaurav Tiwari
+H.P.Jawale
+H.T.Thorat
+K.M.Ashtankar
+S.B.Thombre
+T.V.K.Gupta
+Trushar Gohil
+V.M.Nistane
+Subhash V. Bopshetty
+VLSI & Nano-technology :
+Ganesh C. Patil
+R.M. Patrikar
+Vasu Pulijala
+R.B.Deshmukh
+S.B. Dhok
+Metallurgical & Materials :
+A.P. Patil
+Ajay Likhite
+Atul R. Balla l
+D.R. Peshwe
+D.V. Moghe
+Jatin Bhatt
+M.M. Thawre
+R.C. Rathod
+R.K. Khatirkar
+R.V. Taiwade
+S.G. Sapate
+S.N. Paul
+Y.Y. Mahajan
+Ajeet Kumar Srivastav
+V.Udhayabanu
+Mining :
+I. L. MUTHREJA
+Sandeep Panchal
+S. S. GUPTE
+Ajay Kumar Agrawal
+Ritesh Lokhande
+N.R.Thote
+R.R.Yerpude
+Physical Education :
+P.S.Nagarale
+Robin Simon
+Humanities & Social Sciences :
+G.N.Nimbarte
+M.Ghosal
+Yogesh Deshpande
+Officers :
+D.M. Parate
+K.G. Barapatre
+K.N. Dakhale
+Meenakshi Bheevgade
+P.M. Harode
+Rajnesh M.P.
+S.C. Kumaresan
+S.M. Deshmukh
+S.S. Jagdale
+A. A. Anasingkar
+Ashok G.Bhurle
+Avadhesh Singh
+Banothu Krishna Prasad
+Nikhil V. Naukarkar
+Krishna Kumar Patel
+Vijendrasinh P.Thakur
+Pankaj S Dhule
+Nikhil Chingalwar
+R.T.Motghare
+Non-Teaching Staff :
+C. R. Bhakre (Civil)
+Dharmendra Thakur
+P. B. Shende (Civil)
+Sarang P. Sahasrabudhe(Civil)
+Usha Patil(Civil)
+Supporting Staff :
+B.R. Bhiogade
+C.R. Bhakre
+K.S. Chimote
+K.S. Ramteke
+P.B. Shende
+Raju S. Sahare
+S.K. Atagare
+T.F. Gour

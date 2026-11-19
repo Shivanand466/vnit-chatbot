@@ -1,0 +1,13 @@
+SOURCE_URL: https://vnit.ac.in/circular/
+TITLE: Circular
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+!! CIRCULAR !!
+The Govt. of India invites attention on the caste discrimination due to which victim students take extreme  step like suicide. To curb the caste discrimination, students /parents can lodge a complaint to Institute Authority.
+Parents can also send an email at complaint@vnit.ac.in
+NOTE
+The particular of complainant and details of the complaint will be kept strictlyCONFIDENTIAL.
+Complaint can also be lodged in person in a register maintained in REGISTRAR’S OFFICE and available on alll working days.
+BY ORDER
+DIRECTOR

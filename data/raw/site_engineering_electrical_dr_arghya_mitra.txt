@@ -1,0 +1,357 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-arghya-mitra/
+TITLE: Dr. Arghya Mitra
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Arghya Mitra
+Brief Bio
+Brief Bio
+Dr. Arghya Mitra received his B.E. degree from Jadavpur University in 2002 and the M. Tech. degree from University of Calcutta, in 2008. He did his PhD from Indian Institute of Technology Kharagpur in the year 2015. He received POSOCO Power System Award 2016 for his contribution in the field of power system through his PhD work. Dr. Mitra has more than 80 research publications, along with two book chapters, in different international journals of high impact factor, including IEEE Transactions and several national and international conferences of repute. With two other inventors, in 2024 one national patent was granted in his name on Variable inductor and variable capacitor for power systems and for superior tuned oscillators. Dr. Mitra is working as the Principal Investigator for the SPARC Project titled “Global Grid: The Future of Earth” funded by MoE, Govt. of India having budget Rs. 30 Lakhs. He is also the Co-PI in the DST funded Renewable Energy EMPOWERING European and Indian Communities (RE-EMPOWERED) under EU-India Horizon 2020 Program with Indian side Budget of Rs. 9.15 Crores, and received another research grant of Rs. 5.28 Crores funded by MeitY–MHI, where he is working as a Co-PI, for the project titled Development of 15 kW Wireless Charger and 40 kW Modular Wireless Charger for an Electric Vehicle. He has successfully completed a collaborative project funded by BARC, Mumbai amounting Rs. 45 Lakhs. He is involved in several testing/consultancy related works. Dr. Mitra is the Co-Principal Investigator of the Capacity Building of Design and Entrepreneurship (CBDE) program at VNIT Nagpur under the Malaviya Mission Teacher Training Program (MMTTP) Scheme, an initiative of MoE, Govt. of India. Dr. Mitra is a Sr. Member of IEEE and was an executive member of IEEE Bombay Section in 2022. He was the Chairperson of the IEEE Bombay Section Newsletter Committee in 2022. Dr. Mitra was also the Member Development Chair of IEEE Nagpur Sub-section in 2019. He served as the Secretary of IEEE Bombay Section Joint Chapter PES/IAS in 2021 and also worked as the Secretary of IEEE Bombay Section Joint Chapter PELS/IES during 2019-2021. Till date he has coordinated total seven Short Term Training Programs, including one GIAN Course on “Electric Power Distribution Systems: Meeting new challenges with sustainable solutions”. He worked as an Organizing Secretary of two IEEE conferences, i) IEEE International Conference on “Smart Technologies for Power, Energy and Control (STPEC 2020)” during Sep. 2020, and ii) National Conference on Sustainable Energy (NCOSE 2018) during Feb., 2018. Dr. Mitra has more than 23 years of teaching and research experience. He has delivered guest lectures in different NITs and several government and private engineering colleges of repute. He is a regular reviewer of top journals in the area of power system and related field. His research interests are Power System Dynamics and Stability, Grid Integration of Renewable Energy, Energy Management in Microgrid and Microgrid Stability. So far he has guided six PhD students and eighteen MTech students. Currently two PhD and two MTech students are working under his supervision. At present Dr. Mitra is working as an Associate Professor in the Department of Electrical Engineering at VNIT Nagpur.
+Education
+Degree
+Year
+Specialization
+University
+Ph.D 2015
+Electrical Engineering (Specialization in Power System Dynamics and Stability)
+Indian Institute of Technology Kharagpur
+M. Tech.
+2008
+Electrical Engineering (Electrical Power)
+University of Calcutta
+B. E.
+2002
+Power Plant Engineering
+Jadavpur University
+Contact Details
+Phone:
+Email:
+Address:
+0712-2801209 mitraarghya@eee.vnit.ac.in
+Department of Electrical Engineering, VNIT Nagpur
+Research Interest
+Research Interest
+Power System Dynamics and Stability
+Grid Integration of Renewable Energy
+Energy Management in AC/DC Microgrid
+Microgrid Stability
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Published Papers
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+An Intelligent and Cost-Effective Solar PV Pumping System with Open-End Stator Wound Permanent Magnet Motor (i-Solar PMM-PUMP) ajiv Gandhi Science & Technology Commission (RGSTC), Government of Maharashtra
+Co-PI 2026 140.99 2
+Development of 15 kW Wireless Charger and 40 kW Modular Wireless Charger for an Electric Vehicle
+MeitY–MHI
+Co-PI 2026 528 3
+Capacity Building on Design and Entrepreneurship (CBDE)
+MoE
+Co-PI 2024 250.05 4
+SPARC Project titled “Global Grid: The Future of Earth”
+MoE
+PI 2023 30.82 5
+“Renewable Energy EMPOWERing European and InDian communities” under the scheme Horizon 2020 – Research and Innovation Framework Programme
+DST
+Co-PI 2021 67.72 6
+Modelling, stability and fault analysis of BLDC type multi-machine system
+BARC, Mumbai
+Co-PI 2018 45
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Consultancy services of Vetting of LPS report of RBI, Bhubaneswar, reviewing the design basis report as per IEC 62305 and NFPA 780
+M/S. Safety Electrical Engineering Services, Nagpur
+Consultant 2026 0.35 2
+Consultancy services of Vetting of Design and Drawings of Electrical system for Bhimkhanda Micro Lift Irrigation Scheme
+M/S. South East Construction Co Pvt Ltd, Virugambakkam, Chennai
+Consultant 2025 1.01 3
+Consultancy services of electrical works in new shed (1. Design of complete electrical system for 800 KVA load, 2. Design of advanced illumination system, and 3. BOQ for floating tender) at JNARDDC, Nagpur
+Jawaharlal Nehru Aluminium Research Development & Design Centre, Nagpur
+Consultant 2025 3.77 4 45 days Training Program for the skill development of unemployed youth in Maharashtra on Artificial Intelligence and Robotics jointly organised by VNIT Nagpur and MITCON, Maharashtra
+MITCON, Maharashtra
+Coordinator 2024 17.36 5
+Vetting of estimate for project “construction of 132kV substation at Balaghat mine
+MOIL
+Consultant 2023 0.21 6
+Vetting of Electrical Drawing for project “Providing, Erecting and Commissioning of Automated Multilevel Car and Bike Parking System in Nagpur for Nagpur Smart And Sustainable City Development Corporation Limited”
+M/s S-PARK (JV) Visionpark & Sark, Smart Robotic Parking Eco System, Indore (M.P.)
+Consultant 2023 0.55 7
+Vetting of “Designs Electro Mechanical Components of 24 X7 Water supply with SCADA for Panaji City under Smart City Mission for 40 MLD WTP at OPA Water Works”
+M/s Bagkiya Constructions Pvt. Ltd., Panaji, Goa
+Consultant 2023 0.5 8
+Third Party Quality Assurance Inspection of report for “Construction of 100 bedded Hospitals with 32 nos. residential quarters for ESIC Hospital at Raigarh” District: Bilaspur, Chhattisgarh
+CPWD, Bilaspur Project Division, Sub Division: RPSD, Raigarh
+Consultant 2021 7.09 9
+Third Party Quality Assurance Inspection of report for “Name of Work: C/o Super Speciality Hospital, Bilaspur under PMSSY (Phase-IV) on EPC basis” District: Bilaspur, Chhattisgarh
+CPWD, Bilaspur Project Sub Division-I, Bilaspur
+Consultant 2021 34.7 10
+Third Party Technical Audit of 20 works of Pandharkawda and 25 works of Umarkhed of District: Yavatmal
+District Administrative Officer, collector Office, Yavatmal
+Consultant 2020 3.2 11 setting question papers for Nagpur Metro Rail Entrance Examination in 2017
+Nagpur Metro Rail
+Paper setter 2017 3.5 12
+“Knowledge sharing and Training Programs on Energy Conservation Building Code (ECBC) in the State” to conduct awareness, training and Capacity building for various stakeholders through MoU between Maharashtra Energy Development Agency and VNIT Nagpur in Dec 2017
+Maharashtra Energy Development Agency (MEDA), Maharashtra
+Coordinator 2017 25
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Global Grid: The Future of Earth
+Arghya Mitra, Sunil Bhat, Bimal Kumar Dora, Damien Ernst and Jing Dai
+Hindustan Publishing Corporation (India)
+ISBN-13: 978-81-70751-06-9, ISBN-10: 81-7075-106-3 2026
+“Smart Load forecasting Methodologies”, Accepted for publication as Book Chapter of Smart Metering: Infrastructure, Methodologies, Applications and Challenges
+Kamini Shahare, Dipanshu Naware and Arghya Mitra
+Elsevier 2023
+“Integration of Renewable Sources and Energy Storage Devices”, Book Chapter of Planning of Hybrid Renewable Energy Systems, Electric Vehicles and Microgrid: Modeling, Control and Optimization
+Dipanshu Naware, Ram Babu Thogaru and Arghya Mitra
+Springer 978-981-19-0978-8                                            978-981-19-0979-5 (eBook) 2021
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Variable inductor and variable capacitor for power systems and for superior tuned oscillators 201921011347
+Filed on 23rd March 2019
+Granted on 25th January 2024
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+GIAN Course on “Electric Power Distribution Systems: Meeting new challenges with sustainable solutions”
+MoE
+VNIT Nagpur 10-15 Feb 2025 39
+Special Session SS9: Intelligent and economic operating strategies for sustainable future grid and e-mobility for IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SeFeT 2024)
+IEEE
+GRIET, Hyderabad 31 July – 3 August 2024 24
+Training Program for the skill development of unemployed youth in Maharashtra on Artificial Intelligence and Robotics
+MITCON, Maharashtra
+VNIT Nagpur 15 Feb – 30 Mar 2024 80
+“Basics of Mechatronics and TIA Portal: in collaboration with ‘Siemens Center of Excellence, Visvesvaraya National Institute of Technology’-A beginner’s class about the fundamentals of Mechatronics”
+IEEE Bombay Section
+VNIT Nagpur 19-23 April 2021 30
+IEEE International Conference on “Smart Technologies for Power, Energy and Control (STPEC) 2020
+IEEE Bombay Section
+VNIT Nagpur 25 -26 Sept 2020 135
+Shifting Teaching-Learning Paradigms through Innovative Pedagogy
+IEEE Bombay Section
+VNIT Nagpur 12-16 February 2020 20
+Smart Energy Systems for Rural & Urban Development
+TEQIP-III
+NIT Agartala 2-6 December 2019 30
+Power Systems & Control: A Modern Perspective
+TEQIP-III
+VNIT Nagpur
+July 2019 25
+National Conference on Sustainable Energy (NCOSE 2018)
+TEQIP-III
+VNIT Nagpur 22-24 Feb 2018 56
+Energy Conservation Building Code (ECBC)
+MEDA, Maharashtra
+VNIT Nagpur
+April 2018 40
+Advancements in Renewable Energy and Energy Storage Devices
+TEQIP-II
+VNIT Nagpur
+February 2017 30
+Solar Photovoltaic Operation & Installation
+TEQIP-II
+VNIT Nagpur
+March 2017 20
+Sr. No.
+Responsibility
+Year 1
+Institute level Coordinator of National Innovation and Startup Policy (NISP) Capacity Building in Design and Entrepreneurship
+October 2024 – till date 2
+Faculty In-charge of Automation Lab under Siemens Center of Excellence, VNIT Nagpur 2020 – till date 3
+Faculty In-charge of Canteen, VNIT Nagpur
+February 2024 – till date 4
+Faculty In-charge of SPIC MACAY, the heritage club of VNIT Nagpur
+September 2024 – till date 5
+Faculty In-charge of Octaves (Music club)
+August 2021 – July 2023 6
+Faculty In-charge of AAROHI – Annual Cultural Festival of VNIT, Nagpur 2018 – 2021 7
+Advisor of AAROHI – Annual Cultural Festival of VNIT, Nagpur 2022 – 2023 8
+Member of PG Admission committee for CCMT 2022 & 2023 9
+Warden of Hostel Block 03 of VNIT Nagpur
+June 2019 – 2022 10
+Faculty In-charge of Halla Bol (Dramatics club)
+August 2021 – 2022 11
+Faculty in-charge of Department Magazine
+July 2023 – till date 12
+Department PhD Coordinator
+July 2019 – July 2023 13
+Faculty Coordinator/Advisor of M. Tech IPS Branch
+July 2016 – June 2019 14
+Departmental Examination Coordinator (DEC)
+July 2017 – June 2019 15
+Lab In-charge: High Voltage Engineering Lab
+July 2016 – Till date 16
+Lab In-charge: Network Theory Lab
+July 2022 – Till date 17
+Lab In-charge: Non Conventional Energy Sources Lab
+July 2016 – 2022 18
+Member of Annual Report Committee 2018 & 2022 19
+Member of 15th, 16th, 17th, 18th, 19th & 21st Convocation Committee of VNIT, Nagpur 20
+Professor I/C of smart classroom in the Department
+March 2017 – till date
+Year
+Awards 2016
+POSOCO Power System Award (PPSA) 1997
+National Scholarship Award in H.S. Examination 1995
+National Scholarship Award in Madhyamik Pariksha 1994
+National Scholarship in Science Talent Search Test
+S.No.
+Paper Citation 1
+Kumkum Choudhary, Chinmay Karkar, Arghya Mitra and S S Bhat, “Digital Twin Implementation and Scenario Analysis for a PV Fed Microgrid System” Accepted for publication in 4th IEEE International Conference on Smart Technologies for Power, Energy and Control (STPEC2025), NIT Goa, India, 10-13 December 2025 2
+Sourabh Joshi and Arghya Mitra, “A Comparative Analysis of Various Deep Learning Models for State-of-Charge Estimation in Lithium-Ion Batteries” Accepted for publication in 4th IEEE International Conference on Smart Technologies for Power, Energy and Control (STPEC2025), NIT Goa, India, 10-13 December 2025 3
+Vishal Gaurav, Avishkar Karnik, Arghya Mitra, Ritesh Keshri, “A Real-Time Energy Management Tool for Optimal Demand Response in Isolated Microgrids”, Accepted for publication in 5th IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET2025), Jaipur, India, Jul 2025.
+4
+Kumari Kavya, Bimal Kumar Dora, Nidhi Haribhau Gaikwad, Shantanu Choudhary, Ruchita Waghmare, Sudip Halder, Ishan Srivastava, Arghya Mitra, Damien Ernst, Sunil Bhat, “Optimizing Renewable Energy Integration in Microgrids Using Graph-Based Optimization Modeling Language”, Accepted for publication in 5th IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET2025), Jaipur, India, Jul 2025.
+5
+Bimal Kumar Dora, Nidhi Haribhau Gaikwad, Pranjali Kulkarni, Tarun Gangadhar, Ruchita Waghmare, Sudip Halder, Arghya Mitra, Damien Ernst, Sunil Bhat, “Cost Optimization of Renewable Energy Installation in a Four-Microgrid System Using GBOML”, Accepted for publication in 5th IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET2025), Jaipur, India, Jul 2025.
+6
+Nidhi Haribhau Gaikwad, Bimal Kumar Dora, Payal Jangilwar, Bimal Kumar Dora, Arghya Mitra, Soumyabrata Das, Sunil Bhat, “Machine Learning-Based Load Forecasting and Battery Energy Management for Efficient Renewable Integration”, Accepted for publication in 5th IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET2025), Jaipur, India, Jul 2025.
+7
+Nidhi Haribhau Gaikwad, Payal Jangilwar, Bimal Kumar Dora, Arghya Mitra, Soumyabrata Das, “Deep Learning-Based Solar and Wind Energy Forecasting for Grid-Independent Systems”, Accepted for publication in 5th IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET2025), Jaipur, India, Jul 2025.
+8
+Payal Jangilwar, Soumyabrata Das, Jawaharlal Bhukya, Arghya Mitra, “Impact of Solar Power Forecasting on Sustainable hydrogen production”, Accepted for publication in 5th IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET2025), Jaipur, India, Jul 2025.
+9
+Nidhi Haribhau Gaikwad, Payal Jangilwar, Arghya Mitra, Soumyabrata Das, “Impact of Data Prepossessing on Wind Forecasting using Machine Learning Techniques”, accepted for publication in 4th International Conference on Power, Control and Computing Technologies (ICPC2T2025), NIT Raipur, 20 – 22 January 2025 10
+Mriduwani Verma, Priya Sinha Arghya Mitra, Sunil Bhat “Dynamic Analysis of Grid Connected multi-PMBLDC Motor System under Power-stage and Hall Sensor Faults” Accepted in National Power System Conference (NPSC2024), Indore, India, 14-16 Dec 2024.
+11
+Raju Chintakindi and Arghya Mitra, “Identify Vulnerable Lines on Static and Dynamic Load Configurations for GPS-Based PMU Interfaced Power Networks”, Accepted in 12th International Conference on Smart Grid (icSmartGrid2024), Setúbal, Portugal, May 27 – 29, 2024.
+12
+Mriduwani Verma, Arghya Mitra, Sunil Bhat, Ashok Wankhede, Kanchan Garai and Soumitra Pal, “Analysis of BLDC Motor based Propulsion System under High-Resistance Connection Fault for various PWM Techniques”, Accepted in 4th IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET2024), Hyderabad, India, Jul-Aug 2024.
+13
+Vaishnavi Kench, Shreya Singhal, Arghya Mitra, “Demand Response Enabled Energy Management Tool for an Isolated Microgrid Integrated with Different Energy Vectors”, Accepted in 4th IEEE International Conference on Sustainable Energy and Future Electric Transportation (SEFET2024), Hyderabad, India, Jul-Aug 2024.
+14
+Pranjali Jamodkar, Arghya Mitra, “Determination of Optimal Locations for Installation of Solar Photovoltaic Farm in Maharashtra, India”, 10th International Conference on Power Systems (ICPS) 2023, Bangladesh, December 13 – 15, 2023.
+15
+Ana Turk, George Sideratos, Kamini Shahare, Aysegül Kahraman, Alexandros Paspatis, Guangya Yang, Arghya Mitra, Dipanshu Naware, Panos Kotsampopoulos, “Deployment of Forecasting Tools in Diverse Demonstration Areas to Improve Energy Scheduling of Microgrids”, International Conference & Exhibition on Electricity Distribution, (CIRED 2023), Rome, Italy, June 12 – 15, 2023.
+16
+B. Ramesh, Mohan Khedkar, Kamini Shahare, Srinivas Chappa, Arghya Mitra, “Analytic Hierarchy Process-based Optimal Load Scheduling Framework in an Islanded Distribution Network”, 7th International Conference on Renewable Energy and Conservation, ICREC 2022, , Paris, France November 18-20, 2022.
+17
+Kamini Shahare, Arghya Mitra, Dipanshu Naware, Ritesh Keshri, H. M. Suryawanshi, “Performance Analysis and Comparison of Various Techniques for Short-Term Load Forecasting”, 9th International Conference on Power and Energy Systems Engineering (CPESE 2022), Japan, September 09-11, 2022.
+18
+Bhukya Harichandra Prasad, Ram Babu Thogaru and Arghya Mitra, “Integration of Electric Vehicles to DC Microgrid Enabling V2G and G2V”, 7th Students’ Conference on Engineering & Systems (SCES-2022), MNIT Allahabad, India, July 2022.
+19
+Raju Chintakindi and Arghya Mitra, “Detecting Weak Areas in a Real-time Power System on a Static Load Model using Standard Line Voltage Stability Indices”, 2nd IEEE International Conference on Smart Technologies in Power, Energy and Control (STPEC 2021), Chhattisgarh, India, Dec. 2021.
+20
+K. Raghavendra Naik, Bhooshan Rajpathak, Arghya Mitra and Mohan Kolhe, “Renewable Energy Integrated DC Microgrid for EV Charging Station”, 4th International Transportation Electrification Conference (iTEC) India 2021, ICAT Convention Centre, India, Dec. 2021.
+21
+Sharyu Chevale,  Shubham Mahajan, Jaideep Bedarkar, Avinash Mathew, A V D Prasad and Arghya Mitra, “Application of Z-Source Circuit Breaker in a Solar PV based DC Microgrid with Battery Storage”, International Conference on Power and Energy Systems (ICPS 2021), IIT Kharagpur, India, Dec. 2021.
+22
+Raju Chintakindi, Pradyumna Pradhan and Arghya Mitra, “WAMS based Thevenin index for voltage stability assessment with increasing wind power penetration and additional distributed load”, 8th International Conference on Power and Energy Systems Engineering (CPESE 2021), Fukuoka, Japan, September 10-12, 2021.
+23
+Raju Chintakindi and Arghya Mitra, “WAMS challenges and limitations in load modeling, voltage stability improvement, and controlled island protection – A Review,” 8th International Conference on Power and Energy Systems Engineering (CPESE 2021), Fukuoka, Japan, September 10-12, 2021.
+24
+Raju Chintakindi and Arghya Mitra, “WAMS based Real-time Voltage Stability Monitoring for Various Load Models in Presence of a DFIG Integrated Wind Farm”, 6th International Conference on Advanced Production and Industrial Engineering (ICAPIE 2021), Delhi, India, 18-19 June, 2021.
+25
+Raviteja Badigenchala, Dipanshu Naware and Arghya Mitra, “Modelling of Lithium-ion Battery Ageing for a Local Energy Community” IEEE International Conference on Intelligent Technologies, Karnataka, India, 25-27 June, 2021.
+26
+Pradyumna Pradhan, Raju Chintakindi and Arghya Mitra, “WAMS based Thevenin Index for Voltage Stability Assessment of Wind Farm Integrated Power System,” IEEE International Conference on Intelligent Technologies, Karnataka, India, 25-27 June, 2021.
+27
+Megha Fatnani, Dipanshu Naware and Arghya Mitra, “Design of Solar PV Based EV Charging Station with Optimized Battery Energy Storage System,” IEEE International Conference on Smart Technologies in Power, Energy and Control (STPEC 2020), Nagpur, India, 25-26 Sept, 2020.
+28
+Srikanth Pamu, Rambabu Thogaru and Arghya Mitra, “Resiliency Analysis of Grid connected Solar PV System with Battery Support,” IEEE International Conference on Smart Technologies in Power, Energy and Control (STPEC 2020), Nagpur, India, 25-26 Sept, 2020.
+29
+Raju Chintakindi and Arghya Mitra, “PMU-based Real-time Load Balancing Strategy for Lights-out Case in India – A Case Study,” IEEE International Conference on Smart Technologies in Power, Energy and Control (STPEC 2020), Nagpur, India, 25-26 Sept, 2020.
+30
+Kethavath Raghavendra Naik, Bhooshan Rajpathak, Arghya Mitra and Mohan Kolhe, “A Review of Nanogrid Technologies for Forming Reliable Residential Grid,” IEEE International Conference on Smart Technologies in Power, Energy and Control (STPEC 2020), Nagpur, India, 25-26 Sept, 2020.
+31
+Kethavath Raghavendra Naik, Bhooshan Rajpathak, Arghya Mitra and Mohan Kolhe, “Adaptive Energy Management Strategy for Optimal Power Flow Control of Hybrid DC Microgrid,” 5th International Conference on Smart and Sustainable Technologies 2020, Croatia, Sep. 23-26, 2020.
+32
+M. Mounica, Ch. Durga Prasad, Bhooshan Rajpathak and Arghya Mitra, “Application of Bio geography based Fractional order PID controller in DC motor drive speed control,” International Conference on Electronics, Computing and Communication Technologies (CONECCT 2020), Jul. 2-4, 2020, Virtual Conference.
+33
+Raju Chintakindi and Arghya Mitra, “Execution of Real-time Wide Area Monitoring System with Big Data Functions and Practices,” 9th IEEE Power India International Conference (PIICON2020), Haryana, India, Feb. 28- Mar. 01, 2020.
+34
+Rambabu Thogaru and Arghya Mitra, “Mitigation of Voltage sag and Loadability Improvement of Solar PV based DC microgrid,” International Conference on Power Electronics & IoT Applications in Renewable Energy and its Control (PARC 2020), GLA University, Mathura, India Feb. 28-29, 2020.
+35
+Soniya Sherkar, Srikanth Pamu and Arghya Mitra, “Assessing the impacts of integration of Solar PV on transient stability of the power system using a sensitivity based index” ICPS 2019, MNIT Jaipur, India, Dec. 2019.
+36
+Kethavath Raghavendra Naik, Bhooshan Rajpathak, Arghya Mitra and Mohan Kolhe, “Voltage stability of Small Hydro Generator Based DC Microgrid,” International Conference on Power and Energy Systems (ICPS 2019), MNIT Jaipur, India, Dec. 2019.
+37
+Megha Fatnani and Arghya Mitra, “Small signal stability analysis of wind farm integrated multi-machine power system with distributed load,” International Conference on Power and Energy Systems (ICPS 2019), MNIT Jaipur, India, Dec. 2019.
+38
+D. Srujan, Rambabu Thogaru, Arghya Mitra and V. B. Borghate, “Energy Management in Grid Integrated Solar PV based Smart Charging Station,” IECON 2019, Lisbon, Portugal, Oct. 2019.
+39
+D. Srujan, Arghya Mitra and Ghanasyam P, “An Improved Fault Ride-through of Grid Integrated Solar PV system,” IEEE Region 10 Symposium (IEEE TENSYMP 2019), Kolkata, India, Jun. 2019.
+40
+Janakiram Parjanya Y., Arghya Mitra and Sunil Bhat, “Study and Analysis of the Performance of Grid Connected Multi-PMBLDC Motor Drive System,” IEEE International Conference on Energy and Power Engineering (ICEPE2019), Dhaka, Bangladesh, Mar. 2019.
+41
+Rambabu Thogaru and Arghya Mitra, “Voltage stability and loadability improvement of DC microgrid connected with static and dynamic loads,” IEEE International Conference for Convergence in Technology (I2CT 2019), Pune, Mar. 2019.
+42
+Ghanasyam P, Astha Verma and Arghya Mitra, “Impact of hybrid renewable sources on the transient stability of multi-machine power system”, IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Chennai, Dec. 2018.
+43
+Adil Wankhede, Ankit Mishra, T. Pravallika, T. Gauthami, N. Harshitha, Arghya Mitra and Max M. Santosa, “Fault analysis of grid connected multi-PM BLDC motor drive”, IECON 2018, Washington DC, Oct. 2018.
+44
+Ghanasyam P, Arghya Mitra and Astha Verma, “Fault analysis of grid integrated solar PV with improved controllers”, Proc. NCOSE 2018, Nagpur, Feb. 2018.
+45
+Astha Verma, Arghya Mitra and Ghanasyam P, “A study on grid integrated solar PV using buck converter”, Proc. NCOSE 2018, Nagpur, Feb. 2018.
+46
+Adil Wankhede, Ankit Mishra, Pravallika, Gauthami, Harshitha and Arghya Mitra, “Modelling and stability analysis of a multi-BLDC motor-drive system connected to an AC grid”, Proc. NCOSE 2018, Nagpur, Feb. 2018.
+47
+Sumit Wankhede and Arghya Mitra, “Transient stability analysis of DFIG-based wind farm integrated power system with distributed loads”, International Conference on Power and Energy Systems (ICPS), Pune, Dec. 2017, pp. 182-187.
+48
+Niloy Patari, Arghya Mitra and Dheeman Chatterjee, “Improvement of transient stability of power systems by output power control of PMSG-based wind farm”, 15th Wind Integration Workshop (WIW16), Vienna, Austria, Nov. 2016.
+49
+Arghya Mitra and Dheeman Chatterjee, “A sensitivity based approach to study the stability of the power systems integrated with wind farm and superconducting magnetic energy storage”, 9thIFAC Symposium on Control and Power Energy Systems (CPES), Delhi, Dec. 2015, Vol. 48, No. 30, pp. 560-565.
+50
+Arghya Mitra and Dheeman Chatterjee, “Stability enhancement of wind farm connected power system using superconducting magnetic energy storage unit”, Eighteenth National Power System Conference (NPSC), Guwahati, Dec. 2014.
+51
+Arghya Mitra and Dheeman Chatterjee, “A new sensitivity based approach to study impact of wind power penetration on transient stability”, IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Bengaluru, Dec. 2012.
+52
+Jeetendra Chaudhary, Arghya Mitra and Dheeman Chatterjee, “Effect of doubly fed induction generator based wind Farms on the small signal stability of multi-machine power system”, International Conference on Power and Energy Systems (ICPS), Chennai, Dec. 2011.
+53
+Arghya Mitra, Arnab Chattopadhyay, S. Sengupta, “A comparative study of transient stability of a power system under different circuit configurations”, Proc. NCMTEE-2009, Kolkata, Jul. 2009.
+S.No.
+Paper Citation 1
+Suman Saurav, Ritesh Kumar Keshri, Yogesh Likhar, Arghya Mitra and Manoj R Ramteke, “Constant Current, Constant Temperature and Constant Voltage Charging of EV Battery” Accepted for publication in International Journal of Circuit Theory and Applications, February 2026, Impact Factor: 3.7 2
+Bimal Kumar Dora, Sunil Bhat, Arghya Mitra, Damien Ernst, Jing Dai and Soumyabrata Das, “Optimal Cost Analysis for 100% Renewable Energy Integration in India: A Step towards Global Electricity Grid” Accepted for publication in Electrical Engineering, February 2026. Impact Factor: 2.20 3
+Avishkar Karnik, Vishal Gaurav, Arghya Mitra, Ritesh Keshri and Panos Kotsampopoulos, “A Hybrid LSTM-Attention Residual Network for Photovoltaic Forecasting in Isolated Microgrid Environments”, Accepted for publication in Smart Grids and Sustainable Energy, August 2025, Impact Factor: 1.9 4
+Bimal Kumar Dora, Sunil Bhat, Arghya Mitra, Damien Ernst, Adrian Halinka, Daria Zychma and Pawael Sowa “The Global Electricity Grid: A Comprehensive Review”, Energies 2025, 18(5), 1152. DOI: https://doi.org/10.3390/en18051152, Impact Factor: 3.0 5
+Mriduwani Verma, Arghya Mitra, Sunil Bhat, Ashok Wankhede, Kanchan Garai and Soumitra Pal, “A Robust Two Sensor Based Fault Diagnosis for Open-Switch Fault in Power Stage Inverter of BLDC Motor” Accepted for publication in International Journal of Circuit Theory and Applications, January 2025 6
+Dipanshu Naware and Arghya Mitra, “Data-driven Technology Applications in Planning, Demand-side Management, and Cybersecurity for Smart Household Community”, Accepted for publication in IEEE Transactions on Artificial Intelligence, June 2024.
+7
+Raju Chintakindi and Arghya Mitra, “Wide-area Voltage Stability Assessment Using Loading Margin Sensitivity for Increasing Linear Load Levels and Wind Power Penetration” Accepted for publication in Electric Power Systems Research, May 2024.
+8
+Mriduwani Verma, Arghya Mitra, Sunil Bhat, Ashok Wankhede, Kanchan Garai and Soumitra Pal, “An Economical and Simple Strategy for Overcoming the Hall Sensor Faults in Three Phase BLDC Motor Drive” Accepted for publication in International Journal of Circuit Theory and Applications, Feb, 2024. Impact Factor: 3.7 9
+B. Ramesh, Mohan Khedkar, Kamini Shahare, Srinivas Chappa, Arghya Mitra, “Analytic Hierarchy Process-based Optimal Load Scheduling Framework in an Islanded Distribution Network”, Accepted for publication in Energy Reports, Aug, 2023. Impact Factor: 4.937 10
+A. V. Durgaprasad and Arghya Mitra, “Novel Bidirectional Symmetrical Z-Source Breaker with Adjustable Turns Ratio of Coupled Inductor” Accepted for publication in Electric Power Systems Research, April 2023. Impact Factor: 3.414 11
+A. V. Durgaprasad and Arghya Mitra, “Analysis and Experimental Validation of Bidirectional Modified O-Z Source Fault Interrupter for the Protection of DC Microgrid” Accepted for publication in Electric Power Systems Research, April 2023. Impact Factor: 3.414 12
+Kamini Shahare, Arghya Mitra, Dipanshu Naware, Ritesh Keshri, H. M. Suryawanshi, “Performance Analysis and Comparison of Various Techniques for Short-Term Load Forecasting”, Energy Reports, Vol. 9, Supplement 1, March 2023, pp. 799-808. DOI: https://doi.org/10.1016/j.egyr.2022.11.086. Impact Factor: 4.937 13
+Ajaysekhar Agarala, Sunil Bhat, Arghya Mitra, Daria Zychma, Pawel Sowa, “Transient Stability Analysis of Multi-Machine Power System integrated with Renewables”, Energies, MDPI, Vol. 15(13), July 2022, 4824, DOI: https://doi.org/10.3390 /en15134824. Impact Factor: 3.004 14
+Dipanshu Naware, Raviteja Badigenchala, Arghya Mitra, Debapriya Das, “Impact of Demand Response on Battery Energy Storage Degradation using Gbest-guided Artificial Bee Colony Algorithm with Forecasted Solar Insolation”, Journal of Energy Storage, Vol. 52, Part B, August 2022, 104915, DOI: https://doi.org/10.1016/j.est.2022.104915. Impact Factor: 6.583 15
+A. V. Durgaprasad and Arghya Mitra, “Analysis and Validation of Modified Bidirectional Z-Source Fault Interrupters for DC Microgrid Protection”, Electric Power Systems Research, Vol. 209, August 2022, 108007, DOI: https://doi.org/10.1016/j.epsr.2022.108007. Impact Factor: 3.414 16
+K. Raghavendra Naik, Bhooshan Rajpathak, Arghya Mitra, Chiranjeevi Sadanala and Mohan Lal Kolhe, “Power Management Scheme of DC Micro-Grid Integrated with Photovoltaic – Battery – Micro Hydro Power Plant”, Journal of Power Sources, Vol. 525, March 2022, 230988, DOI: https://doi.org/10.1016/j.jpowsour.2022.230988. Impact Factor: 9.127 17
+Rambabu Thogaru, Dipanshu Naware, Arghya Mitra and Jeetendra Chaudhary, “Resiliency Driven Approach of DC Microgrid Voltage Regulation Based on Droop Index Control for High Step-Up DC-DC Converter”, International Transactions on Electrical Energy Systems, Article ID 3676438, January 2022, DOI: https://doi.org/10.1155/2022/3676438. Impact Factor: 2.86 18
+Rambabu Thogaru and Arghya Mitra, “Regulation of DC Microgrid Voltage using Optimized Droop Index Control based High Gain Converters in Presence of Static and Dynamic loads”, Electrical Engineering, November 2021, DOI: https://doi.org/10.1007/s00202-021-01403-5. Impact Factor: 2.20 19
+Dipanshu Naware and Arghya Mitra, “Weather Classification-based Load and Solar Insolation Forecasting for residential applications with LSTM Neural Networks”, Electrical Engineering, September 2021, DOI: https://doi.org/10.1007/s00202-021-01395-2. Impact Factor: 2.20 20
+Raju Chintakindi and Arghya Mitra, “WAMS based Real-time Voltage Stability Monitoring for Various Load Models in Presence of a DFIG Integrated Wind Farm”, Journal of Engineering Research, DOI:10.36909/jer.ICAPIE.15069, pp. 257-272. Impact Factor: 0.64 21
+Raju Chintakindi, Pradyumna Pradhan and Arghya Mitra, “WAMS based Thevenin index for voltage stability assessment with increasing wind power penetration and additional distributed load”, Energy Reports, Vol. 8, Supplement 1, April 2022, pp. 672-683. Impact Factor: 4.937 22
+Raju Chintakindi and Arghya Mitra, “WAMS challenges and limitations in load modeling, voltage stability improvement, and controlled island protection – A Review,” Energy Reports, Vol. 8, Supplement 1, April 2022, pp. 699-709. Impact Factor: 4.937 23
+K. Raghavendra Naik, Bhooshan Rajpathak, Arghya Mitra and Mohan Lal Kolhe, “Adaptive Energy Management Strategy for Sustainable Voltage Control of Photovoltaic-Hydro-Battery Integrated DC Microgrid,” Journal of Cleaner Production, Vol. 315, September 2021, 128102. Impact Factor: 9.297 24
+K. Raghavendra Naik, Bhooshan Rajpathak, Arghya Mitra and Mohan Lal Kolhe, “Assessment of energy management technique for achieving the sustainable voltage level during grid outage of hydro generator interfaced DC Micro-Grid,” Sustainable Energy Technologies and Assessments, Vol. 46, August 2021, 101231. Impact Factor: 5.353 25
+Arghya Mitra, “Small Signal Stability Analysis of Power Systems Integrated with Wind Power Using Sensitivity Based Index,” Wind Engineering, August 2019, pp. 1-15, DOI: 10.1177/0309524X19868426. Impact Factor: 1.40 26
+Arghya Mitra and Dheeman Chatterjee, “Coordinated control of SMES and wind farm during fault in order to restrict rotor angle acceleration of power systems”, International Transactions on Electrical Energy Systems, Vol. 29, October 2018, DOI: 10.1002/etep.2747. Impact Factor: 2.86 27
+Arghya Mitra and Dheeman Chatterjee, “Active power control of DFIG-based wind farm for improvement of transient stability of power systems”, IEEE Transactions on Power Systems, Vol.31, No.1, January 2016, pp. 82-93. Impact Factor: 6.663 28
+Arghya Mitra and Dheeman Chatterjee, “A sensitivity based approach to assess the impacts of integration of variable speed wind farms on the transient stability of power systems”, Renewable Energy, Vol. 60, December 2013, pp. 662-671. Impact Factor: 8.001

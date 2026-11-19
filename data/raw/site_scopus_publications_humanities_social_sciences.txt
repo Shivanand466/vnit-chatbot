@@ -1,0 +1,66 @@
+SOURCE_URL: https://vnit.ac.in/scopus-publications-humanities-social-sciences/
+TITLE: Scopus Publications – Humanities & Social Sciences
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No.
+Authors
+Department
+Title
+Source Title
+Document Type 1
+Arjun; Mishra B.R.
+Humanities & Social Sciences
+External Debt and Economic Growth: Does the Role of Governance Matter in Emerging Countries?
+SAGE Open
+Article 2
+Dash B.; Narasimham G.L.; Jinde P.
+Humanities & Social Sciences
+Animals in Hinduism: Exploring Communication Beyond the Human Realm in Sacred Texts and Practices
+Journal of Dharma Studies
+Article 3
+Dhenge V.; Nimbarte G.
+Humanities & Social Sciences
+Governance, ease of living, and citizens’ perception: Components for quality-of-life assessment in mid-sized smart cities
+International Journal of Human Capital in Urban Management
+Article 4
+Gahane V.; Deshpande Y.
+Humanities & Social Sciences
+Gynecological Cancer Research in India: A Bibliometric Analysis
+Indian Journal of Surgery
+Review 5
+Dhenge V.; Nimbarte G.; Dhenge P.
+Humanities & Social Sciences
+Impact Assessment of Citizen Participation and Service Quality on Citizen Satisfaction in Smart Cities in India
+Advances in 21st Century Human Settlements
+Book chapter 6
+Arjun; Mishra B.R.; Tiwari A.K.
+Humanities & Social Sciences
+Exploring the asymmetric effect of fiscal policy instruments in encountering environmental degradation: proposing an SDG framework for India
+Environmental Science and Pollution Research
+Article 7
+Sethi C.; Mishra B.R.
+Humanities & Social Sciences
+Is inflation targeting effective? Lessons from global financial crisis and COVID-19 pandemic
+International Journal of Finance and Economics
+Article 8
+Arjun; Mishra B.R.
+Humanities & Social Sciences
+Asymmetric role of environmental policy stringency, fiscal, and monetary policy on environmental sustainability: Evidence from BRICS-T countries
+Natural Resources Forum
+Article 9
+Arjun; Mishra B.R.
+Humanities & Social Sciences
+Testing the Balanced Growth Hypothesis in the Presence of Structural Breaks: Evidence from Developed and Developing Countries
+Prague Economic Papers
+Article 10
+Dash B.; Narasimham G.L.; Jinde P.
+Humanities & Social Sciences
+THE SAPTANADĪ: MYTHICO-RELIGIOUS SIGNIFICANCE ON CONTEMPORARY INDIAN BIODIVERSITY
+Journal of Dharma
+Article 11
+Dash B.; Jinde P.; Narasimham G.L.
+Humanities & Social Sciences
+Mapping research trajectories in contemporary Hinduism through bibliometric analysis
+Information Development
+Article

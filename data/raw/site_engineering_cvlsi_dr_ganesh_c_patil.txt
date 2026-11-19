@@ -1,0 +1,285 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cvlsi/dr-ganesh-c-patil/
+TITLE: Dr. Ganesh C. Patil​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Ganesh C. Patil​
+Brief Bio
+Brief Bio
+Dr. Ganesh C. Patil received Bachelors degree in Electronics and Telecommunication Engineering from University of Pune and M.Tech degree from College of Engineering Pune (COEP) in 2002 and 2007 respectively. After M.Tech he completed Ph.D. in the area of Microelectronics and VLSI from the Indian Institute of Technology Kanpur, India in Jan 2014. Dr. Patil Bagged Best Student Award at 4th International Student Workshop on Electrical Engineering, at Kyushu University, Fukuoka, Japan, and also received Cash Award (Rs 20,000/-) twice by IIT Kanpur for publishing the papers in reputed journals. He is reviewer of various SCI listed journals and also worked as Technical Program Chair for various IEEE international conferences. The area of his research work is Device Physics and Modeling, Novel Nanoscale MOSFETs, Analog/Digital CMOS circuits, VLSI System Design, Organic Solar Cells, Sensors and System Design. Dr. Patil has published several research papers in various reputed journals and more than 30 research papers in peer reviewed international conferences held at USA, Japan, Egypt, Singapore, India and China. He is having total teaching experience of 18 years and currently working as a Professor at Center for VLSI and Nanotechnology at Visvesvaraya National Institute of Technology, Nagpur.
+Experience at VNIT
+Professor (11th September 2026 to Till Date)
+Associate Professor (9th June 2022 to 10th September 2026)
+Assistant Professor (Grade-I) (15th March 2018 to 8th June 2022)
+Assistant Professor (Grade-II) (5th August 2015 to 14th March 2018)
+Educational Details
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2008-2014
+Microelectronics and VLSI
+Indian Institute of Technology (IIT) Kanpur, Uttarpradesh, India 2
+M.Tech.
+2005-2007
+Microwave Engineering
+College of Engineering Pune (COEP), Pune, Maharashtra, India 3
+B. E.
+1998-2002
+Electronics and Telecommunication Engineering
+University of Pune, Pune, Maharashtra, India
+Contact Details
+Name:
+Phone
+Email
+Address
+Ganesh C. Patil 0712 280 1591 ganeshcpatil@cvn.vnit.ac.in
+Room No. 101, 1st Floor, Center for VLSI and Nanotechnology, VNIT, Nagpur
+Research Interests
+Research Interest
+Nanoscale MOSFETs, Compact Models,
+Organic Solar Cells,
+Soil Sensors, Biosensors and Systems,
+Nanoelectronics, 2D Materials
+CMOS Circuits and Systems
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sponsored Research Projects
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Setting up Undergraduate Teaching Laboratories in Quantum Technologies
+DST, National Quantum Mission (NQM)
+Principal Investigator 2026-2031 99.58 Lakh 2
+IoT based Soil Parameter Tester for Subhash Palekar Natural multi-cropping Farming (Ongoing)
+TIH Foundation for IoT & IoE IIT Bombay
+Principal Investigator 2025-Till date 29.56 Lakh 3
+Development of Solid-State Supercapacitors based on Light/Radiation Induced SnO2 Nanostructures (Ongoing)
+BOARD OF RESEARCH IN NUCLEAR SCIENCES (BRNS)
+Co-Principal Investigator 2022-till date 34.58 Lakh 4
+IoT based Soil Parameter Tester for Comparison of Fertilizer Free Natural Farming and Chemical Fertilizer based Farming (Completed)
+DST, SEED Division
+Principal Investigator 2020-2023 23.64 Lakh 5
+Development of prototype lantern powered by spent laptop batteries (Completed)
+DST, SEED Division
+Co-Principal Investigator 2017-2019 12.01 Lakh 6
+Design and Modeling of Silicon Carbide MOSFETs for High Performance Mixed-Signal Circuits (Completed)
+University of Pune
+Principal Investigator 2013-2015 2 Lakh 7
+Fabrication and characterization of Nanostructured Organic Solar Cells for improving Lifetime and Efficiency (Completed)
+INUP-IIT Bombay
+Principal Investigator 2016
+Medium Term 8
+Fabrication and characterization of P3HT inter layer organic solar cells for improving efficiency (Completed)
+INUP-IIT Bombay
+Principal Investigator 2017
+Medium Term 9
+Characterization of thin-film Junctionless Transistor fabricated using  Chemical route (Completed)
+INUP-IIT Bombay
+Principal Investigator 2017
+Short Term 10
+Fabrication and characterization of Split gate Bulk Planar Junctionless Field Effect Transistor (Completed)
+INUP-IIT Bombay
+Principal Investigator 2022
+Medium Term 11
+Split gate Bulk Planar Junctionless Field Effect Transistor (BP-JLFET) based biosensor for detection of biomolecules (Completed)
+INUP-IIT Bombay
+Principal Investigator 2023
+Medium Term 12
+Characterization of Schottky Barrier Diode and MOS based Biosensors  for the detection of biomolecules (Completed)
+INUP-IIT Bombay
+Principal Investigator 2023
+Short Term
+Consultancy Projects
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+NIL
+Books or Book Chapter
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Book
+Artificial Intelligence in Information and Communication Technologies, Healthcare and Education: A Roadmap Ahead.
+Mahalle, Parikshit N., Rajendra S. Talware, Ganesh C. Patil, Sachin R. Sakhare, Yogesh H. Dandawate, and Pravin R. Futane Editors
+CRC Press 978-103-23-7459-8 2022
+Book Chapter
+Doctor blade: a promising technique for thin film coating
+Ganesh C. Patil
+Book Title:  Simple Chemical Methods for Thin Film Deposition: Synthesis and Applications, Springer Nature Singapore 978-981-99-0960-5 2023
+Comparative Study of FET Based Biosensors with Metal Oxide Stacked Sensing Membrane
+Deepika Singh, Gopal S Pranjale, Ganesh C Patil
+Book Title: Emerging VLSI Devices, Circuits and Architectures, Springer Nature Singapore 978-981-97-5268-3 2024
+Ab-Initio Tight Binding Study on Defects in Armchair Silicene Nanoribbon Double Gate Field Effect Transistor.
+Ganesh C. Patil ,  Rajesh C. Junghare
+Book Title: VLSI Design and Test. VDAT 2025. Communications in Computer and Information Science, Springer Nature Singapore 978-3-032-26304-9 2026
+Patents
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1)
+Multiplexed Point-of-Care Testing Device for Sensing Metabolic Syndrome Biomarkers (Design Patent) 489925-001 5th February 2026
+Filled 2)
+Device and Method for Detection of Metabolic Syndrome Biomarkers (Utility Patent) 202621012783 5th February 2026
+Granted 3)
+Soil Macronutrient System (Design Patent) 502444-001 18th May 2026
+Filled 4)
+System and Method for Simultaneously Detecting Macronutrients in Soil (Utility Patent) 202621062942 18th May 2026
+Filled
+STTP & Workshop
+Sr. No.
+Title 1
+User Design Track Chair for the 39th International Conference On VLSI Design and 25th International Conference On Embedded Systems, during 3rd – 7th January 2026, JW Marriott, Pune, Maharashtra, India.
+2
+PhD Forum Chair for the 29th International Symposium on VLSI Design and Test (VDAT 2025) during August 7-9, 2025 Shivalik View, Sector 17, Chandigarh, India 3
+Finance Chair and Track Chair for the 5th International Symposium on Semiconductor Materials and Devices (ISSMD-2018) during 30th Nov. to 2nd Dec. 2018 at Visvesvaraya National Institute of Technology, Nagpur 4
+Two-Week ISTE WORKSHOP On CMOS, Mixed Signal and Radio Frequency VLSI Design Conducted By IIT Kharagpur (NMEICT, MHRD Project) at Visvesvaraya National Institute of Technology, Nagpur (Remote Centre ID : 1128) 30th January 2017 – 4th February 2017 5
+Self Sponsored One Week Short Term Training Program on “MEMS and Nanoelectronics” 11th -15th April 2016
+Administrative Responsibilities
+Sr. No.
+Responsibility
+Institute
+Role
+Year 21
+Nodal Officer of Visvesvaraya Ph. D. Scheme of Ministry of Electronics and Information Technology (MeitY)
+VNIT, Nagpur
+Nodal Officer 2025 to Till Date 20
+Institute Coordinator O.P. Jindal Engineering & Management Scholarships (OPJEMS)
+VNIT, Nagpur
+Coordinator 2025 to Till Date 19
+Director’s Nominee for Local Purchase Committee
+VNIT, Nagpur
+Director’s Nominee 2024 to Till Date 18
+Department Time Table Coordinator from 2022 to Till Date
+VNIT, Nagpur
+Coordinator 2022 to Till Date 17
+Department PhD Coordinator from 2016 to Till Date
+VNIT, Nagpur
+Coordinator 2016 to Till Date 16
+Department Annual report Coordinator from 2016 to Till Date
+VNIT, Nagpur
+Coordinator 2016 to Till Date 15
+Department Newsletter Editor 2016- Till Date
+VNIT, Nagpur
+Editor 2016 to Till Date 14
+Institute Spot Round  M. Tech. Admission -2025 Chairman
+VNIT, Nagpur
+Chairman 2025 to 2026 13
+Institute CCMT/CCMN M. Tech./MSc Admission -2025 Chairman
+VNIT, Nagpur
+Chairman 2025 to 2026 12
+Faculty Advisor for MTech (VLSI Design) 2023 – 2025 Batch
+VNIT, Nagpur
+Faculty Advisor 2023-2025 11
+Department Exam Coordinator from 1st July 2023 to 1 st July 2024
+VNIT, Nagpur
+Coordinator 2023 to 2024 10
+Department CCMT M. Tech. Admission Coordinator From 2016 to 2025
+VNIT, Nagpur
+Coordinator 2016 to 2025 9
+Department NIRF Coordinator for the period 2016- 2022
+VNIT, Nagpur
+Coordinator 2016- 2022 8
+Institute CCMT M. Tech. Admission Verification officer Admissions-2022,  Admissions-2023, Admissions-2024
+VNIT, Nagpur
+Verification officer 2022, 2023, 2024 7
+Department Website Coordinator  for the period 2016-2023
+VNIT, Nagpur
+Coordinator 2016-2023 6
+Warden of Hostel Block-8 (J. C. Bose House of Residence) from 1st June 2017 to 31st May 2023
+VNIT, Nagpur
+Warden 2017-2023 5
+Faculty Advisor for MTech (VLSI Design) 2020 – 2022 Batch.
+VNIT, Nagpur
+Faculty Advisor 2020 – 2022 4
+Officer for the work of verification of stock of equipments, furniture, consumables of Chemistry Department for the year 1st April 2018 to 31st March 2019
+VNIT, Nagpur
+Verification officer 2018-2019 3
+Officer for the work of verification of stock of equipments, furniture, consumables of Electrical maintenance for the year 1st April 2016 to 31st March 2017
+VNIT, Nagpur
+Verification officer 2017-2018 2
+Faculty Advisor for MTech (VLSI Design) 2016 – 2018 Batch
+VNIT, Nagpur
+Faculty Advisor 2016 – 2018 1
+Department Exam Coordinator from 1st January 2016 to 1st July 2017
+VNIT, Nagpur
+Coordinator 2016 – 2017
+Awards & Honors
+Sr. No.
+Awards 1
+Life Member ISTE 2
+Member IEEE 3
+Member VLSI Society of India 4
+Best Student Award at 4th International Student Workshop on Electrical Engineering, at Kyushu University, Fukuoka, Japan 5
+Cash Award (Rs 20,000/-) twice by IIT Kanpur for publishing the papers in reputed journals 6
+Reviewer of various SCI listed journals such as IEEE Sensors Journal, IEEE Transactions on Electron Devices, Semiconductor Science and Technology, Silicon etc.
+7
+Technical Program Chair for various IEEE international conferences such as VDAT, VLSID, ICEE, INDICON etc.
+8
+Published more than 30 research papers in peer reviewed international conferences held at USA, Japan, Egypt, Singapore, India and China.
+9
+Best paper award at 5th International Symposium on Semiconductor Materials and Devices (ISSMD-2018)
+Conference Publications
+S.No.
+Paper Citation 34)
+Gopal S Pranjale and Ganesh C Patil, “Design and Fabrication of Paper based Screen Printed Soil Macronutrient Sensors”, Proc. of  IEEE International Conference on Emerging Electronics (ICEE). 13th – 16th December 2025, Bangalore, India 33)
+Gopal S. Pranjale, Aparna A. Kalpande. Deepika Singh and Ganesh C. Patil, “Performance Analysis of Intercalation Doped Multilayer Graphene Nanoribbons for on Chip Interconnect Applications”, Proc. of  IEEE International Conference on Emerging Electronics (ICEE). 13th – 16th December 2025, Bangalore, India 32)
+Ganesh C Patil, Rajesh C. Junghare, “Ab-initio Tight Binding Study on Defects in Armchair Silicene Nanoribbon Double Gate Field Effect Transistor”, Proc. of  VDAT 2025, 29th International Symposium, VDAT 2025, Chandigarh,India, Aug 7–9, 2025 31)
+Deepika Singh, Gopal S Pranjale, Ganesh C Patil, Comparative Study of FET Based Biosensors with Metal Oxide Stacked Sensing Membrane, Proc. of  VDAT 2023, 27th International Symposium on VLSI Design and Test, Springer, 2023, BITS Pilani 30)
+Gopal S. Pranjale, Ishan C. Ghosekar, Ganesh C. Patil, “Impact of Concentration Variations in P3HT: PCBM on Power Conversion Efficiency of Inverted Organic Solar Cell”, 5th International Conference on Energy, Power and Environment: Towards Flexible Green Energy Technologies (ICEPE), 15-17 June 2023, Shillong, India 29)
+Gopal S Pranjale, Suyog T Ingle, Ganesh C Patil, “Fabrication of Ag2S, Bi2S3 and CdS p-FETs using Solution Processing”, Proc. of  IEEE International Conference on Emerging Electronics (ICEE). 11-14 December 2022, Bangalore, India 28)
+Rajesh C Junghare, Gopal S Pranjale, Yerra Muralidhar, Ganesh C Patil, “Investigation of structural, electronic and transport properties of Silicene on Graphene heterostructure by ab-initio calculations”, Proc. of  IEEE International Conference on Emerging Electronics (ICEE). 11-14 December 2022, Bangalore, India 27)
+A.M. Bhujade, R.C. Junghare, Ganesh C. Patil, “Impact of Zig-Zag Layer on MoS2 based Nanoribbon Gate-all-Around Field Effect Transistor”, Proc. of Annual IEEE India Conference (INDICON), Dec. 13-15, 2019, Rajkot, India 26)
+Rajesh C. Junghare and Ganesh C. Patil, ” Comparative Analysis of band structures of Monolayer MoS2 obtained using Ab-initio tight binding approach”, Proc. of 5th International Symposium on Semiconductor Materials and Devices, 30th Nov. to 2nd Dec. 2018, Visvesvaraya National Institute of Technology, Nagpur 24)
+G. Ramarao, I. C. Ghosekar, Ganesh C. Patil, “Dual-k HfO2 Spacer Bulk Planar Junctionless Transistor for Sub-30 nm Low Power CMOS, Proc. of Annual IEEE India Conference (INDICON), Dec. 15-17, 2017, IIT Roorkee, India 24)
+Ishan C. Ghosekar and Ganesh C. Patil, “Concentration dependent blended P3HT: PCBM inverted organic solar cell using solution- processed ZnO Electron transport layer “, Proc. of 19th International workshop the Physics of Semiconductor Devices (IWPSD) December 11-15, 2017, Indian Institute of Technology Delhi, New Delhi.
+23)
+Ganesh C. Patil, “Comparative analysis of partial buried oxide germanium-on-insulator p-channel MOSFETs”, Proc. of 3rd International Conference on Emerging Electronics (ICEE), December 27-30, 2016, IIT Bombay, India 22)
+Ashish V. Jawke, and Ganesh C. Patil,  ” A Comparative Study of Analog/RF performance of GaAs-on-Si and Si MOSFETs”, Proc. of International 18th International Workshop on Physics of Semiconductor Devices (IWPSD) Dec. 7-10, 2015,IISc Bangalore, India.
+21)
+Ashish V. Jawke, Sayli R. Aher, Harshad S. Borse, Kalyani S. Bhosle, Subhash R. Patil and Ganesh C. Patil, “Comparative Analysis of GaN-on-3CSiC and Conventional Si MOSFET for Digital Integrated Circuits”, Proc. of Annual IEEE India Conference (INDICON), Dec. 17-20, 2015, Delhi, India 20)
+Sayli R. Aher, Ashish V. Jawke, Harshad S. Borse, Kalyani S. Bhosle, Subhash R. Patil and Ganesh C. Patil, ” Comparative Study of Ge pMOS and In0.3Ga0.7As nMOS with Si MOSFETs for Digital Applications”, Proc. of Annual IEEE India Conference (INDICON), Dec. 17-20, 2015, Delhi, India 19)
+Ashish V. Jawke, Sayli R. Aher, Harshad S. Borse, Kalyani S. Bhosle, Subhash R. Patil and Ganesh C. Patil,  “A Novel GaAs-on-Si MOSFET for Analog Integrated Circuits”, Proc. of NSTI Nanotech, Jun. 14-17, 2015,Washington DC, USA.
+18)
+Subhash R. Patil, Ganesh C. Patil, Harshad S. Borse, Kalyani S. Bhosle, Ashish V. Jawke and Sayli R. Aher, “A novel dual-k spacer double gate junctionless transistor for digital integrated circuits”, Proc. of NSTI Nanotech, Jun. 14-17, 2015,Washington DC, USA.
+17)
+Kalyani S. Bhosale, Ashish V. Jawke, Sayli R. Aher, Harshad S. Borse, Subhash R. Patil and Ganesh C. Patil, “Impact of Gate Oxide Thickness and Channel Thickness on DC Performance of Carbon Nanotube Tunnel FET”, Proc. of NSTI Nanotech, Jun. 14-17, 2015,Washington DC, USA 16)
+Harshad S. Borse, Ashish V. Jawke, Sayli R. Aher, Kalyani V. Bhosle, Subhash R. Patil, Ganesh C. Patil, and Dattatraya S. Bormane “Impact of High-k gate oxide on Intrinsic Device Performance of Junctionless Transistor”, Proc. of NSTI Nanotech, Jun. 14-17, 2015,Washington DC, USA 15)
+Ganesh C. Patil, S, C. Wagaj and P. M. Ghate, ” A simple analytical model of 4H-SiC MOSFET for high temperature circuit simulations”, Proc. of Annual IEEE India Conference (INDICON), 2014, Pune, India, pp. 1-5. (ISBN: 978-1-4799-5362-2) 14)
+Ganesh C. Patil,  Vijaysinh H. Bonge, Mayur M. Malode and Rahul G. Jain, “Novel Partially Insulated Junctionless Transistor for Low Power Nanoscale Digital Integrated Circuits”, Proc. 2014 IEEE International Conference on Emerging Electronics (ICEE-2014), Dec. 3-6, 2014, IISc Banglore, India, pp.1-4. (ISBN: 978-1-4673-6527-7).
+13)
+S. Qureshi and Ganesh C. Patil and, “UTBB with Ground-Plane Dopant-Segregated Schottky Barrier SOI MOSFET for Thermally Efficient Low-Variability Nanoscale CMOS Circuits”, Proc. of 2013 IEEE 5th International Nanoelectronics Conference (INEC), Jan. 2-4, 2013, Singapore, pp. 65-68. (ISSN: 2159-3523) 12)
+Prasanna Kumar Misra, Ganesh C. Patil and S. Qureshi, “Process and device simulations to study the impact of Ge profile of 65 nm NPN SOI HBT with buried layer”, Proc. of 2013 IEEE INDICON, Dec. 13-15, 2013,IIT Bombay, India, pp. 65-68. (ISSN: 978-1-4799-2274-1 ) 11)
+Ganesh C. Patil and S. Qureshi, “Suppression of Variability in Metal Source/Drain SOI MOSFET with Partial Buried Oxide and δ-doping”, Proc. of NSTI Nanotech, Jun. 18-21, 2012, Santa Clara, USA, pp. 44-47. (ISBN: 978-1-4665-6275-2) 10)
+Ganesh C. Patil and S. Qureshi, “A Comparative Study on Analog/RF Performance of Pt-Germanide and Pt-Silicide Schottky Barrier pMOSFETs”, Proc. of IEEE Electron Devices and Solid State Circuits (EDSSC), Dec. 3-5, 2012, Bangkok, Thailand, pp. 1-2. (ISBN: 978-1-4673-5694-7 ) 9)
+Ganesh C. Patil and S. Qureshi, “Underlap Channel Nanoscale Dopant-Segregated Schottky Barrier SOI MOSFET for Low-Power Mixed Signal Circuits”, Proc. of NSTI Nanotech, Jun. 13-16, 2011, Boston, USA, vol. 2, pp. 42-45. (ISBN: 978-1-4398-7139-3) 8)
+Ganesh C. Patil and S. Qureshi, “Asymmetric Drain Underlap Schottky Barrier SOI MOSFET for Low-Power High Performance Nanoscale CMOS Circuits”, Proc. of IEEE Symposium on VLSI, Jul. 4-6, 2011,Chennai, India, pp. 43-48 . (ISSN: 2159-3469 7)
+Ganesh C. Patil and S. Qureshi, “Si3N4:HfO2 dual-k spacer dopant-segregated Schottky barrier SOI MOSFET for Low-power applications”, Proc. of IEEE Electron Devices and Solid State Circuits (EDSSC), Nov. 17-18, 2011, Tianjin, China, pp. 1-2. (ISBN: 978-1-4577-1998-1) 6)
+Ganesh C. Patil and S. Qureshi, “Engineering buried oxide in dopantsegregated Schottky barrier SOI MOSFET for Low-Variability CMOS Circuits”, Proc. of IEEE Electron Devices and Solid State Circuits (EDSSC), Nov. 17-18, 2011, Tianjin, China, pp. 1-2. (ISBN: 978-1-4577-1998-1) 5)
+Ganesh C. Patil and S. Qureshi, “Scalability and RF performance of Nanoscale Dopant-Segregated Schottky Barrier SOI MOSFET”, Proc. of IEEE Region-10 Conference TENCON, Nov. 21-24, 2010, Fukuoka, Japan, pp. 1921-1926. (ISBN: 978-1-4244-6889-8) 4)
+Ganesh C. Patil and S. Qureshi, “A Novel Partially Insulated Schottky Source/Drain MOSFET: Short-channel and Self-heating effects”, Proc. of IEEE International Conference on Microelectronics (ICM), Dec. 19-22, 2010, Cairo, Egypt, pp. 252-255. (ISBN: 978-1-61284-149-6) 3)
+Ganesh C. Patil and P. W. Wani, ” Real time Emulation for Embedded System Validation “, Proc. of International Conference on Advances in Electronics & Telecommunication 1st – 3rd February 2007 at National Engineering College, Kovilpatti, -TN.
+2)
+Ganesh C. Patil and P. W. Wani, “Implementation of Digital Transmitters and Recievers using Polyphase Filter Banks”, Proc. of 2nd International Conference on Advanced Computing and Communication Technologies on 3rd-4th Nov. 2007 at ASIA PACIFIC Institute of Information Technology, Panipat ,Haryana 1)
+Ganesh C. Patil and P. W. Wani “FPGA based architecture of Neural Network for image recognition”, Proc. of National conference on Emerging trends in Electronics on 28th-29th Dec. 2006 at Maharashtra Academy of Engineering, Alandi, Pune
+Journal Publications
+S.No.
+Paper Citation 42) Sangeeta Palekar, Jayu Kalambe, Ganesh C Patil, “An integrated opto-fluidic miniaturized multimodal spectroscopic sensing platform for multiplexed electrolyte detection in blood serum”, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Vol 366, pp. 128832, 2026, (Impact Factor-4.8) (ISSN: 1386-1425) 41) R Sahu, MC Rath, SJ Keny, Ganesh C Patil, BR Sankapal, “Gamma-ray irradiation induced synthesis of tin oxide quantum dots: Electrode design to solid-state supercapacitor prototyping” Chemical Engineering Journal, Vol 538, pp. 176692, 2026, (Impact Factor-12.5) (ISSN: 1385-8947) 40) Atharva Balpande, Anushka Dashputra, Nikhil Khanwani, Yashasvi Therkar, Aryan Wasewar, Ganesh C Patil, C Ravikumar, “Identification of fulvestrant analogues for estrogen receptor alpha binding in breast cancer using molecular docking and molecular dynamics simulation”Discover Chemistry, Vol 3, No. 1, pp. 43-50, 2026, (Impact Factor-1) (ISSN: 3005-1193) 39) Gopal S. Pranjale and Ganesh C. Patil, ” Soil nitrate detection using low-cost paper-based screen-printed electrodes “, Microchemical Journal, Vol 219, 116111, 2025, (Impact Factor-5.1) (ISSN: 1095-9149) 38) Shubham Rahi, Rajender Kumar, Sapna Singh, Prasanna Misra, Ganesh C Patil, Trupti Ranjan Lenka, Ankur Solanki, Anurag Chauhan, Balwinder Raj, Pinku Nath, Sudhanshu Choudhary, “Graphene-Boron Nitride-Transition Metal Dichalcogenides heterostructure based MISFET”, Micro and Nanostructures, Vol 208, no. 9, pp. 208320, 2025, (Impact Factor-3) (ISSN: 2773-0123) 37) Savera Yadav, Rajender Kumar, Sapna Singh, Prasanna Misra, Ganesh C Patil, Trupti Ranjan Lenka, Ankur Solanki, Anurag Chauhan, Sudhanshu Choudhary, “First-principle calculations of electronic and optical properties of Ca2TiSi(O1-xSx)6 and its alloys for use in solar cell application”, Journal of Nanophotonics, Vol 19, no. 3, pp. 036001-036001, 2025, (Impact Factor-1.1) (ISSN: 1934-2608) 36) Gopal S. Pranjale, Gosa Pedda Rayudu and Ganesh C. Patil, “Analysis and fabrication of paper based screen-printed soil potassium sensor”, Journal of the Indian Chemical Society, Vol 101, no. 12, pp. 101492, 2024, (Impact Factor-3.4) (ISSN: 2667-2847) 35) Rajesh C. Junghare & Ganesh C. Patil, “A2D Sim: atom-to-device simulation platform for quantum device simulations”, Graphene and 2D Materials, 2024,  (ISSN: 2731-6505) 34) Gopal S. Pranjale, Kola Srikanth, Gosa Pedda Rayudu and Ganesh C. Patil, “Fabrication of MOSCAP and VARICAP Based Soil Sensors Using Low-Cost Solution Processing”, ECS Journal of Solid State Science and Technology, Vol 13, no. 11, pp. 117006, 2024, (Impact Factor-1.8) (ISSN: 2162-8769) 33) Anushka Dashputra, Yashasvi Therkar, Atharva Balpande, Nikhil Khanwani, Aryan Wasewar, Ganesh C Patil, Abhaykumar M Kuthe, Satyendra Chandra Tripathi, Shilpa Deshpande, Surendar Kannaiyan, C Ravikumar, “Evaluation of tamoxifen analogues as potential estrogen receptor alpha inhibitors for breast cancer treatment: A computational approach”, Journal of Molecular Liquids, vol. 414, pp. 126209, 2024 (Impact Factor-5.3) (ISSN: 0167-7322) 32) Rajesh C Junghare, Ganesh C. Patil, “Performance comparison of 2D mono-elemental (X-enes) armchair nanoribbon Schottky barrier Field Effect Transistors”, IEEE Transactions on Nanotechnology, vol. 23, pp. 408-414, 2023. (Impact Factor- 2.4) (ISSN: 1941-0085) 31) Deepika Singh, Ganesh C. Patil, Bikash Dev Choudhury, “Split Gate Bulk-Planar Junctionless FET based Biosensor for Label-Free Detection of Biomolecules”,  IEEE Sensors Journal,  vol. 24, no.18, pp. 28611 -28618, 2024 (Impact Factor-3.073) (ISSN: 1530-437X) 30) Gopal S. Pranjale, Ganesh C. Patil, “Paper-Based Screen-Printed Electrodes: A Cost-Effective Solution for Soil Potassium Sensing”, IEEE Sensors Journal, vol. 24, no.13, pp. 20360 -20367, 2024 (Impact Factor-3.073) (ISSN: 1530-437X) 29) Kaustubh K. Tiple, Ganesh C. Patil, “Buried Metal Silicon-on-Insulator Junctionless Transistor for Low Power CMOS Logic Circuits”, Silicon, vol. 15, no.2, pp. 1003-1009, 2023. (Impact Factor- 3.4) (ISSN: 1876-9918) 28) S. Sreekumar, A. M. Kuthe, S. C. Tripathi, Ganesh C. Patil, C. Ravikumar, “Integrated computational approach towards identification of HSPG and ACE2 mimicking moieties for SARS-CoV-2 inhibition”, Journal of molecular liquids, vol. 367 part-B, pp. 120566, 2022. (Impact Factor- 6.633) (ISSN: 0167-7322 ) 27) Rajesh C. Junghare and Ganesh C Patil, “Effect of strain on quantum transport in fully-hydrogenated silicene based field effect transistor”, Micro and Nanostructures, vol. 172, pp. 207432, 2022. (Impact Factor- 3.22) (ISSN: 2773-0123 ) 26) Deepika Singh, Ganesh C. Patil, “Vertical gate cavity bulk-planar junctionless FET-based biosensor for label-free detection of biomolecules”, Semiconductor Science and Technology, vol. 37, no.10, pp.105018, 2022 (Impact Factor-2.048) (ISSN: 0268-1242) 25) Ishan C. Ghosekar and Ganesh C. Patil, “Review on performance analysis of P3HT: PCBM-based bulk heterojunction organic solar cells”, Semiconductor Science and Technology, vol. 36, no. 4, pp. 045005 2021. (Impact Factor- 2.206) (ISSN: 0268-1242 ) 24) Ganesh C Patil, Suyog T Ingle, Babasaheb R Sankapal, “Fabrication and characterization of lead sulfide and multi-walled carbon nanotube based field effect transistors using low cost chemical route”, Engineering Research Express, vol. 3, no. 2, pp. 025016, 2021. (ISSN: 2631-8695 ) 23) Rajesh C. Junghare Ganesh C. Patil, “Investigation of transport in edge passivated armchair silicene nanoribbon field effect transistor by ab-initio based Wannierised tight binding” Superlattices and Microstructures (Elsevier), vol. 156, no.8, 106933,  2021 (Impact Factor-2.12) (ISSN: 0749-6036) 22) Deepika Singh, Ganesh C. Patil, “Dielectric-Modulated Bulk-Planar Junctionless Field-Effect Transistor for Biosensing Applications”, IEEE Transactions on Electron Devices, vol. 68, no.7, pp. 3545 – 3551, 2021 (Impact Factor-2.913) (ISSN: 1557-9646) 21) Deepika Singh, Ganesh C. Patil, “Performance Analysis of Feedback Field-Effect Transistor based Biosensor”, IEEE Sensors Journal, vol. 20, no.22, pp. 13269-13276, 2020 (Impact Factor-3.073) (ISSN: 1530-437X) 20) Ishan C. Ghosekar and Ganesh C. Patil, “Impact of concentration variation and thermal annealing on performance of multilayer OSC consisting of sandwiched P3HT layer between PEDOT: PSS and P3HT: PCBM”, Microelectronics Enginnering, vol. 221, 2020. (Impact Factor-1.654) (ISSN: 0167-9317) 19) Khemnand Bhagat, Ganesh C Patil, “Engineering substrate doping in bulk planar junctionless transistor: Scalability and variability study”, Engineering Research Express, vol. 2, no. 2, pp. 025028, 2020. (ISSN: 2631-8695 ) 18) Khemnand B Bhagat, Ganesh C Patil, “Negative capacitance δ-bulk planar junctionless transistor for low power applications”, IET Micro & Nano Letters, vol. 14, no.10, pp. 1107-1110, 2019. (Impact Factor- 0.841 ) (ISSN: 1750-0443) 17) Ishan C. Ghosekar and Ganesh C. Patil, “Performance Analysis and Thermal Reliability Study of Multilayer Organic Solar Cells”, IEEE Transactions on Device and Materials Reliability, vol. 19, no.3, pp. 572 – 580, 2019. (Impact Factor-1.583) (ISSN: 1530-4388) 16) Ganesh C Patil, Vijayasri Kristaparapu, Suyog T Ingle, Sutripto Majumder, Babasaheb R Sankapal, “Approach for fabricating JLT using chemically deposited cadmium sulphide and titanium dioxide, IET Micro & Nano Letters, vol. 14, no. 10, pp. 1060 – 1063, 2019. (Impact Factor- 0.841 ) (ISSN: 1750-0443) 15) Neha Barothiya, Chetan T Dabhi, Ganesh C Patil, “A novel channel engineered continuous floating gate MOSFET for memory applications”, Journal of Nanoelectronics and Optoelectronics, vol. 14, no.5, pp. 606-613, 2019. (Impact Factor-1.069) (ISSN: 1555-1318) 14) Ishan C. Ghosekar and Ganesh C. Patil, “Improving organic solar cell efficiency using solution processed poly (3-hexylthiophene) buffer layer”, IET Micro & Nano Letters, vol. 14, no. 1, pp. 74-77, 2019. (Impact Factor- 0.841 ) (ISSN: 1750-0443) 13) Ishan C. Ghosekar and Ganesh C. Patil, “Thermal stability analysis of buffered layer P3HT/P3HT:PCBM organic solar cells”, IET Optoelectronics, vol. 13, no. 5, pp. 240 – 246, 2019. (Impact Factor-1.667) (ISSN: 1751-8776) 12) G. Ramarao and Ganesh C. Patil, “Si3N4:HfO2 Dual-k Spacer Bulk Planar Junctionless Transistor for Mixed Signal Integrated Circuits”, IET Circuits, Devices & Systems, vol. 13, no. 1, pp. 45-50, 2018. (Impact Factor-1.395) (ISSN: 1751-8598) 11) A. Naugarhiya, P. Wakhradkar, P.N. Kondekar, Ganesh C. Patil, R.M. Patrikar, “Analytical model for 4H-SiC superjunction drift layer with anisotropic properties for ultrahigh-voltage applications”, Journal of Computational Electronics (Springer), vol. 16, no. 1, pp.190-201,  2017 (Impact Factor- 1.431) (ISSN: 1569-8025 ) 10) C.T. Dabhi, Ganesh C. Patil, “Underlap channel silicon-on-insulator quantum dot floating-gate MOSFET for low-power memory applications”, Journal of Computational Electronics(Springer), vol. 15, pp. 1563-1569,  2016 (Impact Factor- 1.431) (ISSN: 1569-8025 ) 9) Ganesh C. Patil and S. Qureshi, “Engineering buried oxide in dopant segregated Schottky barrier SOI MOSFET for nanoscale CMOS circuits,” Microelectronics Reliability, vol. 53, no. 4, pp. 349-355, 2013. (Impact Factor-1.214) (ISSN: 0026-2714) 8) Ganesh C. Patil and S. Qureshi,”Asymmetric drain underlap dopant-segregated Schottky barrier ultrathin-body SOI MOSFET for low-power mixed-signal circuits,” Semiconductor Science and Technology, vol. 28, no. 4, pp. 045002-9, 2013. (Impact Factor- 2.206) (ISSN: 0268-1242 ) 7) Ganesh C. Patil and S. Qureshi, “Underlap channel metal source/drain SOI MOSFET for thermally efficient low-power mixed signal circuits,” Microelectronics Journal, vol. 43, no. 5, pp. 321-328, 2012. (Impact Factor-0.924) (ISSN : 0026-2692) 6) Ganesh C. Patil and S.Qureshi,”Engineering Spacers in dopant-segregated Schottky barrier SOI MOSFET for Nanoscale CMOS logic Circuits,” Semiconductor Science and Technology, vol. 27, no. 4, pp. 045004-12, 2012. (Impact Factor-2.206) (ISSN: 0268-1242 ) 5) Ganesh C. Patil and S. Qureshi, “Impact of Segregation layer on Scalability and Analog/RF performance of Nanoscale Schottky barrier SOI MOSFET,” Journal of Semiconductor Technology and Science, vol. 12, no. 1, pp. 66-74, 2012. (Impact Factor-0.67) (ISSN: 1598-1657) 4) Ganesh C. Patil and S. Qureshi, “Suppression of Variability in Metal Source/Drain SOI MOSFET with Partial Buried Oxide and δ-doping”, Proc. of NSTI Nanotech, Jun. 18-21, 2012, Santa Clara, USA, pp. 44-47. (ISBN: 978-1-4665-6275-2) 3) Ganesh C. Patil and S. Qureshi, “A novel δ-doped partially insulated dopant-segregated Schottky barrier SOI MOSFET for analog/RF applications,” Semiconductor Science and Technology, vol. 26, no. 8, pp.085002-12, 2011. (Impact Factor-2.206) (ISSN : 0268-1242 ) 2) Ganesh C. Patil and S. Qureshi, “Underlap Channel Nanoscale Dopant-Segregated Schottky Barrier SOI MOSFET for Low-Power Mixed Signal Circuits”, Proc. of NSTI Nanotech, Jun. 13-16, 2011, Boston, USA, vol. 2, pp. 42-45. (ISBN: 978-1-4398-7139-3) 1) Prakash W Wani,Rakesh Mehta,Rajendra S Talware and Ganesh C Patil, “Optimisation of VCD Format and Testbench Reuse in Implementation of ASIC Tester”, IETE Journal of Research, vol. 54, no. 1, pp.13-21, 2008.

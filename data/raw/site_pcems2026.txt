@@ -1,0 +1,103 @@
+SOURCE_URL: https://vnit.ac.in/pcems2026/
+TITLE: Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS 2026)
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Endorsed by
+About PCEMS 2026
+PCEMS is a flagship VNIT conference, technically co-sponsored by IEEE, conceptualized by the Department of Electronics & Communication Engineering, VNIT, Nagpur. It is focused towards providing a platform for the researchers to present their groundbreaking research work in the areas of communication, embedded systems, machine learning and signal processing. Papers containing high-quality original research works will be considered for presentation at the conference.
+Publication
+‘It is planned to publish the peer reviewed and selected papers of conference as proceedings with Springer in their prestigious “Lecture Notes in Electrical Engineering” series. For detailed instructions for author and editors of conference proceedings, kindly visit the following link: https://www.springer.com/us/authors-editors/conference-proceedings. Select papers from the conference will be published by Springer as a proceedings book volume. Springer will conduct quality checks on the accepted papers and only papers that pass these checks will be published. Springer Nature does not charge any money for publication of Non-Open Access content. Abstracts/extended abstracts and short papers (less than 4 pages) are not considered for publication.’ Acceptance and presentation of a paper at the conference does not automatically guarantee publication in the Springer proceedings.
+Venue
+VNIT Nagpur, Maharashtra - 440010, INDIA
+Conference Dates 30-31 October, 2026
+%d
+Days
+%h
+Hours
+%m
+Min.
+%s
+Sec.
+Introduction
+PCEMS 2026, the 5 th
+International Conference on the Paradigm Shifts in Communication, Embedded systems, Machine learning and Signal processing (PCEMS 2026) will be held at Visvesvaraya National Institute
+                            of Technology Nagpur, Maharashtra, INDIA from October 30 - 31, 2026. It is technically co-sponsored by IEEE. PCEMS is a premier annual conference focused on research work in the areas of Communication, Embedded systems, Machine learning and Signal processing; it provides                         a great platform to students, academia, researchers and industry
+                            persons.
+Papers in the main technical program must describe high-quality
+                            original research. Prospective authors are invited to submit
+                            their original research contribution in the following tracks:
+Conference Tracks
+Communication
+Wireless Communication 5G and Beyond Communications
+Channel Modelling and Performance Analysis, Finite and Infinite Blocklength Transmissions
+Optical Fibre and Photonic Communication
+Localization Techniques in 5G
+Radio issues in wireless sensor networks
+Vehicle to Vehicle communication, Vehicle to Anything (V2X) communication
+Intelligent Reflecting Surfaces for 5G and Beyond
+Materials for 5G and Beyond Communications
+Antennas / RF /Microwave
+Molecular and Biological Communication
+Protocols and Standards
+Spectrum Sharing and Management
+Embedded Systems & IoT
+Intelligent sensor networks for monitoring and diagnosis
+Sensor networks in automotive
+On-body sensor networks
+IoT and Applications
+Security issues in IoT
+Cloud Computing
+Control and Dynamic Systems
+Signal & Image Processing
+Image / Video Processing for Autonomous Vehicles 3D Image / Video Processing
+Image Enhancement / Super Resolution / Restoration
+Action and Event Detection/ Recognition
+Medical Image & Video Analysis
+Remote Sensing, Hyperspectral Image Processing
+Speech Signal Processing
+Computational Imaging
+Image / Video Encryption
+Image / Video Compression
+Satellite Image Processing
+Document Image Analysis
+Image / Video Retrieval
+AI & Machine Learning
+Motion & Tracking
+Video Surveillance
+AI in Healthcare
+Pattern Recognition
+Computer-Aided Diagnosis
+Machine Learning for Localization
+Human Activity Detection and Recognition
+Human Computer Interaction
+Medical Image Reconstruction
+Generative AI for Computer Vision
+Explainable AI
+Applied AI
+Natural Language Processing
+Important Dates
+Paper Submission Starts
+May 01, 2026
+Paper Submission Deadline
+July 30, 2026
+August 24, 2026
+Notification of Paper Acceptance
+September 25, 2026
+Camera Ready Submission Deadline
+October 15, 2026
+November 30, 2026
+Conference Dates
+October 30-31, 2026
+Acknowledgement
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+Contact Us
+Address:
+VNIT Nagpur, Maharashtra-440010, INDIA
+Email:
+pcems@vnit.ac.in
+Call:
++91-712-2801557
+Industry Sponsors
+Academic Institute Participants
+Industry Participants

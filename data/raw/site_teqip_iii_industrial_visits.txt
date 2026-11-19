@@ -1,0 +1,13 @@
+SOURCE_URL: https://vnit.ac.in/teqip-iii-industrial-visits/
+TITLE: TEQIP III Industrial Visits
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Industrial Visits under TEQIP III
+Metallurgical and Materials Engineering 1) Dr. Ajeet Kumar Srivastav_Industrial Visit at Bhilai Steel Plant
+Report –
+Click Here
+Electrical & Electronics Engineering 1) Dr. P. S. Kulkarni_Industrial Visit at Reliance Thermal Power Plant, Butibori
+Report –
+Click Here
+Metallurgical and Materials Engineering 1) Industrial Visit at Ashok Leyland

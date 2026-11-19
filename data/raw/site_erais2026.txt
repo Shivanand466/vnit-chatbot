@@ -1,0 +1,128 @@
+SOURCE_URL: https://vnit.ac.in/erais2026/
+TITLE: ERAIS2026
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+About Institute
+About Department
+About The Conference
+Organizing Committee
+Distinguished National and International Speakers
+Registration Details
+Contact Us
+About Institute
+Visvesvaraya National Institute of Technology Nagpur (VNIT) formally known as Visvesvaraya Regional College of Engineering (VRCE) is a public technical university located in the city of Nagpur, Maharashtra.[3] Established in 1960, the institute is among 31 National Institutes of Technology (NITs) in the country. In 2007, the institute was conferred with the status of Institute of National Importance by the National Institutes of Technology, Science Education and Research Act, 2007 of the Parliament of India with all other NITsFormerly known as Visvesvaraya Regional College of Engineering (VRCE), the institute is named in the honor of an eminent engineer, planner and statesman Sir M. Visvesvaraya. The Institute awards Bachelor’s, Master’s and Doctorate degrees in engineering, technology, architecture and science.
+About Department
+The Department of Computer Science and Engineering, established in 1987, offers B.Tech., M. Tech. and Ph.D. degrees. The department has well qualified and motivated faculty members and support staff. The laboratories are adequately equipped with state-of-the-art facilities.  The department is actively involved in R&D as well as consultancy projects and has collaborations with several industries, academic institutes and R&D organizations in the country. The first B. Tech batch graduated in 1991 and the first M.Tech. batch graduated in 2009. There are more than 20 full-time research scholars registered in the department.
+About The Conference
+International Conference On “Exploring Realms of Advancements in Intelligent Systems”
+Areas of Research
+:
+Researchers are encouraged to explore AI advancements in “Realms for Advancements in Intelligent Systems.” Topics may include system intelligence, machine learning, and applications across sectors like healthcare, finance, and smart cities. Emphasize innovative approaches in AI-driven software systems, and LLMs, including cybersecurity and DevOps. Address ethical implications and societal impacts. Interdisciplinary research fostering collaboration between academia and industry is encouraged to advance the frontier of intelligent systems.
+System Intelligence
+This theme covers the integration of AI into embedded, networked, and autonomous systems, blending software and hardware with cognitive capabilities
+Embedded Systems with AI Integration
+AI-Enhanced Cyber-Physical Systems
+Distributed AI Systems
+IoT and AI Convergence
+Real-time AI Systems
+AI in Autonomous & Self-Adaptive Systems
+AI-Driven Robotics and Human-in-the-Loop Systems
+AI-Driven Networked Systems
+AI-Optimized Systems Architecture
+AI-based Optimization Techniques
+Real-Time AI Systems for Mission-Critical Applications
+Machine Intelligence, Generative AI, and Hybrid Models
+This theme focuses on intelligent algorithms and model innovations, including GenAI, LLMs, and hybrid architectures that mimic human reasoning and creativity:
+Machine Learning Algorithms
+Supervised Learning Techniques
+Unsupervised Learning Methods
+Reinforcement Learning Strategies
+Deep Learning and Transfer Learning
+AI in Neural Networks
+Generative AI: Text, Image, Audio, Code Generation
+Prompt Engineering and Evaluation of LLMs
+Knowledge-Augmented LLMs and Retrieval-Augmented Generation (RAG)
+Neuro-symbolic and Hybrid AI Models
+AI for Reasoning, Planning, and Causality
+Natural Language Processing (NLP)
+AI in Computer Vision
+AI-Driven Data Mining
+Pattern Recognition using AI
+Cognitive Computing with AI
+Cognitive Architectures and Brain-Inspired Models
+Probabilistic AI Models
+Ethics and Fairness in AI
+Bias, Interpretability, Explainability, and Fairness in AI
+Application and Use Cases
+This theme explores applied AI across sectors with transformative potential and real-world value:.
+AI in Healthcare and Biomedicine: Diagnostics, Imaging, Precision Medicine
+Health Informatics with AI
+AI in Finance: Fraud Detection, Risk Analysis, Financial Forecasting
+AI for Algorithmic Trading
+AI-Driven Fraud Detection
+Risk Management with AI
+Smart Mobility: AI in Transportation, Traffic Management,  and Autonomous Vehicles
+Urban Intelligence: AI for Smart Cities and Infrastructure Planning
+AI for Urban Planning
+AI for Energy Optimization and Sustainability
+AI in Manufacturing and Industry 4.0: Automation, Predictive Maintenance, Robotics
+AI in Agriculture: Crop Monitoring, Climate Resilience, Agri-Bots, Precision farming
+AI in Education: Adaptive Learning, Intelligent Tutoring Systems
+Creative AI: Content Generation, Media, Entertainment, and Art
+AI-Driven Recommendation Systems
+AI in Customer Service
+AI-Powered Chatbots
+AI for Sentiment Analysis
+AI in Governance, legal technology,  Policy Automation,  and Public Services
+Human-Centered AI and Ethical Impact Assessment
+Supporting Software Systems
+This theme addresses the ecosystem needed to develop, deploy, secure, and maintain intelligent systems effectively:
+AI-Powered Software Engineering and IDEs
+MLOps, AIOps, and Lifecycle Management of AI Models
+LLMOps: Fine-Tuning, Monitoring, and Deployment of LLMs
+AI in DevOps and Continuous Delivery Pipelines
+Cloud-Native AI Architectures and Edge-to-Cloud AI
+AI for Data Governance, Privacy, and Compliance
+Secure AI Systems: Adversarial Defense and Cybersecurity
+High-Performance AI Computing and Distributed AI Systems
+AI Frameworks and Toolchains (e.g., TensorFlow, PyTorch, ONNX)
+Benchmarking, Testing, and Verification of AI Models
+Responsible AI Engineering and System Validation
+AI in Serverless Computing
+AI in Big Data Technologies
+AI for Data Lakes
+AI in Distributed Databases
+AI in Cybersecurity
+Data Privacy and Governance with AI
+AI in Parallel and Distributed Computing
+Organizing Committee
+Chief Patron
+Dr. Premlal Patel
+Director, VNIT
+Patron
+Dr. V. R. Kalamkar
+Dean (Academic) VNIT
+Co-Patron
+Dr. M. P. Kurhekar, Head, CSE VNIT
+General Chair
+Prof. Shital Raut, Associate Professor
+Prof. Anil Mokhade, Associate Professor
+Program Chair
+Dr. Hemkumar, Assistant Professor
+Dr. Gaurav Mishra, Assistant Professor
+General Co-Chair
+Dr. Dipti Shrimankar, Assistant Professor
+ERAIS-2026 Advisory Committee
+Distinguished National and International Speakers 1. Prof. Dhireesha Kudithipudi, University of Texas at San Antonio 2. Prof. Hava Siegelmann, University of Massachusetts Amherst Industry
+Registration Details
+Last Date of Registration – 15 th
+December 2025
+Industry Stall Booking: Last Date – 31 st
+December 2025
+Offline and Online : Academic/Industry/Consultants/Individuals                                          Students
+Early Bird: Rs. 8000/-                                                                                                                      Rs. 3000/-
+Regular.: Rs. 10,000/-                                                                                                                      Rs. 5000/-
+Contact Us
+Dr. Shital Raut                      Dr. A. S. Mokhade 9922908005 8275044226
+Email ID : ERAIS2026@vnit.ac.in

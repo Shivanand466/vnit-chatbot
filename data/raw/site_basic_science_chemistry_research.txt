@@ -1,0 +1,175 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/chemistry/research/
+TITLE: Research – Department of Chemistry, VNIT
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Research at Chemistry Department
+Thrust Areas
+Projects
+Journal Publications
+Patents
+Short Term Training Program (STTP)
+Industry Institute Collaboration
+Research Thrust Areas
+Materials & Catalysis Lab: PI Dr. S.S. Umare
+Biomass Conversion Lab: PI Dr. J.D. Ekhe
+Environmental Analytical Research Group: PI Dr. A. Kumar
+Photochemistry and Biophysical Spectroscopy Lab: PI Dr. S.K. Ghosh
+Synthesis and Characterization Group: PI Dr. C. Das
+Sensors and Biosensors Lab: PI Dr. R.V. Motghare
+Nanomaterials & Nanocatalysis Lab: PI Dr. A.V. Wankhede
+Biocatalysis Lab: PI Dr. U. Pratap
+Thermodynamic Lab: PI Dr. S.P. Zodape
+Crystal Engineering & Liquid Crystal Group: PI Dr. S.K. Nayak
+Environmental Remediation Lab: PI Dr. L.G. Sorokhaibam
+Inorganic Synthesis, Energy Harvesting & Bioinorganic Lab: PI Dr. A. Banerjee
+Asymmetric Catalysis Lab: PI Dr. S. Halder
+Total funding from ongoing projects – 227 Lakhs INR
+Sr. No.
+Title of Project
+PI/Co-PI
+Funding Agency
+Total SponsoredAmount(Rs.in lakhs)
+Year of Award(Month Year) 1
+Green Preservatives for enhancing the shelf life of Fruits and Vegetables using Biorefinery approach.
+Dr. Anupama Kumar
+KVIC 15 2
+Sustainable valorization of citrus waste to design innovative nutraceutical resource via molecular imprinting technique for metabolic stress management.
+Dr. Anupama Kumar
+ICMR 17.52 3
+Millet biorefinry for Food, Feed, Fodder, Fertilizer and Fuel: Design to Demonstration’ submitted under Millet Program of SHRI Cell, DST
+Dr. S.A. Mandavgane and Dr. Anupama Kumar
+DST 1.5 4
+Aromatic Bisphosphonate-functionalized Polyoxovanadates: Synthesis, Structural Characterization and Electrochemical Studies
+Dr. Abhishek Banerjee
+CSIR 6 5
+Development of multifunctional and recyclable elastomeric materials via dynamic crosslinking network
+Dr. Chayan Das
+Ministry of Education (MoE) under STARS-2 Scheme 46 6
+Design and development of novel vitrimer like materials with smart features
+Dr. Chayan Das
+Defence Research & Development Organization (DRDO) 36.534 9
+Development of Novel Antiviral Compounds against Arthropod-borne Viruses
+Dr. Sandipan Halder
+DST 24.82 10
+Development of Novel Drug Candidates as STING Agonist: Application for Immuno-oncology
+Dr. Sandipan Halder
+VNIT Nagpur 13 11
+“Development of low-cost fluorescence spectrometer for industrial and academic application”
+Dr. Sujit Kumar Ghosh, Dr. Saugata Sinha, Dr. Ankit Bhurne
+VNIT 15 12
+Development of Photodetector for low-intensity light levels in UV/VIS/IR wavelength regions
+Dr. N. D. Gupta and Dr. Susanta K. Nayak
+S-TIC program, ISRO (Indian Space Research Organization) 22 13
+Design, Synthesis and Computational Analysis of Supramolecular Halogen Bonded Bent-core Azo-benzene Liquid Crystalline Systems for Photo-Responsive Property Study
+Dr. Susanta K. Nayak
+Ministry of Education (STARS-2 Scheme);
+30
+Sr. No
+Paper 1
+Molybdenum Chalcogenides for Photo-Oxidative Desulfurization of Liquid Fuels Under Ambient Conditions: Process Optimization, Kinetics, and Recyclability Studies,  Yesleen Gupta, Zakiullah Zaidi, Laxmi Gayatri Sorokhaibam, Abhishek Banerjee, Cat. Lett., 2023, 153, 643-658.
+2
+A review on versatile applications of biomaterial/polycationic chitosan: An insight into the structure-property relationship, D Lingait, R Rahagude, SS Gaharwar, RS Das, MG Verma, N Srivastava, Anupama Kumar, Sachin Mandavgane, International Journal of Biological Macromolecules, 128676, 2023.
+3
+Optimized photocatalytic performance of ZnS-SnO2 heterostructures for visible light driven mineralization of Acid violet 7 dye and inactivation of bacteria,  Sachin G. Ghugal, Devthade Vidyasagar, Kiran Kumar Tadi, Geethukrishnan, Suresh S. Umare, YuHyeong Jeong, Jonghun Yoon, Materials Science in Semiconductor Processing 165 (2023) 107657.
+4
+Counterion chemistry of 5-halo (X: Cl, Br, I)-uracil derived carbon nitride: unlocking enhanced photocatalytic performance Photocatalyst,  Toshali Bhoyar, B. Moses Abraham, Akanksha Gupta, Dong Jin Kim, Nilesh R. Manwar, Kedhareswara Sairam Pasupuleti, Devthade Vidyasagar, and Suresh S. Umare, J. Mat. Chem. A, 12 (2024), 979-992.
+5
+Valorization of Malus domestica L. (Apple) peels: A case study of circular bioeconomy,  Shivali Singh Gaharwar, Anupama Kumar, Kishor S. Rathod, S.V. Shinde, Sustainable Chemistry and Pharmacy 36, 101301.
+6
+Cryogenic treatment: Processing segment to tailor the interface and improve mechanical performance of impact modified PET/PBT blends, K Pande, S Chopra, AD Deshmukh, S Deo, A Kumar, DR Peshwe, Results in Materials 20, 10045, 2023.
+7
+Green synthesis of reduced graphene oxide with multiple environmental applications, RS Das, D Lingait, SS Gaharwar, A Kumar, S Gokhale -Journal of Photochemistry and Photobiology A: Chemistry 444, 115021.
+8
+Extraction of 4-hydroxy benzoic acid from potato processing industrial waste, Praful S. Dadhe, Sachin A. Mandavgane and Anupama Kumar, International Journal of Chemical Reactor Engineering; https://doi.org/10.1515/ijcre-2023-0153.
+9
+Effect of artificial sweetener saccharin on lysozyme aggregation: A combined spectroscopic and in silico approach, R Dudure, K. Ganorkar, V. Beldar, Sujit Kumar Ghosh, A.K. Panda, Manojkumar Jadhao, Spectrochimica Acta part A: Bimol Spec. 290 (2023) 122269.
+10
+Achieving the Reverse Intersystem Crossing in Chalcone Based Donor-Acceptor System through Down-Conversion of Triplet Exciton, Piyush Singh, Pradip Pattanayak, Pradipta Purkayastha and Sujit Kumar Ghosh* Chemistry A Eur. J. 29, 64, (2023) e202302587.
+11
+Water-Assisted Photoinduced Tautomerization in a Potential Bioactive Semicarbazone Schiff Base, Piyush Singh, Teena Tenna, Kapil Ganorkar and Sujit Kumar Ghosh*; ChemistrySelect 8 (43) 2023.
+12
+Novel Azapodophyllotoxin Induces DNA Cleavage via Groove Binding: An Advancement in Exploration of Anticancer Activity of a Known Inhibitor of Tubulin Polymerization and Topoisomerase, Smruti Gupta, Ajay Kumar and Sujit Kumar Ghosh*. ChemistrySelect 8, 15, (2023) e202204882.
+13
+Paneer preservation puzzle: Unraveling the link between microbial spoilage and chemical clues in refrigerated storage, SR Badhe, KS Rathod, SP Chaudhari, AP Dhok, SR Warke, Anupama Kumar, BL Mundhe; The Pharma Innovation; TPI 2023; SP-12(10): 991-996.
+14
+Diverse role of zirconia in developing polymeric composites, Shubham C. Ambilkar, Tamanna Singal, Chayan Das* Polymer Bulletin (2023) (Springer)  https://doi.org/10.1007/s00289-023-05042-7.
+15
+Precise role of zirconia to boost up the mechanical, thermal, viscoelastic, dielectric, and chemical resistance properties of natural rubber-nitrile rubber blend,  Shubham C Ambilkar, Bharat P Kapgate, Amit Das, Subhradeep Mandal, Pradip K Maji, Shiva Singh, Rajkumar Kasilingam, Rupesh S Gedam, Chayan Das* European Polymer Journal, 194, 112163 (1-12); (2023) (Elsevier) https://doi.org/10.1016/j.eurpolymj.2023.112163.
+16
+Neem gum and Pongamia pinnata plant leaves bio-extract assisted green synthesis and characterization of zirconia nanoparticles, Surbhi Raut, Gopal L Dhakar, Pretty Gogoi, DR Pal, Chayan Das* Journal of the Australian Ceramic Society, 59, 1389-1397, (2023) (Springer) https://doi.org/10.1007/s41779-023-00921-8.
+17
+Removal of Cu (II) and Cd (II) ions from aqueous solutions by methionine functionalized cobalt-magnesium ferrite chitosan beads: performance and adsorption mechanism,  Saroj P Sahare, Sangesh P Zodape, Journal of Polymers and the Environment, 31(5), 1967-1985, 2023. https://doi.org/10.1007/s10924-022-02724-7.
+18
+Thermophysical and Computational Studies of 1(2-Hydroxyethyl)- 3-methylimidazolium Chloride Ionic Liquid in Aqueous and Aqueous L-Alanine Solutions,  Anuja Jain, Ankita S. Chandak, and Sangesh P. Zodape, J. Chem. Eng. Data, ACS, 69 (1), 59-72, 2023. https://doi.org/10.1021/acs.jced.3c00472 19
+Investigation of Molecular Interactions of -Ethyl-3- methyl imidazolium Diethyl Phosphate in Water and Aqueous D-Glucose Solutions through Thermodynamic and Compressibility Parameters, Anuja Jain and Sangesh P. Zodape, J. Chem. Eng. Data, ACS, 68( 8), 1899-1910, 2023. https://doi.org/10.1021/acs.jced.3c00180.
+20
+Expliciting the interactions of tramadol hydrochloride + choline chloride-based deep eutectic solvent + water systems: Thermodynamic aspects,  Ankita S. Chandak, Anuja Jain, Sangesh P. Zodape, J. Mol. Liq., Elsevier, 383, 122100, 2023. https://doi.org/10.1016/j.molliq.2023.122100.
+21
+Coupling solvent extraction with pervaporation for efficient separation of lycopene from tomato waste using chitosan/polyvinylpyrrolidone (CS/PVP) pervaporation membranes and its optimization study, Kanchan A Nandeshwar, Shyam M Kodape, Ajit P Rathod, Sangesh P Zodape Biomass Conv. Bioref, 1-20, 2023. https://doi.org/10.1007/s13399-023-04879-2 22
+Electrocatalytic behaviour of self-assembled Cu-chitosan/f-MWCNT on glassy carbon electrode for detection of erythromycin in various samples,  Prashu Jain, Sony Jagtap, Megha Chauhan, Ramani V. Motghare, Sensing and Biosensing Research, volume 41, August (2023) 100568, https://doi.org/10.1016/j.sbsr.2023.100568 23
+Zero-valent silver decorated Ag2MoO4 nanorods: An excellent visible light active photocatalyst for persulfate ion activation with intrinsic bactericidal activity  Rudra P. Singh, Adarsh K. Mourya, Prerna S. Khagar, G.S. Gaikwad, Atul V. Maldhure, Atul V. Wankhade, Inorganic Chemistry Communications, Vol. 157, 111375, 2023.
+24
+Synthesis of Quercetin–Iron (Fe) Complex and Its In Silico and In Vitro Confirmation Towards Antibacterial Activity,  Prerna Khagar, Atul V Wankhade, Sarvesh Sabarathinam, Future Medicinal Chemistry, Vol. 15, Pages 1743-1756, 2023.
+25
+Tuning the morphologies of ZnO for enhanced photocatalytic activity  Adarsh K. Mourya, Rudra P. Singh, Tarun Kumar, Awanti S. Talmale, G.S. Gaikwad, Atul V. Wankhade Inorganic Chemistry Communications, Vol. 154, 110850, 2023.
+26
+Zinc‐Embedded Porous Organic Framework Catalyzed Synthesis of 2‐Phenyl Benzimidazoles,  S. H. Dani, A. Gouda, A. Verma, U. R. Pratap, ChemistrySelect 8 (29), e202302193.
+27
+Optimization of orange G and indigo carmine dye sequestration by incense stick ash: characterisation, isotherm, and kinetic analysis,  B.N. Shelke, M.K. Jopale, U. R. Pratap, A. H. Kategaonkar, Biomass Conversion and Biorefinery,1-12:https://doi.org/10.1007/s13399-023-04579.
+28
+Cu@CTF as an efficient heterogeneous catalyst in click reaction between azide and alkyne towards disubstituted triazoles,  S Bhagat, S Dani, A Verma, R Dharavath, U. R. Pratap, Journal of Molecular Structure, 1284, 135350.
+29
+Synthesis, Structural and Theoretical Analyses of C≡ N··· I Halogen-Bonded Liquid Crystalline Complexes of 4-Cyano-4′-alkoxy Biphenyl Systems, Kapil S Ingle, Keshab M Bairagi, Jyoti Swarup Thakur, Ranganathan Sathishkumar, Ramanaiah Chennuru, Bikash Baishya, Susanta K Nayak, Crystal Growth & Design, Vol. 23, pp.1755-1767, 2023.
+30
+Fluoride anions: Unexploited but effective halogen bond acceptors, Andrea Daolio, Andrea Pizzi, Susanta K Nayak, Justyna Dominikowska, Giancarlo Terraneo, Pierangelo Metrangolo, Giuseppe Resnati,  Chemistry–An Asian Journal 18, e2023005,2023, 31
+Mesomorphic and computational evaluation of CN‧‧‧ I halogen bonded complexes of 4-alkoxy-4′-cyanobiphenyls systems with 1, 6-diiodoperfluorohexane, Kapil S Ingle, Jyoti Swarup Thakur, Nagesh A Bhale, Amol G Dikundwar, Susanta K Nayak   Journal of Molecular Structure, 2023, 1291, 135995.
+32
+Magnetic iron nanoparticles (Fe3O4) supported on activated carbon as a hybrid adsorbent for desulphurisation of liquid fuels,  M Louis, P Behera, LG Sorokhaibam, International Journal of Environmental Analytical Chemistry 103 (11), 2659-2680.
+33
+Development of colorimetric probe for the selective detection of HgII Koushik Das, Mrityunjay Pandey, Shampa Chakraborty, Saumik Sen, Sandipan Halder, Aust. J. Chem. 2023, 76, 581-589. DOI: 10.1071/CH23058.
+34
+Structural and Synthetic Aspects of Small Ring Oxa- & Aza-Heterocyclic Ring Systems As Antiviral Activities Sibasish Manna, Koushik Das, Sougata Santra, Emily V. Nosova, Grigory V. Zyryanov, Sandipan Halder, Viruses, 2023, 15, 1826. DOI: 10.3390/v15091826.
+35
+Visible light assisted photocatalytic performance of Europium doped ZnS-Nb2O5 heterostucture for mineralization of Acid violet 7 dye, Sachin G. Ghugal, Pritam Ramteke, Kiran Kumar Tadi, Swapnil Sarkar, Swapna Mary Gali, Suresh S. Umare, Wonjoo Lee, Yuhyeong Jeong, Jonghun Yoon, J. Photochem. Photobio. Chem. 453 (2024) 115588 36
+Exfoliated Boron-TiO2 Heterostructure for Photocatalytic Dye Degradation and Nitrogen Fixation,  Pritam Ramteke, Toshali Bhoyar, Suresh S. Umare, ChemistrySelect 9(14), 2024.
+37
+Chemical based smart label to communicate real time freshness of packed paneer,  S. R. Badhe, K. S. Rathod, S. P. Chaudhari, A. P. Dhok, S. R. Warke, Anupama Kumar, B. L. Mundhe, Food Research International, Accepted, January, 2024.
+38
+An Alternate Approach of Cross-Linking XNBR via Ferric–Carboxylate Interaction Assisted by Dimethylaminopyridine, Suraj W. Wajge, Chayan Das*ACS Applied Polymer Materials, 6, 6, 3094–3104; (2024) (ACS) https://doi.org/10.1021/acsapm.3c02625 39
+Dynamic co-ordination networks in carboxylated nitrile rubber and development of self-healing and recyclable rubber composites, Suraj W. Wajge, Debdipta Basu, Amit Das, Subhradeep Mandal, Pradip K. Maji, Shiva Singh, Chayan Das* Journal of of Polymer Science; 62(10), 2103-2115, (2024) (Wiley) https://doi.org/10.1002/pol.20230800 40
+Silver Zirconate: A robust material for supercapacitor application, photocatalytic water splitting and photoactivation of persulfate ion for environmental remediation, Rudra P. Singh, Adarsh K. Mourya, G.S. Gaikwad, Santosh J. Uke, Atul V. Wankhade, International Journal of Hydrogen Energy, Vol. 56, Pages 1408-1418, 2024.
+41
+Silver zirconate: A versatile visible light harvesting photocatalyst for oxygen evolution, PMS activation, and bactericidal activity, Rudra P. Singh, Mrunal M. Shiwankar, Adarsh K. Maurya, Awanti S. Talmale, G.S. Gaikwad, Atul V. Wankhade Journal of Photochemistry and Photobiology A: Chemistry, Vol. 452, 115537, 2024.
+42
+Development of Silica-Immobilized Material as Heterogeneous Hydrogen Bond Donor (HBD) Catalyst: Synthesis of Cyclic Carbonates from CO2 and Epoxides Shilpa Roy, Koushik Das, Sougata Santra, Grigory V. Zyryanov, Sandipan Halder* ChemistrySelect 2024, 9, DOI:10.1002/slct.202303940.
+Sr No
+Name of Faculty
+Patent Title
+Application No. with date
+Filed/granted
+Earnings (Rs. in lakhs) in 2016-17 1
+Dr. Anupama Kumar
+Process For Isolation And Recovery Of Antioxidant Substances 202121009354, dated 05.03.2021
+Granted 2
+Dr. Anupama Kumar
+Biorefinery Process, Components Thereof And Products Therefrom 202121036916, dated 14.08.2021
+Granted 3
+Dr. Anupama Kumar
+Sustained release nutraceutical from fruit and vegetable waste 202321034017, dated 15.05.2023
+Published 4
+Dr. Anupama Kumar
+Pollen Based Bioadsorbent Preparation And removal Of Heavy Metals From Water 202021003467, dated 27.01.2023
+Published 5
+Dr. Atul V. Wankhade
+Silver Zirconate: A Robust Material for Photocatalytic Water Splitting, Persulpfate Ion Activation and Superacapacitor Application 202221074317, dated 21/12/2022
+Published 6
+Dr. Atul V. Wankhade
+Novel ZnO/Ag2ZrO3 Heterostructure for Persulphate Assisted Photocatalytic Degradation of Organic Pollutants Under Visible Light 202221076742, dated 29/12/2022
+Published 7
+Dr. Sandipan Halder
+Process for the Synthesis of 1,1,2-Tricarbonitrile Derivatives 202021010769 A, dated 13.03.2020
+Granted 8
+Dr. Susanta K. Nayak
+(6-Methyl-4-Substitutedphenyl-2-Oxo/Thioxo-1, 2, 3, 4-Tetrahydropyrimidin-5-Yl)(Piperidin-1-Yl) Methanones As Antitubercular Agents 18367645 dated 27.02.2024
+Granted

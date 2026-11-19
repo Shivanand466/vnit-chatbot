@@ -1,0 +1,63 @@
+SOURCE_URL: https://vnit.ac.in/section/uba/wardha/
+TITLE: Wardha – VNIT Nagpur – uba
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Wardha
+Sr.No
+Institute
+District
+Village
+Name of Coordinator 1
+P N Sarode Mahila Mahavidyalaya
+Wardha
+Manora,Kukabardi,Kund,Sultanpur,
+Mr Pravin Narendra Sarode 2
+Shri Sant Mahavidyalaya (Night Shift)
+Wardha
+MR NIKHIL D AMBULAKAR 3
+Shri Kala Mahavidyalaya, Anji (Mothi), Tal
+Wardha
+MR SANTOSH J KANOJE 4
+Jailaxmi Arts Commerce and Science College, Karanja
+Wardha dr v s choudhari 5
+Bajaj College of Science, Wardha
+Wardha
+Sukli (Bai),Digdoh.,Dindoda,Madni,Karanji (Bhoge),Zadshi,Nandora,Marda,
+Praful B Bhoyar 6
+Srikrishnadas Jaju Gramin Seva Mahavidyalaya, Pipri Meghe
+Wardha
+Pavnur,Peth,Borgaon (Savali),Amaji Majara,Ganeshpur,
+Dr R R Chaudhari 7
+Govindrao Sekasariya Commerce College
+Wardha
+Ramnagar,Bramhani,Palasgaon (Bai),Haladgaon,Shedgaon,
+Dr Arundhati Ninawe 8
+P N Sarode College of Arts, Commerce and Homescience, Hinganghat
+Wardha
+Sawli (Wagh),Selu,Shegaon (Kund),Kadajana,Murpad,
+Prof Pravin Kamble 9
+Mahatama Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha
+Wardha
+Takali Lonar,Savangi Tekade,Borgaon (Nandora),Talegaon (Rith),Sonegaon (Sta.),
+Dr Mithilesh Kumar 10
+Bajaj Institute of Technology
+Wardha
+Sati,Nimsada,Takali (Chana),Mamdapur Mauja No.104,Bhaiyapur,
+Dr. V. N. Bhusari 11
+Art and Commerce College , Yeoda , Tq- Daryapur.
+Wardha
+Pimpal Khuta,Katkheda,Telkheda,Bhuras Ramagad,Ghodchandi,
+Dr. Sandip B. Dongare 12
+Bapurao Deshmukh Engineering College, Sewagram
+Wardha
+Warud,Alodi,Satoda,Masala,Pavnar,
+Mr.M.S.Jibhakate 13
+Dr.Ambedkar College of Social Work, Sawangi (Meghe) Road, Wardha
+Wardha
+Pipri (Meghe),Kavtha,Kurzadi (Fort),Neri(Saza.Nimgaon),Indapur,Nagzari,Paloti,Mandawa,Jamtha,Bhiwapur(Saza Mirapur),
+Dr. Milind Sawai 14
+Sri Ram Meghe Institute of Pharmaceutical Sciences and Research, Borgaon Meghe
+Wardha
+Warud,Sawangi,Borgaon (Meghe),Inzapur,Nalwadi,
+Dr. Nilesh A. Karande

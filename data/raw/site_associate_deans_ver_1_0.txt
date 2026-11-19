@@ -1,0 +1,81 @@
+SOURCE_URL: https://vnit.ac.in/associate-deans-ver-1-0/
+TITLE: Associate Deans
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Arvind Y. Vyavahare
+Associate Dean (Civil Works)
+Email : associatedean_cw@vnit.ac.in
+Extension No : 1729
+Dr. R.J. Satputaley
+Associate Dean (Electrical Works)
+Email : associatedean_electrical@vnit.ac.in
+Dr. Vishal R. Satpute
+Associate Dean (Procurement and Stores)
+Email : associatedean_stores@vnit.ac.in
+Dr. Vijay S. Kapse
+Associate Dean (Infrastructure)
+Email:
+associatedean_ infrastructure
+@vnit.ac.in
+Extension No : 1728
+Dr. Atul Wankhade
+Associate Dean (Exams)
+Email : associatedean_exam@vnit.ac.in
+Dr. Anupama Kumar
+Associate Dean (Education Technology and Library)
+Email : associatedeanlib@vnit.ac.in
+Dr. Shital Raut
+Associate Dean (Information Technology: MIS, Network & Website)
+Email :
+associatedeanit@vnit.ac.in
+Extension No : 1732
+Dr. Meera M. Dhabu
+Associate Dean (Academic-UG)
+Email : associatedean_ug@vnit.ac.in
+Extension No : 1725
+Dr. Anjan Patel
+Associate Dean (Academic-PG and PhD)
+Email : associatedean_pgphd@vnit.ac.in
+Extension No : 1727
+Dr. M. S. Kotambkar
+Associate Dean (Public Relations)
+Email : associatedeanpr@vnit.ac.in
+Dr. R. S. Gedam
+Associate Dean (Faculty Welfare)
+Email :
+associatedean_fw@vnit.ac.in
+Extension No : 1730
+Dr. R. P. Vijaykumar
+Associate Dean (Hostel Affairs)
+Email : associatedeanha@vnit.ac.in
+Dr. Rashmi Uddanwadikar
+Associate Dean (Training and Placement)
+Email : associatedeantnp@vnit.ac.in
+Dr. Ashwini B. Mirajkar
+Associate Dean (Students Activities and Sports)
+Email :
+adsa@vnit.ac.in
+Dr. Prabhat Kumar Sharma
+Associate Dean (Research)
+Email : associatedean_research@vnit.ac.in
+Extension No : 1314
+Dr. M.D. Goel
+Associate Dean (Consultancy and
+Industry
+Interaction)
+Email : associatedean_cii@vnit.ac.in
+Extension No : 1722
+Dr. Ravindra B. Keskar
+Associate Dean (IPR and
+Innovation)
+Email : associatedean_iprin@vnit.ac.in
+Extension No : 1724
+Dr. T.V.K  Gupta
+Associate Dean (International Affairs)
+Email : associatedean_iar@vnit.ac.in
+Extension No : 1168
+Dr. S. S. Bhat
+Associate Dean (Alumni)
+Email : associatedeaniii_alumni@vnit.ac.in
+Extension No : 1726

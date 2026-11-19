@@ -1,0 +1,173 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-mohd-alam/
+TITLE: Dr. Mohd Alam
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Mohd Alam
+Brief Bio
+Brief Bio
+Mohd Alam received the M.Tech Degree from IIEST Shibpur, India and Ph.D. Degree from IIT Delhi, India in 2016, and 2021, respectively. Since 2022, he has been an Assistant Professor with the Department of Electrical Engineering, Visvesvaraya National Institute of Technology (VNIT), Nagpur, India.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.Tech
+G B Pant Engg College, Uttarakhand 2
+M.Tech
+IIEST Shibpur 3
+PhD
+IIT Delhi
+Contact Details
+Phone:
+Email:
+Address:
+0712-280-2337 mohdalam@eee.vnit.ac.in
+Room No. – 503 New Academic Building, VNIT
+Research Interest
+Research Interest
+Power Electronics, Energy Systems
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Development of Renewable Energy Based onsite Oxygen cum Green Hydrogen Generation System: A Self-sufficient Approach for Indian Hospitals
+Science and Engineering Research Board (Core Research Grant)
+Co-PI 2024-27 45.87 2
+Smart Hydrogen Energy Recovery System Using Metal Hydride Thermochemical Storage for Integrated Heating and Cooling
+Anusandhan National Research Foundation (ANRF) Advanced Research Grant(ARG)
+Co-PI 2026-2029 97.28 3
+Development of high-power Grid-friendly Conductive and Static Wireless Chargers for Electric Vehicles
+ANRF MAHA EV Mission
+PI 2025-2028 119
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Book Chapter: Analysis of Lead-acid and Lithium-ion Batteries as Energy Storage Technologies for the Grid-Connected Microgrid, Book – Metaheuristic and Evolutionary Computation: Algorithms and Applications
+M Alam, K Kumar, V Dutta
+Springer, Singapore 978-981-15-7571-6 2020
+Book Chapter: Assessing Control of Battery-Supercapacitor Hybrid Storage System in Photovoltaic Based DC Microgrid, Book Name: Recent Advances in Energy Systems, Power and Related Smart Technologies: Concepts and Innovative Implementations for a Sustainable Economic Growth in Developing Countries
+M Alam, K Kumar, V Dutta
+Springer Nature Switzerland 978-3-031-29586-7 2023
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+An induction heating apparatus and method for providing heat to a sensor area 202011056390 08/01/2024
+Granted 2
+A SYSTEM AND METHOD FOR VERSATILE AUTOMATED ELECTRIC VEHICLE CHARGING WITH PAYMENT GATEWAY 202521062106 01/07/2025
+Published 3
+DIGITAL POTENTIOMETER CONTROLLED DROOP-BASED POWER SHARING SYSTEM FOR DC MICROGRIDS 202511120838 02/12/2025
+Granted 4
+A PHASE ANGLE ADJUSTMENT SYSTEM FOR INVERTER GRID INTEGRATION WITH BIDIRECTIONAL POWER FLOW CAPABILITY FOR ELIMINATING PHASE-LOCKED LOOP DEPENDENCE 202621026059 05/03/2026
+Published
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Sr. No.
+Responsibility
+Year 1
+Professor In-charge : Team Velocity 2023-24 2
+Warden, APJ Abdul Kalam Hostel 2024-25 3
+Warden, APJ Abdul Kalam Hostel 2025-26
+Year
+Awards
+Intermediate Merit Award’ from Uttarakhand Association of North America
+Meritorious Award’ for securing highest marks in B.Tech. from Lanco Group, India
+Gold medal’ award for securing highest marks in M.Tech.
+S.No.
+Paper Citation 1
+M. A. Saddriwala, M. Alam, “Bayesian Regularisation Algorithm of Artificial Neural Network for Two Stage Grid Connected Solar Photovoltaic System,” 3rd IEEE International Conference on Power Electronics, Intelligent Control and Energy Systems, Delhi, India from 26 – 28 April, 2024.
+2
+B. A. Kumar, M. Alam, “Evaluating switching losses of high voltage rating devices using cockcroft-walton circuit,” 3rd IEEE International Conference on Power Electronics, Intelligent Control and Energy Systems, Delhi, India from 26 – 28 April, 2024.
+3
+M. A. Saddriwala, M. Alam, “DC/DC Boost Converter Control Using Levenberg-Marquardt (LM) Algorithm,” 2024 IEEE International Students’ Conference on Electrical, Electronics and Computer Science (SCEECS), Bhopal, India, 2024, pp. 1-6.
+4
+B. A. Kumar, M. Alam, “Evaluating Wide Band Gap Semiconductor Hybrid Switches: A Comparative Analysis,” 2024 IEEE International Students’ Conference on Electrical, Electronics and Computer Science (SCEECS), Bhopal, India, 2024, pp. 1-6.
+5
+M Alam. PSFB DC-DC Converter Control Technique for DC Microgrid Application. IEEE 23rd EEEIC, 2023, Madrid Spain.
+6
+M Alam, K Kumar, J Srivastava, V Dutta. A Study on DC Microgrids Voltages based on Photovoltaic and Fuel Cell Power Generators. 2018 7th International Conference on Renewable Energy Research and Applications (ICRERA), Paris, France 2018, pp. 643-648.
+7
+M Alam, K Kumar, V Dutta. Implementation of Multiple Outputs Flyback Converter for DC Microgrid Application. IEEE International Conference on Energy, Systems and Information Processing, Chennai, 2019.
+8
+M. Alam and V. Dutta, “Field Implementation of Photovoltaic-Battery Based DC Microgrid for a Typical School Load Application,” 2022 IEEE Industrial Electronics and Applications Conference (IEACon), Kuala Lumpur, Malaysia, 2022, pp. 169-173.
+9
+M. Alam, J. Jana and H. Saha. Switched boost inverter applicable for solar photovoltaic system based micro-grid. 2016 2nd International Conference on Control, Instrumentation, Energy & Communication (CIEC), Kolkata, 2016, pp. 422-426.
+10
+D Ahmad, W Shaorong, M Alam. Long Short Term Memory based Deep Learning Method for Fault Power Line Detection in a MV Overhead Lines with Covered Conductors. 21st IEEE National Power Systems Conference (NPSC 2020), Gandhinagar, 2021.
+11
+S. Aggarwal, M. Alam and J. Kumar, “Sliding Mode Control Scheme for Hybrid Energy Storage Technologies in a DC Microgrid,” 2022 International Mobile and Embedded Technology Conference (MECON), Noida, India, 2022, pp. 486-489.
+12
+E. V. Vinay, T. Thakur, M. Alam and P. Kumar, “Simulation and Modelling of Biogas Fueled Power plant for Battery charging and grid supply applications,” 2022 1st International Conference on Sustainable Technology for Power and Energy Systems (STPES), SRINAGAR, India, 2022, pp.1- 6, 13
+M. A. Saddriwala and M. Alam, “DC-DC Converter Control Using Adaptive Neuro-Fuzzy Inference System,” 2024 IEEE 3rd International Conference on Electrical Power and Energy Systems (ICEPES), Bhopal, India, 2024, pp. 1-6, doi: 10.1109/ICEPES60647.2024.10653490.
+14
+M. S. Reddy, R. Kumar, M. A. Saddriwala and M. Alam, “Design and Analysis of Bidirectional Totem Pole PFC Rectifier for Battery Charging Applications,” 2024 IEEE Students Conference on Engineering and Systems (SCES), Prayagraj, India, 2024, pp. 1-6, doi: 10.1109/SCES61914.2024.10652394.
+15
+M. Alam, R. Atkar, P. Rautkar, N. Ruhela, N. Ramesh and M. Narayana Murthy, “ANN Controlled PV Integrated Interleaved Buck Converter for Green Hydrogen Production Using PEM Electrolyzer,” 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST), Jamshedpur, India, 2025, pp. 1-6, doi: 10.1109/GIEST66547.2025.11387432.
+16
+K. Hirekar, N. A and M. Alam, “Ten Switch NPC based Two Stage off board EV charger with Low-Frequency CMV Mitigation,” 2025 IEEE 5th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Jaipur, India, 2025, pp. 1-6 17
+B. H. Patil, P. Sanjay Patil, U. H. Padekar, K. Surender and M. Alam, “Modeling, Design and Analysis of Wireless Power Transfer System,” 2025 IEEE 5th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Jaipur, India, 2025, pp. 1-6 18
+M. Alam et al., “Demonstration of Automated Payment Gateway Based Electric Vehicle Charging System,” 2025 IEEE 5th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Jaipur, India, 2025, pp. 1-6, doi: 10.1109/SEFET65155.2025.11255538.
+17
+M. A. Saddriwala, M. Alam and N. M. M, “Adaptive Neuro-Fuzzy Inference-Based Control of Parallel Connected DC-DC Converters for DC Microgrid Application,” 2024 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Mangalore, India, 2024, pp. 1-5, 18
+B. A. Kumar, M. Alarm and M. N. Murthy, “Analysis of IGBT and GaN Based Hybrid Switch Under Diverse Switching Conditions,” 2024 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Mangalore, India, 2024, pp. 1-6, doi: 10.1109/PEDES61459.2024.10961625.
+19
+N. M. M, M. Alam and N. A, “Modular Multilevel Converter Control by Using Sorting Algorithm and Smoothing of ARM Inductor Current,” 2024 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Mangalore, India, 2024, pp. 1-6, doi: 10.1109/PEDES61459.2024.10961565.
+20
+M. Alam, “Enhancement vs Cascode Gallium Nitride MOSFET: A Comparative Analysis,” 2024 IEEE 3rd Industrial Electronics Society Annual On-Line Conference (ONCON), Beijing, China, 2024, pp. 1-4, doi: 10.1109/ONCON62778.2024.10931249.
+21
+B. A. Kumar and M. Alam, “Evaluating Switching Losses of High Voltage Rating Devices Using Cockcroft-Walton Circuit,” 2024 IEEE Third International Conference on Power Electronics, Intelligent Control and Energy Systems (ICPEICES), Delhi, India, 2024, pp. 31-36, doi: 10.1109/ICPEICES62430.2024.10719215.
+22
+B. A. Kumar and M. Alam, “Analysis of SiC and GaN Based Hybrid Switch For Different Switching Combinations,” 2024 IEEE 3rd International Conference on Electrical Power and Energy Systems (ICEPES), Bhopal, India, 2024, pp. 1-6, doi: 10.1109/ICEPES60647.2024.10653531.
+23
+N. H. Reddy, Y. Mani Kiran, B. A. Kumar and M. Alam, “EMI Filter Design and Comparative Analysis of Control Approaches for DC- DC Boost Converter Based LED Drivers,” 2024 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT), Bangalore, India, 2024, pp. 1-6, doi: 10.1109/CONECCT62155.2024.10677189.
+S.No.
+Paper Citation 1
+M Alam, K Kumar, Sungwoo Bae. Virtual-inertia-based power management scheme in fuel cell-battery-supercapacitor-based DC microgrid, Energy Sources, Part A: Recovery, Utilization, and Environmental Effects (2024), 46:1, 1944-1960, DOI: 10.1080/15567036.2024.2302951 2
+M Alam, K Kumar, S Verma, V Dutta. Renewable Sources based DC Microgrid using Hydrogen Energy Storage: Modelling and Experimental Analysis. Elsevier, Sustainable Energy Technologies and Assessments, 2020.
+3
+M Alam, K Kumar, V Dutta. Design and Economic Evaluation of Low Voltage DC Microgrid based on Hydrogen Storage. Taylor and Francis, International Journal of Green Energy, 2020.
+4
+M Alam, K Kumar, V Dutta. Droop Based Control Strategy for Balancing the Level of Hydrogen Storage in DC Microgrid Application. Elsevier, Journal of Energy Storage, 2020.
+5
+M Alam, K Kumar, V Dutta. Analysis of Solar Photovoltaic-Battery System for Off-Grid DC Load Application. Wiley, International Transactions on Electrical Energy Systems, 2020.
+6
+M Alam, K Kumar, V Dutta. Design and Analysis of Fuel Cell and Photovoltaic Based 110 V DC Microgrid using Hydrogen. Wiley, Energy Storage, 2019.
+7
+M Alam, K Kumar, V Dutta. Comparative efficiency analysis for silicon, silicon carbide MOSFETs and IGBT device for DC–DC boost converter. Springer, SN Applied Sciences, 2019 8
+M Alam, K Kumar, V Dutta. Dynamic Modeling and Experimental Analysis of Waste Heat Recovery from the Proton Exchange Membrane Fuel Cell using Thermoelectric Generator. Elsevier, Thermal Science and Engineering Progress, 2020.
+9
+Bhukya, J., Alam, M. Dynamic stability reinforcement in remote wind farm connections: POD-SSSC coordination with fuzzy logic control using RTDS. Electr Eng 106, 3195–3216 (2024). https://doi.org/10.1007/s00202-023-02145-2 10
+Mohd Alam, Kuldeep Kumar, Power Management Scheme Based on Aging Factor of Battery Storage Systems for Electric Vehicles, e-Prime – Advances in Electrical Engineering, Electronics and Energy, Volume 9, 2024,100710.
+11
+Musharraf Ali Saddriwala, Mohd Alam, Artificial neural network based decentralized current-sharing control for parallel connected DC-DC converters in DC microgrid application, Computers and Electrical Engineering, Volume 120, Part A, 2024, 109731,.
+12
+Alam, M., Kumar, K., & Bae, S. (2024). Virtual-inertia-based power management scheme in fuel cell-battery-supercapacitor-based DC microgrid. Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, 46(1), 1944–1960. https://doi.org/10.1080/15567036.2024.2302951 13
+Mohd Alam, Kuldeep Kumar, Saket Verma, Analysis of grid interfaced power converter for uninterrupted hydrogen production using PEM electrolyzer, International Journal of Hydrogen Energy,Volume 152, 2025, 150255.
+14
+Alam, M. Artificial neural network-based control for phase-shifted full-bridge DC–DC converter under constant power loads. J. Power Electron. (2025).

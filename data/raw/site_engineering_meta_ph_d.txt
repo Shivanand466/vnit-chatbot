@@ -1,0 +1,73 @@
+SOURCE_URL: https://vnit.ac.in/engineering/meta/ph-d/
+TITLE: Ph.D – Department of Metallurgical & Materials Engineering
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Ph. D
+Students
+Ph.D Students
+S. N.
+Student Name
+Supervisor
+Full / Part time
+Email ID 1
+Sandeep Kale
+Dr. M. M. Thawre
+Full time sandeepkale2019@gmail.com 2
+Sneha Dandekar
+Dr. D. R. Peshwe
+Full time snehandandekar@gmail.com 3
+K. Mohankrishan Chawdhary
+Dr. A. R. Ballal
+Part time mohankorla@gmail.com 4
+Narayane Dhiraj
+Dr. R. V. Taiwade
+JRF narayane.dhiraj@gmail.com 5
+Pawan Kumar Tejram Bohane
+Dr. A. K. Srivastav
+Full time pawan.bohane1993@gmail.com 6
+Vishesh Agrawal
+Dr. Y.Y. Mahajan
+Part time visheshvnit@gmail.com 7
+Prasanna Chintaman Dupare
+Dr. A. R. Ballal
+JRF prasannadupare@gmail.com 8
+Juhi Rani Verma
+Dr. J.G. Bhatt
+Full time jverma146@gmail.com 9
+Shubham Dwivedi
+Dr. M. M. Thawre
+JRF shubhammarshall60@gmail.com 10
+Ankit Agarwal
+Dr. A. P. Patil
+Full time ankitdurgapur@gmail.com 11
+R Anil Kumar
+Dr. R. K. Khatirkar
+Part time 12
+Nozendra Meshram
+Dr. A. V. Agasti
+Full time nozendram@gmail.com 13
+Shrikant Anil Deo
+Dr. D. R. Peshwe
+Part time 14
+Sulas Borkar
+Dr. R. C. Rathod
+Full time borkarsulas@gmail.com 15
+Monika Petkar
+Dr. A. B. Rathod
+Full time monikavpetkar@gmail.com 16
+Nikita U. Lote
+Dr. M. M. Thawre
+Full time nikitalote1996@gmail.com 17
+Vivekananda Swamy Taddi
+Dr. M. M. Thawre/ Prof. A. R. Ballal
+JRF vivekanandas479@gmail.com 18
+Sandeep Chowriwar
+Dr. Abhinav Arya
+Full time sandeepchowriwar@gmail.com 19
+Garima Rohilla
+Dr. Anil Kumar
+Full time gnprohilla@gmail.com 20
+Ram Narayan Chouhan
+Prof. D. R. Peshwe
+Part time

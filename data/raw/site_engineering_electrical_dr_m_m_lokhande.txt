@@ -1,0 +1,200 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-m-m-lokhande/
+TITLE: Dr. M.M. Lokhande
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. M.M. Lokhande
+Brief Bio
+Brief Bio
+Dr. Makarand M. Lokhande, Associate Professor, Electrical Engineering Departmnet, Visvesvaraya National Institute of Technology, Nagpur received B.E. from Nagpur University from G.H. Raisoni College of Engineering, Nagpur and M.E. (Power System) from University of Pune, India, in 2001 and 2003 respectively in Electrical Engineering and PhD from Energy Science and Engineering Department of IIT Bombay, India in 2010. Since July 2009 to August 2013 he was with Pandit Deendayal Petrolueum Univesity Gandhinagar in Gujarat, India. Since 2013 to June 2015 he was with Electrical Engineering Department, Sardar Vallabhbhai National Institute of Technology Surat, and Since June 2015 he is with Department of Electrical Engineering, Visvesvaraya National Institute of Technology Nagpur. His research interest are electric vehicle, solar photovoltaic, microgrids, power electronics and machines.  He has several publications in international journals and conferences. He has also completed one DST project on Electric Vehicle and one DST project is under process. Under his supervision nine PhD have completed and six are ongoing. He is a Senior IEEE Member and Life member of ISTE. He teaches course based on Power Electronics, Electrical Machines, Electric Vehicle, Renewable Energy Systems.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2010
+Power Electronics
+IIT Bombay 2
+M.E.
+2003
+Power System
+University of Pune 3
+B.E.
+2001
+Electrical Engg.
+Nagpur University
+Contact Details
+Phone:
+Email:
+Address:
+0712-2801148 mml@eee.vnit.ac.in
+Electrical Engineering Department, VNIT Nagpur, South Ambazari Road, Nagpur-440010
+Research Interest
+Research Interest
+Power Electronics, Switched Reluctance Motor, DC-DC Converters, Electric Vehicles, and Solar Photovoltaic
+Ph.D. Supervision
+Balapanuru Obulapathi(2024), “ANALYSIS AND DESIGN OF HIGH GAIN ISOLATED AND NON-ISOLATED DC-DC CONVERTERS FOR HYBRID ENERGY STORAGE INTEGRATION”
+B. Hemanth Reddy(2020), “Space Vector Pulse Width Modulation Techniques for Multilevel Inverter with Fault Tolerant Capability”
+Nikunj Patel (2019) “Design, Development and Testing of C-Core Radial Flux Switched Reluctance Motor with Removable Rotor Wheel for In-Wheel Electric Vehicle Application”
+Pritam Gujarati(2019), “Investigations on Conversion of Conventional Vehicle into Plug-in Hybrid Electric Vehicle and Its Energy Management Strategy for Performance Improvement and Emission Reduction”
+Abhimanyu K. Yadav (2016), “AGGREGATION OF RENEWABLE POWER USING DC CONVERTERS FOR RESIDENTIAL APPLICATIONS”
+Leena H. (2020) , “Impact of Wind Forecasts on Revenue Insufficiency Issue of Electricity Market”
+M.Tech Projects Guided: 12
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Design and Development of an  Experimental Test Bench Setup of  Electric Vehicle
+DST-SERB
+PI 2017-2021 35.88
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Survey of solar home lighting system and street lighting system in various remote areas in the Gujarat state. (Sponsoring Agency: Gujarat Energy Development Agency (GEDA) )2011
+GEDA
+Member
+……….
+……….
+2
+The performance and functionality of a solar-powered street light under natural environmental conditions
+NMRDA, Nagpur
+Member 2025 1lakh
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Advances in Renewable Energy and Sustainable Systems: Renewable Energy: Research, Developments and Policies
+Pritam Keshavdas Gujarathi, Varsha A. Shah and Makarand M. Lokhande.
+NOVA Science Publication, New York
+………
+………
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+DC-DC Boost Converter with Symmetrical Carrier Based Digital Average Current Control with Low Current Ripple and Enhanced Dynamic Response 2.02E+11 29-10-2021
+Granted 2
+BOOST FEATURED DC-DC CONVERTER WITH MULTI-INPUT CONFIGURATION 2.02E+11 23-04-2024
+Granted 3
+LWM- Solar Cooker (LWM-SC): Simple Low Cost Light Weight Modular Solar Cooker
+: 202121043252 23-09-2021
+Granted
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Electric Vehicle
+TEQIP
+SVNIT Surat 26th May to 30th May 2014 50
+Renewable Energy Sources (7th July to 11th July 2014)
+TEQIP
+SVNIT Surat 7th July to 11th July 2014 30
+Distributed Generation and Power Quality
+Self Sponsored
+VNIT Nagpur 15 to 16 December 2015 25
+Renewable Energy Systems and Power Quality
+Self Sponsored
+VNIT Nagpur 29th August to 2nd September 2016 26
+Source Matlab Programming For Pulse Width Modulating Voltage Inverters
+Self Sponsored
+VNIT Nagpur 15th to 19th November 2018 15
+MATLAB PROGRAMMING FOR ELECTRICAL ENGINEERING RESEARCH Under the twinning activity of VNIT Nagpur and SATI Vidisha (Madhya Pradesh)
+TEQIP
+SATI VIDISHA 8th to 13th February 2019 30
+Surya Pākavidyā: Hands-On Solar Cooker Design, Development and Operation Training”
+Self Sponsored
+VNIT Nagpur 27th May to 31st May 2024.
+26
+AI-based Methods for the Renewable Energy Integration for Smart Grid and Electric Vehicles
+GIAN
+VNIT Nagpur 30th June to 4th May 2025 31
+Sr. No.
+Responsibility
+Year 1
+Associate Dean (International Affairs and ranking) 1 May 2024 to 31 April 2026
+Year
+Awards 2012
+Life Member of ISTE 2018
+Senior member,IEEE 2025
+First Prize in Idea4life under the “Save Energy” theme by Minister for Environment, Forest and Climate Change, Government of India: Innovation titled: “Sustainable, Affordable, Modular, Domestic Solar Cooker”
+S.No.
+Paper Citation 1
+O. Balapanuru, M. M. Lokhande and M. V. Aware, “Dual-Input High Gain DC-DC Converter with Two Energy Storage Systems for Light EV Applications,” 2023 International Conference on Future Energy Solutions (FES), Vaasa, Finland, 12-14 June 2023, pp. 1-6, doi: 10.1109/FES57669.2023.10183039.
+2
+R. R. Yadav, M. M. Lokhande and M. V. Aware, “Fault Diagnosis of Power Transistors in Power Converter used in Switched Reluctance Motor Drive,” 2023 IEEE Renewable Energy and Sustainable E-Mobility Conference (RESEM), Bhopal, India, 17-18 May 2023, pp. 1-6, doi: 10.1109/RESEM57584.2023.10236273.
+3
+S. Gupta, M. M. Lokhande and S. Gupta, “Filter-Based Approach for EV Applications to Share Power between Battery and Ultracapacitor,” 2023 IEEE Renewable Energy and Sustainable E-Mobility Conference (RESEM), Bhopal, India, 17-18 May 2023, pp. 1-6,doi: 10.1109/RESEM57584.2023.10236110.
+4
+S. Gupta, M. M. Lokhande, V. P. Dhote and B. Obulapathi, “Vector Control of Induction Motor Drive in EVs with DESS: Eliminating Current Sensors and Enhancing Battery Life,” 2023 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Trivandrum, India, 17-20 December 2023, pp. 1-6, doi: 10.1109/PESGRE58662.2023.10404898.
+5
+R. R. Yadav, S. Kumar, M. M. Lokhande and M. V. Aware, “Fault-Tolerant Strategy for Asymmetrical Half-Bridge Converter in Switched Reluctance Motor Drives,” 2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, 18-20 January, 2024, pp. 316-321, doi0.1109/ICPC2T60072.2024.10474625 6
+S. Gupta, M. M. Lokhande and B. Obulapathi, “Indirect Vector Control of Induction Motor Drive Without Current Sensors for Electric- Drive Propulsion System,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-6, doi: 10.1109/PEDES56012.2022.10080345 7
+Balapanuru Obulapathi, Makarand M. Lokhande, Chinmay Patnaik,Varsha A. Shah, “Energy Management of Dual Energy Storage System with Average Current Mode Control for EV Applications”, IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC), September 2020 8
+R. R. Yadav, S. Kumar, M. M. Lokhande and M. V. Aware, “Fault-Tolerant Strategy for Asymmetrical Half-Bridge Converter in Switched Reluctance Motor Drives,” 2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, 18-20 January, 2024, pp. 316-321, doi0.1109/ICPC2T60072.2024.10474625 9
+S. Kumar, M. M. Lokhande and L. B. Awale, “Optimizing SRM Design for Electric Vehicles: A Solution to Torque Ripple,” 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 31 July 2024 – 03 August 2024, pp. 1-6, doi: 10.1109/SEFET61574.2024.10718037 10
+S. K. Dehuri and M. M. Lokhande, “Design and Comparative Analysis of SRM Drive based on Two Novel Power Converter Topologies,” 2025 Fourth International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, 20-22 January 2025, pp. 1-6, doi: 10.1109/ICPC2T63847.2025.10958643.
+11
+Sandeep Kumar Dehuri, Shubham Gupta, Lata B. Awale, Makarand M. Lokhande,  “Comparative analysis of SRM drive with Hysteresis and Voltage PWM controller having an inner current loop”, 5th IEEE International Conference on Sustainable Energy and Future Electric Transportation, 9th to 12th 2025 July MNIT Jaipur, pp 1-6, 12
+S. K. Dehuri, Makarand M. Lokhande, “Design and Control of an Improved Four-Phase SRM Drive Using a 4-Level Converter” IEEE 1st International Conference on Smart and Sustainable Developments in Electrical Engineering (SSDEE), Dhanbad, India, pp 1-6, , 2025-02-28,Web Url:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10967937 13
+K.S.S.SRINIVAS, Makarand M. Lokhande, “Evaluation of Power Converter Architectures for Switched Reluctance Motor”, 6th International Conference on Electric Power and Renewable Energy (EPREC-2026, Organized by Department of Electrical Engineering, IIT Bhilai, India, 2nd January to 4th January 2026 (This paper selected for Best Paper Award for the session) 14
+G. Vinay Kumar Reddy and M. M. Lokhande, “An Enhanced Five-level Multilevel PV Inverter System for Simultaneous Grid Integration and Electric Vehicle Charging,” 2026 International Conference on Electric Power and Renewable Energy (EPREC), IIT Bhilai, India, India, 2nd January to 4th January 2026, pp. 1-5,  doi: 10.1109/EPREC66546.2026.11412307.
+15
+Makarand M. Lokhande, at el. , “Net Zero Energy Home with Solar Powered Photovoltaic System”, 30th International Conference on Advanced Computing and Communications (ADCOM 2025) at IIIT, Bangalore ,17th-20th December 2025 16
+L. S. Dufare, S. K. Dehuri, M. M. Lokhande and B. S. Umre, “Design and Analysis of PI and PID Controllers for Dual-Loop PWM Voltage Control in Switched Reluctance Motor Drives,” 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), Goa, India, 10-13 December 2025, pp. 1-6, doi: 10.1109/STPEC66316.2025.11490300.
+17
+L. S. Dufare, M. M. Lokhande and B. S. Umre, “Structural Design of 16/18 and 12/18 Outer-Rotor Switched Reluctance Motor with Performance Prediction for In-Wheel Applications,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 08-11 July 2026, pp. 1-6, doi:
+18
+L. S. Dufare, M. M. Lokhande and B. S. Umre, “FEA based Geometry Refinement of 8/6 SRM for Torque Enhancement in Electric Vehicles,” 2026 IEEE 2nd International Conference on Renewable Energy and Sustainable E-Mobility (RESEM), Bhopal, India, 24-26 July 2026, pp. 1-5, doi: 10.1109/RESEM70152.2026.11721861.
+19
+L. S. Dufare, M. M. Lokhande, B. S. Umre and A. B. Gaikwad, “Geometric Refinement of Outer Rotor Switched Reluctance Motor for Torque Enhancement,” 2026 IEEE 2nd International Conference on Renewable Energy and Sustainable E-Mobility (RESEM), Bhopal, India, 24-26 July 2026, pp. 1-5, doi: 10.1109/RESEM70152.2026.11721832.
+20
+A. S. Thakur, M. M. Lokhande and V. A. Shah, “Design of PV Battery-Powered Induction Heating Box Type Solar Cooker,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 08-11 July 2026, pp. 1-6, doi: 10.1109/SEFET69291.2026.11687104.
+21
+G. V. K. Reddy and M. M. Lokhande, “A Novel Single-Phase Grid-Tied Transformer-Less Multi-level Solar Inverter,” 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Nagpur, India, 2026, pp. 1-6, doi: 10.1109/SEFET69291.2026.11687367.
+S.No.
+Paper Citation 1
+Dhote V.P., Lokhande M.M., and Balapanuru Obulapathi, “Selection of Power Sharing Factor for Hybrid Battery/Ultracapacitor Energy Storage based EV Through Load Emulation Technique.” International Journal of Circuit Theory and Applications, March 2024, Pages 1568-1586, Impact Factor 2.378, https://doi.org/10.1002/cta.3836 2
+Balapanuru, M. M. Lokhande and M. V. Aware, “Nonisolated Integrated Boost Featured (NIIBF) Multi-Input Ultrahigh Gain DC–DC Converter,” in IEEE Transactions on Power Electronics, vol. 39, no. 5, pp. 5682-5694, May 2024, doi: 10.1109/TPEL.2024.3359633.
+3
+O. Balapanuru, M. M. Lokhande, M. V. Aware and S. Gupta, “Unsymmetrical Dual-Input Isolated High Gain Bidirectional DC–DC Converter With Inherent Current Sharing for Light EV Applications,” in IEEE Transactions on Transportation Electrification, vol. 10, no. 1, pp. 2070-2081, March 2024, doi: 10.1109/TTE.2023.3273113.
+4
+O. Balapanuru, M. M. Lokhande and M. V. Aware, “Performance Improvement by Sampling Position Approach in Dual Loop Digital ACM Controlled DC-DC Boost Converter,” in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 4, pp. 1565-1569, April 2023, doi: 10.1109/TCSII.2022.3226562.
+5
+Dhote, V. P., M. M. Lokhande and S. C. Gupta, “Test Bench Setup for Emulating Electric Vehicle On-Road Conditions,” Energy Reports (2022):2352-4847 6
+Dhote, V. P., M. M. Lokhande and S. C. Gupta, “Identification of High-Power Density Source Requirement for Electric Vehicle During On-Road Conditions,” Energy Reports (2022):2352-4847 7
+Obulapathi Balapanuru, Makarand M. Lokhande, Mohan. V. Aware, “Improved dynamic performance with discrete sampling in digital ACM controlled DC-DC boost converter with capacitor ESR inclusion” Int J Circ Theor Appl. 2022; 1- 17. doi:10.1002/cta.3489 8
+Pritam Keshavdas Gujarathi,Varsha A. Shah, Makarand M. Lokhande, “Combined Rule Based-Grey Wolf Optimization Energy Management Algorithm for Emission Reduction of Converted Plug-In Hybrid Electric Vehicle” SAE Int. J. Passeng. Cars – Electron. Electr. Syst. / Volume 12, Issue 2, 2020 9
+B. Hemanth kumar and Makarand M. Lokhande, “Investigation of switching sequences on a generalized SVPWM algorithm for multilevel inverters,” Journal of Circuits, Systems and Computers (JCSC), vol.28, no.2, 1950036, Feb 2019.
+10
+B. Hemanth Kumar, Makarand M. Lokhande, Raghavendra Reddy Karasani and Vijay B. Borghate. “A Modified Space Vector PWM Approach for Nine-Level Cascaded H-Bridge Inverter,” Arabian Journal for Science and Engineering (AJSE), vol.44, no.3, pp 2131–2149, March 2019.
+11
+B. Hemanth Kumar, Makarand M. Lokhande, Raghavendra Reddy Karasani and Vijay B. Borghate. “An Improved Space Vector Pulse Width Modulation for Nine-Level Asymmetric Cascaded H-Bridge Three-Phase Inverter,” Arabian Journal for Science and Engineering (AJSE), vol.44, no.3, pp 2453–2465, March 2019.
+12
+Pritam Keshavdas Gujarathi, Varsha A. Shah and Makarand M. Lokhande “ MATLAB-Simulink Based Tool Development for Early Stage Design of Electric Powertrain during Conversion of Conventional Vehicle into Plug-In Hybrid Electric Vehicle” Majlesi Journal of Electrical Engineering,( Islamic Azad University, Iran, indexed in ELSEVIER-Scopus), Vol 13, No. 1, pp 31-36, March 2019, 13
+Nikunj Patel, Varsha Shah, and Makarand M. Lokhande, “A Novel Approach to the Design and Development of 12/15 Radial Field C core Switched Reluctance Motor for Implementation in Electric Vehicle Application”, IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY, VOL. 67, NO. 9, SEPTEMBER 2018, pp 8031-8040 14
+Pritam Keshavdas Gujarathi, Varsha A. Shah and Makarand M. Lokhande, “Grey Wolf Algorithm for Multidimensional Engine Optimization of Converted Plug-in Hybrid Electric Vehicle”, International Journal on Transportation Research Part D: Transport and Environment, Volume 63, pp. 632-648, August 2018, 15
+Pritam Keshavdas Gujarathi , Varsha A. Shah and Makarand M. Lokhande, “Emission Reduction by Combined Rule Based-Artificial Bee Colony Optimization Algorithm for Converted Plug-In Hybrid Electric Vehicle”, Special Issue on Ambient Advancements in Intelligent Computational Sciences, Journal of Intelligent & Fuzzy Systems-Applications in Engineering and Technology, vol. 35, no. 2, pp. 1743-1753, August 2018 16
+Pankaj Yadav, Brijesh Tripathi, Makarand Lokhande, Manoj Kumar, “Estimation of steady state and dynamic parameters of low concentration photovoltaic system”, Elsevier, Solar Energy Materials & Solar Cells, vol. 112, May, 2013, pp 65-72 17
+Pankaj Yadav, Brijesh Tripathi, Makarand Lokhande, Manoj Kumar, “Effect of temperature and concentration on commercial silicon module based low-concentration photovoltaic system”, American Institute of Physics, Journal of Renewable And Sustainable Energy, vol. 5, February, 2013, pp 18
+Abhimanyu Kumar Yadav, Vishal Mehra, Abhijit Ray, Anil Markana, Makarand Lokhande, “Paralleled DC Boost Converters with Feedback Control using PSO Optimization Technique for Photovoltaic Module Application”, International Journal of Computer Applications (0975 –8887), vol. 84 (No. 16), December/ 2013, pp 12-18 19
+S.Gupta and M. M.Lokhande, “High-Gain Isolated Bidirectional DC–DC Converter for Hybrid Fuel Cell Electric Vehicles,” International Journal of Circuit Theory and Applications (2026): 1–16, https://doi.org/10.1002/cta.70309

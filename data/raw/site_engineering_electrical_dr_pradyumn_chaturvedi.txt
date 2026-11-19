@@ -1,0 +1,353 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-pradyumn-chaturvedi/
+TITLE: Dr. Pradyumn Chaturvedi
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Pradyumn Chaturvedi
+Brief Bio
+Brief Bio
+Pradyumn Chaturvedi received the Ph.D. degree from the National Institute of Technology, Bhopal, in 2010. He is currently working as a Professor with the Department of Electrical Engineering, Visvesvaraya National Institute of Technology, Nagpur, India. He has published more than 90 research papers in international/national refereed journals and refereed international/national conferences. He has co-authored one book titled, “Modeling and Control of Power Electronics Converter System for Power Quality Improvements”, Academic Press, Elsevier Publisher. Dr. Chaturvedi is the Life Member of Indian Society for Technical Education India, Senior Member of IEEE USA, Member of IET UK, and Member of International Association of Engineers. Dr Chaturvedi completed 04 sponsored research projects and currently working on 03 Research Projects sponsored by DST-SERB Core Research Grant, India-Taiwan International Joint Research Program, India-EU Horizon 2020 Program on Integrated Local Energy Systems and DST IRHPA SERB Centre on Energy Transformation and Storage. Dr Chaturvedi is the Associate Editor, IEEE IES Industrial Electronics Technology News, ITeN; Secretary of IEEE PELS Technical Committee TC-12 on “Energy Access and Off-Grid Systems” and Chairperson, Resonant and Soft Switching Converter Subcommittee, IEEE IES Technical Committee of Power Electronics. He is also the Founder Chairperson, IEEE Bombay Section Joint Chapter of PELS-IES (Power Electronics Society and Industrial Electronics Society). Dr. Chaturvedi is the Subgroup 1 Leader: IEEE Standard Association: P3105: Working Group on “Recommended Practices of Solid State Transformer for Grid Integration” Dr. Chaturvedi is the Founder Organizer of IEEE International Conferences on Smart Technology for Power Energy and Control, STPEC-2020, STPEC-2021 & STPEC-2023 as Organizing Secretary, General Co-Chair and General Chair. Dr. Chaturvedi is the Technical Program Committee Chair of IEEE PEDES 2022 and Publication Chair of IEEE IES ONCON 2022. Dr Chaturvedi was the Special Session Chair in IEEE R10 Conference TENSYMP 2022. Dr Chaturvedi has been actively participating in various other reputed IEEE conferences/events in India and abroad such as IECON, PEDES, IICPE, ICIT, ECCE, APEC etc. as Special Session Chair, Technical Program Committee Chair and Organizing Secretary. He has delivered more than 50 Expert Talks in the area of Electrical Power and Energy with their Optimized Control. His research interests include Microgrid, EV Charging Infrastructure, Solid State Transformer, Reliability in Power Electronics and Fault-Tolerant Converters.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph. D.
+2010
+Power Electronics
+MANIT, Bhopal 2
+M. E.
+2001
+Power Electronics
+SATI, Vidisha, M.P. / Barkatullah Univ. Bhopal 3
+B. E.
+1996
+Electrical Engineering
+SATI, Vidisha, M.P. / Barkatullah Univ. Bhopal
+Contact Details
+Phone:
+Email:
+Address:
+Mob No: +91 9826585016, Office: +91 712 2801339 pradyumn.c@eee.vnit.ac.in
+Department of Electrical Engineering, Vivsesvaraya National Institute of Technology, Nagpur, M.S., India – 440010
+Research Interest
+Research Interest
+Power Electronics
+Electric Vehicle Charging Insfrastructure
+Solid State Transformer / Power Electronic Transformer for EV and Microgrid Applications
+Fault Tolerant Multilevel Inverters
+Reliability in Power Electronic Converters
+AC/DC Microgrid
+Wide Band Gap device based design and development of power electronic converters
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Electric Vehicle (EV) Mission under Mission for High Impact Areas (MAHA) program, titled, “Development of high-power Grid-friendly Conductive and Static Wireless Chargers for Electric Vehicles”, Work Package: “Design and Development of High Power, Medium Voltage Solid State Transformer for EV Charging Infrastructure”
+ANRF
+PI 2025-2028 120 2
+Intensification of Research in High Priority Areas (IRHPA) program, titled, “Sustainable Technology for Smart Off-Grid Renewable Energy Transformation and Electrochemical Storage Management”, SERB Center for Energy Transformation and Storage
+DST-SERB
+PI 2022-2027 144 3
+India-EU Horizon-2020 Consortium Project, Integrated Local Energy Systems (Energy Islands), Call: H2020-LC-SC3-2020-NZE-RES-CC, titled, “SUSTainable ENergy System for Achieving Novel Carbon Neutral Energy Communities (SUSTENANCE)”, “Development and Deployment of 25 kW Smart Solid State Transformer based EV Charger”
+DST-SERB
+PI 2021-2024 56.97 4
+India-Taiwan S & T Cooperation Program: Collaborative Research Project on “Highly Efficient and Reliable Solid State Transformer for Future Distribution Network with Renewable Energy Support”
+DST-GITA
+PI 2021-2024 27.3 5
+“Design and Development of Distributed Energy Resources Assisted Highly Efficient and Reliable Power Electronic Transformer for Off-Grid Rural Electrification”,
+DST (CRG)
+PI 2018-2021 62.67 6
+BITS Pilani – Aditya Birla Group of Industries (Additional Competitive Research Grant) funded research project titled, “Design and Development of an Efficient Power Conditioning Unit for Photovoltaic Applications”
+Aditya Birla Group of Indusries
+PI 2015-2016 9.7 7
+Aditya Birla Group of Industries (Research Initiation Grant) funded research project titled, “Design and Development of DSP Controlled Reduced Device Count Multilevel Inverter for Single Phase Applications”
+BITS Pilani (Startup Research Grant)
+PI 2014-2016 2
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sanjeet Dwivedi, Shailendra Jain, K. K. Gupta and Pradyumn Chaturvedi, “Modeling and Control of Power Electronics Converter System for Power Quality Improvements”, Academic Press, Elsevier Publisher, USA, 2018, ISBN 978-0128145685.
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+A Closed Loop Sub-Module Capacitor Voltage Balancing of Hybrid Modular Multilevel Converter 202421039701 21 May 2024
+Granted on 06 Mar 2026 2
+An Active Desiccant Regeneration System with Heat Treatment and Moisture Exhaust for Transformer 202521052835 30 May 2025
+Granted on 02 Jan 2026 3
+Enhanced Multilevel Inverter Design with Reduced Device Count 202421050110 1 July 2024
+Granted on 31 Dec 2025 4
+A Reconfigurable Medium Voltage Multi-Port Electric Vehicle Charging System with Photovoltaic Integration and Storage Support 202421039703 21 May 2024
+Granted on 24 Nov 2025 5
+A Method for Mitigation of Sympathetic Inrush Current in Solid State Transformer 202221012596 08 March 2022
+Granted on 28 Feb 2024
+A Bidirectional DC-DC Resonant Converter 202421047986 21 June 2024
+Published on 26 Jul 2024 6
+A Sub-Module for Modular Multilevel Converter in High Voltage DC System 202421039702 21 May 2024
+Published on 21 June 2024
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+One Week GIAN course by Prof. Goerges Zissis, Fellow IEEE, Toulouse University, France on “Smart Lighting Systems’ Technology and Illumination Engineering for Smart Cities”
+Ministry of Education, Government of India
+VNIT Nagpur 05 May to 09 May 2025 17
+United States-India Educational Foundation’s (USIEF’s) Fulbright-Nehru Specialist Program, to host Prof. Jih-Sheng Lai, Department of Electrical and Computer Engineering, Virginia Polytechnic Institute and State University, USA in the specialized area of Engineering Education, Project Titled “Solid State Transformer: Power Grid Revolution”
+United States-India Educational Foundation’s (USIEF’s) Fulbright-Nehru Specialist Program
+VNIT Nagpur 09 Nov to 09 Dec 2024
+Lectures on Power Eelctronics subjects to UG/PG students, One UG student got admission in MS at Virginia, visit to nearby isntitutes and schools, education and culture exchange
+One Week GIAN Course by Prof. Jih-Sheng (Jason) Lai, Virginia Polytechnic Institute and State University, Virginia, USA  on “Power Electronics Technology for Renewable Energy and Microgrid”.
+Ministry of Education, Government of India
+VNIT Nagpur 03 Dec to 08 Dec 2018 36
+One Week GIAN Course by Prof. Sun Jian, Rensselaer Polytechnic Institute, New York, USA on “Advanced Power Electronics for Future Energy Systems”.
+Ministry of Education, Government of India
+VNIT Nagpur 08 Jan – 1 2 Jan 2018 27
+One Week GIAN Course by Prof. K. Matsuse, Meiji University, Tokyo, Japan on “Current Trends in Power Electronics and Drives Technology”.
+Ministry of Education, Government of India
+VNIT Nagpur 11 Dec – 16 Dec 2017 38
+Sr. No.
+Responsibility
+Year 1
+Institute Coordinator, International Collaboration between VNIT Nagpur-Delta Electronics India, Bengaluru (MoU signed in Sept 2025) 2025 onwards 2
+Institute Coordinator, International Collaboration, VNIT Nagpur-NTUST Taipei Taiwan-Delta Electronics India, Bengaluru (MoU signed in Sept 2025).
+2025 onwards 3
+Institute Coordinator, International Collaboration between VNIT Nagpur and NTUST Taipei Taiwan, (Agreement signed in June 2026).
+2026 onwards 4
+Institute Coordinator, Hyundai Center of Excellence at VNIT Nagpur (MoU signed on 15th May 2026).
+2026 onwards 5
+Institute Coordinator, TP Renewable Microgrid (TPRMG) Initiative for Greeing VNIT for Sustainable Growth 2025-onwards 6
+Departmental Coordinator, International Affairs 2025-onwards 7
+Departmental Coordinator, Internship 2025 onwards 8
+Faculty Advisor, M Tech (Power Electronics & Drives) 2016-2024 9
+Professor I/C, Mechatronics Lab, Siemens Center of Excellence, VNIT Nagpur 2021 onwards 10
+Professor I/C, Power Electronics Research Laboratory (PERL) 2016 onwards 11
+Professor I/C, Processor Applications in PE Laboratory 2016 – 2024 12
+Departmental Coordinator, NBA PG (Power Electronics and Drives) 2022 onwards 13
+Faculty Coordinator, Fulbright Nehru Specialist Program (Fulbright Specialist Prof. Jih-sheng Lai, Virginia Tech USA) 2024 14
+Convener, Transportation and Security Committee, Convocation 2024, 2025 15
+Member, Seating Arrangement Committee, Convocation 2022-2024 2022-2024 16
+Advisor, Training & Placement, Electrical Engg Deptt 2025 onwards 17
+Branch Counsellor, IEEE VNIT Student Branch 2018-2022 18
+UG Adsmisison Committee, Member 2021
+Year
+Awards 2026-2027
+Vice-Chair: IEEE Smart Cities: Technical Activity & R&D Committee 2024-onwards
+Subgroup 1 Leader: IEEE Standard Association: P3105: Working Group on “Recommended Practices of Solid State Transformer for Grid Integration” 2022-2023
+Secretary, IEEE PELS Technical Committee TC-12 on “Energy Access and Off-Grid Systems”, 2022-2023.
+2020-onwards
+Chairperson, Resonant and Soft Switching Converter Subcommittee, IEEE IES Technical Committee on Power Electronics (TCPE) 2018-2023
+Founder Chairperson, IEEE Bombay Section Joint Chapter of PELS-IES 2018-2021
+Branch Counselor, IEEE VNIT Student Branch 2020, 2021, 2023,2025
+Founder, IEEE Conference on Smart Technologies for Power, Energy and Control (STPEC) 2022
+Guest Associate Editor, Chinese Journal of Electrical Engineering, Special Issue on Active Control and Protection of Future Renewables-dominated Distribution Grid, June 2022 2017
+IEEE Senior Member, USA, SMIEEE 93086811 2024
+Fellow, The Institution of Engineers (India), F-1310956 2008
+Life Member, ISTE, New Delhi, LM 57635 2020
+Member, International Association of Engineers (IAENG), No. 210356
+S.No.
+Paper Citation 1
+S. K. Kondoju, P. Chaturvedi, A. Sheikh and M. Alam, “DPS-Based Control Strategy of DAB Converter with Reduced-Order Modelling for Off-board EV Charging Applications,” 2025 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Dharwad, India, 2025, 18-21 Dec 2025, pp. 1-6, doi: 10.1109/PESGRE65581.2025.11521857.
+2
+S. M. Sajid, P. Chaturvedi and S. Khan, “DC Bus Voltage Control Strategy for Hybrid Energy Storage System with Renewable Energy System,” 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), Goa, India, 2025, 10-13 Dec 2025, pp. 1-6, doi: 10.1109/STPEC66316.2025.11491011.
+3
+S. M. Sajid and P. Chaturvedi, “Analysis of Inner Current Loop with PI and Hysteresis Controller for DC/AC VSC in Microgrid Applications,” 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), Goa, India, 2025, 10-13 Dec 2025, pp. 1-6, doi: 10.1109/STPEC66316.2025.11490761.
+4
+V. Gedam, S. P. Gawande, M. Yadav, A. Sonawane and P. Chaturvedi, “Stability and Power Quality Reinforcement in Offshore Wind Farms Using Battery-Supported E-STATCOM,” 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), Goa, India, 2025, 10-13 Dec 2025, pp. 1-7, doi: 10.1109/STPEC66316.2025.11490942.
+5
+M. A. Ali, A. Keshri, D. Raveendhra, S. R. Pendem, B. L. N. Raju and P. Chaturvedi, “Robust Controller for Single-Stage Isolated Power Conditioning Unit on-Board Charger,” 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), Goa, India, 2025, 10-13 Dec 2025, pp. 1-6, doi: 10.1109/STPEC66316.2025.11490294.
+6
+K. Prajapati, M. Alam and P. Chaturvedi, “Evaluating PWM Strategies for Enhanced Performance in Three-Phase Modular Multilevel Converter,” 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), Goa, India, 2025, 10-13 Dec 2025, pp. 1-6, doi: 10.1109/STPEC66316.2025.11490434.
+7
+A. D. Bonde, Pradyumn Chaturvedi and V. B. Borghate, “Enhanced Half-Bridge Sub-module Modular Multilevel Converter and its Capacitor Voltage Balancing Control,” 2025 International Conference on Power Electronics Converters for Transportation and Energy Applications (PECTEA), Jatni, IIT Bhubaneshwar, India, 18-21 June 2025, pp. 1-6, doi: 10.1109/PECTEA61788.2025.11076420 (BEST PAPER AWARD).
+8
+A. Kulkarni, S. K. Kondoju and Pradyumn Chaturvedi, “Parameter Identification and Controller Design of DAB Converter for Off-board EV Charging Applications,” 2025 International Conference on Power Electronics Converters for Transportation and Energy Applications (PECTEA), Jatni, IIT Bhubaneshwar, India, 18-21 June 2025, pp. 1-6, doi: 10.1109/PECTEA61788.2025.11076420.
+9
+A. Kulkarni, H. R. Bhawane, P. Chaturvedi and S. Kamble, “Optimized Dual Phase Shift Control for Dual Active Bridge DC-DC Converter,” 2024 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES-2024), Mangalore, India, 2024, 18-21 Dec 2024, pp. 1-6, doi: 10.1109/PEDES61459.2024.10961877.
+10
+A. D. Bonde, P. Chaturvedi and V. B. Borghate, “Fault-Tolerant Operation of Hybrid Modular Multilevel Converter for MVDC Applications,” 2024 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES-2024), Mangalore, India, 2024, 18-21 Dec 2024, pp. 1-6, doi: 10.1109/PEDES61459.2024.10960739.
+11
+A. Narendrababu and P. Chaturvedi, “Optimizing DC-Link Capacitor Size in Ten-Switch Neutral Point Clamped Converter,” 2024 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Mangalore, India, 2024, 18-21 Dec 2024, pp. 1-6, doi: 10.1109/PEDES61459.2024.10961738.
+12
+S. P. Kamble, P. Chaturvedi, H. Bhawane and V. B. Borghate, “PSAM and TM Based Fault Tolerant Scheme for Open Switch Faults in Dual Active Bridge Converters,” 2024 IEEE International Communications Energy Conference (INTELEC), Bengaluru, India, 2024, 04-07 August 2024, pp. 1-6, doi: 10.1109/INTELEC60315.2024.10679024.
+13
+S. Khan, P. Chaturvedi and S. Sajid, “Coordinated Control of PV, Battery, and Supercapacitor in DC Microgrid,” 2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, 18-20 Jan 2024, pp. 823-828, doi: 10.1109/ICPC2T60072.2024.10474638.
+14
+H. Bhawane and P. Chaturvedi, “Inductor Current Harmonic Analysis in DC-DC Dual Active Bridge Converter with Various Control Techniques,” 2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, 18-20 Jan 2024, pp. 817-822, doi: 10.1109/ICPC2T60072.2024.10475053.
+15
+R. Kumar, M. A. Chaudhari and P. Chaturvedi, “Analysis of Synchronverter and PLL-Less Control for Three-Phase VSI in AC Microgrids,” 2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, 18-20 Jan 2024, pp. 810-816, doi: 10.1109/ICPC2T60072.2024.10474759.
+16
+P. P. Gajbhiye and P. Chaturvedi, “Forward LC – Reverse LCC Bidirectional Resonant Converter for Buck and Boost Operation,” 2024 Third International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, 18-20 Jan 2024, pp. 185-191, doi: 10.1109/ICPC2T60072.2024.10474726.
+17
+Akshaya Dinesh Bonde, Pradyumn Chaturvedi, Vijay B. Borghate and Ching-Jan Chen, “Circulating Current Control (CCC) of Grid-connected Hybrid Modular Multilevel Converter (MMC) for Solid State Transformer (SST) Application”, 49th Annual Conference of the IEEE Industrial Electronics Society, IECON 2023, 16-19 Oct 2023, Singapore.
+18
+S. Y. Duan, C. J. Chen, Y. -M. Chen, W. -S. Lai and Pradyumn Chaturvedi, “Switching Behavior Equivalent Circuit Model for SiC Driver IC,” 2023 IEEE Workshop on Wide Bandgap Power Devices and Applications in Asia (WiPDA Asia), Hsinchu, Taiwan, 2023, pp. 1-6, doi: 10.1109/WiPDAAsia58218.2023.10261935.
+19
+S. C. Pan, C. J. Chen, Y. M. Chen and Pradyumn Chaturvedi, “A Monolithic E-Mode GaN Boost Converter IC with Improved Gate Driver,” 2023 IEEE Workshop on Wide Bandgap Power Devices and Applications in Asia (WiPDA Asia), Hsinchu, Taiwan, 2023, pp. 1-5, doi: 10.1109/WiPDAAsia58218.2023.10261895.
+20
+Praveen Pasula, Pradyumn Chaturvedi, Sajid Sheikh and Ching-Jan Chen, “Design of Controller for the Integration of Solar PV and Battery in DC Microgrid”, 2023 IEEE 3rd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), Bhubaneshwar, 09-12 Aug 2023, pp 1-6. DOI: 10.1109/SeFeT57834.2023.10245274.
+21
+C. H. Kamesh Rao, Pradyumn Chaturvedi, Ching-Jan Chen, Praveen Pasula and Trupti Karokar, “H-Infinity Based Control of Solid State Transformer for Power Distribution Network”  2022 IEEE 1st Industrial Electronics Society Annual On-Line Conference (ONCON), Kharagpur, India, 09-11 Dec 2022, pp. 1-6, doi: 10.1109/ONCON56984.2022.10126539.
+22
+S. K. Saketi and P. Chaturvedi, “A New Fault-Tolerant Single-Phase Hybrid Five-Level Inverter Configuration With Enhanced Output Voltage,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-5, doi: 10.1109/PEDES56012.2022.10079987.
+23
+R. Kumar, M. A. Chaudhari, P. Chaturvedi and K. S. R. Sekhar, “Comparative Analysis of Direct Quadrature (DQ) and Synchonverter Techniques for the Control of  3−ϕ  VSI in AC Micro-Grid,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-6, doi: 10.1109/PEDES56012.2022.10080293.
+24
+S. Kamble, P. Chaturvedi and V. B. Borghate, “A Unique Approach for the Mitigation of Sympathetic Inrush Condition in Solid-State Transformer,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-6, doi: 10.1109/PEDES56012.2022.10079971.
+25
+A. D. Bonde, P. Chaturvedi, V. B. Borghate and S. K. Patro, “Reduced Switching Frequency (RSF) Voltage Balancing Technique for 21-Level Hybrid MMC,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-6, doi: 10.1109/PEDES56012.2022.10080223.
+26
+S. P. Gawande, P. M. Meshram, P. Chaturvedi and M. B. Daigavane, “An Investigations on Design Dynamics of Synchronverter for P, Q and Frequency Control,” 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2022, pp. 1-6, doi: 10.1109/PEDES56012.2022.10080155.
+27
+Shreya Nema, Pradyumn Chaturvedi, Siba Kumar Patro, Badri Vishal Sadangi and Dipesh Atkar, “Three Phase-Threefold Dual Active Bridge Converter for Electric Vehicle Charging Station in Distribution Network”, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 04-06 Aug 2022, pp. 1-7, doi: 10.1109/SeFeT55524.2022.9909197.
+28
+Badri Vishal Sadangi, Pradyumn Chaturvedi, Shreya Nema and Siba Kumar Patro, “Soft Starting Algorithm to minimize the transient inductor current and transient capacitor voltage is Series Resonant Dual Active Bridge Converter”, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 04-06 Aug 2022, pp. 1-6, doi: 10.1109/SeFeT55524.2022.9909331.
+29
+Tanneeru Venkata Ganesh, Siba Kumar Patro and Pradyumn Chaturvedi, “SiC-based MMC for HVDC Applications: A Cost-Benefit Analysis”, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 04-06 Aug 2022, pp. 1-6, doi: 10.1109/SeFeT55524.2022.9909145.
+30
+Pratik Daware, Siba Kumar Patro and Pradyumn Chaturvedi, “A Si and SiC-based Parallel Hybrid Converter with Enhanced Efficiency and Optimal Cost,” 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 04-06 Aug 2022, pp. 1-6, doi: 10.1109/SeFeT55524.2022.9908996.
+31
+Harsh Rakesh Sharma, H. M. Suryawanshi, Pradyumn Chaturvedi and Devsuth Govind, “Implementation of Passive Damping Technique in LCL Filter for Three-Phase Grid Connected Inverter,” 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 04-06 Aug 2022, pp. 1-6, doi: 10.1109/SeFeT55524.2022.9908872.
+32
+P. P. Nachankar, H. M. Suryawanshi, P. Chaturvedi, D. Atkar, C. L. Narayana and D. Govind, “Design of Converter for Electric Vehicle Charging Application,” 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (SeFeT), 04-06 Aug 2022,  pp. 1-6, doi: 10.1109/SeFeT55524.2022.9908789.
+33
+Dipesh Atkar, Pradyumn Chaturvedi, Filippo Pellitteri, Pratik Nachankar and Sai Chaitanya, “DC Bias Abatement in Dual Active Bridge Converter using Covalent Active and Passive Components”, 2022 IEEE CPE-PowerEng – 16th IEEE International Conference on Compatibility, Power Electronics and Power Engineering, June 29 to July 1, 2022, Birmingham.
+34
+Piyush Gajbhiye and Pradyumn Chaturvedi, “Unidirectional Fault Tolerant Series Resonant Converter”, 2nd IEEE International Conference on Smart Technologies for Power, Energy and Control (STPEC 2021), 19-22 Dec 2021, Bilaspur, C.G., India.
+35
+Snehal P Gawande, Nischal Battulwar, Ankit Raut, Praveen Meshram, Pradyumn Chaturvedi and Punit R Fulzele, “Design and Development of Cost-Effective Solar PV Based DC Microgrid for Rural Applications”, 2nd IEEE International Conference on Smart Technologies for Power, Energy and Control (STPEC 2021), 19-22 Dec 2021, Bilaspur, C.G., India.
+36
+Anmol Ratna Saxena, Munesh T., Venu Sonti and Pradyumn Chaturvedi, “Design and Power Management of Low Voltage DC Nanogrid for Solar PV/Fuel Cell fed Residential Complexes”, 2nd IEEE International Conference on Smart Technologies for Power, Energy and Control (STPEC 2021), 19-22 Dec 2021, Bilaspur, C.G., India.
+37
+A. K. Verma, H. Ahmed, P. Roncero-Sánchez and P. Chaturvedi, “An Enhanced Single-Phase Self-Tuning Filter based Open-Loop Frequency Estimator for Weak Grid,” 2021 IEEE Energy Conversion Congress and Exposition (ECCE), Vancouver, BC, Canada, 2021, pp. 1020-1025, doi: 10.1109/ECCE47101.2021.9595504.
+38
+Dharmendra Yadeo and Pradyumn Chaturvedi, “Performance Characterization of T-type Multilevel Dual Active Bridge DC-DC Converter” 2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON), University of Malaya, Kuala Lumpur, Malaysia. Sep 24-26, 2021.
+39
+P. P. Nachankar, H. M. Suryawanshi, Pradyumn Chaturvedi, D. D. Atkar, C. L. Narayana and D. Govind, “Universal Off-board Battery Charger for Light and Heavy Electric Vehicles,” 2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2020, pp. 1-6, doi: 10.1109/PEDES49360.2020.9379810.
+40
+D. Atkar, Pradyumn Chaturvedi, H. M. Suryawanshi, P. Nachankar, D. Yadeo and S. K. Saketi, “Bidirectional Boost Converter based Solid State Transformer for AC/DC Micro-Grid Application,” 2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Jaipur, India, 2020, pp. 1-5, doi: 10.1109/PEDES49360.2020.9379422.
+41
+P. P. Nachankar, H. M. Suryawanshi, Pradyumn Chaturvedi, D. D. Atkar and P. Vijay Vardhan Reddy, “Investigation of Passive Rectifier Circuits for Modular Solid State Transformer Applications,” 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC), Nagpur, India, 2020, pp. 1-6, doi: 10.1109/STPEC49749.2020.9297717.
+42
+T. Waghmare and Pradyumn Chaturvedi, “Study of Bidirectional DC-DC Converter: Control Schemes and Switching Techniques,” 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC), Nagpur, India, 2020, pp. 1-6, doi: 10.1109/STPEC49749.2020.9297713.
+43
+S. P. Gawande, A. R. Nagpure, K. Dhawad and Pradyumn Chaturvedi, “Characteristics Behavior of Shunt DC Electric Spring for Mitigating DC Microgrid Issues,” 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC), Nagpur, India, 2020, pp. 1-6, doi: 10.1109/STPEC49749.2020.9297772.
+44
+Dipesh Atkar, Pradyumn Chaturvedi, H M Suryawanshi, Pratik Nachankar, Dharmendra Yadeo, Sai Krishna, “Solid State Transformer for Electric Vehicle Charging Infrastructure”, IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy, Kochi, Kerala, India, 02 – 04 Jan, 2020.
+45
+Gajbhiye S., Chaturvedi P., Saketi S.K., Mohod P., “Generalised Fault-Tolerant Structure for Multilevel Inverter”, in Mehta A., Rawat A., Chauhan P. (eds) Advances in Electric Power and Energy Infrastructure. Lecture Notes in Electrical Engineering, Vol 608, pp 165-176, Springer, Singapore, 2020.
+46
+Mohod P., Chaturvedi P., Gajbhiye S., “Enhanced Control and Dynamic Power Management of Li-Ion Battery and Ultracapacitor for Hybrid Energy Storage System”, in Mehta A., Rawat A., Chauhan P. (eds) Advances in Control Systems and its Infrastructure. Lecture Notes in Electrical Engineering, Vol 604, pp 97-108. Springer, Singapore, 2020.
+47
+Dharmendra Yadeo, Pradyumn Chaturvedi, H. M. Suryawanshi, Dipesh Atkar, Sai Krishna Saketi , “A New Multilevel Dual Active Bridge DC-DC Converter,” 2019 IEEE International Future Energy Electronics Conference  (IFEEC), Singapore, 25-28 Nov, 2019.
+48
+Sai Krishna Saketi, Pradyumn Chaturvedi, H. M. Suryawanshi, Dharmendra Yadeo, Dipesh Atkar, “A New Fault Tolerant Single phase 5-Level Multilevel Inverter Topology With Capacitor Voltage Balancing for Solid State Transformer,” 2019 Annual Conference of the IEEE Industrial Electronics Society (IECON), Lisbon, Portugal, 14-17 Oct, 2019.
+49
+Dharmendra Yadeo, Pradyumn Chaturvedi, H. M. Suryawanshi, Dipesh Atkar, Sai Krishna Saketi , “Five Level Bidirectional Dual Active Bridge with Symmetrical Configuration,” 2019 Annual Conference of the IEEE Industrial Electronics Society (IECON), Lisbon, Portugal, 14-17 Oct 2019.
+50
+Dharmendra Yadeo, Pradyumn Chaturvedi, S. K. Saketi, “A New Five Level Dual Active Bridge DC-DC Converter for Solid State Transformer,” 2018 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), 18-21 Dec 2018, Chennai, India.
+51
+S. K. Saketi, Pradyumn  Chaturvedi, Dharmendra Yadeo, “A New Fault Tolerant Single Phase 5-Level Inverter Topology,” 2018 8th IEEE India International Conference on Power Electronics (IICPE), 13-15 Dec 2018, Jaipur, India.
+52
+Pradyumn Chaturvedi, M. A. Mulla and Siba Kumar Patro, “Power Electronics Laboratory Education using ARM Cortex M4 32-bit Microcontroller”, IEEE PEDES 2018, 18-21 Dec 2018, IIT Chennai, India.
+53
+Ashish Patel and Pradyumn Chaturvedi, “Performance of SRF-UVTG based UPQC-DG for Integration of Solar PV with Non-linear Loads”, IEEE PEDES 2016, 14-17 Dec 2016, Trivandrum, India.
+54
+Satish Rai, Pradyumn Chaturvedi and Shimi S L, “SHE-PWM Based Multilevel T-Type Inverter Topology for Single-Phase Photovoltaic Applications”, IEEE PEDES 2016, 14-17 Dec 2016, Trivandrum, India.
+55
+Ravinder Kumar, Pradyumn Chaturvedi, Hari Om Bansal and Pawan K. Ajmera, “Adaptive Artificial Neural Network Based Control Strategy for Shunt Active Power Filter”, IEEE ICEPES 2016, 14-16 Dec 2016, MANIT, Bhopal, India.
+56
+S. K. Rai, P. Chaturvedi, S. L. Shimi and S. Dwivedi, “A novel six level inverter for single-phase stand-alone photovoltaic system”, 18th European Conference on Power Electronics and Applications (EPE’16 ECCE Europe), Karlsruhe, Germany, Sept 5-9, 2016.
+57
+Pradyumn Chaturvedi, Amit Ojha, Shailendra Jain and Arvind Mittal, “Unity Power Factor Controller for Neutral Point Clamped Active Front End Converter with DC Voltage Balancing”, 2016 IEEE International Conference on Industrial Technology (ICIT 2016), Taipei, Taiwan, 14-17 March 2016.
+S.No.
+Paper Citation 1
+Sheikh Mohammad Sajid and Pradyumn Chaturvedi, “Coordinated power management algorithm for a residential grid integrated building with solar photovoltaic and hybrid energy storage system”, Journal of Energy Storage, Volume 179, Part B, 2026, 123791, ISSN 2352-152X, https://doi.org/10.1016/j.est.2026.123791, Impact Factor 10.70 2
+Kumar R, Chaudhari M A, Chaturvedi P, Choube SC, “A PLL-less grid-tied three-phase multilevel inverter with reduced device count and LCL filter”, International Journal of Circuit Theory Applications, Vol. 53, Issue 3, 2024, pp 1556‐1592, doi:10.1002/cta.4170, Impact Factor 2.038, SCI.
+3
+Anirudha Marothiya, M. A. Chaudhari and ,Pradyumn Chaturvedi, “Influence of EV Location and Penetration on Harmonics in a 3-phase Low-Voltage Distribution network: A Real-Time Data Approach”, Electrical Engineering, Springer Nature, 108 (230), 2026, doi: https://doi.org/10.1007/s00202-026-03582-5, Impact Factor 1.9 4
+Akshaya Bonde, Pradyumn Chaturvedi and V. B. Borghate, “Voltage Scaled Modular Multilevel Converter and its Control for MVDC Applications”, International Journal of Circuit Theory Applications, International Journal of Circuit Theory Applications, 2026, pp. 1-19, doi:10.1002/cta.70340, Impact Factor 1.6, 5
+Akshaya Bonde, Pradyumn Chaturvedi and V. B. Borghate, “Closed-loop Voltage Balancing Technique to Reduce Switching Transitions & DC Fault Handling in Hybrid MMC with Optimized Utilization of FB-SMs”, Electrical Engineering, Springer Nature, 108 (162), Feb 2026, pp 1-11, doi: doi.org/10.1007/s00202-025-03484-y, Impact Factor 1.9, SCI.
+6
+Piyush Gajbhiye and Pradyumn Chaturvedi, “Design of Bidirectional DC-DC LC/LC/LCC Converter to Minimize Peak Tank Current and Peak Voltage Across Tank Circuit”, IEEE Transaction on Industry Applications,  EARLY ACCESS, Vol .., No. .., doi: 10.1109/TIA.2025.3619920, Impact Factor 4.5, SCI.
+7
+Saurabh Kamble, Pradyumn Chaturvedi, Ching-Jan Chen and V. B. Borghate, “Enhanced Protection of Grid-Connected Solid-State Transformers Against Sympathetic Inrush Current”, IEEE Transaction on Power Delivery, Vol 40, Issue 4, Aug 2025, pp 2289-2299, doi: 10.1109/TPWRD.2025.3575185, Impact Factor 3.7, SCI.
+8
+Kumar R, Chaudhari M A, Chaturvedi P, Choube SC, “A PLL-less grid-tied three-phase multilevel inverter with reduced device count and LCL filter”, International Journal of Circuit Theory Applications, Vol. 53, Issue 3, 2024, pp 1556‐1592, doi:10.1002/cta.4170, Impact Factor 2.038, SCI.
+9
+Vikas Khare, Pradyumn Chaturvedi and Monica Bhatia, “Supply Chain Governance for Sustainable Solar Energy System: Impact of Artificial Intelligence”, Accepted, Int. J. of Energy Technology and Policy (Special Issue: Energy Management of Smart Grids with Renewable Energy Resource), SCOPUS.
+10
+Kamble S, Chaturvedi P, Borghate VB, Chen C-J., “DC fault analysis of solid-state transformer using circuit equivalent”, International Journal of Circuit Theory Applications, 2024, pp 1‐18. doi:10.1002/cta.4131, Impact Factor 2.038, SCI.
+11
+Saurabh Kamble, Pradyumn Chaturvedi, Ching-Jan Chen and V. B. Borghate, “Enhancing Reliability and Efficiency of Grid-Connected Solid-State Transformer through Fault Detection and Classification using Wavelet Transform and Artificial Neural Network”, Electrical Engineering, Springer Nature, Accepted, Impact Factor 1.8, SCI.
+12
+P. P. Nachankar, H. M. Suryawanshi, Pradyumn Chaturvedi, D. Atkar, C. L. Narayana and D. Govind, “Design of Interleaved Three-Phase DC Transformer with Ingenious Control for Modern Data Centers,” IEEE Transaction on Industry Applications, Vol 59, No. 6, Nov/Dec 2023, pp 6889-6899, doi: 10.1109/TIA.2023.3292808, Impact Factor 4.079, SCI.
+13
+Vikas Khare and Pradyumn Chaturvedi, “Design, control, reliability, economic and energy management of microgrid: A review”, e-Prime – Advances in Electrical Engineering, Electronics and Energy, Elsevier’s, Volume 5, 2023, ISSN 2772-6711, DOI: https://doi.org/10.1016/j.prime.2023.100239, SCOPUS.
+14
+Tushar Waghmare, Pradyumn Chaturvedi, “A higher-order sliding mode controller’s super twisting technique for a DC–DC converter in photovoltaic applications”, Energy Reports, Volume 9, Supplement 10, October 2023, Pages 581-589, ISSN 2352-4847, doi: https://doi.org/10.1016/j.egyr.2023.05.054, Impact Factor 4.937, SCI 15
+Tushar Waghmare, Pradyumn Chaturvedi, “Sliding mode controller for multiphase bidirectional flyback converter topology in hybrid electric vehicle applications”, Energy Reports, Volume 9, Supplement 10, October 2023, Pages 40-47, ISSN 2352-4847, doi: https://doi.org/10.1016/j.egyr.2023.05.051, Impact Factor 4.937, SCI 16
+Tushar T. Waghmare and Pradyumn Chaturvedi, “Super twisting approach of a higher order sliding mode controller for a flyback DC–DC converter in photovoltaic applications”, International Journal of Circuit Theory and Application, Vol 51, Issue 9, 2023, pp. 4202-4219, doi:10.1002/cta.3636, Impact Factor 2.038, SCI.
+17
+Vikas Khare, Pradyumn Chaturvedi and Manoj Mishra, “Solar energy system concept change from trending technology: A comprehensive review”, e-Prime – Advances in Electrical Engineering, Electronics and Energy, Elsevier’s, Volume 4, 2023, doi: 10.1016/j.prime.2023.100183, SCOPUS.
+18
+Dharmendra Yadeo and Pradyumn Chaturvedi, “Performance Characterization of T-type Multilevel Dual Active Bridge DC-DC Converter”, IEEE Transaction on Industry Applications, Vol 59, No. 2, March/April 2023, pp 1877 – 1886, doi: 10.1109/TIA.2022.3218525, Impact Factor 4.079, SCI.
+19
+Dipesh Atkar, Pradyumn Chaturvedi, H. M. Suryawanshi, Marco Liserre and Pratik Nachankar, “Adaptive Control Algorithm for Two Stage Integrated DC Transformer in DC Micro-Grid Applications”, IEEE Transaction on Industrial Electronics, Vol 70, No. 6, June 2023, pp 5771 – 5783, doi: 10.1109/TIE.2022.3196348, Impact Factor 8.236, SCI.
+20
+P. P. Nachankar, H. M. Suryawanshi, Pradyumn Chaturvedi, D. D. Atkar, C. L. Narayana and D. Govind, “Design of Electric Vehicle Battery Charger with Reduced Switching Frequency Variation”, IEEE Transaction on Industry Applications, Vol 58, No. 6, Nov/Dec 2022, pp 7432 – 7444, doi: 10.1109/TIA.2022.3195187, Impact Factor 4.079, SCI.
+21
+Dipesh Atkar, Pradyumn Chaturvedi, H. M. Suryawanshi, Pratik Nachankar and Dharmendra Yadeo, “Optimal Design of Solid State Transformer based Interlink Converter for Hybrid AC/DC Micro-Grid Applications”, IEEE Journal of Emerging and Selected Topics in Power Electronics, Vol. 10, No. 4, pp. 3685-3696, Aug. 2022, doi: 10.1109/JESTPE.2021.3099625, Impact Factor 5.5, SCI 22
+Sai Krishna Saketi, Pradyumn Chaturvedi, Dharmendra Yadeo and Dipesh Atkar, “A Hybrid Five-level Inverter Configuration With Improved Reliability and Reduced Number of Components”, International Journal of Circuit Theory and Application, 2022, pp 4104-4130, doi: https://doi.org/10.1002/cta.3376, Impact Factor 2.038, SCI.
+23
+Dipesh Atkar, Pradyumn Chaturvedi, H. M. Suryawanshi, Pratik Nachankar, Dharmendra Yadeo and Sai Krishna Saketi, “Three Phase Integrated-Optimized Power Electronic Transformer for Electric Vehicle Charging Infrastructure”, IEEE Transaction on Industry Applications, Vol. 58, No. 4,  July/Aug, 2022, pp. 5198-5213, DOI: 10.1109/TIA.2022.3170285, Impact Factor 4.079, SCI.
+24
+P. P. Nachankar, H. M. Suryawanshi, Pradyumn Chaturvedi, D. D. Atkar and Vijay Vardhan Reddy P., “Fault Resilient Soft Switching DC-DC Converter for Modular Solid State Transformer Applications”, IEEE Transaction on Industry Applications, Vol. 58, Issue 2, Mar/Apr 2022, pp. 2242-2254, Impact Factor 4.079, doi: 10.1109/TIA.2022.3142236, SCI.
+25
+Dharmendra Yadeo, Pradyumn Chaturvedi, Jih-Sheng Lai, H.M Suryawanshi, Dipesh Atkar and Sai Krishna Saketi, “A T-Type Dual Active Bridge with Symmetrical Configuration for Solid State Transformer”, International Journal of Electronics, 2021, DOI: 10.1080/00207217.2020.1870755, Impact Factor 1.336, SCI.
+26
+Dharmendra Yadeo, Pradyumn Chaturvedi, H.M Suryawanshi, Dipesh Atkar and Sai Krishna Saketi, “Transistor Clamped Dual Active Bridge DC-DC Converter to Reduce Voltage and Current Stress in Low Voltage Distribution Network”, International Transactions on Electrical Energy Systems, 2021, 31, e12665, DOI: 10.1002/2050-7038.12665, Impact Factor 2.860, SCI.
+27
+Dharmendra Yadeo, Pradyumn Chaturvedi, H.M Suryawanshi, Dipesh Atkar and Sai Krishna Saketi, “Analysis, Design and Performance Characterization of Transistor Clamped Dual Active Bridge DC-DC Converter in Wide Voltage Range”, IET Power Electronics, Issue 14, pp 63-77, 2021, DOI: 10.1049/pel2.12011, Impact Factor 2.672, SCI.
+28
+Sai Krishna Saketi, Pradyumn Chaturvedi, Dharmendra Yadeo and Dipesh Atkar, “A Reliable and Efficient Modified T-type Fault Tolerant Five level Inverter Configuration”, International Transactions on Electrical Energy Systems, 2021, e12975, DOI: 10.1002/2050-7038.12975, Impact Factor 2.860, SCI 29
+Sai Krishna Saketi, Pradyumn Chaturvedi, Dharmendra Yadeo and Dipesh Atkar, “Loss study and reliability analysis of a new reconfigurable fault tolerant multilevel inverter topology”, IET Power Electronics, Vol. 13, Issue 18, Dec 2020, pp 4291-4303, DOI: 10.1049/iet-pel.2020.0913, Impact Factor 2.672, SCI.
+30
+A. B. Shitole, ShelasSathyan, H. M. Suryawanshi, G. G. Talapur and Pradyumn Chaturvedi, “Soft Switched High Voltage Gain Boost Integrated Flyback Converter Interfaced Single-Phase Grid Tied Inverter for SPV Integration”, IEEE Transaction on Industry Applications, Vol. 54, Issue1, Jan/Feb 2018, pp. 482-493,  Impact Factor 4.079, SCI.
+31
+P. A. Salodkar, P. S.Kulkarni, Manoj A. Waghmare, Pradyumn Chaturvedi, Sandeep N., “Asymmetric H-bridge Single-Phase Seven-Level Inverter Topology with Proportional Resonant Controller”, IETE Journal of Research, Vol 65, Issue 1, 2017, pp. 19-32, Impact Factor 2.333, SCI.
+32
+Pradyumn Chaturvedi, Shailendra Jain and Pramod Agarwal, “Carrier Based Neutral Point Potential Regulator with Reduced Switching Losses for Three-Level Diode Clamped Inverter”, IEEE Transaction on Industrial Electronics, Vol. 61, Issue 2, Feb 2014, pp. 613-624, Impact Factor 8.236, SCI.
+33
+Pradyumn Chaturvedi, Shailendra Jain and Pramod Agarwal, “Reduced Switching Loss PWM Technique for Three-Level Diode Clamped Inverter”, IET Power Electronics, Vol. 4, Issue 4, Apr 2011, pp. 393-399, Impact Factor 2.672, SCI.
+34
+Amit Ojha, P. K. Chaturvedi, Arvind Mittal and Shailendra Jain, “Common Mode Voltage Reduction in Multilevel Neutral Point Clamped Inverter based AC-DC-AC Drive System”, Journal of Power Electronics, Vol. 16, No. 1, Jan 2016, pp. 142-152, Impact Factor 1.114 SCI.
+35
+Amit Ojha, Pradyumn Chaturvedi, Arvind Mittal and Shailendra Jain, “Neutral Point Potential Control for Three Phase 3-level Neutral Point Clamped Active Front End Converter”, International Journal on Electrical Engineering and Informatics, Vol. 9. No. 2, Jun 2017, pp. 342-363, Scopus.
+36
+Pradyumn K. Chaturvedi, Shailendra Jain and Pramod Agarwal, “A Simple Carrier Based Neutral Point Potential Regulator for 3-Level Diode Clamped Inverter”, International Journal of Power Electronics, Vol. 3. No. 1, 2011, pp. 1-25, Scopus.
+37
+Pradyumn K. Chaturvedi, Shailendra Jain and Pramod Agarwal, “Switching Losses and Harmonic Investigations in Multilevel Inverters”, IETE Journal of Research, Vol. 54, Issue 4, Jul/Aug 2008, pp. 297-307, Impact Factor 2.333, SCI.

@@ -1,0 +1,408 @@
+SOURCE_URL: https://vnit.ac.in/engineering/meta/dr-ravindra-v-taiwade/
+TITLE: Dr. Ravindra V. Taiwade
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Ravindra V. Taiwade
+Associate Professor
+Brief
+Bio bio
+Name: Ravindra Vasantrao Taiwade
+Designation: Associate Professor
+Department: Metallurgical and Materials Engineering, VNIT, Nagpur
+Additional Responsibility:
+Associate Dean Academic (PG & PhD) – October 2024 – October 2026
+Qualification Details:  PhD (Metallurgical and Materials Engg, VNIT, June 2013), M.Tech. (FAT & ASM, VRCE, December 2000), B.Tech. (Production Engg, Nagpur University, May 1997)
+Teaching Experience: 17 Years (VNIT) + 8 Years [2Y (UGC) and 6Y (Adhoc) Private Engg. Colleges] = Total 25 Years
+Teaching Courses: Mineral Processing Technology (UG-Core), Biomaterials (UG-Elective), High Temperature Corrosion (UG-Elective), Welding and Joining (PG-Elective), Industrial Corrosion (PG Core -Online mode) Transport Phenomena and Mineral Processing Technology (UG- Laboratory Courses)
+Area of Interest: Welding Metallurgy, Mineral processing, Biomaterials, Thin Film Sensors and Acuators, High temperature Oxidation and Corrosion
+Paper published in International Journal (SCI/SCIe): Total 48
+Sponsored Project: Total 6 01(Sponsored by DST-SERB-CRG, 34.86L, status- Completed on 20 January 2025),  01(Sponsored by NPIU-TEQIP Collaborative research scheme, 3.19L, Status-Completed), 01 (Sponsored by Anand Mine Tools, 4.08L, Status- Completed 2019) and 03 more Projects Completed (Sponsored by TEQIP, VNIT, Nagpur)
+Insitute Post Doctoral Fellow : 01 ongoing (March 2026)
+PhD Supervision: Total 10 : 06 Completed, 04 (Ongoing)
+Patent: 01 (Awarded on 22nd November 2021)
+Book Published: 02
+Text book on Advanced Welding Techniques: Current Trends and Future Perspective published by CRC Press, Taylor and Francis, 2024
+Text book on Duplex Stainless Steel-An Industrial Need; A Review, Published by Lambert Academic Publishing, Germany, ISBN-978-3-659-97124-2, 2016
+Book Chapter : 02
+CRC Press, Taylor and Francis, 2024
+M.Tech. Project Guided: Total 22
+B.Tech. Project Guided: Total 22
+STTP Organized on Corrosion Engineering : 01
+Self sponsored 5-day workshop on Advances and Opportunities in Metal Welding & Additive Manufacturing:01
+AICTE-QIP PG Certification Program on “Data Science and Data Analytics for Conventional Engineering”,  Conducted : 24 Weeks Hybrid Mode (1 July 2025  – 1 December 2025)
+Reviewer for International Journal: more than 25 (including corrosion science, Materials and Design, Science and Technology of welding and Joining, Royal Society of Chemistry etc.)
+Laboratory Incharge – Mineral Processing Technology (From 2016)
+Laboratory Incharge – Welding and Joining ( From 2015)
+New Laboratory Developed : Thin Film Deposition (2023)
+AICTE-QIP- VNIT Centre Coordinator :  PG & Ph. D.
+Administrative Activities :    Chairman- Vigilance Cum Academic Disciplinary Action Committee (2023-2025), Co-Chairman – CCMT Admission Committee – 2024
+PG Coordinator for twinning program (VNIT Nagpur and NIT Agartala) 2021-2024
+Professor In-charge (E-Cell), Departmental Coordinator (student mentor-Program), Laboratory In-charge, DEC, UG/PG Admission Committee, Annual report preparation, PG Coordinator, Faculty Advisor, Grade card verification, Stock verification etc. MMES Professor In-charge, Convocation, DPO GATE-JAM Exam, Industrial
+Research
+Interest
+Research Interest
+Corrosion
+Welding
+Mineral Processing
+Sensors and Actuators
+Biomaterials
+Education
+Degree
+Year
+Specialization
+University
+Ph.D.
+2013
+Metallurgical Engineering
+VNIT Nagpur (India)
+M.Tech.
+2001
+Ferro Alloy Technology & Alloy Steel Making
+Visvesvaraya Regional College of Engineering, Nagpur University, Nagpur (India)
+B.E.
+1997
+Production Engineering
+Manoharbhai Patel Institute of Engineering and Technology, Gondia, Nagpur University, Nagpur (India)
+Contact
+Details
+Phone:
+Email:
+Address:
+91-712-2801518 rvtaiwade[at]mme[dot]vnit[dot]ac[dot]in
+Room No. MME-116 (Metallurgy old Building),South Ambazari Road, Nagpur – 440010
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Research Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Tailoring the actuation characteristics of SMA/Polyimide sandwich-structured composite for its viability towards actuator development for MEMS and soft robotic systems.
+DST-SERB (CRG)
+Principal Investigator 2022-2025 completed 34.14L
+Investigations on the influence of laser annealing towards improving fatigue life of Ni Ti/PI bimorph for thin film micro-actuator development,
+TEQIP Collaborative Research Scheme (NPIU)
+Principal Investigator 2019-2020 completed 3.19L
+Design and Analysis on weld joints of Aerofoil in jet blast defector
+Anand Mines Tools Pvt. Ltd. Nagpur
+Principal Investigator 2017-1019 completed 4.08L
+Dissimilar Welding Behavior of Stainless steels using Conventional and Un-conventional Processes
+TEQIP-II, VNIT, Nagpur
+Principal Investigator 2014-2015 completed 0.55L
+Microstructural evolution and mechanical properties estimation of dissimilar weldments
+TEQIP-II, VNIT, Nagpur
+Principal Investigator 2013-2014 completed 0.6L
+Welding behaviour and corrosion resistance of low nickel chrome-manganese stainless steel
+TEQIP-II, VNIT, Nagpur
+Principal Investigator 2012-2013 completed 0.5L
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Consultancy work: Scientific study for Mineral Beneficiation Studies and Recovery Studies of ROM for MOIL Limited: Status Completed (2023-2024).
+MOIL
+Co-cordinator 2023-2024 14.16
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Book on Advanced Welding Techniques
+CRC Press 9781003435884 11 September 2024
+(Current Trends and Future Perspectives)
+Taylor and Fransis group
+Book on Duplex Stainless Steel-An Industrial Need; A Review
+LAMBERT Academic Publishing 9783659971242
+Book Chapter on Additive Manufacturing Integration with Welding
+CRC Press 9781003435884 11 September 2024
+Taylor and Fransis group
+Book Chapter on Welding Scope, Application, and Opportunities
+CRC Press 9781003435884 11 September 2024
+Taylor and Fransis group
+Patent Title
+Application No.
+Date
+Present Staus
+A process of preparation of the etchant 201721012181 A 05/04/2017
+Granted
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Short Term Training Program on Corrosion Engineering(Principle,control & Research)
+MHRD/AICTE
+Department of Metallurgical and materials engineering,VNIT, Nagpur 14-19 Dec, 2009 6 5-day workshop on Advances and Opportunities in Metal Welding & Additive Manufacturing
+Self Sponsored
+Department of Metallurgical and materials engineering,VNIT, Nagpur in collaboration with IIM Nagpur Chapter and VRJSCoE 20-24 February 2023.
+5
+PG Certification Program on “Data Science and Data Analytics for Conventional Engineering”
+AICTE-QIP
+VNIT Nagpur 1 July 2025-1 December 2025 24 weeks  (Hybrid Mode)
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Associate Dean Academic (PG &PhD)
+VNIT
+Dean Academic Office 2024-2026 2
+Member
+VNIT
+Institute Senate 2024-2026 3
+Member
+VNIT
+Institute APPEC committee 2024-2026 4
+Chairman (Nov. 2024- Nov. 2025)
+VNIT
+Vigilance cum academic disciplinary action committee
+Nov. 2023-Nov. 2024 5
+Member Secretary
+VNIT
+Committee for reframing nature of malpractices and prescribed quantum of punishment 2024 6
+Member Secretary
+VNIT
+Committee for review/revise leave policy for PhD scholars 2025 7
+Member Secretary
+VNIT
+Committee for review/revise policy of contingency expenses for PhD scholars 2025 8
+Member
+VNIT
+Review committee for finalization of the draft start-up policy for implementation 2025 9
+Member
+VNIT
+Committee for complaint received from faculty member regarding TA quarter issues 2024 10
+Member Secretary
+VNIT
+Committee for reframing Guidelines, rules and regulations governing PhD (Full time and Part time Programs) 2025 11
+Member Secretary
+VNIT
+Committee for devising a revenue sharing mechanism in respect of online/hybrid M.Tech. programs in the institute 2025 12
+Member Secretary
+VNIT
+Committee to reframe norms for foreign students admissions in study in lndia (SII) and lndian council for cultural Relations (lCCR) quota admissions 13
+Member Secretary
+VNIT
+Preparation of Proposed guidelines  for  M.Tech Hybrid/online programs 2025 14
+Centre coordinator
+VNIT
+Quality improvement program (QIP) VNIT centre (QIP0093) Nagpur 2025 15
+Co-chairman
+VNIT
+Institute spot round PG Admission 2024 16
+Co-Chairman
+VNIT
+CCMT Admission committee 2024 17
+Coordinator
+VNIT
+NIT-Agartala  & VNIT Nagpur Twinning Program (PG) 2021-2024 18
+Coordinator
+VNIT
+Board of Studies Meeting (2016-17) 2017 19
+Laboratory Incharge
+VNIT
+Lab Incharge: Mineral Dressing laboratory 2015-present 20
+Laboratory Incharge
+VNIT
+Lab Incharge: Welding and Joining 2016-presesnt 21
+Laboratory Incharge
+VNIT
+Lab Incharge: Thin film deposition (Lab developed through funding recieved from  DST-SERB-CRG Research project and Plan grant ) 2022-presesnt 22
+Member
+VNIT
+PG Admission Committee member 2017-18 23
+Professor In-charge (E-Cell),
+VNIT
+Entrepreneurship development Cell 2020-2023 24
+Departmental Coordinator
+VNIT student mentor-Program 2019-2021 25 26
+Member
+VNIT
+Faculty Advisor 2016 27
+Member
+VNIT
+Shifting/setting laboratories – New Academic Block – Departmental Coordinator 2016 28
+Member
+VNIT
+UG Admission Committee member 2016-17 29
+Member
+VNIT
+Preparation of Annual Report 2015-16 30
+Member
+VNIT
+NBA Committee member (UG and PG) 2016 31
+Member
+VNIT
+Chairman (Director’s Nominee) – Project Phase –II evaluation – Department of Mechanical Engineering 2016 32
+Member
+VNIT
+Institute gathering : Disciplinary committee 2016 33
+Member
+VNIT
+Teacher Volunteer (Convocation 2015) 2015 34
+Member
+VNIT
+Stock Verification Officer 2015 35
+Prof. Incharge
+VNIT
+Professor in-charge Metallurgical and Materials Engineering Society 2013-14 36
+Member
+VNIT
+Departmental coordinator for distribution of AAKASH Tablets 2013 37
+Member
+VNIT
+Advisory Board Member of Corse conducted on Characterization of materials 2013 by department of MME 2013 38
+Member
+VNIT
+Departmental Examination Coordinator (DEC) 2 times 2012-13 39
+Member
+VNIT
+Organized National Metallurgical Quiz 2012 40
+Member
+VNIT
+GATE-JAM Exam 2012: Deputy Presiding Officer 2012 41
+Member
+VNIT
+PG Coordinator 2011,12,13 42
+Member
+VNIT
+PG Faculty advisor 2011,12,13,14 43
+Member
+VNIT
+PG project co-coordinator 2010-2013 44
+Member
+VNIT
+Member of departmental procurement committee 45
+Member
+VNIT
+Member of departmental procurement committee (TEQIP) 46
+Member
+VNIT
+PG Admission Committee-2011-12 (Centralize) 47
+Coordinator
+VNIT
+Organized visit of UG students to JNARDDC, Nagpur (National research lab) in 2010-11 48
+Member
+VNIT
+Grade Card Verification Officer 49
+Officer
+VNIT
+Stock Verification Officer 50
+Member
+VNIT 12th Convocation Committee  Member  2014 – Digital Transmission/ Live Web cast 51
+Coordinator
+VNIT
+First Year Orientation programme (2014) Coordinator.
+52
+HoD’s Nominee
+VNIT
+Student’s  Council Selection Committee member 2014-15 ( HoD’s Nominee)
+Year
+Award Description 2015
+Best Paper Award BTTD 2015: The final year students – Hitesh Patil, Kalpit Jain, Darshika Gadhawe, Naman Somani and Safal Pachpute of Metallurgical and Materials Engineering Department, VNIT, Nagpur have won second prize and appreciation for their work on “Corrosion behavior of Chrome-Manganese Stainless Steels” at a National Conference under the guidance of Dr. Ravindra Taiwade (Assistant Professor). The event was organized by Indian Institute of Metals (IIM), Jamshedpur Chapter, Tata Steel Limited and CSIR – National Metallurgical Laboratory (NML) held on 9th -10th April 2015 at NML, Jamshedpur.Dr. R.V. Taiwade and his team are in pursuit of finding better industrial and domestic applications of Cr-Mn stainless steels to replace the expensive 300-series grade of stainless steels. Their work has been creditable which won their project great laudation at the National Conference.
+2013
+Best Paper Award TMS 2013: Harshal Agrawal and R.V.Taiwade, “Evaluation of Sensitization and Self-healing Behaviour of AISI 304 Stainless Steel using Electrochemical Techniques”, won the TMS Best Paper Contest-Undergraduate Division-First place. This award will be presented at the TMS 2014 Annual Meeting and Exhibition in San Diego, California. The Minerals, Metals and Materials Society (TMS) headquartered in the United States (U.S.) are a professional Organization for materials scientist and engineers.
+S.No.
+Paper Citation 1
+Taiwade, R. V., S. J. Patre, and A. P. Patil. “Studies on welding and sensitization of chrome–manganese austenitic stainless steel.” Transactions of the Indian Institute of Metals 64, no. 6 (2011): 513-518.
+2
+Taiwade, Ravindra V., Awanikumar P. Patil, Suhas J. Patre, and Ravin K. Dayal. “A comparative study of intergranular corrosion of AISI 304 stainless steel and chrome-manganese austenitic stainless steel.” ISIJ international 52, no. 10 (2012): 1879-1887.
+3
+Taiwade, Ravindra V., Awanikumar P. Patil, Ravindra D. Ghugal, Suhas J. Patre, and Ravin K. Dayal. “Effect of welding passes on heat affected zone and tensile properties of AISI 304 stainless steel and chrome-manganese austenitic stainless steel.” ISIJ international 53, no. 1 (2013): 102-109.
+4
+Taiwade, R. V., A. P. Patil, S. J. Patre, and R. K. Dayal. “Effect of solution annealing on susceptibility to intercrystalline corrosion of stainless steel with 20% Cr and 8% Ni.” Journal of materials engineering and performance 22, no. 6 (2013): 1716-1728.
+5
+Taiwade, R.V., Shukla, R., Vashishtha, H., Ingle, A.V. and Dayal, R.K., 2013. Effect of grain size on degree of sensitization of chrome-manganese stainless steel. ISIJ international, 53(12), pp.2206-2212.
+6
+Vashishtha, Himanshu, Ravindra Vasantrao Taiwade, Rajesh Kisni Khatirkar, Avinash Vijay Ingle, and Ravin Kumar Dayal. “Welding behaviour of low nickel chrome-manganese stainless steel.” ISIJ international 54, no. 6 (2014): 1361-1367.
+7
+Taiwade, Ravindra Vasantrao, Avinash Vijay Ingle, and Rajesh Kisni Khatirkar. “Assessment of Inter-granular Corrosion Susceptibility of 304L Stainless Steel Using Non-destructive Electrochemical Techniques.” ISIJ International 54, no. 8 (2014): 1898-1905.
+8
+Agrawal, Harshal, Pranshu Sharma, Piyush Tiwari, R. V. Taiwade, and R. K. Dayal. “Evaluation of self-healing behaviour of AISI 304 stainless steel.” Transactions of the Indian Institute of Metals 68, no. 4 (2015): 501-511.
+9
+Vashishtha, H., R. V. Taiwade, R. K. Khatirkar, and A. S. Dhoble. “Effect of austenitic fillers on microstructural and mechanical properties of ultra-low nickel austenitic stainless steel.” Science and Technology of Welding and Joining 21, no. 4 (2016): 331-337.
+10
+Verma, Jagesvar, Ravindra Vasantrao Taiwade, Rajesh Kisni Khatirkar, Sanjay G. Sapate, and Ashvin D. Gaikwad. “Microstructure, mechanical and intergranular corrosion behavior of dissimilar DSS 2205 and ASS 316L shielded metal arc welds.” Transactions of the Indian Institute of Metals 70, no. 1 (2017): 225-237.
+11
+Verma, Jagesvar, Ravindra Vasantrao Taiwade, Rajesh Kisni Khatirkar, and Anil Kumar. “A comparative study on the effect of electrode on microstructure and mechanical properties of dissimilar welds of 2205 austeno-ferritic and 316L austenitic stainless steel.” Materials Transactions 57, no. 4 (2016): 494-500.
+12
+Verma, Jagesvar, and Ravindra Vasantrao Taiwade. “Dissimilar welding behavior of 22% Cr series stainless steel with 316L and its corrosion resistance in modified aggressive environment.” Journal of Manufacturing Processes 24 (2016): 1-10.
+13
+Verma, Jagesvar, and Ravindra V. Taiwade. “Effect of austenitic and austeno-ferritic electrodes on 2205 duplex and 316L austenitic stainless steel dissimilar welds.” Journal of Materials Engineering and Performance 25, no. 11 (2016): 4706-4717.
+14
+Verma, Jagesvar, and Ravindra Vasantrao Taiwade. “Effect of welding processes and conditions on the microstructure, mechanical properties and corrosion resistance of duplex stainless steel weldments—A review.” Journal of Manufacturing Processes 25 (2017): 134-152.
+15
+Vashishtha, Himanshu, Ravindra V. Taiwade, Sumitra Sharma, and Awanikumar P. Patil. “Effect of welding processes on microstructural and mechanical properties of dissimilar weldments between conventional austenitic and high nitrogen austenitic stainless steels.” Journal of Manufacturing Processes 25 (2017): 49-59.
+16
+Vashishtha, Himanshu, Ravindra V. Taiwade, and Sumitra Sharma. “Effect of electrodes and post weld solution annealing treatment on microstructures, mechanical properties and corrosion resistance of dissimilar high nitrogen austenitic and conventional austenitic stainless steel weldments.” Materials transactions 58, no. 2 (2017): 182-185.
+17
+Sharma, Sumitra, Ravindra V. Taiwade, and Himanshu Vashishtha. “Effect of continuous and pulsed current gas tungsten arc welding on dissimilar weldments between hastelloy C-276/AISI 321 austenitic stainless steel.” Journal of Materials Engineering and Performance 26, no. 3 (2017): 1146-1157.
+18
+Vashishtha, Himanshu, Ravindra V. Taiwade, and Sumitra Sharma. “Effect of acetic acid on corrosion behavior of AISI 201, 304 and 430 stainless steels.” International Journal of Materials Research 108, no. 5 (2017): 406-415.
+19
+Sharma, Sumitra, Ravindra Vasantrao Taiwade, and Himanshu Vashishtha. “Effect of pulsed current gas tungsten arc process on the dissimilar weldments between nickel-based superalloy/austenitic stainless steel.” ISIJ International 57, no. 6 (2017): 1080-1086.
+20
+Sharma, Sumitra, Ravindra V. Taiwade, and Himanshu Vashishtha. “Investigation on the multi-pass gas tungsten arc welded Bi-metallic combination between nickel-based superalloy and Ti-stabilized austenitic stainless steel.” Journal of Materials Research 32, no. 16 (2017): 3055-3065.
+21
+Verma, Jagesvar, Ravindra V. Taiwade, and Reshma Sonkusare. “Effects of austenitic and duplex electrodes on microstructure, mechanical properties, pitting, and galvanic corrosion resistance of ferritic and dual-phase stainless steel dissimilar joints.” Journal of Materials Research 32, no. 16 (2017): 3066-3077.
+22
+Verma, Jagesvar, Ravindra V. Taiwade, Sanjay G. Sapate, Awanikumar P. Patil, and Ashwinkumar S. Dhoble. “Evaluation of microstructure, mechanical properties and corrosion resistance of friction stir-welded aluminum and magnesium dissimilar alloys.” Journal of Materials Engineering and Performance 26, no. 10 (2017): 4738-4747.
+23
+Verma, Jagesvar, Ravindra Vasantrao Taiwade, Chandraprakash Reddy, and Rajesh K. Khatirkar. “Effect of friction stir welding process parameters on Mg-AZ31B/Al-AA6061 joints.” Materials and Manufacturing Processes 33, no. 3 (2018): 308-314.
+24
+Sharma, Sumitra, Ravindra V. Taiwade, Himanshu Vashishtha, Sudeepta Mukherjee, and Shruti Tiwari. “Consumable selection for pulsed current gas tungsten arc welded bimetallic joints between Super C-276 alloy and Ti-stabilized Grade 321.” Journal of Manufacturing Processes 32 (2018): 32-47.
+25
+Pant, Pallavi, Jagesvar Verma, Ravindra V. Taiwade, and KV Phani Prabhakar. “Influence of advanced laser-arc hybrid welding and conventional MIG process on microstructure, mechanical properties and corrosion resistance of dissimilar joints.” Materials Research Express 5, no. 6 (2018): 066558.
+26
+Verma, Jagesvar, Ravindra V. Taiwade, Ravinder Kataria, and Anil Kumar. “Welding and electrochemical behavior of ferritic AISI 430 and austeno-ferritic UNS 32205 dissimilar welds.” Journal of Manufacturing Processes 34 (2018): 292-302.
+27
+Sharma, Sumitra, Ravindra V. Taiwade, Himanshu Vashishtha, and Sudeepta Mukherjee. “Microstructural characterization, mechanical properties and corrosion behaviour of pulsed current GTA welded bimetallic joints between superalloy C-276 and stabilized austenitic stainless steel grade 321.” Materials Research Express 6, no. 1 (2018): 016532.
+28
+Kumar, Anil, Manoj Kumar Chopkar, Jagesvar Verma, Ravindra V. Taiwade, Vipin Tandon, and Sourabh Shukla. “Effect of filler and autogenous TIG welding on microstructure, mechanical properties and corrosion resistance of nitronic 50 stainless steel.” Materials Research Express 6, no. 2 (2018): 026557.
+29
+Sharma, Sumitra, Ravindra V. Taiwade, and Himanshu Vashishtha. “Influence of filler material composition on the microstructural evolution, mechanical properties and corrosion behaviour of nickel-based super alloy C-276.” Materials Research Express 6, no. 4 (2019): 046505.
+30
+Waghmare, Utkarsh, A. S. Dhoble, Ravindra Taiwade, Jagesvar Verma, and Himanshu Vashishtha. “Prediction of heat affected zone and other mechanical properties of welded joints of HSLA A588-B of jet blast deflector.” World Journal of Engineering 16, no. 4 (2019): 438-444.
+31
+Vashishtha, Himanshu, Ravindra V. Taiwade, Sumitra Sharma, and Ankush S. Marodkar. “Microstructural and mechanical properties evolution of bimetallic Cr-Ni and Cr-Mn-Ni stainless steel joints.” Metallography, Microstructure, and Analysis 8, no. 3 (2019): 359-369.
+32
+Verma, Jagesvar, Ravindra V. Taiwade, Ravinder Kataria, Kanishka Jha, and Vipin Tandon. “Evolution of Metallurgical Phases and Its Co-relation with Mechanical Properties and Corrosion Resistance of 22Cr–5Ni–3Mo and 16Cr–10Ni–2Mo Dissimilar Weldments.” Metallography, Microstructure, and Analysis 8, no. 4 (2019): 506-516.
+33
+Sharma, Sumitra, Ravindra V. Taiwade, Abhishek Yadav, and Himanshu Vashishtha. “Influence of fillers and welding processes on the microstructural evolution, mechanical properties and corrosion behavior of dissimilar Hastelloy C-22/AISI 321 joints.” Materials Research Express 6, no. 9 (2019): 096594.
+34
+Balbande, Sachin, Ravindra V. Taiwade, A. P. Patil, and Ujjawal Pathak. “Cold metal transfer welding of duplex with ferritic and super austenitic stainless steel.” Materials Research Express 6, no. 10 (2019): 106542.
+35
+Pathak, Ujjawal, Ravindra V. Taiwade, and Sachin Balbande. “Weldability of bimetallic butt joint between hastelloy C-276 and advance austenitic stainless steel.” Materials Today: Proceedings 28 (2020): 2547-2550.
+36
+Tandon, Vipin, Manish A. Thombre, Awanikumar P. Patil, Ravindra V. Taiwade, and Himanshu Vashishtha. “Effect of Heat Input on the Microstructural, Mechanical, and Corrosion Properties of Dissimilar Weldment of Conventional Austenitic Stainless Steel and Low-Nickel Stainless Steel.” Metallography, Microstructure, and Analysis 9, no. 5 (2020): 668-677.
+37
+Khond, Vivek W., Ravindra V. Taiwade, Sudarshan Butaley, and Vinod Bhaiswar. “Experimental analysis, modelling of evaporation and ignition characteristics of different biodiesels using RSM.” Materials Today: Proceedings 47 (2021): 2801-2807.
+38
+Raut, Laukik P., and Ravindra V. Taiwade. “Wire Arc additive manufacturing: A comprehensive review and research directions.” Journal of Materials Engineering and Performance 30, no. 7 (2021): 4768-4791.
+39
+Marodkar, Ankush S., Ravindra V. Taiwade, and Himanshu Vashishtha. “Corrosion Behavior of Ni-Based Metallic Coatings Deposited by Thermal Spray Method on Low Nickel Austenitic Stainless Steel.” Journal of Materials Engineering and Performance 31, no. 1 (2022): 64-74.
+40
+Fande, Ashish W., Ravindra V. Taiwade, and Laukik Raut. “Development of activated tungsten inert gas welding and its current status: A review.” Materials and Manufacturing Processes 37, no. 8 (2022): 841-876.
+41
+Fande, Ashish W., Ravindra V. Taiwade, and P. Chandra Sekhar. “Microstructure, Mechanical, and Electrochemical Evaluation of Chrome-Manganese Stainless Steel Activated Tungsten Inert Gas Welded Joint.” Journal of Materials Engineering and Performance (2022): 1-17.
+42
+Raut, Laukik P., and Ravindra V. Taiwade. “Microstructure and Mechanical Properties of Wire Arc Additively Manufactured Bimetallic Structure of Austenitic Stainless Steel and Low Carbon Steel.” Journal of Materials Engineering and Performance (2022): 1-11.
+43
+Fande, Ashish W., and Ravindra V. Taiwade. “Welding of Super Duplex Stainless Steel and Austenitic Stainless Steel: Influence and Role of Bicomponent Fluxes.” Materials and Manufacturing Processes (2022): 1-15.
+44
+Dhiraj Narayane,  Taiwade Ravindra, Khemraj Sahu, “Review on development and performance of shape memory alloy/polyimide thin-film composites”, Materials and Manufacturing Processes, Published 10 July 2022 45
+Fande, A.W., Taiwade, R.V., Narayane, D.C, “Experimental investigation of the flux-assisted TIG weldment of super duplex stainless steel”, Materials Today Proceeding, 2023, 98 46
+Raut, L.P., Taiwade, R.V., Agarwal, A., “Investigation of microstructural and corrosion behavior of 316LSi structure developed by wire arc additive manufacturing”, Materials Today Communications, 2023, 35, 105596 47
+Fande A.W., Taiwade, R.V.  “Welding of Super Duplex Stainless Steel and Austenitic Stainless Steel: Influence and Role of Bicomponent Fluxes”, Materials and Manufacturing Processses, 2022 38(2) 1-15 48
+Narayane, D., Taiwade, R.V. “Tailoring the actuation characteristics of Ni-Ti shape memory alloy/polyimide thin film composites”, Composites Communications, 2025, 53, 102220
+S.No.
+Paper Citation

@@ -9,6 +9,7 @@
 | After step | test_agentic | chunk_ranks: reaches LLM (top 7) | top 3 | top 12 | fact_ranks top 3 | evaluate top 3 |
 |---|---|---|---|---|---|---|
 | 0 (baseline) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
+| 1 (files added, index not rebuilt) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
 
 ## Step 0. Baseline, tag and backups
 
@@ -90,3 +91,50 @@ From `data/processed/answer_check.json` (91/100), answers and traces trimmed.
 - **Sources:** 0
 - **Trace:** A question about VNIT: looking it up. / Topic: fees. / Searched VNIT's pages and documents: 7 passages from 7 sources. / The first search looked weak (best match scored -0.5, below 0); no better-titled page had a relevant passage, so I continued with what it found. / Wrote the answer from the first search; no further lookups were needed. / Checked 5 figure(s): could not find 125, 70, 15, 35 in the sources. / Rewrote the answer after the check. Checked 5 figure(s): could not find 125, 70, 15, 35 in the sources. / I couldn't find this in VNIT's documents, so I've added who to contact.
 
+
+## Step 1. Convert the full crawl into data/raw
+
+New: `pipeline/import_site_crawl.py`; `fetch_utils.html_to_text` split out of `fetch_page` (no change in behaviour: three overlapping pages compared, 100%, 100% and 98% word similarity; the 98% page changed on vnit.ac.in between the crawls).
+
+```
+$ env -u GENAI_API_KEY $PY import_site_crawl.py
+  886  imported
+  484  under 40 words
+  117  already in data/raw
+   74  same text as another page
+   26  personal data
+   18  skipped section (stores, recruitment)
+   14  title: list of people or procurement
+    7  mostly Devanagari
+    2  listing, archive or attachment page
+
+10 imported titles:
+  Dr. (Mrs) S. S. Gadve​ – VNIT Nagpur Applied Mechanics Department
+  Dr. R. V. Uddanwadikar – VNIT Nagpur Mechanical Department
+  Dr. Abhishek Singh
+  Dr. A. S. Dhoble – VNIT Nagpur Mechanical Department
+  Deans
+  PI Orientation Workshop (Online) – VNIT Nagpur – uba
+  Feedback – VNIT Nagpur – Hostel Section
+  Dr. Avinash D. Vasudeo_old – VNIT- CIVIL Engineering
+  Nagpur – VNIT Nagpur – uba
+  Infrastructure – VNIT Nagpur Mechanical Department
+
+10 skipped titles:
+  Research links  [under 40 words]
+  General Information of Institute  [under 40 words]
+  Computing lab | VNIT Nagpur Computer Science Department  [under 40 words]
+  Alumni – VNIT Nagpur – Training & Placement Department  [under 40 words]
+  Contact Us – VNIT Nagpur Applied Mechanics Department  [under 40 words]
+  Faculty – VNIT Nagpur – Hostel Section  [same text as another page]
+  Technical Staff – VNIT Nagpur Mathematics Department  [under 40 words]
+  Institute Support for Travel  [under 40 words]
+  B. Tech – VNIT Nagpur Chemical Engineering Department  [same text as another page]
+  Support from Alumni  [under 40 words]
+```
+
+- Every one of the 886 `site_*.txt` files has the four header lines (SOURCE_URL, TITLE, FETCHED, CRAWL).
+- 15 imported files read by eye: faculty profiles, news posts, hostel pages, department pages. Real content first; no menus or cookie notices. Some sub-sites repeat slider headlines at the top of each page (for example the hostel pages); the 40%-of-pages boilerplate filter was measured (0–7% of words per sub-site, mostly profile headings) and not applied (EXPERIMENTS-LOG §28).
+- test_agentic 54/54; chunk_ranks, fact_ranks, evaluate output identical to the baseline (diffed).
+
+**Done when:** import runs cleanly, every file has the header, counts recorded, tests pass, no-key checks unchanged. **Met.**

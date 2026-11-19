@@ -524,6 +524,34 @@ The counts are now 77 facts, 10 must-decline, 6 conversations and 7 clarify case
 
 Conversations need the AI's rewrite and were not checked this way.
 
+## 28. The website's full crawl, imported into data/raw (Runbook 9, Step 1)
+
+**Why.** The chatbot searched 81 pages of vnit.ac.in (plus documents). The website project crawled every page the site lists (1,628 saved, 19 Nov 2026), so answers that were never in the index may now be there.
+
+**What changed.**
+- `fetch_utils.html_to_text(html)`: the HTML-to-text part of `fetch_page`, moved into its own function with no change in behaviour, so saved HTML is read exactly like fetched HTML. Checked on three pages both crawls hold: the old files and a fresh extraction match word for word on two (5G Lab, T&P) and 98% on the CSE page, whose content changed between the crawls.
+- `import_site_crawl.py` writes each new page as `data/raw/site_<slug>.txt`, with the usual header plus `CRAWL: full-2026-11-19`. Pages already in `data/raw` are left alone.
+
+**Counts** (of 1,628 saved pages):
+
+| | Pages |
+|---|---|
+| Imported | 886 |
+| Already in data/raw (old file kept) | 117 |
+| Under 40 words | 484 |
+| Same text as another page | 74 |
+| Personal data (`looks_like_personal_data`) | 26 |
+| Skipped sections (stores, recruitment) | 18 |
+| Title: list of people or procurement | 14 |
+| Mostly Devanagari | 7 |
+| Listing, archive or attachment page | 2 |
+
+The 484 short pages really are short: the website's own extractor, which reads the content differently, agrees on all but 3. They are mostly picture or link pages.
+
+**Rejected.** The "lines on 40% of a section's pages" boilerplate filter. On the new files the repeated lines are faculty-profile headings ("Administrative Responsibilities", "Sponsored Research Projects"), 0–7% of the words per sub-site, which give a passage its context. No menus or cookie notices dominate any of the 15 files read by eye.
+
+The index is not rebuilt in this step; the no-key checks are identical to the baseline (54/54, 69/77, 15/18, 16/19).
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

@@ -1,0 +1,157 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cvlsi/dr-sanjay-b-dhok/
+TITLE: Dr. Sanjay B. Dhok​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Sanjay B. Dhok​
+Brief Bio
+Brief Bio
+I am currently working in Centre for VLSI and Nanotechnology, VNIT Nagpur. I am working in the field of VLSI Design, Digital Signal processing, Digital Image Processing, Video Compression. My area of interest also includes Wireless Sensor Network and Nanoelectronics.
+Educational Details
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2012
+Electronics Engineering
+Visvesvaraya National Institute of Technology Nagpur 2
+M.Tech 1995
+Electrical Engineering
+Indian Institute of Technology Madras 3
+B.Tech.
+1992
+Electrical Engineering
+Indian Institute of Technology Bombay
+Contact Details
+Name:
+Phone
+Email
+Address
+Dr. Sanjay B. Dhok 91-712-280-1028 sbdhok@cvn.vnit.ac.in
+Research Interests
+Research Interest
+Signal Processing
+Image Processing
+Data Compression
+Wireless Sensor Networks
+VLSI Design
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sponsored Research Projects
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Wireless Body Area Networks: A magnetic Induction Communication Perspective
+International Bilateral Co-operation division(DST India+ MST Thailand)
+Co-PI 2019-2022
+Approximate: Rs. 20Lakh
+Consultancy Projects
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Books or Book Chapter
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Patents
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Energy Dissipation Model based on Magnetic Induction Communication for Non-Conventional Media 201721016878
+Published 2 3D-Imaging based artificial intelligence system for screening of thyroidism 201821031886
+Published
+STTP & Workshop
+Sr. No.
+Title 1
+Advanced Digital Signal Processing & its applications, 5-9 May 2014
+Administrative Responsibilities
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Co-chairman of UG Admission Committee
+VNIT 2012-13 2
+Chairman of UG Admission Committee
+VNIT 2013-14 3
+Departmental Exam Coordinator
+VNIT 2013-15 4
+TEQIP , Departmental Co-coordinator
+VNIT 2013-14 5
+Coordinator for Progress Seminar of PHD students
+VNIT 2013-15 6
+Convener, Transportation & Security Committee Convocation-2016
+VNIT 2016-17 7
+Faculty In-charge Transportation & Local Hospitality Committee, ISSMD-2018 Symposium
+VNIT 2017-18 8
+Faculty In-charge of  Student’s Dance Club
+VNIT 2018-19
+Awards & Honors
+Sr. No.
+Awards
+Journal Publications
+S.No.
+Paper Citation 1
+P. Sahare, J.V. Tembhurne, M.R. Parate, T. Diwan, S.B. Dhok, “Script independent text segmentation of document images using graph network based shortest path scheme”, International Journal of Information Technology, 1-15, 2023 2
+S. Peketi, S.B. Dhok, “Machine Learning Enab, led P300 Classifier for Autism Spectrum Disorder Using Adaptive Signal Decomposition”, Brain Sciences 13 (2), 315, 2023 3
+P. Sahare, J.V. Tembhurne, M.R. Parate, T. Diwan, S.B. Dhok, “Script-Independent Text Segmentation from Document Images”, International Journal of Ambient Computing and Intelligence (IJACI) 13 (1), 1-21, 2022 4
+M Rani, S.B. Dhok, R.B. Deshmukh, P Kumar, “Compressed Signal Classification Using Informed Instance Selection”, IETE Technical Review, vol. 38, no. 2, pp. 206-220, 2021 5
+P Sahare, S.B. Dhok, “Script pattern identification of word images using multi-directional and multi-scalable textures”, Journal of Ambient Intelligence and Humanized Computing, vol. 12, no. 10, pp. 9739-9755, 2021 6
+M. Rani, S.B. Dhok, R.B. Deshmukh, “A Machine Condition Monitoring Framework Using Compressed Signal Processing”, Sensors 20 (1), 319, 2020 7
+V. Kumar, S. Yadav, D.N. Sandeep, S.B. Dhok, R.K. Barik, A.P. Singh, “Optimal Cluster Count and Coverage Analysis in a Gaussian Distributed WSNs Using TESM”, Frontiers in Intelligent Computing: Theory and Applications, 335-345, 2020 8
+A. Kulkarni, V. Kumar, S. Yadav, A.P. Singh, S.B. Dhok, “3D Modelling of Superconductor Enabled Magnetic Induction Transmitter and Relay Coil for Non-conventional Media Communication”, Wireless Personal Communications, 1-27, 2019 9
+R.E. Chaudhari, S.B. Dhok, “An Optimized Approach to Pipelined Architecture for Fast 2D Normalized Cross-Correlation”, Journal of Circuits, Systems and Computers 28 (12), 1950211, 2019 10
+A.L. Prasanna, V. Kumar, S.B. Dhok, “Cooperative Communication and Energy-Harvesting-Enabled Energy-Efficient Design of MI-Based Clustered Nonconventional WSNs”, IEEE Systems Journal, 2019 11
+P. Sahare, S.B. Dhok, “Separation of Machine-Printed and Handwritten Texts in Noisy Documents using Wavelet Transform”, IETE Technical Review 36 (4), 341-361, 2019 12
+S. Yadav, V. Kumar, S.B. Dhok, D.N.K. Jayakody, “Energy-Efficient Design of MI Communication-Based 3-D Non-Conventional WSNs”, IEEE Systems Journal, 2019 13
+P. Sahare, R.E. Chaudhari, S.B. Dhok, “Word level multi-script identification using curvelet transform in log-polar domain”, IETE Journal of Research 65 (3), 410-432, 2019 14
+P Bhoyar, S. B. Dhok, R. B. Deshmukh, “Hardware implementation of secure and lightweight Simeck32/64 cipher for IEEE 802.15. 4 transceiver”, AEU-International Journal of Electronics and Communications 90, 147-154, 2018 15
+M Rani, S. B. Dhok, R. B. Deshmukh, “A systematic review of compressive sensing: Concepts, implementations and applications”, IEEE Access 6, 4875-4894, 2018 16
+S. B. Dhok, R. B. Deshmukh, AG Keskar,  “Efficient fractal image coding using fast Fourier transform”, GSTF Journal on Computing (JoC) vol 1, no. 2, 2018 17
+RE Chaudhari, S. B. Dhok, “An Optimized Approach to Pipelined Architecture for Fast 2D Normalized Cross-Correlation”, Journal of Circuits, Systems and Computers, 1950211, 2019 18
+V Kumar, S Yadav, DN Sandeep, S. B. Dhok, RK Barik, H Dubey, “5g cellular: Concept, research work and enabling technologies”, Advances in Data and Information Sciences, 327-338, 2019 19
+P Sahare, S. B. Dhok, “Separation of Handwritten and Machine-Printed Texts from Noisy Documents Using Contourlet Transform”, Arabian Journal for Science and Engineering, vol. 43, no. 12, pp. 8159-8177, 2018 20
+AV Mire, S. B. Dhok, NJ Mistry, PD Porey, “Automated approach for splicing detection using first digit probability distribution features”, EURASIP Journal on Image and Video Processing 18, 2018 21
+V Kumar, R Bhusari, S. B. Dhok, A Prakash, R Tripathi, S Tiwari, “Design of Magnetic Induction Based Energy-Efficient WSNs for Nonconventional Media Using Multilayer Transmitter-Enabled Novel Energy Model”, IEEE Systems Journal, 1-12, 2018 22
+P Sahare, S. B. Dhok, “Separation of Machine-Printed and Handwritten Texts in Noisy Documents using Wavelet Transform”, IETE Technical Review, 1-21, 2018 23
+P Sahare, S. B. Dhok, “Robust character segmentation and recognition schemes for multilingual indian document Images”, IETE Technical Review, 1-14, 2018 24
+P Sahare, RE Chaudhari, S. B. Dhok, “Word level multi-script identification using curvelet transform in log-polar domain”, IETE Journal of Research, 1-23, 2018 25
+EA Ayele, S. B. Dhok, “Interpolation-free sub-pixel motion estimation using optimal adaptive Kalman filtering technique: a survey”, Journal of Engineering Technology, vol. 6, no.1, pp.194-208, 2018 26
+P Sahare, S. B. Dhok, “Multilingual character segmentation and recognition schemes for Indian document images”, IEEE Access 6, 10603-10617, 2018 27
+Vinay Kumar, Sanjay B. Dhok, Rajeev Tripathi, Sudarshan Tiwari, “Cluster size optimisation with Tunable Elfes sensing model for single and multi-hop wireless sensor networks”, International Journal of Electronics, vol. 104, pp. 312-327, 2017 28
+Eskinder Anteneh Ayele, Sanjay B. Dhok, “Inter-Frame Coding using Motion-Adaptive Sliced Blocks and Elastic Motion Model Techniques: A Survey”, International Journal of Computer Science and Information Security, vol. 15, 2017 29
+Ashish Sharma, Sadanand Yadav, Sandeep Dandu, Vinay Kumar, Joydeep Sengupta, Sanjay B. Dhok, Sudhir Kumar, “Magnetic Induction based Non-Conventional Media Communications: A Review”, IEEE Sensors Journal, vol. 17, pp. 926 – 940, 2016 30
+Ravindra E Chaudhari, Sanjay B. Dhok, “Fractal Video Coding Using Fast Normalized Covariance Based Similarity Measure”, Mathematical Problems in Engineering, vol. 2016, 2016 31
+Vinay Kumar, Kuthadi Gayatri Devi, Sadanand Yadav, Joydeep Sengupta, Sanjay B. Dhok, “Novel Energy Efficient Protocols for Gaussian & Uniform Distributed Heterogeneous Wireless Sensor Networks”, Transactions on Networks and Communications, vol. 4, 2016 32
+Archana Vasant Mire, Sanjay B. Dhok, Naresh J Mistry, Prakash D Porey, “Tampering Localization in Double Compressed Images by Investigating Noise Quantization”, International Journal of Digital Crime and Forensics (IJDCF), vol. 8, pp. 46-62, 2016.
+33
+Parul Sahare, Sanjay B Dhok, , “Review of Text Extraction Algorithms for Scene-text and Document Images”, IETE Technical Review, vol. 33, pp. 1-21, 2016 34
+Archana V. Mire, S.B. Dhok, N.J. Mistry, P.D. Porey, “Factor Histogram based Forgery Localization in Double Compressed JPEG Images”, Procedia Computer Science (Elsevier), vol. 54. 690-696, 2015 35
+Archana V Mire, Sanjay B Dhok, Narendra J Mistry, Prakash D Porey, “Localization of Tampering Created with Facebook Images by Analyzing Block Factor Histogram Voting”, International Journal of Digital Crime and Forensics (IJDCF), vol. 7, no. 4, pp. 33-54, 2015
+Conference Publications
+S.No.
+Paper Citation 1
+M Rani, S. B. Dhok, R. B. Deshmukh, “Compressive Sensing-Based Continuous EEG Monitoring: Seizure Detection Performance Comparison of Different Classifiers”, Advances in VLSI, Communication, and Signal Processing, pp. 459-468, 2021 2
+P. Bhoyar, S.B. Dhok, R.B. Deshmukh, “Hardware Implementation of Simeck Cipher as a Lightweight Hash Function”, Advances in VLSI, Communication, and Signal Processing, 125-131, Allahabad, India, 2020 3
+S. Yadav, V. Kumar, S.B. Dhok, G. Srivastava, A.P. Singh, M.K. Gupta, “BER Performance Evaluation of Different Modulation Techniques for Underwater FSO Communication System”, Advances in VLSI, Communication, and Signal Processing, 3-11, Allahabad, India,2020 4
+M. Rani, S.B. Dhok, R.B. Deshmukh, “EEG Seizure Detection from Compressive Measurements”, Advances in VLSI, Communication, and Signal Processing, 963-969, Allahabad, India,2020 5
+A.L. Prasanna, V. Kumar, S. Yadav, S.B. Dhok, P. Dhule, L. Wuttisittikulkij, “Link Energy Minimization in Magnetic Induction based Non-Conventional WSNs”,  16th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), 10-13 July 2019, Pattaya, Chonburi, Thailand, Thailand

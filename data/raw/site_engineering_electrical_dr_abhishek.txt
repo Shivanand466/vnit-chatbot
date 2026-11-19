@@ -1,0 +1,66 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-abhishek/
+TITLE: Dr. Abhishek Singh
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Abhishek Singh
+Brief Bio
+Dr. Abhishek Singh is an Assistant Professor in the Department of Electrical Engineering at Visvesvaraya National Institute of Technology (VNIT), Nagpur.
+He received his Ph.D. in Power Systems from the Indian Institute of Technology (BHU), Varanasi, in 2025.
+Before joining VNIT Nagpur, he worked with GE Vernova and Landis+Gyr as a Research Scientist, where he contributed to energy management systems, distribution energy resource management, load forecasting, machine-learning-based energy analytics, and optimization of power system applications.
+His research interests include microgrid energy management, active distribution networks, uncertainty modelling, demand response, optimization techniques, renewable energy integration, and resilient power system operation.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+PhD 2025
+Power Systems
+IIT (BHU) Varanasi 2
+M.Tech 2019
+Power Systems
+NIT Kurukshetra 3
+B.Tech 2017
+Electrical Engineering
+JSS Academy of Technical Education
+Contact Details
+Phone:
+Email:
+Address:
+7082522342 abhisheksingh@eee.vnit.ac.in
+Electrical Department VNIT Nagpur
+Research Interest
+Power distribution and transmission system microgrids
+DC microgrids soft computing applications stochastic modeling of power system uncertainties
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Patents
+Book or Book Chapters
+Administrative Responsibilities
+Awards & Honors
+STTP & Workshop
+Journal Publications
+Conference Publications
+Sr No
+Paper Citation
+Kumar, A., Singh, A., Maulik, A., & Chinmaya, K. A. (2025). Multi-market participation of electricity–hydrogen DC microgrid with correlated uncertainties. Energy, 333, 137095.
+Singh, A., & Maulik, A. (2024). Resilience-oriented scheduling of DC microgrid considering participation in the automatic frequency regulation reserves market. Sustainable Energy, Grids and Networks, 40, 101578.
+Singh, A., Kumar, A., & Maulik, A. (2024). DC microgrid operation with hybrid energy storage considering islanding constraints and demand response coordination: A bi-level Stackelberg game approach. Journal of Energy Storage, 102, 113913.
+Singh, A., Kumar, A., Chinmaya, K. A., & Maulik, A. (2024). Optimal operation of an electricity-hydrogen DC microgrid with integrated demand response. Sustainable Energy, Grids and Networks, 39, 101451.
+Singh, A., & Maulik, A. (2023). DC Microgrid energy management with correlated uncertainties. Sustainable Energy, Grids and Networks, 35, 101137.
+Singh, A., Maulik, A., & Maheshwari, A. (2023). Probabilistic multi-objective energy management of a distribution system considering reactive power injection by voltage source converters. Electrical Engineering, 105(4), 2107-2136.
+Singh, A., & Maulik, A. (2023). Energy management of an active distribution network considering correlation between uncertain input variables. Arabian journal for science and engineering, 48(5), 6377-6398.
+Singh, A., & Maulik, A. (2023). A derivative and inversion-free quasi-Newton power flow for a droop-regulated islanded AC microgrid. Iranian Journal of Science and Technology, Transactions of Electrical Engineering, 47(1), 61-78.
+Gupta, S., Maulik, A., Das, D., & Singh, A. (2022). Probabilistic optimal siting and sizing of distributed generation and shunt capacitors considering feeder flow control units using a novel distribution power flow. International Journal of Ambient Energy, 43(1), 8552-8576.
+Gupta, S., Maulik, A., Das, D., & Singh, A. (2022). Coordinated stochastic optimal energy management of grid-connected microgrids considering demand response, plug-in hybrid electric vehicles, and smart transformers. Renewable and Sustainable Energy Reviews, 155, 111861.
+Sr.No
+Paper Citation 1
+Singh, A., & Maulik, A. (2024, June). Resilience Oriented Economic Operation of DC Microgrid with Correlated Uncertainties. In 2024 18th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) (pp. 1-6). IEEE.
+2
+Singh, A., & Maulik, A. (2022, December). Optimal energy procurement scheme of a DC microgrid with demand response participation. In International Conference on Artificial Intelligence Techniques for Electrical Engineering Systems (AITEES 2022) (pp. 61-71). Atlantis Press.
+3
+Singh, A., & Maulik, A. (2022, February). Energy management of distribution network in the presence of smart transformers, soft open points, and battery energy storage system. In 2022 International Conference on Power Energy Systems and Applications (ICoPESA) (pp. 437-442). IEEE.
+4
+Maheshwari, A., Maulik, A., & Singh, A. (2022, February). Probabilistic joint active and reactive power management in an active distribution network. In 2022 International Conference on Power Energy Systems and Applications (ICoPESA) (pp. 351-356). IEEE.

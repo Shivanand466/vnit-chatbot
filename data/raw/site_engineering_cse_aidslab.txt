@@ -1,0 +1,83 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/aidslab/
+TITLE: Artificial Intelligence (AI) and Machine learning (ML) Lab | VNIT Nagpur Computer Science Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Artificial Intelligence (AI) and Machine learning (ML) Lab
+AIML1
+AIML2
+Welcome to our AI and ML Lab, a dedicated hub for leveraging cutting-edge research to address real-world challenges. Our lab actively engages in consultancy and research projects, collaborating with both public and private organizations to develop tailored AI solutions. By applying advanced machine learning techniques and innovative approaches, we address diverse needs across industries, providing impactful results through targeted research initiatives.
+Equipped with a robust computing infrastructure, we train students and researchers to apply their skills in meaningful ways, fostering an AI culture that emphasizes both core and applied research. Alongside structured courses and workshops, our lab enables hands-on experience, guided by seasoned experts, ensuring that every project contributes to advancing knowledge and practical applications in AI.
+Computing Infrastructure
+Product Name
+High End Workstation
+High End Workstation
+High End Workstation
+High End Workstation
+High End Workstation
+High End Workstation
+Model no.
+DELL Precision Tower 7810
+DELL Precision Tower 7810
+ANT PC Cooler Master
+ANT PC Cooler Master
+Dell Precision Tower 7910
+HP Z4 G4
+Make/ Brand
+DELL
+DELL
+AntPC
+AntPC
+Dell
+HP Inc.
+Processor details
+Intel Xeon CPU E5-2698 V3 @2.30 GHz, 32 cores
+Intel Xeon CPU E5-2698 V3 @2.30 GHz, 32 cores
+Intel core i9-9900k CPU @3.60GHz, 16 cores
+Intel core i9-9900k CPU @3.60GHz, 16 cores
+Intel(R) Xeon 2.10 GHz
+Intel(R) Xenon(R) W-2104 CPU@3.20 GHz
+RAM size 64 GB 32 GB 64 GB 64 GB 64 GB 16 GB
+Secondary Storage 1 TB 1 TB 1 TB 1 TB 2 TB 1 TB
+Graphics card details
+NVIDIA Quadro K6000
+NVIDIA Quadro M6000
+NVIDIA Titan RTX / PCIe/SSE2
+NVIDIA Titan RTX / PCIe/SSE2
+Nvidia Quadro M6000
+NVIDIA Quadro P1000
+OS details
+Ubuntu 18.04.1
+Ubuntu 16.04
+Ubuntu 18.04.2
+Ubuntu 18.04.2
+Windows 10 Pro
+Windows 10 Pro
+Purchase Date
+November, 2015
+May, 2016
+May, 2019
+May, 2019
+February 2017
+March , 2019
+Purchase under the Funds
+ISEA Project
+PLAN Grant
+Purchased by Alumni Association
+Purchased by Alumni Association
+DST-SERB
+Project funded by MEITY
+Location
+HPC Lab
+HPC Lab
+Cloud Lab
+Cloud Lab
+Faculty Cabin
+Faculty Cabin
+Faculty In-charge
+Dr. S.R. Sathe
+Dr. S.R. Sathe
+Dr. M. P. Kurhekar
+Dr. M. P. Kurhekar
+Dr. Praveen Kumar
+Dr. Poonam Sharma

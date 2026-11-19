@@ -1,0 +1,36 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/departmental-council/
+TITLE: Departmental Council – VNIT Nagpur Chemical Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Department Student Council
+POST
+NAME OF STUDENT
+Department Representative
+Sangeet Dangi
+Associate Department Representative
+Kumar Priyanshu Jha
+Ladies Department Representative
+Mahak Ambule
+Academic Secretary
+Bhalekar Aniket Suresh
+Treasurer
+Satyam Kumar
+Training and Placement Secretary
+Kousthuv Rana
+Training and Placement Secretary
+Tanishq Borse
+Alumni Secretary
+Mayuresh M. Ughade
+Alumni and Literary Secretary
+Om Sachin Warhatkar
+Technical Secretary
+Ruchit Madhav Sonawane
+Cultural Secretary
+Dhananjay Kumar
+Creative Secretary
+Vidhi Shende
+Creative Secretary
+Himansu Barua
+Sports Secretary
+Prathamesh D. Ingale

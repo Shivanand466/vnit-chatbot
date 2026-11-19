@@ -1,0 +1,10 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/gallery/
+TITLE: Gallery – VNIT Nagpur Electronics and Communication Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+DEPARTMENT GALLERY
+PG Annex
+MAJOR  EQUIPMENTS
+SHORT TERM TRAINING PROGRAM ON EM SPECTRUM MANAGEMENT
+GIAN COURSES 1. Advanced Wireless Communication Technologies: A PHY-layer perspective (12-12-2016 to 17-12-2016) Foreign Faculty: Prof. Theodoros Tsiftsis, Host Faculty: Dr. Prabhat Sharma 2. Fundamentals of Optical Wireless Communication (14-01-2018 to 19-01-2018) Foreign Faculty: Prof. Julian Cheng, Host Faculty: Dr. Prabhat Sharma 3. Advanced Medical Imaging: Wireless Endoscopy Analysis (02-01-2018 to 06-01-2018) Foreign Faculty: Prof. Petia Radeva, Host Faculty: Dr. Deep Gupta 4. Functional Magnetic Resonance Imaging (fMRI): Methods and Applications for Medical Imaging (22-10-2018 to 26-10-2018) Foreign Faculty: Prof. Bharat Biswal, Host Faculty: Dr.V. R. Satpute, Dr. Saugata Sinha

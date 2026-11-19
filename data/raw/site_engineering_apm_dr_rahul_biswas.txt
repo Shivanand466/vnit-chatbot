@@ -1,0 +1,167 @@
+SOURCE_URL: https://vnit.ac.in/engineering/apm/dr-rahul-biswas/
+TITLE: Dr. Rahul Biswas – VNIT Nagpur Applied Mechanics Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Rahul Biswas
+Brief Bio
+Brief Bio
+Dr. Rahul Biswas is an Assistant Professor in the Applied Mechanics Department at Visvesvaraya National Institute of Technology (VNIT) Nagpur. He holds a distinguished academic background, having completed both his M.Tech and Ph.D. in Structural Engineering from the esteemed NIT Patna. His primary research interests center around Concrete Technology and the utilization of Sustainable Materials. Additionally, he is actively involved in exploring the application of Machine Learning in the field of Structural Engineering. His research has contributed significantly to the scholarly community, with publications in international journals, national journals, and presentations at conferences. In recognition of his expertise, He serves as an Academic Editor for two reputable journals, "Advances in Civil Engineering" and "Plos One." His editorial role reflects a commitment to maintaining high standards in academic publications and fostering advancements in Structural Engineering. Furthermore, he actively engages in the peer-review process, contributing as a Reviewer for various international journals such as ASCE, Elsevier, Springer, among others. He is also a lifetime member of the Indian Concrete Institute (ICI).
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.Tech 2014
+Civil Engineering
+WBUT 2
+M.Tech 2016
+Structural Engineering
+NIT Patna 3
+PhD 2021
+Structural Engineering
+NIT Patna
+Contact Details
+Name:
+Phone:
+Email:
+Address:
+Dr. Rahul Biswas Assistant Professor
+Land: 0712-2801904, Mobile: +91-8617821340 rahulbiswas@apm.vnit.ac.in
+Department of Applied Mechanics, VNIT Nagpur, South Ambazari Road, Nagpur, 440010
+Research Area
+Research Interest
+Concrete Technology
+Utilization of Sustainable Materials in concrete
+Ultra High Performance Concrete
+Application of Machine Learning in the field of Structural Engineering
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Research Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Assessment of durability properties of UHPFRC and application of integrated metaheuristic algorithm with Artificial Neural Network for predicting the properties
+DST SERB
+PI 2023 45.5
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Book Chapter
+E. Li, J. Zhou, Rahul Biswas, Z. Ahmed
+Elsevier
+Fragmentation by blasting size prediction using SVR-GOA and SVR-KHA techniques, Applications of Artificial Intelligence in Mining, Geotechnical and Geoengineering 2024
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Faculty Mentor of 2nd year Civil
+VNIT Nagpur
+Monitor Student 2023 2
+Faculty Mentor SMP@VNIT
+VNIT Nagpur
+Monitor Student 2022-2023 3
+Professor In-Charge
+VNIT Nagpur
+Tourism Club 2023-2024
+Sr. No.
+Awards
+S.No.
+Author
+Paper Title
+Journal
+Year 1
+M K Rajak, R Kumar, R Biswas and Sinam Hudson Singh
+Light transmitting concrete – A systematic review of research trends
+Recent Advances in Material, Manufacturing, and Machine Learning, CRC Press 2024
+S.No.
+Author
+Paper Title
+Journal
+Year 1
+D R Kumar, Rahul Biswas, P Samui
+A novel approach for assessment of seismic induced liquefaction susceptibility of soil
+Journal of Earth System Science 2024 2
+A Bardhan, S Kumar, A Kumar, S K Suman, Rahul Biswas
+Compressive Strength Estimation of Manufactured Sand Concrete Using Hybrid ANN Paradigms Constructed with Meta-heuristic Algorithms
+Iranian Journal of Science and Technology, Transactions of Civil Engineering 2024 3
+M. Kumar, Rahul Biswas, D. R. Kumar, . Samui, M R Kaloop, Md Eldessouki
+Soft computing-based prediction models for compressive strength of concrete
+Case Studies in Construction Materials 2023 4
+Rahul Biswas, M Kumar, R K Singh, M Alzara, SBA  Sayed, Md Abdelmongy, A M Yosri, S E A Yousef
+A novel integrated approach of RUNge Kutta optimizer and ANN for estimating compressive strength of self-compacting concrete
+Case Studies in Construction Materials 2023 5
+M, Rahul Biswas, D R Kumar, T Pradeep, P Samui
+Metaheuristic models for the prediction of bearing capacity of pile foundation
+Geomechanics and Engineering 2023 6
+K Khan, Rahul Biswas, J Gudainiyan, Md N Amin, H J Qureshi, A M A Arab, M Iqbal
+PCA-based hybrid intelligence models for estimating the ultimate bearing capacity of axially loaded concrete-filled steel tubes
+Materials 2022 7
+Rahul Biswas M K Rajak, R Kumar
+Vertical Greenery Systems: a comprehensive review
+International Center for Research and Resource Development 2022 8
+Rahul Biswas, E Li, N Zhang, S Kumar, B Rai, J Zhou
+Development of hybrid models using metaheuristic optimization techniques to predict the carbonation depth of fly ash concrete
+Construction and Building Materials 2022 9
+A A Alabdullh, Rahul Biswas, J Gudainiyan, K Khan, A H Bujbarah, Q A Alabdulwahab, Md N Amin, M Iqbal
+Hybrid Ensemble Model for Predicting the Strength of FRP Laminates Bonded to the Concrete
+Polymers 2022 10
+K Khan, M Iqbal, Rahul Biswas, Md N Amin, S Ali, J Gudainiyan, A A Alabdullah, A M A Arab
+A Hybrid SVR-Based Prediction Model for the Interfacial Bond Strength of Externally Bonded FRP Laminates on Grooves with Concrete Prisms
+Polymers 2022 11
+A Bardhan, Rahul Biswas, N Kardani, M Iqbal, P Samui, MP Singh, P G Asteris
+A novel integrated approach of augmented grey wolf optimizer and ANN for estimating axial load carrying-capacity of concrete-filled steel tube columns
+Construction and Building Materials 2022 12
+M Kumar, V Kumar, Rahul Biswas, P Samui, M R Kaloop, M Alzara, A M Yosri
+Hybrid ELM and MARS-based prediction model for bearing capacity of shallow foundation
+Processes 2022 13
+S Prakash, S Kumar, Rahul Biswas, B Rai
+Influence of silica fume and ground granulated blast furnace slag on the engineering properties of ultra-high-performance concrete
+Innovative Infrastructure Solutions 2022 14
+R Biswas, B Rai, P Samui
+Compressive strength prediction model of high-strength concrete with silica fume by destructive and non-destructive technique
+Innovative Infrastructure Solutions 2021 15
+Rahul Biswas, A Bardhan, P Samui, B Rai, S Nayak, D J Armaghani
+Efficient soft computing techniques for the prediction of compressive strength of geopolymer concrete
+Computers and Concrete 2021 16
+S Kumar, B Rai, Rahul Biswas, P Samui, D Kim
+Prediction of rapid chloride permeability of self-compacting concrete using Multivariate Adaptive Regression Spline and Minimax Probability Machine Regression
+Journal of building engineering 2020 17
+Rahul Biswas, B Rai
+Effect of cementing efficiency factor on the mechanical properties of concrete incorporating silica fume
+Journal of Structural Integrity and Maintenance 2020 18
+Rahul Biswas, B Rai, Pb Samui, S S Roy
+Estimating concrete compressive strength using MARS, LSSVM and GP
+Engineering Journal 2019 19
+Rahul Biswas, P Samui, B Rai
+Determination of compressive strength using relevance vector machine and emotional neural network
+Asian Journal of Civil Engineering 2019 20
+Rahul Biswas, B Rai
+Efficiency concepts and models that evaluates the strength of concretes containing different supplementary cementitious materials
+Civil Engineering Journal 2019

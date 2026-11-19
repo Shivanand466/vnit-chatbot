@@ -1,0 +1,261 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/dr-neeraj-rao/
+TITLE: Dr. Neeraj Rao – VNIT Nagpur Electronics and Communication Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Neeraj Rao
+Brief Bio
+Brief Bio
+Neeraj Rao, currently serving as an Assistant Professor at Visvesvaraya National Institute of Technology, Nagpur, earned his Master's degree in 2011 and completed his Ph.D. in 2017, specializing in Microstrip Antenna at PDPM Indian Institute of Information Technology, Jabalpur. Prior to his doctoral studies, he obtained a B.Engg. from Government Engineering College, Jabalpur. His research focuses on Antenna and Non-Destructive Testing Evaluation using electromagnetic waves. Neeraj is keen on exploring novel applications and methodologies to understand the behavior of electromagnetic waves.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2011-2017
+Microstrip Fractal Patch Antenna
+PDPM Indian Institute of Information Technology Design and Manufacturing Jabalpur 2
+Master of Technology 2009-2011
+Microstrip Patch Antenna
+PDPM Indian Institute of Information Technology Design and Manufacturing Jabalpur 3
+Bachelor of Engineering 2005-2009
+Electronics and Communication
+Government Engineering College, Jabalpur
+Contact
+Phone:
+Email:
+Address:
+0712-2801858 neerajrao@ece.vnit.ac.in
+Room No. ECE-115, Department of Electronics and Communication Engineering, Visvesvaraya National Institute of Technology Nagpur, South Ambazari Road, Nagpur 440010, Maharashtra, India
+Research Interest
+Research Interest
+Non Destructive Testing and Evaluation using EM waves
+Characterization of unknown dielectric material
+Design Anaysis of Antennas
+Designing of Artificially designed Substrates like Metamaterial and Electromagnetic Band Gap Structures.
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+E1 2nd  International Conference on Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS-2023) organized on April 05-06, 2023
+E1
+GIAN Course on “Inverse Problems and Signal Processing in Non Destructive Evaluation ” By, Prof. Yiming Deng (Michigan State University ) from November 23 to 27, 2022
+E2
+GIAN Course on “Electromagentic Non Destructive Testing ” By, Prof. Lalita Udpa  (Michigan State University ) from November 18 to 22, 2022
+E3
+TEQIP III sponsored One week Internatinal Symposium on “Metamaterial and Antenna Design for Future Wireless Communication System” from 22/02/2022 to 26/02/2022
+E1 2nd Edition of IEEE India Council International Subsections Conference-2021 (INDISCON) on August 27-29, 2021.
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+IEEE Student Branch Counselor
+VNIT, Nagpur
+Professor In-charge 2024-2025 1
+Hostel Block-01
+VNIT, Nagpur
+Warden 2023-2024 2
+IEEE Student Branch Counselor
+VNIT, Nagpur
+Professor In-charge 2023-2024 3
+UG Project
+VNIT, ECE Dept.
+Coordintor 2023-2024 1
+Hostel Block-01
+VNIT, Nagpur
+Warden 2022-2023 2
+IEEE Student Branch Counselor
+VNIT, Nagpur
+Professor In-charge 2022-2023 3
+Time Table, Coordinator
+VNIT, ECE Dept.
+Coordintor 2022-2023 4
+UG Project
+VNIT, ECE Dept.
+Coordintor 2022-2023 1
+PG Coordinaotor
+VNIT, ECE Dept.
+Coordintor 2021-2022 2
+Time Table, Coordinator
+VNIT, ECE Dept.
+Coordintor 2021-2022 3
+Guidelines for UG/PG Project Evaluation.
+VNIT, ECE Dept.
+Committee Member 2021-2022 4
+Maintenance of the Department.
+VNIT, ECE Dept.
+Coordintor 2021-2022 5
+Teaching Feedback
+VNIT, ECE Dept.
+Coordintor 2020-2021 1
+Guidelines for UG/PG Project Evaluation.
+VNIT, ECE Dept.
+Committee Member 2020-2021 2
+Maintenance of the Department.
+VNIT, ECE Dept.
+Coordintor 2020-2021 3
+Teaching Feedback
+VNIT, ECE Dept.
+Coordintor 2020-2021 4
+Student Mentor Program
+VNIT, ECE Dept.
+Coordintor 2020-2021 5
+Faculty Advisor (2017-2021)
+VNIT, ECE Dept.
+Advisor 2020-2021 1
+Student Mentor Program
+VNIT, ECE Dept.
+Coordintor 2019-2020 2
+Exam Coordinator
+VNIT, ECE Dept.
+Coordintor 2019-2020 3
+Faculty Advisor (2017-2021)
+VNIT, ECE Dept.
+Advisor 2019-2020 1
+Exam Coordinator
+VNIT, ECE Dept.
+Coordintor 2018-2019 2
+Faculty Advisor (2017-2021)
+VNIT, ECE Dept.
+Advisor 2018-2019
+Sr. No.
+Awards
+S.No.
+Paper Citation
+J1
+Fateh Lal Lohar and Neeraj Rao “Half-wave coaxial resonator sensor for coating thickness measurement on carbon fibre reinforced polymer composites,” in Nondestructive Testing and Evaluation, (April 2026): 1-21.    https://doi.org/10.1080/10589759.2026.2662507
+J2
+Anurag Sahu,  Ishika Gangwani,  Arvind Kumar,  Neeraj Rao, “Sequentially Rotated‐Fed Patch Array Antenna for Off‐Body Communication.” Microwave and Optical Technology Letters 67.6 (2025): e70256.,    https://doi.org/10.1002/mop.70256
+J3
+Fateh Lal Lohar, Neeraj Rao, Saptarshi Mukerjee and Lalita Udpa, “SLSR Based Microwave NDT Array Sensor for Surface Cracks Inspection on Coated CFRP Structures,”in IEEE Sensors Journal, vol. 24, no. 15, pp. 24600-24608, 1 Aug.1, 2024,     https://doi.org/10.1109/JSEN.2024.3410949
+J4
+Fateh Lal Lohar, Neeraj Rao, Saptarshi Mukerjee and Lalita Udpa, “Microwave NDT Sensor for Coating Thickness Inspection on CFRP Using TM110 Odd Mode Cavity”.  IEEE Sensors Journal, vol. 24, no. 8, pp. 12312-12321, 15 April15, 2024.      https://doi.org/10.1109/JSEN.2024.3372617
+J5
+Aenagandula, Shankar, Subrata Mukherjee, Neeraj Rao, Yiming Deng “Adaptive segmentation-based evaluation of material properties of dielectric sheets using microwave NDE.” Nondestructive Testing and Evaluation (2023): 1-15.     https://doi.org/10.1080/10589759.2023.2239989
+J6
+Rao Neeraj “Gain Enhancement of Miniaturized Fractal Antenna with Help of Complementary Fractal Lens.” Wireless Personal Communications 123.1 (2022): 229-240.     https://doi.org/10.1007/s11277-021-09128-1
+J7
+Rao Neeraj, Ankit Malik, Rahul Kumar, Shobhit Goel, Dinesh Kumar V.”Novel star-shaped fractal antenna for multiband applications.” International Journal of Microwave and Wireless Technologies 9.2 (2017): 419-425.     https://doi.org/10.1017/S1759078715001592
+J8
+Rao Neeraj and Dinesh Kumar Vishwakarma, “Miniaturization of microstrip patch antenna for satellite communication: A novel fractal geometry approach.” Wireless Personal Communications 97 (2017): 3673-3683.     https://doi.org/10.1007/s11277-017-4691-4
+J9
+Rao Neeraj and Dinesh Kumar Vishwakarma. “Gain enhancement of microstrip patch antenna using Sierpinski fractal-shaped EBG.”International Journal of Microwave and Wireless Technologies 8.6 (2016): 915-919.      https://doi.org/10.1017/S1759078715000458
+J10
+S.No.
+Paper Citation
+C1
+Shankar Aenagandula and Tannu Anand Ramteke and Neeraj Rao “Rectangular Cavity Resonator Sensor for Non-Destructive Measurement of Coating Thickness on FRP Composites” Accepted in INST 35th NDE Conferenence
+C2
+Atharva Joshi, Anoushka Tembhurne, Gaurav Kumar Meena, Vaishnavi Sawsakade, Vedant Bogawar, Neeraj Rao “2D Direction of Arrival Estimation in Ultra-Low SNR of Frequency Modulated Signal Using Space-Time Modulated Metasurface and RCS Optimization Using QEA” Accepted in SPACE-2026
+C3
+Shankar Aenagandula, Rishendar Singh Bondali, Varsha Kotha and Neeraj Rao “Microwave Non-Destructive Thickness Sensing of Thermal Barrier Coatings on CFRP Using an Asymmetric SRR Embedded in a Rectangular Waveguide” Accepted in SPACE-2026
+C4
+Shankar Aenagandula and Tannu Anand Ramteke and Neeraj Rao “Microwave Resonator Sensor for Accurate Non-Destructive Thickness Measurement of Dielectric Coatings on CFRP Structures” Accepted in SPACE-2026
+C5
+Neeraj Rao, Mukundan Vijay, Atharva Joshi, Gaurav Kumar Meena, Mandula Varshitha, Anoushka Tembhurne, Vaishnavi Sawsakade, Mithilesh Mahure ” A Novel Approach for 3D Direction of Arrival (DOA) Estimation using the MUSIC Algorithm and Space Time Modulated Metasurface” Accepted in PCEMS-2025
+C6
+Atharva Joshi, Anjuli Mothe, Mukundan Vijay, Gaurav Kumar Meena, Neeraj Rao  “3D Direction of Arrival Estimation in Ultra-Low SNR of Frequency Modulated Signal Using Space-Time Modulated Metasurface.” 2025 IEEE Space, Aerospace and Defence Conference (SPACE), Bangalore, India, 2025, pp. 1-4.    https://doi.org/10.1109/SPACE65882.2025.11170629
+C7
+Jeevesh Pathak, Khushi Chaourasia, Arvind Kumar, Neeraj Rao, A. S. Gandhi “QMSIW-Based Slot Antenna for Tumor Sensing Applications in Breast Phantoms” 2025 IEEE Wireless Antenna and Microwave Symposium (WAMS), Chennai, India, 2025, pp. 1-5,     https://doi.org/10.1109/WAMS64402.2025.11158963
+C8
+Anjuli Mothe, Mukundan Vijay, Neeraj Rao, Arvind Kumar, “Space-Time Modulated Metasurface with 1 bit controllable unit cell for 3D DOA estimation”  2025 IEEE Wireless Antenna and Microwave Symposium (WAMS), Chennai, India, 2025, pp. 1-4,    https://doi.org/10.1109/WAMS64402.2025.11158519
+C9
+Anurag Sahu, Ishika Gangwani, Utkarsh Gaikwad, Arvind Kumar and Neeraj Rao “Sequentially Rotated-fed Patch Array Antenna for Off-Body Communication”  IEEE Wireless, Antenna & Microwave Symposium (WAMS 2025) June 5-8, 2025, Organized by Indian Institute of Information Technology, Design and Manufacturing Kancheepuram, Chennai (ACCEPTED)
+C10
+Vedang Hatekar, Grandhi Venkata Padmavathi, Aditya Kakade, Mukundan Vijay, Anjuli Mothe and Neeraj Rao “Directivity and Gain Enhancement of a Coaxial-Fed Rectangular Patch Antenna using Multi-Layer Metamaterial Superstrate”  2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI). Vol. 3. IEEE, 2025.    https://doi.org/10.1109/IATMSI64286.2025.10984489
+C11
+Fateh Lohar, Shankar Aenagandula, Neeraj Rao, “Design of a Wireless Antenna Sensor with Resonator Array for Real-Time Structural Health Monitoring”  34th Annual Conference and Exhibition on Non Destructive Evaluation and Enabling Technologies, Dec. 12-14 Chennai.  (ACCEPTED)
+C12
+Shankar Aenagandula, Shalaka, Neeraj Rao, Udit Jain”Microwave Non-Destructive Evaluation of Bituminous Concrete (BC) Pavement Layer Using Machine Learning”  34th Annual Conference and Exhibition on Non Destructive Evaluation and Enabling Technologies, Dec. 12-14 Chennai.  (ACCEPTED)
+C13
+Aenagandula, Shankar, and Neeraj Rao. “Permittivity Evaluation Based Algorithm for Detecting Optimal Thickness Range of Composite Materials at Microwave Frequencies.” International Conference on Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing. Cham: Springer Nature Switzerland, 2024.    https://doi.org/10.1007/978-3-031-90577-3_14
+C14
+Fateh Lohar, Neeraj Rao “Design of Microwave Sensor for CFRP Coating Thickness Measurement Using Odd Mode Electric Coupling Cavity Aperture”, 2024 IEEE Space, Aerospace and Defence Conference (SPACE). IEEE, 2024.    https://doi.org/10.1109/SPACE63117.2024.10668061
+C15
+Vedang Hatekar, Padmavati, Neeraj Rao “Improving Absorption and Negative Refractive Index Range of a Metamaterial Unit Cell Through Layering”, 2024 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT) 2024 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT). IEEE, 2024.    https://doi.org/10.1109/CONECCT62155.2024.10677105
+C16
+Fateh Lohar, Rao Neeraj ,“ Real time Structural Surface Cracks Monitoring Using SRSR-Based Microwave Sensor” 2023 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON). IEEE, 2023.      https://doi.org/10.1109/MAPCON58678.2023.10463785
+C17
+Rao Neeraj ,“A Novel Parallelogram Shaped Microstrip Fractal Antenna For Home Automation using Smart Grid” 2023 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON). IEEE, 2023.      https://doi.org/10.1109/MAPCON58678.2023.10463797
+C18
+Sibam Parida, Vignesh Srinivas, Bhavishya Jain, Rajesh Naik and Neeraj Rao, “Survey on Diverse Image Inpainting using Diffusion Models.” 2023 2nd International Conference on Paradigm Shifts in Communications Embedded Systems, Machine Learning and Signal Processing (PCEMS). IEEE, 2023.      https://doi.org/10.1109/PCEMS58491.2023.10136091
+C19
+Rao Neeraj, “Modified Sierpinski and its use in Fractal Patch Antenna for Miniaturization and Multiband Behavior.” 2022 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON). IEEE, 2022.     https://doi.org/10.1109/MAPCON56011.2022.10047750
+C20
+Rekhawar  Nilakshi, Yogesh Govindani  and Neeraj Rao.,”Deep Learning based Detection, Segmentation and Vision based Pose Estimation of Staircase.” 2022 1st International Conference on the Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS). IEEE, 2022.     https://doi.org/10.1109/PCEMS55161.2022.9807915
+C21
+Kadam Pallavi, Pachava Manikanta and Neeraj Rao, “Metasurface based microstrip patch antenna at 11GHz frequency for enhanced gain and directivity.” 2022 1st International Conference on the Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS). IEEE, 2022.     https://doi.org/10.1109/PCEMS55161.2022.9807891
+C22
+Palekar Shubhangi and Neeraj Rao “Miniaturization and Gain Enhancement of Rectangular Patch Antenna Using CSRR.” Optical and Wireless Technologies: Proceedings of OWT 2020. Springer Singapore, 2022.     https://doi.org/10.1007/978-981-16-2818-4_30
+C23
+Priyanka, Gedam, and Neeraj Rao, “Simplified Formulation for Calculation of Thickness of a Single Layered Dielectric Material using an Open-Ended Rectangular Waveguide.” 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT). IEEE, 2021.     https://doi.org/10.1109/ICCCNT51525.2021.9579802
+C24
+Hrishikesh Ugale, Pushpak Patil,  Shubham Chouhan and  Neeraj Rao, “Road Analytics for Transportation Systems using Smartphone Application.” 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT). IEEE, 2021.     https://doi.org/10.1109/ICCCNT51525.2021.9580049
+C25
+Hrishikesh Ugale, Pushpak Patil,  Shubham Chouhan and  Neeraj Rao, “Modeling and Simulation of Vehicular Traffic at Intersection of Roads.” 2021 10th  IEEE International Conference on Communication Systems and Network Technologies (CSNT). IEEE, 2021.     https://doi.org/10.1109/CSNT51715.2021.9509721
+C26
+Hrishikesh Ugale, Pushpak Patil,  Shubham Chouhan and  Neeraj Rao, “IoT System for Sensing Condition of Roads Using IMU Sensors.” 2021 2nd International Conference on Secure Cyber Computing and Communications (ICSCCC). IEEE, 2021.     https://doi.org/10.1109/ICSCCC51823.2021.9478080
+C27
+Shreyash Shirbhate, Bhukya Akshara Rathod, Saka Nagarjuna and  Neeraj Rao, “  Assistive Outdoor Navigation Application for Visually Impaired.” National Conference on Advancements in Mechanical, Electronics and Electrical Engineering (AMEEE-2021.)
+C28
+Hrishikesh Ugale, Pushpak Patil,  Shubham Chouhan and  Neeraj Rao, “Design of intelligent transportation system for smart city.”Internet of Things and Its Applications: Select Proceedings of ICIA 2020. Singapore: Springer Nature Singapore, 2022. 157-167.     https://doi.org/10.1007/978-981-16-7637-6_15
+C29
+Nete Himanshu, Tornekar Rohit, and Neeraj Rao,  “Miniaturization of MIMO Antenna With SRR and Chamfered Edge.” Proceedings of the International Conference on Advances in Electronics, Electrical & Computational Intelligence (ICAEEC). 2019.     https://dx.doi.org/10.2139/ssrn.3576334
+C30
+Rao Neeraj and Kumar V. Dinesh. “Multiband Smith-Apollonian Gasket fractal antenna for ITS, WiMAX, STM and satellite communication.” 2015 Loughborough Antennas & Propagation Conference (LAPC). IEEE, 2015.     https://doi.org/10.1109/LAPC.2015.7366116
+C31
+Rao Neeraj and Kumar V. Dinesh. “Fractal slots on circular patch inspired by Smith Chart for GSM, Radar, WLAN, and ITS application.” 2015 Loughborough Antennas & Propagation Conference (LAPC). IEEE, 2015.     https://doi.org/10.1109/LAPC.2015.7365991
+C32
+Rao Neeraj and Kumar V. Dinesh, “Gain enhancement of microstrip patch antenna for Wi-Fi applications.” 2014 Loughborough Antennas and Propagation Conference (LAPC). IEEE, 2014.     https://doi.org/10.1109/LAPC.2014.6996384
+C33
+Rao Neeraj and Kumar V. Dinesh, “Modified Sierpinski fractal patch antenna.” 2014 Loughborough Antennas and Propagation Conference (LAPC). IEEE, 2014.     https://doi.org/10.1109/LAPC.2014.6996454
+C34
+Rao Neeraj and Kumar V. Dinesh, “Investigation of a microstrip patch antenna with EBG structures using FDTD method.” 2011 IEEE Recent Advances in Intelligent Computational Systems. IEEE, 2011.     https://doi.org/10.1109/RAICS.2011.6069329
+C35
+Rao Neeraj and Kumar V. Dinesh. “Performance enhancement of a microstrip antenna by suppression of surface waves using EBG structure in multiple layer substrate.” 2011 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications. IEEE, 2011.     https://doi.org/10.1109/APWC.2011.6046819
+C36
+Rao Neeraj and V. Dinesh Kumar. “Gain and bandwidth enhancement of a microstrip antenna using partial substrate removal in multiple-layer dielectric substrate.” Progress In Electromagnetics Research Symposium Proceedings, Suzhou, China. 2011.
+C37
+C38
+C39
+C40
+C41
+C42
+C43
+C44
+C45
+C46
+C47
+C48

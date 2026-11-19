@@ -1,0 +1,106 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/assignment-on-multithreaded-webserver/
+TITLE: Assignment on multithreaded webserver | VNIT Nagpur Computer Science Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Assignment on multithreaded webserver
+Problem statement
+: Develop a basic multithreaded webserver (where multiple threads process multiple client requests simultaneously) with support for different scheduling policies for the client requests.
+To keep this assignment within the scope of OS course, we will be providing a basic webserver code (without multithreading) with this assignment. This basic webserver code is a slightly modified version of Prof. Remzi’s concurrent webserver project ( https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/concurrency-webserver
+). You can execute this code and get a feel of how it works (execution instructions are provided in section 3.1). However, you won’t have to modify this code; you’ll have to modify a single file from the provided template. This template is specifically designed to make sure that you’ll only need to work on the OS concepts rather than worrying about the socket programming or managing the project with multiple files.
+You’ll have to modify only a single file from the template (request.c) and submit only that one file in gradescope
+. Do remember to strictly follow the instruction given in section 3 (implementation details) while modifying the code. Please go through below sections for the assignment details.
+Basic code and Testing resources (click to download)
+Basic webserver code
+The provided code has a web server and a web client (similar to a web browser). The web server and the web client interact using HTTP (Hypertext Transfer Protocol). Web client opens a connection to a web server and requests some content with HTTP. The web server responds with the requested content and closes the connection. The web client then reads the content and displays it on the screen. You can even use any web browser instead of the provided web client and it shall work fine for http requests.
+The content supported by the webserver is restricted only to static content, in which a client sends a request just to read a specific file from the server. To keep things simple, requests for dynamic content (such as output of an executable file) is not included in this assignment. But if you are interested in learning how dynamic content is handled, you may explore the original code of Prof. Remzi’s concurrent webserver project.
+Each file on the server has a unique name known as URL (Universal Resource Locator) that is specified by user in a web client. For example, ‘http://localhost:8003/test1.html’. This URL denotes that HTTP protocol is to be used to fetch the file ‘/test1.html’ from the server that resides on the host machine ‘localhost’ and is accepting connections on port ‘8003’. Here, ‘localhost’ can be replaced by an ip address (like 173.194.217.102) or a domain name (like google.com) depending on the server we want to connect to, and the port can be omitted if the server is accepting connections on the default HTTP port (80). Please note that you may use this URL from any web browser on your machine, but not with the provided web client. The input format of the web client is slightly different (refer to section 3.1 for details).
+The exact format of the content request from web client and the response from web server are out of the scope of this assignment. However, do note that the request handled by our web server uses the method ‘GET’ (as you can see from the provided code) and any other methods (e.g., POST) are not supported. Again, any interested student may refer to Prof. Remzi’s concurrent webserver project for other details regarding the HTTP request and response.
+Assignment problem statements
+In this assignment, you will need to modify the ‘request.c’ file from the provided template to add three pieces of functionality as explained below.
+2.1 Multi-threaded server
+The basic web server that we provided is a single threaded server (i.e. with main thread only, it does not spawn any new threads). So it suffers from the basic performance bottleneck issue as it can process only a single HTTP request at a time. Hence making this server multi-threaded is almost mandatory to make it a more complete web server.
+The simplest approach to building a multi-threaded server is to spawn a new thread for every new HTTP request and the OS can schedule these threads according to its policy. However, the drawback of the one-thread-per-request approach is that the web server pays the overhead of creating a new thread on every request. Therefore, the generally preferred approach for a multi-threaded server is to create a fixed-size pool of worker threads when the web server is started. This pool of worker threads is created by the main thread and the size of the thread-pool will be accepted from the command line while starting the server. Each worker thread is blocked until there is an HTTP request for it to handle. Similar to single-threaded server, the HTTP requests are still accepted by the main thread, but it puts those requests in a buffer (preferably a queue) and returns to accepting more requests. The waiting worker threads will pick those requests from the buffer. Note that the master thread will not read the actual requested files, but it can do some initial processing like getting size of the requested file (that may be required for scheduling).
+Here, you may have noticed that the main thread and worker threads are in producer-consumer relationship; hence their access to the shared buffer should be carefully synchronized. Also, the worker threads must be blocked if the buffer is empty. Also, there should be a maximum bound to the number of elements in the queue (which will also be accepted from the command line while starting the server). The main thread (which is accepting the HTTP requests) should be blocked when the buffer is full.
+To achieve the correct synchronization, you will need to use mutex and condition variables only. Do not use any other method.
+Also, there will be penalty for implementations with spin-waiting/busy-waiting.
+2.2 Scheduling policies
+The scheduling policy implemented by you will determine which HTTP request will be handled by the next thread (and
+NOT which thread will be scheduled at a given time – as that will be handled by the OS). You will need to implement two scheduling policies for the HTTP requests, as explained below.
+First-in-first-out (FIFO):
+In this policy, the HTTP requests will be handled on the first come first serve basis. Note that the HTTP requests will not necessarily finish in FIFO order, as it depends upon how the OS schedules the active threads.
+Smallest-file-first (SFF):
+In this policy, when a worker thread wakes, it handles the request for the smallest file. This policy approximates Shortest Job First to the extent that the size of the file is a good prediction of how long it takes to service that request. You will also note that the SFF policy requires that something be known about each request (e.g., the size of the file) before the requests can be scheduled. Thus, to support this scheduling policy, you will need to do some initial processing of the request (hint: using stat() on the filename) outside of the worker threads; you will probably want the master thread to perform this work, which requires that it read from the network descriptor. To implement this, you’ll need to carefully manage add and delete operations on your buffer.
+2.3 Security
+Your system should make sure to constrain file requests to stay within the sub-tree of the file system hierarchy, rooted at the base working directory that the server starts in. You must take steps to ensure that pathnames that are passed in do not refer to files outside of this sub-tree. One simple (perhaps overly conservative) way to do this is to reject any pathname with ‘..’ in it, thus avoiding any traversals up the file system tree. More sophisticated solutions could use chroot() or Linux containers, but those are beyond the scope of this assignment.
+Implementation details
+Below subsections describe the code file details and the code modification details that you’ll have to follow.
+Details of the code files wserver.c
+: Contains main() for the web server and the basic serving loop.
+request.c
+: Performs most of the work for handling requests in the basic web server. Start at request_handle() and work through the logic from there.
+io_helper.h and io_helper.c
+: Contains wrapper functions for the system calls invoked by the basic web server and web client. The convention is to add _or_die to an existing call to provide a version that either succeeds or exits. For example, the open() system call is used to open a file, but can fail for a number of reasons. The wrapper, open_or_die(), either successfully opens a file or exists (while printing the error message) upon failure.
+wclient.c
+: Contains main() and the support routines for the very simple web client. To test if your server correctly handles concurrent requests as per the defined scheduling policy, you can launch wclient multiple times using a bash file and check the output (make sure your multiple requests are parallel, not sequential).
+Makefile
+: We also provide you with a Makefile that can be used to create the executable files from the code (wserver and wclient). You can type “make” to create all of these programs. You can type “make clean” to remove the object files and the executables. You can type “make server” to create just the server program, etc.
+After the compilation, you can use the format of the example commands given below to start the server and test with client.
+Please do not copy-paste these commands
+(instead type those) as the difference in ASCII values of characters in the commands may cause issues.
+./wserver -d ~/myServer –p 8003
+./wclient localhost 8003 /test1.html
+Code modification details
+We recommend you to go through all the code files to understand how the server works. But if in case you are finding the flow too complicated, you may read the comments in the files ‘wserver.c and request.c’ from the template and it should be easy enough to understand your tasks. Make sure you thoroughly understand at least these two files before starting to write the code. If some of you are still not able to understand, we’ll have a session to answer you queries and clear your doubts.
+Again, note that you will have to modify only the ‘request.c’ file and submit that in gradescope
+.
+The main server file (wserver.c) from the template accepts various arguments from the command line (while starting the server). Your code must correctly use these arguments. Refer below for the details of those arguments.
+./wserver [-d basedir] [-p port] [-t threads] [-b buffers] [-s schedalg] basedir:
+this is the root directory from which the web server should operate. The server should try to ensure that file accesses do not access files above this directory in the file-system hierarchy. Default: current working directory (.).
+port:
+the port number that the web server should listen on; the basic web server already handles this argument. Default: 10000.
+threads:
+the number of worker threads that should be created within the web server. Must be a positive integer. Default: 4.
+buffers:
+the number of request connections that can be added to the buffer at one time (must be a positive integer). Default: 64.
+schedalg:
+the scheduling algorithm to be performed. Uses integer values 0 (for FIFO) and 1 (for SFF). Default: 0.
+Finally, add functionalities step-by-step to your code. For example, you may want to start implementing a simple FIFO based multi-threaded server with no upper limit to buffer size, then add the upper limit to buffer size, then add support for SFF, then the security part. Also make sure to keep a backup of your working code versions. If you have any doubts, you can reach out to us.
+Important note
+:
+Add proper comments for every change that you make in the code and follow proper code indentation. As this assignment will be evaluated without your physical presence, it is your responsibility to make your code readable and avoid unnecessarily complex flows as lack of readability and clarity in understanding will ultimately cost marks. For this assignment too, we will try to autograde most part of the assignment along with code similarity check.
+Submission instructions
+Due to the nature of this assignment, there will be
+NO autograding for this assignment, we will manually grade your code.
+For this assignment, you will have to record a video that demonstrates the execution of your code (refer to section 3 (grading scheme) for the test cases that you need to include in video) and also explain your code in short. Note that proper indentation and comments in the code are still mandatory.
+To create the video, you may either use screen recording software from your laptop or record with a video camera/smartphone.
+Preferably, the video should be of 5-7 minutes length, but not exceeding 10 minutes in any case. Keep your video precise and avoid any unnecessarily long explanations. Videos exceeding 10 minutes will get a penalty of 2 marks.
+For this assignment as well, the submissions will be made through GradeScope. You can submit your code file (request.c) and video file (YourEnrollmentNumber.mp4) directly to your GradeScope account.
+If you are not able to upload your video file to GradeScope for some reason, then you may upload it to your drive and share a link on GradeScope. You can paste that link in a text file (with name – YourEnrollmentNumber.txt) and upload that text file to GradeScope along with your code.
+After the due date, we’ll use your videos and read your code to grade your submission.
+The submissions will open on 19 th
+Oct – 8AM and the submission deadline is 09 th
+Nov – 6PM. However, late submissions will be allowed till 09 th
+Nov – 11PM with a penalty of 3 marks. You should ensure that you start the submission process well in advance to avoid any delay due to any last minute technical glitches. No excuses will be entertained this time. Double check the code that you are submitting as mistakes done in previous assignment submission such as “wrong file uploaded by mistake” etc. will also not be entertained.
+For all the submissions (request.c), code similarity will be checked and appropriate action will be taken on highly similar codes. Note that the provided template code will be excluded from the similarity check.
+Important instructions regarding server console log and response
+In the code template provided to you, the server prints ‘method, uri and HTTP version’ when it receives a request from client. In addition to this, you have to print a message when the server adds a request to the buffer and when a worker thread removes the request from buffer (i.e. when a worker thread serves that request). You must include the requested filename in that message. Follow below formats while printing the message.
+printf(“Request for %s is added to the buffer.\n”, filename);
+printf(“Request for %s is removed from the buffer.\n”, filename);
+In case of the requests that require traversing up in the filesystem (i.e. requests with ‘..’ in the filepath), the server should send back a response similar to the response for files that the server cannot read (i.e. with error 403), but with the new error message saying “Traversing up in filesystem is not allowed”.
+Grading scheme
+The total weightage of the assignment is 15 marks. Your video should cover below test cases. For every test case, show the server console log as well as client side output.
+A single request for the file which is present on the server.
+A single request for the file which is
+NOT present on the server.
+Multiple requests (for multiple files) with server started with FIFO scheduling.
+Multiple requests (for multiple files) with server started with SFF scheduling.
+A single request for the file that include traversing up the filesystem.
+For testing multiple requests, you may use the test files and a bash file (to launch multiple requests at the same time) provided with this document (‘testing resources’).
+Or else, you can also use any other suitable method if you want to. To use the provided testing resources, you may copy-paste the given folder (files) and the bash file (multiple_clients.bash) in the root directory of the webserver (
+NOT the root directory of the system), keep the executable ‘wclient’ in the same directory and run the bash file from there.
+IMP Note
+: We may perform any additional testing on your code if required. Also, there will be marks reserved for optimized use of mutex, condition variables, and operations on the buffer.
+Negative marking – 2 marks penalty for explanation videos exceeding 10 minutes of length.
+3 marks penalty for late submissions.
+If we find it difficult to perform manual grading for badly written code (either no indentation or no comments or unnecessarily complex) some marks will be deducted for that.

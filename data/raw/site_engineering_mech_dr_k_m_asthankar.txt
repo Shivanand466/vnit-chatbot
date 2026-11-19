@@ -1,0 +1,92 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-k-m-asthankar/
+TITLE: Dr. K. M. Asthankar – VNIT Nagpur Mechanical Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. K. M. Asthankar
+Brief Bio
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2014
+Rapid Manufacturing
+VNIT, Nagpur 2
+M. Tech.
+2004
+Industrial Engineering
+VNIT, Nagpur 3
+B.E.
+1999
+Mechanical Engineering
+Nagpur University
+Contact
+Phone:
+Email:
+Address:
+7122801440 kmashtankar@mec.vnit.ac.in
+Qtr. No. 64, VNIT, Nagpur
+Research Interest
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year
+Sr. No.
+Awards
+S.No.
+Paper Citation 1
+Mahesh S. Shinde and Kishor M. Ashtankar, Cycle time reduction in injection molding by using milled groove conformal cooling, Computers, Materials & Continua (CMC), Vol.53, No.3, PP.207-217, 2017 2
+Mahesh S. Shinde and Kishor M. Ashtankar, Effect of Different Shapes of Conformal cooling Channels on the parameters of Injection Molding, Computers, Materials & Continua (CMC), Vol.54, No.3, PP.287-306, 2018 3
+Mahesh S. Shinde and Kishor M. Ashtankar, Additive manufacturing assisted conformal cooling channels in mold manufacturing process, Adances in Mechanical Engineering, vol. 9(5), 2017, PP 1-14 4
+Mahesh S. Shinde, Kishor M. Ashtankar, et, al,. Direct rapid manufacturing of molds with conformal cooling channels, Rapid Prototyping Journal, RPJ-12-2016-0199, ISSN No. 1355-2546 5
+Ashwini M. Ramteke and Kishor M. Ashtankar, Sacrificial Support Fixture Optimization for CNC Rapid Machining: For Medical Part with thin ends, transactions of FAMENA XLIII-3, 2019, PP. 65-82 6
+Ashwini M. Ramteke and Kishor M. Ashtankar, Finite Element Analysis Study for Machining Parameters using CNC-RP Machining of Hip Joint Part with Innovative Sacrificial Support Structure as a Fixture , Journal of Engineering Technology, Vol.7, 2018, PP. 337-359 7
+Ashwini M. Ramteke and Kishor M. Ashtankar, Sacrificial Support Fixture Designed for CNC Rapid Prototyping for Machining Intricate Parts- A Review, Journal of Engineering Technology, Vol and Issue-1, Jan 2019, PP. 461-477 8
+D. S. Ingole, Kishor M. Ashtankr et,al, Build orientation analysis for minimum cost determination in FDM, Journal of engineering manfacture, Vol 225, 2011
+S.No.
+Paper Citation 1
+Mahesh S. Shinde and Kishor M. Ashtankar, Cycle time reduction in injection molding by using milled groove conformal cooling, Computers, Materials & Continua (CMC), Vol.53, No.3, PP.207-217, 2017 2
+Mahesh S. Shinde and Kishor M. Ashtankar, Effect of Different Shapes of Conformal cooling Channels on the parameters of Injection Molding, Computers, Materials & Continua (CMC), Vol.54, No.3, PP.287-306, 2018 3
+Mahesh S. Shinde and Kishor M. Ashtankar, Additive manufacturing assisted conformal cooling channels in mold manufacturing process, Adances in Mechanical Engineering, vol. 9(5), 2017, PP 1-14 4
+Mahesh S. Shinde, Kishor M. Ashtankar, et, al,. Direct rapid manufacturing of molds with conformal cooling channels, Rapid Prototyping Journal, RPJ-12-2016-0199, ISSN No. 1355-2546 5
+Ashwini M. Ramteke and Kishor M. Ashtankar, Sacrificial Support Fixture Optimization for CNC Rapid Machining: For Medical Part with thin ends, transactions of FAMENA XLIII-3, 2019, PP. 65-82 6
+Ashwini M. Ramteke and Kishor M. Ashtankar, Finite Element Analysis Study for Machining Parameters using CNC-RP Machining of Hip Joint Part with Innovative Sacrificial Support Structure as a Fixture , Journal of Engineering Technology, Vol.7, 2018, PP. 337-359 7
+Ashwini M. Ramteke and Kishor M. Ashtankar, Sacrificial Support Fixture Designed for CNC Rapid Prototyping for Machining Intricate Parts- A Review, Journal of Engineering Technology, Vol and Issue-1, Jan 2019, PP. 461-477 8
+D. S. Ingole, Kishor M. Ashtankr et,al, Build orientation analysis for minimum cost determination in FDM, Journal of engineering manfacture, Vol 225, 2011

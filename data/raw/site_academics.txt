@@ -1,0 +1,8 @@
+SOURCE_URL: https://vnit.ac.in/academics/
+TITLE: Academics
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+VNIT offers various UG, PG, Doctoral and Distance Programmes. The courses available in VNIT are categorized based on whether they are offered at the UG or PG level and also on which department the courses are conducted by.
+Research is carried out in each individual department separately. The list of research projects is provided in individual departmental website.
+ACADEMIC AND EXAM SECTION

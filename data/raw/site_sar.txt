@@ -1,0 +1,22 @@
+SOURCE_URL: https://vnit.ac.in/sar/
+TITLE: SAR
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+SAR UG
+Electronics Engg.
+Chemical Engg.
+Computer Science Engg.
+Electrical Engg.
+Mechanical Engg.
+Metallurgical & Materials Engg.
+Mining Engg.
+Civil Engg.
+Accreditation of UG programme is 19-21 August 2016
+Mining Engg.
+SAR PG
+Environmental Engg.
+Structural Engg.
+Material Engg.
+Integrated Power System.
+Computer Science Engg.

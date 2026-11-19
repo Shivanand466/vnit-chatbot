@@ -1,0 +1,183 @@
+SOURCE_URL: https://vnit.ac.in/books-authored/
+TITLE: Books Authored
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Architecture and Planning
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. Kamakshi Thapa,
+Dr. Chetna Singh,
+Dr. Sameer Deshkar,
+Dr. Rajib Shaw
+Ecosystem-Based Disaster and Climate Resilience: Disaster and Risk Research
+Book Chapter Title- Path towards sustainable water management: A case study of Shimla, India
+Spinger 2
+Dr. Vibhas Sukhwani,
+Dr. Kamakshi Thapa, Dr. Rajib Shaw, Dr. Sameer Deshkar,
+Dr. Bijon Kumer Mitra,
+Dr. Wanglin Yan
+Ecosystem-Based Disaster and Climate Resilience: Disaster and Risk Research
+Book Chapter Title- Ecosystem-Based Approaches for Water Stress Management-Lessons from Nagpur Metropolitan Area, India
+Spinger
+Chemistry
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. Deepika S. Brijpuriya,
+Dr. Dilip R. Peshwe,
+Dr. Anupama Kumar
+Industrial Applications of Nanocrystals (Accepted and under Publication)
+Book Chapter Title- Crystalline Nanomaterials for Antimicrobial Applications
+Elsevier
+Chemical Engineering
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. Shriram Sonawane
+Applications of Nanofluids in Chemical and Bio-medical Processing Industry
+Elsevier publication 2
+Dr. Shriram Sonawane
+Novel Approaches Towards Wastewater Treatment and Resource Recovery Technologies
+Elsevier Publications 3
+Dr. Shriram Sonawane
+Nanofluid Applications for Advanced Thermal Solutions
+Elsevier Publications 4
+Dr. Shriram Sonawane
+Hybrid Nanofluids for Application in the Chemical and Petroleum Industry
+Elsevier Publications 5
+Dr. Chaurasia, A. S.
+Computational Fluid Dynamics and COMSOL Multiphysics: A Step-By-Step Approach for Chemical Engineers
+CRC Press, (Apple Academic Press) (ISBN-9781003180500) 6
+Dr. Dhamole, P.B.,
+
+Dr. Kothawale, S.,
+
+Dr. Lele, S.S.,
+Novel Processing Methods for Plant – Based Health Foods: Extraction, Encapsulation and Health Benefits of Bioactive Compounds
+
+Book Chapter Title- Extraction of Value-Added and High-Value Food Products
+CRC Press (Apple Academic Press) (ISBN- 9781774910740)
+Civil Engineering
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. R. V. Ralegaonkar,
+
+Dr. V. V. Sakhare
+Strategy for Achieving Thermal Comfort
+Lambert Academic Publishing 2
+Dr. Sreekar A.S.,
+
+Dr. Gaur S.,
+
+Dr. Tawalare A.
+Recent Advancements in Civil Engineering
+
+Book Chapter Title- Assessing the Effect of Audit Compliance, Conflict Management and Bureaucratic Attitude on the Success of Public Projects
+Springer
+
+(Vol.-172, 2022) 3
+Dr. Umberje A.,
+
+Dr. Gaur S.,
+
+Dr. Tawalare A.
+Recent Advancements in Civil Engineering
+
+Book Chapter Title- Assessing the Critical Success Factors for PWD Projects in Rural Area
+Springer
+
+(Vol.-172, 2021) 4
+Dr. Gaur S.,
+
+Dr. Tawalare A.
+SECON 2021. Lecture Notes in Civil Engineering
+
+Book Chapter Title- Challenges and Benefits of BIM Adoption in a Metrorail Project, 2022
+Springer
+
+(Vol.-171, 2021) 5
+Prerna Pandey,
+
+Dr. Shilpa Dongre,
+
+Dr. Rajesh Gupta,
+Modeling and Simulation of Environmental Systems: A Computation Approach under CRC Press
+
+Book Chapter Title- Soft Computing Techniques for Forecasting of Water Demand
+Taylor & Francis
+Computer Science and Engineering
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. R. B. Keskar
+Dr. Mansi A. Radke
+Book Chapter Title- Machine learning for Data Science Applications
+CRC Press, Taylor and Francis 2
+Dr. Syed Taqi Ali
+Functional Encryption
+Book Chapter Title- Extensions of IBE and Related Primitives
+Springer International Publishing
+(13 June 2021)
+Electrical and Electronics Engineering
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. R.M. Moharil,
+Dr. P. S. Kulkarni
+Reliability Analysis of Renewable Energy Generators
+Denett Publishers, Nagpur 2
+Dr. Dipanshu Naware,
+Dr. Ram Babu Thogaru,
+Dr. Arghya Mitra
+Planning of Hybrid Renewable Energy Systems, Electric Vehicles and Microgrid: Modeling, Control and Optimization
+Book Chapter Title-Integration of Renewable Sources and Energy Storage Devices
+Springer, 2021 3
+Dr. I. Srivastava,
+Dr. S. Bhat,
+Dr. AR Singh
+Generation Smart Grids: Modeling, Control and Optimization
+Book Chapter Title- Smart Grid Communication: Recent Trends and Challenges (pp. 49-75)
+Springer, 2022
+Humanities and Social Sciences
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. Bibhudatta Dash,Dr. Maithili Paikane
+Rethinking Gender: Perspectives from Literature and Society
+Sankalp Publications
+Metallurgical and Materials Engineering
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. S. Dandekar, Dr. K. Deshmukh Dr. B. Bangalkar, Dr. P. Zingre, Dr. D. R. Peshwe, Dr. K.  Randive
+Innovations in Sustainable Mining
+Book Chapter Title- Metallurgical and Mining Waste Utilization in Preparation of Geo-Polymeric Bricks as the Future Construction Material (pp. 71-84)
+Springer Nature (August, 2021)
+Physics
+Sr. No.
+Author
+Title of the Book
+Publisher 1
+Dr. Oroosa Subohi
+Aurivillius Phase Materials: Exploring Lead-Free Ferroelectrics
+Institute of Physics (IOP) U.K 2.
+Dr. M.S. Ramkarthik
+Numerical Recipes in Quantum Information Theory and Quantum Computing: An Adventure in FORTRAN 90
+CRC Press, Taylor and Francis 3.
+Dr. M.S. Ramkarthik
+An Object-Oriented Python Cookbook in Quantum Information Theory and Quantum Computing
+CRC Press, Taylor and Francis 4.
+Dr. M.S. Ramkarthik
+Quantum Mechanics – Concepts and Applications by Zettili (Book Chapter on post modern quantum mechanics)
+Wiley

@@ -1,0 +1,187 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-gaurav-mishra/
+TITLE: Dr. Gaurav Mishra​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Gaurav Mishra​
+Brief Bio
+Brief Bio
+Assistant Professor
+Department of Computer Science & Engineering
+VNIT Nagpur, Maharashtra.
+Work Experience:
+1. Visvesvaraya National Institute of Technology (VNIT Nagpur) Maharashtra, India (June, 2022-current) 2. Thapar Institute of Engneering and Technology, Patiala, Punjab (January 2021- June, 2022)
+Teaching Subjects:
+1. Topics in Graph Theory (CSL410), 8th semester,  Btech 4rth Year 2. Design and Analysis of Algorithm (CSL321), 5th semester,  Btech 3rd Year 3. Mathematical Foundation of Computer Science (CSL503),  1st semester, Mtech First Year
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D 2021
+Efficient Graph-Based Clustering Techniques for Multi-Scale Datasets
+Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (IIITDM Jabalpur) 2
+M.Tech 2016
+Computer Science and Engineering
+Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (IIITDM Jabalpur) 3
+B.Tech 2012
+Information Technology
+Gautam Buddha Technical University, Lucknow
+Contact Details
+Phone:
+Email:
+Address:
+9406737047 gauravmishra@cse.vnit.ac.in
+TA-24,   Visvesvaraya National Institute Technology, South Ambazari Road, Nagpur, Maharashtra 440010
+Research Interest
+Machine Learning
+Graph Clustering
+Graph Data Mining
+Image Processing
+Optimization of Graph CNN
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Development of a two-stage e-waste segregation system using transfer learning
+Ministry of Mines,Government ofIndia
+Co-PI
+January, 2024 11.83 2
+Design of a CustomisedCNN Model for Multiclass Object Detection and Classification.
+ARDE, DRDO Pune
+CO-PI
+July 2024- May 2025 9.91
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+NA
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Machine Learning and Deep Learning-Based Prediction and Monitoring of Forest Fires Using
+Rishi Chhabra, Aditya Bhagat, Gaurav Mishra, Ashish Tiwari, M. M. Dhabu
+IGI Global 2024
+The Future of Mobility and Autonomous Driving using Quantum-Inspired Intelligence
+Rishi Chhabra, Aditya Bhagat, Gaurav Mishra, Ashish Tiwari, M. M. Dhabu
+Apple Academic Press 2025
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+NA
+Sr. No.
+Title 1
+AI and Graph Theoretic based Advancements for Medical Imaging: A Hands on Workshop(AIMI-2025)
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Hostel Warden
+VNIT, Nagpur
+Monitoring the functions of hostels and guiding the students for successful professional carrier
+June-2023 to till date 2
+Department Examination Co-ordinator
+VNIT, Nagpur
+To conduct the course exam in the Department
+July, 2022 to till date 3
+Co-Ordinator of R &D committee of CSED
+VNIT, Nagpur
+To improve the R&D and consultancy in the department
+January 2024 to till date 3
+Department represenattive for Axis, 2022
+VNIT, Nagpur
+To coordinate the poster presenation of CSED 2022 4
+Faculty Advisor
+VNIT Nagpur
+To guide the students in academic issues 2023 to till date 5
+Hostel Warden
+VG Bhide Hostel , VNIT Ngapur
+Monitoring the functions of hostels and guiding the students for successful professional carrier
+June 2024 to May 2025 6
+Hostel Warden
+VG Bhide Hostel , VNIT Ngapur
+Monitoring the functions of hostels and guiding the students for successful professional carrier
+June 2025 to May 2026 7
+Faculty Incharge of Web, App and Game Developement Club
+VNIT, Nagpur
+To guide students in organizing workshops, hackathons, and competitive programming sessions.
+September, 2024 to August 2026
+Sr. No.
+Awards 1
+MP, Young Scientist Award, 2019
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+G. Mishra, S.K. Mohanty
+A fast hybrid clustering based on local nearest neighbor using minimum spanning tree 2019
+Expert Systems with Applications, 2
+G. Mishra, S.K. Mohanty
+RDMN: A Relative Density Measure Based on MST Neighborhood for Clustering Multi-Scale Datasets 2020
+IEEE Transactions on Knowledge and DataEngineering, 3
+G. Mishra, S.K. Mohanty
+An Efficient Construction of Approximate Similarity Graph for Minimum Spanning Tree based Clustering 2020
+Applied Soft Computing 4
+G. Mishra, S.K. Mohanty
+A Minimum Spanning Tree based Partitioning and Merging Technique for Clustering Heterogeneous Data Sets 2020
+Journal of Intelligent Information Systems 5
+G. Mishra, A.C.Mishra, S.K. Mohanty, M.K.Panda,
+SEND: A novel dissimilarity metric using ensemble properties of the feature space for clustering numerical data 2022
+Information Science 6
+N. Kumar, G.Mishra, S.Kumar, S.Verma and R.Gavas
+Efficient Real-Time Fruit Quality Segregation Using Deep Image Features 2026
+Applied Fruit Science
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+G. Mishra, S.Kumar, R.K.Gupta, and S.K. Mohanty
+An efficient graph based trust-aware recommendation system,
+Accepted 2020 2nd International Conference on Machine Learning, Image Processing, Network Security and Data sciences (MIND 2020) 2
+P.Ghosh, and G.Mishra kMiST: A KD-Tree Based Fast Minimum Spanning Tree Algorithm
+Accepted 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), IIT Mandi 3
+Nitish Kumar, Aman Dhole, Samruddhi Kamble and Dr. Gaurav Mishra
+Brain Tumor Detection and Classification on MRI Images using YOLO based Deep Learning Model
+Accepted 2025 2ND INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND NETWORK SECURITY 4
+Rucha Gavas, Darsh Kanikar, NItish Kumar, Gaurav Mishra
+Fruit Quality Assessment using Supervised Learning Techniques based on Image Features
+Accepted 2025
+International Conference on Cognitive, Green and Ubiquitous Computing (IC-CGU)-2025 5
+Soumyarashmi Panigrah, Dibya Ranjan Das Adhikary, Gaurav Mishra, Prabhat Dansena, and Raj Vikram,
+ConvFormer: A Hybrid CNN-Transformer Architecture for Efficient Brain Tumor Recognition in MRI Scan
+Accepted 2025
+International Conference on Cognitive, Green and Ubiquitous Computing (IC-CGU)-2025 6
+Saanvi Moolchandani, Gaurav Mishra and Prabhat Dansena
+Hybrid 3D CNN with Residual Connections for Hyperspectral Image Classification
+Accepted 2025 11th International Conference on PATTERN RECOGNITION AND MACHINE INTELLIGENCE-2025 at IIT Delhi 7
+Nitish Kumar, Gaurav Mishra and Prabhat Dansena
+Superpixel-Enhanced SC-U-Net for Skin Lesion Segmentation
+Accepted 2025
+Conference Intelligent Computing, Cognitive Networks, and Smart Systems, 2026 8
+Soumyarashmi Panigrahi, Dibya Ranjan Das Adhikary, Prem Purusottam Jena, Archana Dash, Prabhat Dansena, and Gaurav Mishra
+Channel Attention-Infused DenseNet for Multi-Class Brain MRI Analysis
+Accepted 2025
+Conference Intelligent Computing, Cognitive Networks, and Smart Systems, 2026

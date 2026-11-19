@@ -1,0 +1,454 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-s-b-thombre/
+TITLE: Dr. S. B. Thombre – VNIT Nagpur Mechanical Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. S. B. Thombre
+Brief Bio
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+1988-1994
+Energy Systems Engineering
+IIT Bombay, Mumbai 2
+M Tech 1986-1987
+Energy Systems Engineering
+IIT Bombay, Mumbai 3
+B.E.
+1982-1986
+Mechanical Engineering
+VRCE Nagpur
+Contact
+Phone:
+Email:
+Address:
+0712-2801535 sbthombre@mec.vnit.ac.in 7, New Academic Building, VNIT Nagpur
+Research Interest
+Thermal Engineering
+Renewable Energy
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year 1
+Development of a Vascular Anastomosis Device for Arteriovenous Fistula Creation
+DST   New Delhi
+Co-PI 2019 -2021 2
+Solar Energy Laboratory (TAPTEC)
+AICTE, New Delhi
+PI 1994 – 2000 3
+Energy Park at VRCE, Nagpur (SADP)
+MNES, New Delhi (through MEDA)
+PI 1996 -2001 4
+Energy laboratory for measurement building (TATE)
+MHRD, New Delhi
+PI 2000 – 2003
+Sr. No.
+Title
+Funding Agency
+Year 1
+Calibration of Air Flow Meters  ≈ @ 4-5 flow meters/ year
+Ordnance Factory, Chandrapur
+Till 2020 2
+Testing of Fire wood Chulhas
+Office of Chief Conservator of Forest (Evaluation) Nagpur 2013-14 3
+Testing of Ula-chulhas
+Office of Chief Conservator of forest (Evaluation) Nagpur 2013-14 4
+Analysis of Modifications in Cooling Tower at Paras Thermal Power Station
+MSEB, Paras 2004 5
+Head loss calculations for coarse and fine screen across water channel/ duct
+Mecgale Pneumatics, Hinna Nagpur 2000 6
+Non Destructive Testing/ Natural Frequency of Gas Turbine Components
+GTPS Uran 1997-1998 7
+Verification of the proposals regarding modifications in 210 MW boilers
+TPS (MSEB) Khaperkheda 1997 8
+Calibration of flow metering System
+Industrial Oxygen Company Limited, Wardha 1995 9
+Verification of the proposed design of flue gas ducting
+MSEB Khaperkheda 1994-95
+S.No.
+Authors
+Role
+Publication 1
+Vrajesh D Rathod, S B Thombre
+Main Supervisor
+Computational Analysis of Rotating Detonation Engine (RDE) for Enhanced Performance and Efficiency in an Integrated hybrid Turbojet Propulsion System, International Conference of Science, Engineering and Technology, Bangalore, June 16, 2024.
+2
+P Jhunjhunwala, P Padole, S Thombre
+Main supervisor
+Development of a Diagnostive Tool for Prediction of Severity of Coronary Artery Disease”, Advances in Mechanical Engineering, PP337-343, https://link.springer.com/chapter/10.1007/978-981-15-3639-7_39,2020 3
+VT Shahu, SB Thombre,
+Main supervisor
+Statistical analysis and optimization of a novel helical air gap membrane distillation system”, MDES2019_0135, 4th International Conference on Desalination using Membrane Technology, Perth, Australia, 1-4 December 2019 4
+VT Shahu, SB Thombre
+Main supervisor
+Effect of support net on the performance of a novel cylindrical air gap membrane distillation system”, MDES2019_0283, 4th International Conference on Desalination using Membrane Technology, Perth, Australia, 1-4 December 2019 5
+VT Shahu, SB Thombre
+Main supervisor
+Experimental Study on a Novel Cylindrical Air Gap Membrane Distillation System”, Proceedings of the 25th National and 3rd International ISHMT-ASTFE Heat an Mass Transfer conference, Roorkee, Dec, 2019 6
+Bhele, S.K. Deshpande N.V. Thombre S.B.
+Other Author
+Experimental Investigation of Combustion Characteristics of Jatropha Biodiesel (JME) and its Diesel Blends for Gas Turbine Combustor, 2018,  Material Today: Proceeding (Scopus Indexed) 7
+Jhunjhunwala P., P.M. Padole,  S.B. Thombre,  A. Sane
+Other Author
+Prediction of blood pressure and blood flow in stenosed renal arteries using CFD, 2018, IOP Conference Series: Material Science and Engineering (Scopus Indexed) 8
+RK Mallick, SB Thombre.
+Main supervisor
+Analysis of the clamping force on the performance of direct methanol fuel cell (DMFC) using electrochemical impedance spectroscopy (EIS), Proceeding of 1 st International and 18 th ISME Conference, FEB 23-25, 2017, NIT Warangal. (ISME-TE-115) 9
+RK Mallick, SB Thombre, KP Kothekar
+Main supervisor
+Numerical model and simulation of liquid feed passive Direct Methanol Fuel Cell, IHMTC-2017-07-0487 10
+Ranjan Kishore Mallick, Thombre S B
+Main supervisor
+Effect of compressive force by clamping torque on performance of DMFC’, Proceeding: XII IPRoMM, Nagpur, pp 90-96, 2016 11
+Thantharate Shahu V, Thombre S.B.
+Main supervisor
+Renewable Technologies in membrane desalination- A’, Review ‘, Proceeding: XII IPRoMM, Nagpur, pp 451-459, 2016 12
+Jhunjhunwala P, P.M. Padole, S. B. Thombre,
+Other author
+Effect of stenosed models on Assessment of severity of stenosis: CFD study’, Proceeding: XII IPRoMM, Nagpur, pp 207-213, 2016 13
+Dhote Y.C., Thombre S.B
+Main supervisor
+Computational Analysis of a Double Flow Natural Convection Solar Air Heater with Buit-In Liquid Sensible Heat Storage, International ISHMT-ASTFE Heat and Mass Transfer Conference Trivandrum, 17-20 December, 2015.
+14
+Naveen K shrivastava and Thombre S.B.
+Main supervisor
+WIRE MESH CURRENT COLLECTOR FOR PASSIVE DIRECT METHANOL FUEL CELL’, Proceeding: 12 INTERNATIONAL Fuel Cell Science, Engineering & Technology conferences by ASME, JUNE 29-JULY 3, Boston, 2015 (This paper was presented by Naveen K shrivastava at Boston through TEQIP Support 15
+Deshmukh H.S., Thombre S.B.
+Main supervisor
+Thermal Performance of a Single Slope Single Basin Solar Still with Passive Storage Element, HMTC1300632, 11th ISHMT/ ASME Int. National Conference, IIT Kharagpur, 2013 16
+Shelke R.S., Thombre S.B., Patrikar S.R.
+Main supervisor
+Performance Degradation of Dye Sensitized Solar Cells with respect to Time, 11th ISHMT/ ASME Int. National Conference, IIT Kharagpur, 2013,  HMTC1300564 17
+Shrivastava N.K.,  Thombre S.B.
+Main supervisor
+A Thermal Model for Passive Direct Methanol Fuel Cell Performance Prediction, 11th ISHMT/ ASME Int. National Conference, IIT Kharagpur, 2013,  HMTC1300363 18
+Dhote Yogesh, Thombre S.B.
+Main supervisor
+Performance Analysis of Solar Air Heater with in-built sensible Heat Storage, 10th ISHMT/ ASME Int. National Conference, IIT Chennai, 2011, ISHMT_IND_17_041 19
+Bhale P.V. Deshpande N.V. Thombre S. B.
+Other Author
+Experimental Investigations on Lubricity and Cold Flow Properties of Bio diesel, ICES2008- 1636, ASME Internal Combustion Spring Technical Conference, Chicago, 2008 20
+Bhale P.V. Deshpande N.V. Thombre S. B.
+Other Author
+Wear Characteristics of Plunger & Barrel of CI Engine Fuel Pump using Diesel and Biodiesel, 2nd Intl. Conf. on Advances in Energy Research (ICAER -07) IIT Mumbai, 2007 21
+Thombre S.B. and Potdukhe P.A
+Main supervisor
+Experimental Studies On Inbuilt Thermal Storage Mixed Mode Agro Solar Dryer, HMT2006-C263, ISMT/ASME & 18th National HMT conference, P1895-1899, Guwahati, 2006 22
+Thombre S.B. and Bhore V.R
+Main supervisor
+Performance Characteristics Of Solar Flat Plate Collectors With Semi-Circular Risers Having Integral Fins In Natural Circulation Mode, ISMT/ASME & 18th National HMT conference, P1871-1874, Guwahati, 2006 23
+Pande A., Thombre S.B., Kalamkar V.R., Shevare G.R.
+Main supervisor
+CFD Analysis of Flow Through 3D Tetrahedron Driven Cavity, 3rd BSME/ ASME International conference on thermal Engineering, Dhaka, 2006 24
+Thombre S.B. and Bhore V.R
+Main supervisor
+Performance Comparison Of Flat Plate Collectors Fitted with Non Circular Risers With Integral Fins IMECE2005- 82933, ASME International Mechanical Engineering Congress And Exposition, Orlando, Florida, 2005 25
+Thombre S.B. and Prayagi S.V., Deshpande N.V.
+Main supervisor
+Effect of Inlet Fluid Temperature on the buoyancy Induced Flow in Circular Tube Inserted With Twisted Strip, IMECE2005- 82975, ASME International Mechanical Engineering Congress And Exposition, Orlando, Florida, 2005 26
+Deshpande N.V. Thombre S. B., Meshram M.G., Naresh T.
+Other Author
+Jatropha and Pongamia Straight Vegetable Oils as an Alternative to Diesel as Fuel, IMECE2005- 82941, ASME International Mechanical Engineering Congress And Exposition, Orlando, Florida, 2005 27
+Thombre S. B. and Prayagi S. V.
+Main supervisor
+Heat Transfer and Flow Characteristics for Buoyancy Induced Flow Through tubes, 6th ISMT/ASME & 17th National HMT conference, Kalpakkam, P 142-144, 2004 28
+Thombre S. B. and Potdukhe P.
+Main supervisor
+Design, fabrication and performance of foldable agro solar dryer, 26th National Renewable Energy Convention of SESI & Intl. Conf. on New Millennium Alternative Energy Solutions for Sustainable development, Coimbatore, 2003 29
+Thombre S.B. and Potdukhe P.
+Main supervisor
+Performance Evaluation of Detachable Agro Solar Dryer, Intl. Conf. on Energy & Env Tech for Sustainable Devp, P 313-316,MNIT Jaipur, 2003 30
+Thombre S. B. and Prayagi S. V.
+Main supervisor
+Performance analysis of circumferential fins with variable heat transfer coefficient on it’s surface, 5th ISHMT/ASME & 16th National HMT conference, Kolkata, PP-329-334, 2002 31
+Thombre S.B. and Rane S.K
+Main supervisor
+Heat transfer characteristics for smooth rectangular duct subjected to uniform heat flux on one side, Proceedings, 5th ISHMT / ASME & 16th National HMT conference, Kolkata, PP-335-340, 2002 32
+Thombre S.B. and Bhore V.R.
+Main supervisor
+A simple method for indoor and outdoor testing of a flat plate collector operating under natural circulation mode, Intl. conf. on Recent Advances in Solar Energy Conversion Systems, MANIT, Bhopal, Page 67-69, 2002 33
+Thombre S.B., Zodpe D.B., Singh G.P.
+Main supervisor
+Effect of variable heat transfer coefficient on the performance calculations of fins, 15th National & 4th ISHMT/ ASME HMT conf., Pune, PP-251-256, 2000
+Sr. No.
+Patent Title
+Co-Awardee
+Application No.
+Date
+Present Staus 1
+Solar water heater flat plate collector absorber having Triangular sectioned riser tubes with integral fins
+V R Bhore 455/ MUM/ 2013
+Patent No 396902 dated 13/ 05/ 2022
+Awarded 2
+Solar water heater flat plate collector absorber having square sectioned riser tubes with integral fins
+V R Bhore 456/ MUM/ 2013
+Patent No 333832 dated 02/ 03/ 2020
+Awarded 3
+Solar water heater flat plate collector absorber having semi-circular sectioned riser tubes with integral fins
+V R Bhore 457/ MUM/ 2013
+Patent No 378727 dated 06/ 10/ 2021
+Awarded 4
+A Helical Air Gap Membrane Distillation System
+Shahu Vandita T.
+202121009619 Dated 08/03/2021
+Patent No  508881  09 Feb 2024
+Awarded 5
+A Cylindrical Air gap Membrane Distillation System
+Shahu Vandita T.
+202121012045  Dated  21/03/2021
+Patent No  482495   14 Dec 2023
+Awarded 6
+Helical Air Gap Membrane Distillation System  (Copy Right)
+Shahu Vandita T.
+SW- 14571/2021 dated 26/ 05/ 2021
+Awarded 7
+Cylindrical Air gap Membrane Distillation System (Copy Right)
+Shahu Vandita T.
+SW- 14570/2021 dated 26/ 05/ 2021
+Awarded 8
+A Vascular Anastomosis Device for Haemodialysis Treatment
+Raut AA, Padole P M, Uddanwadikar RV
+Patent No 579205 29 Jan 2026
+Awarded 9
+A Bipolar Membrane Electrode Assembly for Fuel Cell
+Kothekar K, G Velayutham, N K Shrirvastava
+No: 202521047549
+Date 16 May 2025
+Published on 13 June 2025
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Year 1
+Associate NCC Officer
+VNIT 2
+Associate dean Acad
+VNIT 3
+Professor In Charge (T&P)
+VNIT 2010-2015 4
+Head, Mech Engg Dept
+VNIT 2013-2015 5
+Head, Mech Engg Dept
+VNIT 2017-2018 6
+Dean (Academic)
+VNIT 2018-2021 7
+Head, Mech Engg Dept
+VNIT 2021-2024 8
+Chairman NEP 2020 Task Group
+VNIT 2021-22 9
+Member ICC
+VNIT 2021-2024 10
+Member Stores Purchase Committee
+VNIT 2021-2024 11
+Chairperson, Interdisciplinary Board of Studies, VNIT Nagpur
+VNIT 2022- 2024 12
+Chairman, Technical committee 38t NCMC (IE(I) & VNIT) Napur
+VNIT 2023 13
+Chairman, Special Cell
+VNIT
+July 2024-2026 14
+Member of Building Works Committee, VNIT Nagpur
+VNIT
+Jan 2024 – Nov 2025 15
+Member of Board of Governors, VNIT Nagpur
+VNIT
+Jan 2024 – Oct 2025 16
+Chairman, Committee for revision of the Vision and Mission statements of VNIT Nagpur
+VNIT
+Dean (ACD) / 2779 Dt 27/ 05/ 2025 17
+Member of ACoFAR
+VNIT
+D/ 53 Dt 03/12/2024
+Sr. No.
+Awards
+S.No.
+Authors
+Publication 1
+KP Kothekar, SB Thombre, NK Shrivastava
+A Review  on Bipolar Membrane based fuel cell fabrication processes and characterization techniques: an integrated approach, Journal of Power Sources, Volume 661, Pages 238559, 2026 2
+KP Kothekar, SB Thombre, NK Shrivastava
+A simple fuel cell model fitting and parameter estimation apriori to the experimental domain of AC impedance techniques, International Journal of Hydrogen Energy 68, 85-104, 2024 3
+VT Shahu, SB Thombre
+Theoretical and experimental investigation of cylindrical air gap membrane distillation system and effect of the membrane support net on its performance, Environmental Science and Pollution Research, 1-18, 2024 4
+VT Shahu, SB Thombre
+Statistical modeling and optimization of helical air gap membrane distillation desalination system, International Journal of Environmental Science and Technology, pp1-16, 2022https://doi.org/10.1007/s13762-022-04039-5 5
+Vandita T. Shahu, Shashikant B. Thombre
+Theoretical analysis and parametric investigation of an innovative helical air gap membrane desalination system, Applied Water Science (2022) 12 (2) https://doi.org/10.1007/s13201-021-01567-2 6
+VT Shahu, SB Thombre
+“Experimental Analysis of a novel helical air gap membrane distillation system”, Water Supply, 21 (4), 1450-1463, 2021 https://doi.org/10.2166/ws.2021.002 7
+VT Shahu, SB Thombre
+Analysis and optimization of a new cylindrical air gap membrane distillation system”, Water Supply 20 (1), 361-371, 2020 8
+A Karwade, S Thombre, G Bhiogade
+Investigations on premixed charge compression ignition type combustion using butanol-diesel blends, Journal of Thermal Science and Technology 15 (3), 2020, JTST0026-JTST0026 9
+VT Shahu, SB Thombre
+Air gap membrane distillation: A review”, Journal of Renewable and Sustainable Energy 11 (4), 045901, 2019 10
+A Karwade, S Thombre
+Implementation of thermal and fuel stratification strategies to extend the load limit of HCCI engine”, Journal of Thermal Science and Technology 14 (2), JTST0020, 2019 11
+Seema S. Munjewar, Shashikant B. Thombre,
+Effect of current collector roughness on performance of passive direct methanol fuel cell, Renewable Energy,Vol 138, Pg 272-283 (2019): ISSN No 0960-1481,  http://doi.org/10.1016.renene.2019.101.101 12
+Seema S. Munjewar, Shashikant B. Thombre,  Awanikumar P. Patil
+Passive direct alcohol fuel cell using methanol and 2-proponal mixture as a fuel, Ionics, 25 (5), 2231-2241, 2019  DOI 10.1007/s11581-018-2627-y 13
+P Jhunjhunwala, PM Padole, SB Thombre, A Sane
+Prediction of blood pressure and blood flow in stenosed renal arteries using CFD, IOP Conference Series: Materials Science and Engineering 346 (1), 012066, 2018 14
+Mullick R.K., Thombre S.B., Kothekar K.P.
+An integral mathematical model of liquid feed passive DMFCs with non-isothermal effects and charge conservation phenomenon, 2018, Journal of Cleaner Production, DOI 10.1016/j.jclpro.2018.01.177 15
+Mullick , R.K., Thombre,S.B.,
+Performance of passive DMFC with expanded metal mesh current collectors, 2017, Electrochimica Acta, DOI 10.1016/j.electacta.2017.04.113 16
+Deshmukh, H.S Thombre,S.B.,
+Solar distillation with single basin solar still using sensible heat storage materials, Desalination, Vol 410, Pg 91-98, 2017: ISSN No 0011-9164 (Scopus and SCI indexed) 17
+Seema S. Munjewar, Shashikant B. Thombre, Ranjan K. Mallick
+A comprehensive review on recent material development of passive direct methanol fuel cell, Ionics, Vol 23, P1-18, 2017  Doi 10.1007/s11581-016-1864-1 18
+Seema S. Munjewar, Shashikant B. Thombre, Ranjan K. Mallick
+Approaches to overcome the barrier issues of passive direct methanol fuel cell – Review, Renewable and Sustainable Energy Reviews, Vol 67, pp 1087-1104, 2017,: ISSN No 1364-0321 19
+Kothekar K.P., Thombre S.B., Mullick R.K.,
+Estimation of kinetic and electric parameters of liquid feed passive DMFCs, International Journal of Hydrogen Energy, 2017: ISSN No 0360-3199:  DOI 10.1016/j.ijhydene.2017.07.212 20
+Ranjan Kishore Mallick, Thombre S B, Motghare MV, Chillawar RR
+Analysis of the clamping effects on the passive direct methanol fuel cell performance using electrochemical impedance spectroscopy, Electrochimica Acta, V215, pp 150-161, 2016, DOI 10.1016/j.electacta.2016.08.080 21
+Dhote Y.,Thombre S.B.
+Performance Analysis and Parametric Study of a Natural Convection solar Air Heater with in –built oil Storage 2016, Journal of the Institution of Engineers (India): Series C, Vol. 97(4), Pg 527-537, 2016 : ISSN No 2250-0545 (Scopus indexed) 22
+Mallick, Shashikant B Thombre, Naveen K Shrivastava
+Vapor feed direct methanol fuel cells (DMFCs): A review, Renewable & Sustainable Energy Reviews, Vol 56, Pg 51-74, 2016,: ISSN No 1364-0321 (Scopus and SCI indexed) 23
+Naveen K.S., S. B. Thombre,Wasewar, K.L.
+A real time simulating non-isothermal mathematical model for the passive feed direct methanol fuel cell, International journal of Green Energy, 2014: DOI 10.1080/15435075.2014.916220 24
+Naveen K.S., S. B. Thombre, Chadge, R.B.
+Liquid feed passive direct methanol fuel cell: Challenges and recent advance, Ionics, 2015:  DOI 10.1007/s11581-015-1589-6 25
+Jhunjhunwala P., Padole P.M., S.B. Thombre,
+Non-Newtonian blood flow in left coronary arteries with varying stenosis: A comparative study, MCB Molecular and Cellular Biometrics, Vol 13(1), Pg1-26, 2016, : ISSN No 0270-7306 26
+Ranjan Kishore Mallick, Shashikant B Thombre, Naveen K Shrivastava
+A critical review of the current collector for passive direct methanol fuel cells, Journal of Power Sources, Elsevier, Vol 285, Pg 510-529, 2015:  ISSN No 0378-7753 27
+Jhunjhunwala P, Padole P.M. Thombre S.B.
+CFD Analysis of Pulsatile Flow and Non-Newtonian Behavior of Blood in Arteries, MCB: Molecular & Cellular Biomechanics, Vol. 12, No. 1, pp 37-47, 2015 doi:10.3970/mcb.2015.012.037 28
+Shrivastava N. K, Dr. S B Thombre, Ramani V Motghare
+Wire Mesh current collectors for passive direct methanol fuel cells’ , Journal of power sources, Vol.272, pg. 629 – 638, 2014 : ISSN No 0378-7753 29
+Naveen K. Shrivastava, Shashikant B. Thombre, Ranjan K. Mallick
+Effect of diffusion layer compression on passive DMFC performance, Electrochimica Acta, Volume 149, 2014, Pg 167–175, 2014, :ISSN No 0013-4686 30
+Shelke R.S., Thombre S.B., Patrikar,S.R.,
+Cobalt Sulphate as an Alternative Counter Electrode Material in Dye Sensitized Solar Cells, ASME Journal of Solar Energy Engineering, Vol 136 (4), 2014,  Paper No SOL -13-1315; doi:10.1115/1.4027574 31
+Vaidya V.B., Sonolikar R.L., Thombre S.B.
+An influence of Acoustic Field on Heat Transfer of Binary Mixture in Gas Solid Fluidized Bed Using, International Journal of Applied Engineering Research, Volume 8(2), P171-181, 2013 :ISSN No 0973-4562 (Scopus indexed) 32
+Shrivastava, N., Thombre, S., and Wasewar, K
+A Non-Isothermal Mathematical Model for Performance Evaluation of Passive Direct Methanol Fuel Cell,  J. Energy Eng., Vol 139; P266-274, 2013: doi10.1061/ (ASCE) EY 1943-7897.0000112) 33
+Wankhede U.S., Sonolikar R.L., Thombre S.B.
+Effect of acoustic field on Heat Transfer in a Sound Assisted Fluidized Bed of Fine Powder, International Journal of Multiphase Flow, Vol 37, P 1227-1234, 2011, ISSN No 0301-9322 (Scopus and SCI indexed) 34
+PV Bhale, NV Deshpande, SB Thombre
+Improving the low temperature properties of biodiesel fuel, Renewable energy 34 (3), 794-800, 2009
+S.No.
+Authors
+Role
+Publication 1
+Vrajesh D Rathod, S B Thombre
+Main Supervisor
+Computational Analysis of Rotating Detonation Engine (RDE) for Enhanced Performance and Efficiency in an Integrated hybrid Turbojet Propulsion System, International Conference of Science, Engineering and Technology, Bangalore, June 16, 2024.
+2
+P Jhunjhunwala, P Padole, S Thombre
+Main supervisor
+Development of a Diagnostive Tool for Prediction of Severity of Coronary Artery Disease”, Advances in Mechanical Engineering, PP337-343, https://link.springer.com/chapter/10.1007/978-981-15-3639-7_39,2020 3
+VT Shahu, SB Thombre,
+Main supervisor
+Statistical analysis and optimization of a novel helical air gap membrane distillation system”, MDES2019_0135, 4th International Conference on Desalination using Membrane Technology, Perth, Australia, 1-4 December 2019 4
+VT Shahu, SB Thombre
+Main supervisor
+Effect of support net on the performance of a novel cylindrical air gap membrane distillation system”, MDES2019_0283, 4th International Conference on Desalination using Membrane Technology, Perth, Australia, 1-4 December 2019 5
+VT Shahu, SB Thombre
+Main supervisor
+Experimental Study on a Novel Cylindrical Air Gap Membrane Distillation System”, Proceedings of the 25th National and 3rd International ISHMT-ASTFE Heat an Mass Transfer conference, Roorkee, Dec, 2019 6
+Bhele, S.K. Deshpande N.V. Thombre S.B.
+Other Author
+Experimental Investigation of Combustion Characteristics of Jatropha Biodiesel (JME) and its Diesel Blends for Gas Turbine Combustor, 2018,  Material Today: Proceeding (Scopus Indexed) 7
+Jhunjhunwala P., P.M. Padole,  S.B. Thombre,  A. Sane
+Other Author
+Prediction of blood pressure and blood flow in stenosed renal arteries using CFD, 2018, IOP Conference Series: Material Science and Engineering (Scopus Indexed) 8
+RK Mallick, SB Thombre.
+Main supervisor
+Analysis of the clamping force on the performance of direct methanol fuel cell (DMFC) using electrochemical impedance spectroscopy (EIS), Proceeding of 1 st International and 18 th ISME Conference, FEB 23-25, 2017, NIT Warangal. (ISME-TE-115) 9
+RK Mallick, SB Thombre, KP Kothekar
+Main supervisor
+Numerical model and simulation of liquid feed passive Direct Methanol Fuel Cell, IHMTC-2017-07-0487 10
+Ranjan Kishore Mallick, Thombre S B
+Main supervisor
+Effect of compressive force by clamping torque on performance of DMFC’, Proceeding: XII IPRoMM, Nagpur, pp 90-96, 2016 11
+Thantharate Shahu V, Thombre S.B.
+Main supervisor
+Renewable Technologies in membrane desalination- A’, Review ‘, Proceeding: XII IPRoMM, Nagpur, pp 451-459, 2016 12
+Jhunjhunwala P, P.M. Padole, S. B. Thombre,
+Other author
+Effect of stenosed models on Assessment of severity of stenosis: CFD study’, Proceeding: XII IPRoMM, Nagpur, pp 207-213, 2016 13
+Dhote Y.C., Thombre S.B
+Main supervisor
+Computational Analysis of a Double Flow Natural Convection Solar Air Heater with Buit-In Liquid Sensible Heat Storage, International ISHMT-ASTFE Heat and Mass Transfer Conference Trivandrum, 17-20 December, 2015.
+14
+Naveen K shrivastava and Thombre S.B.
+Main supervisor
+WIRE MESH CURRENT COLLECTOR FOR PASSIVE DIRECT METHANOL FUEL CELL’, Proceeding: 12 INTERNATIONAL Fuel Cell Science, Engineering & Technology conferences by ASME, JUNE 29-JULY 3, Boston, 2015 (This paper was presented by Naveen K shrivastava at Boston through TEQIP Support 15
+Deshmukh H.S., Thombre S.B.
+Main supervisor
+Thermal Performance of a Single Slope Single Basin Solar Still with Passive Storage Element, HMTC1300632, 11th ISHMT/ ASME Int. National Conference, IIT Kharagpur, 2013 16
+Shelke R.S., Thombre S.B., Patrikar S.R.
+Main supervisor
+Performance Degradation of Dye Sensitized Solar Cells with respect to Time, 11th ISHMT/ ASME Int. National Conference, IIT Kharagpur, 2013,  HMTC1300564 17
+Shrivastava N.K.,  Thombre S.B.
+Main supervisor
+A Thermal Model for Passive Direct Methanol Fuel Cell Performance Prediction, 11th ISHMT/ ASME Int. National Conference, IIT Kharagpur, 2013,  HMTC1300363 18
+Dhote Yogesh, Thombre S.B.
+Main supervisor
+Performance Analysis of Solar Air Heater with in-built sensible Heat Storage, 10th ISHMT/ ASME Int. National Conference, IIT Chennai, 2011, ISHMT_IND_17_041 19
+Bhale P.V. Deshpande N.V. Thombre S. B.
+Other Author
+Experimental Investigations on Lubricity and Cold Flow Properties of Bio diesel, ICES2008- 1636, ASME Internal Combustion Spring Technical Conference, Chicago, 2008 20
+Bhale P.V. Deshpande N.V. Thombre S. B.
+Other Author
+Wear Characteristics of Plunger & Barrel of CI Engine Fuel Pump using Diesel and Biodiesel, 2nd Intl. Conf. on Advances in Energy Research (ICAER -07) IIT Mumbai, 2007 21
+Thombre S.B. and Potdukhe P.A
+Main supervisor
+Experimental Studies On Inbuilt Thermal Storage Mixed Mode Agro Solar Dryer, HMT2006-C263, ISMT/ASME & 18th National HMT conference, P1895-1899, Guwahati, 2006 22
+Thombre S.B. and Bhore V.R
+Main supervisor
+Performance Characteristics Of Solar Flat Plate Collectors With Semi-Circular Risers Having Integral Fins In Natural Circulation Mode, ISMT/ASME & 18th National HMT conference, P1871-1874, Guwahati, 2006 23
+Pande A., Thombre S.B., Kalamkar V.R., Shevare G.R.
+Main supervisor
+CFD Analysis of Flow Through 3D Tetrahedron Driven Cavity, 3rd BSME/ ASME International conference on thermal Engineering, Dhaka, 2006 24
+Thombre S.B. and Bhore V.R
+Main supervisor
+Performance Comparison Of Flat Plate Collectors Fitted with Non Circular Risers With Integral Fins IMECE2005- 82933, ASME International Mechanical Engineering Congress And Exposition, Orlando, Florida, 2005 25
+Thombre S.B. and Prayagi S.V., Deshpande N.V.
+Main supervisor
+Effect of Inlet Fluid Temperature on the buoyancy Induced Flow in Circular Tube Inserted With Twisted Strip, IMECE2005- 82975, ASME International Mechanical Engineering Congress And Exposition, Orlando, Florida, 2005 26
+Deshpande N.V. Thombre S. B., Meshram M.G., Naresh T.
+Other Author
+Jatropha and Pongamia Straight Vegetable Oils as an Alternative to Diesel as Fuel, IMECE2005- 82941, ASME International Mechanical Engineering Congress And Exposition, Orlando, Florida, 2005 27
+Thombre S. B. and Prayagi S. V.
+Main supervisor
+Heat Transfer and Flow Characteristics for Buoyancy Induced Flow Through tubes, 6th ISMT/ASME & 17th National HMT conference, Kalpakkam, P 142-144, 2004 28
+Thombre S. B. and Potdukhe P.
+Main supervisor
+Design, fabrication and performance of foldable agro solar dryer, 26th National Renewable Energy Convention of SESI & Intl. Conf. on New Millennium Alternative Energy Solutions for Sustainable development, Coimbatore, 2003 29
+Thombre S.B. and Potdukhe P.
+Main supervisor
+Performance Evaluation of Detachable Agro Solar Dryer, Intl. Conf. on Energy & Env Tech for Sustainable Devp, P 313-316,MNIT Jaipur, 2003 30
+Thombre S. B. and Prayagi S. V.
+Main supervisor
+Performance analysis of circumferential fins with variable heat transfer coefficient on it’s surface, 5th ISHMT/ASME & 16th National HMT conference, Kolkata, PP-329-334, 2002 31
+Thombre S.B. and Rane S.K
+Main supervisor
+Heat transfer characteristics for smooth rectangular duct subjected to uniform heat flux on one side, Proceedings, 5th ISHMT / ASME & 16th National HMT conference, Kolkata, PP-335-340, 2002 32
+Thombre S.B. and Bhore V.R.
+Main supervisor
+A simple method for indoor and outdoor testing of a flat plate collector operating under natural circulation mode, Intl. conf. on Recent Advances in Solar Energy Conversion Systems, MANIT, Bhopal, Page 67-69, 2002 33
+Thombre S.B., Zodpe D.B., Singh G.P.
+Main supervisor
+Effect of variable heat transfer coefficient on the performance calculations of fins, 15th National & 4th ISHMT/ ASME HMT conf., Pune, PP-251-256, 2000

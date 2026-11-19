@@ -1,0 +1,177 @@
+SOURCE_URL: https://vnit.ac.in/senate/
+TITLE: Senate
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Senate 1.
+The Director, V.N.I.T., Nagpur Ex-officio
+Chairman 2.
+The Dy. Director
+Member(Ex-officio) 3.
+The Professors appointed or recognized as such by the Institute for the purpose of imparting instruction in the Institute.
+Members 4.
+Three persons, one of whom shall be woman not being employees of the Institute, to be nominated by the Chairman in consultation with the Director from amongst educationists of repute, one each from the fields of Science, Engineering and Humanities.
+Members 5.
+Such other members of the staff as may be laid down in the Statutes
+Members 6.
+Registrar, V.N.I.T., Nagpur is the Ex-officio Secretary of Senate.
+Present Members
+S. N.
+Name
+Designation 1
+Dr. Pramod M. Padole, Director, VNIT, Nagpur
+Chairman 2
+Prof Ajit Kulkarni,
+Professor, Material Science and Metallurgical Engg. Dept, IIT Powai, MUMBAI – 400076
+Member 3
+Prof. Y. N. Reddy, Mathematics Dept, Registrar I/c, National Institute of Technology, Warangal-506004
+Member 4
+Prof(Mrs) Sneha  Deshpande, Head – Economics Dept, RTM University, Nagpur
+Member
+Deans 5
+Dr. Shashikant B. Thombre, Dean (Academic), VNIT, Nagpur
+Member 6
+Dr. R. K. Ingle, Dean (Faculty Welfare), VNIT, Nagpur
+Member 7
+Dr. G.P. Singh, Dean (Planning & Development), VNIT, Nagpur
+Member 8
+Dr. B. S. Umare, Dean (Students Welfare), VNIT, Nagpur
+Member 9
+Dr. V. B. Borghate, Dean (Research & Consultancy), VNIT, Nagpur
+Member
+Heads 10
+Dr. M. M. Mahajan, Head-Applied Mechanics Dept, VNIT, Nagpur
+Member 11
+Dr. V. S. Adane, Head-Architecture Dept, VNIT, Nagpur
+Member 12
+Dr. S. S. Umare, Head-Chemistry  Dept, VNIT, Nagpur
+Member 13
+Dr. Mahesh Verma. Head-Chemical Engg Department, VNIT, Nagpur 14
+Dr. R. S. Gedam, Head-Physics Dept, VNIT, Nagpur
+Member 15
+Dr. U. A. Deshpande, Head-Computer Science Dept,VNIT,Nagpur
+Member 16
+Dr. Y. M. Deshpande, Head-Humanities Dept, VNIT, Nagpur
+Member 17
+Dr. M. K. Khedkar, Head – Electrical Dept., VNIT, Nagpur 18
+Dr. A. P. Patil, Head-Metallurgical & Materials Dept, VNIT, Nagpur.
+Member 19
+Dr. N. R. Thote, Head-Mining Dept, VNIT, Nagpur
+Member 20
+Dr. Rajesh Gupta, Head-Civil Dept, VNIT, Nagpur
+Member 21
+Dr. V. R. Kalamkar, Head-Mechanical Dept, VNIT, Nagpur
+Member 22
+Dr. R. B. Deshmukh, Head-Centre for VLSI and Nanotechnolgy Dept and Associate Dean (Public Relations), VNIT, Nagpur
+Member 23
+Dr. Kishore M. Bhurchandi, Head-Electronics & Communication Dept, VNIT, Nagpur
+Member 24
+Dr. P. P. Chakravarthy, Head-Mathematics Dept, VNIT Nagpur
+Member
+Professors (Civil Engg.) 25
+Dr. V. A. Mhaisalkar, Professor – Civil Engg. VNIT, Nagpur
+Member 26
+Dr. A. R. Tembhurkar, Professor – Civil Engg. VNIT, Nagpur
+Member 27
+Dr. Y. B. Katpatal, Professor – Civil Engg, VNIT, Nagpur
+Member 27
+Dr. D. H. Lataye, Professor – Civil Engg. and Associate Dean(Procuremet and Stores), VNIT, Nagpur
+Member 28
+Dr. Rahul Vasant Ralegaonkar, Professor- Civil Engg. and Associate Dean (Training & Placement),VNIT, Nagpur
+Member 29
+Dr. Aniruddha D. Ghare, Professor – Civil Engg, VNIT, Nagpur
+Member 30
+Dr. Vishrut Suresh Landge, Professor – Civil Engineering, VNIT, Nagpur
+Member
+Professor (Chemistry) 31
+Dr. Jayant Dattatraya Ekhe, Professor – Chemistry Dept, VNIT, Nagpur
+Member
+Professors (Applied Mechanics) 32
+Dr. O. R. Jaiswal, Professor – Applied Mechanics, VNIT, Nagpur
+Member 33
+Dr. L. M. Gupta, Professor – Applied Mechanics , VNIT, Nagpur
+Member 34
+Dr. G. N. Ronghe, Professor – Applied Chemistry, VNIT, Nagpur
+Member
+Professors (Comp. Sci. & Engg.) 35
+Dr. P. S. Deshpande, Professor – Comp. Sci. & Engg. & Associate Dean (IT: MIS Network & Website), VNIT, Nagpur
+Member 36
+Dr. U. A. Deshpande, Professor – Comp. Sci. & Engg, VNIT, Nagpur
+Member
+Professors (Electronics & Communication Engg.) 37
+Dr. Avinash G. Keskar, Professor – Electronics & Communication Engg., VNIT, Nagpur
+Member 38
+Dr. K. D. Kulat, Professor – Electronics & Communication Engg., VNIT, Nagpur
+Member 39
+Dr. Abhay S. Gandhi, Professor – Electronics & Communication Engg., VNIT, Nagpur
+Member
+Professor(Centre for VLSI and Nanotechnology) 40
+Dr. Rajendra Patrikar, Professor – Centre for VLSI and Nanotechnology, VNIT, Nagpur
+Professor(Mechanical) 41
+Dr. A. M. Kuthe, Professor – Mechanical Engg., VNIT, Nagpur
+Member 42
+Dr. H. T. Thorat, Professor – Mechanical Engg.,VNIT, Nagpur
+Member 43
+Dr. Animesh N. Chatterjee, Professor – Mechanical Engg., VNIT, Nagpur
+Member 44
+Dr. P. M. Padole, Professor – Mechanical Engg., Nagpur
+Member
+Professors(Electrical Engg.) 45
+Dr. H. M. Suryawanshi, Professor – Electrical Engg., VNIT, Nagpur
+Member 46
+Dr. M. V. Aware, Professor – Electrical Engg., VNIT, Nagpur
+Member 47
+Dr. Madhuri A. Chaudhari, Professor – Electrical Engg., VNIT, Nagpur
+Member 48
+Dr. A. S. Junghare, Professor – Electrical Engg, VNIT, Nagpur
+Member 49
+Dr. Makarand Ballal, Professor – Electrical Engg., VNIT, Nagpur
+Member
+Professor(Metallurgical & Materials Engg.) 50
+Dr. D. R. Peshwe, Professor – Metallurgical & Material Engineering, VNIT, Nagpur
+Member 51
+Dr. S. G. Sapate, Professor – Metallurgical & Material Engineering,  VNIT, Nagpur.
+Member 52
+Dr. Shailendranath Paul, Professor – Metallurgical & Material Engineering,VNIT, Nagpur.
+Member
+Professor(Architecture & Planning) 53
+Dr. Rajashree S. Kotharkar, Prpfessor – Arch. & Planning, VNIT, Nagpur.
+Member
+Professor(Physics) 54
+Dr. V. K. Deshpande, Professor of Physics, VNIT, Nagpur
+Member 55
+Dr. B. R. Sankapal, Professor of Physics, VNIT, Nagpur
+Member
+Professor(Mining) 56
+Dr. R. R. Yerpude, Professor of Mining Engineering, VNIT, Nagpur
+Member 57
+Dr. L. L. Murtheja, Professor of Mining Engineering, VNIT, Nagpur
+Member
+Associate Deans 58
+Dr. A. D. Vasudeo, Associate Dean (Civil Works) VNIT,  Nagpur
+Invited
+Member 59
+Dr. Ratnesh Kumar, Associate Dean (Students Activities and Sports), VNIT,  Nagpur
+Invited
+Member 60
+Dr. Mahesh Varma,
+Associate Dean (Hostel Affairs) VNIT,  Nagpur
+Invited
+Member 61
+Dr. Jatin Bhatt, Varma,
+Associate Dean (III Cell & Alumini Activities) VNIT,  Nagpur
+Invited
+Member
+Registrar 62
+Dr. Shailesh R. Sathe, Registrar, VNIT, Nagpur
+Secretory
+Special Invites 1
+Shri. N. K. Dakhale, Dy. Registrar (Academics), VNIT, Nagpur
+Dy. Registrar (Acad.) 2
+Mr. Nikhil Chingulwar, Asst. Regsitrar (Exam), VNIT, Nagpur
+Asst. Reg. (Exam)
+Student Representative 1
+Nagarimadugu Bhargav Tej Reddy (CSE)
+UG Academics Affair Secretory 2
+Sandeep Soni (CIV)
+PG Academics Affair Secretory

@@ -1,0 +1,42 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/solar-energy-laboratory-and-research-center/
+TITLE: Solar Energy Laboratory and Research Center – VNIT Nagpur Mechanical Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+The Solar Energy Laboratory and Research Center at VNIT Nagpur is committed to education and the development of advanced energy conversion technologies and sustainable energy solutions. This includes the development of energy storage technologies, promoting technology indigenization, harnessing solar energy, and improving energy conversion methods.
+Available facilities
+Experimental Setup
+Solar Water Pumping system
+Flat Plate Solar Collector Test Rig
+Evacuated Tube Collector Test Rig
+Photovoltaic Cell Test Rig
+Solar Tracker
+Box Type Solar Cooker
+Parabolic Collector
+Measuring Instruments
+Digital Multimeter
+Ultrasonic flow meter
+AC-DC Clamp Meter
+Multichannel data Logger
+Pyranometer
+Digital Lux Meter
+Digital anemometer
+Solar powered water pumping system
+Solar powered vapor absorption refrigeration system
+PCM based energy storage system
+Ph. D Students
+Sr. No.
+Name
+Thesis Title
+Status 1
+Devandra Raut
+Experimental and computational investigation on performance of latent heat energy storage for solar thermal applications
+Completed (2023) 2
+Someshwar Bhakare
+Thermal management of solar photovoltaic panels using passive and active cooling techniques
+Submitted
+(2023) 3
+Akash Jadhav
+Performance assessment of solar-powered LiBr /H 2 0 vapor absorption refrigeration
+Ongoing
+The Institute invites individuals to join our Center as students, scholars, scientists, industry partners, or other roles relevant to the Center.

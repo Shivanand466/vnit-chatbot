@@ -1,0 +1,235 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-p-s-kulkarni/
+TITLE: Dr. P.S. Kulkarni
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. P.S. Kulkarni
+Brief Bio
+Brief Bio
+P.S. Kulkarni graduated in Electrical Engineering from the Walchand College of Engineering, Sangli, Maharashtra in 1987.
+He received M.E. degree in Electrical Power System from Government College of Engineering, Amravati in 1994 and Ph.D. from Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur in 2002.
+He has been actively involved in Teaching and Research in VNIT for the last 31 years and he is currently working as Professor with the Department of Electrical Engg, VNIT, Nagpur. He has to his credit a few Best Paper Awards in various Conferences organized at Institution of Engineers (India), Nagpur, at IIT Kharagpur, at IIT Guwahati and Best Guided M.Tech. Thesis award from ISTE, New Delhi. He has guided 7 Ph.D. Scholars and three are currently doing research. His research interests include Artificial Intelligence applications in Power System Operation and Control, Solar Photovoltaic based power generation, etc.
+He was topper among male candidates in Yog Pravesh Exam conducted by Janardan Swami Yogabhyasi Mandal, Nagpur in 2003-2004. He is Member of IEEE, USA , Institution of Engineers(India), Kolkata and Life Member of ISTE, New Delhi.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2002
+Emission Constrained Economic Dispatch
+RTMNU, Nagpur 2
+M.E.
+1994
+Electrical Power System
+Sant Gadge Baba Amravati University, Amravati 3
+B.E. (Electrical Engg.) 1987
+Electrical Engg. with Electronics
+Shivaji University, Kolhapur
+Contact Details
+Phone:
+Email:
+Address:
+9422505589 (whatsapp), 8767248383 pskulkarni@eee.vnit.ac.in
+Electrical Engineering Department VNIT  South Ambazaari Road  Nagpur -440010
+Research Interest
+Research Interest
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Operation, Control and Stability of Integrated Power System
+Ministry of Education, New Delhi
+Principal  Investigator 2004 seven
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Energy Audit at CSIR-NEERI, Nagpur
+(Prof. M. V. Aware – PI)
+NEERI, Nagpur
+Co-PI 23-09-2016 4.6 to 21-07-2017 2
+Quantification and Energy Saved through Energy Saver in Street Lighting, at NMC,Nagpur
+NMC,Nagpur
+Co-PI 10-07-2007 0.56
+(Prof. M. V Aware –  PI) to
+Oct. 2007
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Reliability Analysis of Renewable Energy Generators (Book)
+R. M. Moharil and P. S. Kulkarni
+Denett Publishers, Nagpur 978-8195006724 2021
+Performance Analysis of 400kWp Grid-connected Rooftop Solar PV System for Technical Institute (Book Chapter)
+R. M. Moharil  P. S. Kulkarni  Pranay S. Shete and Prasad. B. Joshi
+Springer 978-981-19-0978-8 2022
+Challenges and Issues in Solar PV Development in India  (Book Chapter)
+A. S. Werulkar and P.S. Kulkarni
+Springer
+ISSN 21998582
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Light-Weight-Modular Solar Cooker(with Dr. M.M. Lokhande)
+IN 202121043252 12-11-2021
+Granted
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Simulation Software in Electrical Engg
+Ministry of Education
+Electrical Engg. Dept., VNIT, Nagpur
+Nov. 9-13, 2009 25
+Distributed Generation and Power Quality
+Self Sponsored
+Electrical Engg. Dept., VNIT, Nagpur
+Dec. 15-16, 2015 28
+Renewable Energy Systems and Power Quality
+Self Sponsored
+Electrical Engg. Dept., VNIT, Nagpur
+August 29 – Sept. 02, 2016 30
+Surya Pakavidya: Hands-On Solar Cooker Design, Development and Operation Training
+Self Sponsored
+Electrical Engg. Dept., VNIT, Nagpur
+May 27-31, 2024 25
+GIAN COURSE on “A.I. based Methods for Renewable Energy Integration for Smart Grid and Electric Vehicles
+Ministry of Education
+Electrical Engg. Dept., VNIT, Nagpur 30th June – 4th July 2025 30
+Sr. No.
+Responsibility
+Year 1
+Associate Dean (International Affairs and Ranking) 2022-2024 2
+Associate Dean (Exams) 2015-2018 3
+Coordinator – OPJEMS Scholarship Exam 2015-2017 4
+Chairman – M.Tech. Admissions 2014-2015 5
+Coordinator – CDEEP and NMEICT Project 2011-2013 6
+Coordinator- Electrical Maintenance, VNIT Campus 2006-2009 7 8
+Save Energy Thematic Coordinator, Mission Lifestyle for Environment (LiFE), VNIT in association with Ministry of Environment, Forest and Climate Change, New Delhi.
+2024-2026 9
+Nodal Officer – Mission Lifestyle for Environment (LiFE), VNIT in association with Ministry of Environment, Forest and Climate Change, New Delhi.
+2026-2028
+Year
+Awards 2013
+National Award for Best MTech Thesis in Electrical and Electronics Engineering 2024
+VNIT Team Won First Prize at National Idea4Life Innovation Challenge -A faculty team comprising Dr. Makarand M.Lokhande, Dr. Prakash S. Kulkarni, and Dr. Pravin D. Sawarkar secured the First Prize on World Environment Day, 5th June 2025 at theIdea4Life Innovation Challenge organized by the Ministry of Environment, Forest and ClimateChange (MoEFCC) , New Delhi under the “Mission LiFE” initiative. Topic: Sustainable, Affordable, Modular, Domestic Solar Cooker”.
+1995
+Best Paper Award at The Institution of Engineers(India), Nagpur Local Chapter 2003
+Best Paper Award at IIT Kharagpur in National Systems Conference 2016
+Best Poster Paper Award at IIT Guwahati during National Power Systems Conference
+S.No.
+Paper Citation 1
+A.S.Werulkar,  P.S.Kulkarni and A. Sahuskade, “Energy Analysis of Solar Home Lighting System”, Proc. Of First India International Energy Summit , VNIT, Nagpur 2011.
+2
+S. K.Ksheersagar, A. S. Werulkar and P. S. Kulkarni, “Study of design of Single Phase Inverter for Solar Home Lighting System”, Proc. Of First India International Energy Summit , VNIT, Nagpur 2011.
+3
+D. Shankar, A.S.Werulkar and P.S.Kulkarni,“Simulation of Soft Switching Boost Converter with MPPT for Solar Home Lighting System”, Proc. Of All India Seminar (with International Cooperation) on Clean Energy & Energy Conservation 2012, 13th – 14th Oct. 2012, Institution of Engineers (India), Nagpur.
+4
+A.S.Werulkar and P.S.Kulkarni, “Design of a constant current solar charge controller with microcontroller based soft switching buck converter for Solar Home Lighting System” Proceedings of IEEE International Conference on  Power Electronics, Drives andEnergy Systems (PEDES), 2012 Digital Object Identifier: 10.1109/PEDES.2012.6484337 Publication Year: 2012 , Page(s): 1 – 6.
+5
+A.S.Werulkar and P.S.Kulkarni, “Microcontroller based Constant Voltage Battery Charger with Soft Switching Buck Converter for solar Home Lighting system”, Proceedings of  5th International Conference on Computer Applications in Electrical Engg. – Recent Advances (CERA 2013), IIT Roorkee, Oct. 3-5, 2013.
+6
+Anjali Anand K, Prachi Salodkar and P. S. Kulkarni, “Simulation of a Single – Stage Grid-Connected Inverter Topology for Solar PV Systems with Maximum Power Point Tracking”, Proc. Of National Conference on Power Electronic Systems and Applications (PESA 2013), IEEE Kolkata Section, NIT Rourkela.
+7
+Sandeep. N , Mutta Krishna Murthy and P. S. Kulkarni, Single-Phase Grid-Connected Photovoltaic System Based on Ripple Correlation Control Maximum Power Point Tracking”, Proceedings of IEEE Students’ Conference on Electrical, Electronics and Computer Science (SCEECS), MANIT, Bhopal, March 1 & 2, 2014.
+8
+Mutta Krishna Murthy, Sandeep.N and P. S. Kulkarni, “Analysis and Design of ZVS-PWM Active Clamping DC-to-DC Cuk Converter Based PV Generation System” , Proceedings of Students’ Conference on  Engineering and Systems (SCES), MNNIT, Allahabad, 28-30 May 2014.
+9
+Sandeep N, P. A. Salodkar, P. S. Kulkarni, “A New Simplified Multilevel Inverter   Topology for Grid-Connected Application” Proceedings of IEEE Students’ Conference on Electrical, Electronics and Computer Science (SCEECS), MANIT, Bhopal, March 1 & 2, 2014 10
+P. A. Salodkar, Sandeep N., P. S. Kulkarni and Udaykumar R.Y., “A Comparison of Seven-Level Inverter Topologies for Multilevel DC-AC Power Conversion”, Proceedings of IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES) at IIT Bombay, 16 – 19 Dec. 2014.
+11
+Sandeep N, P. S. Kulkarni and Udaykumar R Y, “A Single-Stage Active Damped LCL-Filter-Based Grid-Connected Photovoltaic Inverter With Maximum Power Point Tracking”, Proceedings of National Power Systems Conference (NPSC), Electrical Engg. Dept., IIT, Guwahati,  18-20 Dec. 2014 (Best Poster Paper Award) 12
+Ashutosh S Werulkar and P. S. Kulkarni, “Simulation analysis of Solar Powered Home Lighting System”, Proceedings of the 11th International Conference on Energy, Environment, Ecosystems and Sustainable Development (EEESD ’15), Tenerife, Canary Islands, Spain, January 10-12, 2015 13
+Amulya and P.S. Kulkarni, “A Review of Grid Computing Technology in Electrical Power Systems”, Proceedings of International Conference on Electrical Power and Energy Systems (ICEPES) , Maulana Azad National Institute of Technology, Bhopal, India. Dec 14-16, 2016 14
+P. A. Salodkar and P. S. Kulkarni, “A Single Phase Seven Level Inverter Topology for Photovoltaic Application”, Proc. Of  IEEE Conference on “Power Embedded Drives and Control” at SSN College Chennai on 16th to 18th March 2017.
+15
+P. A. Salodkar, P. S. Kulkarni and Manoj Waghmare, “Study of Single phase multilevel inverter topologies suitable for photovoltaic Application” Proceedings of IEEE Conference ICECDS, SKR Engg. College, Poonamallee, Tamilnadu, India, August 1-2, 2017.
+16
+Omkar Rudrawar, Siddharth Daga, Janak Raj Chadha and P.S.Kulkarni, “Smart Street Lighting System with Light Intensity Control using Power Electronics”, Proceedings of IEEE International Conference on Technologies for Smart-City Energy Security and Power (ICSESP 2018),  “Smart Solutions for Smart Cities”, March 28-30, 2018Department of Electrical Engineering, C. V. Raman College of Engineering, Bhubaneswar, Orissa, India.
+17
+Durvesh Kalke,  Karun  Kokkonda and P.S.Kulkarni, ““Financial Analysis of Grid-tied Rooftop Solar Photovoltaic System employing Net-Metering” Proceedings of  IEEE International Conference on Smart Electric Drives & Power System, GHRCE, Nagpur , India June 2018.
+18
+Karun  Kokkonda and P.S.Kulkarni, ““Soft switching high step up active clamp coupled inductor based converter for Grid-tied photovoltaic applications”, Proceedings of IEEE International Conference for Convergence in Technology(I2CT 2019), March 29-31, 2019, Pune, , India.
+19
+Burele, V., Kulkarni, P.S.,”Techno-Economic Analysis of proposed 5kWp Floating Solar Plant with Battery Energy Storage System at Ambazari Lake, Nagpur, India” 2025 4th International Conference on Power Control and Computing Technologies Icpc2t 2025Open source preview, 2025 20
+Burele, V., Mamata G., Kulkarni, P.S., “Techno-economic analysis of proposed 5kWp Tracking Type FSPV systems at Ambazari lake, Nagpur”, 5th IEEE International Conference on Sustainable Energy and Future Electric Transportation Sefet 2025Open source preview, 2025 21
+Moharil, R.M., Munshi, A.A., Kulkarni, P.S., “Assessment of Renewable Energy Integration for Small Coastal Communities: A Case Study of Solar and Wind Power Implementation in a Village Near Goa”. Aip Conference ProceedingsOpen source preview, 2024, 3188(1), 060020 22
+Mamatha, G., Verma, A., Kulkarni, P.S., “Proposing a Hybrid Solar Electrification for Already Existing Hydropower Plant”, 2024 IEEE Students Conference on Engineering and Systems Interdisciplinary Technologies for Sustainable Future Sces 2024Open source preview 23
+Rudra, A., Kulkarni, P.S., Sneha, T., Ghosh, S., “Modelling and Analysis of a Fuel Cell Emulator for Integration in a Hybrid Photovoltaic System Using MATLAB-Simulink”, Proceedings of Conecct 2024 10th IEEE International Conference on Electronics Computing and Communication TechnologiesOpen source preview, 2024 24
+Nehemiah Joshi Varma, A. , Kulkarni, P.S., Dixit, A.N., Rajpathak, B., “Designing and Application of MATLAB App Designer for Conducting Techno-economic Analysis of Grid-Tied Rooftop Solar PV System”, Green Energy and TechnologyOpen source preview, 2024 25
+Sneha, T., Kulkarni, P.S., Rudra, A., Ghosh, S., “Design and Simulation of a Stand-Alone Hybrid Solar Photovoltaic-Fuel Cell-Battery System in MATLAB Simulink”, 2024 IEEE International Conference on Smart Power Control and Renewable Energy Icspcre 2024 26
+Behera, A., Kulkarni, P.S. “Smart Temperature-dependent Cooling of Solar Panel using Arduino”, 2023 2nd International Conference on Paradigm Shifts in Communications Embedded Systems Machine Learning and Signal Processing Pcems 2023 27
+Dixit, A.N., Kulkarni, P.S,”Performance Analysis of Grid-Tied Rooftop Solar Photovoltaic System Using MATLAB App Designer.”,2022 Opju International Technology Conference on Emerging Technologies for Sustainable Development Otcon 2022Open source preview, 2023 28
+Kumar, S., Ballal, M.S., Kulkarni, P.S., Sharma, P.K.,”Performance Study of 84.5 kWp Grid Linked SPV System.”,2023 IEEE 8th International Conference for Convergence in Technology I2ct 2023Open source preview, 2023 29
+Verma, A., Gangavarapu, M., Kulkarni, P.S,”Design and Feasibility analysis of Floating Solar Photovoltaic System for Minicoy Island, India”, 2022 22nd National Power Systems Conference Npsc 2022Open source preview, 30
+Patil, A., Mamatha, G., Kulkarni, P.S.,”Techno-Economic Analysis of proposed 10kWp Floating Solar Plant at Koyana Dam, Maharashtra, India.”, 2022 2nd International Conference on Power Electronics and Iot Applications in Renewable Energy and Its Control Parc 2022Open source preview, 2022 31
+Patil, A., Mamatha, G., Kulkarni, P.S., Verma,” A.Analysis of Hybrid Floating Photovoltaic and Hydro-Power plant with HOMER Pro Software.”,10th IEEE International Conference on Power Electronics Drives and Energy Systems Pedes 2022Open source preview, 2022 32
+Rout, K.C., Kulkarni, P.S.,”Design and Analysis of Grid-Tied Rooftop Solar PV System at Bhubaneswar, Odisha Using SAM.”,2021 International Conference on Intelligent Technologies Conit 2021Open source preview, 2021 33
+Snehith, B., Kulkarni, P.S.,”Techno-Economic analysis of proposed10 MWPFloating Solar PV plant at Nagarjuna Sagar, Telangana, India: Part-2″,Iccisc 2021 2021 International Conference on Communication Control and Information Sciences ProceedingsOpen source preview, 2021, 34
+Snehith, B., Kulkarni, P.S.,”Techno-Economic analysis of proposed10 MWPFloating Solar PV plant at Nagarjuna Sagar, Telangana, India: Part-1″,Iccisc 2021 2021 International Conference on Communication Control and Information Sciences ProceedingsOpen source preview, 2021, 35
+Krishnakant, Kulkarni, P.S.,”Design and Simulation of Solar Photovoltaic Water Pumping System.”3rd International Conference on Energy Power and Environment Towards Clean Energy Technologies Icepe 2020Open source preview, 2021, 35
+Gunda Sai Charan Raj and P. S. Kulkarni, “Multi-Objective Optimization Study of Hybrid Renewable Energy System,” 2025 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), Dharwad, India, 2025, pp. 1-6, doi: 10.1109/PESGRE65581.2025.11521271.
+36
+Gunda Sai Charan Raj, P. S. Kulkarni, V. Menon, E. Haritha, R. Kansal and M. Saxena, “Electrical Design and Techno-Economic Analysis of Hybrid Floating Solar PV System,” 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), Goa, India, 2025, pp. 1-6, doi: 10.1109/STPEC66316.2025.11490603.
+37
+S. Bindhani, G. S. C. Raj and P. S. Kulkarni, “The Performance and Feasibility Analysis of Hybrid Floating Solar PV Systems on Totladoh Dam, Nagpur, Maharashtra,” 2025 IEEE Silchar Subsection Conference (SILCON), Chumukedima, Dimapur, India, 2025, pp. 1-7, doi: 10.1109/SILCON67893.2025.11327248 38
+G. S. Charan Raj, P. S. Kulkarni, D. Bhise, S. Ghosh, A. Rudra and T. Sneha, “Economic Evaluation of a Hybrid PV-Fuel Cell-Battery System for Low-Power Home Applications Using HOMER Pro,” 2025 IEEE Silchar Subsection Conference (SILCON), Chumukedima, Dimapur, India, 2025, pp. 1-6, doi: 10.1109/SILCON67893.2025.11327265.
+39
+J. R. Tembhekar, P. S. Kulkarni and A. N. J. Varma, “Feasibility and Economic Assessment of a Rooftop Solar Photovoltaic System Using Homer Pro Software,” 2025 IEEE 4th International Conference on Smart Technologies for Power, Energy and Control (STPEC), Goa, India, 2025, pp. 1-6, doi: 10.1109/STPEC66316.2025.11490551.
+40
+Gunda Sai Charan Raj, Digambar Bhise and P. S. Kulkarni, “Integrated Economic Assessment of a Hybrid Wind– Floating Solar PV and Dynamic Analysis of PV System”, 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation , (SEFET), 8-11 July 2026, VNIT, Nagpur 41
+Jaskaran Singh Arora; Prateek Raj; Sujoy Pal; Prashant Kumar and P.S. Kulkarni,”Design of proposed Hybrid Floating Solar Photovoltaic System”, 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), 8-11 July 2026, VNIT, Nagpur 42
+Vedika Gurao, Gunda Sai Charan Raj and P.S. Kulkarni, “A Case Study of Hybrid Floating Photovoltaic System at Koyna Dam, Maharashtra, India”, 2026 IEEE 6th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), 8-11 July 2026, VNIT, Nagpur.
+43
+Lokhande, M.M., Kulkarni, P.S., Sawarkar, P.D., Karampuri, R., Roy, A., Lenkalapelly, R. (2026). Net Zero Energy Home with Solar Powered Photovoltaic System. In: Kannan, A., Rao, S., Annamalai, C. (eds) Advanced Computing and Communications: Technologies for a Sustainable Future. ADCOM 2025. Communications in Computer and Information Science, vol 2947. Springer, Cham. https://doi.org/10.1007/978-3-032-26269-1_6
+S.No.
+Paper Citation 1
+R. M. Moharil and P. S. Kulkarni, “Reliability Analysis of Solar Photovoltaic System  using hourly mean solar radiation data”,  Solar Energy  (Elsevier Publication), Vol. 84, 2010, pp. 691-702. doi:10.1016/j.solener.2010.01.022 2
+Ashutosh S. Werulkar and P. S. Kulkarni,  “Energy analysis of Solar Home Lighting system with Microcontroller-based Charge Controller”, Journal of Solar Energy Engineering, ASME, J. Sol. Energy Eng.. 2014; 136(3):031010-031010-9,  SOL-13-1253,doi: 10.1115/1.4026679 3
+Ashutosh Sudhirrao Werulkar and Prakash S. Kulkarni, ““A case study of residential Solar Photovoltaic  system with utility backup in Nagpur, India”,  Renewable and Sustainable Energy Reviews , Elsevier,52 , 2015 1809–1822.https://doi.org/10.1016/j.rser.2015.07.195 4
+P. A. Salodkar, P. S. Kulkarni, Manoj A. Waghmare, P. C. Chaturvedi and Sandeep N, “Asymmetric H-Bridge Single-Phase Seven-Level Inverter Topology with Proportional Resonant Controller”, IETE JOURNAL OF RESEARCH, 2019 https://doi.org/10.1080/03772063.2017.1396934, pp. 19-32 5
+Kokkonda, Karun, and Prakash S. Kulkarni. “A high gain soft-switching active-clamped coupled-inductor-based converter for grid-tied photovoltaic applications.” Electrical Engineering 103.6 (2021): 2783-279 6
+Kokkonda, Karun, and Prakash S. Kulkarni. “A non‐isolated high gain DC‐DC converter with coupled‐inductor and built‐in transformer for grid‐connected photovoltaic systems.” International Journal of Circuit Theory and Applications 50.8 (2022): 2709-2734.
+7
+Mamatha, G., and P. S. Kulkarni. “Assessment of floating solar photovoltaic potential in India’s existing hydropower reservoirs.” Energy for Sustainable Development 69 (2022): 64-76.
+8
+Bodele, Nikhil J., and Prakash S. Kulkarni. “Multi‐input battery‐integrated single‐stage DC‐DC converter for reliable operation of solar photovoltaic‐based systems.” International Journal of Circuit Theory and Applications 51.1 (2023): 243-264.
+9
+N.J. Bodele, P.S. Kulkarni, “Modular battery-integrated bidirectional single-stage DC–DC converter for solar PV based DC Nano-grid application”, Solar Energy, Volume 259, 2023, Pages 1-14, https://doi.org/10.1016/j.solener.2023.04.040 10
+Mamatha G and Kulkarni PS “Analysis of floating photovoltaic systems on hydro reservoirs”, Proceedings of the Institution of Civil Engineers – Engineering Sustainability, 2024, Pages 1-18, https://doi.org/10.1680/jensu.23.00047 11
+Mamatha, G., Kulkarni, P.S. Unlocking the floating solar photovoltaic potential on hydropower reservoirs: a case study of Srisailam dam, India. Electrical Engineering ,2024, pages1-13, https://doi.org/10.1007/s00202-024-02269-z 12
+Bodele, N., Kulkarni, P.S.,”A Zero-Leakage-Current Single-Stage PV-Battery Integrated Inverter with Active Power Decoupling”, IEEE Transactions on Circuits and Systems II Express BriefsOpen source preview, 2024 13
+Werulkar, A.S. ,Kulkarni, P.S.,”Challenges and Issues in Solar PV Development in India.”,Energy Systems in Electrical EngineeringOpen source preview, 2022.
+14
+Moharil, R.M., Kulkarni, P.S., Shete, P.S., Joshi, P.B.,”Performance Analysis of 400 kWp Grid-Connected Rooftop Solar PV System for Technical Institute.”,Energy Systems in Electrical EngineeringOpen source preview, 2022 15
+Salodkar, P.A., Kulkarni, P.S., Waghmare, M.A., Chaturvedi, P.C., Sandeep, N.,”Asymmetric H-Bridge Single-Phase Seven-Level Inverter Topology with Proportional Resonant Controller.”,IETE Journal of ResearchOpen source preview, 2019 16
+Werulkar, A.S., Kulkarni, P.S.,”Energy analysis of solar home lighting system with microcontroller-based charge controller.”,Journal of Solar Energy Engineering Transactions of the ASMEOpen source preview, 2014, 17
+Shankar, D. ,Kulkarni, P.S,”Soft switching buck converter for battery charging with MPPT.”,International Journal of Chemtech ResearchOpen source preview, 2013, 18
+Werulkar, A., Shankar, D., Kulkarni, P.S.,”A soft switching boost converter with simulation of maximum power point tracking for solar home lighting system.”,International Journal of Chemtech ResearchOpen source preview, 2013, 19
+Moharil, R.M., Kulkarni, P.S.,”Reliability analysis of solar photovoltaic system using hourly mean solar radiation data.”,Solar EnergyOpen source preview, 2010 20
+Huddar, A.P., Kulkarni, P.S,”Load frequency control of a multi-area power system using linear quadratic regulator.”,Journal of the Institution of Engineers India Electrical Engineering DivisionOpen source preview, 2009 21
+Huddar, A., Kulkarni, P.S,”A robust method of tuning a decentralized proportional-integral load frequency controller in a deregulated environment using genetic algorithms.”,Electric Power Components and SystemsOpen source preview, 2009 22
+Huddar, A., Kulkarni, P.S.,”A robust method of tuning the feedback gains of a variable structure load frequency controller using genetic algorithm optimization.”,Electric Power Components and SystemsOpen source preview, 2008, 23
+Kulkarni, P.S., Yadav, O.P.,”SRMC based transmission pricing for wheeling transactions under deregulated environment of power sector.”Journal of the Institution of Engineers India Electrical Engineering DivisionOpen source preview, 2008 24
+Moharil, R.M., Kulkarni, P.S,”Generator system reliability analysis including wind generators using hourly mean wind speed.”,Electric Power Components and SystemsOpen source preview, 2008 25
+Kulkarni, P.S., Kothari, A.G., Kothari, D.P.,”Application of radial basis function neural network for economic dispatch.”,Journal of the Institution of Engineers India Electrical Engineering DivisionOpen source preview, 2002

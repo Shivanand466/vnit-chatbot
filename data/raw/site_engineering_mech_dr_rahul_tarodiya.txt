@@ -1,0 +1,183 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-rahul-tarodiya/
+TITLE: Dr. Rahul Tarodiya – VNIT Nagpur Mechanical Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Rahul Tarodiya
+Brief Bio https://scholar.google.com/citations?user=IPgwiJYAAAAJ&hl=en
+Dr. Rahul Tarodiya is currently an Assistant Professor in the Department of Mechanical Engineering at Visvesvaraya National Institute of Technology, Nagpur. He received his Ph.D. from the Department of Mechanical and Industrial Engineering, IIT Roorkee, where his research focused on the performance and wear characteristics of centrifugal slurry pumps handling solid-liquid mixtures. He completed his M.Tech. in Mechanical Engineering from IIT (BHU) Varanasi and his B.Tech. in Mechanical Engineering from S.G.S.I.T.S Indore.
+Dr. Tarodiya has also worked as a Kreitman Postdoctoral Fellow at Ben-Gurion University of the Negev, Israel, from 2020-2022, where he carried out research on surface erosion, CFD-DEM simulations, and particulate flow behavior in engineering systems.
+He has published several research articles in reputed international journals, including Powder Technology, Wear, Advanced Powder Technology, Journal of Tribology, and Atmospheric Pollution Research.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2019
+Mechanical Engineering
+IIT Roorkee 2
+M.Tech 2012
+Mechanical Engineering
+IIT BHU 3
+B.Tech 2008
+Mechanical Engineering
+SGSITS Indore
+Contact
+Phone:
+Email:
+Address:
+0712-2801873 rahultarodiya@mec.vnit.ac.in, rtarodiya@gmail.com 09, Ground Floor, New Academic Building, VNIT Nagpur
+Research Interest
+Fluid machines, Hydraulic Turbines and Pumps, Multiphase flows, Transport systems, Hydraulic and Pneumatic conveying, Computational Fluid Dynamics, CFD-DEM simulations, Erosive wear, Cavitation erosion, Particle breakage, Particle deposition, Heat transfer, Geothermal heating, and cooling technologies.
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Developing heat mitigation strategies using Machine Learning based predictive models
+DST-CEST
+CI 2025 126.39803
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+CFD modeling of prototype of Hydrogen Dispenser H35-T4- NF
+ONEPOINTFIVEDC PRIVATE LIMITED
+Co-ordinator 2025 0.75
+Description
+Author(s)
+Publisher
+ISBN
+Year 3D Numerical Flow Field Investigation of Centrifugal Slurry Pump with Water
+Rahul Tarodiya and Bhupendra K Gandhi
+Springer 2024
+Modelling and Simulation of Erosive Wear and Particle Breakage in Pneumatic Conveying in the Book title “Simulations in Bulk Solids Handling”
+Rahul Tarodiya and Avi Levy
+Wiley-VCH GmbH 2023
+Analysis of Optimum Operating Parameters for Ground Source Heat Pump System for Different Cases of Building Heating and Cooling Mode Operations in the Book title “Thermal Energy Systems: Design, Computational Techniques, and Applications”
+Sivasakthivel Thangavel, Vikas Verma,  Rahul Tarodiya,  Chandan Swaroop Meena,  Varun Pratap Singh,  Rajesh Kumar
+CRC Press 2023
+Optimization of PV electrolyzer for hydrogen production in the book “Renewable Energy Systems: Modeling, Optimization and Applications”
+Sudipta Saikia, Vikas Verma, Sivasakthivel Thangavel, Rahul Tarodiya, Rajesh Kumar
+Wiley 2022
+Performance Optimization of a Pine Oil-Fueled Agricultural Engine Using Grey –Taguchi Approach in the book “Renewable Energy Systems: Modeling, Optimization and Applications”
+Rajesh Kumar, Manoj Gwalwanshi, Vikas Verma, Rahul Tarodiya, Manoj Kumar
+Wiley 2022
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Hostel Wardenship 2
+Prof. in-charge IG 26 3
+Industry interaction Co-ordinator 4
+DRCC committee member 5
+Summer Internship Program Co-ordinator 6
+Prof. in-charge student activity 7
+Exam co-ordinator
+Sr. No.
+Awards
+Kreitman Post Doctorate Fellowship at Ben Gurion University of the Negev, Israel for two years (2020-22).
+S.No.
+Publications 24
+Akash B. Raut, Rahul Tarodiya, Vilas R. Kalamkar, Ranjeet Rai, and Vikas Verma, “Numerical investigation on hydrothermal characteristics of Turbulator‑Integrated triple‑tube heat exchanger with ternary hybrid nanofluid”, Journal of Thermal Analysis and Calorimetry, (2026),1-10.
+23
+Jeshim Hashmy, Bhupendra K. Gandhi, Rahul Tarodiya, “Numerical analysis on local impact parameters affecting slurry erosion in pipe bends”, Multiphase Science and Technology, 37 (3), 2025.
+22
+Vivek Prasad, Vikas Verma, Rahul Tarodiya, Tushar Choudhary, Ravi Kant Ravi, Mukesh Kumar, “Experimental performance investigation of double-slope solar still with splitter plate and hollow circular fins”, ASME Journal of Thermal Science and Engineering Applications, 2024.
+21
+Subodh Khullar, Rahul Tarodiya, Sandeep Kumar, “Study of erosion-induced leakage flow in guide vane of Francis turbine using erosion-coupled mesh deformation simulations”, Powder Technology (Elsevier), 438(2024), 119640.
+20
+Rahul Tarodiya, Avi Levy, “Numerical investigation of collision characteristics of non-spherical particles on ductile surfaces under normal impact”, Computational Particle Mechanics (Springer), (2024), 1-7.
+19
+Shanthan Vardelli, Jiwak Suryawanshi, Rahul Tarodiya, Akshay Loyte, Yuvarajan Devarajan, Nandagopal Kaliappan, “Numerical analysis of spray characterization of blends of hydrous ethanol with diesel and biodiesel”, Scientific Reports (Natureportfolio), 14(2024), 5726.
+18
+Rahul Tarodiya, Boris Krasovitov, Nathan Kleeorin, Avi Levy, and Itzhak Katra, “Numerical study of dry deposition of dust-PM10 on leaves of coniferous forest,” Atmospheric Pollution Research, Vol. 14, 2023, p. 101859.
+17
+Rahul Tarodiya, and Avi Levy, “Erosion coupled dynamic mesh analysis for location of maximum erosion in 90-degree bends for gas-solid flows,” Advanced Powder Technology, Vol. 34, 2023, p. 104063.
+16
+Vikas Verma, Ratandeep Nath, and Rahul Tarodiya, “Heat transfer prediction for radiant floor heating/cooling systems using artificial neural network (ANN),” Heat Transfer, Vol. 52, 2023, pp 3135-3152.
+15
+Vikas Verma, Rahul Tarodiya, Sivasakthivel Thangavel, and Ratandeep Nath, “Thermal performance of water-based brines as a heat carrier for ground heat exchanger under severely cold environments,” Heat Transfer, Vol. 51, 2022, pp 7233-7249.
+14
+Rahul Tarodiya, Subodh Khullar, and Avi Levy, “Assessment of erosive wear performance of Pelton turbine injectors using CFD-DEM simulations,” Powder Technology, Vol. 408, 2022, p. 117763.
+13
+Rahul Tarodiya, Subodh Khullar, and Avi Levy, “Particulate flow and erosion modeling of a Pelton turbine injector using CFD-DEM simulations,” Powder Technology, Vol. 399, 2022, p. 117168.
+12
+Ratnadeep Nath, Vikas Verma and Rahul Tarodiya, “Optimization of a radiant system for hydrothermal performance using Taguchi and utility concept,” Journal of Thermal Science and Engineering Applications, Vol. 14, 2022, p. 021014.
+11
+Rahul Tarodiya and Avi Levy, “Erosion of polymers and polymer composites surfaces by particles,” Advanced Powder Technology, Vol. 32, 2021, pp 3149-3159.
+10
+Rahul Tarodiya and Avi Levy, “Surface erosion due to particle surface interactions – a review,” Powder Technology, Vol. 387, 2021, pp 527-559.
+9
+Rahul Tarodiya and Bhupendra K. Gandhi, “Numerical investigation of erosive wear of a centrifugal slurry pump due to solid-liquid flow,” Journal of Tribology, Vol. 143, 2021, p. 101702.
+8
+Rahul Tarodiya, Vikas Verma and Sivasakthivel Thangavel, “A study on utilization of ground source energy for space heating using a nanofluid as a heat carrier,” Heat Transfer, Vol. 50, 2021, pp 3842-3860.
+7
+Rahul Tarodiya and Bhupendra K. Gandhi, “Effect of particle size distribution on performance and particle kinetics in a centrifugal slurry pump handling multi-size particulate slurry,” Advanced Powder Technology, Vol. 31(12), 2020, pp 4751-4767.
+6
+Rahul Tarodiya, Subodh Khullar and Bhupendra K. Gandhi, “CFD modeling of multi-sized particulate slurry flow through pipe bend,” Journal of Applied Fluid Mechanics, Vol. 13(4), 2020, pp 1311-1321.
+5
+Rahul Tarodiya and Bhupendra K. Gandhi, “Experimental investigation of centrifugal slurry pump casing wear handling solid-liquid mixtures,” Wear, Vol. 434-435, 2019, p. 202972.
+4
+Rahul Tarodiya and Bhupendra K. Gandhi, “Numerical simulation of a centrifugal slurry pump handling solid-liquid mixture: effect of solids on flow field and performance,” Advanced Powder Technology, Vol. 30, 2019, p. 2225–2239.
+3
+Rahul Tarodiya and Bhupendra K. Gandhi, “Experimental investigation on slurry erosion behavior of 304l steel, grey cast iron, and high chromium white cast iron,” Journal of Tribology, Vol. 141, 2019, p. 091602.
+2
+Rahul Tarodiya and Bhupendra K. Gandhi, “Hydraulic performance and erosive wear of centrifugal slurry pumps – a review,” Powder Technology, Vol. 305, 2017, pp 27-38.
+1
+Jahar Sarkar and Rahul Tarodiya, “Performance analysis of louvered fin tube automotive radiator using nanofluids as coolants,” International Journal of Nano manufacturing, Vol. 9 (1), 2013, pp 51-65.
+S.No.
+Publications 18
+Akash B. Raut, Rahul Tarodiya, Vilas R. Kalamkar, Ranjeet Rai, and Vikas Verma, (2026), “Numerical Analysis of a Triple Tube Heat Exchanger Thermal Performance Equipped with Twisted Tape Insert”, in 1st International Conference on Thermo Fluids and Green Energy Technology (TFGET-2026), NIT Jalandhar, Paper ID 52.
+17
+Jaswant Gorle, Rahul Tarodiya, and Vilas R. Kalamkar, (2026), “CFD Analysis of Particle Deposition on Tube Bundle Surface”, 1st International Conference on Thermo Fluids and Green Energy Technology (TFGET-2026), NIT Jalandhar, Paper ID 76.
+16
+Rahul Tarodiya, (Oct. 2024) “CFD Analysis of Erosion on Elbows in Series for Gas-Solid Flows: Effect of Connecting Pipe Length between Two Elbows”, in Fifth International Structural Integrity Conference and Exhibition 2024 (SICE 2024) VNIT Nagpur.
+15
+Abhijit Parate and Rahul Tarodiya, (Oct. 2024) “Numerical investigation of particle impact velocity in a jet impact tester for gas solid flow”, in Fifth International Structural Integrity Conference and Exhibition 2024 (SICE 2024) VNIT Nagpur.
+14
+Rahul Tarodiya and Bhupendra K. Gandhi, (Dec. 2022), “3D Numerical Flow Field Investigation of Centrifugal Slurry Pump with Water”, Proceedings of the 9th International and 49th National Conference on Fluid Mechanics and Fluid Power (FMFP), Paper no. 1165, IIT Roorkee, Uttarakhand, India.
+13
+Arup C. Saha, Vikas Verma, Rahul Tarodiya, M. R. Mahboob, and Rajesh Kumar, (May 2021), “Analytical modeling of a radiant cooling system for thermal performance analysis”, International Conference on Materials and System Engineering, Karnataka, India. 10.1016/j.matpr.2021.04.553 12
+Sivasakthivel Thangavel, Vikas Verma, Rahul Tarodiya, and Parameswari Kaliyaperumal, (May 2021), “A study on optimization of horizontal ground heat exchanger parameters for space heating application”, International Conference on Materials and System Engineering, Karnataka, India. 10.1016/j.matpr.2021.04.245 11
+Sivasakthivel Thangavel, Vikas Verma, Rahul Tarodiya, and Parameswari Kaliyaperumal, (May 2021), “Comparative analysis and evaluation of different working fluids for the organic Rankine cycle performance”, International Conference on Materials and System Engineering, Karnataka, India. 10.1016/j.matpr.2021.05.064 10
+Sudipta Saikia, Vikas Verma, Biraj K. Kakati, Sivasakthivel Thangavel and Rahul Tarodiya, (Feb. 2021) “Optimization of solar integrated electrolyser system for hydrogen production using Taguchi method”, International Conference on Advancement in Materials, Manufacturing and Energy Engineering, Bhopal. 10.1016/j.matpr.2021.02.304 9
+Rahul Tarodiya and Bhupendra K. Gandhi, (Dec. 2018), “Numerical Prediction of Casing Wear of a Centrifugal Slurry Pump Handling Solid-Liquid Mixture”, 7th International Conference of Fluid Mechanics and Fluid Power, 83, IIT Bombay, Maharashtra, India.
+8
+Jesim Hashmy, Rahul Tarodiya, and Bhupendra K. Gandhi, (Dec. 2018), “Numerical Study of Erosion Wear of Straight Pipes due to Suspended Solid Particles”, 7th International Conference of Fluid Mechanics and Fluid Power, 119, IIT Bombay, Maharashtra, India.
+7
+Shubham Sharma, Rahul Tarodiya, and Bhupendra K. Gandhi, (Dec. 2018), “Experimental Investigation of Flow Field of a Pot Tester due to Propeller Rotation”, 7th International Conference of Fluid Mechanics and Fluid Power, 487, IIT Bombay, Maharashtra, India.
+6
+Subodh Khullar, Bhupendra K. Gandhi and Rahul Tarodiya, (Dec. 2017) “Numerical modelling of the centrifugal slurry pump handling bottom ash slurry”, 44th National Conference on Fluid Mechanics and Fluid Power, 173, Amrita University, Kollam, Kerala, India.
+5
+Rahul Tarodiya and Bhupendra K. Gandhi, (Dec. 2016), “Effect of Propeller Off- Bottom Clearance and Size on Suspension of Sand Particles in a Cylindrical Tank: Application to Slurry Pot Tester”, 6th International Conference of Fluid Mechanics and Fluid Power, 82, MNNIT Allahabad, U.P., India.
+4
+Rahul Tarodiya, Subodh Khullar, and Bhupendra K. Gandhi, (March 2016) “Analysis of particle size distribution of multisize particulate slurry flow in horizontal pipeline using CFD”, International Conference on Research Innovations in Science and Engineering (RISE), Maurtius.
+3
+Rahul Tarodiya, Jahar Sarkar, and Jeevan V. Tirkey, (June 2012), “Performance of Flat Fin Tube Automotive Radiator using Nanofluid as Coolant”, National Conference on Advances in Thermal Engineering, Medi-caps Institute of Technology and Management, Indore, MP, India.
+2
+Rahul Tarodiya, and Jahar Sarkar, (Oct. 2011), “Cooling of an Internal Combustion Engine using Nanofluids: A Review”, National Conference of Emerging Trends in Mechanical Engineering, Gurgaon, Haryana, India.
+1
+Rahul Tarodiya, and Jahar Sarkar, (Oct. 2011), “Comparison of Various Correlations of Transport Properties of Nanofluids”, National Conference on Design and Analysis of Mechanical Systems using Optimization Techniques, IET DAVV, Indore, M.P., India.

@@ -1,0 +1,171 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/research/
+TITLE: Research – Electrical Engineering  VNIT Nagpur MH
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+PROJECTS @
+ELECTRICAL ENGINEERING
+Research Areas
+Projects
+Publications & Journals
+Name of the Faculty
+Area(s) of Research
+Description of the Problem statement(s)
+Faculty Web Page
+S. S. Bhat
+Power System, Microgrid, Digital Twins, Power System Dynamics & Control
+Dr. S. S. Bhat – Electrical Engineering VNIT Nagpur MH
+Jay Prakash Singh
+Control System, Nonlinear Dynamics 1. Design of RL-based and nonlinear (SMC) controller for energy management and control of dynamical system in EV charging station and PEM Fuel Cell. 2. Applications of memristor emulator. 3. Applications of nonlinear dynamics and chaos.
+Dr. Jay Prakash Singh – Electrical Engineering VNIT Nagpur MH
+Ashwin Dhabale
+Control Systems, Guidance and control of Autonomous Vehicles,Power Systems, PE Converters, FACTS Technology, Electrical Drives and Machines
+Will start working with the prospective student in his/her area of interest mentioned in the list above and the problem statement will get consolidated as the work progresses.
+Dr. A. Dhabale – Electrical Engineering VNIT Nagpur MH
+Jawaharlal Bhukya
+AI-driven stability analysis of wind-integrated power systems
+High penetration of wind energy introduces variability and uncertainty, affecting power system stability. Traditional methods struggle with real-time prediction and control. This research explores AI and machine learning techniques to accurately predict, analyze, and enhance transient, voltage, and frequency stability in wind-integrated power systems.
+Dr. Jawaharlal Bhukya​ – Electrical Engineering VNIT Nagpur MH
+Ramsha Karampuri
+Multiphase Electrical Drives, Power Electronics Converters for Renewable Energy Systems and Internet of Things 1. Closed Loop Sensor-less Control Strategies for Multiphase Motor Drives 2. Predictive Algorithms for Fault Tolerant Operation of Five-Phase and Six-Phase Open-End Winding Induction Motor Drives for Electric Vehicle Applications 3. Design and Development of Solar PV Pumping Systems with Open-End Stator Wound Permanent Magnet Motor 4. Retrofitting of Existing IC Engine Based Pick-Up Truck to Battery Electric Vehicle
+Dr. Ramsha Karampuri – Electrical Engineering VNIT Nagpur MH
+Makarand M. Lokhande
+Power Electronics, Electrical Machine Design, PWM Technique, DC-DC Converter, Solar Energy, Induction heating, Switched Reluctance motor for EV, Grid Connected PV system
+Core research expertise in power electronics, electrical machines, renewable energy, and electric mobility. Focus on converter design, multilevel inverters, SRM drives, and PV systems. Methods include modeling, simulation, FEA, and hardware prototyping. Applications include smart grids, energy storage, EV charging, and net-zero energy systems for efficient, sustainable power sector solutions.
+Dr. M.M. Lokhande – Electrical Engineering VNIT Nagpur MH
+Rajshri Satputaley
+Power Quality
+Loading Effect of EV CHARGING STATION ON GRID AND ITS MITIGATION
+Dr. R.J. Satputaley – Electrical Engineering VNIT Nagpur MH
+Ritesh Kumar Keshri
+Power Electronics and Drives for Electric Vehicle Propulsion and Charging Infrastructure
+Focused area of current Research:
+– High Power Wireless Charging of an Electric Vehicle
+– Rare-earth material free Synchronous Reluctance motor and Motor Controller.
+– Charging while in Motion
+– Battery Energy Storage and Battery Management System
+– Onboard Charger for Electric Vehicles
+Dr. Ritesh Kumar Keshri – Electrical Engineering VNIT Nagpur MH
+Pradyumn Chaturvedi
+Power Electronics, Electric Vehicle Charging Infrastructure, Solid State Transformer / Power Electronic Transformer for EV and Microgrid Applications, Fault Tolerant Multilevel Inverters, Reliability in Power Electronic Converters, AC/DC Microgrid, Wide Band Gap device based design and development of power electronic converters, Modular Multilevel Converters, Medium Voltage Grid Tied Power Electronic Converters etc.
+Design and Development of High frequency magnetics and Solid-State Transformer for Medium Voltage AC Integrated, 1000V Multiport DC Electric Vehicle Charging Infrastructure & DC Microgrid Applications. Active Front End Converter and Resonant dc-dc Converter design is one of the component of this project. It is the part of developing Futuristic DC Building pilot scale project. Fault Detection, Fault Tolerance and Reliability analysis are other objectives of this project.
+Dr. Pradyumn Chaturvedi – Electrical Engineering VNIT Nagpur MH
+Krishnama Raju Suraparaju 1. Application of Artificial Intelligence to Electrical Systems especially Power Electronics and Microgrid Control; Control Systems
+Design and Development of AI based controllers for Power converters associated with Electric Vehicles and Renewable Energy Systems
+Dr. Krishnama Raju Suraparaju – Electrical Engineering VNIT Nagpur MH
+P. S. KULKARNI
+SOLAR PHOTO-VOLTAIC SYSTEMS
+Floating Solar PV (FSPV) systems offer a promising alternative for clean energy generation the world-over. Even though these systems have sound potential, their large-scale use is limited. Keeping this in view, it will be interesting to study the suitability of FSPV systems for meeting energy needs of islands in India.
+Dr. P.S. Kulkarni – Electrical Engineering VNIT Nagpur MH
+M S Ballal
+Digital Twin for the condition monitoring and health assessment of electrical components like EV Battery Pack, Solar PV Plants, industrial motors, etc.
+Scholars will architect Digital Twins for EV batteries, solar plants, and motors, fusing physics-based models with real-time data. This research targets Cyber-Physical Synergy, evolving traditional monitoring into autonomous, predictive “digital nervous systems.” By transforming raw electrical signatures into actionable intelligence, you will redefine reliability and drive the technological resilience of the global green energy transition.
+Dr. M. S. Ballal – Electrical Engineering VNIT Nagpur MH
+Mohd Alam
+Power Electronics, Solar Photovoltaic System 1. Design of active PWM rectifier for EV charging application,  2.  Design and Analysis of Grid-Tied Inverter for Solar photovoltaic system, 3. Design and Analysis of Wide band gap power converter
+Dr. Mohd Alam – Electrical Engineering VNIT Nagpur MH
+Bhooshan Rajpathak
+Power System, Control System, Power Electronics 1. Droop Control strategies for PV fed EV Charging Station with Hybrid Battery Backup 2. State Transfer Problem 3. Analysis of asynchronous switching circuits in Power Electronics
+Dr. Bhooshan Rajpathak – Electrical Engineering VNIT Nagpur MH
+Narendrababu A
+Power Electronics; Multilevel Inverters; Advanced PWM techniques; Power Converters for Renewable Energy Systems; EV Charging Infrastructure;
+1. Design and Development of High-Power PFC Rectifier Systems for EV Charging. 2. Fault Tolerant Operation of Multilevel Inverters. 3. Advanced Control Strategies for Multilevel Inverters 4. Digital Twin Based Control of Power Converters for Renewable Energy Systems.
+Dr. Narendrababu A – Electrical Engineering VNIT Nagpur MH
+Arghya Mitra 1. AI/ML Application to Power System; 2. Digital Twin of Power System and its Components, 3. Energy Management in Microgrid 1. Energy Vector Forecasting using AI/ML and Cyber Security of Power System using AI/ML, 2. Digital Twin of Power System as a whole along with options of twins of different power system components, 3. Energy Management in Microgrid, aiming at maximum utilization of renewables, minimum dependency on utility grid, maximizing the life of storage system etc.
+Dr. Arghya Mitra – Electrical Engineering VNIT Nagpur MH
+Nita Patne
+Power system faults analysis, distribution network manegment, energy trading
+Identification of location and type of faults in the power system is crucial and very important for timely action and stability of network. Use of AI and ML techniques for quick identification is the need of the day.  Unmaned arial vehicle for fault detection over a long transmission network is the quick way. It is proposed to study different modern techniques with  exstisting system data to give real solution.
+Dr. (Mrs.) N. R. Patne – Electrical Engineering VNIT Nagpur MH
+Soumyabrata Das
+Electric Vehicle Charging Station and Congestion Management, Active Distributed System and Smart Grid, Power System Operation and Control, Application of Optimization Techniques in Power System 1. To integrate solar, wind, and load forecasting models for coordinated and intelligent on-grid energy management.
+2. Optimal scheduling of EV charging/discharging to minimize several single and multi-objective problem such as operational cost and improve grid support.
+3. To enhance overall grid stability, reliability, and energy utilization using optimization techniques and energy management frameworks.
+4. Impact analysis of Electromagnetic interference in Indian railway systems affects power quality and communication reliability.
+Dr. Soumyabrata Das​ – Electrical Engineering VNIT Nagpur MH
+Avisha Tah
+Control of Power Electronic Converters
+Renewable energy integration to the grid or forming a microgrid.
+Dr. Avisha Tah – Electrical Engineering VNIT Nagpur MH
+SN
+PI-Co.PI
+Project Title (R&D)
+Funding/ Sponsoring Authority
+Amount
+Sanction Year
+Duration (Years)
+Status 1
+Dr. P. Chaturvedi
+Highly Efficient and Reliable Solid State Transformer for Future Distribution Network with Renewable Energy Support
+DST (GITA)
+₹30,00,000 2021 3
+On-going 2
+Dr. P. Chaturvedi (PI) ; Dr. S.K. Patro (Co-PI); Dr. S. S. Bhat (Co-PI)
+Sustainable Energy system for Achieving Novel Carbon Neutral Energy Communities (SUSTENANCE)
+DST
+₹56,97,080 2021 3.5
+On-going 3
+Dr. R.K. Keshri (PI) ; Dr. A. Mitra (Co-PI); Dr.H M Suryawanshi (Co-PI)
+Renewable Energy EMPOWERING European and Indian Communities (RE-EMPOWERED) under EU-India Horizon 2020 Program
+DST
+₹67,71,880 2021 3.5
+On-going 4
+Dr. R.K. Keshri (PI); Dr.H M Suryawanshi (Co-PI)
+Development of 5kW Wireless Charger for Electric Vehicle
+MEITY (NaMPET Ph-III, CDAC-T)
+₹ 98,89,000 2020 2
+On-going 5
+Dr. M S Ballal (PI); Dr.H M Suryawanshi (Co-PI)
+A Solution for a stable and combined operation of Multiple Renewable Resources: Intelligent DC micro grid
+IMPRINT
+₹ 42,55,761 2018-2019 (July-June) 3
+On-Going 6
+Dr. Sunil Bhat(PI); Dr. A. Mitra (Co-PI)
+Modelling, Stability and Fault Analysis of BLDC Type Multi Machine System
+BARC
+₹ 45,00,000 2018-2019 (July-June) 3
+On-Going 7
+Dr. P.Chaturvedi (PI); Dr.H M Suryawanshi (Co-PI)
+Design and Development of Distributed Energy Recourses assisted Highly Efficient and Reliable Power Electronics Transformer for off-Grid Rural Electrification.
+SERB
+₹ 62,76,774 2018-2019 (July-June) 3
+On-Going 8
+Dr. R.K. Keshri (PI)
+Research Contingency Grant
+Digital India Corporation
+₹ 37,00,000 2017-2018 (July-June) 5
+Completed 9
+Dr. M.V.Aware (PI); Dr.B.S.Umre (Co-PI)
+Multi-phase(6-Phase) Matrix converter for traction
+SERB
+₹ 42,23,633 2017-2018 (July-June) 3
+Completed 10
+Dr. M.M.Lokhande (PI)
+Design and Development of an Experimental Test Bench set-up of Electric Vehicles
+SERB
+₹ 35,88,620 2016-2017 (July-June) 3
+Completed 11
+Dr. R.K. Keshri (PI)
+Development of Contactless Energy Exchange System for Autonomous Electric Vehicles
+SERB
+₹ 37,44,580 2016-2017 (July-June) 3
+Completed 12
+Dr. M S Ballal (PI); Dr.H M Suryawanshi (Co-PI)
+Development of Test Bench for performing various tests of Transformers
+High Rise Transformers (HRT)
+₹ 5,04,000 2015-2018 (July-June) 2
+Completed 13
+Dr. H M Suryawanshi (PI); Dr. M S Ballal (Co-PI)
+Development of efficient converters for Grid Integration
+DST
+₹ 59,46,400 2014-2018 (July-June) 3
+Completed 14
+Dr. H.M. Suryawanshi (PI)
+Reliable Efficient Solution for Community Energy System (RESCUES*)
+DST/UKRC
+₹42,00,000 2014-2015 (July-June) 3
+Completed
+Total amount:
+₹6,62,97,728
+Six crore sixty two lakh ninety seven thousand seven Hundred twenty eight Rs
+Faculty publications (Journal + Conferences)

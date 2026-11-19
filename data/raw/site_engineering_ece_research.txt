@@ -1,0 +1,497 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/research/
+TITLE: Research – VNIT Nagpur Electronics and Communication Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Research at Department of Electronics and Communication Engineering
+Projects
+Publications & Journals
+Patents
+Short Term Training Program(STTP)
+Industry Institute Collaboration
+Research Areas / Expertise 1) Embedded Systems and Sensor networks 2) Communication Engineering 3) Signal Processing 4) IoT Electronics & Instrumentation.
+5) Image /video processing and Computer Vision 6) Antennas / RF 7) Microwave Engineering 8) Artificial Intelligence Machine learning and its applications 9) Biomedical signal/image/video processing and its applications 10) Optical and Photonics
+Research Projects
+S.No.
+Projects Name
+PI Name
+CO-PI Names
+Agency
+Sanctioned Academic Year
+Sanctioned Amount (in Lacs) 1
+Study and realization of low Vpi Mach-Zender for OOK/BPSK/QPSK modulation up to 20 GHz
+NandKumar (IIT Goa)
+Anamika Singh
+ISRO 2023-2026 39.73 2
+PIC based Tx and Rx with multiplexed optical channels employing polarization modula- tion and homodyne/heterodyne detection
+Anamika Singh
+Prabhat Sharma
+ISRO 2023-2026 39.24 3
+Optically Controlled Intelligent Reflecting Surfaces for 6G Wireless Communication Systems
+Anamika Singh
+Prabhat Sharma
+SERB 2023-2026 30 4
+Channel Estimation for future generation wireless communications
+Prabhat Sharma
+NA
+SERB 2023-2-24 18 5
+DoT 5G Use Case Lab
+Prabhat Sharma
+Anamika Singh
+DoT 2024-2029 400 (tentative) 6
+Design Analysis and Testbed Development for Molecular Communication Systems
+Prabhat Sharma
+Anamika Singh
+SERB 2024-2027 32.87 7
+Development of an EEG based Imagined Speech recognition system for augmentation of patient care communication
+Pradnya Ghare
+Ashwin Kothari, Prathamesh Kamble
+SERB 2023-2026 26.87 8
+Dynamic controller and estimator design for Hybrid solar thermal power plant
+K.Surender
+N.A.
+DST-SERB 2023-2026 21.58 9
+Deaf & Mute Sign Language Translator using Artificial Intelligence
+Vipin Kamble
+N.A.
+SERB 2022-2024 14.22 10
+Safe Ship Navigation
+Pratik Shah
+Punit Bhavsar
+ISRO 2022-2024 11.42 11
+Development of Fully-Automated Liver Cancer Detection and Severity Estimation System from H&E Stained Histopathological Images using Deep Learning-based Image Processing Methods
+Deep Gupta
+Ankit A Bhurane, Nisha Meshram
+SERB 2022-2025 24.62 12
+Analysis Design and Implementation of Intelligent Reflecting Surface (IRS) Assisted Wireless Communication Systems
+Prabhat Sharma
+Ajeet Srivastava
+MeitY 2021-2024 56.8 13
+Development of a simple and low cost unified smart video surveillance system for suspicious human activity recognition in wide area surveillance
+V.R. Satpute
+NA
+SERB 2019-2022 42.16 14
+Low cost real time dual mode Photoacoustic Ultrasound imaging technology for non-invasive diagnosis and management of cancer
+Saugata Sinha
+AS Gandhi, Deep Gupta, VR Satpute
+SPARC 2019-2021 46 15
+Automated Face Recognition in low resolution still images and video sequences
+V.R. Satpute*
+NA
+MeitY 2017-2022 37 16
+Application of Deep Learning on dual mode Photoacoustic and Ultrasound images for weakly supervised computer aided cancer diagnosis.
+Saugata Sinha*
+NA
+MeitY 2017-2022 37 17
+Development And Analysis of Spectral Efficient Communication Systems for Future Generation IOT apps
+Prabhat Sharma*
+NA
+MeitY 2017-2022 37 18
+Development of a customized dual mode in vivo Photoacoustic and Ultrasound Imaging system for early of breast cancer detection
+Saugata Sinha
+NA
+SERB 2017-2020 37.958 19
+To develop a test bed based on Magnetic Induction (MI) Communication for agricultural soil condition monitoring (water concentration, minerals and toxic chemicals)
+Vinay Kumar
+JoyDeep Sen Gupta, Rajeev Tripathi
+MeitY 2017-20 40.68 20
+Full Duplex Wireless Systems: Performance and Implementation Issue
+Prabhat Sharma
+NA
+SERB 2016-2019 23.167 21
+Visvesvaraya Ph.D. Scheme
+K.M. Bhurchandi
+NA
+MeitY 2015-2021 1400 +280 22
+Development of digital dental restoration system
+R. Uddanwadekar
+K.M. Bhurchandi
+DST 2014-2018 42 23
+Centre of Excellence Combedded system
+AG Keskar
+Ashwin Kothari
+MHRD 2013-2021 900
+International/National Referred Journals during the year 2017-18
+Research Publications in International/National Conferences during the year 2017-18
+Participation in International/National Conferences in India & Abroad during the year 2017-18
+International/National Referred Journals during the year 2017-18
+Sr. No.
+Publication Details 1
+Wang, J. Wang, Guoru Ding, L. Wang, T. A. Tsiftsis and Prabhat Kumar Sharma, “Resource Allocation for Energy Harvesting-Powered D2D Communication Underlaying UAV-Assisted Networks” IEEE Transactions on Green Communications and Networking, March 2018.
+2
+LokeshGahane, Prabhat Kumar Sharma, N. Varshney, T. Tsiftsis and P. Kumar, “An Improved Energy Detector for Mobile Cognitive Users over Generalized Fading Channels”, IEEE Transactions on Communications, February 3
+Nella, and A. S. Gandhi, “A Five-Port Integrated UWB and Narrowband Antennas System Design for CR Applications”, IEEE Transactions on Antennas and Propagation, Vol. 66, Issue. 4, pp. 1669-1676, February 2018.
+4
+LokeshGahane and Prabhat Kumar Sharma, “Performance of Improved Energy Detector with Cognitive Radio Mobility and Imperfect-CSI”, IET Communications, Vol 11, Issue 12, pp. 1857 – 1863, August 2017.
+5
+Prabhat Kumar Sharma and Ankur Bansal, ”DF MISO System with Arbitrary Beamforming in Atmospheric Turbulence and Misalignment Errors” to appear in Photonic Network Communications, Oct 2017.
+6
+Santosh kumarSabat, Prabhat Kumar Sharma and Abhay Gandhi, “Full-Duplex Cooperative Spectrum Sensing with Primary User Activity in Cognitive Radio Networks” to appear in IETE Technical Review (Taylor &Francis), Oct 2017.
+7
+KambleVipin Milind, MayurRajaramParate, and Kishor M. Bhurchandi, “No reference noise estimation in digital images using random conditional selection and sampling theory”, The Visual Computer (2017): 1-17.
+8
+Kamble, Paresh R., Avinash G. Keskar, and Kishor M. Bhurchandi, “Ball tracking in sports: a survey” Artificial Intelligence Review (2017): 1-51.
+9
+KahuSamruddhi Y., and Kishor M. Bhurchandi, “A Low-Complexity, Sequential Video Compression Scheme Using Frame Differential Directional Filter Bank Decomposition in CIE La* b* Color Space.” IEEE Access 5 (2017): 14914-14929.
+10
+ParateMayurRajaram, Vishal R. Satpute, and Kishor M. Bhurchandi, “Global-patch-hybrid template-based arbitrary object tracking with integral channel features”, Applied Intelligence (2018): 1-15.
+11
+Kamble V. M., and K. Bhurchandi, “Noise Estimation and Quality Assessment of Gaussian Noise Corrupted Images” IOP Conference Series Journal: Materials Science and Engineering, Vol. 331, No. 1. IOP Publishing, 2018.
+12
+ParateMayurRajaram, and Kishor M. Bhurchandi “Structurally Enhanced Correlation Tracking” KSII Transactions on Internet & Information Systems, 11.10 (2017).
+13
+NeoleBhumika A., Bhagyashree V. Lad, and K. M. Bhurchandi, “Denoising of digital images using consolidation of edges and separable wavelet transform” International Journal of Computer Applications, 168.10 (2017).
+14
+Varun Tiwari, AvinashKeskar, NC Shivaprakash, “Towards creating a reference based self-learning model for improving human machine interaction”, CSI transactions on ICT, Volume 5, Issue 2, Pages201-208, 2017.
+15
+Varun Tiwari, AvinashKeskar, NC Shivaprakash, “A Reconfigurable IoT Architecture with Energy Efficient Event-Based Data Traffic Reduction Scheme”, International Journal of Online Engineering, Volume 13, Issue 2, 2017.
+16
+MdFarukh Hashmi, Avinash G Keskar, “An Optimized FPGA Implementation of CAN 2.0 Protocol Error Detection Circuitry”, Indonesian Journal of Electrical Engineering and Computer Science, Volume 6, Issue 3, 2017.
+17
+PatilRupali B., K. D. Kulat, and A. S. Gandhi, “SDR Based Energy Detection Spectrum Sensing in Cognitive Radio for Real Time Video Transmission”, Modelling and simulations in Engineering, 2018.
+18
+MaratheDushyant, and Kishore Kulat, “A compact dual, triple band resonators for negative permittivity metamaterial”, AEU-International Journal of Electronics and Communications,88 (2018): 157-165.
+19
+MaratheDushyant, and Kishore Kulat, “A Compact Triple-Band Negative Permittivity Metamaterial for C, X-Band Applications”, International Journal of Antennas and Propagation (2017).
+20
+MaratheDushyant, and Kishore Kulat, “A wideband wide‐angle ultrathin low profile metamaterial microwave absorber”, Microwave and Optical Technology Letters,3 (2018): 799-801.
+21
+MaratheDushyant, and Kishore Kulat, Comment on “A Compact Ultra-Thin Ultra-Wideband Microwave Metamaterial Absorber”, Microwave and Optical Technology Letters (In Press).
+22
+Gupta Aditya, NeerajBokde, and K. D. Kulat, “Hybrid Leakage Management for Water Network Using PSF Algorithm and Soft Computing Techniques”, Water Resources Management(2018): 1-19.
+23
+Mishra Sudhir Kumar, and Kishore DamodarKulat, “Reduced Feedback Rate Schemes for Transmit Antenna Selection With Alamouti Coding”, IEEE Access 6 (2018): 10028-10040.
+24
+Bokde N., Kulat, K., Beck, M. W., &Asencio-Cortés, G., “R package impute Testbench to compare imputations methods for univariate time series”, The R Journal. In Press.
+25
+Aditya Dinesh Gupta, NeerajBokde, DushyatMarathe, Kishore Kulat, “Optimization techniques for leakage management in urban water distribution networks”, Water Science and Technology: Water Supply6 (2017): 1638-1652.
+26
+BokdeNeerajDhanraj, Aditya Gupta, and Kishore Kulat, “Backward elimination approach of regression model to decide the road safety policies across the states in India”, Indian journal of science and technology48 (2017).
+27
+PatilRupali B., K. D. Kulat, and A. S. Gandhi, “GMSK Based Real Time Video Transmission on SDR Platform”, International Journal of Applied Engineering Research15 (2017): 5089-5093.
+28
+Gupta A. D., and Kulat K.D., “A selective literature review on leak management techniques for water distribution system”, Water Resources Management. (2018) DOI: 10.1007/s11269-018-1985-6.
+29
+Gupta A. D.,andKulat K.D., “Leakage reduction in water distribution system using efficient pressure management techniques. Case study: Nagpur, India”, Water Science and Technology: Water Supply. DOI is 10.2166/ws.2018 (2018) .023.
+30
+R. Satpute, K.D. Kulat, A.G. Keskar, “Comparative analysis of video compression mechanisms using 3D-DWT based video encoding along with EZW”, International Journal of Computational Vision and Robotics 7 (4)(2017), 411-425.
+31
+VenkataSainath Gupta and A. S. Gandhi, “A simple and efficient data loss recovery technique for SHM applications”, Smart Structures and Systems, Volume: 20, Issue: 1, pp.35-42, July 2017. doi: 10.12989/sss.2017.20.1.035.
+32
+Rupali B. Patil, K.D.Kulat, A.S.Gandhi, ”GMSK Based Real Time Video Transmission on SDR Platform”, International Journal of Applied Engineering Research ISSN 0973-4562 Volume 12, Number 15 (2017) pp.5089-5093.
+33
+Anveshkumar Nella, and Abhay Suresh Gandhi, “A Survey on Planar Antenna Designs for Cognitive Radio Applications”, Wireless Personal Communications, Vol. 98, Issue. 1, pp. 541-569, Jan. 2018.
+34
+Alpana R. Dongrea, Akshay P. Patila, Amit, J. Wahurwagha, Ashwin Kothari, KishorBurchundi, Manish P. Manohare, “Acoustical characteristics of classrooms of tropical climate” Applied Acoustics,121 (2017): 46-55.
+35
+H. Ghare, A.G. Kothari, “Interference analysis and mitigation techniques in Wireless Body Area Networks”, Wireless Personal Communications Journal, March 2017.
+36
+Saxena, A. Kothari “Mathematical Modeling of n-Sided Polygon Metamaterial Split Ring Resonators for 5.8 GHz ISM Band Applications”, Wireless Personal Communications, 2017.
+37
+Sumin D. Joseph, S. Manoj, Chetan Waghmare, K. Nandakumar, Ashwin Kothari, “UWB Sensing Antenna, Reconfigurable Transceiver and Reconfigurable Antenna Based Cognitive Radio Test Bed”, Wireless Personal Communications (2017).
+38
+Cheggoju Naveen, and Vishal R. Satpute, “INPAC: Independent Pass coding algorithm for robust image data transmission through low SNR channels”, The Visual Computer4 (2018): 563-573. doi:10.1007/s00371-017-1361-1.
+39
+ParateMayurRajaram, Vishal R. Satpute, and Kishor M. Bhurchandi, “Global-patch-hybrid template-based arbitrary object tracking with integral channel features”, Applied Intelligence (2018): 1-15.
+40
+Nawandar Neha K., and Vishal R. Satpute. “Energy Efficient Quality Tunable CORDIC for DSP Applications on Battery Operated Portable Devices”, Journal of Circuits, Systems and Computers 27.04 (2018): 1850051.
+41
+KaduSneha, Naveen Cheggoju, and Vishal R. Satpute, “Noise-resilient compressed domain video watermarking system for in-car camera security,” Multimedia Systems (2017): 1-13, https://doi.org/10.1007/s00530-017-0584-3.
+42
+Gupta, “Nonsubsampledshearlet domain fusion techniques for CT-MR neurological images using improved biological inspired neural model “, Biocybernetics and Biomedical Engineering, vol. 38, pp. 262-274, 2018.
+43
+Singh, R.S. Anand, D. Gupta, “CT and MR image information fusion scheme using a cascaded framework in ripplet and nonsubsampled shearlet domain Model “, IET Image Processing , 2018.
+44
+S Suresh, D Das, S Lal, D Gupta, “Image quality restoration framework for contrast enhancement of satellite remote sensing images”, Remote Sensing Applications: Society and Environment, vol. 10, pp. 104-119, 2018.
+45
+D Gupta, RS Anand, “A hybrid edge-based segmentation approach for ultrasound medical images “, Biomedical Signal Processing and Control, Elsevier, vol. 31, pp. 116-126, 2017.
+46
+Shashikant, Parul Garg and Prabhat Kumar Sharma, “Location Tracking for Indoor VLC Systems using Intelligent Photodiode Receiver”, provisionally accepted IET Communications, March 2018.
+47
+Sadanand Yadav andVinay Kumar, “Optimal Clustering in Underwater Wireless Sensor Networks: Acoustic, EM and FSO Communication Compliant Technique”, IEEE Access Journal, DOI: 10.1109/ACCESS.2017.2723506, Vol. 5, pp. 12761-12776.
+48
+N. Sandeep and Vinay Kumar,“Review on Clustering, Coverage and Connectivity in Underwater Wireless Sensor Networks: A Communication Techniques Perspective”, IEEE Access Journal, DOI: 10.1109/ACCESS.2017.2713640, Vol. 5, pp. 11176-111999, 07 July 2017.
+49
+Rao, Vinay Kumar, S.Kumar, S. Yadav, V. K. Ancha and R. Tripathi, “Power Efficient and Coordinated eICIC-CPC-ABS Method for Downlink in LTE-Advanced Heterogeneous Networks”, Physical Communication (Elsevier), DOI:http://dx.doi.org/10.1016/j.phycom.2017.05.002, Volume 24, Pages 71– 82, 2017.
+50
+Kumar, S. Yadav, S. Dandu, Vinay Kumar, J.Sengupta, S.B. Dhok and S. Kumar “Magnetic Induction-Based Non-Conventional Media Communications: A Review” IEEE Sensor Journal, Vol. 17, Issue 4, pp. 926 – 940, Feb.15, 2017.
+51
+Akshay Kulkarni, Vinay Kumar, Pankaj Dhule, Sanjay Kumar Mishra, AnvitaTripathi and RabindraBarik, “Optical Filter Enabled Continuous Disinfection of Hospital Rooms using MultiSensor Feedback Aided Light Source”, Procedia Computer Science, Elsevier, Vol. 125, pp. 459- 467, 2018.
+52
+RabindraBarik, Amaresh Chandra Dubey, T Pratik, Rakesh Kumar Lenka, Harishchandra Dubey, KunalMankodiya and Vinay Kumar, “MistData: Leveraging Mist Computing for Secure and Scalable Architecture for Smart and Connected Health”, Procedia Computer Science, Elsevier Vol. 125, pp. 647-653, 2018 (Best Paper Award).
+53
+Saugata Sinha, Vikram S. Dogra, Bharagava K. Chinni, Navalgund A. Rao, “Frequency Domain Analysis of Multiwavelength Photoacoustic Signal for Differentiating Among Malignant, Benign and Normal Thyroids in an Ex Vivo Study With Human Thyroids”, Journal of Ultrasound in Medicine, Volume 36, Issue 10, October 2017, Pages: 2165 – 2177, DOI: 10.1002/jum.14259, ISSN No: 1550-9613.
+Research Publications in International/National Conferences during the year 2017-18
+Sr. No.
+Publication Details 1
+Prabhat Kumar Sharma, Kamal Agrawal, and Parul Garg, “Multihop FD Relaying with Fixed and Random Phase Errors”, 24th National Conference on Communications (NCC), IIT Hyderabad, India, Feb 2018.
+2
+Santosh kumarSabat, Prabhat Kumar Sharma, Abhay Gandhi, “Cooperative Spectrum Sensing in Full-Duplex CRN with Primary User Activity”, IEEE COMSNETS, Bengaluru, January, 2018.
+3
+PrasannaRaut, Prabhat Kumar Sharma, “Full-Duplex Multi-User Two-Way Relay Systems With Optimal Scheduling”, IEEE COMSNETS, Bengaluru, January, 2018.
+4
+LokeshGahane, Prabhat Kumar Sharma, Parul Garg and T. A. Tsiftsis, ” Improved Energy Detector with Cognitive User Mobility over Generalized Fading Channels” accepted for publication in IEEE Vehicular Technology Conference (VTC-Fall), Toronto, Canada, September 5
+Haichao Wang, Guoru Ding, Jinlong Wang, Le Wang, Theodoros A. Tsiftsis and Prabhat Kumar Sharma, “Resource Allocation for the Energy Harvesting-Powered D2D Communication Underlaying Cellular Networks”, IEEE International Conference on Communications (ICC), Paris, France, May 2017.
+6
+Ankur Bansal, Prabhat Kumar Sharma, and Manav Bhatnagar, “A Quartic Mixture Distribution and Its Application to ML Decoder Based Analysis of FSO Systems”, IEEE International Conference on Communications (ICC) Workshops, Paris, France, May 2017.
+7
+PatilPurva S., Bhumika A. Neole, and KishorBhurchandi, “Performance evaluation of a new local edge profile preservation based denoising algorithm”, International Conference on Signal and Image Processing Applications (ICSIPA), IEEE, 2017.
+8
+A Vinay Kumar, VV Ram Prasad, KM Bhurchandi, VR Satpute, Lizy Pious, S Kar, “Dense reconstruction of 3D human face using 5 images and no reference model” 4th International Conference on Control, Decision and Information Technologies (CoDIT), IEEE, 2017.
+9
+Nikhil B. Gaikwad, Ajay Khandare, MiheerMayekar, Avinash G. Keskar, “Design and Implementation of Digital System for Cost Effective Lightning Detection Sensor Node”, 8th International Conference on Computing, Communication and Networking Technologies (ICCCNT), IIT, Delhi, July 2017.
+10
+M. Shyam Prasad, Radhika Swarnkar, K Visnu Prasad, M Radhakrishnan, MdFarukh Hashmi, AG Keskar, “SSVEP Signal Detection for BCI Application”, Advance Computing Conference (IACC), 2017 IEEE 7th International, Pages 590-595, 2017.
+11
+Bokde N., A. Troncoso, G. Asencio-Cortés, K. Kulat, and F. Martínez-Álvarez, “Pattern sequence similarity based techniques for wind speed forecasting”, International Work-Conference on Time Series (ITISE), Granada, Spain 2, 786-794.
+12
+Bokde N., A Wakpanjar, K Kulat, AE Feijoo, “Robust performance of PSF method over outliers and random patterns in univariate time series forecasting”, International Technology Congress 2017.
+13
+MaratheDushyant, and Kishore Kulat, “A compact dual-band resonator for negative permittivity metamaterial at microwave regime”, Twenty Fourth National Conference on Communications (NCC), IIT Hyderabad, 25-28th Feb, 2018.
+14
+ChimanakarMohit, MaratheDushyant, and Kishore Kulat, “A Compact Triple-Band Negative Permittivity Metamaterial at Microwave Frequencies”, Indian Antenna Week (IAW 2017), (DIAT), Pune, 5-9th June, 2017.
+15
+JagdishKene, Kishore Kulat, Parag Jawarkar, “Optimization of physical layer performance of Wi-Max system with low density parity check code”, International Conference on Communication information and Computing Technology (ICCICT), 2018.
+16
+Rupali B Patil, K.D. Kulat, “Audio compression using dynamic Huffman and RLE coding”, International Conference on Communication and Electronics Systems (ICCES), 2017, 160-162.
+17
+KhyatiShrivastav, KD Kulat, “Energy efficient scalability of heterogeneous broad transmission distance protocol (HT-BTDP) in WSN for Internet-of-Things”, International Conference on Control, Decision and Information Technologies (CoDIT), 2017, 0627-0632.
+18
+RG Sutar, AG Kothari, “Multi-Constrained Non-Linear Array Synthesis Using Ant Lion Optimization with Penalty Function Method”, Twenty Third National Conference on Communications (NCC), IIT Madras, Chennai, 2017.
+19
+Neha K. Nawandar, Cheggoju Naveen, Saiyma Fatima Raza, V. R. Satpute, “PEARL: Power Efficient Adaptable and Robust LUT based Chaotic Security Algorithm for Communication in Agricultural Apps”, INDIAcom-2017, 1st to 3rd March 2017, BharatiVidyapeeth’s Institute of Computer Applications and Management (BVICAM), New Delhi. in press.
+20
+PranjaliGajbhiye, Cheggoju Naveen, Vishal R Satpute, “Underwater Image Enhancement using NTSC Color Model”, INDIAcom-2017. in press.
+21
+PranjaliGajbhiye, Naveen Cheggoju and Vishal Satpute, “Moving Object Detection and Tracking in Traffic Surveillance Video Sequences”, International Conference on Advanced Computing, Networking, and Informatics (ICACNI)-2017, NIT Goa. (Springer Proceedings). In press.
+22
+GajbhiyePranjali, Ch Naveen, and Vishal R. Satpute, “VIRTUe: Video surveillance for rail-road traffic safety at unmanned level crossings; (Incorporating Indian scenario).” IEEE Region 10 Symposium (TENSYMP), 14-16 July 2017. IEEE, 2017.
+23
+Sai Krishna Thangallapally, RaghupathiMaripeddi, Vamshi Krishna Banoth, Naveen Cheggoju, Vishal R. Satpute, “E-Security System for Vehicle Number Tracking at Parking Lot”, 2018 IEEE International Students’ Conference on Electrical, Electronics and Computer Science, 24-25 February 2018, NIT Bhopal. In press.
+24
+LokeshbabuGangula, Srikanth G., Naveen Cheggoju, Vishal R. Satpute, “Vision Improvement in Automated Cars by Image Deraining”, 2018 IEEE International Students’ Conference on Electrical, Electronics and Computer Science, 24-25 February 2018, NIT Bhopal. In press.
+25
+TarachandUlli, D. Gupta, “Segmentation of calcified plaques in intravascular ultrasound images”, 6th International Conference on Advanced Computing, Networking, and Informatics, 2018.
+26
+SurenderKanniyan, Mani Bhushan, Sharad Bhartiya, “ Nonlinear state and Parameter Estimation for Parabolic trough Colector“, ACODS, Hyderabad, February 2018.
+27
+Amit Vijay Waghmare, PradhnyaArunPriyadarshi, SurenderKannaiyan, VipinKamble, “Nonlinear State Estimation Technique Implementation For Human Heart Model”, 24th National Conference on Communication(NCC), IIT Hyderabad, 25-28 February 2018,.
+28
+Abhilash Ashok Bhadke, SurenderKannaiyan, VipinKamble, “Symmetric Chaos-Based Image Encryption Technique on lmage Bit-Planes using SHA-256”, 24th National Conference on Communication(NCC), IIT Hyderabad, 25-28 February 2018.
+29
+Swapnil Bhole, Amit Rathod, Srinivas Doddipalli, K. Surender, Ashwin Kothari, “A Compact Planar Antenna with Meander lines for TV White Space Applications”, 2018 IEEE International Students’ Conference on Electrical, Electronics and Computer Science, 24-25 February 2018, NIT Bhopal. In press.
+30
+Swapnil Bhole, NachiketGokhale, Srinivas Doddipalli, K. Surender, “Application of IoT-based user-friendly monitoring system for increasing the reliability of SIS: A novel approach for small-scale chemical labs and industries”, Chemix ’18: A National Conference on Intra‐ and Inter‐ Disciplinary Blend of Chemical Engineering, 7-8 April 2018, NIT Nagpur. In press.
+31
+NiharikaPantawane, P.H. Ghare, “Comparative study of different back off mechanisms in medical body area networks”, National Conference on Advanced communication technology and networks, 2017 at MNIT, Jaipur.
+32
+Anveshkumar, A. S. Gandhi, “Design and performance analysis of a modified circular planar monopole UWB antenna”, in Proceedings of the IEEE 8th International Conference on Computing, Communication and Networking Technologies (ICCCNT), pp. 1-5, Delhi, India, July 2017.
+33
+Nella, and A. S. Gandhi, “Moon slotted circular planar monopole UWB antenna design and analysis”, in Proceedings of the IEEE 6th International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 595-600, Manipal, Karnataka, India, September 2017.
+Participation in International/National Conferences in India & Abroad during the year 2017-18
+Sr. No.
+Name of faculty
+Place of Conference
+Date(s) of Conference 1
+Dr.Prabhat Kumar Sharma
+Paris, France 20-25 May 2017 2
+Dr Prabhat Kumar Sharma
+Bengaluru, India 4-8 January 2018 3
+Dr. Ashwin Kothari as Chair Program Committee
+IIIT, Nagpur, India 11th-13th Nov, 2017 4
+Dr.Prabhat Kumar Sharma (session Chair)
+IIIT, Nagpur, India 11th-13th Nov, 2017
+List of Patents
+S.No.
+Faculty Name
+Others Contributors
+Patent Title 1
+Ankit A. Bhurane
+BHARTI JOGI DAKHALE; ANKIT A. BHURANE; ASHWIN G. KOTHARI; MANISH SHARMA; RISHITA YADAV
+SYSTEM FOR DETECTING TYPE OF SLEEP DISORDERS AND METHOD OF OPERATING THEREOF 2
+Ankit A. Bhurane
+Nitesh Manohar Khonde, Ankit Ashokrao Bhurane, Mayur Rajaram Parate
+A System and a Method for Enabling Pulse Based Diagnosis 3
+Praveen Pawar
+B Santhibhushan, Vijay Bihat, Ramkishan Dewangan
+Sanitizer Dispensing Band 4
+KM Bhurchandi
+A System to Remotely Monitor Energy Meters 5
+KM Bhurchandi
+Assistive device for Navigation in the Dark or No-Visibility Ambience 6
+Ashwin Kothari
+Dr. Vibha R. Bora, Dr. Avinash Keskar
+AUTOMATED HEAD POSITION DETECTION IN COMPUTER TOMOGRAPHY FROM SCOUT IMAGES 7
+Ashwin Kothari
+BHURCHANDI KISHOR ,.AGRAWAL
+SAPAN SANTOSH ,SINGH AKASH ,GADWE ANIKET
+ASHOK ,PAIGWAR ANSHUL KAMAL ,KAMAT AJINKYA RAM
+SAROYA MANISH RAJESH
+HUMANOID ROBOT 8
+Ashwin Kothari
+–
+METHOD FOR ACQUISITION OF POSITION AND ORIENTATION OF THE BODY’S JOINTS USING INERTIAL MEASUREMENT
+Short Term Training Programs
+S.No.
+Faculty Name
+Name of STTP/Workshop/Conf/FDP/STC
+Name of Speakers
+Academic Year (xxxx-xx)
+Duration (dd-mm-yyyy) 1
+Neeraj Rao
+Electromagnetic Non Destructive EValuation
+Prof. Lalita Udpa 2022-23 18-12-2022 2
+Neeraj Rao
+Inverse Problems on e-NDT
+Prof. Yiming Deng 2022-23 23-12-2022 3
+Joydeep Sen Gupta and Vivek Raghuwanshi
+Workshop on Best Practices on Electronic Assembly
+Mr. Saurabh Saxena 2022-23 19-May-0223 4
+Deep Gupta and Vipin Kamble
+FDP on MATLAB Programming, Simulation and Design 2022-23
+December 12-16, 0222 5
+Deep Gupta
+Seventh International Conference on Computer Vision and Image Processing
+AK Ray, PK Biswas, Petia Radeva, PK Biswas, Venketesh Babu, Jayanta Mukhopadhyay , Sumantra Dutta Roy, Delll A Fabio, Bharat Biswal, Vikaram M Gadre 2022-23
+Nov. 04-06, 2022 6
+Deep Gupta
+Advanced Computer Vision: Application to Food Image Analysis
+Petia Radeva 2022-23
+Jan 02-06, 2023 7
+Deep Gupta
+Multimedia Forensics: Overview and Perspective
+Sebastiano Battiato 2022-23
+Sep 19-23, 2022 8
+K Surender and Vipin Kamble
+Modelling and Control implementation on Autonomous Navigation
+Dr. Shahida Khatoon, Dr. Arunesh Kumar Singh, Dr. Ashok Kumar Pandey, Prof. D K Chaturvedi 2022-23
+March 13 – 17, 2023 9
+Anamika Singh
+ATAL FDP on Silicon Photonics: Future of Integrated Circuits 2021-22
+Dec 20-24, 2021 10
+Abhay S Gandhi, Prabhat Sharma
+INDISCON 2021 2021-22
+Aug 27-29, 2021 11
+Joydeep Sen Gupta, Ashwin Kothari
+International Lecture series on Techniques of High Frequency Communication 2020-21
+March 9-14,2021 12
+Neeraj Rao, Ashwin Kothari
+Workshop on Metamaterials and Antenna Design and Future Generation Wireless Communication.
+2020-21
+Feb. 20-28, 2021 13
+Saugata Sinha, Ashwin Kothari
+International Symposium on Medical Imaging in Clinical Environment
+Dr. Bharat Biswal, Dr. P. M. Padole, Dr. Manohar Srirang, Dr. Manojit Pramanik, Dr. Mathews Jacob, Dr. Manojit Pramanik, Dr. Sharmila Anandasabapathy, Dr. Jorge Bernal, Dr. Phaneendra Yalavarthy, Dr. Himanshu Shekhar, Dr. srijan mazumdar 2020-21
+Feb. 8-13, 2021 14
+PH Ghare, Ashwin Kotahri, Prabhat Sharma
+International Symposium on Role of localization in 5G,IoT and e-healthcare 2020-21
+Feb 15-19, 2021 15
+Prabhat Sharma
+First International Symposium on Molecular and Biological Communications
+Robert Schober, Adam Noel, Yansha Deng, C.B. Chae, Mauro Feminnella etc 2020-21
+Feb. 01-05, 2021 16
+K.Surender
+“Systems and Control “ on Lecture Series
+Ravi methankar, A. satish kumar, sagutha sinha, Ashwin Dhable, 2019-20
+OCTober 23 -27,2019 17
+Deep Gupta, Saugata Sinha
+Signal and Image Processing for Medical Applications
+Pravat Mandal
+Deepika Shukla
+Srijan Mazumdar
+Balasubramanian Raman
+Manjari Tripathi
+Sayan Chatterjee
+Mrunal Pathak
+Ram Bilas Pachori
+Ratan Kr. Shaha 2018-19
+Feb 20-24, 2019 18
+Prabhat Sharma
+Mathematical modelling and simulations for wireless digital communication systems
+Prabhat Sharma 2017-18
+June 04-08, 2018 19
+A.S. Gandhi
+Introduction to EM spectrum management
+Ashok Chandra
+SM Tripathi 2017-18
+March 12-16, 2018 20
+Deep Gupta, KM Bhurchandi
+Lecture Series on Research Paradigms in
+Signal, Image and Video Processing
+Sibi Raj Pialli
+P Chaporkar
+Sumnatra Dutta Roy
+Jayanta Mukherjee 2017-18
+Feb 15-18 & 25, 2018 21
+VR Satpute, Saugata Sinha
+Functional Magnetic Resonance Imaging (fMRI): Methods and Applications for Medical Imaging
+Bharat Biswal, Professor, New Jersey Institute of Technology, USA 2018-19
+December 22-26, 2018 22
+Prabhat Sharma
+Fundamentals of Optical Wireless Communication
+Julian Cheng Professor,University of British Columbia, Canada 2017-18
+January 14-19, 2018 23
+Deep Gupta
+Advanced Medical Imaging: Wireless Endoscopy Analysis
+PetIa Radeva, Professor, University of Barcelona, Spain 2017-18
+Jan 02-06, 2018 24
+Deep Gupta, K Surender
+Role of Optimization in Engineering Applications
+Ajit Rajwade, P Balamurugan, Yogendra Shastri, K.S. Sajan, Madhurima Bandyopadhyay 2017-18
+Dec. 26-30, 2017 25
+Prabhat Sharma
+Advanced Wireless Communication Technologies: A PHY-layer perspective (Cognitive Radio, Spectrum Sharing, and Optical Wireless Communications)
+Theodoros A. Tsiftsis, Professor, Nazarbayev University, Kazakhstan, 2016-17
+Dec. 12-17, 2016 26
+A.S. Gandhi
+Prabhat Sharma
+Research paradigms in communication engineering
+A Chocklingm
+Parul Garg
+Pritam Kumar
+A.S. Gandhi
+Prabhat Sharma 2016-17
+Oct 10-15, 2016 27
+K.D. Kulat, J. Sengupta,
+K. Surender, Vinay Kumar
+Workshop on Role of Mathematics in Engineering
+P Chaporkar, S.P Maity, Harish Pillai, Manibushan, Rowdra Ghatak 2016-17
+Sep 26-30, 2016
+Companies which have assigned research/consulting/advisory services to the department
+S.No.
+Faculty/Other Contributors Names
+Consultancy Work
+Sponsoring Agency 1
+A.S. Gandhi, Neeraj Rao
+Evaluation of product performance and suggestion of Remedies
+M/s Agile Connects Pvt. Ltd.
+2
+K.M Bhurchandi, A. S. Gandhi, A.G. Kothari, Ankit Bhurane, Snigdha Bhagat
+Automatic vehicle over speed detection system on highways and storage of data on cloud
+Photronics Nagpur 3
+K. M. Bhurchandi
+Warehouse Inventory Management Systems Using drone in GPS denied environment
+Emergys System Chennai 4
+A.S. Gandhi, P Sharma
+Evaluation of performance of products and suggesting remedies,
+M/s Syslogyx Pvt Ltd 5
+Neeraj Rao
+Evaluation of circuitry for explosive material
+Maharashtra Police 6
+Ashwin Kothari
+Testing of specification of projector ePrashala 7
+Ashwin Kothari
+Testing of specification of projector ePrashala 8
+V. R. Satpute
+Testing of technical specification comparison for e learning of devices
+Gyan Varsha, Pune 9
+A.G. Keskar
+A.S. Gandhi
+Research in Robotics
+Oberoi Centre for Excellence 10
+K.M. Bhurchandi
+Testing and improvement of product under testing and consultation with CoE
+TSECOND 11
+Ashwin Kothari
+Designing and development of Technical specifications for E Kapas advisory scheme
+CICR, Nagpur

@@ -1,0 +1,11 @@
+SOURCE_URL: https://vnit.ac.in/rti-details-6-2/
+TITLE: rti details 6/2
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Last Updated  Date: [last-modified]
+Information Disclosed on own Initiative 6.2  Guidelines for Indian Government Websites (GIGW) is followed (released in February, 2009 and included in the Central Secretariat Manual of Office Procedures (CSMOP) by Department of Administrative Reforms and Public Grievances, Ministry of Personnel, Publ 6.2.1
+Whether STQC certification obtained and its validity
+In Process… 6.2.2
+Does the website show the certificate on the Website?
+No.

@@ -1,0 +1,548 @@
+SOURCE_URL: https://vnit.ac.in/scopus-publications-electrical-engineering/
+TITLE: Scopus Publications – Electrical Engineering
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No.
+Authors
+Department
+Title
+Source title
+Document Type 1
+Kadwane S.; Ashtankar S.P.; Adhau S.; Keshri R.
+Electrical Engineering 2ω Power Ripple Analysis of PV Fed Single-Phase QZSI Using Symmetrical Shoot Through Control
+AIP Conference Proceedings
+Conference paper 2
+Mehmood S.; Singh J.P.
+Electrical Engineering
+A memristor-based magnetized Hopfield neural network for hidden scroll chaotic attractors and control analysis with reduced input
+International Journal of Dynamics and Control
+Article 3
+Dora B.K.; Bhat S.; Halder S.; Srivastava I.
+Electrical Engineering
+Multi-objective optimal power flow problem using Nelder–Mead based Prairie Dog optimization algorithm
+Soft Computing
+Article 4
+Singh J.P.
+Electrical Engineering
+A set of five generalised memristive synapses for the hidden nonlinear dynamics in three coupled neurons
+Chaos, Solitons and Fractals
+Article 5
+Saddriwala M.A.; Alam M.
+Electrical Engineering
+Artificial neural network based decentralized current-sharing control for parallel connected DC-DC converters in DC microgrid application
+Computers and Electrical Engineering
+Article 6
+Bagde B.Y.; Bhat S.; Hinge V.; Barapatre S.; Kadu A.; Bhat S.S.
+Electrical Engineering
+Investigation of Convolutional Neural Network Architectures for Self-Driving Vehicle
+AIP Conference Proceedings
+Conference paper 7
+Moharil R.M.; Munshi A.A.; Kulkarni P.S.
+Electrical Engineering
+Assessment of Renewable Energy Integration for Small Coastal Communities: A Case Study of Solar and Wind Power Implementation in a Village Near Goa
+AIP Conference Proceedings
+Conference paper 8
+Mamatha G.; Kulkarni P.S.
+Electrical Engineering
+Unlocking the floating solar photovoltaic potential on hydropower reservoirs: a case study of Srisailam dam, India
+Electrical Engineering
+Article 9
+Bhukya J.; Singh P.
+Electrical Engineering
+Enhancing stability via coordinated control of generators, wind farms, and energy storage: Optimizing system parameters
+Journal of Energy Storage
+Article 10
+Chintakindi R.; Mitra A.
+Electrical Engineering
+Wide-area voltage stability assessment using loading margin sensitivity for increasing linear load levels and wind power penetration
+Electric Power Systems Research
+Article 11
+Manchalwar A.D.; Patne N.R.; Morey C.D.; Pemmada S.
+Electrical Engineering
+Prosumers and retailers based decentralized energy trading model in the smart grid considering network constraints
+International Journal of Electrical Power and Energy Systems
+Article 12
+Alam M.; Kumar K.
+Electrical Engineering
+Power Management Scheme Based on Aging Factor of Battery Storage Systems for Electric Vehicles e-Prime – Advances in Electrical Engineering, Electronics and Energy
+Article 13
+Adigintla S.; Aware M.V.; Bingi K.; Das S.
+Electrical Engineering
+Novel Complex Fractional Order Speed Controller for im Drive under Varying Operating Conditions with Enhanced Robustness
+IEEE Transactions on Industrial Electronics
+Article 14
+Datta M.; Sarkar D.; Das S.
+Electrical Engineering
+Optimizing the Bidding Data for power industry with elastic demand using hybrid Water Cycle Moth Flame Optimization Algorithm
+ECTI Transactions on Electrical Engineering, Electronics, and Communications
+Article 15
+Verma M.; Mitra A.; Bhat S.; Garain K.; Pal S.; Wankhede A.K.
+Electrical Engineering
+An economical and simple strategy for overcoming the Hall sensor faults in three phase brushless DC motor drive
+International Journal of Circuit Theory and Applications
+Article 16
+Panigrahi R.; Patne N.R.; Surya Vardhan B.V.; Khedkar M.
+Electrical Engineering
+Short-term load analysis and forecasting using stochastic approach considering pandemic effects
+Electrical Engineering
+Article 17
+Ballal M.S.; Verma S.R.; Suryawanshi H.M.; Wakode S.A.; Mishra M.K.
+Electrical Engineering
+Resilient and Adaptive Power Integrator and Despatcher
+IEEE Transactions on Industrial Informatics
+Article 18
+Bhukya J.; Alam M.
+Electrical Engineering
+Dynamic stability reinforcement in remote wind farm connections: POD-SSSC coordination with fuzzy logic control using RTDS
+Electrical Engineering
+Article 19
+Rao S.M.; Satputaley R.J.; Keshri R.K.; Buja G.
+Electrical Engineering
+Performance Evaluation of MLI Based DVR in Grid Fed EV Fast Charging Station
+IEEE Transactions on Energy Conversion
+Article 20
+Khond S.; Kale V.; Ballal M.
+Electrical Engineering
+A Combined Data Mining and Ensembled Machine Learning based Solution for High Impedance Fault Detection in Distribution Systems: A novel method to detect the High Impedance Faults using data driven techniques
+ACM International Conference Proceeding Series
+Conference paper 21
+Umredkar S.V.; Keshri R.; Borghate V.B.; Renge M.M.
+Electrical Engineering
+Pole-Phase Modulation of Symmetrical 6-Phase Induction Motor Drive for Electric Vehicle With 1:2 Speed Control
+IEEE Access
+Article 22
+Kench V.; Singhal S.; Mitra A.
+Electrical Engineering
+Demand Response Enabled Energy Management Tool for an Isolated Microgrid Integrated With Different Energy Vectors 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 23
+Potpallewar R.R.; Bhukya J.
+Electrical Engineering
+Mitigation Sub-Synchronous Resonance with Damping Controller: A Comprehensive Analysis and Simulation 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 24
+Datta M.; Sarkar D.; Das S.
+Electrical Engineering
+A Modified Water Cycle Algorithm: An Opposition Based Meta-Heuristic Optimization to Solve Real World Engineering Problems
+Gazi University Journal of Science
+Article 25
+Yadav N.K.; Jangilwar P.K.; Das S.
+Electrical Engineering
+Forecasting of Wind Power Using Modified Exponential Gaussian Process Regression 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 26
+Payal J.; Das S.; Bhukya J.
+Electrical Engineering
+Impact of Hyperparameter Tunning in Hourly Solar Irradiance Forecasting by Using Machine Learning Techniques 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 27
+Kumar M.; Ballal M.S.
+Electrical Engineering
+Twin Approach for a Vibrant Diagnosis of Lithium-Ion Battery Health 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 28
+Panigrahi R.; Patne N.R.; Pemmada S.; Manchalwar A.D.
+Electrical Engineering
+Hyper-parameter tuned yearly and seasonal models for aggregated short-term electricity demand prediction
+Neural Computing and Applications
+Article 29
+Verma M.; Mitra A.; Bhat S.S.; Garain K.; Pal S.; Wankhede A.K.
+Electrical Engineering
+Analysis of BLDC Motor Based Propulsion System Under High-Resistance Connection Fault for Various PWM Techniques 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 30
+Likhar Y.; Saurav S.; Ramteke M.R.; Keshri R.K.
+Electrical Engineering
+Comparison of Current Control Techniques in Boost PFC Converter for EV Battery Charging Applications 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 31
+Yadav N.K.; Das S.
+Electrical Engineering
+Optimal V2G and G2V Scheduling for Cost-Effective Power Management in Distribution System 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 32
+Potpallewar R.R.; Bhukya J.
+Electrical Engineering
+Impact of Different Compensation Levels on Wind Power Plant: A Novel Fuzzy Logic and Damping Controller Approach for Sub-Synchronous Resonance Extenuation 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 33
+Bhukya J.
+Electrical Engineering
+Enhancing Stability in Wind-Integrated Power Systems Through Coordinated Control of POD, PSS, and SVC With Fuzzy Logic: A Comprehensive Study Under Various Operating Conditions
+Optimal Control Applications and Methods
+Article 34
+Saddriwala M.A.; Alam M.
+Electrical Engineering
+DC-DC Converter Control Using Adaptive Neuro-Fuzzy Inference System 2024 IEEE 3rd International Conference on Electrical Power and Energy Systems, ICEPES 2024
+Conference paper 35
+Kumar B.A.; Alam M.
+Electrical Engineering
+Analysis of SiC and GaN Based Hybrid Switch For Different Switching Combinations 2024 IEEE 3rd International Conference on Electrical Power and Energy Systems, ICEPES 2024
+Conference paper 36
+Bhukya J.
+Electrical Engineering
+Enhancing power system stability in wind-integrated networks through coordinated fuzzy logic control of PSS and POD for sustainable energy futures
+International Journal of Ambient Energy
+Article 37
+Pawde V.S.; Saurav S.; Keshri R.K.; Suryawanshi H.M.
+Electrical Engineering
+Non Conductive Gun for Electric Vehicle Charging
+INTELEC, International Telecommunications Energy Conference (Proceedings)
+Conference paper 38
+Surendra Reddy M.; Kumar R.; Saddriwala M.A.; Alam M.
+Electrical Engineering
+Design and Analysis of Bidirectional Totem Pole PFC Rectifier for Battery Charging Applications 2024 IEEE Students Conference on Engineering and Systems: Interdisciplinary Technologies for Sustainable Future, SCES 2024
+Conference paper 39
+Manchalwar A.D.; Patne N.R.; Panigrahi R.; Pemmada S.
+Electrical Engineering
+Optimal peer-to-peer energy trading model with short-term load forecasting for energy market
+Electrical Engineering
+Article 40
+Reddy N.H.; Kiran Y.M.; Kumar B.A.; Alam M.
+Electrical Engineering
+EMI Filter Design and Comparative Analysis of Control Approaches for DC- DC Boost Converter Based LED Drivers
+Proceedings of CONECCT 2024 – 10th IEEE International Conference on Electronics, Computing and Communication Technologies
+Conference paper 41
+Saddriwala M.A.; Alam M.
+Electrical Engineering
+Bayesian Regularisation Algorithm of Artificial Neural Network for Two Stage Grid Connected Solar Photovoltaic System
+Proceedings of the 3rd IEEE International Conference on Power Electronics, Intelligent Control and Energy Systems, ICPEICES 2024
+Conference paper 42
+Dongare U.V.; Umre B.S.; Ballal M.S.; Dongare V.P.
+Electrical Engineering
+Wing technique as a comprehensive method for stator and rotor inter-turn fault diagnosis in wound rotor induction motors
+International Journal of Circuit Theory and Applications
+Article 43
+Chintakindi R.; Mitra A.
+Electrical Engineering
+Identify Vulnerable Lines on Static and Dynamic Load Configurations for GPS-Based PMU Interfaced Power Networks 12th International Conference on Smart Grid, icSmartGrid 2024
+Conference paper 44
+Kumar B.A.; Alam M.
+Electrical Engineering
+Evaluating Switching Losses of High Voltage Rating Devices Using Cockcroft-Walton Circuit
+Proceedings of the 3rd IEEE International Conference on Power Electronics, Intelligent Control and Energy Systems, ICPEICES 2024
+Conference paper 45
+Kumar B.A.; Alam M.
+Electrical Engineering
+Evaluating Wide Band Gap Semiconductor Hybrid Switches: A Comparative Analysis 2024 IEEE International Students’ Conference on Electrical, Electronics and Computer Science, SCEECS 2024
+Conference paper 46
+Rao S.M.; Satputaley R.J.; Keshri R.K.; Borghate V.B.; Khergade A.
+Electrical Engineering
+Improving DC-Bus Voltage Regulation in Grid Fed EV Fast Charging Station Using MLI Based DVR
+IEEE Transactions on Power Delivery
+Article 47
+Bhukya J.; Govind D.; Potpallewar R.R.
+Electrical Engineering
+DFIG Performance Enhancement: Experimental Validation and Comparative Study of POD Integrated Control Techniques in Wind Turbine 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 48
+Shende G.; Karampuri R.; Umre B.S.; Keshri R.K.
+Electrical Engineering
+Torque Ripple Reduction Technique Using Current Injection for a Five-Phase PM-BLDC Drive
+Proceedings of the IEEE International Conference on Industrial Technology
+Conference paper 49
+Yadav N.K.; Das S.
+Electrical Engineering
+Optimal Installation of DG’s in Distribution System Using Competitive Swarm Optimizer Considering Different Non-Linear Load Models 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 50
+Saddriwala M.A.; Alam M.
+Electrical Engineering
+DC/DC Boost Converter Control Using Levenberg-Marquardt (LM) Algorithm 2024 IEEE International Students’ Conference on Electrical, Electronics and Computer Science, SCEECS 2024
+Conference paper 51
+Naware D.; Mitra A.
+Electrical Engineering
+Data-driven Technology Applications in Planning, Demand-side Management, and Cybersecurity for Smart Household Community
+IEEE Transactions on Artificial Intelligence
+Article 52
+Shahare K.; Naware D.; Mitra A.; Keshri R.
+Electrical Engineering
+Smart load forecasting methodologies
+Smart Metering: Infrastructure, Methodologies, Applications, and Challenges
+Book chapter 53
+Dongare U.V.; Umre B.S.; Ballal M.S.; Dongare V.P.
+Electrical Engineering
+Online Inter-Turn Fault Detection in Wound Rotor Induction Motors Based on VI Loci Pattern
+IEEE Transactions on Industry Applications
+Article 54
+Kadwane S.G.; Ashtankar S.P.; Funde N.Y.; Keshri R.K.
+Electrical Engineering
+Design and Implementation of a Quadratic Converter for the Grid-Tied System Using Symmetrical Shoot-Through PWM
+IETE Journal of Research
+Article 55
+Pemmada S.; Patne N.R.; Manchalwar A.D.; Panigrahi R.
+Electrical Engineering
+A Novel Hybrid Algorithm based Planning of Power Distribution System Considering Emission Pollutants
+IETE Journal of Research
+Article 56
+Alam M.; Kumar K.; Bae S.
+Electrical Engineering
+Virtual-inertia-based power management scheme in fuel cell-battery-supercapacitor-based DC microgrid
+Energy Sources, Part A: Recovery, Utilization and Environmental Effects
+Article 57
+Waghmare M.A.; Aware M.V.; Umre B.S.; Iqbal A.
+Electrical Engineering
+Modified Single-Stage Single-Phase to Multiphase Matrix Converter for Extended Low Output Power Frequency Operation
+IEEE Transactions on Power Electronics
+Article 58
+Kamble S.; Chaturvedi P.; Chen C.-J.; Borghate V.B.
+Electrical Engineering
+Enhancing reliability and efficiency of grid-connected solid-state transformer through fault detection and classification using wavelet transform and artificial neural network
+Electrical Engineering
+Article 59
+Balapanuru O.; Lokhande M.M.; Aware M.V.
+Electrical Engineering
+Nonisolated Integrated Boost Featured (NIIBF) Multi-Input Ultrahigh Gain DC-DC Converter
+IEEE Transactions on Power Electronics
+Article 60
+Balapanuru O.; Lokhande M.M.; Aware M.V.; Gupta S.
+Electrical Engineering
+Unsymmetrical Dual-Input Isolated High Gain Bidirectional DC-DC Converter With Inherent Current Sharing for Light EV Applications
+IEEE Transactions on Transportation Electrification
+Article 61
+Praneeth A.J.; Dhabale A.; Rakshak C.L.
+Electrical Engineering
+Operation of Standalone Solar PV System without Energy Storage for Supplying Variable Load 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 62
+Anand V.; Dhabale A.
+Electrical Engineering
+Machine Learning Based Incipient Fault Identification of Power Transformer Through Dissolved Gas Analysis 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 63
+Waghmare M.A.; Aware M.V.; Umre B.S.
+Electrical Engineering
+Common-Mode Voltage Reduction Technique for 1 to 6 Matrix Converter Using Primary-Secondary Voltage Vector Combinations
+IEEE Transactions on Industrial Informatics
+Article 64
+Tatte Y.; Aware M.
+Electrical Engineering
+Twelve sectors direct torque control for three-level inverter fed induction motor drive
+Electrical Engineering
+Article 65
+Keshari A.; Raveendhra D.; Raju B.L.N.; Chaturvedi P.; Reddy U.R.; Bobba P.B.
+Electrical Engineering
+Switched Reluctance Motor-based EV Drive with Bidirectional Grid Interaction 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 66
+Wandre A.R.; Bonde A.D.; Borghate V.B.
+Electrical Engineering
+Sensor-Less Voltage Balancing of Hybrid MMC Utilizing Negative Voltage States of FBSMs
+Proceedings of the 3rd IEEE International Conference on Power Electronics, Intelligent Control and Energy Systems, ICPEICES 2024
+Conference paper 67
+Kumar R.; Chaudhari M.A.; Chaturvedi P.; Choube S.C.
+Electrical Engineering
+A PLL-less grid-tied three-phase multilevel inverter with reduced device count and LCL filter
+International Journal of Circuit Theory and Applications
+Article 68
+Namrata K.; Saini R.P.; Kothari D.P.
+Electrical Engineering
+Wind and Solar Energy Systems
+Energy Systems in Electrical Engineering
+Book chapter 69
+Kamble S.P.; Chaturvedi P.; Bhawane H.; Borghate V.B.
+Electrical Engineering
+PSAM and TM Based Fault Tolerant Scheme for Open Switch Faults in Dual Active Bridge Converters
+INTELEC, International Telecommunications Energy Conference (Proceedings)
+Conference paper 70
+Kumar R.; Chaudhari M.A.; Chaturvedi P.
+Electrical Engineering
+Analysis of Synchronverter and PLL-Less Control for Three-Phase VSI in AC Microgrids 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 71
+Bhawane H.; Chaturvedi P.
+Electrical Engineering
+Inductor Current Harmonic Analysis in DC-DC Dual Active Bridge Converter with Various Control Techniques 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 72
+Obulapathi B.; Lokhande M.M.; Aware M.V.
+Electrical Engineering
+High voltage gain minimum-phase isolated DC-DC converter with improved transformer utilization
+International Journal of Circuit Theory and Applications
+Article 73
+Khan S.; Chaturvedi P.; Sajid S.
+Electrical Engineering
+Coordinated Control of PV, Battery, and Supercapacitor in DC Microgrid 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 74
+Namilikonda A.; Umre B.S.; Charan L.; Krishna G.S.R.
+Electrical Engineering
+Comparative Analysis of CMV Variation Using Different BUS Clamping SVPWM Techniques 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 75
+Gajbhiye P.P.; Chaturvedi P.
+Electrical Engineering
+Forward LC-Reverse LCC Bidirectional Resonant Converter for Buck and Boost Operation 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 76
+Yadav R.R.; Kumar S.; Lokhande M.M.; Aware M.V.
+Electrical Engineering
+Fault-Tolerant Strategy for Asymmetrical Half-Bridge Converter in Switched Reluctance Motor Drives 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 77
+Kamble S.; Chaturvedi P.; Borghate V.B.; Chen C.-J.
+Electrical Engineering
+DC fault analysis of solid-state transformer using circuit equivalent
+International Journal of Circuit Theory and Applications
+Article 78
+Krishna G.S.R.; Umre B.S.; Charan L.
+Electrical Engineering
+Non Isolated quadratic input stage high gain dcdc converter with reduced voltage stress in DCM 2024 IEEE International Students’ Conference on Electrical, Electronics and Computer Science, SCEECS 2024
+Conference paper 79
+Dahat S.A.; Dhabale A.
+Electrical Engineering
+Coordinated Robust Damping Control for Hybrid SVC/SSSC to Enhance Power System Stability in Large-Scale Systems
+IEEE Transactions on Industry Applications
+Article 80
+Satputaley R.; Borghate V.B.; Khergade A.; Dhabale A.; Patro S.K.
+Electrical Engineering
+Design and Implementation of Three Phase TCHB-Based DVR
+IETE Journal of Research
+Article 81
+Adigintla S.; Aware M.V.
+Electrical Engineering
+Nonlinear Fractional Order Model Identification of the Voltage Source Inverter Fed Induction Motor
+IETE Journal of Research
+Article 82
+Surya Vardhan B.V.; Khedkar M.; Srivastava I.; Patro S.K.
+Electrical Engineering
+Impact of integrated classifier — Regression mapped short term load forecasting on power system management in a grid connected multi energy systems
+Electric Power Systems Research
+Article 83
+Kotha S.K.; Rajpathak B.; Mallareddy M.; Bhuvanagiri R.
+Electrical Engineering
+Dynamic state estimation of power system using hybrid whale-tunicate optimized unscented Kalman filter based on wide area measurement systems
+Electric Power Systems Research
+Article 84
+Mounica M.; Rajpathak B.A.; Kolhe M.L.; Naik K.R.; Moparthi J.R.; Kotha S.K.
+Electrical Engineering
+Piece-Wise Droop Controller for Enhanced Stability in DC-Microgrid-Based Electric Vehicle Fast Charging Station
+Processes
+Article 85
+Dhote V.P.; Lokhande M.M.; Balapanuru O.
+Electrical Engineering
+Selection of power sharing factor for hybrid battery/ultracapacitor energy storage-based EV through load emulation technique
+International Journal of Circuit Theory and Applications
+Article 86
+Ekka K.C.; Kale V.S.; Khond S.
+Electrical Engineering
+Improved adaptive micro-grid over current protection scheme considering false tripping
+International Journal of Emerging Electric Power Systems
+Article 87
+Kalahasthi R.B.; Ramteke M.R.; Suryawanshi H.M.
+Electrical Engineering
+An Ultra-High Gain Quadratic Converter Based on Coupled Inductor and Switched Capacitor Techniques for DC Micro-Grid Applications
+IEEE Journal of Emerging and Selected Topics in Power Electronics
+Article 88
+Narendrababu A.; Kapse P.; Shukla S.; Parmar K.
+Electrical Engineering
+Evaluation of Ten-Switch NPC-Based PFC Interface for Three-Phase Off-Board EV Charger 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 89
+Ramteke M.; Raut S.
+Electrical Engineering
+Enhancing Disease Diagnosis: Leveraging Machine Learning Algorithms for Healthcare Data Analysis
+IETE Journal of Research
+Article 90
+Mamatha G.; Kulkarni P.S.
+Electrical Engineering
+Analysis of floating photovoltaic systems on hydro reservoirs
+Proceedings of the Institution of Civil Engineers: Engineering Sustainability
+Article 91
+Mounica M.; Rajpathak B.; Kolhe M.L.; Kotha S.K.; Naik K.R.
+Electrical Engineering
+Grid-Connected DC Electric Vehicle Charging Station Integrated with Solar PV 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 92
+Waghmare R.S.; Bhat S.; Dora B.K.
+Electrical Engineering
+Contingency Analysis of IEEE 14 Bus System with Integration of DFIG Wind Farm 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 93
+Nehemiah Joshi Varma A.; Kulkarni P.S.; Dixit A.N.; Rajpathak B.
+Electrical Engineering
+Designing and Application of MATLAB App Designer for Conducting Techno-economic Analysis of Grid-Tied Rooftop Solar PV System
+Green Energy and Technology
+Conference paper 94
+Ramesh B.; Khedkar M.; Kotha S.K.; Pemmada S.
+Electrical Engineering
+A demand response-based optimal scheduling framework considering renewable sources and energy storage: a deterministic approach
+Electrical Engineering
+Article 95
+Mamatha G.; Verma A.; Kulkarni P.S.
+Electrical Engineering
+Proposing a Hybrid Solar Electrification for Already Existing Hydropower Plant 2024 IEEE Students Conference on Engineering and Systems: Interdisciplinary Technologies for Sustainable Future, SCES 2024
+Conference paper 96
+Rudra A.; Kulkarni P.S.; Sneha T.; Ghosh S.
+Electrical Engineering
+Modelling and Analysis of a Fuel Cell Emulator for Integration in a Hybrid Photovoltaic System Using MATLAB-Simulink
+Proceedings of CONECCT 2024 – 10th IEEE International Conference on Electronics, Computing and Communication Technologies
+Conference paper 97
+Sneha T.; Kulkarni P.S.; Rudra A.; Ghosh S.
+Electrical Engineering
+Design and Simulation of a Stand-Alone Hybrid Solar Photovoltaic-Fuel Cell-Battery System in MATLAB Simulink 2024 IEEE International Conference on Smart Power Control and Renewable Energy, ICSPCRE 2024
+Conference paper 98
+Dora B.K.; Singh S.; Bahale B.; Bhat S.
+Electrical Engineering
+Solution of Optimal Power Flow Problems Using Modified Hunter Pray Optimization Algorithm 2024 IEEE International Conference on Information Technology, Electronics and Intelligent Communication Systems, ICITEICS 2024
+Conference paper 99
+Dora B.K.; Halder S.; Waghmare R.S.; Gangadhar T.; Kulkarni P.; Bhat S.
+Electrical Engineering
+Solution of Optimal Power Flow Problems Using Enhanced Hunter Pray Optimization Algorithm
+Proceedings of the 3rd IEEE International Conference on Power Electronics, Intelligent Control and Energy Systems, ICPEICES 2024
+Conference paper 100
+Sadale S.A.; Karampuri R.
+Electrical Engineering
+Performance Analysis of Five-Phase System for Various Bus-Clamping Space Vector Based Pulse Width Modulation Methods 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 101
+Bodele N.; Kulkarni P.S.
+Electrical Engineering
+A Zero-Leakage-Current Single-Stage PV-Battery Integrated Inverter with Active Power Decoupling
+IEEE Transactions on Circuits and Systems II: Express Briefs
+Article 102
+Sekhar K.S.R.; Chaudhari M.A.; Kumar R.
+Electrical Engineering
+Impact of PLL and non-PLL vector current control techniques on grid connected inverter
+Electric Power Systems Research
+Article 103
+Surya Vardhan B.V.; Swain A.; Khedkar M.; Srivastava I.; Bokde N.D.
+Electrical Engineering
+An overview of Indian power sector and its Energy Management
+Renewable Energy Focus
+Review 104
+Dora B.K.; Bhat S.; Halder S.; Srivastava I.
+Electrical Engineering
+A solution to multi Objective Stochastic Optimal Power Flow problem using mutualism and elite strategy based Pelican Optimization Algorithm
+Applied Soft Computing
+Article 105
+Rath I.C.; Patro S.K.; Shukla A.
+Electrical Engineering
+Transformer-Less Hybrid Series Static Compensator and its DC Capacitor Voltage Balance Technique Using Zero-Sequence Voltage
+IEEE Transactions on Power Electronics
+Article 106
+Halder S.; Dora B.K.; Bhat S.
+Electrical Engineering
+An Enhanced Path Finder Algorithm for the estimation of the stator current envelope to detect rotor bar breakage in an induction motor
+Measurement: Journal of the International Measurement Confederation
+Article 107
+Kumar S.; Lokhande M.M.; Awale L.B.
+Electrical Engineering
+Optimizing SRM Design for Electric Vehicles: A Solution to Torque Ripple 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 108
+Shivankar S.B.; Mounica M.; Rajpathak B.
+Electrical Engineering
+Design and Control of DC Fast Charging Stations for Electric Vehicles Powered by Photovoltaic Energy 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 109
+Tah A.; Narasamma L.
+Electrical Engineering
+Analysis and Operation of Primary Side Modulated Single Stage Isolated HF Link DC-AC Converter 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 110
+Kumar Raghavendra G.B.; Chaudhari M.A.; Kumar R.
+Electrical Engineering
+V2V Charging and Solar Integration to Overcome Range Anxiety in Electric Vehicles 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 111
+Agarala A.; Bhat S.S.; Zychma D.; Sowa P.
+Electrical Engineering
+A Novel Approach to Using Dual-Field Excited Synchronous Generators as Wind Power Generators
+Energies
+Article 112
+Srivastava I.; Bhat S.; Singh A.R.
+Electrical Engineering
+Fault diagnosis, service restoration, and data loss mitigation through multi-agent system in a smart power distribution grid
+Energy Sources, Part A: Recovery, Utilization and Environmental Effects
+Article 113
+Singh I.; Kothari D.P.; Aditya S.; Rajora M.; Agarwal C.; Gautam V.
+Electrical Engineering
+A hybrid metaheuristic optimised ensemble classifier with self organizing map clustering for credit scoring
+Operational Research
+Article 114
+Dhote R.; Satputaley R.J.; Manmadharao S.
+Electrical Engineering
+Power Factor Correction by Phase Angle Regulation using Multi Level Inverter based DVR 2024 3rd International Conference on Power, Control and Computing Technologies, ICPC2T 2024
+Conference paper 115
+Bouroju S.; Tah A.
+Electrical Engineering
+Design of Full State Feedback Control for Boost Converter with Constant Power Load 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation, SEFET 2024
+Conference paper 116
+Bouroju S.; Tah A.
+Electrical Engineering
+Modeling and Analysis of Actively-Damped DC-DC Boost Converter with Constant Power Load 2024 IEEE International Students’ Conference on Electrical, Electronics and Computer Science, SCEECS 2024
+Conference paper

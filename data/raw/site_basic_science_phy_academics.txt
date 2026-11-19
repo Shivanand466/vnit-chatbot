@@ -1,0 +1,37 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/phy/academics/
+TITLE: Academics – Department of Physics
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+COURSE OF STUDY
+PhD Program
+MSc Program
+B.Tech. First year Physics
+B.Tech Minor in Physics
+B.Tech Minor in Quantum Technologies
+B.Tech in Engineering Physics
+Area Of Research 1) Solid Electrolytes 2) Functional Ceramics 3) Nanomaterials / Biomaterials 4) Polymers Polymeric/Ceramics & Composite Materials 5) Solar Cells 6) Sensors 7) Supercapacitors 8) Quantum dots 9) Magnetic Nanoparticles 10) Solid Oxide Fuel Cells 11) Thin films 12) Heterojunctions 13) Advanced Materials/SMART Materials 14) Simulation and Modeling, computational condensed matter physics, density functional theory based computations of novel quantum materials.
+15) Theoretical and mathematical Physics 16) Quantum Theory, Quantum information Theory, Quantum Computing, Foundations of Quantum Mechanics, Quantum Machine Learning, Many- Body Condensed Matter Theory, Numerical Linear Algebra.
+17) Photocatalysis 18) Photoluminescence 19) Ferroelectric & Dielectric materials 20) Quantum dots containing Glasses 21) Air Purification 22) Theory of random matrices and Complex systems.
+23) Chaos and integrability in classical and quantum systems.
+24) Topological Materials, Collective Excitations
+Course Book M.Sc. Physics
+A) Civil Engineering:
+i)Theory Syllabus ii)Practical Syllabus
+B) Chemical Engineering :
+i)Theory Syllabus ii)Practical Syllabus
+C) Computer Science and Engineering :
+i)Theory Syllabus ii)
+Practical Syllabus
+D) Electronics and Communication Engineering :
+i)Theory Syllabus ii)Practical Syllabus
+E) Electrical Engineering :
+i)Theory Syllabus ii)Practical Syllabus
+F) Mechanical Engineering :
+i)Theory Syllabus ii)Practical Syllabus
+G)
+Metallurgical and Materials Engineering:
+i)Theory Syllabus ii)Practical Syllabus
+Minor in Physics Syllabus
+B.Tech. Minor in Quantum Technologies
+B.Tech in Engineering Physics

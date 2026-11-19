@@ -1,0 +1,8 @@
+SOURCE_URL: https://vnit.ac.in/rti-details-3-3/
+TITLE: RTI Details/3/3
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Last Updated  Date: [last-modified]
+Publicity Band Public interface 3.3 Dissemination of information widely and in such form and manner which is easily accessible to the public [Section 4(3)] 3.3.1
+Use of the most effective means of communication – Internet (website) www.vnit.ac.in

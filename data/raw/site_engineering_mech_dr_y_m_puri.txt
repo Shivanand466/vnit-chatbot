@@ -1,0 +1,295 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-y-m-puri/
+TITLE: Dr. Y. M. Puri – VNIT Nagpur Mechanical Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Y. M. Puri
+Brief Bio
+Dr. Yogesh M Puri is presently Professor in Mechanical Engineering Department at Visvesvaraya National Institute of technology (VNIT) Nagpur India. Dr Puri joined VNIT (Then VRCE) in 1998.Dr. Puri began his career in 1993 after Bachelor of Engineering (Mechanical) from Walchand College of Engineering, Sangli, Maharashtra, by joining Raymond Ltd. Saunsar, India. Dr. Puri has served NECO Industries and KEMP & Co. (Then B P Ergo, Pramal Group Company) before joining VNIT.He obtained his M. Tech and PhD from VNIT. His core of research is optimisation of WEDM and EDM process parameters, automation, metal additive manufacturing and exploring novel areas of applications of the same for customized engineering applications.He has guided 7 PhD students till date and 2 PhD students are pursuing PhD research under his guidance. He has earned 4 patents for niche work undertaken.Dr. Puri has very good networking with industry and academia locally and globally. Dr Puri is instrumental in executing 4 MOUs with industries and academia like Dassault Aviation France, CESI school of engineering, Paris, France, CIPET, Chandrapur etc.Dr Puri has published more than 25 papers in reputed journals and has published and presented more than 30 papers in various national and international conferences. Dr Puri has visited countries like Australia, USA, Italy, Hog Kong for presenting papers and for delivering lectures.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2008
+VNIT, Nagpur 2
+M.Tech.
+2001
+Production Engineering
+VNIT, Nagpur 3
+B.E 1993
+Mechanical Engineering
+Walchand College of Engineering,  Sangli 4
+MBA 2000
+Production and Marketing
+Nagpur University
+Contact
+Phone:
+Email:
+Address:
+0712 2801308 ympuri@mec.vint.ac.in
+Ground Floor , CAD  CAM Centre,Department of Mechanical Engineering, VNIT, Nagpur, India - 440010
+Research Interest
+Manufacturing
+Production and Automation
+Industrial Engineering
+Electrical Discharge Machining (EDM)
+CNC/CAM Technology
+Optimization
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Doctoral Students
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+CNC Wire-cut EDM setup for production lab
+MHRD, GoI
+PI 2003 – 2005 9 Lakhs
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Group No.
+Details (Cumulative Amount more than 5 lakhs)
+Credit Points 1
+Educational Consultancy: One day workshop on ‘CAM TOOLS’  Dates:  14.9.2013, 22.02.14, 08.03.14,  15.03.14, 11.10.14, 08.11.14,  14.02.15,13.04.15, 16.01.16,  20.02.16, 27.02.16,07.03.16
+Dysmech Consultancy Services, Nagpur
+Principle investigator 2013 to 2016 3,30,000.01 2
+Development of component (Rotor) using CNC VMC at CAD CAM centre
+Sandeep Metalcraft Pvt Ltd.
+Principle investigator 2016 2,12,400.01 3
+Reverse engineering of TWS-45 body as per sample using CMM
+Minar Hydrosystems Pvt Ltd, Nagpur
+Principle investigator 2017 10112 4
+Preparing 2D and 3D model of various samples using CMM
+Spacewood furnishers Pvt Ltd.
+Principle investigator 2018 35,955.00 5
+Development of component (Rotor) using CNC VMC at CAD CAM Centre
+Sandeep Metalcraft Pvt Ltd.
+Principle investigator 66,237.00 6
+Development of component (Rotor) using CNC VMC at CAD CAM Centre
+Sandeep Metalcraft Pvt Ltd.
+Principle investigator 13,820.00 7
+Development of component (Rotor) using CNC VMC at CAD CAM Centre
+Sandeep Metalcraft Pvt Ltd.
+Principle investigator 91,011.00 8
+Development of component (Rotor) using CNC VMC at CAD CAM Centre
+Sandeep Metalcraft Pvt Ltd.
+Principle investigator 20,203.00 9
+Development of component (Rotor) using CNC VMC at CAD CAM Centre
+Sandeep Metalcraft Pvt Ltd.
+Principle investigator 21,550.00 10
+Development of component (Rotor) using CNC VMC at CAD CAM Centre
+Sandeep Metalcraft Pvt Ltd.
+Principle investigator 20,203.00 11
+Drawing of components using reverse engineering on CMM
+Geographical Survey of India
+Principle investigator 22,448.00 12
+Development of component (Rotor) using CNC VMC at CAD CAM Centre
+Minar Hydrosystems Pvt Ltd. Nagpur
+Principle investigator 22,247.00 13
+Development of components on RP and inspection using CMM
+NIT Warangal
+Principle investigator 1685
+Total 8,67,471.01
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Lean Management ina Medium-Scale Foundry toImprove Productivity.
+DP Parmar, Y M Puri
+Springer Singapore
+ISSN 2522-5022 ISSN2522-5030(electronic)ISBN 978-981-15-6016-3ISBN 978-981-15-6017-0(eBook) 2021
+Nature- Inspired Optimization inAdvanced ManufacturingProcesses and Systems.
+Dr Y M Puri and Dr Diwesh Meshram
+CRP Press eBookISBN9781003081166 2020
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Linear-Curved Electrical Discharge Machine (LCM) 201621020529 10/06/2021
+Granted 2
+Method and apparatus for Electrical Discharge Turning 201621026430 06/08/2021
+Granted 3
+DEVICE FOR WIRE CONDITION MONITORING IN WEDM 201821028076 27/11/2023
+Granted 4
+METHOD FOR MANUFACTURING OF THIN POROUS METAL MEMBRANE USING EDM AND WEDM 201621028405 30/11/2023
+Granted
+Sr. No.
+Title 1
+“10 Pointer”  National conference on Innovations using Triz, Bionics, Layered Manufacturing and Computer Aided Manufacturing; (Self Sponsored), CAD-CAM Center, VNIT Nagpur,  January 29-31, 2016 2
+One day National Workshop on Application of Advanced Engineering Techniques in Medical Science (AEM-2008); (MHRD, Govt. of India, Under TEQIP Project) CAD-CAM Center, VNIT Nagpur, 09 Mar 2008 3
+Organized one day workshop on industry 4.0 in collaboration with VNIT, Dassault Aviation, France and CESI, France 4
+Four weeks Certificate course on CAM
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Associate Dean Examinations
+VNIT 2024 (onging) 2
+PG admissions
+VNIT
+Chairman 2020-2021 3
+PG admissions
+VNIT
+Co-chairman 2019-2020 4
+BoG, VNIT
+VNIT
+Member 2019-2021 5
+Mechanical Engineering Society (MES)
+VNIT
+In-charge 2018-2020 6
+M. Tech. Industrial Engineering
+VNIT
+Coordinator 2015-2017 7
+Reception committee for 12th Convocation
+VNIT
+Convener 2014-2015 8
+Student Mentor
+VNIT 2013-2013 9
+UG admissions
+VNIT
+Vice chairman 2010-2011 10
+CAM LAB
+VNIT
+In-charge 2006-2023
+Sr. No.
+Awards
+–
+–
+Sr. No.
+Name
+Co-Supervisor
+Title
+Status 1
+Anoop D. Shribhate
+Dr. N V Deshpande
+Investigation of cryogenic treatment on tool life of HSS tools.
+Completed 2
+Vishal Parashar
+Dr J L Bhagoria, Dr. A Rehman, MANIT, Bhopal
+Experimentation and Optimization of Wire Cut Electro Discharge Machining Process
+Completed 3
+B.R. Borkar
+—
+Computer aided manufacturing, planning, based on STEP AP224 through automatic manufacturing feature recognition.
+Completed 4
+Sachin P. Ambade
+Dr. A P Patil
+Studies on effect of welding on corrosion of mild steel, galvanized steel, and 409 stainless steel.
+Completed 5
+Vikas Gohil
+—
+Design, Development and Performance Analysis of EDM Turning set-up
+Completed 6
+Diwesh Meshram
+—
+Curved hole drilling using electric discharge machine
+Completed 7
+Himanshu Singh
+—
+Development and analysis of metalic membrane with the help of EDM/WEDM
+Completed 8
+Amit Motwani
+—
+Development of manufacturing methodology for single seamless beam dump.
+Submitted 9
+Amol More
+Dr N K Lautre
+Broad Area: Metal Additive Manufacturing (Exact topic not finalised)
+Ongoing
+S.No.
+Publications 1
+Motwani, A., Vamsi, P. K., Puri, Y., & Kumar, A. (2023). Post-processing of wire arc additive manufactured Inconel-625 thin structure by electro-discharge machining with TLBO assistance. Materials Letters, 134672.
+2
+Koppu, A. K., Lautre, N. K., Motwani, A., & Puri, Y. (2023). Mechanical and Microstructure Investigation of TiC-inoculated SS316LSi Thin Wall Deposited by CMT-WAAM. Transactions of the Indian Institute of Metals, 1-8 3
+Motwani, A., Kumar, A., Puri, Y., & Lautre, N. K. (2023). Mechanical characteristics and microstructural investigation of CMT deposited bimetallic SS316LSi-IN625 thin wall for WAAM. Welding in the World, 67(4), 967-980.
+4
+Motwani, A., Kumar, A., Talekar, A., & Puri, Y. (2023). Process parameters optimization for cold metal transfer-deposited IN625 single-layer bead features by entropy weightage-assisted grey-based Taguchi analysis. Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering, 09544089221150196.
+5
+Makireddi, D., Ghuge, V. D., Behera, A., Puri, Y. M., Thakare, G., & Thawre, M. M. (2023). Enhancing the hardness of alumina-zirconia-CNT composites using alumina-graphite powder bath to provide homogeneous sintering. Advances in Applied Ceramics, 1-12.
+6
+Singh, H., Patrange, P., Saxena, P., & Puri, Y. M. (2022). Multi-Objective Optimization of the Process Parameters in Electric Discharge Machining of 316L Porous Stainless Steel Using Metaheuristic Techniques. Materials, 15(19), 6571.
+7
+Meshram, D. B., Puri, Y. M., Gohil, V., & Ambade, S. P. (2022). Novel curved trajectory machining using VOEDM process–experimental study and statistical optimisation thereof. Advances in Materials and Processing Technologies, 8(1), 68-84.
+8
+Meshram, D. B., Gohil, V., Puri, Y. M., & Ambade, S. (2021). Implementation of multi-objective Jaya optimization for performance improvement in machining curve hole in P20 mold steel by sinking EDM. World Journal of Engineering, 19(3), 381-394.
+9
+Singh, H., Saxena, P., & Puri, Y. M. (2021). The manufacturing and applications of the porous metal membranes: A critical review. CIRP Journal of Manufacturing Science and Technology, 33, 339-368.
+10
+Singh, H., Saxena, P., & Puri, Y. M. (2020). Materials selection and manufacturing of metal membranes for industrial applications. Materials Letters, 269, 127557.
+11
+Meshram, D. B., & Puri, Y. M. (2020). Optimized curved electrical discharge machining-based curvature channel. Journal of the Brazilian Society of Mechanical Sciences and Engineering, 42, 1-13.
+12
+Meshram, D. B., & Puri, Y. M. (2019). Effective parametric analysis of machining curvature channel using semicircular curved copper electrode and OHNS steel workpiece through a novel curved EDM process. Engineering Research Express, 1(1), 015014.
+13
+Gohil, V., & Puri, Y. M. (2018). Statistical analysis of material removal rate and surface roughness in electrical discharge turning of titanium alloy (Ti-6Al-4V). Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, 232(9), 1603-1614.
+14
+Meshram, D. B., & Puri, Y. M. (2017). Review of research work in die sinking EDM for machining curved hole. Journal of the Brazilian Society of Mechanical Sciences and Engineering, 39, 2593-2605.
+15
+Gohil, V., & Puri, Y. M. (2017). Multi-objective optimization of material removal rate and surface roughness in electrical discharge turning of titanium alloy (Ti-6Al-4V). Indian Journal of Engineering & Materials Sciences 16
+Gohil, V., & Puri, Y. M. (2017). Turning by electrical discharge machining: A review. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, 231(2), 195-208.
+17
+Gohil, V., & Puri, Y. M. (2016). Experimental investigation on surface roughness in electrical discharge turning of Ti-6al-4v alloy. Transactions of FAMENA, 40(4), 1-10.
+18
+Borkar, B. R., & Puri, Y. M. (2015). Automatic extraction of machining features from prismatic parts using STEP for downstream applications. Journal of the Institution of Engineers (India): Series C, 96, 231-243.
+19
+Borkar, B. R., Puri, Y. M., Kuthe, A. M., & Deshpande, P. S. (2014). Automatic CNC part programming for through hole drilling. Procedia Materials Science, 5, 2513-2521.
+20
+Parashar, V., Rehman, A., Bhagoria, J. L., & Puri, Y. M. (2010). Kerfs width analysis for wire cut electro discharge machining of SS 304L using design of experiments. Indian Journal of Science and Technology, 3(4), 369-373.
+S.No.
+Publications 1
+Motwani, A., Vamsi, P. K., Puri, Y., & Kumar, A. (2023). Post-processing of wire arc additive manufactured Inconel-625 thin structure by electro-discharge machining with TLBO assistance. Materials Letters, 134672.
+2
+Koppu, A. K., Lautre, N. K., Motwani, A., & Puri, Y. (2023). Mechanical and Microstructure Investigation of TiC-inoculated SS316LSi Thin Wall Deposited by CMT-WAAM. Transactions of the Indian Institute of Metals, 1-8 3
+Motwani, A., Kumar, A., Puri, Y., & Lautre, N. K. (2023). Mechanical characteristics and microstructural investigation of CMT deposited bimetallic SS316LSi-IN625 thin wall for WAAM. Welding in the World, 67(4), 967-980.
+4
+Motwani, A., Kumar, A., Talekar, A., & Puri, Y. (2023). Process parameters optimization for cold metal transfer-deposited IN625 single-layer bead features by entropy weightage-assisted grey-based Taguchi analysis. Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering, 09544089221150196.
+5
+Makireddi, D., Ghuge, V. D., Behera, A., Puri, Y. M., Thakare, G., & Thawre, M. M. (2023). Enhancing the hardness of alumina-zirconia-CNT composites using alumina-graphite powder bath to provide homogeneous sintering. Advances in Applied Ceramics, 1-12.
+6
+Singh, H., Patrange, P., Saxena, P., & Puri, Y. M. (2022). Multi-Objective Optimization of the Process Parameters in Electric Discharge Machining of 316L Porous Stainless Steel Using Metaheuristic Techniques. Materials, 15(19), 6571.
+7
+Meshram, D. B., Puri, Y. M., Gohil, V., & Ambade, S. P. (2022). Novel curved trajectory machining using VOEDM process–experimental study and statistical optimisation thereof. Advances in Materials and Processing Technologies, 8(1), 68-84.
+8
+Meshram, D. B., Gohil, V., Puri, Y. M., & Ambade, S. (2021). Implementation of multi-objective Jaya optimization for performance improvement in machining curve hole in P20 mold steel by sinking EDM. World Journal of Engineering, 19(3), 381-394.
+9
+Singh, H., Saxena, P., & Puri, Y. M. (2021). The manufacturing and applications of the porous metal membranes: A critical review. CIRP Journal of Manufacturing Science and Technology, 33, 339-368.
+10
+Singh, H., Saxena, P., & Puri, Y. M. (2020). Materials selection and manufacturing of metal membranes for industrial applications. Materials Letters, 269, 127557.
+11
+Meshram, D. B., & Puri, Y. M. (2020). Optimized curved electrical discharge machining-based curvature channel. Journal of the Brazilian Society of Mechanical Sciences and Engineering, 42, 1-13.
+12
+Meshram, D. B., & Puri, Y. M. (2019). Effective parametric analysis of machining curvature channel using semicircular curved copper electrode and OHNS steel workpiece through a novel curved EDM process. Engineering Research Express, 1(1), 015014.
+13
+Gohil, V., & Puri, Y. M. (2018). Statistical analysis of material removal rate and surface roughness in electrical discharge turning of titanium alloy (Ti-6Al-4V). Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, 232(9), 1603-1614.
+14
+Meshram, D. B., & Puri, Y. M. (2017). Review of research work in die sinking EDM for machining curved hole. Journal of the Brazilian Society of Mechanical Sciences and Engineering, 39, 2593-2605.
+15
+Gohil, V., & Puri, Y. M. (2017). Multi-objective optimization of material removal rate and surface roughness in electrical discharge turning of titanium alloy (Ti-6Al-4V). Indian Journal of Engineering & Materials Sciences 16
+Gohil, V., & Puri, Y. M. (2017). Turning by electrical discharge machining: A review. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, 231(2), 195-208.
+17
+Gohil, V., & Puri, Y. M. (2016). Experimental investigation on surface roughness in electrical discharge turning of Ti-6al-4v alloy. Transactions of FAMENA, 40(4), 1-10.
+18
+Borkar, B. R., & Puri, Y. M. (2015). Automatic extraction of machining features from prismatic parts using STEP for downstream applications. Journal of the Institution of Engineers (India): Series C, 96, 231-243.
+19
+Borkar, B. R., Puri, Y. M., Kuthe, A. M., & Deshpande, P. S. (2014). Automatic CNC part programming for through hole drilling. Procedia Materials Science, 5, 2513-2521.
+20
+Parashar, V., Rehman, A., Bhagoria, J. L., & Puri, Y. M. (2010). Kerfs width analysis for wire cut electro discharge machining of SS 304L using design of experiments. Indian Journal of Science and Technology, 3(4), 369-373.

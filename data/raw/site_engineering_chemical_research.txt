@@ -1,0 +1,311 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/research/
+TITLE: Research Facilities
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Research at Physics Department
+Research Areas
+Projects
+Patents
+Research Facilities
+Sr. No.
+Research Area
+Faculty Name 1
+Biotechnology and Biochemical Engineering​
+Ashish S. Chaurasia
+Ashwin Kannan
+Ashwin P. Gaikwad
+Mahesh N.Varma
+Pradip P. Dhamole
+Sachin Mandavgane
+Shailesh Agrawal
+Sonali P Tajane
+Shyam Kodape 2
+Catalysis and Reaction Engineering
+Ashwin P. Gaikwad
+C. Ravikumar
+Kailas L. Wasewar
+Mahesh N.Varma
+Sachin Mandavgane
+Vijayakumar R.P 3
+Energy, Environment and Sustainability
+Ashish S. Chaurasia
+Ashwin P. Gaikwad
+C. Ravikumar
+Diwakar Z. Shende
+Kailas L. Wasewar
+Pradip P. Dhamole
+Ravi N. Methekar
+Sachin Mandavgane
+Vijayakumar R.P 4
+Nanotechnology and Materials Engineering​
+Ashwin Kannan
+C. Ravikumar
+Kailas L. Wasewar
+Piyush P. Wanjari
+Sriram S. Sonawane
+Vijayakumar R.P 5
+Novel Separation Techniques
+Ajit P. Rathod
+Diwakar Z. Shende
+Mahesh N.Varma
+Pradip P. Dhamole
+Kailas L. Wasewar
+Sriram S. Sonawane
+Sonali P.Tajane
+Sachin Mandavgane 6
+Process Modeling and Simulation
+Sriram S. Sonawane
+Ravi N. Methekar
+Shailesh Agrawal
+C. Ravikumar
+Ashwin P. Gaikwad 7
+Systems Engineering and Process Control
+Ravi N. Methekar 8
+Thermodynamics, Interface Science and Molecular Simulations
+Vijayakumar R.P
+Piyush P. Wanjari
+Pradip P. Dhamole
+C. Ravikumar
+Externally Sponsored Projects
+The Department has always been a hub of world-class cutting-edge research activity that would benefit the public, private and government agencies in general. Our faculty members aim to develop innovative solutions to challenging engineering problems of all functional and interdisciplinary areas of Chemical engineering including energy, environment, health-care, and advanced materials. Apart from our institute and industrial support for research, our faculty members receive research fundings from major Indian agencies such as DST-SERB, DBT, CSIR, DRDO, DSIR, DAE, etc. and other agencies in abroad. Several research publications, patents, and books have been published and new courses have been augmented from the outcomes of our research activities. Below is the list of ongoing and completed sponsored projects undertaken by our faculty members.
+Sr. No.
+Title
+Investigators
+Funding Agency
+Year
+Amount (In Lakhs) 1
+Development of Pervaporation process for Separation of Lycopene from Tomato Waste
+Dr. Shyam M. Kodape (PI) Dr. Ajit P. Rathod (Co-PI)
+DST SEED 2020 25.38 2
+Design and Synthesis of Ionic liquids for the separation of Biobutanol from fermentation broths to enhance its production
+Dr.Kailas L.Wasewar (PI)
+DBT 2018-2021 50 3
+A compositional, Structural & Mechanical study to evaluate the effect of Mg2+ on the formation of Paeruginosa Biofilm
+Dr. Ashwin Kannan (PI)
+SERB-DST Extra Mural Research Grant 2018 -2021 24 4
+Development of orange waste biorefinery
+Dr. Sonali P. Tajane (PI)
+SYST-DST 2018-2019 11.16 5
+Development of a simple and cost-effective process for recovery of proteins from dairy waste
+Dr. Shailesh Agrawal (PI)
+SYST-DST 2018-2020 15.98 6
+Process development of potato biorefinery
+Dr. Sachin Mandavgane (PI)
+SERB-DST 2017-2020 67 7
+Development of prototype lantern powered by spent laptop batteries
+Dr. Ravi Methekar (PI)Dr.Ganesh Patil (VLSI Dept.)
+SYST-DST 2017-2019 12.01 8
+Selective separation of water from the acid mixture
+Dr. Mahesh N Varma (PI),    Dr. Diwakar Z. Shende,          Dr. Kailas L.Wasewar,    Dr.C.Ravikumar
+Ordnance Factory, Bhandara 2017-2018 11.73 9
+Downstream processing of erythromycin using a new phase separation method
+Dr. Pradip Dhamole (PI),      Dr. Shailesh Agrawal,              Dr. Piyush P. Wanjari
+SERB-DST Extra Mural Research Grant 2017-2020 24.13 10
+Nanoparticles of different shapes conjugated with drugs to achieve enhanced therapeutic efficacy in the treatment of cancer
+Dr. C. Ravikumar (PI),            Dr. Kailas L.Wasewar
+SERB-DST Extra Mural Research Grant 2017-2020 27.66 11
+Investigation of selective CO₂ capture by graphene-carbon nanotube hybrid nanostructures using molecular dynamics simulations
+Dr. Piyush P. Wanjari (PI)
+SERB-DST Early Career Research Award 2017-2020 23.65 12
+Developing functionalized properties on hollow ceramic microsphere for specific applications
+Dr. Diwakar Z. Shende (PI)
+SERB-DST 2016-2019 46.98 13
+Model-based optimal design and fabrication of coin cells using spent lithium-ion battery
+Dr. Ravi Methekar (PI),  Dr.Venkala Shailanathan (IIT Bombay)
+SERB-DST 2016-2019 33.64 14
+Experimental and modeling studies on the ionic liquid-mediated catalytic conversion of lignocellulosic biomass to fuel products
+Dr. Ashwin Gaikwad (PI)
+SERB-DST Early Career Research Award 2016- 2019 25.33 15
+Rheological study of hydroxyl terminated polybutadiene (Htpb) – Aluminium nanoparticle (ANP) – ammonium perchlorate (AP) composite suspension
+Dr. Kailas L. Wasewar (PI)Dr. Diwakar Z. Shende
+HEMRL, DRDO Pune 2015-2018 10 16
+Experimental Investigations of the prototype designed Critical Heat Flux (CHF) Enhancement of High-Performance Heat Transfer Nanofluids using SWCNT & MWCNT’S based Nanoparticles
+Dr. S. S. Sonawane
+SERB DST 2018-2021 50 17
+Process Development for Production of Janus Nanoparticles for Selected Catalytic Reactions
+Dr. Shriram Sonawane, Dr. Shirish Sonawane
+EMR DST SERB 2017-2020 23 18
+Development of starch-based polyurethane nano-coatings for pae~aging applications by the sonochemical approach
+Dr. Shriram Sonawane, Dr. Shirish Sonawane, Dr.Uday Bhaskar Babu
+DST IINT/TUNISIAlP-06/2017, (Indo Tunisia) 2017-2020 14.27 19
+Ultrasonic encapsulation of bioactive compounds to deliver in the food matrix.
+Dr. Shriram Sonawane, Dr. Shirish Sonawane, Dr. Prakash Saudagar, Dr. Anandan Sambandan
+RFBR DST India Call 2017, (Indo Rasia), DST-RFBR Proposal: INT/RUS/RFBR/324 2018- 2021 20 20
+Production of liquid hydrocarbons and carbon nanotubes using waste plastics as a precursor
+Dr. Vijayakumar R. P (PI)
+SERB-DST Fast Track Young Scientist 2014 27 21
+Development of controlled shape and size metal oxides nanoparticles, synthesis of nanofluids and application in the heat exchanger
+Dr. Shriram S. Sonawane (PI)
+Dr. Shriram S. Sonawane (PI) 2014-2017 22.5 22
+Development of High-Performance Heat Transfer Nanofluids Using Carbon Nanotubes (SWCNT & MWCNT’S) Nanoparticles and Its Applications in Double Pipe Heat Exchanger
+Dr. Shriram S. Sonawane (PI)
+Dr. Shriram S. Sonawane (PI) 2016-17 5.5 23
+Exploring the various applications of fly ash conduction of testing of ash and other raw materials and industry-based technology development
+Dr. Diwakar Z. Shende (PI), Dr. Kailas L. Wasewar, Dr. Swapnil Wanjari
+Vipra Ferro Alloys Ltd., Nagpur 2014-2016 6.6 24
+Removal of chlorinated herbicides from dilute aqueous solution using biomass ashes
+Dr. Sachin Mandavgane (PI)
+SERB-DST 2013-2017 45 25
+Extractive fermentation with surfactants to enhance butanol production
+Dr. Pradip Dhamole (PI)
+SERB-DST 2013 29.17 26
+Development and testing of micro fine powder bio-pesticide using Neem
+Dr. Sachin Mandavgane (PI)Dr. Sonali P.Tajane
+Department of Atomic Energy (BRNS) 2012-2016 22.6 27
+Synthesis and application of ionic liquids for deep-desulfurization of liquid fuels
+Dr. Kailas Wasewar (PI), Dr. Diwakar Z. Shende, Dr. Mahesh N Varma
+CSIR 2011-2014 25 28
+Synthesis of nanocatalyst from rice husk ash and its application
+Dr. Sachin Mandavgane (PI)
+SERB Fast Track Young Scientist 2010-2012 22.26 29
+Development of green construction material using industrial waste for low-cost housing
+Dr. Sachin Mandavgane (PI)
+DST 2009-2011 22.01 30
+Reactive extraction of propionic acid
+Dr. Kailas Wasewar (PI)
+DST 2007-2010 8.4 31
+Study on Application of tyre pyrolysis solid residue
+Dr. Sachin Mandavgane (PI)
+M/S Radiant Udyog (Pvt) Ltd
+June –July 2013 0.3 32
+Evaluation of Effluent Treatment Plant
+Dr. Sachin Mandavgane (PI)
+Bhansali engineering Polymers Ltd, Chhindwara, MP.
+Aug 2014- Feb 2015 2.5 33
+Design of an anaerobic digester for rice straw
+Dr. Sachin Mandavgane (PI)
+Merino Industries Limited, Hapur, UP
+May 2019- Aug 2019 34
+Design of light weight false ceiling panels from paper pulp
+Dr. Sachin Mandavgane (PI)
+Maharashtra Forest Department, Government of Maharashtra, Gadchiroli
+June- Dec 2014 2.7 Lakhs 35
+Parameter optimization of separation of Phosphatidylcholine from Soya Licithin on lab scale
+Dr. Sachin Mandavgane (PI)
+Hi Tech BioSciences India Ltd Pune
+May 2014- Oct 2014 36
+Design Development of Sustainable Construction Material from Agricultural Waste
+Dr. Sachin Mandavgane (PI)
+Co-PI, HUDCO New Delhi.
+2014-2016 37
+Virtual Science World for the Students
+Dr. Sachin Mandavgane (PI)
+Department of Science and Technology, 2016-2017 44 Lakhs 38
+Waste to Wealth : Extracting nutraceutical (polyphenols) from tropical fruits residue by biorefinery approach
+Dr. Sachin Mandavgane (PI)
+Ministry of Food Processing Industries (MoFPI) GOI, 2019-2021 31.35 L 39
+Valuable products from oranges – addressing a problem of Nagpur Division of Vidarbha, the largest orange producer
+Dr. Sachin Mandavgane (PI)
+DST 2018-2021 69.9L
+Patents (Department of Chemical Engineering)
+Sr. No.
+Title
+Inventors/Faculty
+Collaborative Details
+Status
+Year
+Patent Licence ID 1
+A process for sulfur removal from mill rejects of thermal power plant
+Dr Shriram S Sonawane, Parag Thakur, Malika Mudaliar, Aaditee Pargaonkar
+VNIT
+Filed and Published 2022 202221047477 2
+A hybrid nanofluid based drilling fluid and method of preparation
+Dr. Shriram S Sonawane, Parag Thakur, Malika Mudaliar, Aaditee Pargaonkar
+VNIT
+Filed and Published 2022 202221050711 3
+Development of Novel Process for microreactor-based Extraction of Heavy Antimony using ionic liquid-based Hybrid Nanofluids
+Dr. Shriram S Sonawane, Parag Thakur, Malika Mudaliar, Aaditee Pargaonkar
+VNIT
+Filed and Published 2022 4
+Development of Metal Ions Adsorbent from Cajanus Cajan (Tur Dal) Husk
+Dr.S.S.Sonawane, Vishal R. Parate, Dr.Mohammed I. Talib, Dr. Ajit P. Rathod
+VNIT
+Granted 2021 357196 5
+A Method for Synthesis of Syntactic Adsorbent
+Dr. Diwakar Z. Shende
+VNIT
+Granted 2021 2021102960 6
+Method for converting biomass to hydrogen rich syngas in a two-stage process
+Dr. A. S. Chaurasia
+VNIT
+Granted 2021 356848 7
+Synthesis of cenosphere supported catalyst by different precursors for esterification reactions
+Dr. S. S. Sonawane, Dr. A. P. Rathod, Vishal S. Chandane, Vishal S. Parate
+VNIT
+Granted 2020 353709 8
+Process for the synthesis of multi-walled carbon nanotubes using waste toner powder
+Tejas Bhongade, Gogaram, Deepak M. Gautam, Dr. R. P. Vijayakumar
+VNIT
+Filed 2020 202021016528 9
+A method of preparing iron oxide nanoparticles of controlled-shapes and a tunable size
+Prashil K. Narnaware, Dr. C.Ravikumar
+VNIT
+Filed 2019 201921036489 10
+A Process for Ionic Liquid Based Catalytic Conversion of Cellulose to Fuel Products
+Dr. A. P. Gaikwad, Dr. Saikat Chakraborty
+IIT Kharagpur
+Granted 2019 314202 456/KOL/2013 11
+Development of Packing Material for Liquid-Liquid Extraction
+Dr. S. S. Sonawane
+VNIT
+Granted 2019 317858 12
+An Automated Apparatus For Esterification Of A Liquid- Liquid System
+Amol Abhay Bhusari, Dr. Bidyut Mazumdar, Dr. Ajit P. Rathod, Prof. Bhagyashri Dharaskar
+NIT Raipur
+Filed 2019 201921005676A 13
+Process for coating of metal and metal oxides on hollow ceramic microspheres
+D. Z. Shende, K. L. Wasewar
+VNIT
+Granted 2019 201621034195 14
+Multi-core reactor for the production of liquid hydrocarbons, CNTs and hydrogen-rich gases
+Dr. R. P. Vijayakumar, Dr. Ganesh S. Bajad, Ajay G. Gupta
+VNIT
+Granted 2019 201621018395 15
+Cenosphere supported a metal catalyst for hydrogenation of 2- Ethylanthraquinone in hydrogen peroxide synthesis
+Dr. D. Z. Shende, Dr. K. L. Wasewar
+VNIT
+Filed and Published 2018 201821001185 16
+A hydrogenation catalyst and a process thereof
+Dr. D.Z. Shende, Dr. K. L. Wasewar
+VNIT
+Filed and Published 2018 201821004343 17
+Disinfectant and method for its preparation and use
+Dr.Mandavgane S. A., Dr. Mishra Neeraj,Dr.Deopujari. J
+VNIT
+Granted 2017 280259 18
+Development of Improved Pasta
+Dr. S. S. Sonawane, Dr. Vishal Parate
+VNIT
+Granted 2017
+TEMP/E-1/5734/2017-MUM 19
+Process for recovery for Caproic Acid from aqueous solution
+Dr. D.Z. Shende, Dr. K.L. Wasewar
+VNIT
+Filed 2016 201621006145A (23/02/2016) 20
+Separation and recovery of Acrylic Acid from aqueous solution using natural oils
+Dr. D.Z. Shende, Dr. K.L. Wasewar
+VNIT
+Filed 2016 201621034582A (10/10/2016) 21
+A process for making a dual substrate filter material
+Dr. S. A. Mandavgane
+VNIT
+Granted 2015 272399 22
+An ambiphilic, mesoporous catalyst of agricultural origin and a process for making the same
+Dr. S. A. Mandavgane
+VNIT
+Granted 2015 271794 23
+Process for receovery of Caproic Acid from Aqueous solutions
+Dr. D. Z. Shende and Dr. K. L. Wasewar
+VNIT
+Filed 2015
+Docket No. 4521 201621006145 dated 23/02/2016 24
+A process for extraction and purification of safranal
+Dr. P. B. Dhamole
+VNIT
+Filed 2015 1663/MUM/2015 A 25
+Development of Novel Al2O3 and OMMT nano packing material for Liquid-Liquid Extraction
+Dr. S. S. Sonawane
+VNIT
+Published 2014 2155/Mum/2014,C.B.R. No: 10574
+Research Facilities

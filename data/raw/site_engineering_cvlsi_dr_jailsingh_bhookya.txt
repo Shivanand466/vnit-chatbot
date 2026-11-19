@@ -1,0 +1,60 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cvlsi/dr-jailsingh-bhookya/
+TITLE: Dr. Jailsingh Bhookya
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Jailsingh Bhookya
+Brief Bio
+Dr. Jailsingh Bhookya is currently serving as an Assistant Professor at the Centre for VLSI and Nanotechnology, Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. He received his Ph.D. degree from the National Institute of Technology (NIT) Warangal, India, in 2021. He obtained his M.Tech. degree in Digital Techniques and Instrumentation from the Indian Institute of Technology (BHU), Varanasi, Uttar Pradesh, India, in 2011, and his B.Tech. degree in Electronics and Communication Engineering from Jawaharlal Nehru Technological University Hyderabad, Telangana, India, in 2007.
+His research interests span embedded artificial intelligence (AI), soft computing, bio-inspired optimization algorithms, machine learning, optimal control techniques, process control, fractional-order modelling and control, and flexible and wearable sensor-array fabrication. His work emphasizes the integration of intelligent algorithms, advanced sensing technologies, and control methodologies for real-time monitoring and automation of complex engineering systems.
+Dr. Bhookya's research group adopts an interdisciplinary and collaborative approach to developing innovative technological solutions to pressing societal challenges, particularly in UAVs, robotics, and intelligent systems. The group aims to bridge the gap between computational intelligence, embedded systems, sensing technologies, and real-time control to develop practical, efficient, and sustainable engineering solutions.
+He is actively engaged in the design and development of UAVs and drones for smart agriculture, as well as soft robotic systems for rehabilitation, with a particular emphasis on real-time sensing, intelligent control, and application-oriented system development. His research seeks to advance autonomous and intelligent systems capable of addressing emerging challenges in agriculture, healthcare, and rehabilitation.
+Dr. Bhookya is also leading an ongoing project funded by the Anusandhan National Research Foundation (ANRF), India, titled “A Novel Approach for Soft Robot Modelling and Control in Rehabilitation: A Koopman Operator Theory Perspective.” The project explores the application of Koopman operator theory to the modelling and control of soft robotic systems for rehabilitation, with the aim of developing effective control strategies that support the advancement of intelligent, adaptive, and rehabilitation-oriented robotic technologies.
+Educational Details
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+PhD 2021
+Electronic system design and optimal control
+NIT Warangal 2
+M.Tech 2011
+Electronics Engineering (Digital Techniques & Instrumentation)
+IIT (BHU) Varanasi 3
+B.Tech 2007
+Electronics and Communication Engineering
+JNTU Hyderabad
+Contact Details
+Name:
+Phone
+Email
+Address
+Dr. Jailsingh Bhookya 0712-2802372, 91-9177957376 jailsingh@cvn.vnit.ac.in
+Room No.203, New Academic Building, Centre of VLSI & Nanotechnology, VNIT Nagpur, South Ambazari Road, Nagpur, Maharashtra, India, 440010
+Research Interests
+Research Interest
+Electronic System Design
+Embedded AI
+Unmanned Aerial Vehicles (UAVs)
+Soft Robotics
+Fractional-Order System Modelling and Control
+Flexible and Wearable Sensor-Array Fabrication
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications

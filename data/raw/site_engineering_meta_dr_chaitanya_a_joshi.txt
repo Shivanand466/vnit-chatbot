@@ -1,0 +1,128 @@
+SOURCE_URL: https://vnit.ac.in/engineering/meta/dr-chaitanya-a-joshi/
+TITLE: Dr. Chaitanya A. Joshi
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Chaitanya A. Joshi
+Assistant Professor
+Brief
+Bio bio
+Dr. Chaitanya Joshi joined the department in May 2022. He taught subjects like Metal Working Processes, Welding and Joining of Materials, Solidification Processing and Advanced Foundry Technology, Engineering Metallurgy. His research interest is in mathematical modelling for studying microstructure evolution.
+Research
+Interest interest
+Mathematical Modeling of Microstructure Evolution
+Phase Field Modelling
+Education
+Degree
+Year
+Specialization
+University
+Ph.D 2017
+Materials Engineering
+IISc, Bangalore
+M. Tech 2011
+Materials Engineering
+IISc, Bangalore
+B.E.
+2009
+Metallurgical and Materials Engineering
+VNIT, Nagpur
+Contact
+Details
+Phone:
+Email:
+Address:
+91 712 280 1238 chaitanyajoshi@mme.vnit.ac.in
+VNIT, Nagpur
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Research Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Patent Title
+Application No.
+Date
+Present Staus
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Aspects of Ladle and Tundish Metallurgy
+TEQIP
+VNIT 1-5 March 2021
+Introduction to Materials Informatics
+PMRF fellowship
+VNIT
+Weekends January-April 2022
+Foundations of Modelling and Simulation
+PMRF fellowship
+VNIT
+Weekends September-November 2022
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Department Time Table coordinator
+VNIT
+Coordinator 2022-23 2
+Department Exam Controller for PG
+VNIT
+Coordinator 2021-22 3
+UG Project Coordinator
+VNIT
+Coordinator 2021-22 4
+UG Project Coordinator
+VNIT
+Coordinator 2022-23 5
+Faculty advisor
+VNIT
+Advisor 2021-24 6
+Department Website Coordinator
+VNIT
+Coordinator 2021 onwards 7
+Department training and placement coordinator
+VNIT
+Coordinator 2020 onwards 8
+Department newsletter
+VNIT
+Co-Editor 2022-23 9
+Department newsletter
+VNIT
+Editor 2023 onwards
+Year
+Award Description
+S.No.
+Paper Citation 1
+Khoo, K. H., Srinivasan, B. M., Hariharaputran, R., Joshi, C. A., Tai-Yen, D. W., & Jin, H. (2020). First-principles study of coadsorption of Cu 2+ and Cl− ions on the Cu (110) surface. RSC Advances, 10(14), 8212-8217.
+2
+Joshi, C., Abinandanan, T. A., Mukherjee, R., & Choudhury, A. (2017). Destabilisation of nanoporous membranes through GB grooving and grain growth. Computational Materials Science, 139, 75-83.
+3
+Joshi, C., Abinandanan, T. A., & Choudhury, A. (2016). Phase field modelling of rayleigh instabilities in the solid-state. Acta Materialia, 109, 286-291.
+S.No.
+Paper Citation 1
+MingRui, L., Hariharaputran, R., Khoo, K.H., Hongmei, J., Wu, S., Joshi, C.A., Mangipudi, K.R., Quek, S.S., Wu, D.T., Narayanaswamy, S. and Srinivasan, B.M., 2019, March. Electroplating of Through Silicon Vias: A Kinetic Monte Carlo Model. In 2019 Electron Devices Technology and Manufacturing Conference (EDTM) (pp. 342-344). IEEE.
+2
+Joshi, C. A., H. Ramanarayan, K. H. Khoo, H. Jin, S. S. Quek, D. T. Wu, N. Sridhar, and M. S. Bharathi. “Defect-Free Electroplating of High Aspect Ratio Through Silicon Vias: Role of Size and Aspect Ratio.” In 2019 International Wafer Level Packaging Conference (IWLPC), pp. 1-6. IEEE, 2019.
+3
+Khoo, K. H., Lai MingRui, H. Ramanarayan, J. Hongmei, S. Wu, C. A. Joshi, K. R. Mangipudi et al. “Multiscale Models for Electroplating of Through Silicon Vias.” In 2018 International Wafer Level Packaging Conference (IWLPC), pp. 1-9. IEEE, 2018.

@@ -1,0 +1,935 @@
+SOURCE_URL: https://vnit.ac.in/departments-research-area/
+TITLE: Departments Research Area
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Applied Mechanics
+Architecture & Planning
+Chemistry
+Chemical Engineering
+Civil Engineering
+Computer Science & Engineering
+Electrical & Electronics Engineering
+Electronics & Communication Engineering
+Centre for VLSI & Nanotechnology
+Humanities & Social Sciences
+Mathematics
+Mechanical Engineering
+Metallurgical & Material Engineering
+Mining Engineering
+Physics
+Physical Education
+Applied Mechanics
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. LAXMIKANT MADANMANOHAR GUPTA
+PROFESSOR (HAG)
+Steel structures, pre stressing steel structure, Bridges rehabilitation and retrofitting of structures 2
+DR. RAMAKANT KISANSING INGLE
+PROFESSOR
+Analysis and design of  bridges, Water tanks, Buildings and  special structures, Earthquake resistant design, FEM Analysis 3
+DR. OMPRAKASH RAMAKANT JAISWAL
+PROFESSOR
+Dynamic analysis of structures ( wind and earthquake loads), Analysis and Design of elevated water tank, Structural Control 4
+DR. SACHIN VASANT BAKRE
+PROFESSOR
+FE analysis, Response control and base isolation 5
+DR. RANJAN SADASHIVRAO SONPAROTE
+PROFESSOR
+Software development, Soil-structure interaction, Machine foundation 6
+DR. (Ms). SANGEETA SURENDRA GADVE
+PROFESSOR
+Repairs,  Rehabilitation, RC/PSC structures, Concrete technology, FE analysis 7
+DR. RATNESH  KUMAR
+PROFESSOR
+Performance-based design, Seismic evaluation and retrofitting, Seismic vulnerability and risk assessment 8
+SHRI. SANJAY BHANUKUMAR BORGHATE
+ASSOCIATE PROFESSOR
+RC structures 9
+DR. MANMOHANDASS GOEL
+ASSOCIATE PROFESSOR
+Blast Resistant Design of Structures, Behavior of Materials at Low, Medium and High Rate of Loadings, Numerical Simulation and Analysis of Blast and Impact Events, Crash Worthiness and Impact Mechanics 10
+DR. (Ms). DEBARATI  DATTA
+ASSOCIATE PROFESSOR
+Structural dynamics, Seismic response of structures, Structural reliability 11
+SHRI. ARVIND Y VYAVAHARE
+ASSOCIATE PROFESSOR
+FEM analysis, Steel structures, Steel connection 12
+SHRI. ASHISH P KHATRI
+ASSISTANT PROFESSOR
+Steel structures, Stability of structures, RC and prestressed structures 13
+Dr. Sonal Dhanvijay
+ASSISTANT PROFESSOR
+Experimental structural dynamics, hybrid simulation, Reliability Estimation 14
+Dr. Rahul Biswas
+ASSISTANT PROFESSOR
+Concrete Technology, UHPC, Supplementary Cementitious Material, Machine Learning
+Architecture & Planning
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. VINAYAK SAKHARAM ADANE
+PROFESSOR
+Building Services, Construction, Design, City Planning, Urban Infrastructure Planning.
+2
+DR. (Ms). RAJASHREE S. KOTHARKAR
+PROFESSOR
+Climate Responsive Architecture, Green Buildings, Urban Sustainability, Urban Heat Island Study, Compact City Concept, Vernacular Architecture 3
+DR. VIJAY SHRIRAMJI KAPSE
+ASSOCIATE PROFESSOR
+Construction Technology, Low Cost Housing, Architectural Graphics, Architectural Design, Urban Planning, Urban Poverty.
+4
+DR. (Ms). CHANDRA SEOMAL SABNANI
+ASSOCIATE PROFESSOR
+Interior Design, Appropriate Technology, Architectural Design, Low Cost Housing, Urban Planning.
+5
+DR. AKSHAY PRABHAKAR PATIL
+ASSOCIATE PROFESSOR
+Urban Design, Urban Complexity, Complexity Science, Emergence, Agent-Based-Modelling, Public Realm, Informal Sector, and Human Settlements.
+6
+DR. (Ms). SMITA HABEEB KHAN
+ASSISTANT PROFESSOR
+Architectural Design, History & Theory of Architecture, Basic and Visual Arts, Interior & Space Design.
+7
+SHRI. KISHOR NARSING JOGLEKAR
+ASSISTANT PROFESSOR
+Architectural Design, History & Theory of Architecture, Basic and Visual Arts, Interior & Space Design.
+8
+DR. SAMEER MORESHWAR DESHKAR
+ASSOCIATE PROFESSOR
+Architectural Design, Urban Planning, Environmental Planning & Education, Disaster Management, Urban Biodiversity Conservation, Green Infrastructure Planning.
+9
+DR. (Ms). VIDYA VINAYAK GHUGE
+ASSISTANT PROFESSOR
+Architectural
+Design, Urban Planning, Building Material, Graphics, Building
+Construction, RS & GIS thermal environment studies.
+10
+DR. AMIT MANOHAR DESHMUKH
+ASSISTANT PROFESSOR
+Working Drawings, Building regulations, Interior Design, Computer applications,City Development Plans, Urban Legislations, Project formulations and implementation.
+11
+DR. PANKAJ NILKANTH BAHADURE
+ASSISTANT PROFESSOR
+Urban Planning, Compact City Ideas, Housing 12
+Ms. SARIKA PANKAJ BAHADURE (WAGHMARE)
+ASSISTANT PROFESSOR
+Construction, Design, Sustainable Development, Building Materials 13
+DR. MEENAL  SURAWAR
+ASSISTANT PROFESSOR
+Theory of Architecture, Architectural Design, Landscape Design, Housing, Urban Heat Island Studies, Urban and Community Planning, Geographic Information Systems & Remote sensing, Urban Sprawl, Research Methodology 14
+Prof. Rakesh Parmar
+ASSISTANT PROFESSOR
+Architectural Tectonics, Landscape Design & Planning, Landscape Urbanism 15
+Dr. Pankaj
+ASSISTANT PROFESSOR
+Urban and Rural Planning 16
+Prof. Uttkarsha P. Dhurve
+ASSISTANT PROFESSOR
+Landscape Architecture, Landscape Design, Energy saving Landscapes, Regional Ecology, Cultural landscapes, Architectural History
+Chemistry
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. SURESH SUDAM UMARE
+PROFESSOR
+Conducting Polymers, Bio-polymers, Nanomaterials, Nanocomposite & Catalysis 2
+DR. JAYANT DATTATRAYA EKHE
+PROFESSOR
+De-oxyhydrogenation, depolymerization & polymer blends of lignin 3
+DR.(Ms) . ANUPAMA  KUMAR
+ASSOCIATE PROFESSOR
+Supramolecular polymers for environmental application, Molecular Imprinting, Molecular modeling, Solid Phase extraction & Analytical method development 4
+DR. SUJIT KUMAR  GHOSH
+ASSOCIATE PROFESSOR
+Biophysical Spectroscopy, Surface Chemistry, Photochemistry & Photobiology 5
+DR. CHAYAN  DAS
+ASSISTANT PROFESSOR
+Elastomeric Composites, Transition Metal Chemistry & Layered Double Hydroxides 6
+DR. (Ms) . RAMANI VILAS MOTGHARE (KAWADKAR)
+ASSISTANT PROFESSOR
+Electrochemical sensors, modified electrodes, molecularly imprinted polymers, Voltammetric Analysis & Analytical Chemistry 7
+DR. ATUL VINAYAKRAO WANKHADE
+ASSISTANT PROFESSOR
+Nano material synthesis, Green Chemistry by Photocatalysis & Catalysis for organic transformation 8
+DR. UMESH ROHIDAS PRATAP
+ASSISTANT PROFESSOR
+Organic synthesis, Heterocyclic chemistry, Biocatalysis, Synthetic methodologies & Asymmetric synthesis 9
+DR. SANGESH PRABHAKAR ZODAPE
+ASSISTANT PROFESSOR
+Material chemistry,  Thermodynamics & solution Chemistry 10
+DR. (Ms) . SOROKHAIBAM LAXMI GAYATRI
+ASSISTANT PROFESSOR
+(ON CONTRACT)
+Physico-chemical processes of wastewater treatment, Cavitation and Desulphurization of Transportation fuels 11
+DR. ABHISHEK BANERJEE
+ASSISTANT PROFESSOR
+(ON CONTRACT)
+Synthetic Inorganic Chemistry, Bioinorganic Catalysis 12
+DR. SANDIPAN HALDER
+ASSISTANT PROFESSOR
+(ON CONTRACT)
+Catalysis, Domino Reactions,Catalytic Installation of Feed Stock Material in Organic Small Molecules, Chemistry of Organic Photo Voltaics 13
+DR. SHUSANTA KUMAR NAYAK
+ASSISTANT PROFESSOR
+Crystal Engineering, Liquid Crystals, Organic soft material, Structure-property Co relation &  Supramolecular chemistry 14
+Dr. Sorokhaibam Laxmi Gayatri
+ASSISTANT PROFESSOR
+Physico-chemical processes of wastewater treatment, Cavitation and Desulphurization of Transportation fuels 15
+Dr. Abhishek Banerjee
+ASSISTANT PROFESSOR
+Synthetic Inorganic Chemistry, Bioinorganic Catalysis
+Dr. Sandipan Halder
+ASSISTANT PROFESSOR
+Catalysis, Domino Reactions, Catalytic Installation of Feed Stock Material in Organic Small Molecules, Chemistry of Organic Photo Voltaics
+Chemical Engineering
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. KAILAS LACHCHULAL WASEWAR
+PROFESSOR
+Separation Processes, Reaction Engineering and Process Intensification 2
+DR. SACHIN A MANDAVGANE
+PROFESSOR
+Solid Waste Utilization, Nano Catalyst, Adsorption, Green Chemistry, Ancient Sciences, Green building materials, Engineering Education and Social Media and Alternate Construction materials 3
+DR. SHRIRAM SHALIGRAM SONAWANE
+PROFESSOR
+Nanotechnology, Modeling and Simulation, Nanofluids and Nano Biotechnology 4
+DR. MAHESH NANDALAL VARMA
+PROFESSOR
+Reaction Engineering, Biochemical Reaction Engineering, Biofuel and CFD 5
+DR. ASHISH SUBHASH CHAURASIA
+PROFESSOR
+Pyrolysis of Biomass, Biomass Gasification and Modeling and Simulation 6
+DR. DIWAKAR ZAPARU SHENDE
+ASSOCIATE PROFESSOR
+Reactive Separation, Fly Ash Utilization and Separation Processes 7
+Dr. AJIT PRALHAD RATHOD
+ASSOCIATE PROFESSOR
+Heat Transfer, Membrane Separation Processes, Pervaporation Reactor, Adsorption and Biomass 8
+DR. PRADIP BABANRAO DHAMOLE
+ASSOCIATE PROFESSOR
+Biofuels, New phase separation method and Biological wastewater treatment 9
+Dr. RAVI NAMDEO METHEKAR
+ASSOCIATE PROFESSOR
+Modeling, Simulation and Control of Lithium Ion Battery and Fuel Cell 10
+DR. VIJAYAKUMAR  R. P.
+ASSOCIATE PROFESSOR
+Polymer Processing, Polymers Composites, Nanomaterials, Nanocomposites and Sustainability and Environmental Aspects of Polymers 11
+Dr. ASHWIN PANDHARI GAIKWAD
+ASSISTANT PROFESSOR
+Advanced Biofuels, Biochemical Engineering and Process Modeling & Simulation 12
+DR. ASHWIN KANNAN
+ASSISTANT PROFESSOR
+Biochemical Engineering and Nanobiotechnology 13
+Dr. PIYUSH PURUSHOTTAM WANJARI
+ASSISTANT PROFESSOR
+Molecular dynamics simulations, Molecular modeling, Self-assembly of nanostructured materials, Carbon capture, Material and pharmaceutical drug design, Free energy calculations and Cheminformatics 14
+Dr. SONALI PRAVIN TAJANE (HIWARKAR)
+ASSISTANT PROFESSOR
+Biopesticide, Physical Separation, Biorefinary and Solid Waste Management 15
+Dr. SHYAM MAROTRAO KODAPE
+ASSISTANT PROFESSOR
+Membrane Bioreactor, Process Dynamics and Control, Biotechnology, Wastewater Treatment and Process Control 16
+DR. ARIJIT DAS
+ASSISTANT PROFESSOR
+Advanced Separation Technology, Bioprocesses and Process Modeling and Optimization
+Civil Engineering
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. RAJESH GUPTA
+PROFESSOR
+Water Supply & Waste Water Collection System, Environmental System Modeling and Optimization, Fuzzy Analysis 2
+DR. YASHWANT BHASKAR KATPATAL
+PROFESSOR
+Remote Sensing & Geographic Information System, Water Resource Management, Environmental Impact Assessment 3
+DR. ANIRUDDHA D GHARE
+PROFESSOR
+Free Surface Flows, Hydraulic Structures, Stepped Spillways, Labyrinth Weirs, Surface Hydrology 4
+DR. AJAY RAGHUNATH TEMBHURKAR
+PROFESSOR
+Municipal, Industrial and Advanced Water Treatment, Biomedical Waste Management, Solid Waste Management, and Resource Recovery, Industrial Pollution Control, Energy Conversion, and Environment, Software Development on Environmental Engineering systems 5
+DR. DILIP H LATAYE
+PROFESSOR
+Water and Wastewater Treatment, Air Pollution Control, Hazardous Waste Management, Solid Waste Management, Stack     Monitoring.
+6
+DR. RAHUL VASANT RALEGAONKAR
+PROFESSOR
+Energy Efficient Buildings,Disaster Management,Construction Management 7
+DR. VISHRUT SURESH LANDGE
+PROFESSOR
+Road Traffic Safety, Road Safety Audit, Socio-economic Cost of Road Network, Public Transport System, Railway and Airport, Pavement Management System 8
+DR. (Ms) . MADHUWANTI VINAYAK LATKAR
+ASSOCIATE PROFESSOR
+Environmental Biotechnology 9
+DR. ANIRBAN CHANDI DAS MANDAL
+ASSOCIATE PROFESSOR
+Rock Engineering, Tunneling And Underground Excavation, Soil Dynamics 10
+DR. AVINASH DURGADAS VASUDEO
+ASSOCIATE PROFESSOR
+Hydrology, Hydraulics Engineering, Groundwater Monitoring, Stepped Spillways, Labyrinth Weirs 11
+DR. ANJAN RAGHUNATH PATEL
+ASSISTANT PROFESSOR
+Geotechnical and Geoenvironmental Engineering 12
+DR. (Ms) SHILPA RAMNATHJI DONGRE
+ASSISTANT PROFESSOR
+Design of Water Distribution Networks, Water and Wastewater Treatment, Building Planning and Construction 13
+DR.(Ms)  ASHWINI BASWARAJ MIRAJKAR
+ASSISTANT PROFESSOR
+Water Resources Engineering, Irrigation and Planning, Optimization 14
+DR. MUDURWAR MANGESH VASANT
+ASSISTANT PROFESSOR
+New Construction Materials & Technology, Construction Management, Project Management, Project Management Software, Construction Site Administration and Control, and Quantity Surveying.
+15
+DR. (Ms) SHRABONY ADHIKERY
+ASISTANT PROFESSOR
+Soil amplification and site response analysis, Soil-structure interaction, Machine foundation, Performance-based seismic design 16
+DR. SWAPNIL PURUSHOTTAM WANJARI
+ASSISTANT PROFESSOR
+Bond Strength of Concrete and Steel, High Performance and High Strength of Concrete, Concrete with Copper slag, Geopolymer, GGBS, SF, Fly Ash, Cenosphere, Non Destructive Testing with Rebound Hammer, UPV etc and Project Monitoring and Controlling Using Prima Vera Software 17
+SHRI. ABHAY G TAWALARE
+ASSISTANT PROFESSOR
+Contract Management, Project Management, Design of Concrete Structures 18
+DR. UDIT JAIN
+ASSISTANT PROFESSOR
+Pedestrian safety, Traffic engineering, Urban Transport Planning, Transport Infrastructure, Travel Behavior, Public Transport                   Planning, Road Safety 19
+DR. BHADRADRI R. KADALI
+ASSISTANT PROFESSOR
+Traffic flow modeling and simulation, Pedestrian flow modeling, Pedestrian safety 20
+DR. KARTHIK BALASUNDARAM
+ASSISTANT PROFESSOR
+Environmental chemistry, Physio-chemical methods for removal of heavy metals and emerging contaminants from water and wastewater, Resource recovery from waste, Environment risk assessment.
+21
+DR. SRINIVASAN V.
+ASSISTANT PROFESSOR
+Pluviation and characterization of geomaterials, Physical and Numerical modeling of geotechnical systems, Interference analysis of shallow foundations and anchor systems, Pullout capacity of horizontal and vertical anchor plates, Limit analysis, Pseudo-dynamic method, and finite difference approach.
+22
+DR. SITA RAMI REDDY DAKA
+ASSISTANT PROFESSOR
+Pavement Material Characterization, Pavement Analysis & Design, Pavement Evaluation 23
+DR. AMIT HARIHAR PADADE
+ASSISTANT PROFESSOR
+Geotechnical Engineering 24
+Dr. Karthik Balasundaram
+ASSISTANT PROFESSOR
+Environmental Engineering 25
+Dr. Sita Rami Reddy
+ASSISTANT PROFESSOR
+Transportation Engineering 26
+Dr. Vaidehi Dakwale
+ASSISTANT PROFESSOR
+Construction Technology & Management 27
+Dr. Arpita Saha
+ASSISTANT PROFESSOR
+Transportation Engineering 28
+Dr. Swati Bhave
+ASSISTANT PROFESSOR
+Water Resource Engineering 29
+Dr. Suresh Kumar Thappeta
+ASSISTANT PROFESSOR
+Water Resource Engineering 30
+Dr. Abhijit D. Lade
+ASSISTANT PROFESSOR
+Water Resource Engineering
+Computer Science & Engineering
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. SHAILESH RAMCHANDRA SATHE
+PROFESSOR
+Theoretical Computer Science 2
+DR. OMPRAKASH GOPALRAO KAKDE
+PROFESSOR
+Language Processor,Computer Programming Languages, Advanced Compiler Construction 3
+DR. PARAG SHAM DESHPANDE
+PROFESSOR
+Database Management Systems, Data warehousing & Mining, Pattern Recognition 4
+DR. UMESH ASHOK DESHPANDE
+PROFESSOR
+Multi-agent systems, Distributed Systems, Soft Computing 5
+DR. RAVINDRA BHASKAR KESKAR
+ASSOCIATE PROFESSOR
+Telecommunication software, Distributed Systems, Formal Verification, Compiler Optimization 6
+DR. MANISH PRAKASH KURHEKAR
+ASSOCIATE PROFESSOR
+Theoretical Computer Science, BioInformatics 7
+SHRI. ANIL SURYABHAN MOKHADE
+ASSISTANT PROFESSOR
+Software Engineering, Software Architecture 8
+DR. (Ms) . MEERA MUKUL DHABU
+ASSISTANT PROFESSOR
+Data Mining, Soft Computing, Network Security, Smart 9
+DR. PRAVEEN KUMAR
+ASSISTANT PROFESSOR
+Image & Video analytics for Surveillance, Parallel & High Performance Computing 10
+Dr. (Ms) . SHITAL ADARSH RAUT
+ASSISTANT PROFESSOR
+Data Mining and Warehousing, Business Information Systems 11
+Dr. (Ms)POONAM SHARMA
+ASSISTANT PROFESSOR
+Image Processing, Biometrics, Neural Networks 12
+DR. SYED TAQI ALI
+ASSISTANT PROFESSOR
+(ON CONTRACT)
+Cryptography, Provable security and Algorithms 13
+DR. (Ms) . DIPTI DEEPAK SHRIMANKAR
+ASSISTANT PROFESSOR
+Parallel and Distributed Systems, Embedded Systems, Computer Networks 14
+SHRI. ASHISH SRINIVAS TIWARI
+ASSISTANT PROFESSOR
+Mobile Communication, Information Security, Operating Systems 15
+(Ms) . MANSI ANUP RADKE
+ASSISTANT PROFESSOR
+Information Retrieval, Semantic Web 16
+Dr. Syed Taqi Ali
+ASSISTANT PROFESSOR
+Cryptography, Provable security and Algorithms 17
+Dr. Anshul Agarwal
+ASSISTANT PROFESSOR
+Cyber Physical Systems and IoT, Applied ML, Game Theory and Optimization, Smart Buildings and Smart Grids 18
+Dr. Swati Jaiswal
+ASSISTANT PROFESSOR
+Compilers, Program Analysis 19
+Dr. Gaurav Mishra
+ASSISTANT PROFESSOR
+Data Clustering, Graph Clustering, Algorithms 20
+Dr. Prashanth PVN
+ASSISTANT PROFESSOR
+Distributed Ledgers, Blockchain, Computer Networking, Software-Defined Networks 21
+Dr. Nidhi Lal
+ASSISTANT PROFESSOR
+Human-Computer Interaction, Machine Learning, Deep Learning, Blockchain Technology 22
+Dr. Hemkumar D
+ASSISTANT PROFESSOR
+Data Privacy, Differential Privacy 23
+Dr. Swapan Maiti
+ASSISTANT PROFESSOR
+Symmetric-key Cryptography, Cellular Automata, Algorithms
+Electrical & Electronics Engineering
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. HIRALAL MURLIDHAR SURYAWANSHI
+PROFESSOR
+Electronics, Drives, Resonant Converters, FACTS, Multilevel Inverters , Renewable Energy System.
+2
+DR. MOHAN VITHALRAO AWARE
+PROFESSOR
+High Voltage Engineering, Electrical Drives, Power Electronics, Energy Storages, Power Quality 3
+DR. VIJAYKUMAR BHANUKUMAR BORGHATE
+PROFESSOR
+Power Electronics, Multi-level Inverter, Fault Tolerance of Inverters, DC-DC Converter, Renewable Energy, FACTS.
+4
+DR. MOHAN KRISHNARAO KHEDKAR
+PROFESSOR
+Distribution Automation 5
+DR. (Ms) . MADHURI AVINASH CHAUDHARI
+PROFESSOR
+Power Electronics, Drives, FACTS, Power Quality 6
+DR. BHIMRAO SITARAM UMARE
+PROFESSOR 7
+DR. (Ms) ANJALI SURESH JUNGHARE
+PROFESSOR
+Control Systems, Fuzzy Logic and its applications to Power Systems and Fractional Order controller.
+8
+DR. MAKARAND SUDHAKAR BALLAL
+PROFESSOR
+Condition Monitoring of Electrical Machines, Fault  Detection in Electrical Machines, Smart Grid, Power Quality, etc.
+9
+DR. PRAKASH SHYAMKANT KULKARNI
+PROFESSOR
+Power system Optimization, Renewable Energy Systems 10
+DR. MANOJKUMAR RAJU RAMTEKE
+PROFESSOR
+Power Electronics 11
+DR. SUNIL SHARADRAO BHAT
+PROFESSOR
+Power system analysis and dynamics 12
+DR. VIJAY SHANKARRAO KALE
+PROFESSOR
+Power system protection 13
+DR.(Ms)  NITA RAVINDRA PATNE
+PROFESSOR
+Power Quality, Smart Grid, Custom FACTS devices and Power System Operation and Control 14
+Dr. MAKARAND MOHAN LOKHANDE
+ASSOCIATE PROFESSOR
+Power Electronics 15
+DR. PRADYUMNA CHATURVEDI
+ASSOCIATE PROFESSOR
+Multilevel Inverters, Application of power Electronics in Renewable Energy Harvesting, Improved Power Quality Converters, Solid State Transformer, Fault Tolerant Converters 16
+DR. ASHWIN  DHABALE
+ASSISTANT PROFESSOR
+Control Systems 17
+(Ms). RAJASHRI JEETENDRA SATPUTALEY
+ASSOCIATE PROFESSOR
+Power Quality. Multi -level Inverter, Electrical Drives 19
+DR. RITESH KUMAR KESHRI
+ASSOCIATE PROFESSOR
+Power electronics and drives for Electric Vehicle Propulsion and Electric Vehicle Charging 20
+DR. BHOOSHAN RAJPATHAK
+ASSISTANT PROFESSOR
+Bifurcations, Chaos, Piecewise-smooth Dynamical Systems, Nonlinear Control Theory 21
+DR. ARGHYA MITRA
+ASSISTANT PROFESSOR
+Power System Dynamics & Stability, Grid Integration of Renewable Energy 22
+Dr. Krishnama Raju Suraparaju
+ASSISTANT PROFESSOR
+Control System 23
+Dr. Ramsha Karampuri
+ASSISTANT PROFESSOR
+Power Electronics, Electrical Drives, Renewable Energy System 24
+Dr. Jay Prakash Singh
+ASSISTANT PROFESSOR
+Control System, Nonlinear Dynamics 25
+Dr. Avisha Tah
+ASSISTANT PROFESSOR
+Power Electronics Application to Power Systems 26
+Dr. Soumyabrata Das
+ASSISTANT PROFESSOR
+Power Systems 27
+Dr. Jawaharlal Bhukya
+ASSISTANT PROFESSOR
+Power Systems, Renewable Energy Systems 28
+Dr. Mohd Alam
+ASSISTANT PROFESSOR
+Power Electronics, Energy systems 29
+Dr. Narendrababu A
+ASSISTANT PROFESSOR
+Power Electronics
+Electronics & Communication Engineering
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. ABHAY SURESH GANDHI
+PROFESSOR
+Wireless communication,RF circuits and systems, Computer networks 2
+DR. KISHORE MADHUKARRAO BHURCHANDI
+PROFESSOR
+Embedded Systems, Image Processing 3
+DR. ASHWIN GANESH KOTHARI
+PROFESSOR
+Communication, Signal processing, Rough Sets, Cognitive Radio, Reconfigurable Antennas, COMMBEDDED Systems: Hybridization of Communication and Embedded Systems.
+4
+DR.. VISHAL RAMESH SATPUTE
+ASSOCIATE PROFESSOR
+Image Processing, Computer Vision, Signal Processing, Cryptography, Bio-metrics.
+5
+DR. SAUGATA SINHA
+ASSISTANT PROFESSOR
+Image Processing, Pattern Recognition, Medical Imaging. Signal Processing.
+6
+DR. PRABHAT KUMAR SHARMA
+ASSISTANT PROFESSOR
+Cooperative communication, Free Space Optics, Wireless Sensor Networks, Visible Light Communication 7
+DR. DEEP GUPTA
+ASSISTANT PROFESSOR
+Medical Imaging,  Signal & Image Processing, Ultrasound , Medical Image Processing and Analysis, Multimedia application 8
+(Ms). PRADNYA H GHARE (SWAPNA SUHAS PENDSE)
+ASSISTANT PROFESSOR
+Body Area Networks, Wireless Sensors Network, Analog Circuit Design 9
+SHRI. JOYDEEP SUBIR SENGUPTA
+ASSISTANT PROFESSOR
+Communication & Microwave 10
+SHRI. KANNAIYAN  SURENDER
+ASSISTANT PROFESSOR
+Control and Instrumentation 11
+DR. NEERAJ RAO
+ASSISTANT PROFESSOR
+Antennas and Microwave 12
+Dr. Ankit A. Bhurane
+ASSISTANT PROFESSOR
+Signal, Image and Video Processing, Communications, Embedded Systems 13
+Dr. Punitkumar Bhavsar
+ASSISTANT PROFESSOR
+Human-in-the-loop cyber physical systems 14
+Dr. Anamika Singh
+ASSISTANT PROFESSOR
+Silicon Photonics Integrated Circuits, High Frequency Antennas, Optical Biosensors, Optical Communications 15
+Dr. Praveen Pawar
+ASSISTANT PROFESSOR
+Wireless Communications 16
+Dr. Amit Agarwal
+ASSISTANT PROFESSOR
+Wireless Communication, Optical Wireless Communication, Performance analysis of amplitude constrained channel, Energy Efficient transceivers design, Quantum Communication, Next generation of wireless systems.
+17
+Dr. Arvind Kumar
+ASSISTANT PROFESSOR
+Antennas, 5G/6G Wireless Communication Systems, AI/ML, Millimeter wave and THz Technologies 18
+Dr. Vipin Kamble
+ASSISTANT PROFESSOR
+Signal, Image and Video Processing
+Centre for VLSI & Nanotechnology
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. RAJENDRA MUKUNDRAO PATRIKAR
+PROFESSOR
+VLSI Design and Technology, Nano Technology, Device Modeling 2
+DR. RAGHAVENDRA BASWANT DESHMUKH
+PROFESSOR
+Digital Design, CMOS Design, Reconfigurable FPGA Design 3
+DR. SANJAY BHARGAVDAS DHOK
+PROFESSOR
+Signal Processing, Image Processing, Data Compression, Wireless Sensor Networks and VLSI Design 4
+DR. GANESH C. PATIL
+ASSOCIATE PROFESSOR
+Device Physics and Modeling, Novel Nanoscale MOSFETs, Analog/Digital CMOS circuits, VLSI System Design 5
+DR. VASU PULIJALA
+ASSISTANT PROFESSOR
+MEMS, RFIC Design 6
+Dr. Nikhil Deep Gupta
+ASSISTANT PROFESSOR
+Opto-electronics, Photonics, Solar Cells, Electro-magentics, Nanotechnology, Renewable Energy, Nano-lithography processes
+Humanities & Social Sciences
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. YOGESH MADHUKAR DESHPANDE
+PROFESSOR
+Psychology, Organisational Behaviour & Management 3
+DR. GOPICHAND NAMDEO NIMBARTE
+ASSOCIATE PROFESSOR
+Sociology 4
+DR. BIBHUDATTA DASH
+ASSISTANT PROFESSOR
+English Literature, Cultural Studies, Gender Studies, Literature and Film studies, Professional Communication, Comparative and Aesthetics and South Asian Literature 5
+DR. BIBHUTI RANJAN MISHRA
+ASSISTANT PROFESSOR
+Open Economy, Macroeconomics, Trade and Development, Public Finance and Policy 6
+DR. JAIPAL
+ASSISTANT PROFESSOR
+English Language Teaching(ELT), Linguistics, Phonetics, Indian English Literature, Second Language Acquisition, Language Skills (LSRW) Testing and Evaluation 7
+Dr. Maithili N Paikane
+ASSISTANT PROFESSOR
+English Literature, Indian Literature, American Literature, English Language Teaching, Technical Communication, Medical Humanities 8
+Dr. Kalyani Anant Kale
+ASSISTANT PROFESSOR
+Sanskrit Literature and Indian Philosophy 9
+Dr. Manjusha C B
+ASSISTANT PROFESSOR
+English Language and Literature, Gerontology, Blue Humanities, Mental Health and Hygiene
+Mathematics
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. GYANPRAKASH  SINGH
+PROFESSOR
+Relativity & Cosmology, Mathematical Modelling 2
+DR. PODILA PRAMOD CHAKRAVARTHY
+PROFESSOR
+Numerical Analysis, Numerical Treatment of Singular Perturbation Problems and Singularly Perturbed Differential-Difference equations 3
+DR. (Ms). PALLAVI VASUDEO  MAHALE
+PROFESSOR
+Operator Theory, Functional Analysis 4
+DR. MASABATHULA MALLAIAH  DEVAKAR
+PROFESSOR
+Fluid Dynamics 5
+DR. NAGA RAJU  GANDE
+ASSOCIATE PROFESSOR
+Partial Differential Equations, Spectral Element Methods, Parallel Computing 6
+DR. PRADIP KUMAR SURESH CHANDRA ROUL
+ASSISTANT PROFESSOR
+Numerical Analysis, ODE & Fractional Calculus.
+7
+DR. DEEPESH KUMAR PATEL
+ASSISTANT PROFESSOR
+Non-linear Analysis & Fixed Point Theory 8
+DR. JYOTI SINGH
+ASSISTANT PROFESSOR
+Commutative Algebra 9
+DR. VISHNU PRATAP SINGH
+ASSISTANT PROFESSOR
+Optimization under uncertainty, Operation Research 10
+DR. SOURABH PRADHAN
+ASSISTANT PROFESSOR
+Queueing Theory, Stochastic Modeling 11
+Dr. Vijender Nallapu
+ASSISTANT PROFESSOR
+Fractal Approximation 12
+Dr. Purnima Satapathy
+ASSISTANT PROFESSOR
+Lie Groups, Lie Algebra, Partial Differential Equations 13
+Dr. Sourav Bhattacharya
+ASSISTANT PROFESSOR
+Topology, Dynamical Systems and Ergodic Theory 14
+Dr. Mohan Kumar Mallick
+ASSISTANT PROFESSOR
+Nonlinear Elliptic PDEs 15
+Dr. Neelima Bhengra
+ASSISTANT PROFESSOR
+Wave propagation; Theoretical Seismology; Solid Mechanics
+Mechanical Engineering
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. PRAMOD MADHUKARRAO PADOLE
+Director
+PROFESSOR (HAG)
+Kinematics and M/c design, FEM, Bio-Engineering 2
+Dr. H.T. THORAT
+PROFESSOR (HAG)
+Design Engineering, Machines and Mechanism Design 3
+DR. SHASHIKANT BALWANTRAO THOMBRE
+PROFESSOR
+Thermal engineering, Solar Energy, Fuel Cells 4
+DR. ABHAY KUMAR MADHUSUDAN KUTHE
+PROFESSOR
+Layered Manufacturing, Bio-Medical Engineering 5
+DR. VILAS RAMDAS KALAMKAR
+PROFESSOR
+CFD for Thermo-fluid Systems, Biomass Cookstove, Solar Submersible Pumps 6
+DR. ANIMESH NARESHCHANDRA CHATTERJEE
+PROFESSOR
+Nonlinear Dynamics, Damage Identification, Vibration 7
+DR. YOGESH MADAN PURI
+ASSOCIATE PROFESSOR
+Unconventional manufacturing, Computer Aided and Integrated Manufacturing 8
+DR. DHANANJAY BAPURAO ZODPE
+ASSOCIATE PROFESSOR
+Refrigeration and Air Conditioning,Thermal Engineering 9
+DR. JIWAK GAJANANRAO SURYAWANSHI
+ASSOCIATE PROFESSOR
+I.C. Engines 10
+DR. ATUL BHALCHANDRA ANDHARE
+ASSOCIATE PROFESSOR
+Machinery vibration, Condition monitoring, Machine Design 11
+DR. (Ms). RASHMI VIKRAM UDDANWADIKAR
+ASSOCIATE PROFESSOR
+Computer Graphics, Theory of Machines, Biomechanics 12
+DR. (Ms). SHITAL SUDHAKAR CHIDDARWAR
+ASSOCIATE PROFESSOR
+Robot Motion Planning, Artificial Intelligence and Mobile Robotics 13
+DR. SUBHASH VINAYAKRAO BOPSETTY
+ASSOCIATE PROFESSOR
+Thermal Engineering 14
+DR. ASHWINKUMAR S DHOBLE
+ASSISTANT PROFESSOR
+Automobile Engineering, Thermo Fluid systems 15
+DR. HEMANT PRABHAKAR JAWALE
+ASSISTANT PROFESSOR
+Machines and Mechanism Design, Measurement and Sensors 16
+DR. ARUNKUMAR VASHISTHA SINGH
+ASSISTANT PROFESSOR
+Frictional & Fracture Dynamics, Mechanics of Soft/Hard Solids 17
+DR. MANGESH SAHEBRAO KOTAMBKAR
+ASSISTANT PROFESSOR
+Machine Design, Vibration Based Damage Identification, FEA 18
+Dr. TUSHAR GOHIL
+ASSISTANT PROFESSOR
+CFD, Parallel Computing, Turbulence Modeling, Code Development 19
+Dr. T V K GUPTA
+ASSISTANT PROFESSOR
+Advanced Manufacturing Processes, Hard Material Machining 20
+Dr. RAVIKUMAR DUMPALA
+ASSISTANT PROFESSOR
+Manufacturing and Surface Engineering, Wear and Tribology 21
+DR. RAVIKUMAR PEETALA
+ASSISTANT PROFESSOR
+CFD, Compressible Flows and Heat Transfer 22
+SHRI. DHANANJAY A JOLHE
+ASSISTANT PROFESSOR
+Industrial Engineering, Ergonomics, Manufacturing System Simulations, Quality Engineering, Industry 4.0 & Big Data 23
+SHRI. PRASAD VIJAY KANE
+ASSISTANT PROFESSOR
+Condition Monitoring, Quality and Reliability Engineering 24
+SHRI. VINOD MANIKRAO NISTANE
+ASSISTANT PROFESSOR
+Nonlinear Dynamics, Vibrations & Control, Fault Diagnosis 25
+Dr. GAURAV TIWARI
+ASSISTANT PROFESSOR (Contract)
+Impact Mechanics, Finite Element Analysis 26
+DR. SUKANTA ROGA
+ASSISTANT PROFESSOR (Contract)
+Combustion and Energy, Propulsion and Power, Wind Energy, CFD 27
+Dr. KISHOR MAHADEORAO ASHTANKAR
+ASSISTANT PROFESSOR
+Rapid Prototyping, Casting, Industrial Engineering 28
+SHRI. AVINASH AJABRAO THAKRE
+ASSISTANT PROFESSOR
+Tribology, Optimization, Soft Solids 29
+SHRI. PRAVIN D SAWARKAR
+ASSISTANT PROFESSOR (Deputed to IIT, MADRAS UNDER QIP)
+Combustion Engineering, Heat Transfer, Non-conventional Refrigeration 30
+SHRI. NITIN KUMAR FAGO LAUTRE
+ASSISTANT PROFESSOR (Deputed to IIT Roorkee under QIP)
+Advanced Machining, Production and Industrial Engineering 31
+Dr. N Anvesh Reddy
+ASSISTANT PROFESSOR
+Structural Health Monitoring, Wave propagation, Smart Materials, Structural Dynamics 32
+Dr. Ajinkya A Baxy
+ASSISTANT PROFESSOR
+Vibration, Finite Element Analysis, Machine learning for Mechanical systems, Multibody dynamics.
+33
+Dr. Rahul Tarodiya
+ASSISTANT PROFESSOR
+Fluid machines, Hydraulic Turbines and Pumps, Multiphase flows, CFD-DEM simulations, wear, erosion 34
+Dr. Rajendra Prasad Soni
+ASSISTANT PROFESSOR
+Computational fluid dynamics, Microfluidics, Thermal Engineering
+Metallurgical & Material Engineering
+Sr. No.
+r. No. Faculty Members
+Designation
+Specialization 1.
+Dr. J.G. Bhatt
+Head & Associate Professor
+Nano and Biomaterials, Metallurgical Thermodynamics and Kinetics, Non-Equilibrium Materials Processing and Technology, Metallic glasses 2.
+Dr. D.R. Peshwe
+Professor, HAG
+Physical Metallurgy, Composites, Solidification Process, polymers 3.
+Dr. A.P. Patil
+Professor
+Failure Analysis, Alloy Development, Corrosion Engineering, Surface Engineering 4.
+Dr. S.G. Sapate
+Professor
+Wear, Heat Transfer 5.
+Mr. D.V. Moghe
+Associate Professor
+Iron & Steelmaking, Direct Reduction, Clean Steelmaking 6.
+Dr. A.A. Likhite
+Associate Professor
+Austempered Ductile Iron, Solidification Processing, Process Control, Taguchi Methods, Foundry Technology, Failure Investigation & Analysis 7.
+Dr. R.C. Rathod
+Associate Professor
+Corrosion Engineering, Conducting Polymers 8.
+Dr. A.R. Ballal
+Associate Professor
+Ceramic Engineering, Mechanical Metallurgy 9.
+Dr. R.K. Khatirkar
+Associate Professor
+Deformation, Recrystallization, Texture, Physical Metallurgy, Characterization 10.
+Dr. Y.Y. Mahajan
+Assistant Professor
+Physical Metallurgy, Welding 11.
+Dr. R.V. Taiwade
+Assistant Professor
+Corrosion, Welding 12.
+Dr. M.M. Thawre
+Assistant Professor
+Fatigue Behaviour of Composites, Joining of Materials, Mechanical Metallurgy 13.
+Dr. A.K. Srivastava
+Assistant Professor
+Non-equilibrium Processing, Alloying Behaviour and Phase Transformation, Thermally Stable Nano-scale Materials, Nano-magnetism 14.
+Dr. A.B. Rathod
+Assistant Professor
+Wear, Physical Metallurgy, Steel Making and Particulate Technology 15.
+Dr. A.V. Agasti
+Assistant Professor
+Solar Cells, Energy Materials, Electrochemistry, Batteries and Extraction of non-ferrous metals 16.
+Dr. C.A. Joshi
+Assistant Professor
+Mathematical modelling of microstructure evolution 17.
+Dr. S. R. Reddy
+Assistant Professor
+Thermomechanical processing, Physical Metallurgy, Mechanical Behavior of Materials, High Entropy Alloys, Creep and Superplasticity 18.
+Dr. Y. Madhavi
+Assistant Professor
+Surface Engineering, Fatigue, Corrosion, Wear & Tribology 19.
+Dr. Anil Kumar
+Assistant Professor
+Wear & Tribology, Corrosion, Thermal Spraying, Metallic glass coating, Nanomechanical properties, Process-Structure-Property relationship, Polymer composite 20.
+Dr. Abhinav Arya
+Assistant Professor
+Severe Plastic Deformation, Wire Drawing, Crystallographic Texture, Additive Manufacturing, Hydrogen Embrittlement
+Mining Engineering
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. RAJENDRA RAMCHANDRA YERPUDE
+PROFESSOR
+Mine Planning, System engg, Mine Safety Engg., Computer applications, Mine Economics 2
+DR. NIRANJAN RAMCHANDRA THOTE
+PROFESSOR
+Rock Blasting and Rock Mechanics/ Opencast mining / Mine Environment 3
+Dr. ISHWARDAS LAXMANDAS MUTHREJA
+PROFESSOR
+Mine Planning, Mine Environment, Strata control, Slope stability 4
+DR. SHYAM SUMANTRAO GUPTE
+ASSOCIATE PROFESSOR
+Opencast Mining Mine Environment , Mine Machinery 5
+DR. AJAY KUMAR AGARWAL
+ASSISTANT PROFESSOR 6
+DR. RITESH D. LOKHANDE
+ASSISTANT PROFESSOR 7
+SHRI. SANDEEP MANILAL PANCHAL
+ASSISTANT PROFESSOR(Deputed to IIT KHARAGPUR UNDER QIP)
+Rock Mechanics, Underground Coal Mining, Mine Back filling, Mine Surveying 8
+DR. NIKHIL NINAD SIRDESAI
+ASSISTANT PROFESSOR
+Geomechanics, Novel Mining Methods, Engineering Geology, Soft Computing 9
+Dr. Anupam Anant Kher
+ASSISTANT PROFESSOR
+Mine Safety, Mine Ventilation, Mine Systems Engineering 10
+Dr. Sumant Mohanto
+ASSISTANT PROFESSOR
+Rock Mechanics & Ground Control, Underground Metal Mining, Slope Stability, Numerical Simulation, Soft Computing 11
+Dr. Nachiket Bhagade
+ASSISTANT PROFESSOR
+Rock Excavation Engineering, Damage mechanics and near-field dynamics
+Physics
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+DR. RUPESH SUKHDEO GEDAM
+PROFESSOR
+Optoelectronic devices, Photoluminescence, Semiconductor Quantum dots (QDs) containing glasses, Solid Electrolytes and Glasses and glass-ceramics 2
+DR. BABASAHEB RAGHUNATH SANKAPAL
+PROFESSOR
+Light to electricity: solar cell (Dye sensitized, quantum dots etc. Storage of generated electricity: Supercapacitors based on CNT+Metal oxides and CNT+Polymers. Electricity to light: Using development of LED’s.
+3
+DR. GALI  HEMA CHANDRA
+PROFESSOR
+Thin film heterojunctions 4
+DR.(Ms). ANURADHA VILAS DESHPANDE
+PROFESSOR
+Solid Electrolytes, Ferroelectric RAMs, Nanomaterials 5
+DR.(Ms). SUSHMA MILIND GIRIPUNJE
+ASSOCIATE PROFESSOR
+Nanomaterials 6
+DR. (Ms). SUJATA RAJENDRA PATRIKAR
+ASSISTANT PROFESSOR
+Computational Physics, Dye Sensitized Solar Cells 7
+Dr. M. S. RAMKARTHIK
+ASSISTANT PROFESSOR
+Theoretical Physics – Quantum Mechanics, Quantum Information Theory, Quantum Computing and Entanglement, Statistical Mechanics, Mathematical Physics, Computational Physics and Parallel Programming.
+8
+Dr. (Ms) POORVA SINGH
+ASSISTANT PROFESSOR
+Topological Insulators and Superconductors, Low Dimensional Multiferroics, Ferroelectric Topological Insulators (FETI).
+9
+Dr. OROOSA SUBOHI
+ASSISTANT PROFESSOR
+Advanced Functional Materials, Ferroelectrics, Multiferroics, Dielectrics, Ceramics 10
+Dr. Udaysinh T. Bhosale
+ASSISTANT PROFESSOR
+Classical and Quantum Chaos, Quantum Information Theory, Quantum Complex Systems, Random Matrix Theory, Extreme Value Statistics, Large Deviations and Spin Chains.
+11.
+Dr. Sayandip Ghosh
+ASSISTANT PROFESSOR
+Theoretical Condensed Matter Physics, Topological Materials, Collective Excitations, Strongly correlated systems, Magnetic Properties
+Physical Education
+S. No.
+Name of Faculty
+Designation
+Area of Interest 1
+Dr. PRASHANT SUNDARDAS NAGRALE
+LECTURER 2
+Dr. ROBIN FRANK SIMON
+LECTURER
+Badminton and Periodisation & Training methods

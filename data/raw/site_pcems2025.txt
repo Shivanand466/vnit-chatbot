@@ -1,0 +1,139 @@
+SOURCE_URL: https://vnit.ac.in/pcems2025/
+TITLE: Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS 2025)
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+About PCEMS 2025
+PCEMS is a flagship VNIT conference, conceptualized by the Department  of Electronics & Communication Engineering, VNIT, Nagpur. It is focused towards providing a platform for the researchers to present their groundbreaking research work in the areas of communication, embedded systems, machine learning and signal processing. Papers containing high-quality original research works will be considered for presentation at the conference.
+Publication
+It is planned to publish the peer reviewed and selected papers of conference as proceedings with Springer in their prestigious “LNEE” series (https://www.springer.com/series/7818). For detailed instructions for author and editors of conference proceedings, kindly visit the following link: https://www.springer.com/us/authors-editors/conference-proceedings. Select papers from the conference will be published by Springer as a proceedings book volume. Springer will conduct quality checks on the accepted papers and only papers that pass these checks will be published. Springer Nature does not charge any money for publication of Non-Open Access content. Abstracts/extended abstracts and short papers (less than 4 pages) are not considered for publication.
+Venue
+VNIT Nagpur, Maharashtra - 440010, INDIA
+Conference Dates 06-07 November, 2025
+%d
+Days
+%h
+Hours
+%m
+Min.
+%s
+Sec.
+Introduction
+PCEMS 2025, the 4 th
+International Conference on the Paradigm Shifts in Communication, Embedded systems, Machine learning and Signal processing (PCEMS 2025) will be held at Visvesvaraya National Institute
+                            of Technology Nagpur, Maharashtra, INDIA from November 06 - 07,
+                            2025. PCEMS is a premier annual conference focused on research work in the areas of Communication, Embedded systems, Machine learning and Signal processing; it provides
+                            a great platform to students, academia, researchers and industry
+                            persons.
+Papers in the main technical program must describe high-quality
+                            original research. Prospective authors are invited to submit
+                            their original research contribution in the following tracks:
+Conference Tracks
+Communication
+Wireless Communication 5G and Beyond Communications
+Channel Modelling and Performance Analysis, Finite and Infinite Blocklength Transmissions
+Optical Fibre and Photonic Communication
+Localization Techniques in 5G
+Radio issues in wireless sensor networks
+Vehicle to Vehicle communication, Vehicle to Anything (V2X) communication
+Intelligent Reflecting Surfaces for 5G and Beyond
+Materials for 5G and Beyond Communications
+Antennas / RF /Microwave
+Molecular and Biological Communication
+Protocols and Standards
+Spectrum Sharing and Management
+Embedded Systems & IoT
+Intelligent sensor networks for monitoring and diagnosis
+Sensor networks in automotive
+On-body sensor networks
+IoT and Applications
+Security issues in IoT
+Cloud Computing
+Control and Dynamic Systems
+Signal & Image Processing
+Image / Video Processing for Autonomous Vehicles 3D Image / Video Processing
+Image Enhancement / Super Resolution / Restoration
+Action and Event Detection/ Recognition
+Medical Image & Video Analysis
+Remote Sensing, Hyperspectral Image Processing
+Speech Signal Processing
+Computational Imaging
+Image / Video Encryption
+Image / Video Compression
+Satellite Image Processing
+Document Image Analysis
+Image / Video Retrieval
+AI & Machine Learning
+Motion & Tracking
+Video Surveillance
+AI in Healthcare
+Pattern Recognition
+Computer-Aided Diagnosis
+Machine Learning for Localization
+Human Activity Detection and Recognition
+Human Computer Interaction
+Medical Image Reconstruction
+Generative AI for Computer Vision
+Explainable AI
+Applied AI
+Natural Language Processing
+Important Dates
+Paper Submission Starts
+July 05, 2025
+Paper Submission Deadline
+September 05, 2025
+September 10, 2025
+Notification of Paper Acceptance
+September 30, 2025
+October 05, 2025
+Camera Ready Submission Deadline
+November  04, 2025
+Conference Dates
+November 06-07, 2025
+Steps for Submission 1. Publication
+It is planned to publish the peer reviewed and selected papers of conference as proceedings with Springer in their prestigious “LNEE” series (https://www.springer.com/series/7818). For detailed instructions for author and editors of conference proceedings, kindly visit the following link: https://www.springer.com/us/authors-editors/conference-proceedings. Select papers from the conference will be published by Springer as a proceedings book volume. Springer will conduct quality checks on the accepted papers and only papers that pass these checks will be published. Springer Nature does not charge any money for publication of Non-Open Access content. Abstracts/extended abstracts and short papers (less than 4 pages) are not considered for publication.
+The 2022 and 2023 editions of PCEMS have been successfully published in IEEE Xplore
+(Click for Previous Editions' Proceedings)
+. The complete proceedings of PCEMS 2024 can be found here
+.
+2. Preparation of Manuscript
+Prospective authors are invited to submit full-length original research papers.
+                                        In submitting a
+                                        manuscript
+                                        to PCEMS 2025, authors acknowledge that no paper substantially similar in content
+                                        has been or will be
+                                        submitted to another journal, conference or workshop during the review period.
+                                        In such a case, the
+                                        paper
+                                        will be rejected without review.
+Papers must be electronically submitted before the deadline expires without
+                                        exception.
+Use a proper tool to convert the resulting source into a pdf document that has only scalable fonts with all fonts embedded.
+The images embedded in the paper must not contain transparent pixels (i.e., an alpha-channel of a transparent color) since this could lead to problems when displaying or printing the pdf.
+The pdf manuscript must not have Adobe Document Protection or Document Security enabled.
+Authors must use the template specified below for preparing the manuscript.
+Word Template
+If accepted, the final camera ready submission has to be prepared as per the guidelines of the SCOPUS index conference proceeding.
+Acknowledgement:
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+3. Instruction
+                                    for
+                                    Manuscript Submission
+The manuscript has to be uploaded online at the PCEMS 2025 Microsoft Research paper submission portal at the following link.
+https://cmt3.research.microsoft.com/PCEMS2025
+Here is a link to create the account:
+https://cmt3.research.microsoft.com/docs/help/general/account-creation.html
+Here is a link for authors on how to submit a paper:
+https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html
+Acknowledgement
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+Contact Us
+Address:
+VNIT Nagpur, Maharashtra-440010, INDIA
+Email:
+pcems@vnit.ac.in
+Call:
++91-712-2801557
+Industry Sponsors
+Academic Institute Participants
+Industry Participants

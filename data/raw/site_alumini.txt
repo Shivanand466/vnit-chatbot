@@ -1,0 +1,9 @@
+SOURCE_URL: https://vnit.ac.in/alumini/
+TITLE: Alumni
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Welcome to All Alumni
+Welcome to the Official Alumni Network of Visvesvaraya National Institute of Technology Alumni Association (VNITAA) Nagpur – A interactive networking platform for the alumni of VNIT to connect with each other – thus forging and reinforcing relationships formed in their student years at VNIT.
+This website aims to offer a quick overview of the activities of the VNITAA, the role that it plays in forging networking and collaborations with alumni, and above all in aiding and supporting numerous activities at VNIT.
+Signup to create your profile, search and connect to all the Alumni of VNIT.

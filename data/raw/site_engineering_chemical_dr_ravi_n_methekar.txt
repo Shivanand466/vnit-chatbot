@@ -1,0 +1,138 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/dr-ravi-n-methekar/
+TITLE: Dr. Ravi N. Methekar​ – VNIT Nagpur Chemical Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Ravi N. Methekar​
+Brief Bio
+Brief Bio
+Associate Professor at the Chemical Engineering Department, VNIT, Nagpur since 2022. Joined  Chemical Engineering Department, VNIT Nagpur as an assistant Professor in 2015. Published one patent along with more than 25 SCI/SCIE journal papers and many more conference papers/presentations. Dr. Methekar  guided 04 Ph.D Students and 6 Master Students. Current active area of research is the recycling of lithium ion battery, life cycle assessment, Analysis of Kidney stones formation thruogh system engnieering perspective. Prior joinning to VNIT Nagpur, Dr. Methekar Worked as a Research Engineer at JFWTC- GE India from 2010 to 2015. At GE, Dr. Methekar was Bestowed with the awards like Technical Excellance award and Business Impact awards. Dr. Methekar has also worked as Research Associate at the University of Saint Louis, Saint Louis, Missouri, USA. While working as a research associate, he won the Travel grant awards from battery division of the electrochemical Sociaty of USA.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.Tech 1999
+Chemical Engineering
+Amravati University 2
+M.Tech 2002
+Chemical Engineering
+Indian Institute of Technology, Kharagpur 3
+Ph.D.
+2009
+Chemical Engineering
+Indian Institute of Technology Bombay
+Contact Details
+Phone:
+Email:
+Address:
+0712-280-1789 ravimethekar@che.vnit.ac.in
+CHE-110, Department of Chemical Engineering, VNIT Nagpur methekar.vnit@gmail.com
+Maharashtra-440010, India
+Research Interest
+Research Interest
+System Modeling of Microbial Fuel cell
+Process Control
+Recycling of spent lithium ion battery
+Lithuim ion battery modeling and control
+Crystallization and Kidney Stone
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+“Model-based optimal design and fabrication of Lithium-ion coin cells using spent battery”
+DST-SERB-ECR
+Principle Investigator 2016 34 lakh 2
+“Development of prototype lantern powered using spent laptop batteries”
+DST-SEED
+Principle Investigator 2017 12 lakh 3
+“Development of economically viable peeling and dissolution process for the active cathode of the lithium-ion batteries”
+IIChE
+Principle Investigator 2018 5 lakh
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1 i. Economical and Productive Green Process for Delaminating Battery Electrodes,  by the Intellectual Property of India 202321043555 2023
+Published
+Sr. No.
+Title 1
+Process Modeling & Simulation Using MATLAB®, VNIT Nagpur, 15-19 July 2016.
+2
+Prpcess Modeling & Simulation Using MATLAB®, VNIT Nagpur, 04-08 December 2017.
+3
+Process Modeling & Simulation Using MATLAB®, VNIT Nagpur, 18-22 December 2018 4
+MATLAB Programming for Pulse Width Modulating Voltage source Inverters, VNIT Nagpur, 15-19  Nov 2018 5
+Process Modeling & Simulation Using MATLAB®, VNIT Nagpur, 11-15 Dec2018.
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+VNIT
+Departmental Training and Placement Coordinator
+March’15- present 2
+VNIT
+B. Tech. Projects Coordinator
+July’15- present
+Sr. No.
+Awards 1
+Travel Grant, ECS Battery Division, 2009 2
+Travel Grant, ECS Battery Division, 2010 3
+Technical Excellence Award, GE, India, 2013 4
+Business Impact Award, GE, India, 2014
+S.No.
+Paper Citation 1
+T. Maske, R. Methekar, “Design of pilot-scale delamination plant along with techno-economic andlife cycle assessments considering renewable and non-renewable energy sources”, International Journal of Hydrogen Energy 55, 1523-1534, 2024, ISSN 1879-3487 2
+T. Maske, R. Methekar, “Usage of recycled alkali waste for delamination of cathode electrodes:Systematic selection and optimization of hydrometallurgical approach”, JOM 75 (9), 3674-3686, 2023, ISSN:1047-4838 3
+A.P. Pradhane, R. N. Methekar, S.G. Agrawal, “Investigations on melamine-based uric acid kidney stone formation and itsprevention by inhibitors”, Urolithiasis 51 (1), 68, 2023, ISSN:2194-7228 4
+T. Maske, S. Anwani, R. Methekar, “Development of environmentally and economically sustainable delaminationprocess for spent lithium-ion batteries”, Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 45, 2023, ISSN :1556-7036 5
+A.P. Pradhane, R.N. Methekar, S.G. Agrawal, “Batch crystallization of uric acid: modeling, simulation, and the impactof 3, 7–dimethylxanthine”, Crystal Research and Technology 57 (12), 2200125, 2022, ISSN: 0232-1300 6
+Pawar N., Moharkar S., Agrawal S. G., Dhamole P.B. Methekar Ravi “Crystallization of erythromycin extracted using novel phase separation ‘sugaring-out extraction’: A combined modelling and experimental approach”, Chemical Engineering and processing-process intensification, 169, 108616, 2021, ISSN: 0255-2701 7
+Prashant Srinivasan, Sanket Bhat, M. Shivasubramaniam, Ravi Methekar, M. Devrakonda, C. Kumar, “Model based design and optimization for large bore engines: Some Industrial case studies, Journal of engineering for Gas turbines and power, 142, 102801-102808, 2020, ISSN: 0742-4795 8
+Sandeep Anwani, Ravi Methekar, V. Ramadesigan, “Life cycle assessment and economic analysis of acidic leaching and baking routes for the production of cobalt oxalate from spent lithium-ion batteries”, Journal of Material Cycles and Waste Management, 22(6), 2092-2106, 2020, ISSN: 1438-4957 9
+Sandeep Anwani, Ravi Methekar, V. Ramadesigan, “Resynthesizing of lithium cobalt oxide from spent lithium-ion batteries using an environmentally benign and economically viable recycling process”, Hydrometallurgy, 197, 105430, 2020, ISSN: 0304-386 10
+Ashish Yewale, Ravi Methekar, Shailesh Agrawal, “Dynamic Analysis split range control for maximization of operating range of continuous microbial fuel cell, Chinese journal of chemical Engineering, 28(9), 2368-2381, 2020, ISSN: 1004-9541 11
+Ashish Yewale, Ravi Methekar, Shailesh Agrawal, “Multiple model-based control of multivariable continuous microbial fuel cell (CMFC) using machine learning approaches”, Computers and Chemical Engineering, 140, 106884, 2020, ISSN: 0098-1354 12
+Ashish Yewale, Ravi Methekar, Shailesh Agrawal, “Dynamic analysis and multiple model control of continuous microbial fuel cell”, Chemical Engineering Research and Design, 148, 403-416, 2019, ISSN: 0263-8762 13
+Nitin Pawar, Shailesh Agrawal, Ravi Methekar, “Continuous antisolvent crystallization of α-lactose monohydrates: impact of process parameters, kinetic estimation and dynamic analysis”, Organic Process Research and Development, 23(11), 2394-2404, 2019 ISSN: 10836160 14
+Nitin Pawar, Shailesh Agrawal, Ravi Methekar, “Modeling, simulation and influence of operational parameters on crystal size and morphology in semi-batch anti-solvent crystallization of α-lactose monohydrates”, Crystal Growth and Design, 18(8), 4511-4521, 2018. ISSN: 1528-7505 15
+Ravi Methekar, “Computationally inexpensive dual filter approach for estimation and control of SOC for the lithium-ion battery”, Journal of Renewable and Sustainable Energy, 10, 034104, 2018. ISSN: 1941-7012 16
+Ravi Methekar, “SOC estimation with thermal and charging rate consideration using dual filter approach for lithium-ion battery”, Journal of Renewable and Sustainable Energy, 10, 064103, 2018. ISSN: 1941-7012 17
+Shailesh Agrawal, Ravi Methekar, “Mathematical model for heat and mass transfer during convective drying of pumpkin”, Food and Bioproducts processing, 101, 68-73, 2016. ISSN: 0960-3085 18
+Methekar R. N., Ramadesigan V., J.Carl Pirkle Jr., Subramanian V. R., “A perturbation approach for consistent initialization of index -1explicit differential algebraic equations arising from battery model simulations”, Comp. Chem. Eng., 35(11), 2227-2234, 2011. ISSN: 0098-1354 19
+Methekar R. N., P. W. C. Northrop, K. Chen, R. D. Braatz, and V. R. Subramanian, “Kinetic Monte Carlo Simulation of Surface Heterogeneity in Graphite Anodes for Lithium-ion Batteries: Passive Layer Formation”, J. Electrochem. Soc., 158(4), A363-A370, 2011. ISSN: 0013-4651 20
+V. Ramadesigan, R. N. Methekar, F. Latinwo, R. D. Braatz, and V. R. Subramanian, “Optimal Porosity Distribution for Minimized Ohmic Drop across a Porous Electrode,” J. Electrochem. Soc., 157(12), A1328-A1334, 2010. ISSN: 0013-4651 21
+Methekar R. N., Patwardhan S. C., Rengasamy R., Gudi R. D., Prasad V., “Control of proton exchange membrane fuel cell using data driven state space models”, Chem. Eng. Res. Des., 88 (7), 861-874, 2010. ISSN: 0263-8762 22
+Deshpande S., Patwardhan S. C, Methekar R. N., Rengasamy R., Development of a closed form nonlinear predictive control law based on a class of Wiener Models”, Ind. Eng. Chem. Res., 49 (1), 148-165, 2010. ISSN: 1520-5045 23
+Methekar R. N., Patwardhan S. C., Prasad V., Gudi R. D., “Adaptive peak seeking control of a proton exchange membrane fuel cell”, Journal of Process Control, 20(1), 73-82, 2010. ISSN: 0959-1524 24
+Boovaragavan V., Methekar R. N., Ramadesigan V., Subramanian V. R., “A Mathematical model of the lead-acid battery to address the effect of corrosion,” Journal Electrochem. Soc., 156 (11), A854-A862, 2009. ISSN: 0013-4651 25
+Methekar R. N., Prasad V., Gudi R. D., “Dynamic analysis and linear control strategies for proton exchange membrane fuel cell using a distributed parameter model”, Journal of Power Sources, 165, 152-170, 2007. ISSN: 0378-7753
+AIChE, conference, 2005, 2007, 2009, 2010
+Electrochemical Sociaty Meeting, 2009, 2010, 2011
+International IFAC Symposium, 2007
+Reserach Scholar Symposium, 2008
+Chemcon, India 2006, 2018
+SEEC, India, 2017,2018

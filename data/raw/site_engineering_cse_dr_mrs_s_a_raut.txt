@@ -1,0 +1,304 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-mrs-s-a-raut/
+TITLE: Dr. Shital Raut
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Shital Raut
+Brief Bio
+Brief Bio
+Associate Professor
+Visvesvaraya National Institute of Technology
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2014
+Computer Science & Engineering
+VNIT, Nagpur
+Contact Details
+Phone:
+Email:
+Address:
+0712-2801559 saraut@cse.vnit.ac.in
+Department of Computer Science & engineering, VNIT, Nagpur
+Research Interest
+Data Science , Data Analytics, Data Mining
+AI/ML and Deep Learning in Real Time Engineering Applications
+Bioinformatics
+Scheduling & Resource Management in IoT
+Parallel Algorithms & High Performance Computing
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+A Real Time Tithi and Nakshtra Projector Clock
+Aryabhata Astronomy Pake, Kanholibara, Nagpur
+PI 2022-2024 8Lakhs https://drive.google.com/file/d/1cDzqsssOT88Yup1ZQByoztLau6Fq61Sz/view?usp=drive_link https://drive.google.com/file/d/1-ItlqGN-P-XfWzoDCfz3Fifl7uYJ_1Qc/view?usp=drive_link
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Cost Estimation of Project titled
+Collectorate
+Technical Consultant 2025 188800
+Developing Support
+Office,
+Services(Online) all RTS
+Chandrapur services (57 services and 25 others) in 10 Municipal
+Councils of Chandrapur District for one year and support and maintenance for three years
+(Ballarpur, Bhadravati, Warora,
+Bramhapuri, Mul, Rajura,
+Gadchandur, Nagbhid, Chimur,
+Ghugghus).’
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Crops Recommendation System Model Using Weather Attributes, Soil Properties, and Crops Prices. In: Shakya, S., Du, KL., Ntalianis, K. (eds)
+Palle, S.R., Raut, S.A.
+book: Advances in Intelligent Systems and Computing ((AISC,volume 1432)) 978-981-19-5443-6 2023
+Detection of Pathological Myopia from Fundus Images. In: Sharma, H., Shrivastava, V., Bharti, K.K., Wang, L. (eds) Communication and Intelligent Systems.
+Ali, S., Raut, S.
+Lecture Notes in Networks and Systems, vol 686. Springer, Singapore.
+978-981-99-2100-3 2023
+A Review of Machine Learning Techniques for Tuberculosis Meningitis Diagnosis. In: Sharma, H., Shrivastava, V., Bharti, K.K., Wang, L. (eds). https://doi.org/10.1007/978-981-99-2100-3_37
+Ramteke, M., Raut, S., Kadam, T.
+Lecture Notes in Networks and Systems, vol 686. Springer, Singapore.
+978-981-99-2100-3 2023
+An Analysis on Compute Express Link with Rich Protocols and Use Cases for Data Centers. In: Chen, J.IZ., Tavares, J.M.R.S., Shi, F. (eds)  Cham. https://doi.org/10.1007/978-3-031-12413-6_62
+Bai, E.L., Raut, S.A.
+Lecture Notes in Networks and Systems, vol 514. Springer, 978-3-031-12413-6 2022
+Characterization of Top Hub Genes in Breast and Lung Cancer Using Functional Association. In: Das, K., Bansal, J., Deep, K., Nagar, A., Pathipooranam, P., Naidu, R. (eds) https://doi.org/10.1007/978-981-15-0184-5_42
+Makhijani, R.K., Raut, S.A.
+Soft Computing for Problem Solving. Advances in Intelligent Systems and Computing, vol 1057. Springer, Singapore.
+978-981-15-0184-5 2020
+Comparative Analysis and Evaluation of Biclustering Algorithms for Microarray Data. In: Perez, G., Mishra, K., Tiwari, S., Trivedi, M. (eds) Networking Communication and Data Knowledge Engineering. https://doi.org/10.1007/978-981-10-4600-1_15
+Maind, A., Raut, S
+Lecture Notes on Data Engineering and Communications Technologies, vol 4. Springer, Singapore.
+978-981-10-4600-1 2018
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+INFORMATION MINING IN MICROARRAY GENE EXPRESSION ANALYSIS 1783/MUM/2014 28/05/2014
+Grant 2
+A REAL-TIME TITHI INDICTOR CLOCK 202521032465 A 02/04/2025
+Published 3
+A REAL-TIME NAKSHATRA INDICATOR CLOCK 202521032464 A 02/04/2025
+Published
+Sr. No.
+Title 1
+High Performance Computing Organized by Centre for Development of Advanced Computing, Pune & Visvesvaraya National Institute of Technology, Nagpur 2
+NSM Workshop on HIGH PERFORMANCE COMPUTING Organized by Centre for Development of Advanced Computing, Pune & Visvesvaraya National Institute of Technology, Nagpur 3
+SERB sponser High-End -KARYASHALA, Business Applications with Data Analytics. January 1-6, 2024, by Department of Computer Science & Engineering, VNIT,Nagpur
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Quiz Club Incharge 2018-19, 2019-20, 2020-21, 2021-22 2
+O P Jindal Scholarship Institute  Incharge 2021-22, 2022-23, 2023-24 3
+SMP departmental faculty Incharge 2020-21,2021-22, 2022-23 4
+Member for NIRF Commiittee 2023-24 5
+Member for Unnat Bharat Abhiyan 2023-24 6
+Coordinator for NBA-UG & PG 2016-17 7
+Coordinator for NBA PG 2022-23 8
+Coordinator for OPJ Scholarship 2024-25 9
+Co-coordinator of First Year 2024-25 10
+Convener for Committee for arrangements of High Tea, Snacks, Convocation 2024 11
+Liaison Officer OBC for 2024-2025 12
+Special Cell member 2024-2025 13
+Recruitment-2024, committee member for Group-A, the post of Registrar, Librarian, and Assistant Registrar 14
+Committee member for confirmation of Non-Teaching (Group B & C) Employee recruited in Recruitment – 2022 15
+Committee member for Mapping / Segregation of Group A, B and C Cadre post, Faculty position and Reservation Roster for PwD.
+16
+Committee member for Unnat Bharat Abhiyan, UBT, as Participating Institute (PI),2024-2025.
+17
+Core Committee member for IKS Conference, Feb 28 to March 1, 2025, organized by VNIT, Nagpur
+Sr. No.
+Awards 1
+Got award as ‘OUTSTANDING WOMAN IN ENGINEERING’ (Major Area of Study – Computer Science and Engineering) in 4th Venus International Women Awards – VIWA 2019 .
+2
+Won the Best paper award for “Characterization hub genes in PPI network of Breast & Lung cancer using LA”in Internation conference of Soft Computing for Problem Solving SocProc 2018 held at School of Electrical Engineering, Vellore Institute of Technology, Vellore from 17th to 19th Dec. 2018.
+3
+DST Award, Women delegate scientist, Awarding body-DST and British Council to participate Phase 2 Advanced training under Women in Science Leadership Program (WiSLP) in Coventry, UK 4
+Best Conference Paper awards for “A Real time Tithi and Nakshtra Projector Clock”, organized by IKS 2025, VNIT, Nagpur
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+S Ali, SA Raut
+Attentionand dilated convolutions inclusive deep-CNN with multiplexed texture features todiagnose Pathological and High Myopia
+Computers in Biology and Medicine 2025 2
+M Ramteke, S Raut
+EnhancingDisease Diagnosis: Leveraging Machine Learning Algorithms for Healthcare DataAnalysis
+IETE Journal of Research 2024 3
+S Ali, S Raut
+Smartphone App to Detect Pathological Myopia Using Spatial Attention and Squeeze‐Excitation Network as a Classifier and Segmentation Encoder
+International Journal of Imaging Systems and Technology 2024 4
+Ramteke, M., Raut, S., Kadam, T.
+. A Review of Machine Learning Techniques for Tuberculosis Meningitis Diagnosis
+In: Sharma, H., Shrivastava, V., Bharti, K.K., Wang, L. (eds) Communication and Intelligent Systems. ICCIS 2022.
+2023 5
+Palle, S.R., Raut, S.A.
+Crops Recommendation System Model Using Weather Attributes, Soil Properties, and Crops Prices.
+In: Shakya, S., Du, KL., Ntalianis, K. (eds) Sentiment Analysis and Deep Learning. Advances in Intelligent Systems and Computing, vol 1432. Springer, Singapore. https://doi.org/10.1007/978-981-19-5443-6_24 2023 6
+Abishi Chowdhury, Shital Raut, Amrit Pal,
+Internet of Things resource monitoring through proactive fault prediction,
+Computers & Industrial Engineering, 2022/7/1, pages 108265, vol 169, Pergamon 2022 7
+Ankush Maind and Shital Raut
+, Identifying Condition Specific Key Genes from Basal-Like Breast Cancer Gene Expression Data,
+Journal of Computational Biology and Chemistry, Vol.78, pp.367-374, 2019, (ISSN: 1476-9271; SCI Indexed; Impact factor:1.412) 2019 8
+Ankush Maind and Shital Raut,
+COSCEB: Comprehensive Search for ColumnCoherent Evolution Biclusters and its Application to Hub Gene Identification,
+Journal of Biosciences (ISSN: 0973-7138; SCI Indexed; Impact factor:1.528) Volume 44 Issue 2 Pages 48, 2019.
+2019 9
+Ankush Maind and Shital Raut, ,
+Mining Hub Genes from RNA-Seq Gene Expression Data using Biclustering Algorithm
+International Journal of Data Mining and Bioinformatics, (ISSN: 1748-5681; SCIE Indexed; Impact factor:0.652), 2019.
+2019 10
+Ashwini Rahangdale, Shital Raut,,
+“Clustering Based Transductive Semisupervised Learning for Learning-to-Rank”
+International Journal of Pattern Recognition Artificial Intelligence (IJPRAI). https://doi.org/10.1142/S0218001419510078 (ISSN: 0218-0014; SCI Indexed; Impact factor:1.029) 2019 2019 11
+Ashwini Rahangdale, Shital Raut,
+“Deep Neural Network Regularization for Feature Selection in Learning-to-Rank”
+IEEE Access. (ISSN: 2169-3536; SCI Indexed; Impact factor:3.557) 2019.
+2019
+IEEE 12
+Dhake, Nikhil, Shital Raut, and Ashwini Rahangdale.
+“Identification of efficient algorithms for web search through implementation of learning-to-rank algorithms;”
+Sadhana 44, no. 4 (2019): 97. (SCI Indexed; Impact factor: 0.592) 2019 13
+Abishi Chowdhury, Shital A Raut, Husnu S Narman,
+“DA-DRLS: Drift adaptive deep reinforcement learning based scheduling for IoT resource management“,
+Journal of Network and Computer Applications, 2019 2019 14
+Abishi Chowdhury, Shital A Raut, ,
+“Scheduling Correlated IoT Application Requests Within IoT Eco-System: An Incremental Cloud Oriented Approach”
+Journal Wireless Personal Communications, (), 1-36, DOI 10.1007/s11277-019-06469-w 2019 2019 15
+A.Chowdhury, S A Raut,
+Benefits, Challenges, and Opportunities in Adoption of Industrial IoT
+International Journal of Computational Intelligence & IoT 2 (4) Dec 2018 2018 16
+Makhijani, R.K., Raut, S.A. and Purohit, H.J.,
+Identification of common key genes in breast, lung and prostate cancer and exploration of their heterogeneous expression.
+.Oncology Letters15(2), pp.1680-1690. (SCIE Indexed; Impact factor:1.4) 2018 17
+Makhijani, R.K., Raut, S.A. and Purohit, H.J.,
+Fold change based approach for identification of significant network markers in breast, lung and prostate cancer.
+IET Systems Biology.(SCIE Indexed; Impact factor:1.01)(SCIE) 2018 18
+Abishi Chowdhury, Shital A Raut,
+“A Survey study on Internet of Things resource management”,
+Journal of Network and Computer Applications, Academic Press, 2018.
+2018 19
+Ankush Maind and Shital Raut,
+”Computational analysis of biclustering algorithms for identification of co-expressed genes”,
+International Journal of Data Mining and Bioinformatics, vol.19, no.3, pp.243-269, 2017. (ISSN: 1748-5681; SCIE Indexed; Impact factor:0.652) 2017 20
+Shital A Raut, SR Sathe,
+“A Modified Fastmap K-Means Clustering Algorithm for Large Scale Gene Expression Datasets”,
+International Journal of Bioscience, Biochemistry and Bioinformatics (IJBBB), IJBBB 2011 Vol.1(4): 292-296 ISSN: 2010-3638, page number 292.
+2011 21
+Shital A Raut, SR Sathe, Adarsh P Raut,
+“Gene Expression Analysis-A Review for large datasets”,
+Journal of Computer Science & Engineering,, Volume 4, Issue 1, November 2010.
+2010 22
+Shital Dhote,
+“DAI compression using Progressive SPIHT”,
+International Level in IFFoTT’06 , PCEA, Nagpur, on 11-14 July 2006.
+2006 23
+SA Raut, SR Sathe,
+Mining Significant Gene Biclusters from DNA Microarray.
+International Journal of Bioinformatics Research, ISSN: 0975-3087 & E-ISSN: 0975-9115, Volume 5, Issue 1, pp.-289-293.
+2012 24
+Ankush Maind and Shital Raut, ,
+”Mining Conditions Specific Hub Genes from RNA-Seq Gene Expression Data via Biclustering and its Application to Drug Discovery”
+IET Systems Biology, (ISSN:1751-8857; SCIE Indexed; Impact factor:0.873) 2018 25
+Ashwini Rahangdale, Shital Raut,,
+“Review: Machine Learning Methods for Ranking”
+International Journal of Software Engineering and Knowledge Engineering, (IJSEKE).
+2018
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+Dr Shital Raut, Dr. Rajshree Satputley, Dr Ashwin Dhabale
+. A Real Time Tithi and Nakashatra Indicator Clock
+IKS, Feb 28-March 1, 2025, VNIT, Nagpur 2025 2
+Monali Ramteke and Shital Raut
+An Ensemble-Based Approach for PCOS Disease Prediction using Voting Classifier, , 3rd ICACIS 2024, JNU, New Delhi, 16-17, 2024,India 2024 3
+Rushikesh R. Potdar and Dr. Shital A. Raut 2. Enhanced Siamese Network for Donor-Recipient Pair Matching with Emphasized Feature Interactions in Kidney Transplantation, 3rd ICACIS 2024, JNU, New Delhi, 16-17, 2024,India 2024 4
+Sarvat Ali, Shital Raut
+LAResNet50:Lesion aware detection network for dual ocular diseases 3rd ICACIS 2024, JNU, New Delhi, 16-17, 2024,India.
+2024 5
+PA Ujjainkar, SA Raut
+Latest Advancement in Medical Surgery using Artificial Intelligence 2024 International Conference on Artificial Intelligence , 2024 2024 6
+Richa Makhijani, Shital A Raut.
+Characterization of top hub genes in breast and lung cancer using functional association, in International Conference of Soft Computing for Problem Solving (SocProc 2018), at VIT Vellore, to be published in SCOPUS indexed AISC series of Springer.
+2018
+Springer 7
+Ankush Maind and Shital Raut
+Identification of Functionally Coherent Gene Modules and Hub Genes from Triple Negative Breast Cancer Gene Expression Data,
+, International Conference on Mathematical Modelling and Computations in Biosystems (ICMCB-2018), IIT Roorkee.
+2018 8
+Ankush Maind and Shital Raut,
+Identifying Condition Specific Key Genes from Basal-Like Breast Cancer Gene Expression Data,
+International Conference on Bioinformatics (InCoB-2018), JNU New Delhi,(Presented).
+2018 9
+Ankush Maind and Shital Raut
+, Extracting Conditions Specific Key Genes from Basal-Like Breast Cancer Gene Expression Data using Gene Co-expression Network,
+International conference on Bioinformatics and Systems Biology (BSB2018), IIIT Allahabad, (Presented and will be published in IEEE explore).
+2018
+IEEE 10
+Ashwini Rahangdale, Shital Raut,
+“Deep-Neural Network Architecture for Learning-to-Rank” in International Conference on Frontiers in Engineering, Applied Sciences and Technology, FEAST-2018, NIT Trichy.
+2018 11
+Ashwini Rahangdale, Shital Raut,
+“Gene-Expression Based Predictor for Drug Selection and Prioritization Using Learning-to-Rank”
+International Conference on Bioinformatics and System Biology, BSB-2018, IIITA.
+2018 12
+Pritam Sapate, Shital Raut,
+“Survey on Classification Techniques for Intrusion Detection”.
+Fifth International conference on Communications Security & Information Assurance , Habitat World, Delhi, India, 24-25 May 2014, 2014 13
+Manoj Rewatkar, Shital Raut
+“Survey on Infromation Hiding Techniques Using QR Barcode”.
+, Fifth International conference on Communications Security & Information Assurance , Habitat World, Delhi, India, 24-25 May 2014, 2014 14
+Shital Raut, S.R. Sathe, Adarsh Raut,
+“Bioinformatics: Trends in gene expression analysis”.
+IEEE sponsored International Conference on Bioinformatics and Biomedical Technology (ICBBT), 2010 , Chengdu, China 16-18 April 2010  Pages: 97 – 100, Year of Publication: 2009 , ISBN: 978-1-4244-6775-4, INSPEC Accession Number: 11441795 2010
+IEEE 15
+Shital Raut, Adarsh Raut
+“Image Segmentation – A-state-of-art-Survey for Prediction”.
+, IEEE sponsored International Conference on Advanced Computer Control , ICACC 2009 , Singapore January 22-24 2009,  Pages: 420-424 , Year of Publication: 2009 , ISBN:978-0-7695-3516-6.
+2009
+IEEE 16
+Sonali Bodhke, Shital Raut,
+“3D MRI Brain Segmentation .
+International Conference on Advances in Computing ,ICAC-08,Chikhli , Feb. 21-22, 2008 , t 2008 17
+Sonali Bodhke, Shital Raut
+, “A Unique method for 3D MRI Segmentation”
+International Conference on Computer Science and Information Technology 2008(ICCSIT 2008) Singapore August 29 – September 2, 2008,. Pages: 118- 122 , Year of Publication: 2008 , ISBN:978-0-7695-3308-7.
+2008 18
+Nikita Wanjari, Shital Raut
+“Content Based Image Retrieval Using Genetic Algorithm With Relevance Feedback”
+, International Conference on Information Technology, haldia Institute of Technology, 19-21 March 2007 , 2007 19
+C.B. Thaokar, Shital Raut,
+“ Morphing Of Face Images : Approach Based On Genetics & Wavelets”.
+International Conference on Advances in Computer Vision and Information Technology, ACVIT-07, Aurangabad, Nov. 28-30 , 2007 , 2007

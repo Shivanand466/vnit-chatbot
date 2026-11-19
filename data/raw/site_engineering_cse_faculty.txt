@@ -1,0 +1,77 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/faculty/
+TITLE: Faculty | VNIT Nagpur Computer Science Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Faculty at CSE department
+Dr. M. P. Kurhekar
+Professor and Head of the Department
+Theoretical Computer Science,
+ BioInformatics, Systems Biology, Machine Learning, Financial Mathematics, Generative AI
+PROFESSOR
+Dr. P. S. Deshpande
+Database Management Systems, Data warehousing & Mining, Big Data, Pattern Recognition, Machine Learning
+Dr. S. R. Sathe
+Theoretical Computer Science, Parallel Processing
+Dr. O. G. Kakde
+Language Processor, Computer Programming Languages,
+Advanced Compiler Construction
+Dr. U. A. Deshpande
+Multi-agent systems, Real-Time Systems,
+Wireless Sensor Networks,
+Information Retrieval, Distributed Systems, Soft Computing
+Dr. R. B. Keskar
+Applications of AI/ML to various domains like Climate change, Urban Planning, Healthcare, Seismic Analysis, Real-Time Systems,
+Telecom software, Compiler optimizations
+Dr. Meera Dhabu
+Data Mining, Soft Computing, Network Security, Smart Grid, Machine Learning,
+Deep Learning, Reinforcement Learning,
+Optimization for Cyber Physical system – Smart Energy Grid
+Dr. Praveen Kumar
+Computer Vision, Machine & Deep learning, Image & video processing, Learning Analytics/Education technology, High performance computing, Operating systems
+ASSOCIATE PROFESSOR
+Dr. S. A. Raut
+Data Mining and Warehousing, Bioinformatics, Data Science & Analysis, Scheduling & Resource Management in IoT, Parallel Algorithms & High Performance Computing
+Dr. Poonam Sharma
+Image Processing and computer vision, 
+Machine Learning, Biometrics, Neural Networks, Video segmentation and analysis, Multiclass classification
+Dr. A. S. Mokhade
+Software Engineering, Software Architecture, Systems Engineering, Data Analytics, AI Engineering
+Dr. Ashish S. Tiwari
+Mobile Communications, Security, ML/DL, Climate
+Dr. D. D. Shrimankar
+Machine & Deep Learning, Image & Video Processing, IoT & Embedded Systems, Computer & Wireless Networks, High-Performance Computing
+ASSISTANT PROFESSOR
+Dr. Mansi A. Radke
+Information Retrieval, Semantic Web,
+Natural Language processing
+Machine learning and deep learning
+Dr. Syed Taqi Ali
+Cryptography, Provable security and Cryptographic Protocols, Steganography
+Dr. Anshul Agarwal machine learning, game theory, cyber-physical systems and IoT, Game Theory, smart grids
+Dr. Swati Jaiswal
+Compilers, Program Analysis
+Dr. Prashanth PVN
+Systems and Networking, Blockchains, Programmable Data Planes, Federated Machine Learning
+Dr. Gaurav Mishra
+Machine Learning, Graph Clustering, Graph Data Mining, Image Processing, Optimization of Graph CNN
+Dr. Swapan Maiti
+Symmetric-key Cryptography, Cellular Automata, Algorithms
+Dr. Hemkumar D
+Data Privacy, Fedrated Learning, Differential Privacy
+Dr. Nidhi Lal
+Artificial Intelligence in Networking, Information-centric Networks (ICN), Networked System and Cyber Security, Agentic AI and LAM in Networks
+Dr. Aditi Roy
+Hardware Security and Cryptographic Hardware Design,
+FPGA-Based and RISC-V SoC Design,
+Hardware Implementation of AI/ML Models,
+Secure IoT and Embedded Systems,
+Computer Architecture and Operating Systems
+Dr. Loitongbam Sanayai Meetei
+Natural Language Processing,
+Machine Translation,
+Sentiment Analysis,
+Human Language Technology,
+Multimodal AI/ML,
+Low-Resource Language Processing
+Visiting Faculty

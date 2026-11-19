@@ -1,0 +1,25 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/guest-lecture-on-artificial-intelligence-the-mind-of-the-machine/
+TITLE: Guest Lecture on Artificial Intelligence – The Mind of the Machine – VNIT Nagpur Electronics and Communication Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+The Department of Electronics and Communication Engineering (ECE), Visvesvaraya National Institute of Technology (VNIT), Nagpur, is pleased to announce a distinguished guest lecture organized in collaboration with
+Queen Mary University of London
+.
+The lecture will be delivered by
+Dr. Paulo Oliva
+, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+Lecture Details:
+Topic:
+Artificial Intelligence – The Mind of the Machine
+Date:
+21 April 2026 (Tuesday)
+Time:
+10:00 AM – 11:00 AM
+Venue:
+Lecture Hall 1 (LH-1), ECE Department
+About the Lecture:
+This session aims to provide valuable insights into the rapidly evolving field of Artificial Intelligence, exploring the conceptual foundations and emerging advancements that are shaping the future of intelligent systems.
+The lecture also seeks to foster academic exchange and strengthen research collaboration between VNIT Nagpur and Queen Mary University of London.
+Who Should Attend:
+All undergraduate, postgraduate, and research students with an interest in Artificial Intelligence, Machine Learning, and related domains are encouraged to attend.

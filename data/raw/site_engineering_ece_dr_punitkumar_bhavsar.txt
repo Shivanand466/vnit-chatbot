@@ -1,0 +1,155 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/dr-punitkumar-bhavsar/
+TITLE: Dr. Punitkumar Bhavsar – VNIT Nagpur Electronics and Communication Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Punitkumar Bhavsar
+Brief Bio
+Brief Bio
+Dr. Punitkumar Bhavsar is working as an Assistant Professor in Electronics and Communication Engineering Department at VNIT Nagpur. He pursed bachelors in Electronics Engineering from BVM College of Engineering, masters’ study in System Modeling and Control from IIT Roorkee and PhD from IIT Gandhinagar. His research area involves cyber physical systems and signal processing.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+BE 2009
+Electronics Engineering
+Sardar Patel University 2
+MTech 2012
+Electronics and Communication Engineering
+IIT Roorkee 3
+PhD 2019
+Electrical Engineering
+IIT Gandhinagar
+Contact
+Phone:
+Email:
+Address:
+0712-2801594 punitbhavsar@ece.vnit.ac.in 133, Electronics and Communication Engineering Department, VNIT Nagpur
+Research Interest
+Research Interest
+Cyber Physical Systems
+Signal Processing
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Safe Ship Navigation
+ISRO
+Co-PI 2022 12.8 Lakh 2
+Design and development of tree counting and geo-tagging system using drone for environment monitoring
+DSIR
+PI 2024 6.43 Lakh 3
+Development of multi-reference active noise cancellation and bone conduction headset for clearer communication uner an extremely noisy environment of flight operation
+DRDO
+Co-PI 2024 28.33 Lakh 4
+BB84 Protocol Simulation Toolbox Development for Secured Quantum Communication in 6G Networks
+DoT
+PI 2025 16.18 Lakh
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Book Chapter: Next generation wireless communication using intelligent reflecting surfaces In 6G Communication Network: Architecture, Security and Applications
+Gupta, Anish Kumar, Ajay Kumar Vyas, and Punitkumar Bhavsar
+CRC Press 9781032563985 2024
+Book Chapter: “An AI-Assisted IoT-Based Framework for Time Efficient Health Monitoring of COVID-19 Patients” In Futuristic Research Trends and Applications of Internet of Things
+Punitkumar Bhavsar, Vinal Patel
+CRC Press 9781003244714 2022
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+METHOD AND SYSTEM FOR COUNTING TREES WITH GEOTAGGING FOR ENVIRONMENTAL IMPACT ANALYSIS 202321063042 16/10/2024
+Granted
+Sr. No.
+Title 1
+“Data Analytics for Cognitive Engineering” under Karyashala scheme, 2023 2
+“Smart Resource Management for IoT Networks: Enhancing Connectivity and Efficiency”, under Karyashala scheme, 2024
+Sr. No.
+Responsibility
+Institute
+Role
+Year
+Sr. No.
+Awards 1
+Received PRISM grant from DSIR.
+2
+Received research funding from DoT for 6G technology development.
+3
+Received research project approval from DRDO for noise cancellation technology.
+4
+Received research funding from ISRO under STIC.
+5
+Received conference support from DRISHTI CPC, IIT Indore.
+6
+Received International Travel Support from SERB 7
+Received Outstanding Academic Credential award from IIT Gandhinagar.
+S.No.
+Paper Citation
+Gupta, A. K., & Bhavsar, P. (2025). Outage and SER Performance Analysis of RIS-Enabled AmBc Communication in IoT. IEEE Internet of Things Journal.
+Kale, P., Srivastava, A., Roy, S., Band, S.M., Bhavsar, P., Ronickom, J.F.A. and Kumar, D., 2025. Emotion recognition through integrated dual-channel EEG and peripheral physiological data. International Journal of Advances in Engineering Sciences and Applied Mathematics, pp.1-16.
+Bhavsar, P. et al., 2024  Musical Neurofeedback Advancements, Feedback Modalities, and Applications: A Systematic Review. Applied Psychophysiology and Biofeedback
+Gupta, A.K. and Bhavsar, P., 2024. RIS Assisted AmBc Communication Over Spatially Correlated Channels. IEEE Journal of Radio Frequency Identification.
+Kale P. and Bhavsar P. 2024. Eye States Detection from Wearable EEG Sensing for Driver Safety. 5th International Conference on Innovative Trends in Information Technology. ICITIIT 2024. IIIT Kottayam
+Sharma, C., Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2016. Eye gaze movement studies of control room operators: A novel approach to improve process safety. Computers & Chemical Engineering, 85, pp.43-57.
+63
+Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2017. Quantifying situation awareness of control room operators using eye-gaze behavior. Computers & chemical engineering, 106, pp.191-201.
+58
+Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2016. Pupillometry based real-time monitoring of operator’s cognitive workload to prevent human error during abnormal situations. Industrial & Engineering Chemistry Research, 55(12), pp.3372-3382.
+52
+Das, L., Iqbal, M.U., Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2018. Toward preventing accidents in process industries by inferring the cognitive state of control room operators through eye tracking. ACS Sustainable Chemistry & Engineering, 6(2), pp.2517-2528.
+18
+Bhavsar, P., 2022. Improved ECG denoising using CEEMAN based on complexity measure and nonlocal mean approach. IAENG International Journal of Computer Science, 49(2).
+3
+Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2018. Eye tracking as a tool to enhance operator learning in safety critical domains. In Computer aided chemical engineering (Vol. 44, pp. 2347-2352). Elsevier.
+3
+Kalbande, M. and Bhavsar, P., 2022, July. Performance Comparison of Deep Spiking CNN with Artificial Deep CNN for Image Classification Tasks. In 2022 IEEE Region 10 Symposium (TENSYMP) (pp. 1-6). IEEE.
+2
+Bhavsar, P., 2022. Context-dependent cognitive workload monitoring using pupillometry for control room operators to prevent overload. IISE transactions on occupational ergonomics and human factors, 10(2), pp.91-103.
+Raj, A., Mahajan, S., Bundele, S. and Bhavsar, P., 2022, April. COVID-19 Social Distancing Surveillance System. In Evolution in Computational Intelligence: Proceedings of the 9th International Conference on Frontiers in Intelligent Computing: Theory and Applications (FICTA 2021) (pp. 511-520). Singapore: Springer Nature Singapore.
+Bhavsar, P.K., Srinivasan, B. and Srinivasan, R., 2016. A multivariate data driven approach for modelling the cognitive behaviour of control room operator using eye tracking.
+Bhavsar, P.K., Parmar, S., Srinivasan, B. and Srinivasan, R., 2015. Performance monitoring of control room operators through eye gaze analysis.
+S.No.
+Paper Citation
+D. Maurya, H. Qazi, P. Kale, D. Kumar, P. Bhavsar and R. Kant, “EEG Based Driver Attention-Aware System for Safety,” 2024 IEEE International Conference on Intelligent Signal Processing and Effective Communication Technologies (INSPECT), Gwalior, India, 2024, pp. 1-5, doi: 10.1109/INSPECT63485.2024.10896117.
+A. Srivastava, C. Charan, A. J. Patil, S. K. Maddheshiya, P. Bhavsar and D. Kumar, “Inter-Subject Emotion Detection Using Empirical Mode Decomposition on EEG Data,” 2024 IEEE International Conference on Intelligent Signal Processing and Effective Communication Technologies (INSPECT), Gwalior, India, 2024, pp. 1-6, doi: 10.1109/INSPECT63485.2024.10896236
+S. Roy, S. M. Band, P. Ramesh, P. Bhavsar, A. Jac Fredo and D. Kumar, “Advancing Emotion Detection through Dual-Channel EEG and Peripheral Physiological Signal Integration,” 2024 International Conference on Modeling, Simulation & Intelligent Computing (MoSICom), Dubai, United Arab Emirates, 2024, pp. 105-109, doi: 10.1109/MoSICom63082.2024.10881605.
+Sharma, C., Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2016. Eye gaze movement studies of control room operators: A novel approach to improve process safety. Computers & Chemical Engineering, 85, pp.43-57.
+63
+Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2017. Quantifying situation awareness of control room operators using eye-gaze behavior. Computers & chemical engineering, 106, pp.191-201.
+58
+Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2016. Pupillometry based real-time monitoring of operator’s cognitive workload to prevent human error during abnormal situations. Industrial & Engineering Chemistry Research, 55(12), pp.3372-3382.
+52
+Das, L., Iqbal, M.U., Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2018. Toward preventing accidents in process industries by inferring the cognitive state of control room operators through eye tracking. ACS Sustainable Chemistry & Engineering, 6(2), pp.2517-2528.
+18
+Bhavsar, P., 2022. Improved ECG denoising using CEEMAN based on complexity measure and nonlocal mean approach. IAENG International Journal of Computer Science, 49(2).
+3
+Bhavsar, P., Srinivasan, B. and Srinivasan, R., 2018. Eye tracking as a tool to enhance operator learning in safety critical domains. In Computer aided chemical engineering (Vol. 44, pp. 2347-2352). Elsevier.
+3
+Kalbande, M. and Bhavsar, P., 2022, July. Performance Comparison of Deep Spiking CNN with Artificial Deep CNN for Image Classification Tasks. In 2022 IEEE Region 10 Symposium (TENSYMP) (pp. 1-6). IEEE.
+2
+Bhavsar, P., 2022. Context-dependent cognitive workload monitoring using pupillometry for control room operators to prevent overload. IISE transactions on occupational ergonomics and human factors, 10(2), pp.91-103.
+Raj, A., Mahajan, S., Bundele, S. and Bhavsar, P., 2022, April. COVID-19 Social Distancing Surveillance System. In Evolution in Computational Intelligence: Proceedings of the 9th International Conference on Frontiers in Intelligent Computing: Theory and Applications (FICTA 2021) (pp. 511-520). Singapore: Springer Nature Singapore.
+Bhavsar, P.K., Srinivasan, B. and Srinivasan, R., 2016. A multivariate data driven approach for modelling the cognitive behaviour of control room operator using eye tracking.
+Bhavsar, P.K., Parmar, S., Srinivasan, B. and Srinivasan, R., 2015. Performance monitoring of control room operators through eye gaze analysis.

@@ -1,0 +1,14 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/hum/service/
+TITLE: Service – VNIT NAGPUR HUMANITIES & SOCIAL SCIENCES DEPARTMENT
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Services
+Department undertakes frequent testing work of industrial samples such as
+Coal, Oil, Water, Alum, Sand, Soil, Alloys etc. and any other sample Data collection and analysis as per instrument facilities available at our Department.
+Please contact:
+HOD
+Department of Chemistry,
+VNIT, South Ambazari Road, Nagpur 440010,
+Maharashtra, INDIA.
+Phone: (+91-712-) 2801357 (HOD Chamber), 0712-2801260 (O)

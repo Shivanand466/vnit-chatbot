@@ -1,0 +1,227 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/chemistry/dr-abhishek-banerjee/
+TITLE: Dr. Abhishek Banerjee – Department of Chemistry, VNIT
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Abhishek Banerjee
+Brief
+Bio
+Brief Bio
+Dr. Abhishek Banerjee completed his undergraduate studies in the year 2004 from St. Xavier's College, Kolkata under Kolkata University, where he was placed first in class. Subsequently, he moved to the Indian Institute of Science, Bangalore for his postgraduate studies. He obtained his MS in Chemistry from IISc in the year 2007. Dr. Banerjee pursued his Ph.D. studies from Jacobs University in Bremen, Germany under the supervision of Prof. Ulrich Kortz and Prof. Gerd Volder Röschenthaler, and received his Ph.D. degree with 'Special Distinction' in the year 2012. Subsequently he joined the research group of Prof. Mercouri Kanatzidis, at Northwestern University, Evanston, USA, as a postdoctoral researcher. Dr. Banerjee joined VNIT Nagpur as faculty in the Department of Chemistry in 2016.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Bachelor of Science (Honors), B.Sc. (H) 2004
+Chemistry
+St. Xavier's Collage Kolkata, University of Kolkata, Kolkata, India 2
+Master of Science, M.S.
+2007
+Chemistry
+Indian Institute of Science, Bangalore, India 3
+Doctor of Philosophy, Ph.D.
+2012
+Chemistry
+Jacobs University, Bremen, Germany
+Contact
+Details
+Phone:
+Email:
+Address:
+917122801884 abhishekbanerjee@chm.vnit.ac.in
+Department of Chemistry, Visvesvaraya National Institute of Technology, Nagpur, India
+Research
+Interest
+Research Interest
+Synthetic Inorganic Chemistry
+Bioinorganic Catalysis
+Energy Storage Applications
+Electrocatalysis
+Sponsored Research Projects
+Research Group
+Journal Publications
+Book or Book Chapters
+Research Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Consultancy Projects
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Efficient Carbon Dioxide Reduction with Biomimetically-Functionalized Polyoxometalates
+Science and Engineering Research Board (SERB)
+PI 2017 49.87 2
+Aromatic Bisphosphonate-functionalized Polyoxovanadates: Synthesis, Structural Characterization and Electrochemical Studies
+Council of Scientific and Industrial Research (CSIR)
+PI 2019 6 3
+Establishment of Laboratory Facility for Analytical and Biocatalytic Studies at the Department of Chemistry, VNIT Nagpur
+M/s Oil Field Instrumentation (India) Private Limited
+PI 2025 12.4
+List of ongoing Ph.D. students:
+Shikha Singh
+Sandeep Choudhary
+Lumbini Ringne
+List of completed Ph.D. students
+Sl. No.
+Name
+Thesis Title
+Year of completion 1.
+Dr. Dewendra Thakre
+Ethylidene Pyridine Bisphosphonate based Polyoxometalates: Synthesis, Structure and Properties 2022 2.
+Dr. Yesleen Gupta
+Inorganic and Organic derivatives of Poly-Oxo-Thio-Molybdates: Synthesis, Structure and Catalytic properties 2022 3.
+Dr. Kalyankumar S. Morla
+Electrochemical Energy Storage studies of Diphosphonate-functionalized Polyoxometalates 2026
+S.No.
+Paper Citation 30
+Electrochemical Energy Storage studies of 3d–3d Mixed-Metal Diphosphonate Oxo-vanadates: Structure – Function Correlation and Unveiling of a Copper-Vanadium-Based Champion Electrode for Symmetric Supercapacitor Device; Kalyankumar S. Morla, Tushar Balasaheb Deshmukh, Subuhan Ahamed, Rajulal Sahu, Lakita Khidtta, Kartik Chandra Mondal, Babasaheb R. Sankapal, Abhishek Banerjee*;  Inorganic Chemistry, 2026, doi.org/10.1021/acs.inorgchem.6c00122 28
+Synergistic Redox-Acid Functionality in Mixed-Metal Polyoxometalate – TiO2 Catalysts for Fuel Additive Production; Pooja Pardhi, Kamleshwar L. Patle, Kalyankumar S. Morla, Jayant D. Ekhe, and Abhishek Banerjee*;  Energy & Fuels, 2026, 10.1021/acs.energyfuels.5c06238 27
+Tetragonal Symmetric Shaped {VIV4O8} Cubane-Encasing Vanado-Phosphate Derivative: Prototype Liquid Configured Device Grade Supercapacitor with Enhanced Performance; Shikha Singh, T. Kedara Shivasharma, Subuhan Ahamed, Saurav Ghosh, Kartik Chandra Mondal, Babasaheb R. Sankapal, and Abhishek Banerjee*;  Journal of Materials Chemistry A, 2026, 14, 7162 – 7178, DOI: 10.1039/d5ta07057k 26
+Ligand-Directed Assembly and Transformation of Hybrid Oxo-Vanadates into 3d–3d Oxo-Vanado-Cuprates: Structural Diversification and Superior Electrochemical Performance in Prototype Liquid Configured Device Grade Supercapacitor; Kalyankumar S. Morla, Rajulal Sahu, Subuhan Ahamed, Saurav Ghosh, Kartik Chandra Mondal, Babasaheb R. Sankapal, Abhishek Banerjee*; Dalton Transactions, 2025, 25, 17322-17355, DOI: 10.1039/D5DT01786F 25
+A mixed metallic and mixed valence Mo4V(IV)2V(III)2 complex as an electron transfer photo-catalyst for the hydrogen evolution reaction; Kalyankumar S. Morla, Dewendra Thakre, Adarsh K. Mourya, Piyush Singh, Harsha S. Karnamkkott, Subuhan Ahamed, Subham Sahoo, Ishita Bhattacharya, Siddhartha Banerjee, Debajit Sarma, Kartik Chandra Mondal, Sujit Kumar Ghosh, Atul V. Wankhade and Abhishek Banerjee*; Chemical Communications, 2025, 61, 8919-8922, DOI: 10.1039/d5cc00117j 24
+The Cyclic 48-Tungsto-8-Phosphate [H7P8W48O184] 33-Contant-Tézé Polyanion and Its Derivatives [H6P4W24O94] 18-and [H2P2W12O48] 12-: Structural Aspects And Reactivity; Sib Sankar Mal, Abhishek Banerjee, Ulrich Kortz; Dalton Transactions, 2025, 54, 5208 – 5233 23
+Binder-Free Approach of Mixed-Valent Oxovanadates Anchored on MWCNTs as Supercapacitive Electrodes to Symmetric Supercapacitor Devices: Enriched Performance through the Incorporation of Guest Molecules in Capsular-Shaped Polyanions; Kalyankumar S. Morla, Tushar Balasaheb Deshmukh, Ravari Kandy Aparna, Babasaheb R. Sankapal,* and Abhishek Banerjee*; Energy & Fuels, 2024, 38, 21482-21497, https://doi.org/10.1021/acs.energyfuels.4c03355 22
+Development of a Dual-State Emissive Naphthalimide-Based Organic Probe: Interesting Synergistic Effects from the Solid State to the Solution Phase; Aditi Garg, Umesh R. Pratap, Abhishek Banerjee,* and Sujit Kumar Ghosh*; Crystal Growth & Design 2024, 24, 7632−7643 21
+In-depth understanding of electrochemical energy storage efficiency in a series of new 3d–4d mixed metal polyoxometalates: Experimental and Theoretical investigations; Kalyankumar S Morla, Dewendra Thakre, Tushar Balasaheb Deshmukh, Sunanda Malo, Subuhan Ahamed, Ravari Kandy Aparna, Subham Sahoo, Debajit Sarma, Kartik Chandra Mondal, Babasaheb R Sankapal, Abhishek Banerjee*; Journal of Materials Chemistry A, 2024, 12, 22013-22029 20
+Molybdenum Chalcogenides for Photo-Oxidative Desulfurization of Liquid Fuels Under Ambient Conditions: Process Optimization, Kinetics, and Recyclability Studies; Yesleen Gupta, Zakiullah Zaidi, Laxmi Gayatri Sorokhaibam, Abhishek Banerjee*; Catalysis Letters, 2023, 153, 643-658.
+19
+Exploration of Vanadium(IV)-based Single-Ion Magnet Properties in Diphosphonate Supported Mixed valent Polyoxovanadates; Pragyansh Singh, Sören Schlittenhardt, Dewendra Thakre, Saroj Kumar Kushvaha, Sunil Kumar, Harsha S. Karnamkkott, Mario Ruben, Masooma Ibrahim, Abhishek Banerjee*, Kartik C. Mondal*; Crystal Growth & Design, 2022, 22, 5666-5679.
+18
+Supercapacitor activity studies of a unique triangular oxo-vanadate-bisphosphonate composite with activated carbon; Dewendra Thakre, Anjana Anandan Vannathan, Abhishek Banerjee*, Sib Sankar  Mal*; Ionics, 2022, 28, 4001-4010.
+17
+Assembly of a coordination polymer with sulphate-capped pentamolybdate units and copper: Synthesis, Structure, Magnetic and Catalytic studies; Yesleen Gupta, Zakiullah Zaidi, Sakshi Mehta, Pranay R Chandewar, Nikhil Kumar, Avijit Kumar Paul, Debaprasad Shee, Abhishake Mondal, Laxmi Gayatri Sorokhaibam, Abhishek Banerjee*; Dalton Transactions, 2022, 51, 7255-7267.
+16
+Investigations   into   the   Supercapacitor activity of bisphosphonate-polyoxovanadate compounds; Anjana Anandan Vannathan, Dewendra Thakre, Sk Rajab Ali, Mrinmoy De, Abhishek Banerjee*, Sib Sankar Mal*; Journal of Solid State Chemistry, 2022, 304, 122566.
+15
+Polyoxovanadates with Ethylidene-Pyridine Functionalized Bisphosphonate Ligands: Synthesis, Structure, Spectroscopic Characterization, Magnetic, and Antibacterial Studies; Dewendra Thakre, Sk Rajab Ali, Sakshi Mehta, Noohul Alam, Masooma Ibrahim, Debajit Sarma, Abhishake Mondal, Mrinmoy De, Abhishek Banerjee*; Crystal Growth & Design 2021, 21, 4285−4298.
+14
+Conversion of Single Crystal (NH4)2Mo3S13·H2O to Isomorphic Pseudocrystals of MoS2 NanoparticlesSaiful M Islam, Jeffrey D Cain, Fengyuan Shi, Yihui He, Lintao Peng, Abhishek Banerjee, Kota S Subrahmanyam, Yuan Li, Shulan Ma, Vinayak P Dravid, Matthew Grayson, Mercouri G Kanatzidis, Chem. Mater. 2018, 30, 3847–3853.
+13
+Nitrogenase-mimic iron-containing chalcogels forphotochemical reduction of dinitrogen to ammoniaJian Liu, Matthew S. Kelley, Weiqiang Wu, Abhishek Banerjee, Alexios P. Douvalis, Jinsong Wu, Yongbo Zhang, George C. Schatz, Mercouri G. Kanatzidis, Proc. Natl. Acad. Sci. U.S.A., 2016, 113, 5530-5535.
+12
+Phase Transition, Conformational Exchange, and Nonlinear Optical Third Harmonic Generation of the [P2Se8]2- AnionAlyssa S. Haynes, Abhishek Banerjee, Felix O. Saouma, Calford O. Otieno, Joon I. Jang, Mercouri G. Kanatzidis, Chem. Mater., 2016, 28, 2374–2383.
+11
+Photochemical Nitrogen Conversion to Ammonia in Ambient Conditions with FeMoS- ChalcogelsAbhishek Banerjee, Benjamin D. Yuhas, Eric A. Margulies, Yongbo Zhang, Yurina Shim, Michael R. Wasielewski, Mercouri G. Kanatzidis, J. Am. Chem. Soc., 2015, 137, 2030-2034.
+10
+Synthesis and Biological Activity of Organoantimony(III)-Containing HeteropolytungstatesMaria Barsukova-Stuckart, Luis F. Piedra-Garza, Bimersha Gautam, Gabriela Alfaro- Espinoza, Natalya V. Izarova, Abhishek Banerjee, Bassem S. Bassil, Matthias S. Ullrich, Hans J. Breunig, Cristian Silvestru, Ulrich Kortz, Inorg. Chem., 2012, 51, 12015−12022.
+9
+Diphosphates and Diphosphonates in Polyoxometalate ChemistryAbhishek Banerjee, Bassem S. Bassil, Gerd-Volker Röschenthaler, Ulrich Kortz,Chem. Soc. Rev., 2012, 41, 7590-7604.
+8
+The Antimony(III)-Bridged Heteropolyanion Sandwich Dimers [SbIII3(A-α-XW9O34)2]11- (X = SiIV, GeIV) and C-Shaped Double-Sandwich [SIII6O2(PW6O26)(A-α-PW9O34)2]15-Awatef S. Assran, Natalya V. Izarova, Abhishek Banerjee, U. M. Rabie, M. H. M. Abou- El-Wafa, Ulrich Kortz, Dalton Trans., 2012, 41, 10052-10059.
+7
+Polyoxomolybdo-diphosphonates: Examples Incorporating Ethylidene-PyridinesAbhishek Banerjee, Farah S. Raad, Nina Vankova, Bassem S. Bassil, Thomas Heine, Ulrich Kortz, Inorg. Chem., 2011, 50, 11667-11675.
+6
+Noble Metals in Polyoxometalate Chemistry: Palladium-Containing Derivatives of the Monolacunary Keggin and Wells-Dawson TungstophosphatesNatalya V. Izarova, Abhishek Banerjee, Ulrich Kortz, Inorg. Chem., 2011, 50, 10379– 10386.
+5
+Alpha and Beta Isomers of Tetrahafnium(IV) Containing Decatungstosilicates, [Hf4(OH)6(CH3COO)2(x-SiW10O37)2]12-  (x = α, β)Awatef S. Assran, Sib Sankar Mal, Natalya V. Izarova, Abhishek Banerjee, Andreas Suchopar, Masahiro Sadakane, Ulrich Kortz, Dalton Trans. 2011, 40, 2920-2925.
+4
+Yttrium(III)-containing tungstoantimonate(III) stabilized by capping, tetrahedral WO42- unit, [{Y(a-SbW9O31(OH)2)(CH3COO)(H2O)}3(WO4)]17-Masooma Ibrahim, Sib Sankar Mal, Bassem S. Bassil, Abhishek Banerjee, Ulrich Kortz,Inorg. Chem. 2011, 50, 956-960.
+3
+Noble Metalate Bowl: The Polyoxo-6-Vanado(V)-7-Palladate(II) [Pd7V6O24(OH)2]6- Natalya V. Izarova, Nina Vankova, Abhishek Banerjee, Geoffrey B. Jameson, Thomas Heine, Florian Schinle, Oliver Hampe, Ulrich Kortz, Angew. Chem. Int. Ed. 2010, 49, 7807- 7811.
+2
+Fluorine Tagging of Polyoxometalates: The cyclic [{MoV2O4(H2O)}4{O3P-C(CF3)(O)- PO3}4]12-Abhishek Banerjee, Bassem S. Bassil, Gerd-Volker Röschenthaler, Ulrich Kortz, Eur. J. Inorg. Chem. 2010, 3915-3919.
+1
+The Use of Liquid–Liquid Interface (Biphasic) for the Preparation of Benzenetricarboxylate Complexes of Cobalt and Nickel.Abhishek Banerjee, Partha Mahata, Srinivasan Natarajan, Eur. J. Inorg. Chem. 2008, 3501– 3514.
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Book Chapter “Organic Inorganic hybrid Mixed-valent Bisphosphonate-polyoxovanadates composites with Activated carbon for energy storage application” in Novel Materials for Energy Transalation and Storage, https://doi.org/10.52305/MIDM8001, https://novapublishers.com/shop/novel-materials-for-energy-translation-and-storage/
+J.E. Madhushree, Abhishek Banerjee, Sib Sankar Mal
+NOVAPublishers
+ISBN: 979-8-89113-978-7 2024
+Book Chapter “Bioinspired Catalysis with Biomimetic Clusters” in Bioderived Materials : Harnessing Nature forAdvanced Biochemical Handiwork, DOI:10.2174/97898151368691240101, https://benthambooks.com/book/9789815136869/
+Abhishek Banerjee, Bishwajit Paul, Vijaykumar S.Marakatti
+Bentham Books
+ISBN: 978-981-5136-87-6 (Print) ISBN: 978-981-5136 2024
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Satellite Workshop on Materials Characterization Using Powder X-ray Diffraction, 25-26 November, 2024 2 51st National Seminar on Crystallography, 27-29 November, 2024
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Social Media Coordinator
+VNIT
+In-charge of upading Official X (formerly Twitter) and LinkedIn accounts 2
+Department NIRF Coordinator
+VNIT
+Collecting departmental data for NIRF
+Sr. No.
+Awards 1
+Meera Memorial Gold Medal Award for 2004-2005” by St. Xavier’s College for obtaining Highest Marks in the overall B.Sc. University Examination 2
+‘Special Distinction’ for Doctoral studies by Jacobs University, Bremen, Germany 3
+‘Early Career Research Award’ by Science and Engineering Research Board, India
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Techno-commercial vetting of 7 and 15 MW AC Solar Power Project
+MOIL India
+PI 2025 0.3
+S.No.
+Paper Citation 30
+Electrochemical Energy Storage studies of 3d–3d Mixed-Metal Diphosphonate Oxo-vanadates: Structure – Function Correlation and Unveiling of a Copper-Vanadium-Based Champion Electrode for Symmetric Supercapacitor Device; Kalyankumar S. Morla, Tushar Balasaheb Deshmukh, Subuhan Ahamed, Rajulal Sahu, Lakita Khidtta, Kartik Chandra Mondal, Babasaheb R. Sankapal, Abhishek Banerjee*;  Inorganic Chemistry, 2026, doi.org/10.1021/acs.inorgchem.6c00122 28
+Synergistic Redox-Acid Functionality in Mixed-Metal Polyoxometalate – TiO2 Catalysts for Fuel Additive Production; Pooja Pardhi, Kamleshwar L. Patle, Kalyankumar S. Morla, Jayant D. Ekhe, and Abhishek Banerjee*;  Energy & Fuels, 2026, 10.1021/acs.energyfuels.5c06238 27
+Tetragonal Symmetric Shaped {VIV4O8} Cubane-Encasing Vanado-Phosphate Derivative: Prototype Liquid Configured Device Grade Supercapacitor with Enhanced Performance; Shikha Singh, T. Kedara Shivasharma, Subuhan Ahamed, Saurav Ghosh, Kartik Chandra Mondal, Babasaheb R. Sankapal, and Abhishek Banerjee*;  Journal of Materials Chemistry A, 2026, 14, 7162 – 7178, DOI: 10.1039/d5ta07057k 26
+Ligand-Directed Assembly and Transformation of Hybrid Oxo-Vanadates into 3d–3d Oxo-Vanado-Cuprates: Structural Diversification and Superior Electrochemical Performance in Prototype Liquid Configured Device Grade Supercapacitor; Kalyankumar S. Morla, Rajulal Sahu, Subuhan Ahamed, Saurav Ghosh, Kartik Chandra Mondal, Babasaheb R. Sankapal, Abhishek Banerjee*; Dalton Transactions, 2025, 25, 17322-17355, DOI: 10.1039/D5DT01786F 25
+A mixed metallic and mixed valence Mo4V(IV)2V(III)2 complex as an electron transfer photo-catalyst for the hydrogen evolution reaction; Kalyankumar S. Morla, Dewendra Thakre, Adarsh K. Mourya, Piyush Singh, Harsha S. Karnamkkott, Subuhan Ahamed, Subham Sahoo, Ishita Bhattacharya, Siddhartha Banerjee, Debajit Sarma, Kartik Chandra Mondal, Sujit Kumar Ghosh, Atul V. Wankhade and Abhishek Banerjee*; Chemical Communications, 2025, 61, 8919-8922, DOI: 10.1039/d5cc00117j 24
+The Cyclic 48-Tungsto-8-Phosphate [H7P8W48O184] 33-Contant-Tézé Polyanion and Its Derivatives [H6P4W24O94] 18-and [H2P2W12O48] 12-: Structural Aspects And Reactivity; Sib Sankar Mal, Abhishek Banerjee, Ulrich Kortz; Dalton Transactions, 2025, 54, 5208 – 5233 23
+Binder-Free Approach of Mixed-Valent Oxovanadates Anchored on MWCNTs as Supercapacitive Electrodes to Symmetric Supercapacitor Devices: Enriched Performance through the Incorporation of Guest Molecules in Capsular-Shaped Polyanions; Kalyankumar S. Morla, Tushar Balasaheb Deshmukh, Ravari Kandy Aparna, Babasaheb R. Sankapal,* and Abhishek Banerjee*; Energy & Fuels, 2024, 38, 21482-21497, https://doi.org/10.1021/acs.energyfuels.4c03355 22
+Development of a Dual-State Emissive Naphthalimide-Based Organic Probe: Interesting Synergistic Effects from the Solid State to the Solution Phase; Aditi Garg, Umesh R. Pratap, Abhishek Banerjee,* and Sujit Kumar Ghosh*; Crystal Growth & Design 2024, 24, 7632−7643 21
+In-depth understanding of electrochemical energy storage efficiency in a series of new 3d–4d mixed metal polyoxometalates: Experimental and Theoretical investigations; Kalyankumar S Morla, Dewendra Thakre, Tushar Balasaheb Deshmukh, Sunanda Malo, Subuhan Ahamed, Ravari Kandy Aparna, Subham Sahoo, Debajit Sarma, Kartik Chandra Mondal, Babasaheb R Sankapal, Abhishek Banerjee*; Journal of Materials Chemistry A, 2024, 12, 22013-22029 20
+Molybdenum Chalcogenides for Photo-Oxidative Desulfurization of Liquid Fuels Under Ambient Conditions: Process Optimization, Kinetics, and Recyclability Studies; Yesleen Gupta, Zakiullah Zaidi, Laxmi Gayatri Sorokhaibam, Abhishek Banerjee*; Catalysis Letters, 2023, 153, 643-658.
+19
+Exploration of Vanadium(IV)-based Single-Ion Magnet Properties in Diphosphonate Supported Mixed valent Polyoxovanadates; Pragyansh Singh, Sören Schlittenhardt, Dewendra Thakre, Saroj Kumar Kushvaha, Sunil Kumar, Harsha S. Karnamkkott, Mario Ruben, Masooma Ibrahim, Abhishek Banerjee*, Kartik C. Mondal*; Crystal Growth & Design, 2022, 22, 5666-5679.
+18
+Supercapacitor activity studies of a unique triangular oxo-vanadate-bisphosphonate composite with activated carbon; Dewendra Thakre, Anjana Anandan Vannathan, Abhishek Banerjee*, Sib Sankar  Mal*; Ionics, 2022, 28, 4001-4010.
+17
+Assembly of a coordination polymer with sulphate-capped pentamolybdate units and copper: Synthesis, Structure, Magnetic and Catalytic studies; Yesleen Gupta, Zakiullah Zaidi, Sakshi Mehta, Pranay R Chandewar, Nikhil Kumar, Avijit Kumar Paul, Debaprasad Shee, Abhishake Mondal, Laxmi Gayatri Sorokhaibam, Abhishek Banerjee*; Dalton Transactions, 2022, 51, 7255-7267.
+16
+Investigations   into   the   Supercapacitor activity of bisphosphonate-polyoxovanadate compounds; Anjana Anandan Vannathan, Dewendra Thakre, Sk Rajab Ali, Mrinmoy De, Abhishek Banerjee*, Sib Sankar Mal*; Journal of Solid State Chemistry, 2022, 304, 122566.
+15
+Polyoxovanadates with Ethylidene-Pyridine Functionalized Bisphosphonate Ligands: Synthesis, Structure, Spectroscopic Characterization, Magnetic, and Antibacterial Studies; Dewendra Thakre, Sk Rajab Ali, Sakshi Mehta, Noohul Alam, Masooma Ibrahim, Debajit Sarma, Abhishake Mondal, Mrinmoy De, Abhishek Banerjee*; Crystal Growth & Design 2021, 21, 4285−4298.
+14
+Conversion of Single Crystal (NH4)2Mo3S13·H2O to Isomorphic Pseudocrystals of MoS2 NanoparticlesSaiful M Islam, Jeffrey D Cain, Fengyuan Shi, Yihui He, Lintao Peng, Abhishek Banerjee, Kota S Subrahmanyam, Yuan Li, Shulan Ma, Vinayak P Dravid, Matthew Grayson, Mercouri G Kanatzidis, Chem. Mater. 2018, 30, 3847–3853.
+13
+Nitrogenase-mimic iron-containing chalcogels forphotochemical reduction of dinitrogen to ammoniaJian Liu, Matthew S. Kelley, Weiqiang Wu, Abhishek Banerjee, Alexios P. Douvalis, Jinsong Wu, Yongbo Zhang, George C. Schatz, Mercouri G. Kanatzidis, Proc. Natl. Acad. Sci. U.S.A., 2016, 113, 5530-5535.
+12
+Phase Transition, Conformational Exchange, and Nonlinear Optical Third Harmonic Generation of the [P2Se8]2- AnionAlyssa S. Haynes, Abhishek Banerjee, Felix O. Saouma, Calford O. Otieno, Joon I. Jang, Mercouri G. Kanatzidis, Chem. Mater., 2016, 28, 2374–2383.
+11
+Photochemical Nitrogen Conversion to Ammonia in Ambient Conditions with FeMoS- ChalcogelsAbhishek Banerjee, Benjamin D. Yuhas, Eric A. Margulies, Yongbo Zhang, Yurina Shim, Michael R. Wasielewski, Mercouri G. Kanatzidis, J. Am. Chem. Soc., 2015, 137, 2030-2034.
+10
+Synthesis and Biological Activity of Organoantimony(III)-Containing HeteropolytungstatesMaria Barsukova-Stuckart, Luis F. Piedra-Garza, Bimersha Gautam, Gabriela Alfaro- Espinoza, Natalya V. Izarova, Abhishek Banerjee, Bassem S. Bassil, Matthias S. Ullrich, Hans J. Breunig, Cristian Silvestru, Ulrich Kortz, Inorg. Chem., 2012, 51, 12015−12022.
+9
+Diphosphates and Diphosphonates in Polyoxometalate ChemistryAbhishek Banerjee, Bassem S. Bassil, Gerd-Volker Röschenthaler, Ulrich Kortz,Chem. Soc. Rev., 2012, 41, 7590-7604.
+8
+The Antimony(III)-Bridged Heteropolyanion Sandwich Dimers [SbIII3(A-α-XW9O34)2]11- (X = SiIV, GeIV) and C-Shaped Double-Sandwich [SIII6O2(PW6O26)(A-α-PW9O34)2]15-Awatef S. Assran, Natalya V. Izarova, Abhishek Banerjee, U. M. Rabie, M. H. M. Abou- El-Wafa, Ulrich Kortz, Dalton Trans., 2012, 41, 10052-10059.
+7
+Polyoxomolybdo-diphosphonates: Examples Incorporating Ethylidene-PyridinesAbhishek Banerjee, Farah S. Raad, Nina Vankova, Bassem S. Bassil, Thomas Heine, Ulrich Kortz, Inorg. Chem., 2011, 50, 11667-11675.
+6
+Noble Metals in Polyoxometalate Chemistry: Palladium-Containing Derivatives of the Monolacunary Keggin and Wells-Dawson TungstophosphatesNatalya V. Izarova, Abhishek Banerjee, Ulrich Kortz, Inorg. Chem., 2011, 50, 10379– 10386.
+5
+Alpha and Beta Isomers of Tetrahafnium(IV) Containing Decatungstosilicates, [Hf4(OH)6(CH3COO)2(x-SiW10O37)2]12-  (x = α, β)Awatef S. Assran, Sib Sankar Mal, Natalya V. Izarova, Abhishek Banerjee, Andreas Suchopar, Masahiro Sadakane, Ulrich Kortz, Dalton Trans. 2011, 40, 2920-2925.
+4
+Yttrium(III)-containing tungstoantimonate(III) stabilized by capping, tetrahedral WO42- unit, [{Y(a-SbW9O31(OH)2)(CH3COO)(H2O)}3(WO4)]17-Masooma Ibrahim, Sib Sankar Mal, Bassem S. Bassil, Abhishek Banerjee, Ulrich Kortz,Inorg. Chem. 2011, 50, 956-960.
+3
+Noble Metalate Bowl: The Polyoxo-6-Vanado(V)-7-Palladate(II) [Pd7V6O24(OH)2]6- Natalya V. Izarova, Nina Vankova, Abhishek Banerjee, Geoffrey B. Jameson, Thomas Heine, Florian Schinle, Oliver Hampe, Ulrich Kortz, Angew. Chem. Int. Ed. 2010, 49, 7807- 7811.
+2
+Fluorine Tagging of Polyoxometalates: The cyclic [{MoV2O4(H2O)}4{O3P-C(CF3)(O)- PO3}4]12-Abhishek Banerjee, Bassem S. Bassil, Gerd-Volker Röschenthaler, Ulrich Kortz, Eur. J. Inorg. Chem. 2010, 3915-3919.
+1
+The Use of Liquid–Liquid Interface (Biphasic) for the Preparation of Benzenetricarboxylate Complexes of Cobalt and Nickel.Abhishek Banerjee, Partha Mahata, Srinivasan Natarajan, Eur. J. Inorg. Chem. 2008, 3501– 3514.

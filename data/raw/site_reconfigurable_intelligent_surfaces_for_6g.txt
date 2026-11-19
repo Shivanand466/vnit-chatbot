@@ -1,0 +1,58 @@
+SOURCE_URL: https://vnit.ac.in/reconfigurable-intelligent-surfaces-for-6g/
+TITLE: Reconfigurable Intelligent Surfaces for 6G
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+One week Workshop at
+March 24-29, 2025
+(in hybrid mode with preference to in-person attendance)
+Chief Patron
+Prof. Prem Lal Patel,
+The Director (VNIT, Nagpur)
+Patron
+Prof. A. G. Kothari
+Head (ECE)
+Advisors
+Prof. A. S. Gandhi
+Prof. K. M. Bhurchandi
+Prof. V. R. Satpute
+Supported by Ministry of Electronics and Information Technology, Government of India
+About Workshop
+Reconfigurable Intelligent Surfaces (RIS) are set to revolutionize 6G wireless communication by intelligently shaping the propagation environment for unprecedented spectral and energy efficiency. This workshop will explore cutting-edge RIS innovations, including graphene-based surfaces for THz communication, cell-free massive MIMO, integrated sensing and communications (ISAC), next- generation multiple access techniques such as rate-splitting multiple access (RSMA) for enhanced connectivity, and full-duplex RIS-aided networks for seamless data transmission. With a focus on practical implementations, energy-efficient designs, and real-world applications in smart cities, defense, and ultra-reliable low-latency communication (URLLC), this event brings together experts to define the roadmap for RIS in next-generation networks. Join us to be at the forefront of 6G evolution!
+About Department
+The Department of Electronics and Communication Engineering offers B.Tech. in Electronics and Communication Engineering, MTech. in Communication System Engineering, and Ph.D. in all relevant areas. The department has well-qualified and well-motivated faculty members and support staff. There are more than 30 full-time Ph.D. students enrolled in the different areas of signal and image processing, medical image analysis, embedded system design, communication systems, etc. Department is hosting 5G Use case lab and a center for EMI-EMC testing. The department is actively involved in R&D as well as consultancy projects and has collaborations with several industries, academic institutions, and R&D organizations in the country and outside.
+Speakers:
+Researchers from renowned institutions and industries.
+Registration Process:
+Click to fill the form
+Payment of registration steps:
+Open your browser and go to the official website of
+VNIT
+.
+On the homepage, look for options like
+‘
+Online
+Payment
+‘
+Select payment category:
+CONFERENCE/SEMINAR/WORKSHOP,
+Name of Event:
+RIS for 6G
+Student
+Online Mode 1000/-
+In Person 1500/-
+Faculty /Staff
+Online Mode 3000/-
+In Person 4000/-
+Others
+Online Mode 4000/-
+In Person 5000/-
+Note:
+Limited number of accommodation is available on request and on first-cum-first serve basis.
+For more details:
+Contact:
+Dr. Prabhat Sharma
+Email:
+5Glab@vnit.ac.in, prabhatsharma@ece.vnit.ac.in
+Phone:
+0712-2801851

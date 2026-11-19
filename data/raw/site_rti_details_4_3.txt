@@ -1,0 +1,33 @@
+SOURCE_URL: https://vnit.ac.in/rti-details-4-3/
+TITLE: RTI Details/4/3
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Last Updated  Date: [last-modified]
+E-Governance 4.3  Information available in electronic form [Section 4(1)(b)(xiv)] 4.3.1
+Details of information available in electronic form
+NIT Act
+NIT Status
+Annual reports
+Academic rule book
+VNIT telephone directory
+RTI-reports 4.3.2
+Name/ title of the document/record/ other information
+Administrative forms
+,
+Tender information
+,
+Staff notices
+,
+Student notices
+,
+Academic forms
+.
+4.3.3
+Location where available
+NIT Act
+NIT Status
+Annual reports
+Academic rule book
+VNIT telephone directory
+RTI-reports

@@ -1,0 +1,66 @@
+SOURCE_URL: https://vnit.ac.in/5g-summer-school-2025/
+TITLE: 5G SUMMER SCHOOL 2025
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Excited to announce!
+First 5G Summer School
+June 2–30, 2025
+Chief Patron
+Prof. Prem Lal Patel,
+The Director (VNIT, Nagpur)
+Patron
+Prof. A. G. Kothari
+Head (ECE)
+About the Program
+VNIT Nagpur is proud to announce its First 5G Summer School
+, designed exclusively for
+Undergraduate Students
+. Through hands-on sessions
+, expert lectures
+, and real-world experiments
+, Participants will explore the key pillars of 5G and future wireless systems. Utilizing VNIT’s state-of-the-art 5G Lab infrastructure
+,
+GNU Radio and
+USRP platforms
+, students will get an unparalleled opportunity to learn
+, experiment
+, and innovate
+.
+Key Topics Covered
+Introduction to 5G Architecture and Standards 5G Core and RAN Concepts
+Software-Defined Radio (SDR) Fundamentals
+Network Slicing and Edge Computing
+Hands-on with GNU Radio and USRPs
+Emerging Trends: 6G and Beyond
+Highlights
+Live Demos on VNIT’s 5G Testbed
+Project-based Learning
+Certificate from VNIT Nagpur
+Best Project Awards
+Registration Process
+Step 1:
+Payment of registration charges (Registration Fees: Rs. 2000/- ), refer to the details given below:
+Open your browser and go to the official website of
+VNIT
+.
+On the homepage, look for options like ‘
+Online Payment
+‘ or visit the link:
+https://pay.vnit.ac.in/home
+Select payment category:
+CONFERENCE/SEMINAR/WORKSHOP
+, Name of Event:
+VNIT 5G Summer School
+Step 2:
+Take the printout of the registration form
+, fill it, and forward it through your HoD/Dean.
+Step 3:
+Fill the google form
+(You need to upload proof of payment and filled application form)
+Don’t miss this chance to innovate with 5G!
+Note:
+The registration includes the registration kits only. The food and accommodation are to be arranged by the students themselves.
+Contact: Dr. Prabhat Sharma
+Email: 5Glab@vnit.ac.in prabhatsharma@ece.vnit.ac.in
+Phone: 0712-2801851

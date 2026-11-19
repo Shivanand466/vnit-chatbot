@@ -1,0 +1,356 @@
+SOURCE_URL: https://vnit.ac.in/scopus-publications-civil-engineering/
+TITLE: Scopus Publications – Civil Engineering
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No.
+Authors
+Department
+Title
+Source Title
+Document Type 1
+Mohril R.S.; Vasudeo A.D.; Ghare A.D.
+Civil Engineering
+Impact of Urbanization on Runoff and Its Potential Solution Through the Viability Study of RWH Systems for Households
+Journal of The Institution of Engineers (India): Series A
+Article 2
+Hinge P.; Shende T.; Ralegaonkar R.; Nandurkar B.; Raut S.; Kamath M.; Tantri A.; Naganna S.R.
+Civil Engineering
+An assessment of workability, mechanical and durability properties of high-strength concrete incorporating nano-silica and recycled E-waste materials
+Beni-Suef University Journal of Basic and Applied Sciences
+Article 3
+Nandurkar B.; Ralegaonkar R.; Agrawal D.; Bahoria B.; Hinge P.
+Civil Engineering
+Experimental Study on Use of Granulated Blast Furnace Slag as Fine Aggregate in Mortar Mix
+AIP Conference Proceedings
+Conference paper 4
+Shende R.; V S.; Ahmed M.S.; Mandal A.
+Civil Engineering
+Probabilistic retro-analysis of failed OB dump on the weak ground with water table variation and varied preventive measures
+Physics and Chemistry of the Earth
+Article 5
+Gouda J.; Srinivasan V.; Reddy D.S.; Shende R.
+Civil Engineering
+Evaluating Overburden Materials for Haul Road Construction with and Without Cellular Confinement: A Comprehensive Study in Indian Context
+Mining, Metallurgy and Exploration
+Article 6
+Sharma A.; Adhikary S.
+Civil Engineering
+Seismic Ground Response Analysis using Continuum Approach
+Latin American Journal of Solids and Structures
+Article 7
+Karumanchi S.R.; Mandal A.; Lenart S.
+Civil Engineering
+Numerical Evaluation of Suction Effects and Groundwater Table Variations on Long-Term Pavement Subgrade Performance
+Sustainability (Switzerland)
+Article 8
+Jangir H.K.; Mandal A.; Venkatraman S.
+Civil Engineering
+Fabrication of a small-scale laminar shear box and low-cost data acquisition system to determine dynamic properties of soil
+Earthquake and Structures
+Article 9
+Raj A.; Tembhurkar A.R.
+Civil Engineering
+Evolution of photocatalysis process for degradation of residual xanthate in wastewater from mineral processing industry – A review
+Journal of Water Process Engineering
+Review 10
+Jibhakate T.M.; Katpatal Y.B.
+Civil Engineering
+Prediction of rainfall and groundwater using machine learning Algorithms for Nagpur division
+Mausam
+Article 11
+Salunke A.D.; Londhe D.S.; Katpatal Y.B.
+Civil Engineering
+Spatio-temporal variation of aerosol loading and planetary boundary layer height before, during and after COVID-19 lockdown over the major cities in India
+Spatial Information Research
+Article 12
+Raj A.; Tembhurkar A.R.
+Civil Engineering
+Optimization of degradation of potassium ethyl xanthate using Fe2O3/TiO2/Flyash nanophotocatalyst using Taguchi statistical approach
+Minerals Engineering
+Article 13
+Mukkanti V.B.; Tembhurkar A.R.
+Civil Engineering
+Feasibility studies on fluoride removal by thermally treated adsorbent developed from the waste snail shells
+Environment, Development and Sustainability
+Article 14
+Jain S.; Tembhurkar A.R.
+Civil Engineering
+Optimizing nutrients from fly ash–amended soil through microbial-assisted phytoremediation using response surface methodology
+Environmental Monitoring and Assessment
+Article 15
+M.S M.; Katpatal Y.B.; Londhe D.S.
+Civil Engineering
+Measurement of city road network resilience in hazardous flood events
+International Journal of Disaster Resilience in the Built Environment
+Article 16
+Londhe D.S.; Katpatal Y.B.; Mukesh M.S.; Bokde N.D.
+Civil Engineering
+Vegetation dynamics and its driving factors in agro-climatic zones of Upper Bhima Sub-basin, Western India
+International Journal of Environmental Science and Technology
+Article 17
+Kumar B.P.; Venkatraman S.; Majumder M.
+Civil Engineering
+Performance Analysis of Introjected Backfill Retaining Wall
+Lecture Notes in Civil Engineering
+Conference paper 18
+Gouda J.; Reddy D.S.R.; Srinivasan V.; Butle V.
+Civil Engineering
+COMPREHENSIVE REVIEW OF HAUL ROAD DESIGN METHODS: A COMPARATIVE APPROACH
+Archives of Mining Sciences
+Review 19
+Shambharkar R.; Venkatraman S.; Gunasekaran S.; Pathak P.
+Civil Engineering
+Oblique pullout of strip anchor embedded in layered sandbed; [Koso izvlačenje trakastog sidra ugrađenog u uslojenu pješčanu podlogu]
+Gradjevinar
+Article 20
+Patil Y.R.; Dakwale V.A.; Ralegaonkar R.V.
+Civil Engineering
+Recycling Construction and Demolition Waste in the Sector of Construction
+Advances in Civil Engineering
+Review 21
+Mukkanti V.B.; Tembhurkar A.; Tembhurkar A.R.
+Civil Engineering
+Studies on Taguchi’s optimization for biosorbent developed from waste eggshell material for water defluoridation
+Journal of Dispersion Science and Technology
+Article 22
+Mukkanti V.B.; Tembhurkar A.R.
+Civil Engineering
+Taguchi optimization for water defluoridation by thermally treated biosorbent developed from the waste snail shells
+Journal of Dispersion Science and Technology
+Article 23
+Mukkanti V.B.; Tembhurkar A.R.
+Civil Engineering
+Studies on biosorbent developed from Rohu fish scales waste for defluoridation of water
+International Journal of Environmental Analytical Chemistry
+Article 24
+Shruthi H.B.; Drissia T.K.; Vasudeo A.
+Civil Engineering
+Unsteady Flood Modelling Using HEC-RAS: Chaliyar River Basin, Kerala
+Lecture Notes in Civil Engineering
+Conference paper 25
+Kherde Y.; Waghe U.; Thakre R.; Jain U.
+Civil Engineering
+Critical Analysis for Risk Factors of Alternative High Speed Rail Alignments – A Literature Review
+AIP Conference Proceedings
+Conference paper 26
+Saha A.; Deshmukh P.
+Civil Engineering
+A Study on Surrogate Safety Measures at Unsignalized Intersection Blackspots in a Mixed Traffic Scenario
+Journal of Transportation Engineering Part A: Systems
+Article 27
+Tembhurkar S.; Madurwar M.; Raut S.P.; Giri J.; Shaik M.R.
+Civil Engineering
+Investigating the performance and durability of high mechanical milling nano pulverised refused SCMs
+Case Studies in Construction Materials
+Article 28
+Manthirikul S.; Jain U.
+Civil Engineering
+Vehicle Delay Model for Signalized Midblock Crosswalk Under Mixed Traffic Conditions
+Transportation Research Record
+Article 29
+Gangwani L.; Palod N.; Dongre S.; Gupta R.
+Civil Engineering
+Optimal pipe-sizing design of water distribution networks using modified Rao-II algorithm
+Journal of Water and Climate Change
+Article 30
+Tiwari S.; Gupta R.
+Civil Engineering
+An assessment of node-head-flow relationships at lumped demand nodes for pressure-dependent analysis of water distribution networks
+Water Supply
+Article 31
+Adhikary S.; Salunkhe J.S.; Karamkar S.
+Civil Engineering
+Evaluation of Site Classification and Amplification Factors Using Different Revisions of the Indian Seismic Code
+Indian Geotechnical Journal
+Article 32
+Diwakar P.; Landge V.S.; Jain U.
+Civil Engineering
+A pro-active approach for assessment of vehicle-vehicle interaction at unsignalized intersection in mixed traffic conditions
+Innovative Infrastructure Solutions
+Article 33
+Pande A.Y.; Padade A.H.
+Civil Engineering
+Engineering Potential of Pond Ash Geomaterial: A Lightweight Filling Solution
+International Journal of Geomechanics
+Article 34
+Kakade V.; Ahmed S.; Bharath G.; Reddy S.R.
+Civil Engineering
+A literature review on moisture resistance performance of bitumen modifiers
+Innovative Infrastructure Solutions
+Article 35
+Verma R.K.; Mirajkar A.B.
+Civil Engineering
+Spatial analysis of dynamic groundwater potential maps of Nagpur district of Maharashtra using the AHP and RS-GIS tools
+Water Supply
+Article 36
+Adak M.; Usmani A.; Mandal A.
+Civil Engineering
+ENHANCING LARGE UNDERGROUND EXCAVATION RISK ASSESSMENT: OPTIMIZATION THROUGH INFORMATION SYSTEMS
+Journal of Theoretical and Applied Information Technology
+Article 37
+Gaur S.; Tawalare A.
+Civil Engineering
+Stakeholder management and its role on value creation in construction projects: A cross-case analysis
+Asian Journal of Civil Engineering
+Article 38
+Pawar S.; Patel P.; Mirajkar A.B.
+Civil Engineering
+Relevance of Intuitionistic Fuzzy Optimization Approach in Planning of a Multi–Objective Water Resource System
+Water Resources Management
+Article 39
+Saini D.; Dixit P.; Lataye D.H.; Rai R.K.; Motghare V.M.
+Civil Engineering
+Assessment of ambient air quality status of Amravati city using time series forecasting network in deep learning MATLAB
+Sadhana – Academy Proceedings in Engineering Sciences
+Article 40
+Adak M.; Usmani A.; Mandal A.
+Civil Engineering
+INTEGRATING INFORMATION TECHNOLOGY IN ENGINEERING GEOLOGY: CASE STUDIES AND EDUCATIONAL APPROACHES FOR ENHANCED GEOLOGICAL ANALYSIS FOR INFRASTRUCTURE DEVELOPMENT
+Journal of Theoretical and Applied Information Technology
+Article 41
+Gaur S.; Tawalare A.
+Civil Engineering
+Assessing the implications of BIM on sustainability of construction projects through design risk management
+Built Environment Project and Asset Management
+Article 42
+Diwakar P.; Landge V.S.; Jain U.; Kulkarni P.
+Civil Engineering
+Automatic traffic data extraction tool for mixed traffic conditions using image processing techniques
+Innovative Infrastructure Solutions
+Article 43
+Khupsare A.; Parmar A.; Agarwal A.K.; Wanjari S.P.
+Civil Engineering
+Characteristic Study of Polycarboxylate Ether Sand as a Potential Substitute for Natural River Sand in the Construction Industry
+Journal of Materials in Civil Engineering
+Article 44
+Vaidya D.R.; Mali S.T.; Gupta R.
+Civil Engineering
+Pressure-Dependent Analysis of Water Distribution Network Having Different Required Pressure Values at Different Nodes
+Iranian Journal of Science and Technology – Transactions of Civil Engineering
+Article 45
+Bhutange S.P.; Latkar M.V.; Muhammad S.
+Civil Engineering
+A review on the potential challenges in the application of biocementation in cement-based materials, possible solutions and way forward
+Materials Today Communications
+Review 46
+Kumar A.; Landge V.S.; Jaiswal S.
+Civil Engineering
+Analysing changes in grocery shopping trips after COVID-19: Nagpur case study
+Transportation Research Part D: Transport and Environment
+Article 47
+Goel S.G.; Somwanshi S.; Kashyap S.; Gupta R.
+Civil Engineering
+PM2.5 bound polycyclic aromatic hydrocarbons in an Indian residential indoor air environment and their health risk
+Indoor and Built Environment
+Article 48
+Shahu S.R.; Iyer A.; Tawalare A.G.
+Civil Engineering
+‘PLAN OF ACTION’ FOR ORGANISATIONAL CHANGE: A CASE STUDY OF INDIAN PUBLIC SECTOR CONSTRUCTION ORGANISATION
+World Construction Symposium
+Conference paper 49
+Fulwadiya R.; Jain U.; Sharma A.; Kathuria A.
+Civil Engineering
+Can Autonomous Vehicles Enhance Safety in Heterogeneous Disordered Traffic Conditions? A Simulation-based Exploratory Study
+International Journal of Intelligent Transportation Systems Research
+Article 50
+Naganarasimhulu T.; Tawalare A.
+Civil Engineering
+ADDRESSING THE SKILLED PROFESSIONAL SHORTAGE IN INDIAN SUSTAINABLE CONSTRUCTION: A FOCUS ON AWARENESS, EDUCATION, TRAINING, AND POLICY INTERVENTIONS
+World Construction Symposium
+Conference paper 51
+Gangwani L.; Palod N.; Dongre S.; Gupta R.
+Civil Engineering
+Analysis of Optimal Solutions of a Benchmark Water Distribution Network for Exploring the Global Optimality of the Current-best Solution
+Journal of Water Management Modeling
+Article 52
+Karamkar S.; Adhikary S.
+Civil Engineering
+A Numerical Study of Impact Pile Driving in Different Soil Conditions
+Lecture Notes in Civil Engineering
+Conference paper 53
+Saha A.; Suryawanshi S.; Madghe P.
+Civil Engineering
+A Study on Pedestrian Behavior in Different Road Traffic Facilities in Indian Traffic Scenario
+Lecture Notes in Civil Engineering
+Conference paper 54
+Junwale R.; Latkar M.V.
+Civil Engineering
+Application of biomineralization for enhancement of interfacial properties of rice husk ash blended concrete
+Advances in Cement Research
+Article 55
+Kumar C.A.; Tawalare A.
+Civil Engineering
+Rekindling Public Private Partnership in Indian Road Infrastructure
+Lecture Notes in Civil Engineering
+Conference paper 56
+Kandalai S.; Patel A.
+Civil Engineering
+Geomechanical and Microstructural Behaviour of Expansive Soil Stabilized with Red Mud and GGBS: An Experimental Investigation
+Arabian Journal for Science and Engineering
+Article 57
+Adak M.; Meshram A.; Mandal A.
+Civil Engineering
+Explicit finite difference approach on multi-dimensional wave equation with constant propagation
+Recent Advances in Materials Manufacturing and Machine Learning
+Book chapter 58
+Rahangdale D.; Singh A.; Adhikary S.
+Civil Engineering
+Seismic Fragility Analysis of Finite Slope Considering Pile–Anchor Structure
+Indian Geotechnical Journal
+Article 59
+Gouda J.; Santosh B.; Sitarami Reddy D.; Vijay Kakade B.
+Civil Engineering
+Enhancing Subgrade Properties of Black Cotton Soil through the Combined Use of Sugarcane Bagasse Ash and Ceramic Waste Powder
+IOP Conference Series: Earth and Environmental Science
+Conference paper 60
+Sharma A.; Adhikary S.; Singh R.
+Civil Engineering
+Three Dimensional Numerical Modelling of Piles Using ABAQUS Software
+Lecture Notes in Civil Engineering
+Conference paper 61
+Thappeta S.K.; Chandra V.; Bhallamudi S.M.; Fiener P.
+Civil Engineering
+Flow Depths, Velocities Around Non-uniform Size Roughness Elements in Supercritical Flows: A Comparison of Numerical and Experimental Results
+Lecture Notes in Civil Engineering
+Conference paper 62
+Balaji C.R.; Madurwar M.
+Civil Engineering
+Eco epo-seal, versatile ancillary construction material: pathway to circularity in Industry 5.0
+Green Materials
+Article 63
+Syam N.S.S.; Sunil A.; Pichuka S.; Mandal A.
+Civil Engineering
+Assessment of Climate Change Impacts on the Precipitation and Temperature: A Case Study on Krishna River Basin, India
+Russian Meteorology and Hydrology
+Article 64
+Patel A.
+Civil Engineering
+Geotechnical Interpretations in Field Practice: An Introduction
+Geotechnical Interpretations in Field Practice: An Introduction
+Book 65
+Darla U.R.; Lataye D.H.; Zaidi Z.
+Civil Engineering
+Adsorptive removal of phenol from aqueous solution using chemically modified Saccharum officinarum biomass: modelling and process optimisation
+International Journal of Environmental Analytical Chemistry
+Article 66
+Gangwani L.; Dongre S.; Gupta R.; Abdy Sayyed M.A.H.; Tanyimboh T.
+Civil Engineering
+Design Optimization of Water Distribution Networks with Dynamic Search Space Reduction GA
+Water Resources Management
+Article 67
+Saha A.; Deshmukh P.
+Civil Engineering
+Identification of Crash Severity Level of Unsignalized Intersection Blackspots in Mixed Traffic Scenario
+Lecture Notes in Civil Engineering
+Conference paper 68
+Adsule P.; Kadali B.R.
+Civil Engineering
+Analysis of contributing factors in decision to bicycle in developing countries context
+Transport Policy
+Article 69
+Nair P.S.; Ghare A.D.; Kapoor A.
+Civil Engineering
+An approach to hydraulic design of Conical Central Baffle Flumes
+Flow Measurement and Instrumentation
+Article

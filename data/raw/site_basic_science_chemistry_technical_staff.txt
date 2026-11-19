@@ -1,0 +1,22 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/chemistry/technical-staff/
+TITLE: Technical Staff – Department of Chemistry, VNIT
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Technical Staff at Chemistry Department
+Sr.No.
+Name
+Designation
+Email
+Mobile
+Image 1
+Mr. Sanjay Bhende
+Senior Lab. Assistant b_sanjay26@rediffmail.com 0712-2801605 2
+Mrs. Sandhya Saundarkar
+Senior Lab. Assistant sandhyasaundarkar@gmail.com 0712-2801608 3
+Mr. Vaibhav N Sawkar
+Technical Associate vaibhavsawkar030@gmail.com 0712-2801608 4
+Mr. Saurabh Chavan
+Technician saurabhchavan@vnit.ac.in 0712-2801608 5
+Mr. Ulhas Rahangdale
+Technician ulhasrahangdale@vnit.ac.in 0712-2801608

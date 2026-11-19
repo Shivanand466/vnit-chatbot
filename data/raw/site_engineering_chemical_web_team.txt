@@ -1,0 +1,17 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/web-team/
+TITLE: Web Team – VNIT Nagpur Chemical Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+WEB TEAM
+Sr. No.
+Position
+Name 1
+DEPARTMENT WEBSITE COORDINATOR
+Dr. Piyush P. Wanjari 2
+STUDENT COORDINATOR (FINAL YEAR)
+Vikesh Kumar Jha 3
+STUDENT COORDINATOR (THIRD YEAR)
+Ruchit Madhav Sonawane
+All Student Contributors:
+Akanksha Lanka, Srinjoy Majumdar, Praveen Jangid, Ravi Dhanavath, Prashik Patil, Praneeth Chunduri, Narendra Golla, Sahil Atram, Lakshya Shukla, Srihas Velpuri

@@ -1,0 +1,48 @@
+SOURCE_URL: https://vnit.ac.in/engineering/civil/staff/
+TITLE: Staff – VNIT- CIVIL Engineering
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+STAFF AT CIVIL ENGINEERING DEPARTMENT
+VNIT NAGPUR
+SNo.
+Name
+Designation
+Associated Lab/Office 1
+Shri. Prashant D. Jaronde
+Technical Assistant
+Civil Engineering Computer Laboratory
+Building Materials and Technology Laboratory
+Networking of the Department 2
+Shri. Deepak M. Gautam
+Sr. Technician
+Concrete Technology Laboratory 3
+Shri. Sarang P.  Mashankar
+Technician SG - II
+Transportation Engineering Laboratory
+Geotechnical Engineering Laboratory 4
+Shri. Shrikant Lahabar
+Technical Assistant
+Engineering Geology and GIS Laboratory
+Environmental Engineering Laboratory 5
+Shri. Bimal Chandra Sinha
+Technical Assistant
+Hydraulics and Fluid Mechanics Laboratory
+Water Resources Laboratory
+Advanced Geotechnical Engineering Laboratory 6
+Ms. Karthika L.
+Technician
+Survey Laboratoy
+Geotechnical Engineering Laboratory 7
+Shri. Shivanand Bhardwaj
+Office Attendant
+Survey Laboratory
+Civil Engineering Department  Office 8
+Ms. Nisha N. Gulati
+Technical Associate
+Civil Engineering Department  Office
+Environmental Chemistry Laboratory
+Environmental Microbiology Laboratory 9
+Mr. Amol Kaloo
+Office Assistant
+Civil Engineering Department  Office

@@ -1,0 +1,25 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/alumni/
+TITLE: Alumni | VNIT Nagpur Computer Science Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Alumni
+Distinguished Alumni – BTech
+Meghna and Rupesh Nasre –           Faculty at IIT Madras
+Ashutosh Trivedi –                            Faculty at IIT Bombay
+Ananth Kalyanraman –                     Faculty at Washington State Univ
+Ukesh Kumar –                                   IAS, Dep. Secretary, Dept. of Personnel, Karnataka
+Sadanand Saharabudhe –                 Founder Numerify Washington DC
+Zehra Sura –                                       IBM TJ Watson Researcher
+Jaya Kawale –                                     Research Scientist at Netflix and Adobe
+Rajdeep Endow –                              Chief Transformation Officer, Material
+Rohit Bhargav –                                 VP Cloud, DevOps & BI, Innovative Minds
+Arti Kadav –                                       Director and Writer
+Distinguished MTech/PhD Alumni
+Krishna Balasubramanian –        Co-Founder, Conscious Technologies Bangalore (2013-15)
+Ankit Agarwal –                           Middleware Engineer, Intel Bangalore (2013-15)
+Krishan Kumar –                           Asst. Prof., NIT Kurukshetra (2012-14, PhD 2019)
+Gaurav Sharma –                        Software Engineer, Amazon Bangalore (2012-14)
+Prakash Choudhary –                  Asso. Prof., Rajasthan Central Univ. (2011-13)
+Jitendra Tembhurne, Tausif Diwan, Richa Makhijani, Nishat Ansari, Milind Penurkar, Jagdish Chakole, Amol Bhople and Nilesh Pikle – Faculty in IIIT Nagpur (PhDs)
+Pushpajit Khaire –                        Asst. Prof., NIT Surathkal (PhD 2022)

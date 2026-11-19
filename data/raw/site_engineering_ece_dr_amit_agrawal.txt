@@ -1,0 +1,152 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/dr-amit-agrawal/
+TITLE: Dr. Amit Agrawal – VNIT Nagpur Electronics and Communication Engineering Department
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Amit Agrawal
+Brief Bio
+Brief Bio
+Amit Agarwal  is currently an Assistant Professor at the Department of Electronics and Communication Engineering, VNIT, Nagpur, India. His research interests include visible light communication, wireless communication theory,  5G/B5G communication systems, and  cooperative networks etc. He hase received the B.Tech degree in electronics and communications from the National Institute of Technology Kurukshetra, Kurukshetra, India, in 2011, and the M.Tech degree in telecommunication technology, in 2014, from the Indian Institute of Technology Delhi, New Delhi, India. Then, in 2019, he finished his Ph.D. from IIT Delhi, India, in the Electrical Engineering Department. From 2021 to 2022 he worked as a Post-Doctoral researcher in the computer science and electrical engineering department of University of Cyprus, Nicosia.  There he was  a part of project PRIME. He has also served as an assistant professor  at Department of Electronics and Communication Engineering, LNMIIT, Jaipur, India.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+PHD 2019
+WIRELESS COMMUNICATIONS
+IIT DELHI 2
+M TECH 2014
+COMMUNICATIONS
+IIT DELHI 3
+B TECH 2011
+ELECTRONICS AND COMMUNICATIONS ENGINEERING
+NIT KURUKSHETRA
+Contact
+Phone:
+Email:
+Address:
+0712-2801919 amit.agarwal@ece.vnit.ac.in
+ECE department, VNIT Nagpur,  Nagpur, 440010, Maharstra, India
+Research Interest
+Research Interest
+Wireless Coomunication
+Underwater Optical wireless communication
+Visible light communication
+Intelligent refecting surface
+Unmanned Aerial Vehical based communication
+Information theoretical aspct of wiress communication systems
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Energy Efficient Optical Wieleesss Communication
+VNIT (Seed Grant)
+PI 2023 1 Lakh
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Chapter (Wireless Network: 10.2174/9798898812317126010007)
+Amit Agarwal
+Benthom Science 9798898812317 2026
+Chapter(Advanced Wireless Communication Systems: 10.2174/9798898812317126010008)
+Amit Agarwal
+Benthom Science 9798898812317 2026
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Departrment Examination Coordinaor
+VNIT
+Coordinator 2022- till date 2
+PCEMS publicity
+VNIT
+Chair 22-till date 3
+Summer Internship Coordinator
+VNIT
+Department Coordinator 2024-till date 4
+Ph.D. Coordinator
+VNIT
+Coordinator 2025-till date 5
+Recruitment Management Committee
+VNIT
+Member VNIT/D/Recruit-22/64 Dt. 22.12.2022 2022 6
+Final Year Project Coordinator
+VNIT
+Coordinator 22-24 7
+Feedback Committee
+VNIT
+Coordinator 22-24
+Sr. No.
+Awards 1
+MHRD GATE scholarship 2
+Postdoc scholarship at University of Cyprus 3
+Deleverd a talk on Topic:  5G/6G  and ML for wirless Communication Systems FDP: Key applications of AI & ML in ENTC at Government Polytechnic Sholapur (Apr 26) 4
+Deleverd a talk on Topic:  Key Technologies Enabling 5G at  Balaji Institute of Technology and Science, Narsampet, Warangal,Telangamna. (Dec 24)
+S.No.
+Paper Citation 1
+A. Agarwal, C. Psomas, and I. Krikidis, “Communication Systems with Amplitude Detection: An Asymptotic Approach,” IEEE Internet of Things Journal, 2022 early access, DOI 10.1109/JIOT.2022.3158947 , Impact factor: 9.936 2
+A. Agarwal and S. K. Mohammed, “Rate Region of the ZF Precoder in a 2 X 2 Multiuser Optical IM/DD Channel,” IEEE Transaction on Communications, vol. 67, no. 6, pp. 3936-3953, June 2019. DOI. 10.1109/TCOMM.2019.2899866, Impact factor: 5.6 3
+A. Agarwal and S. K. Mohammed, “Achievable Rate Region of the Zero-Forcing Precoder in a 2 X 2 MU-MISO Broadcast VLC Channel With Per-LED Peak Power Constraint and Dimming Control,” Journal of Lightwave Technology, vol. 35, no. 19, pp. 4168-4194, Oct 2017., DOI. 10.1109/JLT.2017.2719920, Impact factor: 4.142 4
+Amit Agarwal, K. singh, “Energy Efficient UWOC-RF systems with SLIPT’’, Transaction on Emerging Technlogy, Nov 2023 (SCI) 5
+Amit Agarwal, ‘’ Transmitter design and AE-AR region characterization for NOMA-SLIPT UWOC systems with uniformly distributed message and Imp-SIC’’, Physical Communication., Feb 2024(SCI) 6
+A. Agarwal, “Fairness-Driven TDMA with Joint Phase and Beamforming Optimization for ND-IRS Assisted MU-MISO Communication Systems,” Physical Communication, vol. 69, 2024. [Published] doi: https://doi.org/10.1016/j.phycom.2024.102587 7
+A. Agarwal, “Impact of Random Receiver Orientation on HE-AR Region for UWOC Systems With SLIPT,” Int. J. Commun. Syst., Nov, 2025, doi:  https://doi.org/10.1002/dac.70320.
+8
+A. Agarwal and I. Krikidis, “Fairness-Driven Optimization for NOMA-UWOC Systems with Energy Harvesting Requirements,” IEEE Journal of Oceanic Engineering, 2025.
+9
+A. Agarwal and K. Singh, “Fairness-Driven Joint Phase and PAC Optimization for NOMA Transmission with D/ND-IRS,” IEEE Transactions on Vehicular Technology, 2025 10
+A. Mittal, S.K. Singh, A. Agarwal, “Channel Estimation in RIS-NOMA Enabled 5G/B5G Systems Using Meta-Learned Spatio-Temporal Graph Neural Networks”, Physical Communication, 2026 11
+A. Agarwal, “DRL-Assisted Null Space Aware (DNSA) Framework for MU-MISO ISAC Systems,” IEEE Internet of Things Journal, Accepted for Publication, 2026. ”
+S.No.
+Paper Citation 1
+A. Agarwal, C. Psomas, and I. Krikidis, “Amplitude Detection Over Generalized Fading Models: An Asymptotic Approach”, 29th European Signal Processing Conference (EUSIPCO), 2021, pp. 1641-1645,  DOI: 10.23919/EUSIPCO54536.2021.9616286 2
+A. Agarwal, S. Mukherjee, S. K. Mohammed, “Impact of Underlaid Multi-antenna D2D on Cellular Downlink in Massive MIMO Systems”, 2018 Twenty Fourth National Conference on Communications (NCC), Feb, 2018, pp. 1-6. DOI: 10.1109/NCC.2018.8599981 3
+Enhanced Physical Layer Security for Wireless Systems with Non-Diagonal IRS, December 2023 DOI: 10.1109/ANTS59832.2023.10468858 4
+N. Negi, S. K. Singh, and A. Agarwal, “ResNet 50 Based Pest Identification in Plants,” Proc. IEEE ICISAA, 2024 5
+G. Balakrishna, S. Tiwari, and A. Agarwal, “Application of OTFS Modulation in Autonomous Vehicle Driving Systems for 6G Wireless Communication,” Proc. PCEMS, VNIT, 2024.
+6
+G. Balakrishna, S. D. Arvikar, and A. Agarwal, “Performance Analysis of Integrated Sensing and Communication for Smart Transportation,” Proc. AIDCCSP, NIT H, 2024.
+7
+A. Paithankar, P. Nigamanvesh, Devipriya, and A. Agarwal, “Implementation of AODV in VANETs,” Proc. AIDCCSP, NIT H, 2024.
+8
+Girish and A. Agarwal, “UAV Assisted Secrecy Analysis for Future Wireless Communication,” Proc. PCEMS, 2024 9
+M. S. Gannena, P. Unkal, A. Agarwal, and S. K. Singh, “PPG to ECG Conversion using BiLSTM,” Proc. PCEMS, VNIT, 2024.
+10
+A. Dogra, S. K. Singh, and A. Agarwal, “Uplink URLLC Impact on eMBB Efficiency in 5G,” Proc. 2nd ICCT, 2024 11
+A. Agarwal and K. Singh, “Enhanced Physical Layer Security with Non-Diagonal IRS,” Proc. IEEE ANTS, Jaipur, 2023 12
+A. Paithankar, P. Nigamanvesh, K. D. Priya, and A. Agarwal, “Comparison of AODV and DSDV Routing Protocols for Vehicular Ad-hoc Networks,” Proc. Third International Conference on Microwave, Antenna and Communication Systems (MAC), 2025 13
+P. Bhoot, T. Agrawal, B. Ghete, A. Agarwal, and S. K. Singh, “Dual Mode Modulation Classification Using Convolution Neural Network,” Proc. Third International Conference on Microwave, Antenna and Communication Systems (MAC), 2025.
+14
+Priti Khera and A. Agarwal, “Hybrid Quantum-Classical Network Simulation Using QuNetSim and NS-3,” Proc. 4th Int. Conf. on Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS), VNIT, 2025 15
+Aniket, Ojas, Mayur, and A. Agarwal, “Autonomous UAV Relay Placement: A Deep Reinforcement Learning Based Approach,” Proc. 4th Int. Conf. on Paradigm Shifts in Communication, Embedded Systems, Machine Learning and Signal Processing (PCEMS), VNIT, 2025 16
+S. K. Singh, A. Agarwal, and A. Kumar, “OMP-LMMSE Based Double-Stage Channel Estimation for Uplink RIS-Aided mmWave MIMO,” Proc. 2025 IEEE 12th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON), IIT BHU, 2025 17
+Dipanshu, Purva, Aditya, and A. Agarwal, “MAV-MUSIC: Direction-of-Arrival Estimation Using Movable-Antenna Virtual Arrays for 6G Scenarios,” Proc. 17th IEEE Int. Conf. on Computational Intelligence and Communication Networks (CICN), NIT Goa, Dec. 2025 18
+Anil and A. Agarwal, “AI-Based Indoor Localization Using RSSI: CNN-LSTM Based Approach,” Proc. 17th IEEE Int. Conf. on Computational Intelligence and Communication Networks (CICN), NIT Goa, Dec. 2025.

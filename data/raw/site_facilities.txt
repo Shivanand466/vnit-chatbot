@@ -1,0 +1,111 @@
+SOURCE_URL: https://vnit.ac.in/facilities/
+TITLE: Research Facilities
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Research Facilities
+Applied Mechanics
+Architecture & Planning
+Chemistry
+Chemical Engineering
+Civil Engineering
+Computer Science & Engineering
+Electrical Engineering
+Electronics & Communication Engineering
+Centre for VLSI & Nanotechnology
+Mathematics
+Mechanical Engineering
+Metallurgical & Material Engineering
+Mining Engineering
+Physics
+Engineering Mechanics Laboratory
+Computer Laboratory
+Strength of Material Laboratory
+Instrumentation Laboratory
+Structural Dynamics Laboratory
+Structural Analysis Laboratory
+Structure/Earthquake Engineering Laboratory
+Research Scholar Room
+Reading Room (Departmental Library)
+Data processing Laboratory
+Advance Computing Laboratory
+Advance Concrete Technology Laboratory
+Acoustics and Illumination
+Climatology
+Photography
+Appropriate Material and Technology
+Modeling workshop
+Computer Lab. P.G
+Computer Lab. U.G.
+Materials Bureau
+Audio Visual facilities.
+UG Laboratory for B.Tech. 1 st
+& 2 nd
+Physical Chemistry Laboratory – 3 rd sem. Chemical Engg.
+Organic Chemistry & Synthesis Lab. – 3 rd
+Sem. Chemical Engg.
+Organic Chemical Technology Lab. – 4 th
+Sem. Chemical Engg.
+Organic chemistry lab – PG Laboratory for M.Sc. 1 st
+Semester
+Inorganic Chemistry Lab – PG Laboratory for M.Sc. 2 nd
+Semester
+Physical Chemistry Lab – PG Laboratory for M.Sc. 1 st
+Semester
+Analytical Chemistry Lab – PG Laboratory for M.Sc. 2 nd
+Semester
+Synthesis and Characterization Lab- PG Laboratory for M.Sc. 3 rd
+Semester
+Computational chemistry Laboratory- M.Sc. 3 rd
+Semester
+Material Synthesis and Characterisation Lab
+Fluid Mechanics Lab
+Process Control Laboratory
+Industrial Waste Treatment Laboratory
+Analytical Instrumentation Laboratory
+Polymer Processing Laboratory (Research Lab.)
+Process Modeling and Simulation Lab
+Chemical Reaction Engineering
+Environmental Engineering Lab
+Heat Transfer Laboratory
+Nano Research Lab
+Nanotechnology Research Projects Lab
+Mechanical operation lab
+Mass Transfer Laboratory
+Advance separation lab
+Chemical Reaction Engineering laboratories
+Transportation Engineering
+Geotechnical
+Concrete Technology
+Building Materials and Technology
+Surveying
+Hydraulics
+Environmental Engineering
+Environmental Microbiology & Biochemistry
+Water & Waste Water Lab
+Air Pollution Control & Monitoring
+Water Resources Engineering
+Computer Lab UG
+Engineering Geology
+Computer Lab (WRE)
+Remote Sensing and GIS
+Data Structure & Program Design Lab (UG-I Lab )
+High Performance Computing Lab
+Pattern Recognition Lab (PG-II Lab )
+Distributed Systems Lab(PG-I Lab ),
+Computer Network Lab, 1st Floor Cloud Computing Lab
+DBMS & Compiler Lab (UG-II Lab )
+Cloud Computing Lab
+Fractional Calculus Application Laboratory: National Level laboratory inaugurated in the department
+Distributed Generation Laboratory
+Digital Signal Processing Laboratory
+Photoacoustic Imaging Laboratory [Research laboratory 3]
+Image Processing and Computer Vision Lab
+Communication and Networking Lab
+Advanced Communication Lab
+COE Lab
+Characterization Lab
+VLSI Lab
+MEMS Lab
+Nano Lab
+EDA Lab

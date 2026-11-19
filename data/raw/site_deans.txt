@@ -1,0 +1,21 @@
+SOURCE_URL: https://vnit.ac.in/deans/
+TITLE: Deans
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Deans
+Name of Deans
+Designation
+Phone No.
+Dr. R.S. Sonparote
+Planning & Development 0712-2801300 / 1077
+Dr. V.R. Kalamkar
+Academics 0712-2801301 / 1166
+Dr. R. R. Yerpude
+Faculty Welfare 0712-2801302 / 1423
+Dr. Y.B. Katpatal
+Research & Consultancy 0712-2801304 / 1083
+Dr. Ratnesh Kumar
+Students Welfare 0712-2801320 / 1582
+Dr. K. M. Bhurchandi
+International Affairs 0712-2801433/1593

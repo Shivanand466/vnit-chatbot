@@ -1,0 +1,41 @@
+SOURCE_URL: https://vnit.ac.in/scopus-publications-mining-engineering/
+TITLE: Scopus Publications – Mining Engineering
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No.
+Authors
+Department
+Title
+Source Title
+Document Type 1
+Mohanto S.; Deb D.
+Mining Engineering
+Parametric Study on the Stability of Crown Pillars Considering MultiVariate Regression and K-Cross Validation Techniques
+World Congress on Civil, Structural, and Environmental Engineering
+Conference paper 2
+Verma S.; Sirdesai N.N.; Goel M.D.; Maeder M.; Marburg S.
+Mining Engineering
+The Role of Cooling on the Physical-Mechanical Response of Thermally Treated Jodhpur Sandstone: A Major Heritage Stone in India
+Geoheritage
+Article 3
+Kher A.A.; Yerpude R.R.
+Mining Engineering
+Application of Ranking Methods for Evaluation of Critical Factors Involved in Roof Fall Fatal Accidents in Indian Underground Coal Mines
+Journal of The Institution of Engineers (India): Series D
+Article 4
+Katre R.; Sirdesai N.
+Mining Engineering
+Novel Damage Quantification Techniques for Thermal-Treated Granitic Rocks
+Advances in Science, Technology and Innovation
+Conference paper 5
+Nikita D.; Lokhande Ritesh D.
+Mining Engineering
+Impact of Porosity on Underground Structure-A Review
+Journal of Mines, Metals and Fuels
+Article 6
+Ramana C.V.; Thote N.R.; Singh A.K.
+Mining Engineering
+Numerical Investigation into Factors Affecting Stability of Opencast Coal Mine’s Rise Side Highwall Slope
+Journal of Mines, Metals and Fuels
+Article

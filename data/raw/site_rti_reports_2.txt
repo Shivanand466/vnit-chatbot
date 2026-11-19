@@ -1,0 +1,9 @@
+SOURCE_URL: https://vnit.ac.in/rti-reports-2/
+TITLE: RTI Reports
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+RTI Reports 2023-24 2022-23 2021-22 2020-21 2019-20 2018-19 1st Quarter 2nd Q u arter 1st Quarter 2nd Q u arter 3rd Quarter 4th Quarter
+RTI Reports 2021-22 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+RTI Reports 2020-21 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+RTI Reports 2019-20 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter

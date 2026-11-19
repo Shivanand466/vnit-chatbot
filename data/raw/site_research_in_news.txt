@@ -1,0 +1,11 @@
+SOURCE_URL: https://vnit.ac.in/research-in-news/
+TITLE: Research in News
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+VNIT to take Dassault Aviation’s help to set up Centre of Excellence
+New VNIT Director to boost ties with Industries
+One km Cement road in 15 days, VNIT Scholar shows the way
+Sanskrit has a key role to play in computers, says KKSU vice-chancellor
+VNIT faculty develop efficient power storage, students make e-bike
+Smart Plantation by VNIT Nagpur

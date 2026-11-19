@@ -1,0 +1,263 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cse/dr-anshul-agarwal/
+TITLE: Dr. Anshul Agarwal​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Anshul Agarwal​
+Brief Bio
+Brief Bio
+Dr. Anshul Agarwal is an Assistant Professor in the Department of Computer Science and Engineering at VNIT Nagpur, a position he has held since 2020. He received his M.Tech and Ph.D. from the CSE department, Indian Institute of Technology (IIT) Bombay (2014–2019). He holds two patents in the areas of sensor networks and fault detection. He is currently leading three AI-focused research and technology development projects sponsored by the Ministry of Defense. He has been recognized with several prestigious honors, including the Young Researcher Award by the STEM Research Society and the TCS Research Scholarship. He has authored more than 30 research papers in reputed international journals and conferences, including a paper on minimal sensor placement that was nominated for the Best Paper Award at ACM BuildSys, which he presented and demonstrated at Stanford University, California, USA. His paper was also conferred the Best Paper Award in the Cyber-Physical Systems theme at the International Conference ISAMET 2026. He has additionally contributed two book chapters on smart grid analytics. His research interests span Machine Learning, Computer Vision, Game Theory, Cyber-Physical Systems, Internet of Things (IoT), and Smart Grids. He actively contributes to the research community as a reviewer for leading journals and conferences. He has independently designed and developed the course CSL426: Game Theory for undergraduate and postgraduate students of the Department. The course provides a comprehensive treatment of game theory and its applications to solve real-world problems. It covers strategic games and Nash equilibrium, mixed-strategy equilibria, extensive-form games with perfect and imperfect information, repeated games, Bayesian games, and applications including duopoly markets (Cournot, Bertrand, Stackelberg), auctions, electoral competition, and the war of attrition.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.E 2013
+Computer Science and Engineering
+RCOEM, RTM Nagpur University 2
+M.Tech 2016
+Computer Science and Engineering
+IIT Bombay 3
+Ph.D.
+2019
+Computer Science and Engineering
+IIT Bombay
+Contact Details
+Phone:
+Email:
+Address:
+0712-2801798 anshulagarwal@cse.vnit.ac.in
+Assistant Professor, Department of Computer Science and Engineering, Visvesvaraya National Institute of  Technology (VNIT) Nagpur, Maharashtra 440010
+Research Interest
+Machine Learning
+Deep Learning
+Computer Vision
+Game Theory
+Cyber-Physical Systems and IoT
+Smart Grids
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Design of a customised CNN model for multiclass object detection and classification
+ARDE, DRDO, Pune
+PI 2024 9.912 2
+Development of Web Based Application using Artificial Intelligence Techniques for Predicting Spot Aluminium Market Price
+Ordnance Factory Ambajhari, Nagpur
+PI 2024 5.46 3
+Implementation of Artificial Intelligence (AI) And Machine Learing (ML) for Predictive Maintenance
+Ordnance Factory Ambajhari, Nagpur
+PI 2025 7.3
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Online Admission of LMDP diploma course for the academic year 2025-2026 reg.
+Maharashtra Animal And Fishery Sciences University (MAFSU), Nagpur
+Coordinator 2025 826000 2
+Online Admission of LMDP diploma course for the academic year 2024-2025 reg.
+Maharashtra Animal And Fishery Sciences University (MAFSU), Nagpur
+Coordinator 2024 826000
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Implementing brownout through a fair allocation scheme (book chapter)
+Anshul Agarwal, Dr. Kedar Khandeparkar (IIT Dharwad)
+CRC Press (Taylor and Francis Group) 9781032393049 2025
+Using a novel game theory auctioning framework for trading energy in smart grids (book chapter)
+Anshul Agarwal
+CRC Press (Taylor and Francis Group) 9781032393049 2025
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Method for Allocating Sensors in a Building 201921018534 03/01/2024 granted 2
+A System for Detection and Identification of Fault in Thermostatically Controlled Loads 201921018242 22/01/2024 granted
+Sr. No.
+Title 1
+Conducted a five day hands on applied python programming workshop “PyShop” in CSE, VNIT 2022.
+2
+Computational thinking and C/Python programming workshop (24/07/2023-28/07/2023)
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Coordinator for Summer Internship at VNIT Nagpur
+VNIT Nagpur
+Coordinator 2025-2027 2
+Professor In-Charge V-ACM Innovation and Technical Club
+VNIT, Nagpur
+Professor In-Charge 2022-2024 3
+Convocation registration committee
+VNIT, Nagpur member 2021-2023 4
+Vigilance
+VNIT, Nagpur member 2023-2025
+Sr. No.
+Awards 1
+Best paper Award in the theme “Cyber Physical Systems” in ISAMET 2026 2
+STEM Research Society Young Researcher Award by STEM Research Society 3
+Best Paper Award Finalist in International ACM BuildSys Conference (A Rated Conference), held at Stanford University, California, USA, 2016.
+4
+Awarded TCS Research Scholarship in the CSE department, IIT Bombay for a duration of 5 years from January 2016 to 2020.
+5
+Awarded student scholarship (from amongst 4 students around the world) for attending Very Large Data Bases (VLDB) International Conference 6 79 All India Rank in GATE 2014.
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+Tusharsingh Baghel; Mann Shah; Yashraj Badkul; Dhiraj Madhavaram; Soham Anwane; Anshul Agarwal
+Detection of Market Manipulation in Agricultural Systems Using Evolutionary Game Theory and Recommendation Systems
+Engineering Applications of Artificial Intelligence 2026 (accepted)
+Elsevier 2
+Bhosale A., Phapale S., Ali Z., Sapsode G., Mishra G., Kurhekar M., Agarwal A.
+VSA Net: Detection of Very Small Aerial Objects using Loss Function Optimized Network with Novel Feature Aggregation
+Applied Soft Computing 2026
+Elsevier 3
+Agarwal, A; Sirdesai, Nikhil; Agarwal, Anshul;
+Application of Artificial Intelligence for Predicting Abrasivity using the Chemical Composition of Rocks
+Journal Of The Geological Society Of India 2025
+Geological Society of India 4
+Agarwal, Anshul;
+FAlloc: A Fair Power Limit Allocation-Based Approach to Implement Brownout
+Journal of Control, Automation and Electrical Systems 2024
+Springer US New York 5
+Agarwal, Anshul;
+Minimizing Energy Wastage in Buildings by Identifying HVAC Faults Using Functional Relationship of Facets
+SN Computer Science 2023
+Springer 6
+Agarwal, Anshul;
+A novel approach to save energy by detecting faulty HVACs
+Journal of The Institution of Engineers (India): Series B 2022
+Springer India New Delhi 7
+Agarwal, Anshul; Ramamritham, Krithi;
+A Novel Approach for Deploying Minimum Sensors in Smart Buildings
+ACM Transactions on Cyber-Physical Systems (TCPS) 2021
+ACM New York, NY 8
+Agarwal, Anshul; Khandeparkar, Kedar;
+Distributing power limits: Mitigating blackout through brownout
+Sustainable Energy, Grids and Networks 2021
+Elsevier 9
+Agarwal, Anshul; Ramamritham, Krithi;
+A comparison of novel optimization model and algorithm for solving PMU deployment issues in the grid
+Sādhanā 2020
+Springer
+Sr. No.
+Authors
+Title
+Publication
+Year
+Publisher 1
+Anshul Agarwal
+Cost-Sensitive Machine Learning for Seismic Hazard Prediction in Deep Underground Coal Mines
+International Symposium on Advances in Mining, Environment & Tunneling (ISAMET-2026)  (Accepted) — *Best paper award 2026
+Springer 2
+Anshul Agarwal and Anupam Kher
+Electronic Nose Gas Classification for Mining and Environmental Safety: A Comparative Machine Learning Analysis
+International Symposium on Advances in Mining, Environment & Tunneling (ISAMET-2026)  (Accepted) 2026
+Springer 3
+Bhosale A., Phapale S., Ali Z., Sapsod G. and Agarwal A.,
+Controlling the Text Game: Game Theoretic Interactions Between LLMs for Controllable Text Generation 10th International Conference SOCTA25 Soft Computing: Theories and Applications. Lecture Notes in Networks and Systems. Springer (accepted) 2026
+Springer 4
+Trivedi, Atharva; Agarwal, Anshul;
+A Game-Theoretic Agent-Based Model for Tumor Growth and Treatment: Integrating Evolutionary and Stackelberg Dynamics 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2026
+IEEE 5
+Pawar, Mayur; Deokar, Darshan; Dhayarkar, Abhinav; Samineni, Yashwanth; Singh, Anveshak; Agarwal, Anshul;
+Adaptive Game-Theoretic Defense Optimization for Smart Grids Under Dynamic Threat Landscapes 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2026
+IEEE 6
+Shikhare, Rishabh; Mandhare, Sudhanshu; Rai, Shoyam; Mohan, Jagan; Lanje, Prashik; Agarwal, Anshul;
+Improved GAN’s with Game Theory Training for Audio Generation 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2026
+IEEE 7
+Patil, Arya; Ankulge, Swastik; Khan, Ayaan; Agarwal, Anshul;
+Machine Learning and Game Theory Applications in Cybersecurity: Predicting Mitigation Strategies from Attack Techniques 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2025
+IEEE 8
+Renghe, Shantanu; Gala, Manthan; Rambhiya, Miraj; Kedia, Dhruv; Agarwal, Anshul;
+Multi-Agent Traffic Coordination: Enhancing MCTS with Game-Theoretic Reasoning 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2025
+IEEE 9
+Shaikh, Izaan; Agarwal, Anshul;
+Oncology Dynamics: The LOLA-ABM Framework 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2025
+IEEE 10
+Khamele, Ojas; Agarwal, Anshul;
+Qualitative Evaluation of Closed Chess Positions Using Combinatorial Game Theory 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2025
+IEEE 11
+Suryawanshi, Dhairya; Singh, Ujwalkumar; Vasave, Pratik; Ganpatye, Sumedh; Dabhade, Ishan; Agarwal, Anshul;
+Strategic Analysis of Penalty Kicks in Football Using Game Theoretic and Reinforcement Learning Approaches 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2025
+IEEE 12
+Dalal, Ansh; Tibdewal, Chahak; Koparde, Vaidehi; Kotak, Krish; Agarwal, Anshul;
+Using Game Theory and Reinforcement Learning to Develop a Double Auction Framework for P2P Energy Trading in Smart Grids 2025 7th International Conference on Information Systems and Computer Networks (ISCON) 2025
+IEEE 13
+Jain, Naman; Dave, Khushi; Khan, Amaan; Loya, Harsh; Pandey, Rahul; Agarwal, Anshul;
+A Novel and Scalable Framework for Analyzing Building Energy Efficiency
+International Conference on Computing, Communication and Learning 2024
+Springer 14
+Thakur, Harsh; Agarwal, Anshul;
+Developing algorithms to allocate power thresholds 2023 IEEE 3rd International Conference on Smart Technologies for Power, Energy and Control (STPEC) 2023
+IEEE 15
+Agarwal, Anshul;
+Energy Trading in Smart Grids Using Game Theoretic Approach
+Soft Computing: Theories and Applications: Proceedings of SoCTA 2022 2023
+Springer 16
+Agarwal, Anshul;
+Implementing Reinforcement Learning for Tackling Smart Grid Pricing Problem
+International Conference on Soft Computing: Theories and Applications 2023
+Springer Nature Singapore Singapore 17
+Agarwal, Anshul;
+Minimizing Building Energy Waste by Detecting and Addressing HVAC Issues
+Soft Computing: Theories and Applications: Proceedings of SoCTA 2022 2023
+Springer 18
+Agarwal, Anshul;
+A Load Threshold Allocation Approach: Tackling Blackouts Through Brownout
+International Conference on Advanced Network Technologies and Intelligent Computing 2022
+Springer Nature Switzerland Cham 19
+Agarwal, Anshul;
+A Novel Polynomial Time Heuristic Algorithm for Minimal PMU Allocation in the Grid
+Soft Computing: Theories and Applications: Proceedings of SoCTA 2021 2022
+Springer Nature Singapore Singapore 20
+Agarwal, Anshul;
+Load forecast anomaly detection under cyber attacks using a novel approach 2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA) 2022
+IEEE 21
+Tanted, Sapan; Agarwal, Anshul; Mitra, Shinjan; Bahuman, Chaitra; Ramamritham, Krithi;
+Database and Caching Support for Adaptive Visualization of Large Sensor Data
+Proceedings of the 7th ACM IKDD CoDS and 25th COMAD 2020
+ACM 22
+Agarwal, Anshul; Ramamritham, Krithi;
+Sensor Minimization for Energy Management in Smart Buildings 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC) 2020
+IEEE 23
+Agarwal, Anshul; Ramamritham, Krithi;
+Tackling Issues Related to PMU Deployment in the Grid using a Novel Algorithm 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC) 2020
+IEEE 24
+Karmakar, Gopinath; Arote, Uddhav; Agarwal, Anshul; Ramamritham, Krithi;
+Adaptive Hybrid Approaches to Thermal Modeling of Building
+Proceedings of the Ninth International Conference on Future Energy Systems 2018
+ACM 25
+Agarwal, A; Jaiswal, K; Gudhaka, U; Munigala, Vitobha; Ramamritham, Krithi; Karmakar, Gopinath;
+Observability-driven Sensor Deployment in Smart Academic Environments: Demo Abstract
+Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD-ROM 2016
+ACM 26
+Agarwal, Anshul; Munigala, Vitobha; Ramamritham, Krithi;
+Observability: A Principled Approach to Provisioning Sensors in Buildings
+Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments 2016
+ACM 27
+Agarwal, Anshul Ajay; Munigala, Vitobha; Ramamritham, Krithi;
+Observability: replacing sensors with inference engines
+Proceedings of the Seventh International Conference on Future Energy Systems Poster Sessions 2016
+ACM

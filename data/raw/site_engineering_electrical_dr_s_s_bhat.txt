@@ -1,0 +1,297 @@
+SOURCE_URL: https://vnit.ac.in/engineering/electrical/dr-s-s-bhat/
+TITLE: Dr. S. S. Bhat
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. S. S. Bhat
+Brief Bio
+Brief Bio
+Programmer, Computer Centre, VRCE    (21/4/1987 – 6/3/1995)
+Lecturer, VRCE Nagpur  (7/3/1995 – 5/3/2000)
+(Senior Scale) Lecturer, VRCE Nagpur (6/3/2000 – 10/5/2006)
+Assistant Professor (Old Designation-V pay) VNIT, Nagpur (11/5/2006 – 11/5/2009)
+Associate Professor, VNIT Nagpur  (12/5/2009 – 8/6/2022)
+Professor, VNIT Nagpur  (9/6/2022 – Till Date)
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+PhD 2009
+Power System
+Indian Institute of Technology, Delhi, India 2
+MTech 1994
+Integrated Power System
+VRCE Nagpur India 3
+B.E.
+1986
+Electronics & Power
+VRCE, Nagpur, India 4
+DBM 1987
+Nagpur University
+Contact Details
+Phone:
+Email:
+Address:
++91-712-2801128 ssbhat@eee.vnit.ac.in ssbhat@gmail.com
+Room No E1/12
+First Floor
+Electrical Engineering Deptt Building
+VNIT Nagpur
+Research Interest
+Research Interest
+Power System
+Power System Stablity
+Power System Dynamics & Control
+Renewable Energy
+Linkedin
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Divisional Centre for Maharashtra Drone Mission
+Govt of Maharashtra
+PI 2024 8 Crore 2
+Global Grid: The Future of Earth
+SPARC SchemeMoE
+Co-PI 2023 30.81 lakhs 3
+Indo EU ProjectSustainable Energy system for achieving Novel carbon Neutral Energy CommunitiesSustenance)
+DST/EU
+Co-PI 2020 56.97 lakhs 4
+Modelling stability and fault analysis of BLDC type multimachine system
+BARC
+Co-PI 2018 45 lakhs 5
+Development of camera based sensor for motion detection and it’s application for energy saving
+World Bank
+PI 2014 12.25 lakhs 6
+Simulation and prediction of blackouts in power system
+DST
+PI 2007 2.52 lakhs
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Third party quality assurance and quality audit of major work at IIT, Simrol, Campus
+IIT indore
+PI 2020 0.25 lakhs 2
+Providing consultancy services for 3rd party quality control and QA of civil/electrical/mech/HVAC and other allied works for AIIMS Bhubaneshwar
+AIIMS Bhubaneshwar
+PI 2019 5 lakhs 3
+Providing consultancy services for 3rd party quality control and QA of civil/electrical/mech/HVAC and other allied works for AIIMS Rishikesh
+AIIMS Rishikesh
+PI 2018 5 lakhs 4
+Providing consultancy services for 3rd party quality control and QA of civil/electrical/mech/HVAC and other allied works for AIIMS Bhopal
+AIIMS Bhopal
+PI 2018 5 lakhs 5
+Providing consultancy services for 3rd party quality control and QA of civil/electrical/mech/HVAC and other allied works for AIIMS Raipur
+AIIMS Raipur
+PI 2017 5 lakhs 6
+Technical consultation in Gondia district CCTV project
+Superitendent of police, Gondia
+PI 2013 2.25 lakhs
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Next Generation Smart Grid: Modelling , Control and Optimisation (Book Chapter)
+Srivastava, Ishan, Sunil Bhat, and Arvind R. Singh
+Springer Nature Singapore 978-981-16-7793-9 2022
+Electrical Engineering Concepts and Applications
+S.A. Reza Zekavat, S.R. Tambey, Sunil Bhat
+Pearson 10:0-273-75207-3 2013 13:978-0-273-75207-3
+Matlab for Engineers
+Holly Moore, Sunil Bhat
+Pearson 10:0-273-76416-0 2011 13:978-0-273-76416-8
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Title
+Funding Agency
+Host Institute
+Dates
+No. of Participants
+Course on MATLAB
+VNIT, Nagpur
+VNIT, Nagpur 09.11.2010 – 12.11.2010 15 30.11.2010 – 03.12.2010 15
+Course on LABVIEW
+VNIT, Nagpur
+VNIT, Nagpur 21.08.2012 – 24.08.2012 (Annexure I ) 31 31.08.2012 – 01.09.2012 (Annexure II ) 20
+STTP on recent trends in power systems
+PRDC
+VNIT, Nagpur 16.07.2018 – 20.07.2018 20
+STTP on advances in power systems for power grid executives
+Power Grid
+VNIT, Nagpur 21.01.2019 – 25.01.2019 25
+Sr. No.
+Responsibility
+Year 1
+Office automation incharge 2006-2009 2
+Warden 2009-2011 3
+Chairman of purchase of Smart Cards 2011 4
+Coordinator (Eletrical Maintenance) 2011-2014 5
+Associate Dean (Industry Institute Interaction and Alumni) 2014-2016 6
+Chairman, Vigilance cum Academic Disciplinary Action Committee 2017-18 7
+Professor-in-Charge AXIS 2017-2019 8
+Convener of  Institution’s Innovation Council 2018 9
+Professor in Charge – Guest House 2018-2020 10
+Co-Chaiman, MTech admission Committee 2018-19 11
+Chaiman, MTech admission Committee 2019-20 12
+Professor In- Charge ECELL 2020-2021 13
+Coordinator-ISRO Space Technology Incubation Centre, VNIT 2021 till dt.
+14
+Coordinator, Divisional Centre, Maharashtra Drone Mission VNIT 2024
+Year
+Awards 2014-2019 2016-2021 2018-2021 2021- Till date
+S.No.
+Paper Citation 1
+Dora, Bimal Kumar, et al. “Solution of reactive power dispatch problems using enhanced dwarf mongoose optimization algorithm.” 2023 international conference for advancement in technology (ICONAT). IEEE, 2023.
+2
+Dora, Bimal Kumar, et al. “A Solution to the Techno-Economic Generation Expansion Planning Using Modified Remora Optimization Algorithm.” 2022 International Conference on Smart Generation Computing, Communication and Networking (SMART GENCON). IEEE, 2022.
+3
+Dora, Bimal Kumar, et al. “A Solution to the techno-economic generation expansion planning using Enhanced Dwarf Mongoose Optimization Algorithm.” 2022 IEEE Bombay Section Signature Conference (IBSSC). IEEE, 2022.
+4
+Vippala, Shanmukha Reddy, Sunil Bhat, and Agarala Ajaysekhar Reddy. “Condition monitoring of BLDC motor using short time fourier transform.” 2021 IEEE Second International Conference on Control, Measurement and Instrumentation (CMI). IEEE, 2021.
+5
+Halder, Sudip, et al. “Stator inter-turn fault diagnosis in permanent magnet synchronous motor.” 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC). IEEE, 2020.
+6
+Reddy, A. Ajaysekhar, and Sunil S. Bhat. “Modeling of Dual Excited Synchronous Generator with slip frequency excitation.” 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC). IEEE, 2020.
+7
+Godse, Revati, and Sunil Bhat. “Comprehensive Study and Analysis of Frequency and Phasor Estimation Algorithms.” 2020 IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE2020). IEEE, 2020.
+8
+Thadikemalla, V. S. G., et al. “Data loss mitigation mechanism using compressive sensing for smart grids.” 2020 IEEE international conference on power electronics, smart grid and renewable energy (PESGRE2020). IEEE, 2020.
+9
+Janakiram, Parjanya Y., Arghya Mitra, and Sunil Bhat. “Study and Analysis of the Performance of Grid-Connected Multi-PMBLDC Motor Drive System.” 2019 International Conference on Energy and Power Engineering (ICEPE). IEEE, 2019.
+10
+Godse, Revati, and Sunil Bhat. “Comparative Evaluation of DFT-based Phasor Estimation Algorithms.” 2018 International Conference on Recent Innovations in Electrical, Electronics & Communication Engineering (ICRIEECE). IEEE, 2018.
+11
+Bhoyar, Nilesh I., Sunil Bhat, and Mayur Patil. “Review on implementation of power line carrier communication technique in smart grid.” 2018 International Conference on Smart Electric Drives and Power System (ICSEDPS). IEEE, 2018.
+12
+Reddy, Agarala Ajaysekhar, S. S. Bhat, and R. T. Ugale. “Design and FEM analysis of dual excited synchronous generator.” 2017 National Power Electronics Conference (NPEC). IEEE, 2017.
+13
+Naik, S. D., S. S. Bhat, and M. K. Khedkar. “Effect of generator reactive power limit on proximity to voltage instability of multibus power system.” 2017 12th IEEE Conference on Industrial Electronics and Applications (ICIEA). IEEE, 2017.
+14
+Divyasri, Kandru, S. S. Bhat, and A. Ajayshekhar Reddy. “Traveling-wave distance proteAction using principal component analysis for a doubly fed system with synchronized measurements.” 2017 International Conference on Power and Embedded Drive Control (ICPEDC). IEEE, 2017.
+15
+Patil, Mayur, S. R. Bhide, and S. S. Bhat. “Experimenting with IEC 61850 and GOOSE messaging.” 2017 4th International Conference on Power, Control & Embedded Systems (ICPCES). IEEE, 2017.
+16
+Latare, Nikita Ashokrao, S. S. Bhat, and Ishan Srivastava. “Literature review of service restoration in distribution system.” 2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT). IEEE, 2017.
+17
+Srivastava, Ishan, and S. S. Bhat. “Soft computing techniques applied to distribution network reconfiguration: a survey of the state-of-the-art.” 2016 8th International Conference on Computational Intelligence and Communication Networks (CICN). IEEE, 2016.
+18
+Srivastava, Ishan, and S. S. Bhat. “Service restoration in distribution system using binary shuffled frog leaping algorithm.” 2016 International Conference on Electrical Power and Energy Systems (ICEPES). IEEE, 2016.
+19
+Naik, K. Raghavendra, S. P. Nangrani, and S. S. Bhat. “Modeling of operation of loss of excitation relay in presence of shunt FACTS devices.” 2016 IEEE 6th International Conference on Power Systems (ICPS). IEEE, 2016.
+20
+Nangrani, S. P., and S. S. Bhat. “Identification of most vulnerable line for divergent trend of power flow using Lyapunov Exponent.” 2015 International Conference on Power, Instrumentation, Control and Computing (PICC). IEEE, 2015.
+21
+Nangrani, S. P., and S. S. Bhat. “Power system security assessment using ranking based on combined MW-chaotic performance index.” TENCON 2015-2015 IEEE Region 10 Conference. IEEE, 2015.
+22
+Nangrani, S. P., and S. S. Bhat. “Chaotic behavior of single machine infinite bus power system subjected to turbine torque ripple.” 2015 Modern Electric Power Systems (MEPS). IEEE, 2015.
+23
+Gupta, Anubha, Sunil V. Chandran, and S. S. Bhat. “Simultaneous fault analysis.” 2014 International Conference on Power, Automation and Communication (INPAC). IEEE, 2014.
+24
+Naik, S. D., M. K. Khedkar, and S. S. Bhat. “Improvement of voltage stability by OLTC and shunt compensation in large multibus power system.” 2012 7th IEEE Conference on Industrial Electronics and Applications (ICIEA). IEEE, 2012.
+25
+Naik, S. D., M. K. Khedkar, and S. S. Bhat. “Voltage Stability Analysis with Equal Load and Proportional Load Increment in a Multibus Power System.” International Proceedings of Computer Science and Information Technology 56 (2012): 46.
+26
+Naik, S. D., M. K. Khedkar, and S. S. Bhat. “Correlation and comparison between bus participation factor and voltage sensitivity factor for simultaneous and individual bus load change in multi bus power system.” 2011 International Conference on Power and Energy Systems. IEEE, 2011.
+27
+Naik, S. D., M. K. Khedkar, and S. S. Bhat. “On critical mode of bifurcation point and loadability in shunt compensated multi-bus power system.” 2011 International Conference on Power and Energy Systems. IEEE, 2011.
+28
+Glavic, Mevludin, Sunil Bhat, and Stefano Vassena. “Relieving Flow Limits in Continuation Power Flows by Generation Rescheduling.” IV CONGRESO INTERNACIONAL DE INGENIERIA ELECTROMECANICA Y DE SISTEMAS. 2005.
+29
+Doolla, S., et al. “A GUI based simulation of power electronic converters and reactive power compensators using MATLAB/SIMULINK.” 2004 International Conference on Power System Technology, 2004. PowerCon 2004.. Vol. 2. IEEE, 2004.
+30
+Bhat, Sunil, T. S. Bhatti, and D. P. Kothari. “Singular perturbation: a promising tool for power system engineers.” Proceedings of National Power Systems Conference-NPSC. 2002.
+S.No.
+Paper Citation 1
+Dora, Bimal Kumar, et al. “A solution to multi Objective Stochastic Optimal Power Flow problem using mutualism and elite strategy based Pelican Optimization Algorithm.” Applied Soft Computing 158 (2024): 111548.
+2
+Verma, Mriduwani, et al. “An economical and simple strategy for overcoming the Hall sensor faults in three phase brushless DC motor drive.” International Journal of Circuit Theory and Applications (2024).
+3
+Halder, Sudip, Bimal Kumar Dora, and Sunil Bhat. “An Enhanced Path Finder Algorithm for the estimation of the stator current envelope to detect rotor bar breakage in an induction motor.” Measurement (2024): 114317.
+4
+Agarala, Ajaysekhar, et al. “A novel approach to using dual-field excited synchronous generators as wind power generators.” Energies 17.2 (2024): 456.
+5
+Agarala, Ajaysekhar, Sunil S. Bhat, and Ishan Srivastava. “Transient stability analysis of dual excited synchronous generator with excitation control.” Energy Reports 9 (2023): 242-252.
+6
+Halder, Sudip, Sunil Bhat, and Bimal Dora. “Start-up transient analysis using CWT and ridges for broken rotor bar fault diagnosis.” Electrical Engineering 105.1 (2023): 221-232.
+7
+Halder, Sudip, et al. “Broken rotor bar fault diagnosis techniques based on motor current signature analysis for induction motor—A review.” Energies 15.22 (2022): 8569.
+8
+Srivastava, Ishan, et al. “Fault detection, isolation and service restoration in modern power distribution systems: A review.” Energies 15.19 (2022): 7264.
+9
+Halder, Sudip, Bimal Kumar Dora, and Sunil Bhat. “An Enhanced Pathfinder Algorithm based MCSA for rotor breakage detection of induction motor.” Journal of Computational Science 64 (2022): 101870.
+10
+Agarala, Ajaysekhar, et al. “Transient stability analysis of a multi-machine power system integrated with renewables.” Energies 15.13 (2022): 4824.
+11
+Halder, Sudip, Sunil Bhat, and Bimal Kumar Dora. “Inverse thresholding to spectrogram for the detection of broken rotor bar in induction motor.” Measurement 198 (2022): 111400.
+12
+Srivastava, I., et al. “Fault Detection, Isolation and Service Restoration in Modern Power Distribution Systems: A Review. Energies 2022, 15, 7264.” (2022).
+13
+Halder, Sudip, Sunil Bhat, and Bimal Dora. “Prediction of broken rotor bar in induction motor using spectral entropy features and tlbo optimized svm.” Turkish Journal of Electrical Engineering and Computer Sciences 30.5 (2022): 1962-1979.
+14
+Srivastava, Ishan, et al. “A hybrid machine learning and meta‐heuristic algorithm based service restoration scheme for radial power distribution system.” International Transactions on Electrical Energy Systems 31.6 (2021): e12894.
+15
+Srivastava, Ishan, Sunil Bhat, and Arvind R. Singh. “Fault diagnosis, service restoration, and data loss mitigation through multi-agent system in a smart power distribution grid.” Energy Sources, Part A: Recovery, Utilization, and Environmental Effects (2020): 1-26.
+16
+Godse, Revati, and Sunil Bhat. “Mathematical morphology-based feature-extraction technique for detection and classification of faults on power transmission line.” IEEE Access 8 (2020): 38459-38471.
+17
+Godse, Revati, and Dr Sunil Bhat. “Combined morphology and SVM-based fault feature extraction technique fordetection and classification of transmission line faults.” Turkish Journal of Electrical Engineering and Computer Sciences 28.5 (2020): 2768-2788.
+18
+Godse, Revati, and Sunil Bhat. “Real‐time digital filtering algorithm for elimination of the decaying DC component using mathematical morphology.” IET Generation, Transmission & Distribution 13.15 (2019): 3230-3239.
+19
+Srivastava, Ishan, Sunil Bhat, and Agarala Ajaysekhar Reddy. “Multi-objective service restoration of radial distribution system in the presence of non-linear loads.” Electronics 8.3 (2019): 369.
+20
+Nangrani, S. P., and S. S. Bhat. “Smart grid security assessment using intelligent technique based on novel chaotic performance index.” Journal of Intelligent & Fuzzy Systems 34.3 (2018): 1301-1310.
+21
+Nangrani, S. P., and S. S. Bhat. “Fractional order controller for controlling power system dynamic behavior.” Asian Journal of Control 20.1 (2018): 403-414.
+22
+Nangrani, Sunil P., and Sunil S. Bhat. “Numerical study of optimized fractional‐order controller for chaos control of nonlinear dynamical power system.” International Transactions on Electrical Energy Systems 27.8 (2017): e2336.
+23
+Nangrani, S. P., and S. S. Bhat. “Instability, chaos and bifurcation control in nonlinear dynamical system behavior using perturb-boost fuzzy logic controller.” Journal of Intelligent & Fuzzy Systems 32.4 (2017): 3017-3029.
+24
+Naik, S. D., M. K. Khedkar, and S. S. Bhat. “Effect of line contingency on static voltage stability and maximum loadability in large multi bus power system.” International Journal of Electrical Power & Energy Systems 67 (2015): 448-452.
+25
+Naik, S. D., M. K. Khedkar, and S. S. Bhat. “Identification of weak buses and elements participation in voltage instability of large multi bus power system.” International Journal of Power and Energy Conversion 4.4 (2013): 339-354.
+26
+Naik, S. D., S. S. Bhat, and M. K. Khedkar. “Static bifurcation point and maximum loadability in a shunt compensated multibus power system.” PRZEGLAD ELEKTROTECHNICZNY (Electrical Review) (2012).
+27
+Bhat, S., et al. “Use of fuzzy based valve operation for transient stability improvement.” Przegląd Elektrotechniczny 86.8 (2010): 22-24.
+28
+Bhat, Sunil, T. S. Bhatti, and D. P. Kothari. “Transient stability improvement of power system using fuzzy operated steam diversion valve.” International Journal of Power and Energy Conversion 2.3 (2010): 191-201.
+29
+Bhat, S., R. C. Bansal, and T. S. Bhatti. “Methods of power system transient stability enhancement.” International Journal of Integrated Energy Systems 1.1 (2009): 37-46.
+30
+Bhat, Sunil, T. S. Bhatti, and D. P. Kothari. “„Novel Technique for Transient Stability Enhancement Using Steam Storage Tank”.” Zeszyt tematyczny nr XIII czasopisma „Energetyka”(artykuły I Międzynarodowej Konferencji Naukowo-Technicznej Invention’07 „Innowacyjność w Elektroenergetyce”), ISSN. Vol. 13. No. 7294. 2007.
+31
+Bhat, Sunil, et al. “A transient stability tool combining the SIME method with MATLAB and SIMULINK.” International journal of electrical engineering education 43.2 (2006): 119-133.
+32
+Aware, M. V., A. G. Kothari, and S. S. Bhat. “Power factor improvement using active filter for unbalanced three-phase non-linear loads.” International journal of energy technology and policy 4.1-2 (2006): 103-117.
+33
+Pandey, A., Kothari, D. P. and Bhat, S. S., “Power quality issues and power electronics”, Int. J. Energy Technology and Policy, Vol. 4, Nos. 1/2, pp. 4-18, 2006.
+34
+Bhat, S. “Discussion of” Bibliography on the fuzzy set theory applications in power systems (1994-2001)”.” IEEE Transactions on Power Systems 19.4 (2004): 2117-2118.
+35
+Bansal, R. C., et al. “Reactive power control of wind-diesel-micro-hydro hybrid power systems using matlab/simulink.” International journal of global energy issues 24.1-2 (2005): 86-99.
+36
+Bhat, S. “Discussion of” Bibliography on the fuzzy set theory applications in power systems (1994-2001)”.” IEEE Transactions on Power Systems 19.4 (2004): 2117-2118.
+37
+Naik, S. D., M. K. Khedkar, and S. S. Bhat. “A Novel Approach for Reducing Proximity to Voltage Instability of Multibus Power System with Line Outage Using Shunt Compensation and Modal Analysis.” International Journal on Recent and Innovation Trends in Computing and Communication 3.2: 010-014.
