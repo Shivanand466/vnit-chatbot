@@ -128,7 +128,7 @@ CHECKS = [
     # ACADEMIC CALENDAR (Winter 2026) for First Year PG: slot A mid sem on 1st Oct;
     # UG-PG Higher Semester Timetable (Winter26): slot A mid sem on 04/09/2026.
     ("midsem_slot_a", "When is the mid semester exam for slot A in Winter 2026?",
-     [r"1(st)?\s*(Oct|October)|(Oct|October)\s*1|0?4(th)?\s*(Sep|September)|(Sep|September)\s*0?4|0?4[./-]0?9[./-]2026"], []),
+     [r"1(st)?\s*(Oct|October)|(Oct|October)\s*1\b|0?4(th)?\s*(Sep|September)|(Sep|September)\s*0?4\b|0?4[./-]0?9[./-]2026"], []),
 
     # More questions the chatbot must decline. The first two matter most: the
     # data holds a 2026-27 hostel fee and a 2024-25 placement report, so a
