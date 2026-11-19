@@ -24,3 +24,6 @@ data/feedback/
 
 # Progress log of pipeline/run_ablations.sh
 data/processed/ablation_runs.log
+
+# Files moved out of the way instead of deleted
+_trash/
