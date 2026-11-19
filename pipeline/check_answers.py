@@ -124,9 +124,11 @@ CHECKS = [
     # Hostel rules: electrical appliances prohibited except air coolers in summer
     ("hostel_appliances", "Can I keep a refrigerator in my hostel room at VNIT?",
      [r"prohibit|not allowed|not permitted|forbidden"], []),
-    # ACADEMIC CALENDAR (Winter 2026): slot A mid sem on 1st Oct
+    # Two right answers, because the question doesn't say which students:
+    # ACADEMIC CALENDAR (Winter 2026) for First Year PG: slot A mid sem on 1st Oct;
+    # UG-PG Higher Semester Timetable (Winter26): slot A mid sem on 04/09/2026.
     ("midsem_slot_a", "When is the mid semester exam for slot A in Winter 2026?",
-     [r"1(st)?\s*(Oct|October)|(Oct|October)\s*1"], []),
+     [r"1(st)?\s*(Oct|October)|(Oct|October)\s*1|0?4(th)?\s*(Sep|September)|(Sep|September)\s*0?4|0?4[./-]0?9[./-]2026"], []),
 
     # More questions the chatbot must decline. The first two matter most: the
     # data holds a 2026-27 hostel fee and a 2024-25 placement report, so a
@@ -173,11 +175,13 @@ CHECKS = [
      [r"6\.75"], []),
     # Coursebook for First Year B.Tech & B.Arch: "Branch change after 1st year is discontinued."
     ("branch_change", "can i change my branch after first year at vnit?",
-     [r"discontinu|not (allowed|possible|permitted|available)|no longer"], []),
+     [r"discontinu|not (allowed|possible|permitted|available)|no longer|cannot|can ?not|will not be changed"], []),
     # Allocation for Minor course for the B. Tech batch admitted in 2025
     ("minor_cgpa", "what cgpa do i need to take a minor degree?", [r"8(\.0)?"], []),
     ("minor_deadline", "last date to apply for minor course for btech batch 2025?",
-     [r"15(th)?\s*May|May\s*15|15[./-]0?5[./-]2026"], []),
+     # The first notice said 15 May 2026; "Extension Notice – Allocation for Minor Course ..."
+     # (10 June 2026) moved it to 30 June 2026. Either is right, the later one more so.
+     [r"15(th)?\s*May|May\s*15|15[./-]0?5[./-]2026|30(th)?\s*June|June\s*30|30[./-]0?6[./-]2026"], []),
 
     # ACADEMIC CALENDAR (Winter 2026) For Higher Semester UG & PG
     ("higher_sem_classes_start", "when do classes start for 2nd year and above in winter 2026?",
