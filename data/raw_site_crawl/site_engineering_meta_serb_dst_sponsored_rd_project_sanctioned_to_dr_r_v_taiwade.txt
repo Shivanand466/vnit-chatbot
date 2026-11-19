@@ -1,0 +1,14 @@
+SOURCE_URL: https://vnit.ac.in/engineering/meta/serb-dst-sponsored-rd-project-sanctioned-to-dr-r-v-taiwade/
+TITLE: SERB-DST sponsored R&D project sanctioned to Dr. R. V. Taiwade
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Title of the project:
+Tailoring the actuation characteristics of SMA/Polyimide sandwich-structured composite for its viability towards actuator development for MEMS and soft robotic systems.
+About the project:
+The main focus of the project is to design and develop thin film SMA-Polyimide composite and investigate its viability in soft robotic application. SMA is considered to be low-bandwidth, large strain actuator restricting its application in high frequency under water and aerial soft robotic systems. We therefore propose a novel approach to fabricate thin film SMA-Polyimide sandwich-structured composite to realize the improvement in actuation frequency along with the actuation force to boost the load carrying capacity.
+Funding agency: SERB – DST
+Total project cost: ₹ 34,14,517 /-
+Duration: 3 years
+Date of sanction letter: 03 January 2022
+Principal Investigator: Dr. Ravindra V. Taiwade, Assistant Professor (Grade-I), Department of Metallurgical and Materials Engineering

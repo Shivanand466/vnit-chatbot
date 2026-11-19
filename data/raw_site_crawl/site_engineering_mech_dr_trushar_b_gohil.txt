@@ -1,0 +1,210 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-trushar-b-gohil/
+TITLE: Dr. Trushar B. Gohil
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Trushar B. Gohil
+Brief Bio
+Dr. Trushar B. Gohil, a distinguished scholar with a Ph.D. from IIT Kanpur, is an expert in Computational Fluid Dynamics (CFD) and Artificial Intelligence (AI). He is pioneering novel AI architectures for rapid CFD predictions. With 8 years of industrial experience and 12 years of teaching experience, Dr. Gohil has guided one Ph.D. student to completion and is currently supervising three others. His prolific research output includes 23 journal papers and 50 conference papers. He has successfully completed an R&D project and has recently launched a new online M.Tech program in Computational Fluid Thermal Science.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.E 1998
+Mechanical
+S.S.E.C., Bhavnagar, Gujarat 2
+M.E.
+2002
+Mechanical
+V.J.T.I., Mumbai 3
+Ph.D.
+2011
+CFD
+IIT Kanpur, Kanpur
+Contact
+Phone:
+Email:
+Address:
+0712-2801169 trusharg@mec.vnit.ac.in
+Associate Professor trushar.gohil@gmail.com
+Department of Mechanical Engineering
+South Ambazari Road, Nagpur-440 010
+Research Interest
+Computational Fluid Dynamics (CFD)
+Artificial Intelligence and Machine Learning
+Code Development with OpenFOAM and Python
+AI Powered CFD
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Development of Fluid – Structure Interaction (FSI) Solver for Cardiovascular Disease: An Aneurysm
+ECR-SERB, DST, Govt. of India
+Principal Investigator 2017 26.23
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Batch 2: 11 Weeks Online Workshop on AI-Powered CFD with OpenFOAM: Unleashing New Frontiers, April 29 – July 26, 2024 2
+Batch 1: 11 Weeks Online Workshop on AI-Powered CFD with OpenFOAM: Unleashing New Frontiers, Nov 27, 2023 – Feb 14, 2024 3
+Self Financed online Training Program on Computational Fluid Dynamics (CFD) with OpenFOAM July 23 – 28, 2020 4
+Summer School on Computational Fluid Dynamics (CFD) with OpenFOAM, May 24 – June 21, 2019 5
+Self Financed One Week Training On Computational Fluid Dynamics (CFD) with OpenFOAM, Dec 14 – 19, 2018 6
+Summer School on Computational Fluid Dynamics (CFD) with OpenFOAM, May 18 – June 22, 2018 7
+Summer School on Computational Fluid Dynamics (CFD) with OpenFOAM, May 26 – June 30, 2017 8
+Self Financed One Week Training On Computational Fluid Dynamics (CFD) with OpenFOAM, Dec 08 – 12, 2016 9
+Summer Research Program – 2016 will be organized in the summer vacation for BE/B.Tech 2nd, 3rd year student to encourage research in the VNIT, June 9 – July 14, 2016 10
+Summer School on Computational Fluid Dynamics (CFD) with OpenFOAM, May 26 – June 9, 2016 11
+Self Financed One Week Training On Computational Fluid Dynamics (CFD) with OpenFOAM, Dec 14 – 20,2015 12
+Self Financed One Week workshop on Computational Fluid Dynamics (CFD) and Software Training, July 13 – 17, 2015
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+AC and Water Cooler Maintenance
+VNIT, Nagpur
+Faculty Incharge 2024 2
+Co-Departmental Examination Coordinator (Co-DEC)
+VNIT, Nagpur
+Faculty Incharge 3
+Departmental Examination Coordinator (DEC)
+VNIT, Nagpur
+Faculty Incharge 4
+MTech Coordinator for Heat Power Engineering
+VNIT, Nagpur
+Faculty Incharge 5
+Coordinator for online MTech in CFTS
+VNIT, Nagpur
+Faculty Incharge 2023-till
+Sr. No.
+Awards
+S.No.
+Paper Citation
+Journal Publications 1
+Swapnil Soni, Avishek Ranjan, Trushar B Gohil, Evaluating approaches to accurately compute electro-vortex flows in liquid metal electrodes, 2024, Computers & Fluids, Pages: 106205 2
+Rajnish Kumar, Trushar B Gohil, Numerical study of the reaction of initially distant scalars in a transversely oscillating cylinder wake using OpenFOAM, 2023, Chemical Engineering and Processing-Process Intensification, 191, Pages: 109478.
+3
+Samarendra Panda, Trushar B Gohil, Venugopal Arumuru, Evolution of flow structure from a coaxial synthetic jet, 2022, International Journal of Mechanical Sciences, Volume- 231, Pages:107588 4
+Samarendra Panda, Trushar B Gohil, Venugopal Arumuru, Influence of mass flux ratio on the evolution of coaxial synthetic jet, 2022, Physics of Fluids, Volume 34, Issue 9.
+5
+Ranjit J Singh and Trushar B. Gohil, Numerical Analysis of Unsteady Natural Convection Flow and Heat Transfer in the Existence of Lorentz Force in Suddenly Expanded Cavity Using Open FOAM. J. Therm. Sci. 29, 1513–1530 (2020). https://doi.org/10.1007/s11630-020-1190-9 6
+Shyamal G. Chakrabarty, Uday S.Wankhede, Rupesh S.Shelke and Trushar B.Gohil, Investigation of temperature development in salinity gradient solar pond using a transient model of heat transfer. Solar Energy, Volume 202, 2020.
+7
+Ranjit J Singh and Trushar B. Gohil, “Influence of the Presence of the Lorentz Force and its Direction on the Suppression of Secondary Flow in Two Different Orifices: A Numerical Study using OpenFOAM” Journal of Applied Fluid Mechanics, Vol. 12, No. 3, pp. 751-762, 2019.
+8
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, Numerical simulation of forced circular jets: Effect of flapping perturbation, Phys. of Fluids 31, 000000 (2019); doi: 10.1063/1.5099250 9
+Ranjit J Singh and Trushar B. Gohil, The numerical analysis on the variation of electric potential, electric current and Lorentz force with its influence on buoyancy-driven conjugate heat transfer and fluid flow using OpenFOAM. Fusion Engineering and Design, Volume 148, 2019, https://doi.org/10.1016/j.fusengdes.2019.111300 10
+Ranjit J Singh and Trushar B. Gohil, Numerical study of MHD mixed convection flow over a diamond-shaped obstacle using OpenFOAM, International Journal of Thermal Sciences, Volume 146, 2019.
+11
+Dalvi S, Bali S, Nayka D, Kale SH, Gohil T. B., Numerical study of mixed convective heat transfer in a lid driven enclosure with rotating cylinders. Heat Transfer—Asian Res. 2019; 124.
+12
+Ranjit J Singh and Trushar B. Gohil, The numerical analysis on the development of Lorentz force and its directional effect on the suppression of buoyancy-driven flow and heat transfer using OpenFOAM, Computers and Fluids 179 (2019) 476–489. https://doi.org/10.1016/j.compfluid.2018.11.017 13
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, “POD analysis of a blooming jet at a moderate reynolds number”, Journal of Flow Visualization and Image Processing, 25(3–4):359–382 (2018).
+14
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, “Direct numerical simulation of free and forced square jets”, International Journal of Heat and Fluid Flow, 2015, Vol. 52, 169. ISSN: 0142-727X 15
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, “Simulation of the blooming phenomenon in forced circular jets”, Journal of Fluid Mechanics, (2015), vol. 783, pp. 567_604. ISSN: 0022-1120 16
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, “Large Eddy Simulation of a Free Circular Jet”, ASME Journal of Fluids Engineering, 2014, 136(5), 051205.
+17
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, “Direct numerical simulation of forced circular jets: Effect of varicose perturbation”, International Journal of Heat and Fluid Flow, 2013, http://dx.doi.org/10.1016/j.ijheatfluidflow.2013.08.008.
+18
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, “Numerical study of instability mechanisms in a circular jet at low Reynolds numbers”, Computers and Fluid, 2012, Vol. 64, 1-48. ISSN: 0045-7930 19
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, “Direct Numerical Simulation of Naturally Evolving Circular Jet”, ASME Journal of Fluids Engineering, 2011, Vol. 133 111203-1. ISSN: 0098-2202 20
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar,Control of Flow in Forced Jets: A Comparison of Round and Square Cross-Sections”, Journal of Visualization, 2010 (13), 141-149, DOI 10.1007/s12650-009-0020-7. Print ISSN: 1343-8875 21
+Trushar B. Gohil, Robert McGregor, Dominik Szczerba, Kathrin Burckhardt, K. Muralidhar, and G. Székely, “Simulation of Oscillatory Flow in an Aortic Bifurcation Using FVM and FEM: A Comparative Study of Implementation Strategies”, International Journal for Numerical Methods in Fluids, 2010, DOI: 10.1002/fid.2301.
+S.No.
+Paper Citation nt_header_2
+Conference Publications 1
+Ranjit J Singh, Trushar B Gohil, Numerical investigation on the liquid metal flow and heat transfer in the multi-step enclosure in the existence of magnetic field, AIP Conference Proceedings, 2023 2023 2
+Rajnish Kumar, Trushar B Gohil, Numerical study of mixed convection conjugate heat transfer in a lid-driven skew cavity with bottom thick wall using OpenFOAM, AIP Conference Proceedings, 2023 2023 3
+Ghadge, Yogesh and Gohil, Trushar, A Numerical Methodology for Convection-Diffusion Controlled Unconstrained Melting Problems, 2022, https://ssrn.com/abstract=3996081 or http://dx.doi.org/10.2139/ssrn.3996081 2022 4
+Ranjit J Singh, Trushar B Gohil, Numerical analysis on the flow bifurcation and heat transfer regulation in the constricted cavity under the transverse magnetic field using OpenFOAM, 2021, Fluids Engineering Division Summer Meeting, Volume 85284, Pages V001T02A046 2021 5
+Uddhav S Pagar, Jijo Derick Abraham, Trushar B Gohil, On reducing lift and drag forces of a stationary circular cylinder using side-by-side pair of inward rotating cylinders, 2021, IOP Conference Series: Materials Science and Engineering, Volume 1146, Issue 1, Pages 012020 2021 6
+Samarendra Panda, Trushar Gohil, Venugopal Arumuru, Evolution of Coaxial Synthetic Jet with Different Velocity Ratios, 2021, APS Division of Fluid Dynamics Meeting Abstracts, Pages H28. 010 2021 7
+Ranjit J Singh, Trushar B Gohil,Numerical analysis on the flow of molten steel in the casting cavity in the presence of magnetic field, 2021, Materials Today: Proceedings, Volume 44, Pages 356-361 2021 8
+Ranjit J Singh, Trushar B Gohil, The CFD Analysis of Convection Heat Transfer with Magnetic Field in the 2D Domain Using OpenFOAM, 2021, Advances in Mechanical Engineering: Select Proceedings of ICAME 2020, Pages 473-479, Springer Singapore 2021 9
+Ranjit J. Singha, Trushar B. Gohil, The numerical analysis on the distribution of Lorentz force and its influence on buoyancy-driven conjugate heat transfer and fluid flow using OpenFOAM, Proceedings of the 25th National and 3rd International ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2019), December 28-31, 2019, IIT Roorkee, Roorkee, India. IHMTC2019-xx-xxxx (Accepted) 2019 10
+Ranjit J. Singha, Trushar B. Gohil, Mixed Convection Heat Transfer in a Cavity with Rotating Cylinder Under the Influence of Magnetic Field. Advances in Fluid and Thermal Engineering pp 53-62, 2019 2019 11
+Ranjit J. Singh, Trushar B. Gohil, “The numerical analysis on the buoyancy-driven conjugate heat transfer and fluid flow under the influence of magnetic field in the cubic cavity using OpenFOAM”, 2nd International conference on New Frontier Engineering Science and Technology 2019, NIT Kurukshetra, Feb 18-22, 2019.
+2019 12
+Nikhil Chitnavis, Shubham Dalvi, Rishabh Jaiswal and Trushar B. Gohil, Numerical Investigation of Unsteady Natural Convection in a Rhombus Enclosure with a Circular Cylinder using OpenFOAM, Conference On Emerging Trends in Mechanical Engineering 09 – 10 JANUARY 2019, National Institute of Technology Warangal-506004 2019 13
+Rishabh N. Jaiswal, Trushar B. Gohil, The numerical analysis of Fluid-Structure INteraction of blood flow through flexible tube with 90-degree nebd using OpenFOAM. Proceedings of the International Conferenceon Applied Mechanical Engineering Research(IC-AMER2019), NIT Warangal, India – May 02-05, 2019 2019 14
+Nikhil Chitnavis, Trushar B. Gohil, Numerical Analysis of the effect of fluid-structure interaction on Heat Transfer in the square cavity using OpenFOAM, Proceedings of the International Conferenceon Applied Mechanical Engineering Research(IC-AMER2019), NIT Warangal, India – May 02-05, 2019.
+2019 15
+Ranjit J. Singh, Trushar B. Gohil, “The Numerical Analysis of the Effect of Lorentz Force on the Unsteady Flow and Heat Transfer in a Square Cavity with Heated Cylinder Using OpenFOAM”, 7th International and 45th National Fluid Mechanics and Fluid Power Conference, at IIT Bombay, Dec 10-12, 2018.
+2018 16
+Ranjit J. Singh, Trushar B. Gohil, “The MHD based numerical analysis of Rayleigh- Bénard convection flow of liquid metal in the smoothly constricted enclosure from the top using OpenFOAM”, International Conference on Recent Advances in Fluid and Thermal Sciences, at BITS-Pilani, Dubai Campus, Dec 5 – 7, 2018.
+2018 17
+Ranjit J. Singh, Trushar B. Gohil, “The MHD based convection heat transfer in a square cavity with rotating cylinder”, Ist International Conference on Future Learning Aspects of Mechanical Engineering, held at Amity University, Noida, October 3 – 5, 2018.
+2018 18
+Ranjit J. Singh, Trushar B. Gohil, “The MHD based numerical analysis of unsteady natural convection flow and heat transfer in a square cavity with rotating heated cylinder using OpenFOAM”, International Conference on Mathematical Modelling and Scientific Computing, held at IIT-Indore, July 19 – 21, 2018.
+2018 19
+Ranjit J. Singh, Trushar B. Gohil, “Numerical Analysis of Fluid Flow and Heat Transfer through Multistep Channel under the Influence of Magnetic Field “, 5th International Conference on Computational Methods for Thermal Problems, held at IISc Bangalore, July 9 – 11, 2018.
+2018 20
+Swapnil Soni, Rishabh Jaiswal, Jijo Derick Abraham, Govind Mishra,Trushar B. Gohil, Computational Analysis of Vortex–Induced Vibration of an Isolated Diamond Cylinder Proceedings of the 7th International and 45th National Conference on Fluid Mechanics and Fluid Power (FMFP) December 10-12, 2018, IIT Bombay, Mumbai, India FMFP2018–PAPER NO. 526 2018 21
+Swapnil Soni,Trushar B. Gohil, Fluid-Structure Interaction Analysis of Square Cavity with Flexible Bottom Proceedings of the 7th International and 45th National Conference on Fluid Mechanics and Fluid Power (FMFP) December 10-12, 2018, IIT Bombay, Mumbai, India FMFP2018–PAPER NO. 583 2018 22
+Prakash S, Aniruddha Kane, Lakshmanan K, Vayala Siva, H. Gowardhan, Trushar B. Gohil, Free Convection of Non-Newtonian Power-Law Fluids in a Rhombus Cavity with Heated Cylinder, Proceedings of the 7th International and 45th National Conference on Fluid Mechanics and Fluid Power (FMFP) December 10-12, 2018, IIT Bombay, Mumbai, India FMFP2018–PAPER NO. 524 2018 23
+Shivam Swarnakar, Trushar B. Gohil, Study of Co-efficient of Restitution on a Multi-Jet Fluidized Bed using Euler-Euler Approach in OpenFOAM Proceedings of the 7th International and 45th National Conference on Fluid Mechanics and Fluid Power (FMFP) December 10-12, 2018, IIT Bombay, Mumbai, India FMFP2018–PAPER NO. 584 2018 24
+Samarendra Panda, Trushar B. Gohil and Venugopal Arumuru, Numerical Simulation of Synthetic Jet Using OpenFOAM. Proceedings of the 7th International and 45th National Conference on Fluid Mechanics and Fluid Power (FMFP) December 10-12, 2018, IIT Bombay, Mumbai, India FMFP2018–PAPER NO. 707 2018 25
+Arunkumar H. S., Chidanand Mangrulkar, and Trushar B. Gohil, ortex dynamics and elliptical structure wake interaction in the proximity of wall using 2-D RANS simulation, MATEC Web of Conferences 144, 04018 (2018) https://doi.org/10.1051/matecconf/201814404018 2018 26
+Ranjit J. Singh, Trushar B. Gohil,Effect of external magnetic field on natural convection in a cube: a numerical study, ASCHT 2017 6th Asian Symposium on Computational Heat Transfer and Fluid Flow 10-13 December, 2017 Indian Institute of Technology Madras, Chennai, India 2017 27
+Ranjit J. Singh, Trushar B. Gohil, The OpenFoam based solver development for MHD based buoyancy-driven flow, 24thNational and2nd International ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2017),27-30 December 2017 2017 28
+Mahesh K. S.,Trushar B. Gohil, Fluid Structure Interaction analysis of flexible flap in channel, 24thNational and2nd International ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2017),27-30 December 2017 2017 29
+Shubham Dalvi, Suraj H. Kale, Divyesh Nayka, Snehal Bali,Trushar B. Gohil, Numerical Analysis of Mixed Convection Heat Transfer in a Three-Dimensional Lid driven Cavity with Rotating Cylinders, Proceedings of the 44thNational Conference on Fluid Mechanics and Fluid Power December 14-16, 2017, Amrita University, Amritapuri Campus, Kollam, Kerala, India FMFP2017–PAPER NO. 135 2017 30
+Shivam Swarnakar, Ankit Yadav, Pushpank Gupta, Vaibhav Shetiya, Ketan Ghotkar, Trushar B. Gohil, Assessment with CFD of the Effects of Baffle Rotation on the Shell Side Flow in a Small Shell and Tube Heat Exchanger, Proceedings of the 44thNational Conference on Fluid Mechanics and Fluid Power December 14-16, 2017, Amrita University, Amritapuri Campus, Kollam, Kerala, India FMFP2017–PAPER NO.136 2017 31
+Jayesh S Shukla, Shripad S Shinde, Mohd. Affanuddin,Shashank G Mewada, Trushar B. Gohil, Computational Fluid Dynamics Analysis of Vertical Axis Wind Turbine, Proceedings of the 44thNational Conference on Fluid Mechanics and Fluid Power December 14-16, 2017, Amrita University, Amritapuri Campus, Kollam, Kerala, India FMFP2017–PAPER NO. 142 2017 32
+TukaramShinde, Rohit C. Patankar, Bharat Totlani, Sameep Meshram, M. Chandra Kumar, Trushar B. Gohil, A Numerical Investigation of Shocks on 2D Convergent Divergent Nozzle for Different Compressible Gases, Proceedings of the 44thNational Conference on Fluid Mechanics and Fluid Power December 14-16, 2017, Amrita University, Amritapuri Campus, Kollam, Kerala, India FMFP2017–PAPER NO. 143 2017 33
+Arunkumar H S, ChidanandMangrulkar,Trushar B Gohil, Vortex dynamics andSquare cylinder wake interaction in the proximity of the wall using 2-D RANS simulation, Proceedings of the 44thNational Conference on Fluid Mechanics and Fluid Power December 14-16, 2017, Amrita University, Amritapuri Campus, Kollam, Kerala, India FMFP2017–PAPER NO. 197 2017 34
+Hanwate Y. and Trushar B. Gohil,”Computational Fluid Dynamics Analysis of Vertical Axis Darrieus Wind Turbine”, Fluid Mechanics and Fluid Power National Conference MNNIT, Allahabad, Dec 15-17,2016 2016 35
+Arunkumar H S, Chidanand Mangrulkar, Rahul Ikhar and Trushar B. Gohil, “Two – Dimensional Study of Cylinder Wake Interaction with the Flat Plate Boundary Layer with RANS Modeling” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 36
+Saikat Das, Swapnil Soni, Saurabh Punyapwar and Trushar B. Gohil, “Numerical Study of Fluid Flow and Heat Transfer Inside a Twisted Square Duct” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 37
+Rahul Khatri, Sachin Kanhurkar, Gautam Kumar, Ravikiran Balaga and Trushar B. Gohil, “CFD Approach of Laminar Forced Convection of Nano fluids over Staggered Circular Tube Banks” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 38
+Ankita Pujahari, Dixit Arya, Abhay Pratap Singh, Vandita Shahu and Trushar B. Gohil, “CFD Modeling of Dilute Particle Laden Flow in an U-Bend” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 39
+Rahul Kumar, Ajay Gedam, Gaurav Chaudhari, Hemant Kumar and Trushar B. Gohil, “Numerical Simulation of Impinging Jet over Flat Heated Surface” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 40
+Nikhil Sharma, Dipak Vaghani, Sushama Sahu and Trushar B. Gohil, “3D Numerical Simulation of Plume Dispersion in Open Atmosphere” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 41
+Akshay Wagh, Asmita Rahatgaonkar, Samrat Patil, Sudhir Urkude and Trushar B. Gohil, “Numerical Investigation of Buoyancy-Driven Flow in a Horizontal Square Duct Heated from Below” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 42
+Chinmayee Behera, Raju Sonkar, Rahul Mathurkar and Trushar B. Gohil, “Steady Natural Convection in a 2D Cavity Filled with a Porous Matrix Having Constant Temperature Heat Source” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 43
+Mahesh Sawardekar, Jayesh Warke, Karthik J. and Trushar B. Gohil, “Effect of Submerged Vortex Generator on a S-Duct Flow” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 44
+Rajasekarababu K B, Paramananda Padhi, Abhijit Waghe and Trushar B. Gohil,”Numerical Simulation and Validation of Turbulent Flow around Surface Mounted Bluff Body” Proceedings of the 6th International and 43rdNational Conference on Fluid Mechanics and Fluid Power December 15-17, 2016, MNNITA, Allahabad, U.P., India 2016 45
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar,Simulation of the blooming phenomenon in forced circular jets, J. Fluid Mech. (2015), vol. 783, pp. 567_604 2015 46
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, Direct numerical simulation of free and forced square jets,International Journal of Heat and Fluid Flow, 2015, Vol. 52, 169.
+2015 47
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, Large eddy simulation of a free circular jet, ASME Journal of Fluids Engineering, 2014, 136(5), 051205.
+2014 48
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, Direct numerical simulation of forced circular jets: Effect of varicose perturbation, International Journal of Heat and Fluid Flow, 2013, VOL. 44, 524 2013 49
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, Numerical study of instability mechanisms in a circular jet at low Reynolds numbers, Computers and Fluid, 2012, Vol. 64, 1-48 2012 50
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, Direct Numerical Simulation of Naturally Evolving Circular Jet, ASME, Journal of Fluids Engineering, 2011, Vol. 133 111203-1.
+2011 51
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar, Modal decomposition of free and forced circular jets at low and high Reynolds numbers, Paper number T9(2), presented at the Annual March Meeting of the American Physical Society, held at Dallas, Texas during 21-25 March 2011 2011 52
+Trushar B. Gohil, Arun K. Saha, and K. Muralidhar,Control of Flow in Forced Jets: A Comparison of Round and Square Cross-Sections, Journal of Visualization, 2010 (13), 141-149, DOI 10.1007/s12650-009-0020-7.
+2010 53
+Trushar B. Gohil, Robert McGregor, Dominik Szczerba, Kathrin Burckhardt, K. Muralidhar, and G. Székely, Simulation of Oscillatory Flow in an Aortic Bifurcation Using FVM and FEM: A Comparative Study of Implementation Strategies, International Journal for Numerical Methods in Fluids, 2010, DOI: 10.1002/fid.2301 2010 54
+K. Muralidhar, Trushar B. Gohil, and A.K. Saha, Direct Numerical Simulation of Forced Jets, 62nd Annual Meeting of American Physical Society of the Division of Fluid Mechanics, held at Minneapolis, Minnesota during 22-24 November 2009.
+2009

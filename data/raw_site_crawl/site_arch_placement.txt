@@ -1,0 +1,64 @@
+SOURCE_URL: https://vnit.ac.in/arch/placement/
+TITLE: Placement
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Placement
+Sr. No.
+Company Name
+CTC (LPA)
+No. of Students Placed
+Company Sector
+Batch
+Placement Data – B.Arch 1
+Aarvee Associates 5 3
+Construction Sector 2023-24 2
+Galactic Group 5 7
+Architecture Firm 2023-24 3
+Jacobs Solutions India Pvt. Ltd.
+5 1
+Construction Sector 2023-24 4
+Larsen & Toubro Limited 6 2
+Construction Sector 2022-23 5
+Techture Structures Pvt. Ltd.
+3.69 8
+Construction Sector 2022-23 6
+Galactic Group 5 5
+Architecture Firm 2022-23 7
+Assystem STUP (STUP Consultants Pvt. Ltd.) 4 3
+Construction Sector 2021-22 8
+Flipspaces Design Labs 8 2
+Architecture Firm 2021-22 9
+Neilsoft Ltd.
+3 4
+Construction & Design 2021-22 10
+Base 4 3.6 1
+Architecture Firm 2021-22
+Placement Data – M.Tech Urban Planning
+Sr. No.
+Company Name
+CTC (LPA)
+No. of Students Placed
+Company Sector
+Batch 1
+Tata Consulting Engineers 5 1
+Core Consultant 2023-24 2
+L&T Infrastructure Engineering Limited 5.17 1
+Core 2022-23 3
+Systra India 5.5 1
+Consultancy 2022-23 4
+Jacobs Solutions India Pvt. Ltd.
+6 1
+Construction Sector 2022-23 5
+BYJU’S – Academic Specialist Role 6 1
+Educational Services 2021-22 6
+Jacobs Solution India Pvt. Ltd.
+4.2 4
+Construction Sector 2021-22 7
+Siemens Limited FTE PGET (Urban System) 8 1
+Core 2021-22 8
+Paperpedia Pvt. Ltd.
+7.2 1
+Educational Services 2021-22 9
+L&T Infrastructure Engineering Limited 5.17 1
+Core 2021-22

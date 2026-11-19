@@ -1,0 +1,339 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/maths/dr-pallavi-mahale/
+TITLE: Dr. Pallavi Mahale
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Pallavi Mahale
+Brief
+Bio
+Brief Bio
+Dr. Pallavi Mahale is a professor in the Department of Mathematics, VNIT Nagpur. She has obtained her Ph.D from IIT Madras in year 2009 under the guidance of Prof M.Thamban Nair. Her area of interest is the regularization of non-linear  ill-posed operator equations.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2009
+IIT-Madras 2
+M.Sc 2003
+Devi Ahilya University, Indore M.P.
+2
+B.Sc. B.Ed 2001
+Regional Institute of Education, Bhopal M.P.
+Contact
+Details
+Phone:
+Email:
+Address:
+0712-2801406 pmahale@mth.vnit.ac.in
+Research
+Interest
+Research Interest
+Operator Theory
+Functional Analysis
+Ill-posed Operator Equations
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Research Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Published Papers
+Ph.D Scholar
+PG Dissertation
+Invited Talk
+Membership in Professional Bodies
+Course Taught
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Study of simplified form of two point iterative gradient methods for regularization of nonlinear ill-posed operator equations
+SERB(DST) CRG
+Principal Investigator 2024
+Approval Received 2
+Newton type iterative regularization methods for nonlinear ill-posed operator equations,
+NBHM(DAE)
+Principal Investigator 2018-2021 13.1 lakh 3
+Frozen iterative methods for regularization of nonlinear ill-posed operator equations in Banach spaces
+SERB(DST) MATRICS
+Principal Investigator 2020-2023 6.6 lakh
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Organized Indian women and Mathematics regional mini workshop on research and opportunities during 9-10 December 2022 2
+Workshop on “Linear Algebra and Multivariate Calculus for Science and Engineering Teachers” VNIT Nagpur, TEQIP sponsored, 1st to 5th January 2019 (with Dr. Jyoti Singh) 3
+A symposium on Mathematics and its Applications, VNIT Nagpur, Self Sponsored, 22nd December-2017 (with Dr. M. Devaker) 4
+STTP on “ Recent Advances in Mathematics and its application to Science and Engineering” VNIT Nagpur, Self sponsored, 6 th May – 10 th May-2013. (with Dr. M. Devaker).
+Sr. No.
+Responsibility
+Institute
+Role
+Year
+Vigilance cum academic disciplinary committee for examination-2014-15.
+VNIT
+Member 2014-15.
+Member, M.Sc.Admission committee -2014
+VNIT
+Member 2014
+Departmental co-ordinator for providing information to Associate Dean(PR).
+VNIT
+Departmental co-ordinator
+Member, Convocation Commitee-2014.
+VNIT
+Member 2014
+Faculty Mentor for B.Tech. first year students-2013-14, 2014-15.
+VNIT
+Faculty Mentor 2013-14, 2014-15.
+Departmental examination Co-coordinator (July-2012 to Dec 2013).
+VNIT
+Co-coordinator
+(July-2012 to Dec 2013).
+Departmental Time table in-charge (Jan-2011 to June-2012)
+VNIT ime table in-charge
+(Jan-2011 to June-2012)
+Departmental Computer lab in-charge(Jan-2011 to June-2012)
+VNIT
+Computer lab in-charge
+(Jan-2011 to June-2012)
+Member, Board of Studies, Department of Mathematics, VNIT Nagpur.
+VNIT
+Member
+Sr. No.
+Awards
+Qualified Graduate Aptitude Test in Engineering (GATE) 2003 examination.
+Chosen for the award of Senior Research Fellowship given by Council of Scientific and Industial research (CSIR).
+Received gold medal for standing first in M.Sc. Examination-2003(Mathematics), Devi Ahilya University, Indore, Madhya Pradesh, India.
+S.No.
+List of all authors
+Title of the paper
+Journal name in Full
+Volume
+Year
+First Page No
+ISSN
+DOI
+Pallavi Mahale and Ankush Kumar
+Error estimates for simplified Levenberg–Marquardt method for nonlinear ill-posed operator equations in Hilbert spaces
+Journal of Inverse and Ill-posed Problems 32 no 6 2024 1193-1215 https://doi.org/10.1515/jiip-2023-0090
+Pallavi Mahale and Ankit Singh
+Convergenceanalysis ofsimplifiedGauss–Newton iterativemethod undera heuristicrule
+Proceedings – Mathematical Sciences 134 no 12 2024 https://doi.org/10.1007/s12044-024-00777-3
+Pallavi Mahale and Farheen M. Shaikh
+Simplified REGINN-IT method in Banach spaces for nonlinear ill-posed operator equations
+Journal of Inverse and Ill-posed Problems 2023 https://doi.org/10.1515/jiip-2023-0045
+Pallavi Mahale and Ankit Singh
+Iterative Lavrentiev regularization method under a heuristic rule for nonlinear ill-posed operator equations
+Electron. Trans. Numer. Anal., 58 2023 450–469 doi 10.1553/etna_vol58s450
+Pallavi Mahale and Ankush Kumar
+Modified version of a simplified Landweber iterative method for nonlinear ill-posed operator equation
+Indian J Pure Appl Math 2023 https://doi.org/10.1007/s13226-023-00474-3
+Pallavi Mahale, Ankit Singh, Ankush Kumar
+Error estimates for the simplified iteratively regularized Gauss–Newtonmethod under a general source condition,
+The Journal of Analysis 31 2023 295–328 https://doi.org/10.1007/s41478-022-00454-6
+Pallavi Mahale and Farheen Shaikh
+Simplified Levenberg–Marquardt method in Hilbert spaces
+Computational Methods in Applied Mathematics, 23(1) 2023 251-276 https://doi.org/10.1515/cmam-2022-0006
+Pallavi Mahale and Ankit Singh
+A Convergence Analysis of the Iterated Lavrentiev Regularization Method under a Lipschitz Condition
+Numerical Functional Analysis and Optimization 43(2) 2022 181-220
+DOI 10.1080/01630563.2021.2021421
+Pallavi Mahale and Farheen Shaikh
+Simplified Levenberg–Marquardt method in Banach spaces for nonlinear ill-posed operator equations
+Applicable Analysis 2021
+DOI: 10.1080/00036811.2021.1947496
+Pallavi Mahale and Sharad Dixit
+Error estimates for the iteratively regularized Newton–Landweber method in Banach spaces under approximate source conditions
+Journal of Inverse and Ill-posed Problems vol. 29, no. 1 2021 27-48 https://doi.org/10.1515/jiip-2019-0049
+Pallavi Mahale and Sharad Dixit
+Simplified Iteratively Regularized Gauss–Newton Method in Banach Spaces Under a General Source Condition
+Computational Methods in Applied Mathematics vol. 20, no. 2 2020 321-341 https://doi.org/10.1515/cmam-2018-0165
+Pallavi Mahale and Sharad Dixit
+Error estimates for the simplified iteratively regularized Gauss–Newton method in Banach spaces under a Morozov-type stopping rule, Journal of Inverse and Ill-posed Problems
+Journal of Inverse and Ill-posed Problems vol. 26, no. 3 2018 311-333 https://doi.org/10.1515/jiip-2017-0059
+Pallavi Mahale and Sharad Dixit
+Convergence analysis of simplified iteratively regularized Gauss Newton method in a Banach space setting
+Applicable Analysis 2017
+DOI.org/10.1080/00036811
+Pallavi Mahale and Pradip Dedsena
+Simplified Generalized Gauss Newton method for Nonlinear ill-posed operator equation in Hilbert scales
+Computational Methods in Applied Mathematics
+DOI 10.1515/cmam-2017-45
+Pallavi Mahale
+Simplified iterated Lavrentiev regularization for nonlinear ill-Posed monotone operator equations
+Computational Methods in Applied Mathematics
+Volume 17, Issue 2 2017
+DOI: 10.1515/cmam-2016-0044
+Pallavi Mahale
+Simplified Generalized Gauss-Newton iterative method under Morozove type stopping rule
+Numerical Functional analysis and Optimization, 36 2015 1448-1470
+Pallavi Mahale, M. Thamban Nair
+Lavretiev Regularization of nonlinear ill-posed equations under general source conditions
+Journal of Nonlinear Analysis and Optimization Theory and Applications 4(2) 2013 193-204
+Pallavi Mahale, M. Thamban Nair
+Iterated Laverentiev regularization for nonlinear ill-posed problems
+ANZIAM Journal 51 2009 191-217
+Pallavi Mahale, M. Thamban Nair,
+A simplified generalized Gauss-Newton method for nonlinear ill-posed problems
+Mathematics of Computation 78 2009 171-184
+Pallavi Mahale, M. Thamban Nair,
+General source conditions for nonlinear ill-posed equations, 28 (1, 2) 2007 111-126
+Pallavi Mahale, M. Thamban Nair,
+Journal of Inverse and Ill-Posed Problems 15 (8) 2007 813-829
+Sr. No.
+Research Scholar Name
+Title of Thesis
+Joining Year 1
+Sharad Kumar Dixit
+Iterative regularization methods for nonlinear Ill-posed Operator equations in the Banach space setting
+Completed 2
+Farheen M Shaikh
+Convergence analysis of some variants of  Levenberg-Marquardt iterative method for non-linear ill-posed operator  equations
+Completed 3
+Ankit Singh
+Newton type iterative regularization methods for nonlinear ill-posed operator equations
+Completed 4
+Ankush Kumar
+Ongoing 5
+Bhawna Tripathi
+Ongoing 6
+Jivesh Sharma
+Ongoing
+Sr. No.
+Student Name
+Dissertation Title
+Year
+Ms Gokilavani T
+A derivative-free iterative method for nonlinear ill-posed equations with monotone operator 2023
+Mr. Anubhav Upadhyay
+A study of simplified iteratively regularized projection method for nonlinear ill-posed  operator equations 2023
+Ms. Parthi Sirisha
+Convergence Analysis of Some Simplified Newton-Type Methods for Non-Linear Ill-Posed Operator Equations 2022
+Ms. Prachi Bansal
+On a class of frozen type iterative method for nonlinear ill-posed equation involving monotone operator 2022
+Mr. Prabhat Tamrakar
+Modified two point gradient method based on Bregmann projection for nonlinear ill-posed operator equations 2021
+Ms Monika Sagwan
+Modified Bouldigand Landweber iterative method for nonlinear ill-posed operator equations, 2021
+Mr. Siddharth Shukla
+A Review on Inexact Newton-Landweber iterative method for solving nonlinear ill-posed operator equation in Banach spaces 2020
+Ms. Deeksha Jain
+Some Newton- Type Methods for Regularization of Nonlinear Ill-posed Problems 2020
+Ms. Shweta Agrawal
+Modified iterative regularized Gauss Newton methods for nonlinear ill-posed operator equations under a general source condition 2019
+Mr Deepak Singh
+Regularized Lavenberg –Marquardt method for nonlinear ill-posed operator equations under general source condition.
+2019
+Ms Priyanka Patel
+On regularization of nonlinear ill-posed operator equations for monotone operator.
+2018
+Mr Ankush Kumar
+On regularized Gauss Newton method for nonlinear ill-posed operator equations.
+2018
+Ms. Sushma Yadav
+Generalized Gauss Newton method for nonlinear ill-posed Operator equations 2017
+Mr. Ankit Singh
+Two step iterative method for Nonlinear monotone ill-posed equations 2017
+Ms. Jonnadula Saisree
+An iterative regularization method for Hammerstein type ill-posed operator equations 2016
+Ms. Ankita Dwevedi
+Newton type iterative methods for ill-posed operator equations, 2016
+Mr. Mayank Dwivedi
+On Lavrentiev regularization of ill-posed operator equation 2015
+Mr. Vikas kumar,
+Regularization of ill-posed operator equations, 2015
+Ms. Piyusha Hande
+A Study of Rolles theorem in Complex plane.
+2014
+Ms. Aarti Patle
+A Study of orthogonal polynomials 2014
+Sr. No.
+Conference/ Institute Name
+Title of the Talk
+Date 11th Applied Inverse Problems Conference 2023 at University of Gottingen,Germany
+Iterative regularization methods for non-linear ill-posed operator equations in Banach spaces
+September 4-8, 2023
+International conference on Analysis, Inverse Problems and Applications at IIT Madras
+Convergence analysis of  Simplified Gauss-Newton                        Method Under a Heurustic  rule
+July18 to 21, 2022
+Workshop on “Linear Algebra and Multivariate Calculus for Science and Engineering Teachers at VNIT Nagpur
+Best approximate solution and its properties
+January1-5,2019
+Recent Advances in Mathematics and its application to Science and engineering” at VNIT Nagpur
+Ill-posed operator equation and its regularization 6 to 10 May 2013
+NIT Uttrakhand
+Guest  lectures on Linear Algebra 27 Jan to 1 Feb 2013.
+Priyadarshini college of Engineering, Nagpur
+On first order ordinary differential equation 28-09-2013
+Workshop on Variational Analysis and Optimization with Application at IIT Gandhinagar
+Nonlinear ill-posed problem and its Regularization
+April 1-4 2011
+IIT Bombay
+Regularization of nonlinear  ill-posed problems under general  sourse conditions 14-07-2010
+Sr. No.
+Membership Bodies Name 1
+Indian mathematical society
+Sr. No.
+Course Code
+Course Name
+UG/PG
+Semester( winter/ summer)
+Year 1
+MAL101
+Mathematics-I
+UG 2
+MAL102
+Mathematics-II
+UG 3
+MAL 201
+Integral Transforms and Partial Differential Equations
+UG 4
+MAL206
+Linear Algebra and Applications
+UG 5
+MAL 531
+Functional Analysis
+M.Sc 6
+MAL512
+Real Analysis
+M.Sc 7
+MAL522
+Topology
+M.Sc 8
+MAL511
+Linear Algebra
+M.Sc 9
+MAL541
+Measure theory and Integration
+M.Sc 10
+MAL543
+Operator Theory
+M.Sc
+Sr No
+Paper Citation nt_header_2 nt_header_3 nt_header_4
+Year
+Sr No
+Paper Citation nt_header_2 nt_header_3 nt_header_4
+Year

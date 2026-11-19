@@ -1,0 +1,256 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mining/dr-nikhil-ninad-sirdesai/
+TITLE: Dr. Nikhil Ninad Sirdesai​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Nikhil Ninad Sirdesai​
+Brief Bio
+Dr. Nikhil Sirdesai is an Assistant Professor in the Department of Mining Engineering at Visvesvaraya National Institute of Technology (VNIT) Nagpur. His expertise includes rock mechanics and excavation engineering, with significant contributions to understanding the physico-mechanical response of rocks under various thermal conditions. Dr. Sirdesai holds a PhD from the IITB-Monash Research Academy (2013-17) and an Integrated Dual Degree (B.Tech-M.Tech) from IIT BHU (2007-12), Varanasi. His field experience includes his tenure as Management Technical Trainee (MTT) in Monnet Ispat and Energy Limited (2012-13) and in consultancy services extended during his ongoing tenure as Assistant Professor. He has contributed over 50 research papers in reputed international and national journals, conference and books. He has received several awards, including the Outstanding Young Scientist award at the 5th ISRM Young Scholars’ Symposium on Rock Mechanics (2019). He has received 1 research grant worth INR 30 lakhs from Science and Engineering Research Board (SERB) under the start-up research grant (SRG) program in 2019 to analyse the behaviour of rocks under high temperatures. He is a life time member of various national and international societies such as ISRM, MEAI, ISEG, ISCA, ISRMTT , IEI and SME. He also serves on the review and editorial board of several prestigious international journals related to rock mechanics, tunneling and engineering geology.
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+PhD 2017
+Rock Mechanics & Engineering Geology
+IITB-Monash Research Academy 2
+M.Tech 2012
+Mining Engineering
+IIT (BHU) Varanasi 3
+B.Tech 2012
+Mining Engineering
+IIT (BHU) Varanasi
+Phone:
+Email:
+Address:
+7122802271 nikhilsirdesai@mng.vnit.ac.in
+Department of Mining Engineering, VNIT Nagpur
+Research Interest 1. Geomechanics 2. Novel Mining Methods 3. Mine and Tunnel Fire Hazards 4. Excavation and Slope Stability 5. Engineering Geology 6. AI/ML in Mining and Rock Mechanics
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Physico-mechanical response of rocks under varied thermal environments (Completed)
+Startup Research Grant (SRG), SERB
+Principal Investigator 2019 31.46 2
+Thermo-Mechanical Behaviour of Natural Building Materials to Guide Conservation and Restoration of Indian Heritage Structures and Monuments (Submitted)
+Science and Heritage Research Initiative (SHRI), DST
+Principal Investigator 2025 135 3
+Multi-Scale Damage Modelling and Simulation of Himalayan Rocks under Thermo-Cryogenic and High-Strain-Rate Condition (Submitted)
+Advanced Research Grant (ARG), ANRF
+Principal Investigator 2025 381.72
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Estimation of Drillability Index and other Geomechanical Parameters of Rock
+M/s WCL
+Co-PI 2018 0.21 2
+Support Design for Incline Drivage
+M/s Technoblast Mining Corporation
+Co-PI 2018 2.71 3
+Competency Test for Engineers
+M/s MOIL
+Co-PI 2019 1.29 4
+Scientific Study of Support Design of Nehariya and Mathni mines
+M/s WCL
+Co-PI 2019 8.43 5
+Scientific Slope Stability Study of Benches and Dumps of Marki Mangali-III OC Coal Mine
+M/s BS Ispat Ltd.
+Co-PI 2021 5.55 6
+Scientific Slope Stability Study of Benches and Dumps of Integrated Baranj OC (IBOC) Coal Mine
+M/s Karnataka EMTA Coal Mines Ltd.
+Co-PI 2021 5.07 7
+Scientific Slope Stability Study of dumps and failure analysis of New Majri NMUG to OC Mine
+M/s WCL
+Co-PI 2022 6.72 8
+Scientific Study for formulation of SCAMP and Support Design to secure W7, W7Xcut, Main Dip and E8 Panels of Bagdona Seam for Tawa Mine
+M/s WCL
+Co-PI 2022 6.51 9
+Scientific Study of Pit Slope and Dump Stability of Marki O/C
+M/s Topworth Urja & Metals Limited
+Co-PI 2023 7.22 10
+Scientific Study for Slope Stability of Marki Mangali – II O/C Mines
+M/s Yazdani International Private Limited
+Co-PI 2023 7.22 11
+Proof checking of Slope Stability Analysis for deep cutting area of filled up soil of Mungoli Open-Cast Mine at Ghugus, Chandrapur, WCL.
+M/s RITES Ltd.
+PI 2024 0.71 12
+Scientific Study and Verification of Stability of Raised Ash Dyke Design
+M/s Geotech Services Pvt. Ltd.
+PI 2024 0.71 13
+Scientific study to investigate the stability of benches and internal & external dump of IBOCM KPC of EMTA Coal Pvt. Ltd.
+M/s EMTA Coal Pvt. Ltd.
+PI 2025 8.85 14
+Scientific study to investigate the stability of existing and proposed OB dumps heightened from 60 to 120 meters of IBOCM KPC of EMTA Coal Pvt. Ltd.
+M/s EMTA Coal Pvt. Ltd.
+PI 2026 10.03
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Chapter: Elastic Modulus of Thermally Treated Fine Grained Sandstone using non-contact Laser Extensometer
+N. N. Sirdesai, Bankim Mahanta, Ranjith PG and TN Singh
+Atlantis Press 9789462522602 2016
+Chapter: Acoustic and failure behaviour of Gondwana shale under uniaxial compressive and indirect Brazilian tensile loading – an experimental study
+A. Tripathy, V. Srinivasan, K. K. Maurya, N. N. Sirdesai and T. N. Singh
+CRC Press 9781138616455 2018
+Chapter: Thermo-Temporal behaviour of uniaxial compressive strength of a fine-grained Indian sandstone
+N. N. Sirdesai, V. Srinivasan, R. Singh and T. N. Singh
+CRC Press 9781138327481 2018
+Chapter: Impact of Rock Abrasivity on TBM Cutter-Discs During Tunnelling in Various Rock Formations, Advances in Mechanical Engineering
+N. N. Sirdesai, A. Aravind, S. Panchal
+Springer 9789811536380 2021
+Chapter: Effect of Material Models on Dynamic Behavior of Reinforced Concrete Slabs Exposed to Blast Loading
+M.D. Goel, S. Verma, S. Panchal, N. Sirdesai
+Springer 9789811643965 2021
+Chapter: A Novel Pulse-Shaping Technique to Forecast the Behavior of Brittle Material Using Split Hopkinson Pressure Bar
+Shivani Verma, M. D. Goel, N. N. Sirdesai
+Taylor and Francis Group 9781003352358 2023
+Book: Role of Rock Mechanics in Underground Mines
+R. D. Lokhande, A. K. Agarwal, N. N. Sirdesai
+VNIT Nagpur 9789360393809 2023
+Chapter: Novel Damage Quantification Techniques for Thermal-Treated Granitic Rocks
+Rahul Katre, N. N. Sirdesai
+Springer 9783031432187 2024
+Book: Role of Rock Mechanics in Mining Industry
+R. D. Lokhande, A. K. Agarwal, N. N. Sirdesai
+VNIT Nagpur 9789334143041 2024
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+STTP: Role of Rock Mechanics in Underground Mines, 20 – 24 November 2023 2
+STTP: Role of Rock Mechanics in Mining Industry, 15 – 19 November 2024 3
+Certificate Programme: Tunnel Engineers’ Certification Program, MoU with L&T, 7 – 18 July 2025 4
+Workshop: Exploring Collaborative Avenues between WCL and Department of Mining Engineering, VNIT Nagpur for Safe and Smart Mining Practices, 26 July 2025 5
+International Conference: International Symposium On Advances In Mining, Environment & Tunneling 2026 (ISAMET-26), 12 – 14 February 2026
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Rock Mechanics and Ground Control Laboratory
+VNIT
+Faculty In-charge 2022 – To-date 2
+Mine Machinery Laboratory and Model Room
+VNIT
+Faculty In-charge 2019 – To-date 3
+Borehole Rock Specimen Testing
+VNIT
+Faculty In-charge 2019 – To-date 4
+Departmental Data and NIRF Coordinator
+VNIT
+Faculty In-charge 2022 – To-date 5
+Academic Audit and BoS
+VNIT
+Faculty In-charge 2022 – To-date 6
+Mining Society and Student Activity
+VNIT
+Faculty In-charge 2019 – To-date 7
+Halla-Bol, The Dramatics Club
+VNIT
+Faculty In-charge 2022 – To-date 8
+Institute Annual Report Committee
+VNIT
+Member 2024 – To-date 9
+Research Mobilization Committee
+VNIT
+Member 2024 – To-date 10
+Department Examination Coordinator
+VNIT 2024 – To-date 11
+Faculty Advisor (2024 Batch)
+VNIT
+Faculty Advisor 2024 – 2028 12
+Departmental Website
+VNIT
+Faculty In-charge 2019 – 2022 13
+Faculty Advisor (2019 Batch)
+VNIT
+Faculty Advisor 2019 – 2023 14
+Training & Placement Section
+VNIT
+Department Faculty Coordinator 2020 – 2022 15
+Department Examination Coordinator
+VNIT 2020 – 2022
+Sr. No.
+Awards 1 2025: Expert Member, Action Learning Project and the Convocation of the Tunnel Engineers’ Certification Program Level 2 – Batch 3, L&T Constructions 2 2024: Editorial Board Member, Discover Geosciences, Springer 3 2024: Member (Chintan Shivir), Group 4: Develop Local Ecosystem of Mining Equipment Manufacturing, Ministry of Mines, Indian Bureau of Mines 4 2024: Expert Member, Action Learning Project and the Convocation of the Tunnel Engineers’ Certification Program Level 2 – Batch 1, L&T Constructions 5 2024: Expert Lecture, Tunneling Engineers’ Certification Programme (TECP), MoU VNIT & L&T, Dept. of Mining Engineering, VNIT Nagpur 6 2024: Prof. T. N. Singh Best Paper Award – 2nd International Conference on Geotechnical Issues in Energy, Infrastructure and Disaster Management (ICGEID-2024) IIT Patna.
+7 2024: Session Chair, 2nd International Conference on Geotechnical Issues in Energy, Infrastructure and Disaster Management (ICGEID-2024) IIT Patna.
+8 2023: Expert Lecture, ‘In-situ and Laboratory Strength Determination for Rocks and Rockmasses’, STTP: Role of Rock Mechanics in Underground Mines, Dept. of Mining Engineering, VNIT Nagpur 9 2022: Expert Lecture, ‘Thermal Behavior of Natural Building Materials’, SERB Accelerate Vigyan Karyashala: Sustainable & Resilient Infrastructures for Built Environment organized by Department of Civil Engineering, VNIT Nagpur.
+10 2021: Expert Lecture, ‘Rock Testing Methods’, Training Workshop: Geotechnical Investigation & Testing Methodology, Dept. of Civil Engineering, VNIT Nagpur 11 2021: Expert Lecture, ‘Estimation of Rock Mass Strength Using Intact Rock Properties and Geological Conditions’, STTP: Rock Mechanics in Excavations, Dept. of Mining Engineering, VNIT Nagpur 12 2020: Expert Lecture, ‘Rock-Heat Interaction: Application, Experimental Analysis and Future’, ATAL FDP: Fundamental Aspects & Futuristic Prospects of Geotechnical Engineering, Dept. of Civil Engineering, VNIT Nagpur 13 2019: Keynote Address and Session Chair, Recent Advances in Mining Technology (RAMT-2019), Acharya Institute of Technology, Bengaluru.
+14 2019: Outstanding Achievements as Young Scientist Award with a scholarship of 100,000 JPY, 5th ISRM Young Scholars’ Symposium on Rock Mechanics (YSRM 2019), Japanese Society of Rock Mechanics (JSRM), Okinawa, Japan .
+15 2018: International Travel Support Grant, Science & Engineering Research Board (SERB), European Rock Mechanics Symposium (EUROCK 2018) at St. Petersburg, Russia.
+16 2015: Postgraduate Research Travel Grant, Monash University, UNESCO sponsored Ninth International Symposium on Land Subsidence (NISOLS 2015), Nagoya, Japan.
+17 2014: OSKAR Award,  Highest Cumulative Performance Index (10/10) , IITB-Monash Research Academy.
+18 2009-10: Merit Award , IIT (BHU) Varanasi.
+S.No.
+Paper Citation 1
+Gupta V.; Katre R.R.; Sirdesai N.N.; Panchal S.; Agarwal A.K., 2026, Predictive Models for Strength Properties in Sandstone and Quartzite Using Soft Computing Techniques: Multiple Linear Regression, Artificial Neural Network, and eXtreme Gradient Boosting, Journal of the Geological Society of India.
+2
+Katre R.R.; Verma S.; Dwivedi R.; Panchal S.; Sirdesai N.N.; Singh K.H.; Singh T.N., 2025, Novel Damage Quantification and Strength Degradation of Thermally Treated Bundelkhand Granite: An Indian Heritage Stone, Geoheritage, 17(1), 10.1007/s12371-025-01067-8 3
+Verma S.; Sirdesai N.N.; Goel M.D., 2025, Comprehensive review on the impact of high temperatures and dynamic loading on rocks in construction materials, Physics and Chemistry of the Earth, 139, 10.1016/j.pce.2025.103934 4
+Agarwal A.K.; Sirdesai N.; Agarwal A., 2025, Application of Artificial Intelligence for Predicting Abrasivity using the Chemical Composition of Rocks, Journal of the Geological Society of India, 101(11), 1595-1600, 10.17491/jgsi/2025/174283 5
+Verma S.; Sirdesai N.N.; Goel M.D., 2025, Evaluating the Influence of Varied Specimen Shapes and Cooling Methods on the Tensile Strength of Thermally Treated Jodhpur Sandstone: Implications on Fire-Damaged Monuments, Geoheritage, 17(4), 10.1007/s12371-025-01227-w 6
+Verma S.; Sirdesai N.N.; Goel M.D., 2025, Evaluation of Dynamic Behaviour in Thermally Treated Jodhpur Sandstone: Effects of Cooling Rates on Mechanical Performance and Structural Integrity, Rock Mechanics and Rock Engineering, 10.1007/s00603-025-05042-1 7
+Jiwane V.; Tiwari G.; Goel M.D.; Andraskar N.; Sirdesai N.; Venkateswaran K.P., 2024, Crashworthiness of Ultrathin Aluminum Honeycomb Structure, Mechanics of Solids, 59(3), 1588-1602, 10.1134/S0025654424603550 8
+Verma S.; Sirdesai N.N.; Goel M.D.; Maeder M.; Marburg S., 2024, The Role of Cooling on the Physical-Mechanical Response of Thermally Treated Jodhpur Sandstone: A Major Heritage Stone in India, Geoheritage, 16(4), 10.1007/s12371-024-01034-9 9
+Verma S.; Dass Goel M.; Sirdesai N.N., 2023, Vulnerability analysis of earthquake-driven blast load on a reinforced concrete structure, Proceedings of the Institution of Civil Engineers: Structures and Buildings, 177(2), 159-176, 10.1680/jstbu.22.00165 10
+Chandra V.S.J.; Panchal S.; Sirdesai N.N., 2023, Effect of Coal Seam Presence In-Between Comparatively Denser Layers Over High Wall Slope Stability-A Case Study of Kistaram Project, Singareni Collieries Company Limited (SCCL), Journal of the Geological Society of India, 99(3), 338-344, 10.1007/s12594-023-2316-y 11
+Mahanta B.; Vishal V.; Sirdesai N.; Ranjith P.G.; Singh T.N., 2021, Progressive deformation and pore network attributes of sandstone at in-situ stress states using computed tomography, Engineering Fracture Mechanics, 252, 10.1016/j.engfracmech.2021.107833 12
+Sirdesai N.N.; Mahanta B.; Ranjith P.G.; Singh T.N., 2019, Effects of thermal treatment on physico-morphological properties of Indian fine-grained sandstone, Bulletin of Engineering Geology and the Environment, 78(2), 883-897, 10.1007/s10064-017-1149-6 13
+Sirdesai N.N.; Singh A.; Sharma L.K.; Singh R.; Singh T.N., 2019, Development of novel methods to predict the strength properties of thermally treated sandstone using statistical and soft-computing approach, Neural Computing and Applications, 31(7), 2841-2867, 10.1007/s00521-017-3233-z 14
+Sirdesai N.N.; Gupta T.; Singh T.N.; Ranjith P.G., 2018, Studying the acoustic emission response of an Indian monumental sandstone under varying temperatures and strains, Construction and Building Materials, 168, 346-361, 10.1016/j.conbuildmat.2018.02.180 15
+Sharma L.K.; Sirdesai N.N.; Sharma K.M.; Singh T.N., 2018, Experimental study to examine the independent roles of lime and cement on the stabilization of a mountain soil: A comparative study, Applied Clay Science, 152, 183-195, 10.1016/j.clay.2017.11.012 16
+Sirdesai N.N.; Singh A.; Sharma L.K.; Singh R.; Singh T.N., 2018, Determination of thermal damage in rock specimen using intelligent techniques, Engineering Geology, 239, 179-194, 10.1016/j.enggeo.2018.03.027 17
+Mahanta B.; Sirdesai N.; Singh T.N.; Ranjith P.G., 2017, Experimental Study of Strain Rate Sensitivity to Fracture Toughness of Rock using Flattened Brazilian Disc, Procedia Engineering, 191, 256-262, 10.1016/j.proeng.2017.05.179 18
+Sirdesai N.N.; Singh T.N.; Ranjith P.G.; Singh R., 2017, Effect of Varied Durations of Thermal Treatment on the Tensile Strength of Red Sandstone, Rock Mechanics and Rock Engineering, 50(1), 205-213, 10.1007/s00603-016-1047-4 19
+Sirdesai N.N.; Singh T.N.; Pathegama Gamage R., 2017, Thermal alterations in the poro-mechanical characteristic of an Indian sandstone – A comparative study, Engineering Geology, 226, 208-220, 10.1016/j.enggeo.2017.06.010 20
+Sirdesai N.N.; Singh R.; Singh T.N.; Ranjith P.G., 2015, Numerical and experimental study of strata behavior and land subsidence in an underground coal gasification project, Proceedings of the International Association of Hydrological Sciences, 372, 455-462, 10.5194/piahs-372-455-2015
+S.No.
+Paper Citation 1
+Agarwal A.K., Sirdesai N.N., Katre R., Sirse P., Kayala P., Raushan A., Bhoge C., 2025, Influence of Chemical Composition on Rock Durability: A Study Using Slake Durability Index , Earth Systems and Environment (ESEV) Journal Annual Meeting (ESEV-2025), Istanbul, Türkiye , 28-30 April 2025 2
+Sirdesai N.N., Borugadda S., Kumhare H., Wankhede A., Tota R., Katre R., Agarwal A.K., 2025, A Study on the Chemical Influence on Cohesion and Internal Friction in Rocks , Earth Systems and Environment (ESEV) Journal Annual Meeting (ESEV-2025), Istanbul, Türkiye , 28-30 April 2025 3
+Gadamalla R., Mohanto S., Sirdesai N.N., Panchal S., 2025, Influence of stoping sequence on the stability of decline in an underground hard rock mine , Earth Systems and Environment (ESEV) Journal Annual Meeting (ESEV-2025), Istanbul, Türkiye , 28-30 April 2025 4
+Mohanto S., Kumar A., Shingade M.S., Kumar A., Swamy C., Kumar S., Sirdesai N.N., 2025, Effect of shape of opening on the surrounding considering finite element method , Earth Systems and Environment (ESEV) Journal Annual Meeting (ESEV-2025), Istanbul, Türkiye , 28-30 April 2025 5
+Mohanto S., Sirdesai N.N., Karegaonkar P.M., Rathod H., Thakare H.P., 2025, Effect of Rib Pillar Extraction on the Surrounding Rock Mass with Large Diameter Blasthole Stoping as Method of Extraction , Proceedings of World Congress on Civil, Structural, and Environmental Engineering, Barcelona, Spain, 12-14 April 2025 , DOI: 10.11159/icgre25.159 6
+Panchal S., Sirdesai N.N., Mehadia A.K., Mohanto S., 2025, Numerical Evaluation of Ground Deformation Due To Thermally Stressed Coal Measure Rock in Underground Coal Gasification , Proceedings of World Congress on Civil, Structural, and Environmental Engineering, Barcelona, Spain, 12-14 April 2025 , DOI: 10.11159/icgre25.193 7
+Katre R.R., Sirdesai N.N., Panchal S., 2024, Impact of Thermal Treatment on Abrasivity , 13th Asian Rock Mechanics Symposium (ARMS13), Advances in Rock Mechanics – Infrastructure Development, New Delhi, India, 22–26 September 2024 8
+Verma S., Sirdesai N.N., Panchal S., Katre R.R., 2024, Impact of heat treatment on the modulus of elasticity and the wave velocities of a Jodhpur sandstone: a comparative analysis using destructive and non-destructive techniques, 13th Asian Rock Mechanics Symposium (ARMS13), Advances in Rock Mechanics – Infrastructure Development, New Delhi, India, 22–26 September 2024 9
+Dwivedi R., Gautam P.K., Singh K.H., Sirdesai N.N., Singh T.N., 2023, Study of Progressive Thermal Damage Characteristics of Jalore Granites following Thermal Cycling Effect, 2nd International Conference on Geotechnical Issues in Energy, Infrastructure and Disaster Management (ICGEID 2023), IIT, Patna, India, January 19-20 2023, DOI: 10.1007/978-981-97-1757-6_70 10
+Dwivedi R., Gautam P.K., Singh K.H., Sirdesai N.N., Singh T.N., 2023, Examining the Thermal Expansion and Thermal Strain of Jalore Granites at Varying Heating Rate for a High-Level Radioactive Waste Disposal Site in India , 2nd International Conference on Geotechnical Issues in Energy, Infrastructure and Disaster Management (ICGEID 2023), IIT, Patna, India, January 19-20 2023, DOI: 10.1007/978-981-97-1757-6_71 11
+Katre R.R., Sirdesai N.N., Panchal S., 2023, Influence of Grain-Size on Damage in Thermally Treated Granites-A Review and Novel Quantification Techniques , 15th International ISRM Congress 2023, Salzburg, Austria, October 9-14 2023 12
+Katre R.R., Sirdesai N.N., Panchal S., AgarwaL A.K., 2023, Determination of Brittleness and its Correlation with Physical Properties of Coal Measure Sandstone , 1st SLRMES Conference on Rock Mechanics for Infrastructure and Geo-Resources Development, Colombo, Sri Lanka, December 2-7 2023 13
+Verma S., Goel M.D., Sirdesai N.N., 2022, A Novel Pulse Shaping Technique to Forecast the Tensile Behavior of Brittle Material Using Split Hopkinson Pressure Bar (SHPB) , 13th International High Energy Materials Conference and Exhibits -2022, TBRL Ranges, Haryana India, 26-28 May 2022 14
+Verma S., Goel M.D., Sirdesai N.N., 2022, A Novel Pulse Shaping Technique to Forecast the Behaviour of Brittle Material using SHPB, 13th International Symposium on Plasticity and Impact Mechanics IMPLAST 2022, IIT Madras, Chennai, India, August 21-26 2022 15
+M.D. Goel., S. Verma, S. Panchal, N. N. Sirdesai, 2020, Effect of Material Models on Dynamic Behavior of Reinforced Concrete Slabs Exposed to Blast Loading, International Conference Advances in Civil Engineering (ACE 2020), Nagpur, India, 5-7 November 2020.
+16
+N. N. Sirdesai, Abil Aravind, S. Panchal, 2020, Impact of rock abrasivity on TBM cutter disks during tunneling in various rock formations, International Conference on Advances in Mechanical Engineering (ICAME-2020), Nagpur, India, 10-11 January 2020.
+17
+N. N. Sirdesai, Abil Aravind, Alok Singh, 2019, Correlation of Abrasivity and Physico-mechanical properties of rocks: An Experimental, Statistical and Soft-computing analysis, The 5th ISRM Young Scholars’ Symposium on Rock Mechanics (YSRM 2019) & International Symposium on Rock Engineering for Innovative Future (REIF 2019), Okinawa, Japan, 1-4 December 2019.
+18
+K.M. Sharma, N.N. Sirdesai, A. Tripathy, T.N. Singh, 2018, Micro-Pores and Fluid Flow-A Numerical Study. ARMA 2018, Seattle, Washington, 17-20 June, 2018.
+19
+N. N. Sirdesai, V. Srinivasan, R. Singh, T. N. Singh, 2018, Thermo-Temporal behaviour of uniaxial compressive strength of a fine-grained Indian sandstone, EUROCK 2018, St. Petersburg, Russia, 22-26 May 2018 20
+A. Tripathy, V. Srinivasan, K. K. Maurya, N. N. Sirdesai, T. N. Singh, 2018, Acoustic and failure behavior of Gondwana shale under uniaxial compressive and indirect Brazilian tensile loading – an experimental study, EUROCK 2018, St. Petersburg, Russia, 22-26 May 2018 21
+D. G. Roy, N. N. Sirdesai, T. N. Singh, 2017, Brittleness Index to Quantify the Thermal Damage in Sandstone: A Comparative Approach, RTCWRE 2017, Hyderabad, India, 10-11 August, 2017 22
+Ratan Das, N. N. Sirdesai, T. N. Singh, 2017, Analysis of Deformational Behaviour of Circular Underground Opening in Soft Ground Using Three-Dimensional Physical Model, ARMA 2017, San Francisco, California 25-28 June 2017 23
+N. N. Sirdesai, Bankim Mahanta, Ranjith PG and TN Singh, 2016, Elastic Modulus of Thermally Treated Fine Grained Sandstone using non-contact Laser Extensometer, RARE 2016, Bengaluru, India, 16-18 November 2016 24
+N. N. Sirdesai, Rajesh Singh, T. N. Singh, and P. G. Ranjith, 2015, Numerical and experimental study of strata behaviour and land subsidence in an underground coal gasification project, NISOLS 2015, Nagoya, Japan, 15-19 November 2015 25
+P. K. Singh, Tushar Gupta, N. N. Sirdesai, T.N. Singh, Ratnesh Trivedi, 2014, Stability Analysis for Optimum Exploitation of Limestone of Sheopura Kesarpura Mine, 21st MEMC Week Celebrations, Hyderabad, India, December 2014

@@ -1,0 +1,36 @@
+SOURCE_URL: https://vnit.ac.in/engineering/civil/testing/
+TITLE: Testing
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Testing
+Services
+Building Materials Lab
+Concrete Engineering Lab
+Environmental Engineering Lab
+Geotechnical Engineering Lab
+Transportation Engineering Lab
+Water Resources Engineering Lab
+S.No.
+Testing Services Offered 1
+Testing of Bricks (Red Clay/ Flyash) 2
+Testing of AAC Blocks 3
+Testing of Tiles (Ceramic/ Manglore roofing/ Cement concrete flooring) 4
+Testing of Paver Blocks/ Sandstone 5
+Testing of Cement/ Fly ash/ Aggregates/ Concrete 6
+Testing of Wood
+S.No.
+Testing Services Offered
+S.No.
+Testing Services Offered
+S.No.
+Testing Services Offered
+S.No.
+Testing Services Offered 1
+Bitumen Testing 2
+Aggregate Testing 3
+Road Roughness Test 4
+CBR Test 5
+Bituminous Mix Design
+S.No.
+Testing Services Offered 1

@@ -1,0 +1,143 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-p-d-sawarkar/
+TITLE: Dr. P. D. Sawarkar
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. P. D. Sawarkar
+Brief Bio
+Dr. Pravin Sawarkar graduated in Mechanical Engineering from Nagpur University in 1997, received Masters degree from Indian Institute of Technology Bombay, Mumbai in 2008 and Ph D from Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai in 2018. He is in teaching profession since 1997. He has guided more than Ten M Tech dissertations and three research scholars are pursuing Ph D under his supervision. He is actively engaged in research in thermal science. His current fields of research are Heat transfer enhancement using inserts in pipe flow, Solar energy, Thermal management of photovoltaic panels, Battery thermal management system, Combustion engineering and research on Vortex tube. He acted as Reviewer in some International journals and conferences.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.E.
+1997
+Mechanical Engineering
+Nagpur University 2
+M.Tech 2008
+Thermal and Fluid Engineering
+IIT Bombay 3
+Ph.D.
+2018
+Combustion Engineering
+IIT Madras
+Contact
+Phone:
+Email:
+Address:
+0712- 2801158 psawarkar@mec.vnit.ac.in
+Department of Mechanical Engineering, VNIT Nagpur pdsawarkar123@gmail.com
+Research Interest
+Heat transfer enhancement
+Solar energy
+Thermal management of photovoltaic panels
+Battery thermal management system
+Combustion engineering
+Vortex tube
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Advisory report on problems related to Air conditioning system of operation theatre of IGGMC Nagpur
+IGGMC Nagpur
+Co-ordinator 2019 73000/- 2
+HVAC heat load calculation sheet and drawing vetting of ESIC Hospital Bhilai
+Shreeji Krupa Project Limited, Bhilai
+Co-ordinator 2022 95535/- 3
+Heat load calculations and tonnage of various units of OT/ICU at MH Kamptee
+Grrison Engineering, Kamptee
+Co-ordinator 2023 1,02,660/- 4
+Design document vetting of special repair/replacement to central AC plant at AF station Ojhar
+Shree Ayyappa Engineering, Mumbai
+Co-ordinator 2024 81,222/-
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Self-financed Stort Term Course on Surya Pakavidya: Hands-on Solar Cooker Design, Development and Operation Training, 27-31 May,2024,  VNIT Nagpur 2
+Two week ISTE workshop on Heat Transfer, 29 November 2011 to 10 December 2011 at VNIT Nagpur 3
+Two week ISTE workshop on Thermodynamics in Mechanical Engineering, 14-24 June 2011 at VNIT Nagpur 4
+AICTE-ISTE STTP on Induction Training for Engineering Teachers, 15-27 March 2004 at KITS Ramtek
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Maintaining ACs and water coolers of the institute in working condition, overseeing service contract, suggesting tonnage requirement of labs and faculty rooms to be air conditioned
+VNIT
+Professor Incharge- AC and water cooler maintenance
+December 2010 to December2012, June 2018- February 2024 2
+Fluid Machines Lab
+VNIT
+Professor Incharge 2018 –  Till date 3
+Departmental Exam Coordinator
+VNIT
+Faculty Incharge 2011 4
+Co-Departmental Exam Coordinator
+VNIT
+Faculty Incharge 2010
+Sr. No.
+Awards
+S.No.
+Paper Citation 1
+Tushar B. Umate, Pravin D. Sawarkar, “Thermal performance evaluation of aerogel-enhanced polyurethane insulation panels for refrigerated vehicles: A numerical and experimental study”  Thermal Science and Engineering Progress, 53, 102752, 2024. https://doi.org/10.1016/j.tsep.2024.102752 2
+Tushar B. Umate, Pravin D. Sawarkar, “A review on thermal energy storage using phase change materials for refrigerated trucks: Active and passive approaches”  Journal of Energy Storage, 75, 109704, 2024. https://doi.org/10.1016/j.est.2023.109704 3
+S. S. Ghiwe, V. R. Kalamkar, and P. D. Sawarkar, “A combined combustion and conjugate heat transfer analysis of a hybrid draft biomass cookstove,” Thermal Science and Engineering Progress, vol. 50, p. 102534, 2024.
+4
+Someshwar S. Bhakre, Pravin D. Sawarkar,  and Vilas R. Kalamkar, “Evaporative cooling of photovoltaic panels in dry and hot climatic conditions”, Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, VOL. 45, NO. 4, 11259–11277, 2023. https://doi.org/10.1080/15567036.2023.2256687 5
+Someshwar S. Bhakre, Pravin D. Sawarkar, Vilas R. Kalamkar, “Numerical study on photovoltaic thermal phase change material system in hot climatic condition” Applied Thermal Engineering,  227,  120423, 2023. https://doi.org/10.1016/j.applthermaleng.2023.120423 6
+S. S. Ghiwe, V. R. Kalamkar, and P. D. Sawarkar, “Performance Optimization of Hybrid Draft Biomass Cookstove Using CFD Performance Optimization of Hybrid Draft Biomass Cookstove,” Combustion Science Technology, pp. 1–21, 2023. doi.org/10.1080/00102202.2023.2221817 7
+S. S. Ghiwe, V. R. Kalamkar, S. K. Sharma, and P. D. Sawarkar,  “Numerical and experimental study on the performance of a hybrid draft biomass cookstove,” Renewable Energy, vol. 205, pp. 53–65, 2023. doi:10.1016/j.renene.2023.01.077.
+8
+Someshwar S. Bhakre, Pravin D. Sawarkar, Vilas R. Kalamkar, : “Experimental study on photovoltaic panel integrated with Polyethelene Glycol 1500 phase change material” Journal of Energy Storage, 55, 2022. 55, 105518, 2022. https://doi.org/10.1016/j.est.2022.105518 9
+S. S. Ghiwe, V. R. Kalamkar, M. P. Kshirsagar, and P. D. Sawarkar, “The influence of stove materials on the combustion performance of a hybrid draft biomass cookstove,” Combustion Science and Technology, p 1-21, 2022. doi:10.1080/00102202.2022.2138710.
+10
+Someshwar S. Bhakre, Pravin D. Sawarkar, Vilas R. Kalamkar, “Performance evaluation of PV panel surfaces exposed to hydraulic cooling – A review” is published in Solar Energy, 224, 1193–1209, 2021. https://doi.org/10.1016/j.solener.2021.06.083 11
+Pravin Sawarkar, T.Sundararajan, K.Srinivasan, “Effects of externally applied pulsations on LPG flames at low and high fuel flow rate”,  Applied thermal engineering, 111, 1664-1673, 2017. https://doi.org/10.1016/j.applthermaleng.2016.07.107
+S.No.
+Paper Citation 1
+S. S. Ghiwe, V. R. Kalamkar, and P. D. Sawarkar, “Numerical investigation of the thermal and emissions performance of a hybrid draft biomass cookstove” 8th International Conference on Advances in Energy Research, IITB (ICAER-2022), 7-9 July 2022, Mumbai, India.
+2
+Someshwar S. Bhakre1, Pravin D. Sawarkar, Vilas R. Kalamkar,  Tushar B. Umate, “Numerical analysis of photovoltaic panel integrated with PCM and water container” 26th National and 4th International ISHMT-ASTFE Heat and Mass Transfer Conference, December 17-20, 2021, IIT Madras, Chennai-600036, Tamil Nadu, India, 3
+Someshwar S. Bhakre and Pravin D. Sawarkar, “Effect of Air Distribution on Cooling of Photovoltaic Panel and Its Performance” International Conference on Advances in Mechanical Engineering (ICAME2020),VNIT Nagpur, India.
+4
+Shankar Durgam, Shakkottai Venkateshan, Thirumalachari Sundararajan, Milankumar Nandgaonkar, Pravin D. Sawarkar, and Aaryan Durgam, “Placement of Heated Blocks Under Forced Convection for Enhanced Heat Transfer” International Conference on Advances in Mechanical Engineering (ICAME2020),VNIT Nagpur, India.
+5
+Shankar Durgam, S. P. Venkateshan, T. Sundararajan, M. R. Nandgaonkar, P. D. Sawarkar, Aaryan Durgam,  “Effect of Orientation of Heated Modules in a Vertical Channel” 25th National and 3rd International ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2019), December 28-31, 2019, IIT Roorkee, Roorkee, India.
+6
+Rohit Meshram and Pravin Sawarkar, “CFD Analysis on the Design of Diffuser for Air Cooling of Low Concentrated Photovoltaic/Thermal (LCPVC/T) Solar Collector” International Conference on Applied Mechanical Engineering Research (IC-AMER2019), NIT Warangal,India- May02-05.2019 7
+Pravin Sawarkar,  T.Sundararajan,  K.Srinivasan,“Experimental Investigations on the Effects of Externally Applied Pulsations on LPG Flames”, 23rd National Heat and Mass Transfer Conference and 1st International ISHMT- ASTFE Heat and Mass Transfer Conference, IHMTC2015, ISRO, Thiruvananthapuram, India. 17-20 December, 2015 8
+Dhaval R. Jayawant, Nidhin K., Pravin D. Sawarkar, “Experimental and numerical analysis of vortex tube for maximization of COP”, 22nd National and 11th International ISHMT- ASME Heat and Mass Transfer Conference, IIT Kharagpur, India.  December 28-31, 2013 9
+Gondesi S M Reddy, Hemant Naik, P.D. Sawarkar, “Experimental Analysis of Heat Transfer Enhancement in Pipe Flow by Swirl Flow”, International Conference on Advances in Mechanical Engineering, COEP, Pune, Maharashtra, India. May 29 – 31, 2013 10
+Sawarkar P.D., Kharangate C.R., Gokhale O. S., Vedula R.P, “Use of modified delta wing inserts for heat transfer augmentation in tubular flows”, 35th National Conference on Fluid Mechanics and Fluid Power, PESIT, Banglore, December 11-13,2008
+Outreach Activities 1
+Dr. Pravin Sawarkar delivered an expert lecture as invited speaker in “Renewable Energy Conference (REN2023)”, scheduled during October 23-25, 2023, at Paris, France.
+2
+Dr. Pravin Sawarkar invited to deliver an expert lecture on ” Thermodynamic aspects of vapour cycle and effect of ash deposition on heat transfer”, in Boiler Awareness Program organized by Regional Office, Joint Director of Steam Boiler, Nagpur for boiler engineers, repairs and boiler manufacturers during February 17-18, 2024 at Nagpur.

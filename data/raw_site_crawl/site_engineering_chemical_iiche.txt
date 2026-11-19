@@ -1,0 +1,7 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/iiche/
+TITLE: IIChE
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+IIChE
+Indian Institute Of Chemical Engineers () is a confluence of streams of professionals from academia, research institute and industry. It provides them the appropriate forum for joint endeavors, hand-in-hand, to work for human being through application of chemical engineering and allied sciences.

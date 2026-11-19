@@ -1,0 +1,33 @@
+SOURCE_URL: https://vnit.ac.in/engineering/civil/academics/
+TITLE: Academics
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+ACADEMICS
+& degrees offered
+Degrees Offered
+M.Tech. Course Books
+B.Tech. Course Books
+The Department of Civil Engineering offers a broad-based undergraduate (UG) B.Tech. degree, five postgraduate
+M.Tech. (PG) degrees, and Ph.D. degrees.
+Degree Offered
+Sanctioned Intake
+B.Tech in Civil Engineering 120
+M.Tech in Construction Technology & Management 20
+M.Tech in Environmental Engineering 20
+M.Tech in Geotechnical Engineering 20
+M.Tech in Transportation Engineering 20
+M.Tech in Water Resources Engineering 20
+MBA in Advanced Construction Management (ACM) 30
+PhD in all the above specializations
+Varies every year
+For more details about admissions and eligibility, visit:
+https://vnit.ac.in/admission/
+Click for M.Tech course books containing the course scheme, credit requirements, and syllabus of each M.Tech specialization:
+M.Tech TRE Coursebook
+M.Tech WRE Coursebook
+M.Tech CTM Coursebook
+M.Tech ENV Coursebook
+M.Tech GTE Coursebook
+Click for B.Tech. course books containing the course scheme, credit requirements, and syllabus of the B.Tech. degree:
+B.Tech Course Books

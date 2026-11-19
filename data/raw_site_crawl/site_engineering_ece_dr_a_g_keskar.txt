@@ -1,0 +1,60 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/dr-a-g-keskar/
+TITLE: Dr. A. G. Keskar
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. A. G. Keskar
+Brief Bio
+Sr. No.
+Degree
+Year
+Specialization
+University
+Phone:
+Email:
+Address:
+Research Interest
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year
+Sr. No.
+Awards
+S.No.
+Paper Citation
+S.No.
+Paper Citation

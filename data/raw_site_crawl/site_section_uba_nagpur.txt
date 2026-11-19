@@ -1,0 +1,226 @@
+SOURCE_URL: https://vnit.ac.in/section/uba/nagpur/
+TITLE: Nagpur
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Nagpur
+Sr.No
+Institute
+District
+Village
+Name of Coordinator 1
+Aakar Institute of Management and Research Studies, Shankar Nagar
+Nagpur
+Ms Roshani Kailash Kakde 2
+Nagpur College of Pharmacy
+Nagpur
+Dhanoli,Kinhi (Dhanoli),Mangli,Khairi Khurd(Pradhan),Nanda Kh,
+Madhav B Korde 3
+Datta Meghe College of Nursing
+Nagpur
+Umari (Wagh),Kinhi,Mhasala,Sumthana,Zilpi,
+Mr Shirish Walmik Gawai 4
+Pws Arts Commerce College, Indora
+Nagpur
+Godhani (Railway),Bhokara,Koradi,Besa,Takali (Bhansali),
+Dr Sushant Chimankar 5
+Datta Meghe College of Physiotherapy
+Nagpur
+Agargaon,Sondapar,Nagalwadi,Bhivkund,Mangrul,
+Dr Milind kahile 6
+Matoshree Anjanabai Mundaphule Social Work and Arts College, Narkhed
+Nagpur
+Thugaon (Nipani),Khedikaryat,Gondegaon,Mohadi (Dhotra),Pimpalgaon (Wakhaji),
+BALAJI GANPAT ADE 7
+Adarsh Institute of Pharmacy, Nagpur
+Nagpur
+Pipla,Linga,Chikana,Nawegaon,Mohgaon Kh,
+Shabnam Saher 8
+Datta Meghe Ayurvedic College, Hospital and Research Centre
+Nagpur
+Mandavghorad,Digdoh Devi,Isasani,Nildoh,Junewani,
+DRASHLESHA GUNDRE 9
+Suryoday College of Engineering and Technology, Vihirgaon
+Nagpur
+Nimbha,Pandhurna,Pandherkawada,Khedi,Adyali,
+Dr Kalpana Devidasrao Malpe 10
+Aakar College of Management For Womens, Hingna, Nagpur
+Nagpur
+Girola,Gumgaon,Kavdas,Khairi (Sita),Wayfal,
+Pranoti S Punwatkar 11
+Laxminarayan Innovation Technological University, Nagpur
+Nagpur
+Ghorad,Ubali,Susundri,Waregaon,Madhasawangi,
+Dr. Jaykumar B. Bhasarkar 12
+Dr.Ambedkar College, Deekshabhoomi
+Nagpur
+Wagdara (Gumgaon),Kirmati,Kotewada,Kapsi Kh,Bramhani,
+Dr Dhanashri Borikar 13
+Nagpur Veterinary College, Nagpur
+Nagpur
+Nilgaon,Parsodi (Rithi),Kokarda,Panubali,Sonoli (Rithi),
+Dr. Vaishali V. Banthiya 14
+Sonekar College of Pharmacy, Koradi
+Nagpur
+Mahadula,Suradevi,Dahegaon(Rangari),Ghoghali,Nandakhurd (Rithi),
+Dr. Rajesh A. Sahu 15
+Julekha College of Commerce Science and Technology
+Nagpur
+Khaparkheda (Jangali),Vihirgaon,Narsala (Ri),Koradi Ct,Juni Kamptee,
+Inderjeet Ramteke 16
+Shri Chatrapati Shivaji Kala Mahavidyalaya , Asegaon Purna , Tq- Chandur Bazar.
+Nagpur
+Hiwara(Pathrai),Ambapati,Chichati,Bhopapur,Kuralna,
+Dr.Harish Kale 17
+Orange City College of Social Work, Koradi Road, Nagpur
+Nagpur
+Tandulwani,Lonkhairi,Babulkheda(Rithi),Pendhari,Kothulana,
+Dr. Vijay Tupe 18
+Nagpur Institute of Technology, Katol Road
+Nagpur
+Bodhala,Chicholi,Borgaon Kh.,Fetari,Bhartwada,
+Prof. Rahul Kadam 19
+Priyadarshini College of Engineering, Hingna Road, Nagpur 44019
+Nagpur
+Jirola (Rithi),Bidkawadas,Turagondi,Metaumari,Wadegaon,
+Dr.Prashant R.Rothe 20
+Jawaharlal Nehru Arts Commerce and Science College, Wadi
+Nagpur
+Khadgaon,Shirpur,Gondkhairi,Waddhamana,Lava,
+Sarang S. Khadse 21
+K.D.K.College of Engineering, Nagpur
+Nagpur
+Singori,Vagholi,Kamthi,Jamuniya,Bhulewadi,
+Dr. Pundlik G. Mehar 22
+Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya, Ramtek
+Nagpur
+Khairi(Na),Parsoda,Sitalwadi,Morwadi,Bijewada,
+Dr Dinkar Marathe 23
+Mukunrajswamicollege, Pachkhedi
+Nagpur
+Ratnapur,Pachkhedi T.Sa.Kr.49,Sonpuri,Dahegaon,Welgaon,
+M.G Hargude 24
+Smt Kishoritai Bhoyar College of Pharmacy, Kamptee
+Nagpur
+Bina,Gadami,Kadoli.,Temsana,Ghorpad,
+Mayur Kale 25
+Kamla Nehru College, Sakkardhara
+Nagpur
+Hudkeshwar Kh.,Dhamna 36 A,Kanhalgaon P.C. No. 38,Kirnapur (Rithi) P.C. No. 75,Kharsoli,
+Dr. Mamta S Wagh 26
+Jhulelal Institute of Technology, Lonara
+Nagpur
+Bailwada,Lonara,Gumthala,Chakkikhapa,Gumthi,
+Dr. Uma Patel 27
+Shri Ramdeobaba College of Engineering and Management, Nagpur
+Nagpur
+Chargaon,Surabardi,Bothali (Ki),Muradpur,Bendoli,
+Chandan Vichoray 28
+Sb Jain Institute of Technology Management and Research, Yerla
+Nagpur
+Dahegaon,Khandala (Kh),Sawangi (Bk),Pardi (Rithi),Borgaon (K),
+Dr. Pankaj Thote 29
+Rs Mundle Dharampeth Arts Commerce College
+Nagpur
+Bhilgaon,Godhani,Masala(Ch),Bhartwada,Khasala,
+Dr.Sandhya Nair, Principal 30
+Mathuradas Mohta Science College, Nagpur
+Nagpur
+Pachgaon,Dabha,Banwadi,Umergaon,Pewatha,
+Dr. Vaishali H. Badiye 31
+Centre For Advanced Education Institute of Management Technology
+Nagpur
+Dhamna (Linga) (Rithi),Kalambi,Waroda,Sawali (Mohatkar),Ashti Bk.,
+Prof. M M Fadnavis 32
+Guru Nanak Institute of Engineering and Technology, Dahegaon
+Nagpur
+Mohpa,Sahuli,Dhapewada Kh.,Kohali,Adasa,
+Prof. Milind R. Rode 33
+Vidarbha Institute of Technology, Bhiwapur
+Nagpur
+Udasa,Paradgaon,Champa,Bhiwapur,Uti,
+Prof. Kiran M. Kimmatkar 34
+Wainganga College of Engineering and Management, Dongargaon, Nagpur
+Nagpur
+Wagdara (I.Rithi),Jamanapur,Panjari (Brk) P.C. No. 42 A,Khapari(Railway),Jamtha,
+Dr. D. R. Tutakane 35
+Guru Nanak Institute of Technology, Dahegaon
+Nagpur
+Tondakhairi,Bhadangi,Zunki,Sawali Bk.,Sindi,
+Pawan Dilip Barhate 36
+Tulsiramji Gaidwad Patil Institute of Engneerind and Technology, Mohgaon
+Nagpur
+Mohgaon P. C. No. 74,Mohgaon,Turkmari,Sonegaon(Rithi),Sirul,
+Prof. Praful Randive 37
+Dadasaheb Balpande College of Pharmacy, Besa Road
+Nagpur
+Wela Harichandra,Pipala (Bhadi),Gotal Pajri,Shankarpur,Ghogali (Gra),
+Mr. Sachin More 38
+St.Vincent Palloti College of Engineering and Technology, Warha Road
+Nagpur
+Dongargaon,Khasarmari,Khatmari,Panjari Lodhi,
+Dr Ashutosh S Werulkar 39
+Sri.Shivaji Science College, Congressnagar
+Nagpur
+Selu,Salwa,Sawangi (Bk),Mahuli,Kalambha,
+Dr. R. N. Deshmukh 40
+Maharashtra Animal and Fishery Sciences University, Nagpur
+Nagpur
+Pethkaldongari,Morgaon Bhakare,Haibatpur,Ghonsi,Sawangi,
+Dr. Sariput Landge 41
+G.H.Raisoni College of Engineering , Nagpur
+Nagpur
+Ridhora(Rithi),Narasala,Rampuri,Bhagimahari,Tidangi,
+Prof Kuldeep R Dabhekar 42
+Sri Niketan Arts Commerce College, Tulsibag
+Nagpur
+Nandikheda,Chorkhumari,Pilkapar,Telkamthi,Mandvina,
+Prof Bharti Sudarshan Goswami 43
+Gopal Education Soceity`S Shri Mukundrao Pannase Polytechnic, Mauza Mondha
+Nagpur
+Amgaon (De),Mondha,Pachkhedi T.Sa.Kr.49,Panjra (Kate),Mohagaon (Jangali),
+Vinod Lonare 44
+Government Institute of Forensic Science, Nagpur
+Nagpur
+Kadampazhipuram-Iina,Karimpuzha-Ina,Sreekrishnapuram -Iina,Sreekrishnapuram -Ina,Kadampazhipuram-Ina,
+Dr. Malojirao S. Bhosale 45
+Datta Meghe Institute of Medical Sciences, Nagpur
+Nagpur
+Umari Mamdabad,Waigaon,Dahegaon,Salod (Hirapur),Neri(Saza.Nimgaon),
+Dr Abhishek Joshi 46
+Anjuman College of Engineering and Technology
+Nagpur
+Ranala,Yerkheda,Bhokaramba,Brahmanwada,Pithesur (Rithi),
+Dr. Zakir Shaifullah Khan 47
+Government College of Engineering
+Nagpur
+Wela Harichandra,Khapari(Railway),Shankarpur,Kalkuhi,Dahegaon,
+Jasmirkaur Randhawa 48
+Cummins College of Engineering For Women, Mauja
+Nagpur
+Salaimendha,Mandawa (Mahara),Pipaldhara,Katangdhara,Lakhamapur,
+Mr. Yogesh V. Dandekar 49
+Yashwantrao Chavan Engineering College, Wanadongri, Hingna Road
+Nagpur
+Wanadongri (Rithi),Degma(Bu),Raipur,Degma Kh,Sukali,
+Dr. Aniket P. Munshi 50
+Indian Institute of Management, Nagpur
+Nagpur
+Hingna,Dahegaon,Isasani,Khadka,Aalesur,
+Papi Reddy 51
+Visvesvaraya National Institute of Technology, Nagpur
+Nagpur
+Mendha,Petha (S),Chirwha,Nandora,Rotha,
+Prof. Avinash Vasudeo 52
+Dr Ambedkar Institute of Management Studies Research, Deekshabhoomi
+Nagpur
+Wakeshwar,Sindivihiri,Tumdi,Junapani,Metmangrud (Ri),
+Dr. M. J. Siddiqui 53
+Hislop College, Temple Road, Civil Lines, Nagpur
+Nagpur
+Mohgaon ( Buj ),Madavghoradhingna,Zilpi Hingna,Mangli,Kinhi,
+Mr. VIJAY KUMAR 54
+Shri Sai Shikshan Sanstha`S Nit Polytechnic, Nagpur
+Nagpur
+Mahurzari,Mendhepathar,Brahmanwada,Yerla,Borgaon,
+GAJANAN FAKIRAJI POTBHARE

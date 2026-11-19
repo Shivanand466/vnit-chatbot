@@ -1,0 +1,358 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/placements/
+TITLE: Placements
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Placements
+Click the below tabs to know the year wise placement details of our students 2025-26 2024-25 2023-24 2022-23 2021-22 2020-21 2019-20 2018-19 2017-18 2016-17 2015-16
+Sr. No.
+Company Name
+CTC (in lakhs)
+No.of students placed 1
+HPCL 17.71 7 2
+ITC 14 2 3
+Reliance 7.5 4 4
+THERMAX 10 2 5
+SRF 7 1 6
+Johnson and Johnson 17 1 7
+JSW 8.
+1 8
+Mondeleze 13.8 2 9
+Vishakha group 7.8 1 10
+ABG 7.5 2 11
+LLOYDS CONSULTING 6 2 12
+Remal Alcast Pvt Ltd 6.47 4 13
+Kalyani steels Ltd 6 1 14
+Saint-Gobain India Ltd 7.4 1 15
+Borosil Ltd 7 2 16 jupitor 6 6 17
+ProcDNA 11.67 1 18
+ZS Associates 14.15 6 19
+ICICI 12 3 20
+GOLDMAN SACHS 30 1 21
+Raam group 10 1 22
+ACUITAS 360 6 1 23
+Ether (Product Specialist) 6 1 24
+Allen 6.6 1 25
+Tata steel 3.6 0 26
+Jacobs solution India Pvt Ltd 5 0 27
+JK Maini Precision (Rayond Group) 6 0 28
+Novasensa 7.1 0 30
+AXXELA 14.1 0 31
+TRANSORG 8 0 32
+Aspect Ratio 14 0 33
+IQVIA 8 0 34
+Tredence analytics 12 0 35
+Addverb 16 0 36
+TCS 9.09 0 37
+Axis Bank 8.2 0 38
+Analog devices 10 0 39
+Opus technologies 7 0 40
+CEAT 11 0 41 cubastion consulting 7.72 0 42
+Microland Limited 10 0 43
+NStarX Inc 6 0 44
+Ether 11 0 45
+Ugaoo 6 0 46
+Maxlife insurance 6 0 47
+Aakash institute 9 0
+Placed students
+Core 39
+Non -Core 15
+Total Placed 54
+Sr. No.
+Company Name
+CTC (in lakhs)
+No.of students placed 1
+Merylitics 8.5 1 2
+ITC 14 2 3
+Aspect Ratio 14 1 4
+Micron Technology 13.17 1 5
+ABG 7 3 6
+Reliance 7.5 4 7
+Hyundai 8.05 1 8
+JSW 8 8 9
+SunPharma 7 5 10
+Veedol 5 3 11
+Relaince(off-campus) 7.5 2 12
+Mondelez 12 1 13
+Radiant HE 6 4 14
+Praj Industries 4.5 1 15
+Shree Cemet 6 5 16
+Accenture 11.89 1 17
+ZS Associates 13.65 1 18
+ICICI 11.4 1 19
+Axis Bank 8.02 1 20
+Microland 10 1 21
+IIT Science Point 6 3 22
+Nice Software 7.13 1
+Total Placed 47
+Sr. No.
+Company Name
+CTC (in lakhs)
+No.of students placed 1
+Exxonmobil 11.67 2 2
+ITC 12.5 7 3
+JSW 8 4 4
+HPCL(PAN) 16.97 2 5
+Tata Steel – PPO 11.88 1 6 reliance -PPO 7.5 3 7
+Lupin 10 3 8
+Aditya Birla 7 3 9
+Reliance 7.5 8 10
+Greenko 6 1 11
+Cairn 10.6 1 12
+Essar UK Oil 8 4 13
+Vedanta 14 5 14
+Adani 6 2 15 fractal 9.5 2 16
+Swiss re 14 1 17 incedo 7.55 2 18
+CTRLS CLOUD4C 8 1 19
+Tredence 6.5 1 20
+O9 Solutions 10.32 1 21
+Microland 10 1 22
+IQVIA 8.15 2 23
+Addverb 16.7 1 24
+Genpact 10.11 1
+Total Placed 59
+Sr. No.
+Company Name
+CTC (in lakhs)
+No.of students placed 1
+BNY Mellon 21.4 1 2
+ExxonMobil 11.81 4 3
+PWC 9 9 4
+Deloitte 8.1 4 5
+Fractal Analytics 12 1 6
+Aspect Ratio 14 2 7
+Godrej Industries 6.5 2 8
+ICICI 11.5 4 9
+Citi 18 1 10
+Accenture 11.89 5 11 o9 Solutions 10.5 2 12
+Cogoport 13 1 13
+Technip India 8 1 14
+Hilti 20.1 1 15
+Hindustan Unilever 13.5 3 16
+Novartis Healthcare 8 1 17
+BPCL 18.95 4 18
+Reliance Industries 7.5 6 19
+Cairn Oil & Gas 13.95 4 20
+ITC 12 3 21
+Vedanta HZL 13.95 5 22
+Essar UK Services 7.5 4 23
+Jio 10.5 2 24
+Sun Pharma 7.5 3 25
+Alfa Laval 6 3
+Total Placed 76
+Sr. No.
+Company Name
+CTC (in lakhs)
+Campus Date
+No.of students placed 1
+Hilti 16.62 31-07-19 1 2
+Citi(PPO) 13.7 05-08-19 1 3
+ICICI 11.05 07-08-19 1 4
+Deloitte 8.1 08-08-19 6 5
+Fractal Analytics 10.5 09-08-19 1 6 159 Technology Solutions 7.05 20-08-19 1 7
+Godrej Industries 6 23-08-19 1 8
+Larsen & Toubro Ltd 6 26-08-19 2 9
+Cairn Oil and Gas 13.3 06-09-19 3 10
+Byjus 7 11-09-19 4 11 o9 Solutions 8.65 13-09-19 2 12
+IQVIA 8.03 16-09-19 2 13
+Exxon Mobil 11.41 23-09-19 4 14
+Capgemini 7.5 26-09-19 2 15
+Genpact 11.4 03-10-19 3 16
+Wipro 6.5 03-10-19 3 17
+SunPharma 5.75 18-10-19 1 18
+Reliance Industries 9 06-11-19 7 19
+TCE Ltd 4.5 1 20
+OCCL 6 15-11-19 2 21
+BridgeStone 9 16-12-19 1 22
+SRF 6 02-01-20 1 23
+Jio 8.25 27-01-20 3 24
+Deepak Fertilisers 5.4 20-02-20 4 25
+Iquanti 8.15 14-03-20 3
+Total Placed 60
+Sr. No.
+Company Name
+CTC (in lakhs)
+Campus Date
+No.of students placed 1
+CITI India (PPO) 13.75 01-08-20 1 2
+ExxonMobil 10.81 10-09-20 4 3
+Axxela Advisory Services LLP 11 26-08-20 1 4
+Deloitte 8.1 14-09-20 2 5
+O9 Solutions 8.71 09-09-20 2 6
+ZS Associates 8.93 23-10-20 1 7
+Godrej Industries 6 26-01-21 1 8
+Addverb Technologies 14.2 22-11-20 1 9
+LnT 6 09-12-20 2 10
+InfoCepts 4.62 15-12-20 1 11
+TCS Innovator 9 27-01-21 4 12
+Sun Pharma 5.25 12-01-21 4 13
+Technip Energies 6.2 28-04-21 1 14
+Capgemini 6.8 02-11-20 2 15
+Hindustan Unilever 13 28-11-20 1 16 iQuanti 6.6 11-02-21 4 17
+Lupin 6 19-02-21 2 18
+Vedanta 7.95 23-02-21 1 19
+Galaxy Surfactants 5.77 30-05-21 1 20
+Prism Johnson 7.5 03-06-21 2 21
+JSW 6 17-06-21 2 22
+Quantiphi 8.5 13-07-21 1
+Total Placed 41
+Sr. No.
+Company Name
+CTC (in lakhs)
+Campus Date
+No.of students placed 1
+Goldman Sachs 23 31-07-19 1 2
+ExxonMobil 10.72 05-08-19 3 3
+Box8 17 07-08-19 3 4
+Deloitte 8.1 08-08-19 2 5
+Fractal Analytics 8.5 09-08-19 1 6 159 Technology Solutions 7.03 20-08-19 4 7
+Godrej Industries 6 23-08-19 2 8
+Larsen & Toubro Ltd 6 26-08-19 9
+Ninjacart 5 06-09-19 1 10
+Transorg Solutions and Services 6 11-09-19 1 11 o9 Solutions 8.65 13-09-19 2 12
+IQVIA 7 16-09-19 2 13
+Technip India 5.16 23-09-19 1 14
+Capgemini 6.8 26-09-19 1 15
+Hindustan Unilever 9.6 03-10-19 1 16
+Novartis Healthcare 8.36 03-10-19 2 17
+RAAM Group 4.8 18-10-19 2 18
+Reliance Industries 7.5 06-11-19 7 19
+TCE Ltd 1 20
+ACC Ltd 4.2 15-11-19 1 21
+Sudarshan Chemical Industries 4 16-12-19 1 22
+Coromandel International Ltd 6 02-01-20 1 23
+ADM Agro Industries India 5.5 27-01-20 1 24
+HPCL 14.8 20-02-20 1 25
+Aarti Industries 5.5 14-03-20 1
+Total Placed 43
+Sr. No.
+Company Name
+CTC (in lakhs)
+Campus Date
+No.of students placed 1
+Fidelity Investments 12.93 31-Jul-18 2 2
+Larsen & Toubro Ltd.
+6 01-Aug-18 2 3
+Quantiphi Inc 8 03-Aug-18 2 4
+GEP 7.5 05-Aug-18 2 5
+ZS Associates 6.53 07-Aug-18 1 6
+Deloitte 6.7 08-Aug-18 1 7
+Exxon Mobil 9.37 09-Aug-18 3 8
+CGI 7 13-Aug-18 1 9
+Reliance 5.5 17-Aug-18 10 10
+Godrej (Chemical Division) 6 18-Sep-18 2 11
+TCE Ltd.
+4.5 28-Sep-18 3 12
+ADM Agro India 5.5 03-Oct-18 1 13
+Sudarshan Chemical Industries Ltd.
+4 22-Oct-18 3 14
+Coromandel International Ltd 6 17-Nov-18 3 15
+Pidilite 6 07-Dec-18 1 16
+Aditya Birla (Hindalco) 6 11-Dec-18 5 17
+JSW 4.5 12-Dec-18 1 18
+Vedanta 6 13-Dec-18 1 19
+Technip 5.16 19-Dec-18 1 20
+Nuvoco Vistas Corp Ltd 5.42 08-Jan-19 1 21
+BYJU’S 7 15-Jan-19 3 22
+AARTI INDUSTRIES LIMITED 4 06-Feb-19 1 23
+BORL 5.4 06-Feb-19 1 24
+Deepak Fertilisers and Petrochemicals Corporation Ltd.
+4.5 07-Mar-19 3
+Total placed 54
+Sr. No.
+Company Name
+CTC
+Campus Date
+Chemical 1
+UPL Limited 6 22-Jul-17 2 2
+Future First 12.4 02-Aug-17 1 3
+Deloitte 6.7 10-Aug-17 3 4
+Sun Pharmaceutical Industries Ltd 5.75 24-Aug-17 1 5
+L&T Ltd.-EBG 4.87 05-Sep-17 1 6
+ExxonMobil 8.8 07-Sep-17 3 7
+Wipro 5 14-Sep-17 1 8
+Reliance PetroChemical 5.5 20-Sep-17 2 9
+Reliance Industries 6 20-Sep-17 9 10
+Infosys Ltd.
+3.5 10-Oct-17 1 11
+NFIL-Mafatlal 3.5 11-Oct-17 1 12
+Pidilite Industries Limited 6 06-Nov-17 1 13
+ADM Agro Industries India Pvt. Ltd.
+5.25 14-Nov-17 1 14
+BPCL 17.3 15-Nov-17 4 15
+Godrej Industries (Chemicals Division) 6 29-Nov-17 2 16
+TATA Consulting Engineers Ltd.
+4.5 01-Dec-17 1 17
+Aditya Birla Group 6 14-Dec-17 5 18
+Sudarshan Chemical Industries Limited 4 05-Jan-18 1 19
+Orient Cement 4 01-Feb-18 1 20
+Hindustan Unilever Limited 8.6 27-Feb-18 1 21
+Lupin Ltd.
+5.5 03-Apr-18 2
+Total Placed 44
+Sr. No.
+Company Name
+CTC (in lakhs)
+Campus Date
+No.of students placed 1
+HUL-PPO 7 11-Jul-16 1 2
+Nykaa.com 6.5 04-Aug-16 1 3
+ZS Associates 6.53 10-Aug-16 2 4
+Godrej Industries Limited-PPO 4.5 12-Aug-16 1 5
+Deloitte 5 30-Aug-16 3 6
+ACG Worldwide 4.5 09-Sep-16 1 7 mSupply.com 4.2 19-Sep-16 1 8
+Sun Pharmaceutical Industries Ltd 5.25 21-Sep-16 1 9
+ADM Agro Industries India Pvt Ltd 5 29-Sep-16 1 10
+Godrej Industries Ltd 5.25 30-Sep-16 1 11
+Vedanta Ltd.
+5.5 03-Oct-16 2 12
+Reliance Industries Ltd.
+5.5 03-Nov-16 9 13
+Ntex Transportation Services Pvt Ltd (ElasticRun) 8 09-Nov-16 1 14
+SHV Energy 4.63 10-Nov-16 1 15
+Infosys Ltd.
+3.25 06-Dec-16 2 16
+PepsiCo India Holdings 7 27-Dec-16 1 17
+Avanti Fellows 4 02-Jan-17 1 18
+Birla Century 5.45 04-Jan-17 2 19
+BASE Educational Services Pvt Ltd 5.7 05-Jan-17 3 20
+Pidilite Industries Ltd.
+5 12-Jan-17 1 21
+Lafarge India Ltd.
+4 18-Jan-17 2 22
+Jubilant Life Sciences Ltd.
+5.5 17-Feb-17 2 23
+Reliance Industries-Petrochemical Business 5.5 23-Feb-17 2 24
+Orient Cement 4 04-Apr-17 5 25
+ONGC Petro additions Ltd.
+4 10-Apr-17 1
+Total Placed 48
+Sr. No.
+Company Name
+CTC (in lakhs)
+Campus Date
+No.of students placed 1
+HUL-PPO 9.6 24-Jul-15 1 2
+ZS Associates 6.38 03-Aug-15 1 3
+Mu Sigma Business Solutions 4.5 19-Aug-15 1 4
+Fractal Analytics Pvt. Ltd.
+6 03-Oct-15 1 5
+Infosys Limited 3.28 20-Oct-15 1 6
+Godrej Industries 4.25 05-Nov-15 1 7
+VA Tech Wabag 4.23 05-Nov-15 2 8
+Nykaa India Pvt Ltd.-Normal 5 01-Dec-15 2 9
+SHV Energy Pvt. Ltd.
+4.25 08-Dec-15 2 10
+Reliance Industries Ltd 5.5 09-Dec-15 6 11
+Pidilite Industries Ltd.
+4.25 11-Dec-15 2 12
+Vedanta Resources 4.5 19-Dec-15 3 13
+Sterlite Technologies Limited 4.5 08-Jan-16 1 14
+Lafarge India Pvt Ltd.
+4 13-Jan-16 1 15
+Adani Ports 4 15-Jan-16 1 16
+HPCL 10.64 11-Apr-16 3 17
+Orient Cement Limited 4 12-May-16 4 18
+Sun Pharmaceutical Industries Ltd 5 13-Jun-16 2
+Total Placed 35
+Companies which hired our students recently

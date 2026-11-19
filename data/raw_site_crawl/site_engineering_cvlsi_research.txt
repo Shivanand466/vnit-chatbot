@@ -1,0 +1,612 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cvlsi/research/
+TITLE: Research
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Research At Centre For VLSI & Nanotechnology Department
+Projects
+Patents
+Short Term Training Program (STTP)
+Books
+Journals
+Conferences
+DST and INAE (under INDIA-TAIWAN Cooperation Division)
+Design and Development of Group-III nitride based LEDs for UV-Blue region for underwater communication (in Collaboration with
+National Science and Technology Council, Taiwan
+)
+Project Duration – 2024-2027
+DRDO – SSPL
+Design and Computational Optimization of Group III-nitride High Power Laser Source (in Collaboration with
+Solid State Physics Laboratory, DRDO
+)
+Project Duration – 2022-2025
+ISRO
+Development of Photodetector for low intensity light levels in UV/VIS/IR wavelength regions (in Collaboration with
+Satellite Application Centre, Ahmedabad and National Atmospheric Research Lab, Tirupati
+)
+Project Duration – 2022-2025
+CSIR
+Solar-driven self-biased Bio-photoelectrochemical cells for waste water treatment and hydrogen production
+Project Duration – 2023-2026
+BRNS
+Ultra Low Current (pA and below) Source & Measurement for Scientific Instrumentation
+The present trend in semiconductor devices is towards low cost and low power consumption with better operating speed and functions. To address this trend the circuits and the systems are been designed in deep sub micron technologies with ultra low supply voltages. So it is always necessary to measure and source the currents at fempto level and voltages at pico level, but the presently available digital multi meters (DMMs) are generally adequate for measurements at signal levels greater than 1μV or 1μA, or less than 1G Ωohm.  Among all the flicker noise become an important part of DC measurements and also generation of such a low level current requires very high resistances which introduces mismatches in sourcing because of its temperature and process variations. In this project we are proposing three different methods for pico ampere current sourcing and also aiming to study the different error sources at such low level measurements, to design and develop the fempto-ammeters and pico voltmeters considering noise effects and finally to measure and suppress the flicker noise in DC measurements.
+Nanoelectronics: Characterisation and Simulation of Nano-Devices
+Project ended on March 2012
+The project “Characterization and Simulation of Nanodevices” is sponsored by Ministry of Communication & Information Technology (MCIT), Government of India. The main objective of this project is to Establish a framework for nano-electronics device design, simulation and testing in at VNIT Nagpur.
+It is predicted that Nanotechnology will have a profound impact on economy and human society in the years ahead. The nanotechnology applications that are eventually commercialized will help to provide us with new and exciting products that will improve our lives in countless ways. This project aims at fabrication of very important nanoelectronic component, quantum dots and nanocrystals. The aim is also to produce them with the process which is compatible to existing CMOS process. Progress of the nanotechnology depends on the trained manpower. This set-up is also being used for manpower training in the area of Nanotechnology and CMOS process.
+Quantum dots are attractive options for many applications and recently their use for dynamic angiography has been demonstrated successfully. It is expected that hybrid electronic systems, in which traditional VLSI technology, integrated with nano components will show its presence in the market very soon.
+Vasu Pulijala, “A Device for Early Detection and Screening of Malaria”.
+Vasu Pulijala, “A Completely Miniaturized On-Chip Electron Paramagnetic Resonance Sensor “.
+Vasu Pulijala, “A Completely Miniaturized On-Chip Electron Paramagnetic Resonance Sensor”
+Rajesh S. Pande, R.M.Patrikar, Deepak G. Khushlani & Akanksha D. Singh “MEMS Cantilever Switch as Low Pass Filter” (IDEA Patent)
+Nikhil Deep Gupta and B. Kranthi Kumar, “Perovskite-Silicon Tandem Solar Cell with periodically arranged SiO 2
+Nanoparticles embedded in Indium Tin Oxide Anti-Reflection Coating”
+R. M. Patrikar & T.Pravinraj, “Surface Roughness based Micromixers”.
+Rajendra M. Patrikar, “Polymer Electrostatic MEMS Cantilever beam”.
+Sharvari Deshmukh, Tushar Gawande, “A Handheld Electronic Device for Measurement of Industrial Air Pollutant”
+Sharvari Deshmukh, Tushar Gawande, “An Electronic Nose System for Sensing Hazardous Air Pollutant”
+R. B. Deshmukh, W.S. Khokle “Method and Components for Digital Filter Reuse with Circuit for Computing DWT”
+R. M. Badghare, R.B. Deshmukh and R. M. Patrikar “Method and Circuits for Performing Two’s Complement of a Binary Number”
+Amol Morankar & R.M.Patrikar, “MEMS Based High Q and Self Tunable Band Pass Filter”
+Jan. – 2024, Prof. Vikram Dalal, Distinguished Prof. from Department of Electrical and Computer Engineering at Iowa State University, Ames, USA has delivered a lecture at Centre for VLSI and Nanotechnology, VNIT, Nagpur under
+IEEE Distinguished Lecture program on “
+Perovskites – The new frontiers for Solar Photovoltaic Energy Conversion: Science and Technology
+”.
+May – 2023,
+Enlightenment 2023 – Workshop on Research and Applications in Photonics
+, at Centre for VLSI and Nanotechnology, VNIT, Nagpur held from 16 th to 18 th
+May, 2023 on Occasion of International Day of Light. Sponsored by IEEE Photonics Society.
+Nov. – 2022, Dr. Satyanaryana Bheesete from Department of High Energy Physics, Tata Institute of Fundamental Research (TIFR), Mumbai has delivered a lecture at Centre for VLSI and Nanotechnology, VNIT, Nagpur on “
+Indian mega science experiments: Spinoffs to the academic and engineering communities
+”.
+Aug. – 2022, Prof. V. Ramgopal Rao, Former Director, IIT Delhi (India) has delivered a lecture at Centre for VLSI and Nanotechnology, VNIT, Nagpur under
+IEEE Distinguished Lecture program on “
+Connecting Academic R&D with Product Innovation:  A Way forward
+”.
+May – 2022, Prof. Rana Biswas from Department of Physics & Astronomy and Department of Electrical and Computer Engineering at Iowa State University, Ames, USA has delivered a lecture at Centre for VLSI and Nanotechnology, VNIT, Nagpur on “
+Controlling light with photonic nanostructures
+”.
+Mar. – 2022, Dr. Roshan Makkar from Photonics Division, Society for Applied Microwave Electronics Engineering & Research (SAMEER), Mumbai has delivered a lecture at Centre for VLSI and Nanotechnology, VNIT, Nagpur on, “
+Photonics for healthcare
+”.
+Dec., 2018 – The department organized a prestigious “International Symposium on Semiconductor Materials and Devices (ISSMD-2018)”
+Books/ Book Chapters
+Recent Advances in Communications Systems and Electrical Engineering, Springer International.
+Chapter:
+Classification techniques and clustering architecture for wireless sensor networks
+Authors: Sudhir G. Akojwar, R.M. Patrikar
+Editors: Xu Huang, Yuh-Shyan Chen and Sio-Iong Ao
+Publisher: Springer International (March 2008)
+ISBN: 978-0-387-74937-2.
+Microfluic sensor for E.Coli in water: A design approach using Comsol
+Authors: Atul Dwivedi, R.B. Deshmukh, R.M. Patrikar
+Publisher: LAP LAMBERT Academic Publishing (October 19, 2011)
+Language: English ISBN-10: 3845434686 ISBN-13: 978-3845434681
+“Real Time Implementation of Digital Watermarking Algorithms for Image and Video Application”, Watermarking/Book2
+Authors: Mr. Amit M Joshi, Dr. Vivekanand Mishra, Dr. R. M. Patrikar
+Publisher: Intech Publication, Croatia.,
+ISBN 979-953-307-895-2. (3128 downloaded till May 2014) http://www.intechopen.com/books/watermarking-volume-2/real-time-implementation-of-digital-watermarking-algorithm-for-image-and-video-applicationy 2024
+Palekar, J. Kalumbe and R. M. Patrikar, “Machine-Learning-Assisted Blood Parameter Sensing Platform for Rapid Next Generation Biomedical and Healthcare Applications”, ECS J. Solid State Sci. Technol., 13, 027004, 2024.
+V Jain, J Kalambe, RM Patrikar,” Automation of digital/droplet microfluidic platforms” – Droplet and Digital Microfluidics, Academic Press, 197-230, 2024.
+PK Joshi, MA Hasamnis, RM Patrikar, “Thermally compensated ZnO film bulk acoustic resonator for RF application above 5GHz frequency”, Journal of Computational Electronics, 22 (4), 1151-1156, 2023.
+S Makdey, R Patrikar, “Design of behavior prediction model of molybdenum disulfide magnetic tunnel junctions using deep networks”, Semiconductor Science and Technology 38 (8), 085006, 2023.
+S Palekar, J Kalambe, RM Patrikar, “IoT enabled microfluidics-based biochemistry analyzer based on colorimetric detection techniques”, Chemical Papers, 77 (6), 2935-2945, 2023.
+S Puranik, M Barve, S Rodi, R Patrikar, “Acceleration of Trading System Back End with FPGAs Using High-Level Synthesis Flow”, Electronics, 12 (3), 520, 2023
+P Bhoyar, P Sahare, MF Hashmi, SB Dhok, R Deshmukh, “Lightweight architecture for fault detection in Simeck cryptographic algorithms on FPGA”, International Journal of Information Technology, 16 (1), 337-343, 2024.
+PU Joshi, RB Deshmukh, “A Generalized Power Reduction Technique for Truncated Multiplier via Latching the Data Inputs Electrical Engineering, 48, 115–125, 2024.
+N D. Gupta, K. Sumanth, P. Yashwanth, K. Raghunath, A. Kumar, K. Singh and M. Mathew, “Design and Fabrication of a Photodetector for UV/Blue wavelength region for low light intensity levels using InGaN/GaN superlattice structure”, Accepted, IEEE Transactions on Electron Devices, May, 2024.
+2023
+P Sahare, JV Tembhurne, MR Parate, T Diwan, SB Dhok, “Script independent text segmentation of document images using graph network based shortest path scheme”, International Journal of Information Technology 15 (4), 2247-2261, 2023.
+C. Patil, “Doctor Blade: A Promising Technique for Thin Film Coating”, In: Sankapal, B.R., Ennaoui, A., Gupta, R.B., Lokhande, C.D. (eds); Simple Chemical Methods for Thin Film Deposition. Springer, Singapore. https://doi.org/10.1007/978-981-99-0961-2_12, 2023
+Tiple, K.K., Patil, G.C., “Buried Metal Silicon-on-Insulator Junctionless Transistor for Low Power CMOS Logic Circuits”, Silicon, 15, 1003–1009, 2023. https://doi.org/10.1007/s12633-022-02080-0
+K. Kumar and N. D. Gupta, “Nanostructured Anti Reflection Coating for Absorption Enhancement in Perovskite Silicon Tandem Solar Cells”, Optical Materials Express, Optica (formerly OSA), vol. 14, issue 1, pp. 139-154, doi: https://doi.org/10.1364/OME.503990, Dec., 2023.
+K. Kumar and N. D. Gupta, “Analysis of Nanostructured Anti Reflection Coating for Various Perovskite Layer Thicknesses in Perovskite Silicon Tandem Solar Cells”, Materials Research Express, IOP, vol. 10, issue 126201, doi: https://doi.org/10.1088/2053-1591/ad1077, Dec., 2023.
+Sireesha and N. D. Gupta, “Design and Analysis of Group-III nitride Superlattice Structure based Semiconductor Laser Diode for Blue Region Emission”, Laser Physics, IOP, vol. 33, issue 12, pp. 125002, doi: 10.1088/1555-6611/ad06a3, Nov., 2023.
+K. Jain, V. Janyani and N. D. Gupta, “Optical Analysis of Thin Film Cadmium Telluride Solar Cell using Nanoparticles for Efficiency Enhancement”, Optical and Quantum Electronics, Springer, vol. 55, issue 665, doi: https://doi.org/10.1007/s11082-023-04940-4, June, 2023
+Sahare, J.V. Tembhurne, M.R. Parate, T. Diwan, S.B. Dhok, “Script independent text segmentation of document images using graph network based shortest path scheme”, International Journal of Information Technology, 1-15, 2023
+Peketi, S.B. Dhok, “Machine Learning Enab, led P300 Classifier for Autism Spectrum Disorder Using Adaptive Signal Decomposition”, Brain Sciences 13 (2), 315, 2023
+K. Tiple, G.C. Patil, “Buried Metal Silicon-on-Insulator Junctionless Transistor for Low Power CMOS Logic Circuits”, Silicon 15 (2), 1003-1009, 2023
+Shekhawat, R. Jugade, S. Kahu, D. Saravanan, S. Deshmukh, “Mesoporous cellulose assemblage Al-doped ferrite for sustainable defluoridation process based on parameters optimization through RSM”, Inorganic Chemistry Communications 151, 110528, 2023 2022
+S. D. Palekar, J. Kalambe and R. M. Patrikar, “Biochemical Blood Sensing Platform With CMOS Image Sensor and Software-Based Wavelength Filter,” in
+IEEE Sensors Journal
+, vol. 22, no. 22, pp. 21753-21760, 15 Nov.15, 2022, doi: 10.1109/JSEN.2022.3208810.
+Puranik, M. Barve, S. Rodi, R.M. Patrikar, “FPGA-Based High-Throughput Key-Value Store Using Hashing and B-Tree for Securities Trading System, Electronics 12 (1), 183, 2022
+D. Palekar, J. Kalambe, R.M. Patrikar, “Biochemical Blood Sensing Platform With CMOS Image Sensor and Software-Based Wavelength Filter”, IEEE Sensors Journal 22 (22), 21753-21760, 2022
+Zode, R. B. Deshmukh, “Optimization of elliptic curve scalar multiplication using constraint based scheduling”, Journal of Parallel and Distributed Computing 167, 232-239, 2022
+Sahare, J.V. Tembhurne, M.R. Parate, T. Diwan, S.B. Dhok, “Script-Independent Text Segmentation from Document Images”, International Journal of Ambient Computing and Intelligence (IJACI) 13 (1), 1-21, 2022
+Sreekumar, A.M. Kuthe, S.C. Tripathi, G.C. Patil, C. Ravikumar, “Integrated computational approach towards identification of HSPG and ACE2 mimicking moieties for SARS-CoV-2 inhibition, Journal of Molecular Liquids 367, 120566, 2022
+C. Junghare, G.C. Patil, “Effect of strain on quantum transport in fully-hydrogenated silicene based field effect transistor”, Micro and Nanostructures 172, 207432, 2022
+Singh, G.C. Patil, “Vertical gate cavity bulk-planar junctionless FET-based biosensor for label-free detection of biomolecules”, Semiconductor Science and Technology 37 (10), 105018, 2022
+Gomase, R. Jugade, P. Doondani, S. Deshmukh, D. Saravanan, S. Pandey, “Dual modifications of chitosan with PLK for amputation of cyanide ions: Equilibrium studies and optimization using RSM”, International Journal of Biological Macromolecules 223, 636-651, 2022.
+2021
+Jain, V., Patrikar, R.M. (2021). Real-Time Detection of Droplet Velocity Using Open-Source Computer Vision on EWOD Device. In: Prabu, T., Viswanathan, P., Agrawal, A., Banerjee, J. (eds) Fluid Mechanics and Fluid Power. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-16-0698-4_50
+Suresh S. Balpande, Rajesh S. Pande & Rajendra M. Patrikar (2021) Grains level evaluation and performance enhancement for piezoelectric energy harvester, Ferroelectrics, 572:1, 71-93, DOI:
+10.1080/00150193.2020.1868874
+Solanki, R., Minase, S., Mahajan, A.
+et al.
+Modeling of gate leakage in cylindrical gate-all-around transistors.
+J Comput Electron 20
+, 1694–1701 (2021). https://doi.org/10.1007/s10825-021-01766-9
+Ishan C Ghosekar and Ganesh C Patil Review on performance analysis of P3HT:PCBM-based bulk heterojunction organic solar cells 2021
+Semicond. Sci. Technol.
+36 045005
+DOI 10.1088/1361-6641/abe21b
+Ganesh C Patil, Suyog T Ingle and Babasaheb R Sankapal Fabrication and characterization of lead sulfide and multi-walled carbon nanotube based field effect transistors using low cost chemical route Ganesh C Patil et al 2021
+Eng. Res. Express 3 025016
+DOI 10.1088/2631-8695/abf90f 2020
+P.P. Deshpande, R.S. Pande, R.M. Patrikar, “Fabrication and characterization of zinc oxide piezoelectric MEMS resonator”, Microsystem Technologies, 26 (2), 415-423, 2020
+V. Jain, R.M. Patrikar, “A Low-Cost Portable Dynamic Droplet Sensing System for Digital Microfluidics Applications”, IEEE Transactions on Instrumentation and Measurement, Vol. 69, pp. 3623 – 3630, 2020
+M. Rani, S.B. Dhok, R.B. Deshmukh, P. Kumar, “Overlap Aware Compressed Signal Classification”, IEEE Access, 8, 52950-52967, 2020
+M. Rani, S.B. Dhok, R.B. Deshmukh, P. Kumar, “Compressed Signal Classification Using Informed Instance Selection”, IETE Technical Review, 1-15, 2020
+M. Rani, S.B. Dhok, R.B. Deshmukh, “A Machine Condition Monitoring Framework Using Compressed Signal Processing”, Sensors 20 (1), 319, 2020
+J. Chandwani, R. Somkuwar, R.B. Deshmukh, “Experimental study on band merging of non-linear multi-band piezoelectric energy harvester into single broadband using magnetic coupling”, Microsystem Technologies, 26 (2), 657-671, 2020
+Ishan C. Ghosekar and Ganesh C. Patil, “Impact of concentration variation and thermal annealing on performance of multilayer OSC consisting of sandwiched P3HT layer between PEDOT: PSS and P3HT: PCBM”, Microelectronics Engineering, vol. 221, 2020 2019
+T Pravinraj, R. M. Patrikar, “A droplet actuation technique for a lab-on-chip device using partial wetting surface without external force”, Sensors and Actuators A: Physical 285, 482-490, 2019
+Jaya Chandwani, R Somkuwar, R. B. Deshmukh, “Multi-band piezoelectric vibration energy harvester for low-frequency applications” J Microsystem Technologies, 1-11, 2019.
+M Rani, S. B. Dhok, R. B. Deshmukh, “EEG Monitoring: Performance Comparison of Compressive Sensing Reconstruction Algorithms”, Information Systems Design and Intelligent Applications, 9-17, 2019.
+RE Chaudhari, S. B. Dhok, “An Optimized Approach to Pipelined Architecture for Fast 2D Normalized Cross-Correlation”, Journal of Circuits, Systems and Computers, 1950211, 2019
+V Kumar, S Yadav, DN Sandeep, S. B. Dhok, RK Barik, H Dubey, “5g cellular: Concept, research work and enabling technologies”, Advances in Data and Information Sciences, 327-338, 2019
+IC Ghosekar, G. C. Patil, “Improving organic solar cell efficiency using solution processed poly (3-hexylthiophene) buffer layer”, Micro & Nano Letters, vol. 14, no. 1, pp.74-77, 2019
+N. D. Gupta, “Absorption enhancement in hole Interface layer free perovskite solar cells using periodic photonic nanostructures”, Optics & Laser Technology 115, 20-31, 2019
+N.D. Gupta, V Janyani, “Analysis of Photonic Crystal Diffraction Grating Based Light Trapping Structure for GaAs Solar Cell”, IETE Journal of Research, 1-12, 2019
+Ishan C. Ghosekar and Ganesh C. Patil, “Performance Analysis and Thermal Reliability Study of Multilayer Organic Solar Cells”, IEEE Transactions on Device and Materials Reliability, vol. 19, no.3, pp. 572 – 580, 2019
+Khemnand B Bhagat, Ganesh C Patil, “Negative capacitance δ-bulk planar junctionless transistor for low power applications”, IET Micro & Nano Letters, vol. 14, no.10, pp. 1107-1110, 2019
+Ganesh C Patil, Vijayasri Kristaparapu, Suyog T Ingle, “Approach for fabricating JLT using chemically deposited cadmium sulphide and titanium dioxide”, IET Micro & Nano Letters, vol. 14, no. 10, pp. 1060 – 1063, 2019
+A.D. Singh, R.M. Patrikar, “Development of Nonlinear Electromechanical Coupled Macro Model for Electrostatic MEMS Cantilever Beam”, IEEE Access, 7, 140596 – 140605, 2019
+T. Pravinraj, R.M. Patrikar, “Design, fabrication, and modeling of a low-cost droplet on demand device for lab-on-chip applications”, Microelectronic Engineering,  216, 111030, 2019
+A. Kulkarni, V. Kumar, S. Yadav, A.P. Singh, S.B. Dhok, “3D Modelling of Superconductor Enabled Magnetic Induction Transmitter and Relay Coil for Non-conventional Media”, Wireless Personal Communications, 1-27, 2019
+Neha Barothiya, Chetan T Dabhi, Ganesh C Patil, “A novel channel engineered continuous floating gate MOSFET for memory applications”, Journal of Nanoelectronics and Optoelectronics, vol. 14, no.5, pp. 606-613, 2019
+Ishan C. Ghosekar and Ganesh C. Patil, “Thermal stability analysis of buffered layer P3HT/P3HT:PCBM organic solar cells”, IET Optoelectronics, vol. 13, no. 5, pp. 240 – 246, 2019 2018
+Pravinraj, T., and Rajendra Patrikar. “Modeling and characterization of surface roughness effect on fluid flow in a polydimethylsiloxane microchannel using a fractal based lattice Boltzmann method.” AIP Advances 8.6 (2018): 065112.
+https://aip.scitation.org/doi/full/10.1063/1.5036797
+P. Sahare and S. B. Dhok, “Separation of  Machine-Printed and Handwritten Texts in Noisy Documents using Wavelet Transform” IETE Technical Review, June 2018.
+P. Sahare and S. B. Dhok, “Separation of  Machine-Printed and Handwritten Texts in Noisy Documents using Courtlet Transform” Arabian Journal for Science and Engineering, 2018.
+Somkuwar, R., Chandwani, J. & Deshmukh, R. “Wideband auto-tunable vibration energy harvester using change in centre of gravity”, Microsyst Technol., 24(7): pp 3033-3044, 2018.
+https://doi.org/10.1007/s00542-018-3846-x
+P. Bhoyar, S. Dhok, R. Deshmukh, Hradware implementation of secure and lightweight simeck32/64 cipher for ieee 802.15. 4 transreceiver, AEU International Journal of Electronics and Communication 90(2018) 147-154
+P. Sahare and S. B. Dhok, “Robust Character Segmentation and Recognition Schemes for Multilingual Indian Document Images”,  IETE Technical Review, March 2018.
+P. Sahare, RE Chaudhari, S.B. Dhok “Word Level Multi-Script Identification Using Curvelet Transform in Log-Polar Domain”, IETE Journal of Research, Jan. 2018.
+P. Sahare, S. B. Dhok ,“Multilingual Character Segmentation and Recognition Schemes for Indian Document Images” IEEE Access, Jan 2018.
+M. Rani, S. B. Dhok and R. B. Deshmukh, “A Systematic Review of Compressive Sensing: Concepts, Implementations and Applications,” IEEE Access, vol. 6, pp. 4875-4894, Jan. 2018.
+P Bhoyar, P Sahare, S. B. Dhok, R. B. Deshmukh, “Communication technologies and security challenges for internet of things: A comprehensive review”, AEU-International Journal of Electronics and Communications, 2018
+P Zode, R. B. Deshmukh, “Side channel attack resistant architecture for elliptic curve cryptosystem, Cyber-Physical Systems”, vol. 4, no. 4, pp. 205-215, 2018
+S. B. Dhok, R. B. Deshmukh, AG Keskar, “Efficient fractal image coding using fast Fourier transform”, GSTF Journal on Computing (JoC) vol 1, no. 2, 2018
+P Zode, R. B. Deshmukh, “MOS switch-based DPA-resistant
+GF
+(2 8
+) modulo multiplier”, International Journal of Electronics Letters, vol. 6, no. 2, pp. 231-241, 2018
+P Sahare, S. B. Dhok, “Separation of Handwritten and Machine-Printed Texts from Noisy Documents Using Contourlet Transform”, Arabian Journal for Science and Engineering, vol. 43, no. 12, pp. 8159-8177, 2018
+AV Mire, S. B. Dhok, NJ Mistry, PD Porey, “Automated approach for splicing detection using first digit probability distribution features”, EURASIP Journal on Image and Video Processing 18, 2018
+V Kumar, R Bhusari, S. B. Dhok, A Prakash, R Tripathi, S Tiwari, “Design of Magnetic Induction Based Energy-Efficient WSNs for Nonconventional Media Using Multilayer Transmitter-Enabled Novel Energy Model”, IEEE Systems Journal, 1-12, 2018
+EA Ayele, S. B. Dhok, “Interpolation-free sub-pixel motion estimation using optimal adaptive Kalman filtering technique: a survey”, Journal of Engineering Technology, vol. 6, no.1, pp.194-208, 2018
+R Garike, G. C. Patil, “Si3N4: HfO2 dual-k spacer bulk planar junctionless transistor for mixed signal integrated circuits”, IET Circuits, Devices & Systems, vol. 13, no. 1, pp. 45-50, 2018
+N. D. Gupta, V Janyani, M Mathew, M Kumari, R Singh, “Design and fabrication of InGaN/GaN superlattice-based solar cell using photonic crystal structure”, Journal of Nanophotonics, vol. 12, no.4, pp. 043505, 2018
+D Chettri, KJ Singh, M Mathew, N.D. Gupta, “A novel numerical approach for the calculation of refractive index of Wurtzite InxGa1−xN”,, International Journal of Modern Physics B 32 (28), 1850315, 2018.
+2017
+Ravi Solanki, Ashutosh Mahajan and Rajendra Patrikar, “Finite-Element Modeling of Retention in Nanocrystal Flash Memories With High-k Interpoly Dielectric Stack”,  IEEE Transactions on Electron Devices, Oct. 2017.
+V. Jain, A. Hole, R. Deshmukh and R. Patrikar, “Dynamic capacitive sensing of droplet parameters in a low-cost open EWOD system”, Sensors and Actuators A: Physical, vol. 263, pp. 224-233, 2017.
+Parul Sahare, Sanjay B. Dhok, “Script identification algorithms: a survey”, in International Journal of Multimedia Information Retrieval,  Vol. 6 (3), pp 211–232, Sept. 2017.
+Vandana Jain, Vasavi Devarasetty, Rajendra M. Patrikar, “Effect of electrode geometry on droplet velocity in open EWOD based device for digital microfluidics applications”, Journal of Electrostatics, vol. 87, pp.11-18,  2017
+T Pravinraj and Rajendra Patrikar.  ”Modelling and investigation of partial wetting surfaces for drop dynamics using lattice Boltzmann method.” Applied Surface Science, Volume 409, (2017): 214-222. (DOI:https://doi.org/10.1016/j.apsusc.2017.02.242)
+Rasika Dhavse, Kumar Prashant, Chetan Dabhi, Anand Darji, Rajendra M. Patrikar, “Modified ITAT Model for Data Retention in Nanocrystals Based Flash Memory Gate Stack”, Journal of Nano Research, vol. 45, pp.1-11,  2017
+Alok Naugarhiya, Pankaj Wakhradkar, Pravin N Kondekar, Ganesh C Patil, Rajendra M. Patrikar, “Analytical model for 4H-SiC superjunction drift layer with anisotropic properties for ultrahigh-voltage applications”, Journal of Computational Electronics, vol. 16, pp.190-201,  2017
+Vinay Kumar, Sanjay B. Dhok, Rajeev Tripathi, Sudarshan Tiwari, “Cluster size optimisation with Tunable Elfes sensing model for single and multi-hop wireless sensor networks”, International Journal of Electronics, vol. 104, pp.312-327,  2017
+Eskinder Anteneh Ayele, Sanjay B. Dhok, “Inter-Frame Coding using Motion-Adaptive Sliced Blocks and Elastic Motion Model Techniques: A Survey”, International Journal of Computer Science and Information Security, vol. 15,  2017
+P Sahare, S B Dhok, “Review Of Text Extraction Algorithms for Scene-Text and Document Images”,IETE Technical Review 34(2),144-164, 2017
+P Joshi, R Deshmukh, V Gudur “A Novel Self Compensation Scheme for Truncation Error in Fixed Width Multipliers IET Circuits “, Devices & Systems 2017.
+P Zode, R Deshmukh ,”MOS switch-based DPA-resistant GF (28) modulo multiplier”, International Journal of Electronics Letters, 1-11.
+2016
+Ashutosh Mahajan, Dhiraj Gawhane, Rajendra M. Patrikar, “Finite Element Modeling of Fowler–Nordheim Program-Erase Process in High- k Interpoly Dielectric Flash Memories”, IEEE Transactions on Electron Devices, vol. 63, pp. 4729-4736,  2016
+Suresh S Balpande, Rajesh S Pande, Rajendra M. Patrikar, “Design and low cost fabrication of green vibration energy harvester”, Sensors and Actuators A: Physical, vol. 251, pp.134-141,  2016
+Vinayak Pachkawade, Rajesh Junghare, Rajendra M. Patrikar, Michael Kraft, “Mechanically coupled ring-resonator filter and array (analytical and finite element model)”, IET Computers & Digital Techniques, vol. 10, pp.261-267,  2016
+Deepak G Khushalani, Rajesh S Pande, Rajendra M. Patrikar, “Fabrication and characterization of MEMS cantilever array for switching applications”, Microelectronic Engineering, vol. 157, pp.78-82,  2016
+Ashish Sharma, Sadanand Yadav, Sandeep Dandu, Vinay Kumar, Joydeep Sengupta, Sanjay B. Dhok, Sudhir Kumar, “Magnetic Induction based Non-Conventional Media Communications: A Review”, IEEE Sensors Journal, vol. 17, pp.926 – 940,  2016
+Ravindra E Chaudhari, Sanjay B. Dhok, “Fractal Video Coding Using Fast Normalized Covariance Based Similarity Measure”, Mathematical Problems in Engineering, vol. 2016,  2016
+Vinay Kumar, Kuthadi Gayatri Devi, Sadanand Yadav, Joydeep Sengupta, Sanjay B. Dhok, “Novel Energy Efficient Protocols for Gaussian & Uniform Distributed Heterogeneous Wireless Sensor Networks”, Transactions on Networks and Communications, vol. 4,  2016
+Archana Vasant Mire, Sanjay B. Dhok, Naresh J Mistry, Prakash D Porey, “Tampering Localization in Double Compressed Images by Investigating Noise Quantization”, International Journal of Digital Crime and Forensics (IJDCF), vol. 8, pp.46-62,  2016.
+Chetan T Dabhi, Ganesh C Patil, “Underlap channel silicon-on-insulator quantum dot floating-gate MOSFET for low-power memory applications”, Journal of Computational Electronics, vol. 15, pp.1563-1569,  2016.
+Vasu Pulijala, Azeemuddin Syed, “Comparison of the effects of 60nm and 96nm thick patterned permalloy thin films on the performance of on-chip spiral inductors”, Journal of Magnetism and Magnetic Materials, vol. 419 pp.245-248,  2016 2015
+Vandana Jain, T. Pravin Raj, R.B. Deshmukh, and Rajendra M. Patrikar, “Design, fabrication and characterization of low cost printed circuit board based EWOD device for digital microfluidics applications”
+Microsystem Technologies (Springer), vol. 22, no.157, pp.1-9, 2015
+Amit Mahesh Joshi, Vivek Mishra, Rajendra M. Patrikar  “Low complexity hardware implementation of quantization and CAVLC for H.264 encoder”, September 2015
+Deepak G. Khushalani, Vaibhav Dubey, Pratik P. Bheley, Rajendra M. Patrikar,  “Design optimization & fabrication of micro cantilever for switching  application”, Sensors and Actuators A Physical 225 · April 2015
+Jayu Kalambe, Rajendra M. Patrikar,  “Design, Fabrication, and Characterization of Electrostatically Actuated Microcantilever Sensor for Temperature Detection”, IEEE Sensors Journal 15(3):1595-1601 · March 2015
+Amit Joshi, Vivek Mishra, Rajendra M. Patrikar,   “FPGA prototyping of video watermarking for ownership verification based on  H.264/AVC”, Multimedia Tools and Applications, February 2015
+Amit Joshi, Vivek Mishra, R. M. Patrikar,   “FPGA prototyping of video watermarking for ownership verification based on H.264/AVC”, Multimedia Tools and Applications · February 2015
+Amit Joshi, Amit Kumar Mishra, R. M. Patrikar “Design of real-time video watermarking based on Integer DCT for H.264 encoder”, International Journal of Electronics 102(1) · January 2015
+Vishakha P. Bhale, Upena D. Dalal, R. M. Patrikar,  “Design and comparison of 0.18-µm CMOS power amplifiers for ultra-wide-band applications”, International Journal of Wireless and Mobile Computing 9(4):307 · January 2015
+R. Dhavse, N. Gupta, C. Sinha, R. M. Patrikar, “DIBL improvement in 65 nm metal gate flash memory cell by using quantum dots floating gate”, International Journal of Applied Engineering Research  10(2):3101-3110 · January 2015
+Ganesh C. Patil, V. H. Bonge, M. M. Malode, R. G. Jain, ” Novel δ-doped Partially Insulated Junctionless Transistor for Mixed Signal Integrated Circuits,”
+Superlattices and Microstructures (Elsevier), vol. 90, no. 2, pp.
+247-256, 2015
+Archana V. Mire, S.B. Dhok, N.J. Mistry, P.D. Porey, “Factor Histogram based Forgery Localization in Double Compressed JPEG Images”,
+Procedia Computer Science (Elsevier), vol. 54. 690-696, 2015
+Archana V Mire, Sanjay B Dhok, Narendra J Mistry, Prakash D Porey, “Localization of Tampering Created with Facebook Images by Analyzing Block Factor Histogram Voting”, International Journal of Digital Crime and Forensics (IJDCF), vol. 7, no. 4, pp. 33-54
+, 2015 2014
+G Pendharkar, R Deshmukh, R Patrikar, “Investigation of surface roughness effects on fluid flow in passive micromixer,”
+Microsystem Technologies, vol. 20, no. 12, pp. 2261-2269, 2014
+. (ISSN No.: 0946-7076)
+S Sahare, RB Deshmukh, RM Patrikar, “Role of Hydrogen in Transition from Amorphous Silicon to Nanocrystalline Silicon for Solar Cell Applications”,
+Advanced Science, Engineering and Medicine,vol. 6, no. 7, pp. 785-790, 2014
+.
+AA Deshmukh, RB Deshmukh, “Performance Analysis of Gated Ring Oscillator Designed for Audio Frequency range Asynchronous ADC”, International Journal of VLSI Design & Communication, 2014
+V Kumar, SB Dhok, R Tripathi, S Tiwari, “A Review Study on Analytical Estimation of Optimal Number of Clusters in Wireless Sensor Networks”,  Transactions on Networks and Communications, vol. 2, no. 5, pp. 75-103, 2014.
+V Kumar, SB Dhok, R Tripathi, S Tiwari, “ A Review Study of Hierarchical Clustering Algorithms for Wireless Sensor Networks”, International Journal of Computer Science, vol. 11, no.3, pp. 92-101, 2014(
+ISSN 1694-0814 )
+K Mishra, V Nandanwar, EA Ayele, SB Dhok, “FPGA Implementation of Single Precision Floating Point Multiplier Using High Speed Compressors”, International Journal of Soft Computing & Engineering, vol. 4, no. 2, pp. 18-23, 2014
+. (ISSN No.: 2231-2307) 2013
+AV Mire, SB Dhok, NJ Mistry, PD Porey “Resampling Detection in Digital Images: A Survey”, International Journal of Computer Applications
+, vol. 84, no. 8, pp. 24-29, 2013
+. (ISSN No.: 0975-8887)
+EA Ayele, RE Chaudhari, SB Dhok, “Fast Motion Estimation for Quad-Tree Based Video Coder Using Normalized Cross-Correlation Measure”, – International Journal of Image processing (IJIP), vol. 7, no. 4, pp. 330-338, 2013
+.
+AV Mire, SB Dhok, PD Porey, NJ Mistry, “Automation of JPEG Ghost Detection using Graph Based Segmentation”,
+International Journal Of Computational Engineering Research, vol. 3, no.12, pp. 42-47, 2013
+D Barbadikar, R Gautam, S Sahare, R Patrikar, J Bhatt, “Optimization of process parameter for synthesis of silicon quantum dots using low pressure chemical vapour deposition”, Bulletin of Materials Science, June 2013, Volume 36, Issue 3, pp 483-490.
+Gaurav Pendharkar, Raghavendra Deshmukh, Rajendra Patrikar, “Investigation of surface roughness effects on laminar flow in micromixers using Lattice Boltzmann method”, Springer-Verlag Berlin Heidelberg 2013
+Amit Joshi, Dr. Vivekanand Mishra, Dr. R. M. Patrikar, “Real Time Implementation of Integer DCT based Video Watermarking architecture”, International Arab Journal of Information Technology (IAJIT), November 2013
+Dipika R. Barbadikar, Rashmi Rashmi, Sanjay Sahare, Rajendra Patrikar, Jatin Bhatt “Optimization of process parameter for synthesis of silicon quantum dots using low pressure chemical vapour deposition”, Bulletin of Materials Science 36(3)· June 2013
+Ganesh C. Patil and S. Qureshi, “Engineering buried oxide in dopant segregated Schottky barrier SOI MOSFET for nanoscale CMOS circuits,”
+Microelectronics Reliability, vol. 53, no. 4, pp. 349-355, 2013
+. (ISSN No.: 0026-2714)
+Ganesh C. Patil and S. Qureshi,”Asymmetric drain underlap dopant-segregated Schottky barrier ultrathin-body SOI MOSFET for low-power mixed-signal circuits,”
+Semiconductor Science and Technology, vol. 28, no. 4, pp. 045002-9, 2013
+. (ISSN No.: 0268-1242 2012
+S Pardeshi, R Patrikar, R Dhodapkar, A Kumar “Validation of computational approach to study monomer selectivity toward the template Gallic acid for rational molecularly imprinted polymer design”, Journal of Molecular Modeling, November 2012, Vol. 18, no.11, pp 4797-4810.
+SD Chawade, MA Gaikwad, RM Patrikar, “Review of xy routing algorithm for network-on-chip architecture”, International Journal of Internet Computing, vol. 1, no. 4, 2012(ISSN No: 2231–6965)
+SD Chawade, MA Gaikwad, RM Patrikar, “Design XY Routing Algorithm for Network-On-Chip Architecture”, International Journal of Research And Development, 2012
+JP Kalambe, RM Patrikar, Design of Microcantilever-Based Biosensor with Digital Feedback Control Circuit, Journal of Sensors, Hindawi Publication,Volume 2012,Article ID 586429, DOI: 10.1155/2012/586
+A Shrirao, R Gautam, RM Patrikar “Effect of Asymmetric Channel on Charging Behavior of 22-nm Quantum-Dot Floating-Gate Flash Memory Cell”, IEEE Transactions on Electron Devices, vol. 59, no.9, pp.2550 – 2554,  2012
+EA Ayele, SB Dhok, “Review of proposed high efficiency video coding (HEVC) standard,” International Journal of Computer Applications
+, vol. 59, no. 15, pp. 1-9, 2012
+. (ISSN No.: 0975-8887)
+RE Chaudhari, SB Dhok, “Review of Fractal Transform based Image and Video Compression”, International Journal of Computer Applications
+, vol. 57, no. 19, pp. 23-31, 2012
+. (ISSN No.: 0975-8887)
+Ganesh C. Patil and S. Qureshi, “Underlap channel metal source/drain SOI MOSFET for thermally efficient low-power mixed signal circuits,”
+Microelectronics Journal, vol. 43, no. 5, pp. 321-328, 2012
+. (ISSN No.: 0026-2692)
+Ganesh C. Patil and S.Qureshi,”Engineering Spacers in dopant-segregated Schottky barrier SOI MOSFET for Nanoscale CMOS logic Circuits,”
+Semiconductor Science and Technology, vol. 27, no. 4, pp. 045004-12, 2012
+. (ISSN No.: 0268-1242
+Ganesh C. Patil and S. Qureshi, “Impact of Segregation layer on Scalability and Analog/RF performance of Nanoscale Schottky barrier SOI MOSFET,”
+Journal of Semiconductor Technology and Science, vol. 12, no. 1, pp. 66-74, 2012
+. (ISSN No.: 1598-1657
+Ashwini Shrirao, Rashmi, and Rajendra M. Patrikar, “Effect of Asymmetric Channel on Charging Behavior of 22 nm Quantum Dot Floating Gate Flash Memory Cell’,
+IEEE Transaction on Electron Devices
+(September Issue: Volume 59, Issue 9. Published online 27 July 2012, DOI: 10.1109/TED.2012.2204999).
+Sushma Pardeshi, Rajendra Patrikar, Rita Dhodapkar, Anupama Kumar “Validation of computational approach to study monomer selectivity towards the template Gallic acid for rational molecularly imprinted polymer design
+” Journal of molecular Modeling
+, 06/2012; 18(11):4797-810. (2012) DOI 10.1007/s00894-012-1481-5 2011
+S.B Dhok , R.B. Deshmukh , A.G. Keskar, “Efficient Fractal Image Coding using FFT” GSTF International Journal on Computing, vol. 1, no. 2, February 2011, pp 35-40
+Mahendra Gaikwad and Rajendra Patrikar “Review of Network-on-Chip Architecture”,
+International Journal on Computer Engineering & Information Technology (IJCEIT)
+, ISSN 0974-2034, Vol. 13, No. 18, Special Edition Jan-Feb. 2010, pp. 19-22
+Mahendra Gaikwad and Rajendra Patrikar “Review of Switching Techniques for Network-on-Chip Architecture”,
+International Journal on Computer Engineering & Information Technology (IJCEIT)
+, ISSN 0974-2034, Vol. 17, No. 22, Special Edition Jan-Feb. 2010, pp. 52-57
+Kshirsagar R.V., Patrikar R.M., “Design of a Novel Fault Tolerant Voter Circuit for TMR Implementation to Improve Reliability in Digital Circuits”,
+Microelectronics Reliability 49 (2009), pp. 1573-1577, Dec. 2009. (DOI information: 10.1016/j.microrel.2009.08.001.
+Mahendra Gaikwad and Rajendra Patrikar, “Perfect Difference Network for Network-on-Chip Architecture”
+International Journal of Computer Science & Network Security (IJCSNS)
+, Dae-Sang Office 301, Sangdo 5 dong 509-1, Dongjack, Seoul 156-743, Korea, ISSN:1738-7906, vol. 9, no. 12, December 2009.
+Rahul Badghare, Sanjiv Mangal, R.B.deshmukh, Rajendra Patrikar “Design of Low Power Parallel Multiplier”
+Journal of Low Power Electronics
+– Vol. 5, No.1, April 2009.
+Sudhir G. Akojwar, Rajendra M. Patrikar ” Improving Life Time of Wireless Sensor Networks Using Neural Network Based Classification Techniques With Cooperative Routing”
+International Journal of Communications
+, Issue 1, Volume 2, 2008 pp.75-86
+Rajesh S. Pande, Rajendra M. Patrikar, “Modeling and simulation for RF MEMS devices,” WSEAS Transactions on Electronics, Issue 4, Vol. 5, April 2008, pp.155-165.
+R. M. Patrikar, “Modeling and simulation of surface roughness”,
+Applied Surface Science
+(2004): 213–220.
+R. M. Patrikar, Chong Yi Dongb, Wenjun Zhuanga, “Modelling interconnects with surface roughness”,
+Microelectronics Journal
+(2002): 929–934.
+2024
+K. Jain,
+N. D. Gupta and V. Janyani, “Enhancing Absorption in Cadmium Telluride Solar Cells using Ti Nanoparticles”, Accepted,
+OPTICA Advanced Photonics Congress – 2024
+, Centre des congrès de Québec, Québec City, Québec, Canada, paper SoTh2F.6, 28 th
+July – 01 st
+Aug, 2024.
+2023
+Harshit Kumar and N. D. Gupta, “Hole Transport Layer Free Photovoltaic Cell Based on Inorganic Perovskite for Indoor Energy Harvesting for IoT Applications”, IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS) 2023, Jaipur (India), Dec. 2023, pp. 656-661, doi: 10.1109/ANTS59832.2023.10469191.
+K. Jain, V. Janyani and N. D. Gupta, “Design and Numerical Study of Cadmium Telluride Thin Film Solar Cell using Diffraction Grating and Distributed Bragg Reflector”, OPTICA Advanced Photonics Congress – 2023, Hotel Paradise, Busan, South Korea, paper SW3D, 09th – 13th July, 2023, DOI:https://doi.org/10.1364/SELED.2023.SW3D.3 2022
+Gopal Pranjale, Suyog T. Ingle, Ganesh C. Patil, “Fabrication of Ag2S, Bi2S3 and CdS p-FETs using Solution Processing”, 6th IEEE International Conference on Emerging Electronics (ICEE) Hilton, Bangalore, India, 11th -14th December 2022.
+Rajesh C. Junghare, Gopal Pranjale, Yerra Muralidhar, Ganesh C. Patil, “Investigation of Structural, Electronic and Transport Properties of Silicene on Graphene Heterostructure by Ab-initio Calculations”, 6th IEEE International Conference on Emerging Electronics (ICEE) Hilton, Bangalore, India, 11th -14th December 2022.
+G. Aishwarya and N. D. Gupta, “Optoelectronic heterostructure transistor based on perovskite-silicon for neuromorphic computing”, 19th IEEE India Council Conference (INDICON-2022), CUSAT Cochin, India, 24-26 Nov., 2022.
+Rahul and N. D. Gupta, “Design and Analytical Study of InGaN/GaN Multiple Quantum Wells Based Photodetector for UV Range”, 19th IEEE India Council Conference (INDICON-2022), CUSAT Cochin, India, 24-26 Nov., 2022.
+R. Patwardhan and N. D. Gupta, “Design and Analysis of a Nanostructures based Perovskite LED for Blue Light Emission”, OPTICA Advanced Photonics Congress – 2022, Maastricht Exhibition & Conference Centre Maastricht, Netherlands, paper PvM2G.4, 24th – 28th July, 2022, DOI: 10.1364/PVLED.2022.PvM2G.4
+V Jain, R.M. Patrikar, “Real-Time Detection of Droplet Velocity Using Open-Source Computer Vision on EWOD Device”, Fluid Mechanics and Fluid Power, pp. 463-470, 2021
+M Rani, S. B. Dhok, R. B. Deshmukh, “Compressive Sensing-Based Continuous EEG Monitoring: Seizure Detection Performance Comparison of Different Classifiers”, Advances in VLSI, Communication, and Signal Processing, pp. 459-468, 2021
+K. Kumar and Nikhil Deep Gupta, “Design and Optical Studies for Nanostructure Intermediate Reflector based Perovskite Silicon Tandem solar cell”, IEEE Workshop in Recent Advances in Photonics-2022 (WRAP-2022), IIT Bombay (India), Paper-139, 4th-6th March, 2022.
+K. Jain, V. Janyani and Nikhil Deep Gupta, “Optical Studies of Cadmium Telluride based Solar Cell using Photonic Crystal as a back Reflector”, IEEE Workshop in Recent Advances in Photonics-2022 (WRAP-2022), IIT Bombay (India), Paper-122, 4th-6 th
+March, 2022.
+2021
+S Pothana, Nikhil Deep Gupta, “Optimizing the Performance of Solar Photovoltaic Panels using Machine Learning”, IEEE India Council (INDICON-2021) Conference, IIT-Guwahati (India), 2021
+A Lucas, R Narayanan, Nikhil Deep Gupta, Design and Analysis of All-Optical Universal Logic Gates using 2D Silicon Photonic Crystal Structures, 5th International Conference on Optical and Wireless Technologies (OWT-21), Jaipur (India), 2021
+BK Kumar, Nikhil Deep Gupta, “Optical Studies of Nanostructure Intermediate Reflector Perovskite Silicon Tandem Solar Cell”, XLIV OSI Symposium on Frontiers in Optics and Photonics 2021 (FOP21), IIT-Delhi (India), 2021
+RL Burde, BK Kumar, Nikhil Deep Gupta, “Design and Optimization of Photonic Nanostructure based CsPbI3 perovskite solar cell”, XLIV OSI Symposium on Frontiers in Optics and Photonics 2021 (FOP21), IIT-Delhi (India), 2021
+SK Jain, V Janyani, Nikhil Deep Gupta, “Performance Analysis of CdTe Solar Cell using Copper Telluride Back Surface Field for Efficiency Enhancement”, CLEO: Science and Innovations, 9–14 May 2021, San Jose, California, United States.
+M Rani, S.B. Dhok, R.B. Deshmukh, “Compressive Sensing-Based Continuous EEG Monitoring: Seizure Detection Performance Comparison of Different Classifiers”, Advances in VLSI, Communication, and Signal Processing, 459-468, October 2021 2020
+V. Kumar, S. Yadav, D.N. Sandeep, S.B. Dhok, R.K. Barik, A.P. Singh, “Optimal Cluster Count and Coverage Analysis in a Gaussian Distributed WSNs Using TESM”, Frontiers in Intelligent Computing: Theory and Applications, 335-345, 2020
+P. Bhoyar, S.B. Dhok, R.B. Deshmukh, “Hardware Implementation of Simeck Cipher as a Lightweight Hash Function”, Advances in VLSI, Communication, and Signal Processing, Allahabad, India, 125-131, 2020
+S. Yadav, V. Kumar, S.B. Dhok, G. Srivastava, A.P. Singh, M.K. Gupta, “BER Performance Evaluation of Different Modulation Techniques for Underwater FSO Communication System”, Advances in VLSI, Communication, and Signal Processing, Allahabad, India, 44503, 2020
+M. Rani, S.B. Dhok, R.B. Deshmukh, “EEG Seizure Detection from Compressive Measurements”, Advances in VLSI, Communication, and Signal Processing, , Allahabad, India, 963-969, 2020
+T Gawande, R. B. Deshmukh, S. Deshmukh, “Qualitative analysis of prominent industrial gases by MEMS based gas sensors”, IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT), 2-4 July 2020.
+PS Santosh, N.D. Gupta, “Design and Implementation of a Solar Inverter without Batteries for IoT Node’s and Household Application”, 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC), 25-26 Sept. 2020.
+M Radhouene, M Najjar, N.D. Gupta, V Janyani, “Low crosstalk and small size 12-channel WDM demultiplexer based on 2D photonic crystal”, 2020 International Wireless Communications and Mobile Computing (IWCMC), 15-19 June 2020 2019
+Pravin Zode, Pradnya Zode, R. B. Deshmukh, “FPGA Based Novel True Random Number Generator using LFSR with Dynamic Seed”, IEEE INDICON-2019 (16th IEEE India Council Annual meet), Rajkot (India), 13-15 Dec. 2019
+T. Gawande, R. B. Deshmukh, R. M. Patrikar, Sharvari Deshmukh, “Inherent MEMS sensor array variability reduction using robust regression”, 2019 IEEE Bombay Section Signature Conference (IBSSC), 1-4, 2019
+T. Pravinraj, R. M. Patrikar, “Modeling, fabrication and investigation of mixing in low-cost passive PDMS micromixers”, 32nd International Conference on VLSI Design, Delhi, India, 5-9 Jan. 2019
+V. Pulijala, A. Syed, “Effects of Heating on the Performance of 70 nm Thick Domain Patterned Permalloy Incorporated RF Spiral Inductors”, 2019 IEEE 14th International Conference on Nano/Micro Engineered and Molecular Systems (NEMS), Bangkok, Thailand, Thailand, 11-14 April 2019
+C.S. Tejaswi Issarapu, R.C. Junghare, Ganesh C. Patil, “First principle study of Germanium and Selenium doped monolayer black phosphorus”, Proc. of TechConnect World Innovation Conference and Expo, co-located with the Nanotech-2019 and AI TechConnect, Hynes Convention Center, Boston, Massachusetts, U.S.A. June 17-19, 2019
+R.C. Junghare and Ganesh C. Patil, “Ab-initio tight binding Hamiltonian generation for 1D and 2D MoS2 based Devices”, Proc. of TechConnect World Innovation Conference and Expo, co-located with the Nanotech-2019 and AI TechConnect, Hynes Convention Center, Boston, Massachusetts, U.S.A. June 17-19, 2019
+A. Shukla, R.C. Junghare, Ganesh C. Patil, “Effect of Strain on Electronic Transport in Silicene Nanoribbon using Tight Binding Model”, Proc. of TechConnect World Innovation Conference and Expo, co-located with the Nanotech-2019 and AI TechConnect, Hynes Convention Center, Boston, Massachusetts, U.S.A. June 17-19, 2019
+B. Kranthi Kumar and N. D. Gupta, “Recent Advancement in the Design of Perovskite Solar Cell”, 3rd International Conference on Solar Energy Photovoltaics (ICSEP-2019), Bhubaneswar (India), Materials Today: Proceedings, 19th -21st Dec. 2019
+P. Kawde and N. D. Gupta, “Frustum Shaped Cavity Based Microwave Electrothermal Thruster for Nanosatellites”, IEEE INDICON-2019 (16th IEEE India Council Annual meet) Rajkot (India), IEEE Conference Proceedings, Dec. 2019
+A.L. Prasanna, V. Kumar, S. Yadav, S.B. Dhok, P. Dhule, L. Wuttisittikulkij, “Link Energy Minimization in Magnetic Induction based Non-Conventional WSNs”, 16th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), Pattaya, Chonburi, Thailand, Thailand, 10-13 July 2019
+A.M. Bhujade, R.C. Junghare, Ganesh C. Patil, “Impact of Zig-Zag Layer on MoS 2 based Nanoribbon Gate-all-Around Field Effect Transistor”, IEEE INDICON-2019 (16th IEEE India Council Annual meet), Rajkot (India), 13-15 Dec. 2019 2018
+Ashutosh Mahajan, Ravi Solanki, Rosalina Sahoo and Rajendra Patrikar, “Modeling and Finite Element Simulation of Gate Leakage in Cylindrical GAA Nanowire FETs”, International Conference on Simulation of Semiconductor Processes and Devices 2018,USA, 24-26 Sep. 2018
+Pravinraj, T. and Patrikar, R.: Fabrication and LBM-modeling of directional fluid transport on low-cost electrosomotic flow device” In: Rajaram S.,Balamurugan N B (eds) VLSI Design and Test. VDAT 2018, Communications in Computer and Information Science, Springer, Singapore (2018)
+R Dhavse, K Prashant, C Dabhi, A Darji, R. M. Patrikar, Fabrication and investigation of low-voltage programmable flash memory gate stack, , Proceedings of the International Conference on Microelectronics, Computing & Communication Systems, 2018
+AL Rajesh, R. M. Patrikar, “An Optimized Design Strategy and a Paradigm for Low Power IoT Devices”, 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), 2018
+A Raveendran, S. B. Dhok, R. M. Patrikar, “High Level Synthesis and Implementation of Cryptographic Algorithm in AHIR Platform”, International Symposium on VLSI Design and Test, 16-27, 2018
+AL Rajesh, SV Kadam, R. M. Patrikar, “A Complete Hardware Advent on IEEE 802.15. 4 Based Mac Layer and a Comparison with Open-ZB”, International Symposium on VLSI Design and Test, 682-694, 2018
+A Morankar, R. M. Patrikar, “Effective Method for Temperature Compensation in Dual Band Metal MEMS Resonator”, International Symposium on VLSI Design and Test, 233-241, 2018
+S Thool, R. B. Deshmukh, R. M. Patrikar, “Design and Fabrication of Versatile Low Power Wireless Sensor Nodes for IoT Applications”, International Symposium on VLSI Design and Test, 705-719, 2018
+J Srivastava, R. M. Patrikar, “Continuous Flow Microfluidic Channel Design for Blood Plasma Separation”, International Symposium on VLSI Design and Test, 264-277, 2018
+V Jain, R. M. Patrikar, R. B. Deshmukh, “Real Time Mixing Index Measurement of Microchannels Using OpenCV”, International Symposium on VLSI Design and Test, 278-284, 2018
+C Chinta, R. B. Deshmukh, “High Speed Most Significant Bit First Truncated Multiplier”, 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), 2018
+V Kokkula, A Joshi, R. B. Deshmukh, “Supply and Temperature Independent Voltage Reference Circuit in Subthreshold Region”, International Symposium on VLSI Design and Test, 109-120, 2018
+A Kulkarni, V Kumar, S. B. Dhok, “Enabling Technologies for Range Enhancement of MI Based Wireless Non-Conventional Media Communication, 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), 2018.
+SB Dhule, V. Pulijala, “Novel RF MEMS Capacitive Switch for Lower Actuation Voltage”, International Symposium on VLSI Design and Test, 285-294, 2018,
+Balaji S Lone, Rajesh Junghare, Ganesh C. Patil, “Comparative study of monolayer MoS2 based double gate FETs with Schottky contacts and Doped reservoirs at the scaling limit”, 4 th
+IEEE International Conf. on Emerging Electronics, 16th – 19th Dec. 2018, IISC Bangalore.
+Ishan C. Ghosekar and Ganesh C. Patil, “Optimizing device efficiency of P3HT/P3HT:PCBM interlayer organic solar cell: Annealing dependent study “, 4 th
+IEEE International Conf. on Emerging Electronics, 16th – 19th Dec. 2018, IISC Bangalore.
+Ishan C. Ghosekar and Ganesh C. Patil, “Design and Fabrication of P3HT inter layer polymer solar cells for improving efficiency “, International workshop on Nano/Micro 2D-3D fabrication, manufacturing of electronic -biomedical devices and applications (IWNEBD-2018) 31st Oct. to 2nd Nov. 2018, Indian Institute of Technology, Mandi, India.
+Suyog T. Ingale, Ganesh C. Patil and B. R. Sankapal, ” Fabrication and characterisation of a novel MWCNT based junctionless transistor using chemical bath deposition”, International workshop on Nano/Micro 2D-3D fabrication, manufacturing of electronic -biomedical devices and applications (IWNEBD-2018) 31st Oct. to 2nd Nov. 2018, Indian Institute of Technology, Mandi, India.
+Ishan C. Ghosekar and Ganesh C. Patil, ” Enhancing the performance and thermal stability of organic solar cells by addition of P3HT layer at hole transporting interface”, 5th International Symposium on Semiconductor Materials and Devices, 30th Nov. to 2nd Dec. 2018, Visvesvaraya National Institute of Technology, Nagpur
+(Best Poster Award)
+Rajesh C. Junghare, and Ganesh C. Patil, Comparative Analysis of band structures of Monolayer MoS2 obtained using Ab-initio tight binding approach, 5th International Symposium on Semiconductor Materials and Devices, 30th Nov. to 2nd Dec. 2018, Visvesvaraya National Institute of Technology, Nagpur
+T Pravinraja and R. M. Patrikar, Effect of surface roughness on mixing in polysilicon microfluidic devices
+Raveesh Gourishetty, Ravi Solanki1, Ashutosh Mahajan and R. M. Patrikar, QuTSim: A Quantum Tunneling Simulator, 5th International Symposium on Semiconductor Materials and Devices, 30th Nov. to 2nd Dec. 2018, Visvesvaraya National Institute of Technology, Nagpur
+Akanksha D. Singh and R. M. Patrikar, fabrication and Characterization of electrostatically actuated MEMS cantilever based sensor, 5th International Symposium on Semiconductor Materials and Devices, 30th Nov. to 2nd Dec. 2018, Visvesvaraya National Institute of Technology, Nagpur
+(Best Poster Award)
+Pooja Kawde and Nikhil Deep Gupta , Light Power Mems Based Microwave Electrothermal Thruster For Nanosatellite With Helium Propellant, 5th International Symposium on Semiconductor Materials and Devices, 30th Nov. to 2nd Dec. 2018, Visvesvaraya National Institute of Technology, Nagpur
+A. D. Singh, R. M. Patrikar, “MEMS Cantilever based Chemosensor for Plant Disease detection using Volatile Organic Compounds”, 4 th
+IEEE International Conf. on Emerging Electronics, 16th – 19th Dec. 2018, IISC Bangalore.
+(Best Poster Award)
+R. Solanki, A. Mahajan, R. M. Patrikar, “Modeling of Program/ Erase Transient in SiNx based Charge Trap Memories”, 4 th
+IEEE International Conf. on Emerging Electronics, 16th – 19th Dec. 2018, IISC Bangalore 2017
+T Pravinraj and Rajendra Patrikar “Modelling And Characterization Of Droplet Impingement And Splitting Using Lattice Boltzmann Method For Lab On A Chip Applications” 8th ISSS International Conference on Smart Materials, Structures and Systems July 5-7, 2017, IISc Bangalore, India.
+T Pravinraj and Rajendra Patrikar “Inductive Splitting and Transport of a Droplet with no external actuation force for Lab on Chip devices”, 21st International Symposium on VLSI Design & Test (VDAT) Symposium, June29- July2, 2017, IIT Roorkee, India.
+Akash V. Joshi, Raghavendra Deshmukh and Rajendra Patrikar, “A Hysteresis Controlled Resolution for Level Crossing Sampling ADC”, INDICON 2017, 14th IEEE INDIA COUNCIL INTERNATIONAL, ID 1015, IIT Roorkee, Dec 15-17, 2017.
+Ishan C. Ghosekar and Ganesh C. Patil, “Concentration dependent blended P3HT: PCBM inverted organic solar cell using solution- processed ZnO Electron transport layer”, XIX International Workshop on The Physics of Semiconductor Devices (IWPSD 2017), Dec. 11-15, 2017, IIT Delhi, India.
+Garike Ramarao, Ishan C. Ghosekar and Ganesh C. Patil, “Dual-k HfO2 Spacer Bulk Planar Junctionless Transistor for Sub-30 nm Low Power CMOS”, 14TH IEEE INDIA COUNCIL INTERNATIONAL CONFERENCE (INDICON) 2017, DEC 15-17, IIT ROORKEE, INDIA.
+Pravin Zode, Abdus Samad and Raghavendra Deshmukh. “Fast Architecture of Modular Inversion using Itoh-Tsujii Algorithm” 21st International Symposium on VLSI Design & Test (VDAT) Symposium, June29- July2, 2017, IIT Roorkee, India.
+2016
+Ravi Solanki, Ashutosh Mahajan and Rajendra M. Patrikar, “Finite Element Modeling of Retention Process in high-k Interpoly Dielectric Nanocrystal Flash Memories”,
+Proc. of 3 rd
+International Conference on Emerging Electronics
+(ICEE),
+December 27-30, 2016
+, IIT Bombay, India
+Ganesh C. Patil “Comparative Analysis of Partial Buried Oxide Germanium -on -insulator p -Channel MOSFETs”,
+Proc. of 3 rd
+International Conference on Emerging Electronics
+(ICEE),
+December 27-30, 2016
+, IIT Bombay, India
+Amol Morankar and Rajendra M. Patrikar, “RF MEMS Band Pass Filter”,
+Proc. of 3 rd
+International Conference on Emerging Electronics
+(ICEE),
+December 27-30, 2016
+, IIT Bombay, India
+Vandana Jain, Rajendra M. Patrikar,  “Real Time Droplet Velocity Measurement using open source Computer Vision for EWOD Device”,  Eighth ISSS National Conference on MEMS, Smart Materials, Structures and System, 28 th
+-30 th
+September 2016,  IIT Kanpur.
+2015
+Ashish V. Jawke, and Ganesh C. Patil, ” A Comparative Study of Analog/RF performance of GaAs-on-Si and Si MOSFETs”,
+Proc. Of International 18th International Workshop on Physics of Semiconductor Devices (IWPSD) Dec.
+7-10, 2015,IISc Bangalore, India.
+Ashish V. Jawke, Sayli R. Aher, Harshad S. Borse, Kalyani S. Bhosle, Subhash R. Patil and Ganesh C. Patil, “Comparative Analysis of GaN-on-3CSiC and Conventional Si MOSFET for Digital Integrated Circuits”,
+Proc. of Annual IEEE India Conference (INDICON),
+Dec.
+17-20, 2015, Delhi, India
+Sayli R. Aher, Ashish V. Jawke, Harshad S. Borse, Kalyani S. Bhosle, Subhash R. Patil and Ganesh C. Patil, ” Comparative Study of Ge pMOS and In 0.3
+Ga 0.7
+As nMOS with Si MOSFETs for Digital Applications “,
+Proc. of Annual IEEE India Conference (INDICON),
+Dec.
+17-20, 2015, Delhi, India
+RasikaDhavse, Kumar Prashant, Chetan Dabhi, R. M. Patrikar, “Fabrication and Investigation of Low Voltage Programmabe Flash Memory Gate stack”,  November 2015, 1st International Conference on Micro-electronics, Computing & Communication Systems (MCCS-2015)
+AadityaHambarde, R. M. Patrikar, “Optimal Design of Coupled Microelectromechanical Resonating Arrays for Mass Sensing”, October 2015, COMSOL Conference, Pune, India.
+Rajesh Junghare, VinayakPachkawade, R. M. Patrikar, “A 2.47 GHz ultra NanoCrystaline diamond disk resonator with temperature compensation for RF application”, June 2015, 19th International Symposium on VLSI Design and Test (VDAT)
+VinayakPachkawade, Rajesh Junghare, R. M. Patrikar, “A small bandwidth microelectromechanical ring resonator-based bandpass filter, June 2015  19th International Symposium on VLSI Design and Test (VDAT)
+Ashish V. Jawke, Sayli R. Aher, Harshad S. Borse, Kalyani S. Bhosle, Subhash R. Patil and Ganesh C. Patil,  “A Novel GaAs-on-Si MOSFET for Analog Integrated Circuits”,
+Proc. of NSTI Nanotech, Jun. 14-17, 2015,Washington DC, USA.
+Subhash R. Patil, Ganesh C. Patil, Harshad S. Borse, Kalyani S. Bhosle, Ashish V. Jawke and Sayli R. Aher,  “A novel dual- k spacer double gate junctionless transistor for digital integrated circuits”,
+Proc. of NSTI Nanotech, Jun. 14-17, 2015,Washington DC, USA.
+Kalyani S. Bhosale, Ashish V. Jawke, Sayli R. Aher, Harshad S. Borse, Subhash R. Patil  and Ganesh C. Patil, “Impact of Gate Oxide Thickness and Channel Thickness on DC Performance of Carbon Nanotube Tunnel FET”,
+Proc. of NSTI Nanotech, Jun. 14-17, 2015,Washington DC, USA
+Harshad S. Borse, Ashish V. Jawke, Sayli R. Aher, Kalyani V. Bhosle, Subhash R. Patil, Ganesh C. Patil, and Dattatraya S. Bormane  “Impact of High- k gate oxide on Intrinsic Device Performance of Junctionless Transistor”,
+Proc. of NSTI Nanotech, Jun. 14-17, 2015,Washington DC, USA.
+2014
+AM Joshi, V Mishra, RM Patrikar, “Low complexity hardware implementation of quantization and CAVLC for H. 264 encoder” ,
+Proc. of IEEE International Conference on Computational Intelligence and Computing Research (ICCIC), 18-20 Dec. 2014, Coimbatore,  pp. 1 – 5 (ISBN:978-1-4799-3974-9)
+Ganesh C. Patil,  Vijaysinh H. Bonge, Mayur M. Malode and Rahul G. Jain,  “Novel Partially Insulated Junctionless Transistor for Low Power Nanoscale Digital Integrated Circuits”,
+Proc. 2014 IEEE International Conference on Emerging Electronics (ICEE-2014), Dec. 3-6, 2014, IIScBanglore, India, pp.1-4.
+(ISBN No.: 978-1-4673-6527-7)PP Zode, RB Deshmukh, “Fast modular multiplication using parallel prefix adder”,
+Proc. of
+International Conference onEmerging Technology Trends in Electronics, Communication and Networking (ET2ECN)
+, 26-27 Dec. 2014, Surat, pp. 1 – 4, (ISBN No.: 978-1-4799-6985-2)
+R Dhavse, K Suresh, V Mishra, R Patrikar, “Memory Behaviour and Distributed Capacitive Coupling Model for Low Frequency Inversion Capacitance of a Quantum Dot Flash Memory Gate Stack”,
+Proc. of 8th Asia Modelling Symposium (AMS), 23-25 Sept. 2014, Taipei, pp. 241 – 246(ISBN:978-1-4799-6486-4
+R Dhavse, F Muhammed, C Sinha, V Mishra, RM Patrikar, “ Simulation of Quantum Dot Flash Gate Stack with Lower Tunneling Voltages”,
+Proc. of International Conference on Devices, Circuits and Communications (ICDCCom), 12-13 Sept. 2014, Ranchi, pp. 1 – 6,
+P Sahare, VR Satpute, SB Dhok, “Comparative analysis of time elapsed & PSNR calculations for encoder and decoder in video codec (s) for different video formats”,
+Proc. of
+Students Conference on Engineering and Systems
+(SCES), 28-30 May 2014, pp. 1 – 6 Allahabad,  (ISBN:978-1-4799-4940-3)
+RE Chaudhari, SB Dhok, “Wavelet transformed based fast fractal image compression”,
+Proc. of
+International Conference on Circuits, Systems, Communication and Information Technology Applications (CSCITA), 4-5 April 2014, pp. 65 – 69, Mumbai.
+VP Bhale, UD Dalal, RM Patrikar, “A high stability and excellent gain flatness 3–5 GHz 0.18μm CMOS low noise amplifier for ultra-wide-band applications”,
+Proc. of International Conference on Devices, Circuits and Systems (ICDCS), 6-8 March 2014, Combiatore , pp. 1 – 6
+CT Kukade, RB Deshmukh, RM Patrikar, “A Novel Parallel Multiplier for 2’s Complement Numbers Using Booth’s Recoding Algorithm”,
+Proc. of International Conference on Electronic Systems, Signal Processing and Computing Technologies (ICESC)
+, 9-11 Jan. 2014, Nagpur, India, pp. 93 – 98
+AV Mire, SB Dhok, PD Porey, NJ Mistry, “Digital Forensic of JPEG Images”,
+Proc. of
+International Conference on Signal and Image Processing (ICSIP), 2014 ,8-10 Jan. 2014, pp. 131 – 136, Jeju Island.
+J Kalambe, R Patrikar “Design and Development of Microcantilever Based Detector”,
+Proc. of International Conference on
+Electronic Systems, Signal Processing and Computing Technologies (ICESC),9-11 Jan. 2014, Nagpur, pp. 335 – 340
+Ganesh C. Patil, S, C. Wagaj and P. M. Ghate, ” A simple analytical model of 4H-SiC MOSFET for high temperature circuit simulations”,
+Proc. of Annual IEEE India Conference (INDICON), 2014, Pune, India, pp. 1-5.
+(ISBN No.: 978-1-4799-5362-2)
+PP Zode, RB Deshmukh, “ Novel fault attack resistant Elliptic Curve processor architecture”,
+Proc. of Annual IEEE India Conference (INDICON), 2014, Pune, India, pp. 1-5.
+(ISBN No.: 978-1-4799-5362-2) 2013
+R Dhavse, F Muhammed, C Sinha, V Mishra, RM Patrikar, “Memory characteristics of a 65 nm FGMOS capacitor with Si quantum dots as floating gates”,
+Proc. of Annual IEEE India Conference (INDICON), 13-15 Dec. 2013, Mumbai, , pp.1 – 3 (ISBN:978-1-4799-2274-1)
+P Borkar, J Kalambe, R Patrikar, “Impact of design parameters on actuation voltage and response time for micro-cantilever based device”,
+Proc. of Annual IEEE India Conference (INDICON), 13-15 Dec. 2013, Mumbai , pp.1 – 6 (ISBN:978-1-4799-2274-1)
+Prasanna Kumar Misra, Ganesh C. Patil and S. Qureshi, “Process and device simulations to study the impact of Ge profile of 65 nm NPN SOI HBT with buried layer”,
+Proc. of 2013 IEEE INDICON, Dec. 13-15, 2013,IIT Bombay, India, pp. 65-68
+. (ISSN No.: 978-1-4799-2274-1 )
+T Pravinraj and  RajendraPatrikar,“ Fabrication and Characterization of  low cost electro-osmotic flow device micro scale transport” 8th ISSS National Conference on MEMS, Smart Materials, Structures and Systems, September 28- 30, 2013, IIT Kanpur, India
+RE Chaudhari, SB Dhok “Acceleration of fractal video compression using FFT”,
+Proc. of 15th International Conference on Advanced Computing Technologies (ICACT), 21-22 Sept. 2013, pp.1 – 4, Rajampet. (ISBN:978-1-4673-2816-6)
+A Deshmukh, RB Deshmukh, RM Patrikar “An efficient implementation of self timed audio Sigma-Delta Modulator”,
+Proc. of 7th Argentine School of Micro-Nanoelectronics, Technology and Applications (EAMTA)
+, 15-16 Aug. 2013, Buenos Aires, pp. 27 – 31
+S Korde, A Khandare, R Deshmukh, R Patrikar,  “Computational Functions’ VLSI Implementation for Compressed Sensing” VLSI Design and Test, 2013
+J Joseph, R Patrikar, “Impact of Fin Width and Graded Channel Doping on the Performance of 22nm SOI FinFET”, VLSI Design and Test, 2013
+S. Qureshi and Ganesh C. Patiland, “UTBB with Ground-Plane Dopant-Segregated Schottky Barrier SOI MOSFET for Thermally Efficient Low-Variability Nanoscale CMOS Circuits”,
+Proc. of 2013 IEEE 5th International Nanoelectronics Conference (INEC), Jan. 2-4, 2013, Singapore, pp. 65-68
+. (ISSN No.: 2159-3523)
+Navin D. Anwani, Raghavendra B. Deshmukh, Rajendra M. Patrikar,“Electrowetting-On-Dielectric basedDigital Microfluidics: Design, Fabrication and testing of a low cost Test-Chip” ISSS National Conference on MEMS, Smart Materials, Structures and Systems 2013.
+Gaurav Pendharkar, Raghavendra Deshmukh, Rajendra Patrikar, “Silicon microchannel fabrication for application in microfluidics”, First National Conference on Micro and Nanofabrication, January 21-23, 2013, Central Manufacturing Technology Institute, Bangalore 2012
+Ganesh C. Patil and S. Qureshi, “A Comparative Study on Analog/RF Performance of Pt-Germanide and Pt-Silicide Schottky Barrier pMOSFETs”,
+Proc. of IEEE Electron Devices and Solid State Circuits (EDSSC), Dec. 3-5, 2012, Bangkok, Thailand, pp. 1-2
+. (ISBN No.: 978-1-4673-5694-7 )
+AM Joshi, RM Patrikar, V Mishra, “Design of low complexity video watermarking algorithm based on Integer DCT”,
+Proc. of International Conference on Signal Processing and Communications (SPCOM), 22-25 July 2012, Bangalore pp.1 – 5 (ISBN:978-1-4673-2013-9)
+AK Dwivedi, RB Deshmukh, RM Patrikar, “Modeling and simulation of capacitive sensor for E. Coli bacteria in water”,
+Proc. of 16th International Workshop on Physics of Semiconductor Devices,2012, Kanpur, India, pp. 1-5.
+J Kalambe, RM Patrikar “Microcantilever based biosensor with electrical read-out method”,
+Proc. of International Symposium on Physics and Technology of Sensors (ISPTS), 7-10 March 2012, Pune , pp. 249 – 252 (ISBN:978-1-4673-1040-6)
+Amit Joshi, Vivekanand Mishra and R. M. Patrikar “Real Time Implementation of Digital Watermarking Algorithm for Image and Video Application”,
+Watermarking – Volume 2, Dr. Mithun Das Gupta (Ed.),
+(ISBN: 978-953-51-0619-7), InTech, 2012
+Ganesh C. Patiland S. Qureshi, “Suppression of Variability in Metal Source/Drain SOI MOSFET with Partial Buried Oxide and δ-doping”,
+Proc. of NSTI Nanotech, Jun. 18-21, 2012, Santa Clara, USA, pp. 44-47
+. (ISBN No.: 978-1-4665-6275-2)
+Amol Morankar, Dr. R. M. Patrikar, “Design & Simulation of Metal MEM Parallel Beam Resonator”, International Conference on Nano Science & Technology, at International Advance Research Centre for Powder Metallurgy and New Materials, Hyderabad, India, Jan 20th – 23rd 2012
+Jayu P Kalambe, Rajendra M Patrikar, “Microcantilever Based Biosensor with Electrical Read-out Method”, International Conference on Nano Science & Technology, at International Advance Research Centre for Powder Metallurgy and New Materials, Hyderabad, India, Jan 20th – 23rd 2012
+Jayu Kalambe, Rajendra Patrikar “Design and Analysis of Micromachined Cantilever with Control Circuit for Temperature Sensing Application” National Conference on Smart Materials Structures and Systems, September 21-22, 2012, Coimbatore, India.
+Gaurav Pendharkar, Raghavendra Deshmukh, Rajendra Patrikar, “Modeling and Simulation of Electrokinetic Flow with Surface Roughness Effects Using Lattice Boltzmann Method”, Fifth ISSS National Conference on MEMS, Smart Materials, Structures and Systems, September 21-22, 2012,Karpagam University, Coimbatore.
+2011
+Gaurav Pendharkar, RaghavendraDeshmukh, RajendraPatrikar, “Effect of Surface Roughness on the single and multiphase fluid flow through microchannel using Lattice Boltzmann method”, Sixteenth International Workshop on Physics of Semiconductor Devices (IWPSD-2011). December 19-22, Indian Institute of Technology, Kanpur
+Raju Lampande, R.B. Deshmukh, R. M. Patrikar,”Influence of Shape and Size on the Optical Properties of Palladium Nanostructures”, IWPSD 2011, Dec 2011
+Kapil Soni; and RajendraPatrikar; “Inductive Degenerated Low noise Amplifier for Wireless Application in 0.18um UMC CMOS”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011.
+Ashwini Shrirao; Rashmi Gautam; and RajendraPatrikar; “Simulation of Low Voltage Flash Memory Cell”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011
+Sujeet Kumar; R.B. Deshmukh; and RajendraPatrikar; “Low Power High Throughput Differential Current Mode Signaling Technique for Global VLSI Interconnect”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011.
+MadhuriBorkar; Rashmi Gautam; and RajendraPatrikar; “Simulation of 22nm n-Metal Oxide Semiconductor Field Effect Transistor”, 15th IEEE VLSI Design & Test (VDAT) Symposium, July 2011
+Anita Arvind Deshmukh, RaghvendraDeshmukh, RajendraPatrikar, “Low Power Asynchronous Sigma-Delta Modulator using Hysteresis Level Control,” 2011 IEEE Conference on Computer Society Annual Symposium on VLSI (ISVLSI) 2011, IIT Madras , 4-6 July 2011, pp. 353-354.
+Y. Sadavarte, Mahendra Gaikwad and RajendraPatrikar “Comparative Study of Switching Techniques for Network-on-Chip Architecture” International Conference on “Communication, Computing & Security-ICCCS 2011” organized by National Institute of Technology (NIT), Rourkela, Odisha, 12-14 Feb. 2011 & published by ACM Digital Library (ISBN-978-1-14503-0464-1).
+Anita Arvind Deshmukh, Raghvendra Deshmukh, Rajendra Patrikar, “Low Power Asynchronous Sigma-Delta Modulator using Hysteresis Level Control,” 2011 IEEE Conference on Computer Society Annual Symposium on VLSI (ISVLSI) 2011, IIT Madras , 4-6 July 2011, pp. 353-354.
+2010
+S.B. Dhok ,R.B. Deshmukh and A.G. Keskar”Fast Fractal Encoding through FFT using modified cross correlation based similarity measure “, International conference on Advanced Topics in Artificial Intelligence (ATAI) Phuket, Thailand Nov 2010.
+Atul Kumar Dwivedi, Gaurav pendharkar, R.B.Deshmukh, R.M. Patrikar, “Detection of E.Coli Cell using capacitance modulation”, Comsol conference Bangalore, India,October 29-30, 2010. (awarded 2nd prize by juri’s choice)
+Praveen Kumar Reddy, RajendraPatrikar,”A Novel Curvature Compensation Technique for voltage reference circuit”, 14th IEEE VLSI Design & Test (VDAT) Symposium, July 2010.
+Anita Deshmukh, Ravi Patil, RaghvendraDeshmukh, RajendraPatrikar,”Asynchronous ADC Using Novel Asynchronous Subranging Scheme”,14th IEEE VLSI Design & Test (VDAT) Symposium, July 2010.
+Anurag Zope, W Khokle, RaghvendraDeshmukh, RajendraPatrikar”, Constant Bias Current Gain Variation Method for Weak and Strong Inversion MOSFETs,” 14th IEEE VLSI Design & Test (VDAT) Symposium, July 2010.
+Mahendra Gaikwad, RajendraPatrikar and Abhay Gandhi “Energy-aware Network-on-Chip architecture using Perfect Difference Network” International Conference on Advances in Computer Engineering-ACE-2010 organized by ACEE &IEEEXplore CPS, Banglore, 21-22 June 2010. (Recipient of First Best Research Paper of the Conference)
+Raju Lampande, NileshBarange, RajendraPatrikar, “Nanoparticles Marker for Biological application using surface enhanced Raman Spectroscopy”, Nanotech conference & Expo 2010 , Anaheim CA ,USA.
+Anita Deshmukh, Ravi Patil, ,RaghavendraDeshmukh and RajendraPatrikar “Asynchronous ADC Using Novel Asynchronous Subranging Scheme,” VDAT2010, Chitkara University, 7-9 July 2010, pp 41-52.
+Kalyani Patrikar, Rashmi Gautum,”Simulation of thermodynamics properties of Silicon quantum dots /Nanocrystal on Silicon dioxide and Hafnium oxide film”,National Conference on Nanomaterials & Nano Technology (NCNN)Jan 2010,V.N.I.T.Nagpur.
+Raju Lampande, NileshBarange, Hassan Razaa, R. B. Deshmukh, R. M. Patrikar ” Optical Properties of Silicon nanostructures for biological application”, National Conference on Nanomaterials &NanoTechnology (NCNN) Jan-2010. VNIT Nagpur.
+Raju Lampande, R. B. Deshmukh, R. M. Patrikar “Analysis of Metal nanostructures for Solar cell”, National Conference on Nanomaterials &NanoTechnology(NCNN) Jan 2010. V.N.I.T. Nagpur.
+Sneha Cherian Earaly, Rashmi Gautaum, R. M. Patrikar “, Simulation of Silicon Nanowire Transistor”, National Conference on Nanomaterials & Nano Technology(NCNN) Jan 2010. V.N.I.T. Nagpur.
+Krishna Reddy , Rashmi Gautum, R. M. Patrikar “Process Simulation of Hot-wire Chemical Vapor Deposition of Silicon Thin Films”, National Conference on Nanomaterials & Nano Technology(NCNN) Jan 2010. V.N.I.T. Nagpur.
+Jaganshivaratri, Rashmi Gautum, R. M. Patrikar,” Simulation of carbon nanotube field effect transistor”, National Conference on Nanomaterials & Nano Technology (NCNN) Jan 2010. V.N.I.T. Nagpur.
+B. Kranthi Kumar, Rashmi Gautum, R.M. Patrikar “Simulation of quantum dot floating gate EEPROM cell”, National Conference on Nanomaterials & Nano Technology (NCNN) Jan 2010. V.N.I.T. Nagpur.
+Gaurav Pendharkar, NileshBarange, R B. Deshmukh, R. M. Patrikar, “Modeling and simulation of microchannel flow using Lattice Boltzmann method”,National Conference on Nanomaterials & Nano Technology (NCNN) Jan 2010. V.N.I.T. Nagpur.
+NileshBarange, C.T. kukade, R.M. Patrikar, “Atomistic material failure simulation”, National Conference on Nanomaterials & Nano Technology (NCNN) Jan 2010. V.N.I.T. Nagpur.
+SidhheshBehere , NileshBarange, Jatin Bhatt, R. M. Patrikar “Synthesis and characterization of Si Quantum dots”, National Conference on Nanomaterials & Nano Technology (NCNN) Jan 2010. V.N.I.T. Nagpur.
+KalyaniPatrikar, Rashmi, “Growth of silicon quantum dot/Nanocrystals on hafnium oxide films”, proc. of International conference on NANO Technology materials and composites for frontier applications, Pune,2010.
+Sanjay Sahare, ChandrashekharKukade, Rashmi, RajendraPatrikar “Formation of silicon quantum dots using LPCVD on substrate treated with rapid thermal processing”, proc. of International conference on NANO Technology materials and composites for frontier applications,2010,pune.
+Sneha Cherian Earaly, Rashmi, RajendraPatrikar,”Effect of strain on silicon nanowire transistor and its potential application as a biosensor”, proc. of International conference on NANO Technology materials and composites for frontier applications,2010,pune.
+B. Kranthi Kumar, Rahmi, RajendraPatrikar ,”Simulation of quantum dot floating gate EEPROM cell,. Proc. of International conference on NANO Technology materials and composites for frontier applications”,2010,pune.
+Krishna Reddy, ChandrashekharKukade, Rashmi, Rajendrapatrikar, “Computer modeling and simulation of hot wire chemical vapor deposition”, proc. of International conference on NANO Technology materials and composites for frontier applications,2010, Pune.
+Anita Deshmukh, Ravi Patil, ,Raghavendra Deshmukh and Rajendra Patrikar “Asynchronous ADC Using Novel Asynchronous Subranging Scheme,” VDAT2010, Chitkara University, 7-9 July 2010, pp 41-52.
+Kalyani Patrikar, Rashmi Gautum,”Simulation of thermodynamics properties of Silicon quantum dots /Nanocrystal on Silicon dioxide and Hafnium oxide film”,National Conference on Nanomaterials & Nano Technology (NCNN)Jan 2010,V.N.I.T.Nagpur.
+2009
+Rashmi and R. M. Patrikar, “Simulation of Nanostructure Floating Gate Asymmetric Channel EEPROM Cells”, Proceedings of XV International workshop on Physics of semiconductor Devices (IWPSD) December 2009, New Delhi.
+Anurag Zope, WamanKhokle, Raghvendra D. Deshmukh, and RajendraPatrikar “Weak Inversion based Low Power Low Noise Sixth order gm-C Filter at 1V for ECG Application with 180nm Technology” VDAT, July 2009
+Raju Lampande, Gaurav Pendharkar and RajendraPatrikar, “Study of Optical Properties of different nanostructures for biomedical application”, Proceedings of XV International workshop on Physics of semiconductor Devices (IWPSD) July 2009, New Delhi.
+JayuKalambe, Anju Gupta, Rajesh Pande, R.M. Patrikar, “Modeling and simulation of MEMS cantilever for Bio-sensor application,” International Conference on MEMS, IIT Madras, Jan 3-5, 2009.
+Raju Lampande, ChandrashekharKukade, Raghvendra D Deshmukh, RajendraPatrikar “ An Algorithm for High speed, Low power Implementation of ModularMultiplier” VDAT 2009 2008
+Pande, Rajesh; Patrikar, Rajendra; “A CAD tool for RF MEMS devices ”, Design Automation Conference, 2008. ASPDAC 2008. Asia and South Pacific 21-24 March 2008 Page(s):89 – 94 Digital Object Identifier 10.1109/ASPDAC.2008.4484067
+Sudhir G. Akojwar and Rajendra. M. Patrikar “Perfect Difference Set – Networks for Wireless Sensor Networks” 4th IEEE International Conference on Communications and Sensor Networks, IIIT Allahabad, INDIA, Dec 27-29, 2008. pp 95-100.
+Rajendra. M. Patrikar and Sudhir G. Akojwar “Neural Network Based Classification Techniques for Wireless Sensor Network with Cooperative Routing” 12th WSEAS International Conference on COMMUNICATIONS, Heraklion, Greece, July 23-25, 2008, page(s) 433-438
+Meenakshi Bheevgade, and Rajendra M. Patrikar “Implementation of Watch Dog Timer for Fault Tolerant Computing on Cluster Server” PWASET, 2008,Volume 28 April 2008 ISSN 1307-6884, P265-268.
+MeenakshiBheevgade, Manik Mujumdar, RajendraPatrikar and Latesh Malik “Achieving Fault Tolerance in Grid Computing System” COIT-2008, March 2008, P-98-99.
+R.V.Kshirsagar, R.M.Patrikar, Design of a reconfigurable multiprocessor core for higher performance and reliability of embedded systems”, IFIP International Conference on Very Large Scale Integration, held in Nice, France, January 2008
+AmeyWalke, W.S.Khokle, Rajendra M Patrikar “Design of Low Power Low Pass Filter for ECG Application with deep Submicron technology” VDAT 2008-06-19
+VinayakPachkawade, RajendraPatrikar, “ Selecting an optimunm bias current for an auxiliary amplifier for power optimisation” VDAT 2008
+R.M. Badghare, R.B. Deshmukh, R.M. Patrikar “Novel Circuits for Two’s Complement of a Binary Number” IEEE VDAT 2008 (VLSI Design and Test Symposium)
+Manik Mujumdar, MeenakshiBheevgade, Latesh Malik, and RajendraPatrikar “High Performance Computational Grids- Fault tolerance at System Level” ICETET, 2008, P379-383
+Hassan M Raza and R. M. Patrikar “High throughput design & implementation of multi- FFT/IFFT core in FPGA for hardware acceleration”  High performance computing HiPC-2008 SS International conference, Bangalore.
+2007
+Harode, A.N.; Pinge, M.; Joshi, A.; Patrikar, R.M.; “Calculation of mobility using Monte Carlo method in a doped semiconducting single wall carbon nanotubes”, Physics of Semiconductor Devices, 2007. IWPSD 2007. International Workshop on 16-20 Dec. 2007 Page(s):943 – 945
+Pande, R.S.; Jalgaonkar, A.; Patrikar, R.M.; A 3-D FEM based extractor for MEMS inductor with Monte-Carlo sampling Physics of Semiconductor Devices, 2007. IWPSD 2007. International Workshop on 16-20 Dec. 2007 Page(s):710 – 713;
+Rajesh S. Pande, R.M. Patrikar, “Finite element analysis and optimization of RF MEMS devices,” International Conference on Computer Aided Engineering (CAE 2007), Indian Institute of Technology, Madras, Dec. 13-15 2007
+Amit N. Harode and R.M. Patrikar, “Hybrid multiscale simulation of heteroepitaxial growth of ultra thin films,” in the International Conference on Computer Aided Engineering, (CAE-2007) December 13 – 15, 2007, Indian Institute of Technology Madras.
+Sudhir G. Akojwar and Rajendra. M. Patrikar “Classification Techniques with Cooperative Routing for Industrial Wireless Sensor Networks”International Joint Conferences on Computer, Information, and Systems Sciences, and Engineering (CISSE 07- Online conference) December 3 – 12, 2007.
+Mahendra Gaikwad, RajendraPatrikar and Abhay Gandhi “Application-specific Buffer Space Allocation for Network-on-Chip Router Design” in 16th Annual Symposium of IEEE Bangalore (INDICON-2007), September 6-8, 2007
+Mahendra Gaikwad, RajendraPatrikar and Abhay Gandhi “CDMA-based Router Architecture for NoC” in IMS Conference 2007 on Trends in VLSI & Embedded Systems organized by Indian Microelectronics Society, India in collaboration with Semi-Conductor Laboratory, Central Scientific Instruments Organisation & Panjab University at Panjab Engineering College, Chandigarh held on August 17-18, 2007
+Rajesh S. Pande, Anoop P. Jalgaonkar, Rajendra M. Patrikar, “Modeling of RF MEMS shunt capacitive switch with FEM,” Proceedings of the IMS conference- 2007 Macmillan advanced research series, Trends in VLSI and embedded systems, Punjab Engg. College, Chandigarh, Aug 17-18 2007 pp 346-349
+SudhirAkojwar, RajendraPatrikar “Neural Networks based Real Time Classifier for Wireless Sensor Networks and Framework for VLSI Implementation,” ISIE2007 IEEE International Symposium on Industrial Electronics June 4-7, 2007
+Sudhir G. Akojwar, R.M.Patrikar, “Classification techniques for sensor data and clustering architecture for wireless sensor networks”, IAENG International conference on communication systems and applications (ICCSA’07) ,IMECS2007 , pp 1246 – 1255, Hong Kong, 21-23 march, 2007.
+Sanjiv K. Mangal, Rahul.M.Badghare,R.B.Deshmukh, and R.M.Patrikar , “FPGA Implementation of Low power parallel multiplier
+”, in Proc. of 20 th
+IEEE Int. VLSI Design conf., jan. 2007.
+Shantanu A. Bhalerao, Abhishek V. Chaudhary, Rajendra M. Patrikar,”A CMOS Low Voltage Charge Pump”,in 20th Intl. Conf. on VLSI Design,2007
+Hassan M Raza and R. M. Patrikar “Hardware/software co-design simulation method for shared bus multiprocessor system” paper accepted at INDICON-2007 (IEEEIndia sponsored) International conference,Bangalore.
+Hassan M Raza and R. M. Patrikar “Verification of Multiprocessor system using Hardware/Software Co-simulation” paper accepted at SPIT-IEEE Colloquium 2007 international conference – Mumbai.
+Rahul Badghare; SanjivMangal,RaghvendraDeshmukh, RajendraPatrikar “FPGA Implementation of Low Power ASU Multiplier” VDAT 2007
+SaketSakunia, Shantanu A. Bhalerao, Abhishek V. Chaudhary, MukundJyotishi, Mandar Dixit, RaghavJumde, Rajendra M. Patrikar ” UbiSens: Achieving a low power Wireless Sensor Nodes” Fourth IEEE/IFIP International Conference on Wireless and Optical Communication Networks, 2007
+Navaram Kumar RajendraPatrikar, Kishore Kulat, ”A Double-Pulsed Latch Flip-Flop” VDAT 2007 2006
+Akojwar, S.G.; Patrikar, R.M.; “Real Time Classifier For Industrial Wireless Sensor Network Using Neural Networks with Wavelet Preprocessors” Industrial Technology, 2006. ICIT 2006. IEEE International Conference on 15-17 Dec. 2006 Page(s):512 – 517
+Sudhir G. Akojwar, R.M.Patrikar, Real Time Classifier For Industrial Wireless Sensor Network Using Neural Networks with Wavelet Preprocessors, IEEE International conference on Industrial Technology, (ICIT 2006), 15-17 Dec 2006, Mumbai, INDIA
+Mrunal. A. K, Shirasgaonkar. M, RajendraPatrikar ” Highly Linear and Efficient AlGaAs/GaAs HBT Power Amplifier with Integrated Linearizer”;,. IEEE APCCAS 2006, Dec 4-5, Singapore
+Mrunal. A. K, Shirasgaonkar. M, RajendraPatrikar “Stacked Active Loads For Low Power, High Speed GaAs Digital Circuits”;. (IEEE APCCAS 2006, Dec 4-5, Singapore)
+Hassan M Raza, R.M.Patrikar, “Can controller implementation on FPGA” PCEA-IFToMM International conference – PICA 2006
+Shantanu A. Bhalerao, Abhishek V. Chaudhary, Raghavendra B. Deshmukh, Rajendra M. Patrikar,”Powering Wireless Sensor Nodes using Ambient RF Energy”,in IEEE Conf. on Systems, Man, and Cybernetics, 2006 Held on October 8-11, 2006 at Taipei, Taiwan
+Shantanu A. Bhalerao, Abhishek V. Chaudhary, Raghavendra B. Deshmukh, Rajendra M. Patrikar,”RF Energy Scavenging for Wireless Sensor Nodes”,in 10th IEEE VLSI Design And Test Symposium (VDAT), 2006 Held on August 9 – 12, 2006 at Goa
+Mrunal. A. K, Shirasgaonkar. M, RajendraPatrikar “Power Amplifier Linearization using a Diode”;, IEEE MELECON 2006, May 16-19, Benalmádena (Málaga), Spain, pages: 173-176, Digital Object Identifier: 10.1109/MELCON.2006.1653064
+Makrand Shirasgaonkar, A.K. Mrunal, Rajendra M. Patrikar “Power Amplifier Linearization Using Diode on Voltage”, The 13th IEEE Mediterranean Electrotechnical Conference – MELECON – Benalmádena (Málaga) , Spain – May 2006.
+Rajendra M. Patrikar “Design Planning for Uniform Thermal Distribution.” The 19th International conference on VLSI Design Jan.2006.
+Rajendra M. Patrikar Olivier Peyran “Design Planning for Uniform Thermal Distribution.” Design Planning for Uniform Thermal Distribution VLSI Design, 2006. Held jointly with 5th International Conference on Embedded Systems and Design., 19th International Conference on 03-07 Jan. 2006 Page(s):541 – 544
+Mrunal. A. K, Shirasgaonkar. M, RajendraPatrikar “Highly Linear, Highly Efficient Power Amplifier Design, VDAT 2006, India.
+Rajesh Pande, R.M.Patrikar “Effect of surface roughness on RF MEMS switch. “at International Conference on MEMS and Semiconductor Nanotechnology (MEMS-NANO’05) December 2005 (I.I.T., Kharagpur).
+Amit Harode, AnupNarkhede, R.M.Patrikar ”An Investigation of the Temperature Dependence of the Mobility using Monte Carlo Method in Carbon Nanotubes” International Conference on MEMS and Semiconductor Nanotechnology (MEMS-NANO’05) December 2005 (I.I.T., Kharagpur).
+Rajesh S Pande, K.A. Borikar, R.M. Patrikar “Tool Development for Modeling of RF MEMS Shunt Switch.” National Conference on Microelectronics & VLSI. December 2005 (IIT,Powai)
+Sudhir G. Akojwar, R.M.Patrikar, “Neural Networks for Wireless Sensors networks.” National Conference on Microelectronics & VLSI. December 2005 (IIT,Powai) — Best Paper Award
+M.A.Gaikwad, A.S. Gandhi, R.M. Patrikar “Hybrid Network Architecture for Processor Connections on SoC.” National Conference on Microelectronics & VLSI. December 2005 (IIT,Powai)
+AnupNarkhede, R.M.Patrikar “Mobility calculations using Monte Carlo Method in Carbon Nanotubes” NSPAET March 2005.
+R.M.Patrikar “Simulation of Self Organisation process: A case study of Quantum Dots” NSPAET March 2005 (Invited Paper)
+Ganesan S Iyer and Rajendra M. Patrikar, “Effect on Surface Roughness on Physical Design Parameters.”8th VLSI Design & Test Workshops (VDAT), August,2004.
+Ganesan S Iyer and Rajendra M. Patrikar, “An Application of Neural Network Learning to Physical Design Optimization in VDSM Technology.” 8th VLSI Design & Test Workshops (VDAT), August,2004.
+RajendraPatrikar, Teo Teck Wei, Tan Kai, Anselm Yip “Improved Effective Electrode Area For Cell Capacitor by Removing Microroughness of HSG Films” TECH Technical Seminar Jan.21 2000.
+RajendraPatrikar and Yam Kwong Loon “Tailoring Maximum Electric Field In MOS Transistor Channel for HOT Carrier Reliability” TECH Technical Seminar Jan.21 2000.
+RajendraPatrikar and Tan Soo Hee “Yield Prediction for Y84 Devices Yield Improvement Methodology for Future Devices” TECH Technical Seminar Jan.21 2000.
+Chandorkar, R.M.Patrikar, “Reliability in Electronic Devices and Systems”, Proceedings of National Conference on Quality and Reliability, India, p. 64, (1990).

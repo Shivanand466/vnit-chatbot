@@ -1,0 +1,17 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/feedback/
+TITLE: Feedback
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Feedback
+Feedback Form –
+Click here
+Please provide feedback regarding the curriculum of the Dept. of Mechanical Engineering, VNIT, Nagpur on each of the following aspects. In the second part.
+Use √  symbol to tick a box. Very Good(VG), Good(G), Fair(F), Satisfactory(S), Unsatisfactory(UN).
+Thanks in advance for the time taken to fill in this survey. Your feedback is very important for us to improve our curriculum and teaching methodology.
+Form for Employers
+Feedback Form –
+Click here
+This feedback sheet consists of two parts.In the first part, please provide a candid feedback regarding the students (the current students and the past students who might be working in your organization) of the Dept. of Mechanical Engineering, VNIT, Nagpur on each of the following aspects. In the second part, please provide a feedback regarding the curriculum.
+Use √  symbol to tick a box as applicable, i.e., Very Good(VG), Good(G), Fair(F), Satisfactory(S), Unsatisfactory (UN).
+Thanks in advance for the time taken to fill in this survey. Your feedback is very important for us to improve our curriculum and teaching methodology.

@@ -1,0 +1,26 @@
+SOURCE_URL: https://vnit.ac.in/section/sports/faculty-2/
+TITLE: Faculty
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Faculty
+Name :
+Dr. Prashant S. Nagrale
+Designation : Lecturer-Physical Education
+Qualification :  M. P. Ed., NET, Ph.D.
+Contact No. : 8275872225
+E-mail id : pnagrale@phyedu.vnit.ac.in , nagraleprashant@ymail.com
+Name :
+Dr. Robin F. Simon
+Designation : Lecturer-Physical Education
+Qualification :  B. Sc., M. P. Ed., NET, Ph.D.
+Specialization : Badminton
+Areas of interest : Periodisation & Training methods,
+Contact No. : 9422124434
+E-mail id : robinsimon468@gmail.com, robinsimon@phyedu.vnit.ac.in
+Name : Dr. AwadheshPratap Singh
+Designation : Students Activity & Sports Officer
+Qualification : B.P.E., M.P.E., M.Phil., NET (JRF), P.G.D.Y.Ed., Ph. D.
+Areas of interest : Exercise Physiology, Nutrition& Yoga
+Contact No. : 7620999052
+E-mail id : awadheshyoga@gmail.com, awadheshpsingh@phyedu.vnit.ac.in

@@ -1,0 +1,254 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/maths/ph-d/
+TITLE: Ph. D.
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Ph.D Students
+OnGoing
+Completed
+Ongoing:
+Current Ph.D. Students As on 01 April, 2024
+Name of Scholar
+Name of Supervisor
+Title of Thesis or Research Area
+Year of Registration
+Mr. Prabal Acharya
+Dr. M. Devakar
+Fluid Dynamics 2021
+Mr Nikhil Purushottam Zade
+Dr. Jyoti Singh
+Commutative Algebra 2021
+Mr. Madhav Singh
+Dr. Vishnu Pratap Singh
+Knapsack Problems and its applications 2022
+Ms Bhawna Tripathi
+Dr. Pallavi Mahale
+Regularization of ill-posed operator equations in Banach spaces 2022
+Ms. Richa Jain
+Dr. VijenderNallapu
+Fractal Approximation 2022
+Mr. Ashutosh Kumar Karna
+Dr. Purnima Satapathy
+Applications of Lie Groups and Lie Algebra to PDEs 2022
+Mr. Rahul Misra
+Dr. P. Pramod Chakravrthy
+Numerical methods for fractional differential equations 2022
+Mr. Romanshu Garg
+Dr. G. P. Singh
+Mathematical Models of the Universe 2022
+Mr. Satyam Singh
+Dr. Naga Raju Gande
+Numerical methods for solving partial differential equations 2022
+Mr. Tapan Kumar Muduli
+Dr. Purnima Satapathy
+Application of Lie groups to Integro Differential Equations 2022
+Ms. Anjali Sharma
+Dr. Vishnu Pratap Singh
+Operation Research 2022
+Ms. Jyoti Yadav
+Dr. P. Roul
+Numerical Methods to solve PDE 2022
+Mr. Sachin Kumar Sahu
+Dr. P. P. Chakravarthy
+Numerical Methods for singular perbation problems 2022
+Mr. Satyam Das
+Dr. Sourav Pradhan
+Stochastic modelling of queuing System 2022
+Mr. Akash Pradhan
+Dr. Deepesh Kumar Patel
+Fixed point theory 2022
+Mr. Soumya Ghosh
+Dr. Vijender Nallapu
+Numericl Analysis 2022
+Mr. Nikhil Kumar
+Dr. M. Devakar
+A mathematical study on the flows of viscous fluids 2023
+Mr. Vikas Kumar
+Dr. P. Roul
+Numerical techniques for fractional order PDEs 2023
+Mr. Vivek Pathak
+Dr. P. Roul
+Numerical techniques and their analysis for space-time fractional order PDEs 2023
+Mr. Karan Rathore
+Dr. Mohan K Mallick
+Existance, Uniqueness and multiplicity results for fully nonlinear elliptic operators 2023
+Mr. Jivesh Sharma
+Dr. Pallavi Mahale
+Ill-posed operator Equations 2023
+Mr. Ashish Yadav
+Dr. Sourav Bhattacharya
+Topological Dynamical Systems and Ergodic Theory 2023
+Ms. Anju
+Dr. Naga Raju Gande
+Numerical Techniques for time dependent PDE’s 2023
+Mr. Simanchal Sahu
+Dr. Naga Raju Gande
+Numerical technique to solve PDE 2023
+Mr. Khomesh Rajeshwar Patle
+Dr. G. P. Singh
+General relativity, Cosmology and modified theory of gravity 2023
+Mr. Sameer Nitin Khandagale
+Dr. P. Roul
+Robust graded and adaptive mesh techniques for fractional convection – reaction – diffusion model in higher dimension 2023
+Ms. Mayuri Jaykumar Rodge
+Dr. N. Bhengra
+Wave Propogation 2023
+Ms. Rashi Maheshwari
+Dr. P. Pramod Chakravrthy
+Numerical analysis of fractional differential equations 2024
+Ms. Jyotsna Ambast
+Dr. Naga Raju Gande
+Developing numerical teq for partial differential equation.
+2024
+Ms. Rekha Chauhan
+Dr. Pallavi Mahale
+Regularization of ill-posed non-linear operator equation in Banach spaces 2024
+Mr. Sachin Singh
+Dr. Mohan Mallick
+Study on non-linear eigenvalues in PDEs 2024
+Mr. Himanshu Gangwar
+Dr. M. Devakar
+Mathematical study of fluid problem 2024
+Mr. Ashish Verma
+Dr. S. Pradhan
+Stochastic Modelling and analysis of queueing systems 2024
+Mr. Soudip Patra
+Dr. M. Devakar
+A mathematical study on the flow of viscous fluids 2024
+Ms. km. Radhika
+Dr. Vishnu Pratap Singh
+Optimization in mixed environment 2024
+Ms. Mahima Sahu
+Dr. P. Roul
+Developing Numerical Technique for fractional order diff equations (Proposed).
+2024
+Ms. Prachi Sahu
+Dr. Vishnu Pratap Singh
+Optimization under uncertainty 2024
+Mr. Rubel SK
+Dr. N. Bhengra
+Theoretical study of dispersion of seismic waves propagation.
+2024
+List of Ph.D. Passed Out Students
+Name of Scholar
+Name of Supervisor (s)
+Title of Thesis
+Year of Completion
+Dr. Shubha Kotambkar
+Dr. G. P. Singh
+A Study of Cosmological Models of The Early Universe 2003
+Late Dr. R. V. Deshpande
+Dr. G.P. Singh
+A Study on Viscous Cosmological Models With Particle Creation In Scalar Tensor Theory 2004
+Dr. A. Y. Kale
+Dr. G.P. Singh
+A Study of Bulk Viscous Cosmological Models of The Expanding Universe 2010
+Dr. R. Nageshwar Rao
+Dr. P. Pramod Chakravarthy
+Numerical methods for solving singularly perturbed differential difference equations 2013
+Dr. K. Ramesh
+Dr. M. Devakar
+Some studies on the peristaltic transport of non-Newtonian fluids through inclined channels and inclined tubes with endoscope 2016
+Dr. N. Ch. Ramgopal
+Dr. M. Devakar
+Some unidirectional steady flows of two immiscible fluids through a circular pipe 2016
+Dr. Binay Kr. Bishi
+Dr. G.P. Singh
+Modified Cosmological Models With Recent Observational Constraints 2017
+Dr. S. Dinesh Kumar
+Dr. P. Pramod Chakravarthy
+Numerical methods for solving singularly perturbed delay differential equations with large delays 2017
+Dr. U. Warbhe
+Dr. P. Roul
+Design, analysis and implementation of numerical methods for the solution of singular boundary value problems 2017
+Dr. Samala Rathan
+Dr. Naga Raju Gande
+High order shock capturing numerical methods for hyperbolic conservation laws 2018
+Dr. Rahul Shukla
+Dr. Rajendra Pant, Dr. D.K. Patel (Co)
+Fixed point approximation methods for nonexpansive type mappings with applications 2018
+Dr. Sharad Dixit
+Dr. Pallavi Mahale
+ITERATIVE REGULARIZATION METHODS FOR NONLINEAR ILL POSED OPERATOR EQUATIONS IN THE BANACH SPACE SETTING 2019
+Dr. Yogitha Rathod
+Dr. Naga Raju Gande
+An Improved Third Order WENO Schemes for Hyperbolic Conservation Laws 2019
+Dr. K. Thula
+Dr. P. Roul
+Higher-order numerical methods for solving  boundary value problems arising in various physical models 2019
+Dr. Ankush Raje
+Dr. M.Devakar
+Studies on the unsteady flows of micropolar and Newtonian fluids through channels and pipes 2019
+Dr. Pradip Ramesh Patle
+Dr. D.K. Patel
+Fixed point results for certain classes of mappings and their applications 2019
+Dr. Nikhil Hulke
+Dr. G. P. Singh
+Cosmological Problems 2020
+Dr. Trun Gupta
+Dr. P. Pramod Chakravarthy
+Numerical methods for solving system of singularly perturbed delay differential equations 2020
+Dr. Kamalesh Kumar
+Dr. P. Pramod Chakravarthy
+Numerical Solution of a Class of Singularly Perturbed Differential Difference Equations Via  New Finite Difference Schemes and an Adaptive  Mesh Generation Technique 2020
+Dr. Ashlesha A Bhise
+Dr. Naga Raju Gande (sup) & Dr. M. Devakar (Co-Sup)
+Improved third and fifth order weighted essentially non oscillatory schemes for hyperbolic conservation laws 2021
+Dr. VMKP Goura
+Dr. P. Roul
+Numerical studies for some singular boundary value problems and fractional partial differential equations 2021
+Dr. Meenakshi Shivhare
+Dr. P. Pramod Chakravarthy
+Numerical Solution of Multi Parameter Singularly Perturbed Boundary Value Problems on Layer-Adapted Meshes 2021
+Dr. Shivam Bajpai
+Dr. Satish Kumar
+Approximation by Positive Linear Operators 2021
+Dr. Madduri Harshita
+Dr. G. Naga Raju
+Numerical methods for evaluation equations 2023
+Dr. Prashant Kumar
+Dr. Satish Kumar
+Approximation by Samplingh series 2023
+Dr. Farheen Shaikh
+Dr. Pallavi Mahale
+Error estimates for nonlinear ill-posed operator equations in Banach spaces 2023
+Dr. Vikas Rohil
+Dr. P. Roul
+A study on numerical methods for time-fractional partial differential equations with applications in nuclear reactor dynamics.
+2023
+Dr. Aarti Patle
+Dr. Jyoti Singh
+A Study on local cohomology and D-modules 2023
+Dr. Trishna Kumari
+Dr. P. Roul
+A numerical study on a class of nonlinear singular boundary value problems 2023
+Dr. Mayuri Smarth
+Dr. M. Devakar
+A study on the flows of viscous fluid through circular curved pipes 2023
+Dr. Ashwini Lalke
+Dr. G. P. Singh
+Study of Relativistic Cosmological Model for Accelerated and Expansion of the Universe 2023
+Dr. Ankit Singh
+Dr. Pallavi Mahale
+Newton type iterative regularization methods for nonlinear ill-posed operator equations 2023
+Dr. Kirti Sharma
+Dr. V. P. Singh
+Optimization under Uncertainty 2023
+Mr. Sundrani Vishwas Ramachandra
+Dr. P. Pramod Chakravarthy
+Numerical Solution of a Class of Singular Perturbation Problems via Haar Wavelets 2024
+Mr. Nilanjan Nandy
+Sourav Pradhan
+Modeling and Analysis of Discrete-time, Batch-Size-Dependent Service Queues with Queue-Length-Independent/-Dependent Vacation 2024
+Mr. Ankush Kumar
+Dr.Pallavi Mahale
+Regularization techniques for non-linear ill-posed operator equations 2024
+Ms. Gurpreet Kaur Khokhar
+Dr. D.K. Patel
+Fixed Point Theory 2025
+Mr. Bhupeshwar
+Dr. D.K. Patel
+Fixed Point Theory 2025
+Mr. Prasenjit Karan
+Sourav Pradhan
+Analysis of Queueing Systems 2025

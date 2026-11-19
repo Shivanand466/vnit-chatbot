@@ -1,0 +1,13 @@
+SOURCE_URL: https://vnit.ac.in/section/rnc/policies-rules-norms/
+TITLE: Policies/Rules/Norms
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Policies/Rules/Norms :
+Policy documents related to Sponsored Research Projects (SRP), Consultancy, Industry-SRP, Intellectual Property Rights (IPR), Startups, Innovation, Plagiarism and Technology Transfer have been formally approved in the 97th, 99th and 101st meetings of the Board of Governors (held on 27 December 2024 ,11 June 2025 and  22nd December 2025 respectively). These documents serve as a framework for facilitating transparent, ethical, and impactful research activities at VNIT.
+Norms for Industry Sponsored Research Project
+IPR Policy Guidelines and Forms
+Policy for Prevention of Plagiarism
+Sponsored Research Projects and Consultancy Practice – Rules and Norms (Modified-2025)
+Startup Policy for Faculty, Staff and Students
+Transfer of Technology (ToT) Policy

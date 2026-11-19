@@ -1,0 +1,269 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/dr-shriram-s-sonawane/
+TITLE: Dr. Shriram S. Sonawane​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Shriram S. Sonawane​
+Brief Bio
+Brief Bio
+Prof. Dr. Shriram S. Sonawane
+Research Publication
+· Published more than 191 research articles in the SCI/Scopus listed journals. Details Publication Link of Google Scholar: https://scholar.google.com/citations?hl=en&user=yGqOZK0AAAAJ&view_op=list_works&sortby=pubdate
+· Participated in the more than 100 international conferences and received best paper presentation award at various conferences organized at Dubai, Malaysia, Australia and various other countries.
+·  Published 3 books as an author in Taylor and Francis publication.
+· Published 4 books in ELSEVIER publications as an editor and also published more than 50 book chapters in the various books of international reputed.
+· Granted 10 patents and 2 patents are published and in process of examination.
+· Appointed as a guest editor for the various SCI listed journals like Sustainable energy technologies and assessment (impact factor 7.6), Current Pharmaceutical bio-technologies (impact factor: 2.4), Current nanoscience (Impact factor 2.2) and many other
+· According to google scholar, received more than 5200 citations and 42 H-index for his publications so far,
+· According to Stanford University, listed as 2% scientist in the field of Chemical Engineering for years 2022, 2023 and 2024.
+· Delivered more thatn 27 invited Talk at various IITs and NITs of government of India.
+· Completed various industrial consultancy and government projects like NTPC, Mouda, ISRO and inter-governmental projects indo-Russia, indo-Tunisia, india-austrelia projects.
+· Received more than 5 crore rupees as a research grant from various funding agencies.
+· Nominated for the shanti swaroop bhatnagar award for two years 2021 and 2022. Received Fellow award form Maharashtra academy of science.
+Guided 9 Ph.D. Scholars so far at chemical Engg department, and 2 are onling VNIT, Nagpur.
+Received Fellow award form Maharashtra academy of science, also from IIChe, FRCE
+Fellow of Indian Water Works Association India
+Fellow of World Research Journals
+Serving on various committees of NIT's and Maharashtra State Govt. Engineering Institutions as resoarce person
+Organised GIAN Programme at VNIT and also serving as expert in evaluating GIAN proposals
+Education
+Educational Details
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.Tech.
+Chemical Engineeering
+UDCT 2
+M.Tech.
+Chemical Engineeering
+Dr. Babasaheb Ambedkar Technological University, India 3
+Ph.D.
+Chemical Engineeering
+UDCT
+Contact Details
+Contact Details
+Phone:
+Email:
+Address:
+0712-280-1562 sssonawane@che.vnit.ac.in
+CHE-007, Department of Chemical Engineering, VNIT Nagpur, shriramsonawane@gmail.com
+Maharashtra – 440010, India
+Research Interest
+Research Interest
+Nanotechnology
+Modeling and Simulation
+Nanofluids
+NanoBiotechnology
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Development of Controlled Shape and Size Metal Oxides Nanoparticles, Synthesis of Nanofluids and Application in Heat Exchanger
+Dept. of Science & Tech., Govt. of India.
+PI 2014-2017 22 2
+Development of High-Performance Heat Transfer Nanofluids Using Carbon Nanotubes (SWCNT & MWCNT’S) Nanoparticles and Its applications in Double Pipe Heat Exchanger
+Dept. of Science & Tech., Govt. of India.
+PI 2016-2017 5.5 3
+Experimental Investigations of the prototype designed Critical Heat Flux (CHF) Enhancement of High-Performance Heat Transfer Nanofluids using SWCNT & MWCNT’S based Nanoparticles
+Dept. of Science & Tech., Govt. of India.
+PI 2018-2021 50 4
+Process Development for Production of Janus Nanoparticles for Selected Catalytic Reactions
+Dept. of Science & Tech., Govt. of India
+PI 2017-2020 23 5
+Development of Starch-based polyurethane nano-coatings for packaging application by sonochemical approach
+MHRD, Republic of Tunisia & DST, Govt. of India
+Co-PI 2017-2021 15 6
+Compact novel hybrid system for the human urine recycling and portable water recovery for long term human space mission
+ISRO, Department of Space, Govt of india
+Co-PI 2022-2024 26.65
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Development of process for sulphur removal from bottom ash of thermal power plant
+NTPC, Govt of India
+Investigator 2020 6
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Nanofluids for the Chemical and Bio-technology Industry Applications
+ELSEVIER 2022
+Novel Approaches Towards Wastewater Treatment and Resource Recovery Technologies.
+ELSEVIER 2022
+Nanofluid Applications for Advanced Thermal Solutions
+ELSEVIER 2023
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Development of Packing Material for Liquid-Liquid Extraction 1538/MUM/2014 02/05/2014
+Granted 2
+Development of Novel Al2O3 and OMMT nano packing material for Liquid-Liquid Extraction 2155/Mum/2014 03/07/2014
+Granted 3
+Development of Metal Ions Adsorbent from Cajanus Cajan (Tur-Dal) Husk 201621008676 29/01/2021
+Granted 4
+Synthesis of Cenosphere Supported Catalyst by Different Precursors for Esterification Reactions
+TEMP/E-1/7903 /2017-MUM 15/12/2020
+Granted 5
+Development of Improved Pasta
+TEMP/E-1/5734/2017-MUM 15/12/2020
+Granted 6
+A process for sulfur removal from mill rejects of thermal power plant 202221047477 20/08/2022
+Published 7
+A hybrid nanofluid based drilling fluid and method of preparation thereof 202221050711 09/06/2022
+Published 8
+Development of Novel Process for microreactor-based Extraction of Heavy Antimony using ionic liquid-based Hybrid Nanofluids 202221050711 26/08/2022
+Published
+Sr. No.
+Title 1
+Five Days STTP organised on: – 1. Global Initiative for Academic Network (GIAN) course organized between 2-6 May 2022.
+2. Organised AICTE sponsored  ATAL STTP COURSE ON Nanotechnology for Green synthesis during 24-28 Aug 2020 3. Nanotechnology for the Sustainable Development in VNIT, Nagpur (Funded by ATAL, AICTE, Govt. of India) 4. Application of Natural Computing Techniques (ANN, GA, AA, etc.) in Chemical Engg, 2016 VNIT, Nagpur 5. Recent Trends in Nano-membrane Technology” in 2016 in VNIT, Nagpur 6. Nano-materials and Nanotechnology” 18 to 20th Jan 2010 in VNIT Nagpur
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Warden
+VNIT
+Warden – (Hostel administration of Block No. 6) 2
+Warden
+VNIT
+Warden – (Hostel administration of Block No. 6) 3
+Warden
+VNIT
+Warden – (Hostel administration of Block No. 3) 4
+Guest House In charge
+VNIT
+Guest House In charge -(Guest-house administration including the development of Guest-house etc.)
+Sr. No.
+Awards 1
+Nominated for the prestigious “Shanti Swaroop Bhatnagar Award” for 2020, and 2021 2
+Served as Expert in NTA, UPSC,NAAC,NBA AICTE, etc.
+3
+Received “Fellow Award” from Prestigious Maharashtra Academy of Science” 4
+Fellow Member of Indian Institute of Chemical Engineers (IIChE) 5
+“Fellow Member” of Indian water works Association.
+6
+Guest Editor for Sustainable Energy Technologies and Assessment (ELSEVIER) (Impact factor:5.2) 7
+“Executive Guest Editor” of the Current Pharmaceutical Bio-Technology Journal. (Impact Factor: 2.8) 8
+Serving in Editorial body of “Research Journal of Chemistry and Environment” 9
+Serving in Editorial body of “World Research Journal” 10
+Served as a A.I.C.T.E. Expert committee member 11
+Expert for Faculty Selection in reputed institutions.
+12
+Received Best Paper Award:
+I. Influence of CuO nanoparticles in enhancing the overall heat transfer coefficient and thermal conductivity of water and ethylene glycol based Nanofluids, World Research Journals Conference, Dubai (2015)
+II. Study On Application Of Nano Fluids Organizer- NCOAT-NIRMITI (2009) PIET, Nagpur
+III. Application of Nanotechnology in food packaging NCNN-2010, VNIT Nagpur
+IV. Effect of Polystyrene Nanoparticles and their effects on Mechanical and Thermal Properties of polyamide Nanocomposites, 5th International Congress of Chemistry and Environment (2011) 13
+Session Chair, World Research Journals Conference, Dubai, 2015 14
+Invited BOS Member, SGGS Nanded, India, 2016 15
+BoS Member, Interdisciplinary Committee, North Maharashtra Univ., India, 2015 16
+BoS Member, Chemical Engg., North Maharashtra Univ., India, 2015 17
+Serving As a Reviewer for DST SERB Research Project Reviewer 19
+Awarded Best presentation resaerch paper Award at Vietnam SEGT 2023 international conference 20
+Serving as a Reviewer for the Reputed journals like
+I. Ultrasonics Sono-chemistry (Elsevier) (Impact factor: 6.5)
+II. Journal of Molecular Liquids (Elsevier) (Impact factor: 5.06)
+III. International Journal of Heat and Mass Transfer (Elsevier) (Impact factor: 5.03)
+IV. International Journal of Hydrogen Energy (Elsevier) (Impact factor: 5.01)
+V. Applied thermal Engineering (Elsevier) (Impact Factor: 4.85)
+VI. International Communications in Heat and Mass transfer (Impact Factor: 4.12)
+S.No.
+Paper Citation link of google scholar for details publication till date: https://scholar.google.com/citations?hl=en&user=yGqOZK0AAAAJ&view_op=list_works&sortby=pubdate 1. Gujar, J. G., Patil, S. S., & Sonawane, S. S. (2023). A Review on Nanofluids: Synthesis, Stability, and Uses in the Manufacturing Industry. Current Nanomaterials, 8(4), 303-318.
+2. Malika, M., Pargaonkar, A., & Sonawane, S. S. (2023). Application of emulsion nanofluid membrane for the removal of methylene blue dye: stability study. Chemical Papers, 1-11.
+3. Thakur, P. P., Sonawane, S. S., & Mohammed, H. A. (2023). Recent Trends in Applications of Nanofluids for Effective Utilization of Solar Energy. Current Nanoscience, 19(2), 170-185.
+4. Hakke, V. S., Gaikwad, R. W., Warade, A. R., Sonawane, S. H., Boczkaj, G., Sonawane, S. S., & Sapkal, V. S. (2023). Artificial neural network prophecy of ion exchange process for Cu (II) eradication from acid mine drainage. International Journal of Environmental Science and Technology, 1-12.
+5. Malika, M., Jhadav, P. G., Parate, V. R., & Sonawane, S. S. (2023). Synthesis of magnetite nanoparticle from potato peel extract: its nanofluid applications and life cycle analysis. Chemical Papers, 77(2), 1081-1094.
+6. Choudhary, M., Singh, D., Jain, S. K., Sonawane, S. R. S., Singh, D., Devnani, G. L., & Srivastava, K. (2023). Kinetics modeling & comparative examine on thermal degradation of alkali treated Crotalaria juncea fiber using model fitting method. Journal of the Indian Chemical Society, 100918.
+7. Kale, P., Pujari, S., Gujar, J. G., Sontakke, R., Haddadi, E. I., & Sonawane, S. S. (2023). Batch distillation for separating the acetone and n-heptane binary azeotrope mixture: Optimization and simulation. Journal of the Indian Chemical Society, 100(1), 100795.
+8. Kale, P., Pujari, S., Gujar, J. G., Sontakke, R., Haddadi, E. I., & Sonawane, S. (2022). Batch distillation for separating the acetone and n-heptane binary azeotrope mixture: Optimization and simulation. Journal of the Indian Chemical Society, 100795.
+9. Malika, M., Jhadav, P. G., Parate, V. R., & Sonawane, S. S. (2022). Synthesis of magnetite nanoparticle from potato peel extract: its nanofluid applications and life cycle analysis. Chemical Papers, 1-14.
+10. Malika, M., & Sonawane, S. S. (2022). MSG extraction using silicon carbide-based emulsion nanofluid membrane: Desirability and RSM optimisation. Colloids and Surfaces A: Physicochemical and Engineering Aspects, 651, 129594.
+11. Potdar, S. B., Saudagar, P., Potoroko, I., Bagale, U., Sonawane, S., & Sonawane, S. H. (2022). Recent Advances and Reports on Encapsulation in the Food Matrix: A Review. Current Pharmaceutical Biotechnology.
+12. Choudhary, M., Jain, S. K., Devnani, G. L., Sonawane, S. R. S., & Singh, D. (2022). Thermal kinetics and morphological investigation of alkaline treated rice husk biomass. Journal of the Indian Chemical Society, 99(5), 100444.
+13. SSS Sarita J. Charde, Manjakuppam Malika, Parag Thakur, Artificial neural network model for prediction of viscoelastic behaviour of polycarbonate composites, Journal of Applied Research and Technology 20, 188-202 14. Benimana, F., Potoroko, I. Y., Pathak, P., Sonawane, S. H., Sonawane, S., & Bagale, U. D. (2022). Ultrasound‐assisted synthesis of nanoemulsion/protein blend for packaging application. Food Science & Nutrition.
+15. Haddadi, E., Gujar, J. G., & Sonawane, S. S. Kinetics and isotherm studies for the adsorption of boron from water using titanium dioxide. The Canadian Journal of Chemical Engineering.
+16. Parag Thakur, Shriram Sonawane, Recent Trends in Applications of Nanofluids for Effective Utilization of Solar Energy, Current Nanoscience 17. Sonawane, S. S., Thakur, P. P., Malika, M., & Ali, H. M. (2022). Recent advances in the applications of green synthesized nanoparticle based nanofluids for the environmental remediation. Current Pharmaceutical Biotechnology.
+18. Malika, M., & Sonawane, S. S. (2022). The sono-photocatalytic performance of a Fe2O3 coated TiO2 based hybrid nanofluid under visible light via RSM. Colloids and Surfaces A: Physicochemical and Engineering Aspects, 641, 128545.
+19. Choudhary, M., Jain, S. K., Devnani, G. L., Sonawane, S. R. S., & Singh, D. (2022). Thermal kinetics and morphological investigation of alkaline treated rice husk biomass. Journal of the Indian Chemical Society, 99(5), 100444.
+20. Benimana, F., Potoroko, I. Y., Pathak, P., Sonawane, S. H., Sonawane, S., & Bagale, U. D. (2022). Ultrasound‐assisted synthesis of nanoemulsion/protein blend for packaging application. Food Science & Nutrition.
+21. Malika Mudaliar, Shriram Sonawane, Ecological optimization and LCA of TiO 2 -SiC/ water hybrid nanofluid in a shell and tube heat exchanger by ANN, Institution of Mechanical Engineers Part E: Journal of process mechanical engineering 22. Malkapuram, S. T., Sharma, V., Gumfekar, S. P., Sonawane, S., Sonawane, S., Boczkaj, G., & Seepana, M. M. (2021). A review on recent advances in the application of biosurfactants in wastewater treatment. Sustainable Energy Technologies and Assessments, 48, 101576.
+23. Khan, M. S., Dhavan, P. P., Ratna, D., Sonawane, S. S., & Shimpi, N. G. (2021). LDPE: PLA and LDPE: PLA: OMMT polymer composites: Preparation, characterization, and its biodegradation using Bacillus species isolated from dumping yard. Polymers for Advanced Technologies, 32(9), 3724-3739.
+24. Bethi, B., Sonawane, S. H., Bhanvase, B. A., & Sonawane, S. S. (2021). Textile Industry Wastewater Treatment by Cavitation Combined with Fenton and Ceramic Nanofiltration Membrane. Chemical Engineering and Processing-Process Intensification, 168, 108540.
+25. Malika, M., & Sonawane, S. S. (2021). The sono-photocatalytic performance of a novel water based Ti+ 4 coated Al (OH) 3-MWCNT’s hybrid nanofluid for dye fragmentation. International Journal of Chemical Reactor Engineering.
+26. Malika, M., & Sonawane, S. S. (2021). Application of RSM and ANN for the prediction and optimization of thermal conductivity ratio of water based Fe2O3 coated SiC hybrid nanofluid. International Communications in Heat and Mass Transfer, 126, 105354.
+27. Landge, V. K., Sonawane, S. H., Sivakumar, M., Sonawane, S. S., Babu, G. U. B., & Boczkaj, G. (2021). S-scheme heterojunction Bi2O3-ZnO/Bentonite clay composite with enhanced photocatalytic performance. Sustainable Energy Technologies and Assessments, 45, 101194.
+28. Thakur, P., Kumar, N., & Sonawane, S. S. (2021). Enhancement of pool boiling performance using MWCNT based nanofluids: A sustainable method for the wastewater and incinerator heat recovery. Sustainable Energy Technologies and Assessments, 45, 101115.
+29. Malika, M., & Sonawane, S. S. (2021). Statistical modelling for the Ultrasonic photodegradation of Rhodamine B dye using aqueous based Bi-metal doped TiO2 supported montmorillonite hybrid nanofluid via RSM. Sustainable Energy Technologies and Assessments, 44, 100980.
+30. Sheth, Y., Dharaskar, S., Khalid, M., & Sonawane, S. (2021). An environment friendly approach for heavy metal removal from industrial wastewater using chitosan based biosorbent: A review. Sustainable Energy Technologies and Assessments, 43, 100951.
+31. Malika, M., & Sonawane, S. S. Low-frequency ultrasound assisted synthesis of an aqueous aluminium hydroxide decorated graphitic carbon nitride nanowires based hybrid nanofluid for the photocatalytic H2 production from Methylene blue dye. Sustainable Energy Technologies and Assessments, 44, 100979.
+32. Hakke, V., Sonawane, S., Anandan, S., Sonawane, S., & Ashokkumar, M. (2021). Process Intensification Approach Using Microreactors for Synthesizing Nanomaterials-A Critical Review. Nanomaterials, 11(1), 98.
+33. M. Malika, journal of indian chemical society 34. Thakur, P., Sonawane, S., Potoroko, I., & Sonawane, S. H. (2020). Recent Advances in Ultrasound-Assisted Synthesis of Nano-Emulsions and their Industrial Applications. Current Pharmaceutical Biotechnology.
+35. Thakur, P. P., Khapane, T. S., & Sonawane, S. S. (2020). Comparative performance evaluation of fly ash-based hybrid nanofluids in microchannel-based direct absorption solar collector. Journal of Thermal Analysis and Calorimetry, 1-14.
+36. Parag Thakur, Shriram Sonawane, Numeric and experimental study of the car radiator performance, Journal of Indian chemical society, 2020 37. Malika, Shriram Sonawane, effect of nanoparticle mixed ratio on stability and thermo-physical properties of cuo-zno/ water-based hybrid nanofluid, Journal of Indian chemical society, 2020 38. Khan, M., Mishra, S., Ratna, D., Sonawane, S., & Shimpi, N. G., Investigation of thermal and mechanical properties of styrene–butadiene rubber nanocomposites filled with SiO2–polystyrene core–shell nanoparticles. Journal of Composite Materials, 0021998319886618, 2019 39. Charde, S. J., Sonawane, S. S*, Sonawane, S. H., Shimpi N. G., Degradation Kinetics of Polycarbonate Composites: Kinetic Parameters and Artificial Neural Network. Chemical and Biochemical Engineering Quarterly, 32 (2), 2018 40. Nishant Kumar, Shirish H. Sonawane, Shriram S Sonawane*, Experimental study of thermal conductivity, heat transfer and friction factor of Al2O3 based nanofluids, International Communications in Heat and Mass Transfer, 90, 2018 41. Nishant Kumar , Nandkishor Urkude , Shriram S. Sonawane*, Shirish H. Sonawane, Experimental study on pool boiling and Critical Heat Flux enhancement of metal oxides based nanofluids, International Communications in Heat and Mass Transfer, 96, 2018 42. Sarita J. Charde, Shriram S. Sonawane*, Shirish H. Sonawane & Shimpi Navin, Influence of functionalized calcium carbonate nanofillers on properties of melt excruded polycarbonate composites, Chemical Engineering Communications, 205(4), 2018 43. VS Chandane, AP Rathod, KL Wasewar, SS Sonawane, Synthesis of cenosphere supported heterogeneous catalyst and its performance in esterification reaction, Chemical Engineering Communications, 205(2), 2018 44. Tanushree Sen, Satyendra Mishra, S.S. Sonawane, Navinchandra G. Shimpi, Polyaniline/zinc oxide nanocomposite as room-temperature sensing layer for methane, Polymer Engineering and Science, 2018 45. VS Chandane, AP Rathod, KL Wasewar, SS Sonawane, Esterification of propionic acid with isopropyl alcohol over ion exchange resins: Optimization and kinetics, Korean Journal of Chemical Engineering, 34(1), 2017 46. VS Chandane, AP Rathod, KL Wasewar, SS Sonawane, Response Surface Optimization and Kinetics of Isopropyl Palmitate Synthesis using Homogeneous Acid Catalyst, International Journal of Chemical Reactor Engineering, 15(3), 2017 47. B Bethi, SH Sonawane, I Potoroko, BA Bhanvase, SS Sonawane, Novel hybrid system based on hydrodynamic cavitation for treatment of dye waste water: A first report on bench scale study, Journal of Environmental Chemical Engineering, 5, 2017 48. SJ Charde, SS Sonawane, AP Rathod, SH Sonawane, NG Shimpi, Copper‐doped zinc oxide nanoparticles: Influence on thermal, thermo mechanical, and tribological properties of polycarbonate, Polymer Composites, 2017 49. SM Gaikwad, PD Jolhe, BA Bhanvase, A Kulkarni, VS Patil, S. S. Sonawane, S. H. Sonawane*, Process intensification for continuous synthesis of performic acid using Corning advanced-flow reactors, Green Processing and Synthesis, 6(2), 2017 50. VS Chandane, AP Rathod*, KL Wasewar, SS Sonawane, Process optimization and kinetic modeling for esterification of propionic acid with benzyl alcohol on ion-exchange resin catalyst, Korean Journal of Chemical Engineering, 34(4), 2017 51. VS Chandane, AP Rathod*, KL Wasewar, SS Sonawane, Efficient cenosphere supported catalyst for the esterification of n-octanol with acetic acid, Comptes Rendus Chimie, 20(8), 2017 52. B Bethi, SH Sonawane*, I Potoroko, BA Bhanvase, SS Sonawane, Novel hybrid system based on hydrodynamic cavitation for treatment of dye waste water: A first report on bench scale study, Journal of Environmental Chemical Engineering, 5 (1874-1884), 2017 53. Antaram Sarve*, Shriram S. Sonawane, Mahesh N. Varma, Ultrasound assisted two-stage biodiesel synthesis from non-edible Schleichera triguga oil using heterogeneous catalyst: Kinetics and thermodynamic analysis, Ultrasonics Sonochemistry, 29, 2016 54. Rohit S. Khedkar, Naveen Shrivastava, Shriram S. Sonawane*, Kailas L.Wasewar, Experimental investigations and theoretical determination of thermal conductivity and viscosity of TiO2–ethylene glycol nanofluids, International Communications in Heat and Mass Transfer, 73, 2016 55. Shimpi Navinchandra*, Borane Mahesh, Mishra Satyendra, Kadam Meghraj, Sonawane S. S., Biodegradation of Isotactic Polypropylene (iPP)/Poly(lactic acid) (PLA) and isotactic polypropylene (iPP) PLA/Nano Calcium Carbonates Using Phanerochaete chrysosporium, Advances in Polymer Technology, 37(2), 2016 56. Nishant Kumar, Shriram S Sonawane*, Experimental study of Thermal conductivity and convective heat transfer enhancement using CuO and TiO2 nanoparticles, International Communications in Heat and Mass Transfer, 76, 2016 57. Shriram S Sonawane*, Vijay Juwar, Optimization of conditions for an enhancement of thermal conductivity and minimization of viscosity of ethylene glycol based Fe3O4 nanofluid, Applied Thermal Engineering, 109, 2016 58. Nishant Kumar, Shriram S Sonawane*, Experimental study of Fe2 O3/water and Fe2O3/ethylene glycol nanofluid heat transfer enhancement in a shell and tube heat exchanger, International Communications in Heat and Mass Transfer, 78, 2016 59. S S Sonawane*, R S Khedkar, K L Wasewar, Effect of Sonication time on enhancement of effective thermal conductivity of nano TiO2-Water, ethylene glycol and paraffin oil nanofluids and models comparisons, Journal of Experimental Nanoscience, 10(4), 2015 60. Gadhe Abhijit, Sonawane Shriram*, Varma Mahesh, Enhanced biohydrogen production from dark fermentation of complex dairy wastewater by sonolysis, international journal of hydrogen energy, 40(32), 2015 61. Antaram Sarve, Shriram S. Sonawane, Mahesh N. Varma*, Ultrasound assisted biodiesel production from sesame oil using barium hydroxide as a heterogeneous catalyst: Comparative assessment of prediction abilities between RSM and ANN, Ultrasonics Sonochemistry, 26, 2015 62. Antaram Sarve*, Shriram S. Sonawane, Mahesh N. Varma, Optimization and Kinetic Studies on Biodiesel Production from Kusum (Schleichera triguga) Oil Using Response Surface Methodology, Journal of Oleo Science, 64(9), 2015 63. Antaram Sarve*, Shriram S. Sonawane, Mahesh N. Varma, Response surface optimization and artificial neural network of biodiesel production from crude mahua oil under supercritical ethanol conditions using CO2 as aco-solvent, RSC Advances, 5, 2015 64. Gadhe Abhijit, Sonawane Shriram* and Varma Mahesh, Ultrasonic Pre-treatment for an enhancement of biohydrogen production from complex food waste, International journal of hydrogen energy, 39, 2014 65. Gadhe Abhijit, Sonawane Shriram* and Varma Mahesh, Evaluation of ultrasonication as a treatment strategy for enhancement of biohydrogen production from complex distillery wastewater and process optimization, International journal of hydrogen energy, 39, 2014 66. Gadhe Abhijit, Sonawane Shriram* and Varma Mahesh, Kinetic analysis of biohydrogen production from complex dairy wastewater under optimized condition, International journal of hydrogen energy, 39, 2014 67. Rohit S. Khedkar, Shriram S. Sonawane*, Kailas L. Wasewar, Heat Transfer Study on Concentric Tube Heat Exchanger Using Tio2–Water–Based Nanofluid, International Communications in Heat and Mass Transfer, 2014 68. Rohit S. Khedkar, Shriram S. Sonawane*, Kailas L. Wasewar, Effect of sonication time on Enhancement of effective thermal conductivity nano TiO2–water,ethelene glycol and paraffin oil nanofluids, Journal of Experimental Nanosciences, 10(4), 2013 69. Rohit S. Khedkar, Shriram S. Sonawane*, Kailas L. Wasewar, Synthesis of TiO2 –Water Nanofluids for Its Viscosity and Dispersion Stability Study, Journal of Nano Research, 24, 2013 70. Abhijit Gadhe, Shriram S. Sonawane*, Mahesh N. Varma, Optimization of conditions for hydrogen production from complex dairy wastewater by anaerobic sludge using desirability function approach, International Journal of Hydrogen Energy, 38(16), 2013 71. Gadhe Abhijit, Sonawane Shriram* and Varma Mahesh, Enhancement effect of hematite and nickel nanoparticles on biohydrogen production from dairy wastewater, international journal of hydrogen energy, 40, 2013 72. Rohit S. Khedkar, Shriram S. Sonawane*, Kailas L. Wasewar, Study on Concentric Tube Heat Exchanger Heat Transfer Performance using Al2O3-water Based Nanofluids, International Communications in Heat and Mass Transfer, 49, 2013 73. Waghmare M.D., Wasewar K.L.*,Sonawane S.S., Shende D.Z., Reactive extraction of picolinic and nicotinic acid by natural non-toxic solvent, Separation and Purification Technology, 120, 2013 74. Khedkar, R. S., Sonawane, S. S.*,& Wasewar, K. L. (2012). Influence of CuO nanoparticles in enhancing the thermal conductivity of water and monoethylene glycol based nanofluids. International Communications in Heat and Mass Transfer, 39(5), 665-669.
+75. Waghmare, M. D., Wasewar, K. L.*, Sonawane, S. S., & Shende, D. Z. (2011). Natural nontoxic solvents for recovery of picolinic acid by reactive extraction. Industrial & Engineering Chemistry Research, 50(23), 13526-13537.
+76. Shimpi, N. G.*, Kakade, R. U., Sonawane, S. S., Mali, A. D., & Mishra, S. (2011). Influence of nano-inorganic particles on properties of epoxy nanocomposites. Polymer-Plastics Technology and Engineering, 50(8), 758-761.
+77. Parate, V. R.*, Kawadkar, D. K., &Sonawane, S. S. (2011). Study of whey protein concentrate fortification in cookies variety biscuits. International journal of food engineering, 7(2).
+78. Wasewar, K. L.*, Patidar, S., Agarwal, V. K., Rathod, A., Sonawane, S. S., Agarwal, R. V., & Inci, I. (2010). Performance study of pervaporation reactor (PVR) for esterification of acetic acid with ethanol. International Journal of Chemical Reactor Engineering, 8(1).
+79. Sonawane, S. S.*, Mishra, S., Shimpi, N. G., Rathod, A. P., & Wasewar, K. L. (2010). Comparative study of the mechanical and thermal properties of polyamide-66 filled with commercial and nano-Mg (OH) 2 particles. Polymer-Plastics Technology and Engineering, 49(5), 474-480.
+80. Sonawane, S. S.*, Mishra, S., & Shimpi, N. G. (2009). Effect of nano-CaCO3 on mechanical and thermal properties of polyamide nanocomposites. Polymer-Plastics Technology and Engineering, 49(1), 38-44.
+81. Mishra, S.*, Sonawane, S. S.,& Shimpi, N. G. (2009). Influence of organo-montomorillonite on mechanical and rheological properties of polyamide nanocomposites. Applied Clay Science, 46(2), 222-225.
+82. Mishra, S., Sonawane, S. S.,& Shimpi, N. G.* (2009). Effect of commercial & nano-Ca3 (PO4) 2 on mechanical and thermal properties of polyamide composites. Polymer-Plastics Technology and Engineering, 48(3), 265-271.
+83. Sonawane, S. S.*, Mishra, S., & Shimpi, N. G. (2009). Polyamide nanocomposites: investigation of mechanical, thermal and morphological characteristics. Polymer-Plastics Technology and Engineering, 48(10), 1055-1061.
+84. Sonawane, S. S.*, & Patil, V. S. (2008). Effect of ultrasound on leaching of tannic acid from tea and its modelling. Chemical Engineering & Technology: Industrial Chemistry‐Plant Equipment‐Process Engineering‐Biotechnology, 31(9), 1304-1309
+S.Sonawane, V.S.Patil, G.S.Patil, S.Toshib, and R.D.Kulkarni, Characteristics of mass transfer packing for extraction of Acetic acid from aqueous solution, The Institution of Engineers India, 82. (04) (2001)
+· Other Reputed Journals
+Sonawane, S. S., Thakur, P. P., & Paul, R. (2020). Study on visco-elastic properties enhancement of MWCNT based polypropylene nanocomposites. Materials Today: Proceedings, 29, 929-933.
+Bhusari Amol, A., Bidyut, M., Rathod Ajit, P., & Sonawane Shriram, S. (2020). Optimization involving chemistry, mechanism of esterification process of acetic acid using response surface methodology for the microcontroller based automated reactor with sulfonated carbon as catalyst. Research Journal of Chemistry and Environment, Vol, 24, 2.
+Sonawane, S., Thakur, P., & Paul, R. (2020). Study on thermal property enhancement of MWCNT based polypropylene (PP) nanocomposites. Materials Today: Proceedings.
+Malika, M., & Sonawane, S. S. (2019). Review on Application of nanofluid/Nano Particle as Water Disinfectant. Journal of Indian Association for Environmental Management (JIAEM), 39(1-4), 21-24.
+Thakur, P., & Sonawane, S. S. (2019). Application of Nanofluids in CO2 Capture and Extraction from Waste Water. Journal of Indian Association for Environmental Management (JIAEM), 39(1-4), 4-8.
+Navinchandra G. Shimpi*, Mujahid Khan, Sharda Shirole, Shriram Sonawane, Process Optimization for the Synthesis of Silver (AgNPs), Iron Oxide (α-Fe2O3NPs) and Core-Shell (Ag-Fe2O3CNPs) Nanoparticles Using the Aqueous Extract of Alstonia, The Open Materials Science Journal, 12, (2018)
+Vishal, R*. &Shriram, S.& Shyam, S. (2018). Food fortification of soy protein isolate for human health. Research Journal of Chemistry and Environment. 22. 108-115.
+Barman Ghanshyam, Sonawane Shriram S.*, Wasewar Kailas L, Rathod Ajit P., Sonawane Shirish H., Shimpi Navin G., Synthesis of CaSO4 nanoparticles and its effect on PA6/CaSO4 nanocomposite for investigation of thermal and viscoelastic properties, Research Journal of Chemistry and Environment, 21(11), 2017
+Barman Ghanshyam, Sonawane Shriram S*, Wasewar Kailas L., Rathod Ajit P., Parate Vishal R, Sonawane Shirish H. Shimpi Navin G., Improvement in thermal stability, thermomechanical and oxygen permeability of PA6 by ODA modified Ca3(PO4)2 nanofiller, 21(6), 2016
+Gadhe Abhijit, Sonawane Shriram S*, Varma Mahesh, Ultrasonication as a pre-treatment strategy for enhancement of biohydrogen production from dairy wastewater, Research Journal of Chemistry and Environment, 20(4), 2016
+S S Sonawane*, K L Wasewar, Barman Ghanshyam, Study on thermal and mechanical properties and crystallization behaviour of PA6, PVC and OMMT nanocomposites, Research journal of Chemistry and Environment, 20(10), 2016
+K L Wasewar, S S Sonawane*, Barman ghanshyam, Effect of Octadecyl Amine modified MMT on Thermal Stability, Visco-elastic properties and crystallization behaviour of polyamide 6 nanocomposites, Research journal of Chemistry and Environment, 20(11), 2016
+Nishant Kumar, Shriram S Sonawane*, Influence of CuO and TiO2 nanoparticles in enhancing the overall heat transfer coefficient and thermal conductivity of water and ethylene glycol based nanofluids, Research Journal of Chemistry and Environment, 20(8), 2016
+Juwar Vijay,Sonawane Shriram S*, Investigations on rheological behaviour of paraffin based Fe3O4 nanofluids and its modelling, Research Journal of Chemistry and Environment, 19(12), 2015
+Rathod Ajit P*, Wasewar Kailas L. and Sonawane Shriram S, Enhancement of Esterification of Propionic Acid with Ethanol by Pervaporation Reactor, Research Journal of Chemistry and Environment, 18(5), 2014
+Khedkar Rohit, Sonawane Shriram* and Wasewar Kailas, Preliminary study of thermal conductivity and viscosity of ethylene glycol with CuO nanorod inclusions, Research Journal of Chemistry and Environment, 18(3), 2014
+Waghmare, M.D., Wasewar, K.L*, Sonawane, S.S.,Equilibrium, Kinetics and Thermodynamics of Picolinic acid Adsorption on Low Cost Adsorbent Peanut Hull, Research Journal of Chemistry and Environment, 18(11), 2014
+Rohit S. Khedkar, Shriram S. Sonawane*, Kailas L. Wasewar , Water to Nanofluids heat transfer in concentric tube heat exchanger: Experimental study, Procedia Engineering, 51, 2013
+Rohit S. Khedkar, SaiKiran A.,Shriram S. Sonawane, Kailas L. Wasewar, Suresh S. Umare, Thermo – physical characterization of Paraffin based Fe3O4 nanofluids, Procedia Engineering, 51, 2013
+Abhijit Gadhe, Shriram S. Sonawane, Mahesh N. Varma, An Evaluative Report of Fermentative Hydrogen Production: Current Prospective and Way Forward, Invertis journal of Renewable Energy, 3(2), 2013
+Ajit P. Rathod, Kailas L. Wasewar, Shriram S. Sonawane, Enhancement of esterification reaction by pervaporation reactor: an intensifying approach, Procedia Engineering, 51, 2013
+Ajit P. Rathod, Kailas L. Wasewar, Shriram S. Sonawane, Intensification of esterification reaction of lactic acid with iso-propanol using pervaporation reactor, Procedia Engineering, 51, 2013
+Waghmare Mangesh, Wasewar Kailas and Sonawane Shriram, Investigations on extraction equilibrium of picolinic acid into various solvents: mechanism and influencing factors, Research Journal of Chemistry and Environment, 17(2), 2013
+Gadhe Abhijit, Sonawane Shriram and Varma Mahesh, Kinetic modeling of biohydrogen production from complex wastewater by anaerobic cultures, Research Journal of Chemistry and Environment, 17 (12), 2013
+Sonawane S.S., Rathod A.P., Wasewar K.L. and Varma M.N., Nanocomposites for Food Packaging Applications, Research Journal of Chemistry and Environment, 15 (2) (2011)
+Sonawane S.S., Rathod A.P. and Wasewar K.L, Effect of Polystyrene Nanoparticles and their effects on Mechanical and Thermal Properties of polyamide Nanocomposites, Research Journal of Chemistry and Environment, 15 (2) (2011)
+Ajit Rathod, Kailas L Wasewar, Shriram S. Sonawane, Pervaporation Reactor: Principles and Applications, The IUP Journal of Chemical Engineering II, No. 4
+Kailas L Wasewar, Amit Keshav, Vijay K Agrawal and S S Sonawane, Reactive Extraction of Citric Acid from Aqueous Solutions Using Tri-N-Octylamine in MIBK, The IUP Journal of Chemistry, III, No. 3 (2010)
+G.Shimpi, S.Kimothi, S.S.Sonawane, A Review:Nanoscience and Technology Emerging Trend, International Journal of Nano System Technology, vol.1, Issue 1 (2008)
+S.Sonawane, G.A.Usmani, V.R.Parate, K.S.Wani, V.S.Patil and S. J. Wagh, Mass transfer and Kinetics studies of Anta acids in Acetic acid and its Modeling and Simulation, Journal of Material Science and Research India, Vol.05, No.1 (2008)
+S.Sonawane, G.A.Usmani, V.R.Parate, K.S.Wani, V.S.Patil, To studies the kinetics of catalytic Esterification reaction between n-Butanol and Acetic acid, Journal of Material Science and Research India, Vol. 5(1) (2008)
+· INTERNATIONAL CONFERENCES 1. S S Sonawane, R S Khedkar, K L Wasewar, A P Rathod, Dispersions of cuO nanoparticles in paraffin prepared by ultrasonication : a potential coolant, 3rd International Conference on Biology, Environment and Chemistry, 46 (2012) 2. Ajit P.Rathod, Kailas L. Wasewar and Shriram S.Sonawane, Intensification of Esterification of Acetic Acid with Ethanol by Pervaporation Reactor: Modeling and Simulation, 3rd International Conference on Biology, Environment and Chemistry, 46 (2012) 3. Shyam M. Kodape, Ajit P.Rathod, Shriram S.Sonawane, Study on Synthesis and Characterization of CoFe2O4 Nanoparticles, 3rd International Conference on Biology, Environment and Chemistry, 46 (2012) 4. S.S.Sonawane*, S.Mishra, N.G.Shimpi, U.D.Patil, Preparation and characterization of EPDM rubber Nanocomposites, International Conference on Future trends in Composites Material and Processing, Chemical Engg. Dept., IIT, Kanpur (2007) 5. S.S.Sonawane*, S.Mishra, N.G.Shimpi, Effect of commercial & nano CaCO3 on thermal stability of polyamide composite, International Conference on Drug’s Delivery & Nano Technology, Chem. Engg. Dept., SGGS Nanded (2007) 6.  S.S.Sonawane*, S.Mishra, N.G.Shimpi, Influence of OMMT clay on rheological properties of polyamide 66 nanocomposites, Polymer Processing Society Annual Meeting, Polymer Processing Society, Selereno, Italy (2008) 7. S.S.Sonawane*, N.G.Shimpi, K.S.Wani, U.D.Patil, Comparative study on leaching of tannic acid from tea using natural stirring at constant speed and Ultrasonic with modeling, Nepal Chemical Congress, Kathmandu, Nepal (2008) 8. S.S.Sonawane*, N.G.Shimpi, S.Mishra, Investigation of variation in weight % loadings of Ca3 (PO4)2 on Mechanical properties of polymer Nanocomposite, Royal Australian Chemical Institute (RACI) Polymer Division, Melbourne, Victoria, Australia (2008) 9. S.S.Sonawane*, S.Mishra, N.G.Shimpi, Study on Effect of OMMT-Polyamide Nanocomposite’s Mechanical and Rheological Properties, Polymer Processing Society Annual Meeting, Goa, India (2009) 10. S S Sonawane*, A P Rathod, Effect of Polystyrene Nanoparticles and Their Effect on Mechanical and Thermal Properties of polyamide nanocomposites, International Conference on Chemical Engg. & Advanced Material (CEAM), Praise worthy Prize, Naples,Italy (2009) 11.  A.P.Rathod, K.L.Wasewar, S.S.Sonawane*, Esterification of Acetic acid with Ethanol in a Pervaporation Reactor: Modeling and Performance study, International Conference on Chemical Engg. & Advanced Material (CEAM), Praise worthy Prize, Naples,Italy (2009) 12. Shriram Sonawane*, Comparative Study On Effect of Commercial and Nano CaSO4 on Mechanical & Thermal Properties of Polyamide 6-CaSO4 Nanocomposite, American Institute of Chemical Engg. (AIChE) conference & Annual Meeting, (2010) 13.  R. S. Khedkar, K. L. Wasewar, S. S. Sonawane*, N. K .Shrivastava, Numerical investigation of convective heat transfer using nanofluids, Mathematical Modeling & Application in Industrial Process, Mathematics Dept., NIT Calicut (2011) 14.  Waghmare M. D., Wasewar K. L.*, Sonawane, S. S., Investigations on Sorption Equilibrium of Picolinic acid on Low Cost Adsorbent, International Science Community Association, Bon Maharaj Engineering College, Vrindavan Mathura UP, India (2012) 15. Rohit S. Khedkar, Shriram S. Sonawane*, Kailas L Wasewar, Water to Nanofluids heat transfer in concentric tube heat exchanger: Experimental study, Nirma Univ. International Conference on Engg., Chem Engg. Dept. Nirma University, Ahmedabad (2012) 16.  Ajit P. Rathod, Kailas L. Wasewar *, Shriram S. Sonawane, Enhancement of esterification reaction by pervaporation reactor: an intensifying approach, Nirma Univ. International Conference on Engg., Chem Engg. Dept. Nirma University, Ahmedabad (2012) 17.  Ajit P. Rathod, Kailas L. Wasewar *, Shriram S. Sonawane, Intensification of esterification reaction of lactic acid with iso-propanol using pervaporation reactor, Nirma Univ. International Conference on Engg., Chem Engg. Dept. Nirma University, Ahmedabad (2012) 18. Rohit S. Khedkar, SaiKiran A. Shriram S. Sonawane*, Kailas L. Wasewar, Suresh S. Umare, Thermo – physical characterization of Paraffin based Fe3O4 nanofluids, Nirma Univ. International Conference on Engg., Chem Engg. Dept. Nirma University, Ahmedabad (2012) 19. Ajit P.Rathod*, Kailas L. Wasewar and Shriram S.Sonawane, Intensification of Esterification of Acetic Acid with Ethanol by Pervaporation Reactor: Modeling, Hong Kong Chemical Biological & Environmental Engg. Society, Bangkok, Thailand (2012) 20. Shriram S. Sonawane*, Rohit S. Khedkar, Kailas L. Wasewar and Ajit P. Rathod, Dispersions of CuO nanoparticles in paraffin prepared by ultrasonication: a potential coolant, Hong Kong Chemical Biological & Environmental Engg. Society, Bangkok, Thailand (2012) 21. Shyam M. Kodape*, Ajit P.Rathod, Shriram S.Sonawane, Study on Synthesis and Characterization of CoFe2O4 Nanoparticles, International Conference on Biology, Environment and Chemistry, Hong Kong Chemical Biological & Environmental Engg. Society, Bangkok, Thailand (2012) 22.  A.SaiKiran, R. S. Khedkar, S. S. Sonawane*, K. L. Wasewar, S. S. Umare, Thermo-physical properties measurement of water based Fe3O4 nanofluids, NanoCon international Conference on Nanotechnology, Bharti Vidyapeeth University, Pune (2012) 23.  Waghmare Mangesh, Wasewar Kailas*, Sonawane Shriram, Gupta sheetal and Yoo chang Kyoo, Investigations of kinetics and sorption equilibrium of Nicotinic Acid on low cost adsorbent (Neem Leaves), International Science Community Association, Bon Maharaj Engineering College, Vrindavan Mathura UP, India, 2012 24.  Rohit S. Khedkar, Shriram S. Sonawane*, Kailas L Wasewar, Preliminary study of thermal conductivity and viscosity of ethylene glycol with CuO nanorod inclusions, International Congress on Chemistry and Environment Belgium, Antwerp, Belgium (2013) 25.  A. Sarve, S. S. Sonawane*, Mahesh N. Varma, Alternative fuel synthesis in supercritical solvents, AICHE Proceedings, 2014 Annual meeting, Atlanta, GA(USA, (2014) 26.  R S Khedkar, S S Sonawane, K L wasewar, Brunnel university London, 4th Micro/Nano flow Conference, (2014) 27.  A. Sarve, S. S. Sonawane*, M. N. Varma, Biodiesel Production from non­edible Kusum (Schleichera triguga) oil and Prediction using Artificial Neural Networks, World Research Journal Conference, Dubai (2015) 28.  Sarita J Charde, Shriram S Sonawane*, Thermo mechanical properties of polycarbonate-OMMT clay nanocomposites using ANN, Nanotechnology materials and devices conference (2016) 29.  Nishant Kumar ,Shriram Sonawane*, Convective Heat Transfer of Metal Oxide-Based Nanofluids in a Shell and Tube Heat Exchanger, International Conference on Recent Advances in Bioenergy Research, (2017) 30. S S Sonawane*, Vijay juwar, Development of nano based thermic fluid: Thermal aspects of new energy system, International Conference on Recent Advances in Bioenergy Research (2018) 31. Shriram Sonawane, Parag Thakur, Ritesh Paul, Study of thermal property enhancement of MWCNT based nanocomposites, Recent advances in materials and Manufacturing, KLE COET, Belagavi (2019) 32. Hitendra Pagote, Rahul Bhad, Parag Thakur, Shriram Sonawane, International Conference on Multifunctional and Hybrid Composites Materials for Energy, Environment and Medical applications, Chem .Engg. Dept., NIT-Trichy (2019) 33. Parag Thakur attended National Level Webinar on “Writing and Evaluation of Scientific Research Articles” on 31st July 2021 jointly organized by Research Promotion Cell, Seth Kesarimal Porwal College of Arts, Science and Commerce, Kamptee & Department of Chemistry, Taywade College, Mahadula-Koradi.
+34. Parag Thakur, Shriram Sonawane, Performance assessment of the CNT deposited surfaces for the pool boiling application, International Conference on Advances in Sustainable Research for Energy and Environmental Management (ASREEM-2021), 6-8 August 2021, SVNIT, Surat 35. Parag Thakur, Tushar Khapne, Shriram Sonawane, Synthesis of BNNP+Mxene/Polycarbonate nanocomposite using twin-screw extrusion reactor for thermal property enhancement, International Conference on Advances in Sustainable Research for Energy and Environmental Management (ASREEM-2021), 6-8 August 2021, SVNIT, Surat, SVNIT, SURAT 36. Parag Thakur, Shriram Sonawane, Review on the Application of Nanofluids for the Environmental Remediation, International Conference on Advances in Sustainable Research for Energy and Environmental Management (ASREEM-2021), 6-8 August 2021, SVNIT, Surat, SVNIT, SURAT 37. Parag Thakur, Pooja Pradip, Shriram Sonawane, Development of efficient CO2 absorption processes using MWCNT based nanofluids, 2nd International Conference On Chemical, Bio & Environmental Engineering (CHEMBIOEN-2021), August 20-22, 2021, NIT, JALANDHAR 38. Synthesis of BNNP+Mxene/Polycarbonate nanocomposite using twin-screw extrusion reactor for thermal property enhancement, Parag Thakur, Shriram Sonawane, International Chemical Engineering Conference 2021 (ICheEC 2021), September 17-19, 2021, NIT, Jalandhar 39. Synthesis of BNNP+Mxene/Polycarbonate nanocomposite using twin-screw extrusion reactor for thermal property enhancement, International Conference on Reaction Engineering (ICRE-2021) Organized by Department of Chemical Engineering, National Institute of Technology, Raipur 492010 (Chhattisgarh) India 7th- 8thMay, 2021 40. International Conference on Multifunctional Electronic Materials and Processing (MEMP-2021) conducted by C-MET Pune on digital platform during 8-10th March 2021.
+41. Chemical Science for Drug Discovery & Therapy 2020, International Conference (in online mode) during 22-26 July, 2020, Organized by Department of Chemistry VNIT Nagpur, Nagpur, India.
+42. Comparative study on the thermal property and haze enhancement using boron nitride nanosheets and MXene nanoparticles in a polycarbonate matrix, UICT conference, Jalgaon 43. Parag Thakur, Shriram Sonawane, Photo-thermal Removal of CO2 from MWCNT/HMDA nanofluid, The Ninth DAE-BRNS Biennial Symposium on “Emerging Trends in Separation Science and Technology (SESTEC-2020), BARC, Mumbai 44. Parag Thakur, Shriram Sonawane. Numeric and experimental study of the car radiator performance, CHEM-CONFLUX-20, NIT, Prayagraj (2020) 45. Parag Thakur, Shriram Sonawane, Experimental and numerical analysis of CO2 absorption processes using fly ash based nanofluids, CHEM-CONFLUX-22, NIT, Prayagraj, 14-16 April, 2022 (Received Best oral presentation award) 46. Parag Thakur, Shriram Sonawane, Performance assessment of the CNT deposited surfaces for the pool boiling application, International Conference on Advances in Sustainable Research for Energy and Environmental Management (ASREEM-2021), 6-8 August 2021, SVNIT, Surat (Received Best oral presentation award) 47. Parag Thakur, Tushar Khapne, Shriram Sonawane, Synthesis of BNNP+Mxene/Polycarbonate nanocomposite using twin-screw extrusion reactor for thermal property enhancement, International Conference on Advances in Sustainable Research for Energy and Environmental Management (ASREEM-2021), 6-8 August 2021, SVNIT, Surat, SVNIT, Surat 48. Parag Thakur, Pooja Pradip, Shriram Sonawane, Development of efficient CO2 absorption processes using MWCNT based nanofluids, 2nd International Conference On Chemical, Bio & Environmental Engineering (CHEMBIOEN-2021), August 20-22, 2021, NIT, Jalandhar 49. Synthesis of BNNP+Mxene/Polycarbonate nanocomposite using twin-screw extrusion reactor for thermal property enhancement, Parag Thakur, Shriram Sonawane, International Chemical Engineering Conference 2021 (ICheEC 2021), September 17-19, 2021, NIT, Jalandhar 50. Parag Thakur, Shriram Sonawane, Review on the Application of Nanofluids for the Environmental Remediation, International Conference on Advances in Sustainable Research for Energy and Environmental Management (ASREEM-2021), 6-8 August 2021, SVNIT, Surat, SVNIT, Surat 51. Synthesis of BNNP+Mxene/Polycarbonate nanocomposite using twin-screw extrusion reactor for thermal property enhancement, International Conference on Reaction Engineering (ICRE-2021) Organized by Department of Chemical Engineering, National Institute of Technology, Raipur 492010 (Chhattisgarh) India 7th- 8thMay, 2021 52. Parag Thakur, Shriram Sonawane, Photo-thermal Removal of CO2 from MWCNT/HMDA nanofluid, The Ninth DAE-BRNS Biennial Symposium on “Emerging Trends in Separation Science and Technology (SESTEC-2020), BARC, Mumbai, 22 March-26 March, 2021
+· NATIONAL CONFERENCES 53. S.S.Sonawane, S.J.Wagh, Experimental and Modeling Studies in Solid-Liquid Reaction, National Seminars on ‘Recent Trends in Chemical Technology, UICT, NMU,JALGAON (2006) 54. Shriram Sonawane, A.P.Rathod,Abhinav Pradhan, K.L.Wasewar, study on Application of Nano Fluids, National Conference on Advanced Technology-NIRMITI, Priyadarshini Engineering College Nagpur (2009) 55. A.P.Rathod, K.L.Wasewar, S.S.Sonawane, Pervaporation Reactor: Principles and Applications, National Conference on Advanced Technology-NIRMITI, Priyadarshini Engineering College Nagpur (2009) 56. Umesh Singh, Atul Ranjan, S.S.Sonawane, K.L.Wasewar, A.P.Rathod,Steady State Modeling and Simulation of Pipeline Network for Compressible Fluids, National Conference on Advanced Technology-NIRMITI, Priyadarshini Engineering College Nagpur, (2009) 57. S.S. Sonawane*, Bhavesh Zha, Abhinav Pradhan, A.P.Rathod, Study on Carbon Sequestration Technique, National Conference on Chemistry for protection of Environment, Priyadarshini Engineering College Nagpur (2010) 58. Waghmare M. D., Wasewar K. L.*,Sonawane, S. S., Separation of Carboxylic Acids from Fermentation Broths and Waste Waters by Adsorption technique – A Review, CHEMCON-2010, Indian Institute of Chem. Engg. (IIChE), (2010) 59.  Mangesh Waghmare, Kailas Wasewar, Shriram Sonawane*, Investigation on Sorption Equilibrium of Nicotinic Acid on Low Cost Adsorbent (Neem Leaves), Technological Advancements in Chemical and Environmental Engineering (TACEE), Chem Engg. Dept., BITS, Pilani (2012) 60.  R. S. Khedkar, S. S. Sonawane*, K. L. Wasewar, Comparative study on thermal conductivity of TiO2 and CuO nanofluids, Indian Institute of Chem. Engg. (IIChE) (2012) 61.  R. S. Khedkar, S. S. Sonawane*, K. L. Wasewar, Effect of temperature on thermal conductivity and , Shear rate on rheological behavior of of CuO nanofluids, Indian Society of Heat & Mass Transfer – American Society of Mechanical Engg, (2013) 62.  Waghmare M. D., Wasewar K. L.*, Sonawane, S. S., Natural Adsorbents for the Recovery of Carboxylic Acids from fermentation Broth, National Conference on Advanced Technology-NIRMITI, Priyadarshini Engineering College Nagpur, ‘(2013) 63.  Waghmare M. D., Wasewar K. L.*,Sonawane, S. S., Reactive Extraction of Picolinic Acid by Natural Non-toxic Solvents, National Conference on Advanced Technology-NIRMITI, Priyadarshini Engineering College Nagpur, (2013) 64. S. Kimothi, S.S.Sonawane, A review: Nanoscience and Technology Emerging Trend, National Conference on Nanomaterials & Nanotechnology, VNIT, Nagpur (2010) 65. Ankit Tulsyan, Nikunj Jain, S.S.Sonawane, Application of Nanotechnology in food packaging, National Conference on Nanomaterials & Nanotechnology, VNIT- Nagpur (2010) 66. Shuvarthi Bhattacharjee, S.S. Sonawane, NovelBulletproof Material from Recycle Paper Mill Waste, National Conference on Nanomaterials & Nanotechnology, Chemical Engg. Dept. VNIT, Nagpur (2010) 67. Shashikant Shukla, S.S. Sonawane, A Review: Of Nano Particles As Controlled Drug Delivery Devices, National Conference on Nanomaterials & Nanotechnology, VNIT, Nagpur (2010) 68. Abhinav Pradhan, S.S. Sonawane, Bhawesh Kumar Jha, Study on Polymer Nanocomposites, National Conference on Nanomaterials & Nanotechnology, Chemical Engg. Dept. VNIT, Nagpur (2010) 69. Bhawesh Kumar Jha, Shriram Sonawane, Abhinav Pradhan, Study of Nanofluids, National Conference on Nanomaterials & Nanotechnology, Chemical Engg. Dept. VNIT, Nagpur (2010) 70. S.S.Sonawane, Snehal Bhoir, Functionalisation Of Carbon Nanotubes, National Conference on Nanomaterials & Nanotechnology, Chemical Engg. Dept. VNIT, Nagpur (2010) 71. Swarom R. Kanitkar, Shriram S. Sonawane, A.P.Rathod, Wear Resistant Polymer Nano-Composites: Preparation and Properties, National Conference on Nanomaterials & Nanotechnology, Chemical Engg. Dept. VNIT, Nagpur (2010) 72. Waghmare M. D., Wasewar K. L., Sonawane, S. S., Reactive Extraction of Picolinic Acid : A Review, National Conference on Advanced Technology-NIRMITI, Priyadarshini Engineering College Nagpur, (2010) 73. Rohit S. Khedkar, S. S. Sonawane, K. L. Wasewar, Effects of Ultrasonication on the Size and Shape of TiO2 Nanoparticles, Technological Advancements in Chemical and Environmental Engineering (TACEE), Chem Engg. Dept., BITS, Pilani (2012) 74. N.P. Aloorkar, M.N. Meshram, A.P. Rathod, S.S.Sonawane, Estrification of Acetic Acid and Ethanol with or without Using Ultrasonication Technique, Technological Advancements in Chemical and Environmental Engineering (TACEE), Chem Engg. Dept., BITS, Pilani (2012) 75. R. S. Khedkar, S. S. Sonawane, K. L. Wasewar, Effect of temperature on thermal conductivity and , Shear rate on rheological behavior of of CuO nanofluids, National ISHMT-ASME Conference, Indian Society of Heat & Mass Transfer – American Society of Mechanical Engg.,IIT Khargpur (2013) 76. A.SaiKiran, R. S. Khedkar, S. S. Sonawane, K. L. Wasewar, S. S. Umare, Thermo-physical studies of ethylene glycol based Fe3O4 nanofluids, CHEMCON 2012, Indian Institute of Chem. Engg. (IIChE), NIT Jalandhar (2012) 77. Waghmare M. D., Wasewar K. L., Sonawane, S. S.,Adsorption of Picolinic Acid: A Review ,National Conference on Advanced Technology-NIRMITI, Priyadarshini Engineering College Nagpur (2013) 78. Waghmare M. D., Wasewar K. L., Sonawane, S. S., Comparative Study on Adsorption of Picolinic Acid on Natural and Conventional Adsorbents.,National Conference on Advanced Technology-NIRMITI, Priyadarshini Engineering College Nagpur (2013) 79. Parag Thakur, Shriram Sonawane, Nirvik Sen, Intensification of Uranium Separation process using microreactors, RSD Poster presentations, VNIT- Nagpur (2019)

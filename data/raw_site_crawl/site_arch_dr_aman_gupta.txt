@@ -1,0 +1,78 @@
+SOURCE_URL: https://vnit.ac.in/arch/dr-aman-gupta/
+TITLE: Dr. Aman Gupta
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Aman Gupta
+Assistant Professor
+Brief Bio
+Assistant Professor in Department of Architecture and Planning at VNIT Nagpur.
+Postdoctoral research experience in Urban blue green spaces and Urban heat from Chulalongkorn Univ–Tsinghua Univ (Joint Research).
+Visiting research experience from Institute of Geography and the Lived Environment, University of Edinburgh, UK.
+Recepient of Second Century Fund (C2F Postdoc Fellowship), ANRF ITS Grant, and GAABESU Travel Grant.
+Research Interest
+Geospatial Planning for Urban Applications
+Blue-Green Spaces
+Urban Landscape and Morphology
+Remote Sensing for Urban Climate and Thermal Environment
+Educational Details
+Sr.No
+Institution
+Degree
+Year 1
+Indian Institute of Engineering Science and Technology (IIEST), Shibpur, India
+PhD in Architecture & Planning 2022 – 2026 2
+University of Edinburgh, UK
+Visiting PhD Candidate 2025 3
+Indira Gandhi National Open University (IGNOU), India
+Post Graduate Diploma in Urban Planning and Development 2024 4
+Indian Institute of Technology (IIT) Roorkee, India
+Master of Technology 2019 – 2021 5
+National Institute of Technology (NIT) Patna, India
+Bachelor of Architecture 2013 – 2018
+Contact Information
+Email
+:amangupta@arc.vnit.ac.in https://sites.google.com/view/amangupta1/ https://scholar.google.com/
+Conference Publication
+Journal Publication
+Awards & Honors
+Sponsored Research Projects
+Consultancy Projects
+STTP _ Workshop
+Administrative Responsibilities
+Research Patents
+S.No.
+Conferences/Book Chapters/Book Authored
+Conferences 1
+Aman Gupta, Bhaskar De, Sutapa Das; Climate resilient city planning using urban green-blue space resources to improve the thermal environment. Urban Transitions Conference 2024, Sitges, Barcelona, Spain, 5–7 November 2024.
+2
+Aman Gupta, Bhaskar De; A systematic Review on Urban Blue-Green Infrastructure in the Indian Subcontinent. Urban Planning and Architectural Design for Sustainable Development (UPADSD), 8th edition, University of Florence, Italy, 24–26 October 2023.
+3
+Aman Gupta, Ritu Rani; Decentralized Wastewater Treatment: A Case of Patna City in Bihar. National Conference Proceedings on Urban Interventions: Environmental, Social and Economic, NIT Raipur, 2–3 August 2022.
+4
+S. Jaiswal, M. Arif, A. Gupta; Reinventing the Mosque Architecture in the Indian Context. International Conference on Retro Futurism of Skills in Architecture, Design, Planning and Innovation, School of Architecture, Urban Development and Planning — Symbiosis Skills and Professional University, Pune, India, September 2021.
+Book Chapters 1
+Mallika Dey, Aman Gupta, Bhaskar De, Sutapa Das; Improving Accessibility to Urban Blue-Green Spaces: A Case of Howrah, India. In: Sustainable Development and Geospatial Technology, Springer Nature, 2024. DOI: 10.1007/978-3-031-65683-5_15 2
+Aman Gupta, Jing Ruan, Shubham Jaiswal; The Potential of Geographic Information Systems (GIS) as a Tool to Achieve Sustainable Development Goals. In: Sustainable Development and Geospatial Technology, Springer Nature, 2024. DOI: 10.1007/978-3-031-65683-5_10 3
+Aman Gupta, Anisha Sadab; Geomatics Approaches for Traffic Congestion Study. In: Sustainable Development and Geospatial Technology, Springer Nature, 2024. DOI: 10.1007/978-3-031-65683-5_11
+Book Edited/Authored 1
+Aman Gupta; Building Services, Infrastructure, and Transportation: GATE Architecture and Planning. Nitya Publications also available at Notion Press, First Edition, 2021. ISBN: 978-93-91669-39-3.
+Sr.No
+Journal Publications 1
+Aman Gupta, Bhaskar De, Sutapa Das, Mahua Mukherjee; Thermal hazards in urban spaces: A review of climate-resilient planning and design to reduce the heat stress. Urban Climate, 59, 102296, 2025. DOI: 10.1016/j.uclim.2025.102296 2
+Aman Gupta, Bhaskar De; Enhancing the city-level thermal environment through the strategic utilization of urban green spaces employing geospatial techniques. International Journal of Biometeorology, 2024. DOI: 10.1007/s00484-024-02733-2 3
+Aman Gupta, Anisha Sadab, Bhaskar De; Assessment of critical thermal characteristics and land surface dynamics of an Indian metropolitan city. Journal of Water & Climate Change, 2024. DOI: 10.2166/wcc.2024.370 4
+Aman Gupta, Bhaskar De; Blue space resilient urban planning to enhance severely distressed thermal environment. Physics and Chemistry of the Earth, Parts A/B/C, 2024. DOI: 10.1016/j.pce.2024.103804 5
+Aman Gupta, Bhaskar De, Anoop Kumar Shukla, Gloria Pignatta; Vulnerability assessment of a highly populated megacity to ambient thermal stress. Sustainability, 2024. DOI: 10.3390/su16083395 6
+Aman Gupta, Bhaskar De; A systematic review on urban blue-green infrastructure in the south Asian region: recent advancements, applications, and challenges. Water Science & Technology, 2024. DOI: 10.2166/wst.2024.014 7
+Aman Gupta, Anoop Kumar Shukla; Optimal approaches in global warming mitigation and adaptation strategies at city scale. Discover Sustainability, 2024. DOI: 10.1007/s43621-024-00497-8 8
+Aman Gupta, Bhaskar De, Zhiqiang Feng; Intra-city disparities in urban green space proximity and its association with infrastructures and demography. Remote Sensing Applications: Society and Environment, 2025. DOI: 10.1016/j.rsase.2025.101724 9
+Fatma Ahmad, Debjit Majumder, Rabs Ranjit, Aman Gupta, Michael Manhart; Preliminary study on the spread of air-borne pollutants in urban environment: a CFD simulation approach. Scientific Reports, 2025. DOI: 10.1038/s41598-025-03197-z 10
+Moumita Majumdar, Bhaskar De, Aman Gupta; Evaluating the role of urban green space typology in reducing thermal stress in tropical residential neighbourhoods: Evidence from Rajarhat-Newtown, India. Theoretical and Applied Climatology, 2026. DOI: 10.1007/s00704-026-06452-z
+Sr. No.
+Awards/Honors/Recognitions 1
+Funding from ANRF as ITS Grant for participation at Urban Transitions Conference 2024, Spain 2
+Funding from Global Alumni Association of Bengal Engineering & Science University (GAABESU) as Travel Grant to participate in UPADSD 8th edition in Florence, Italy 3
+Selection for Visiting Research Programme, University of Edinburgh, UK 4
+Reviewing Editor, Springer Nature 5
+Second Century Fund (C2F) Postdoc Fellowship

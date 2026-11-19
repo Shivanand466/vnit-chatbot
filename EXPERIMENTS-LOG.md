@@ -552,6 +552,31 @@ The 484 short pages really are short: the website's own extractor, which reads t
 
 The index is not rebuilt in this step; the no-key checks are identical to the baseline (54/54, 69/77, 15/18, 16/19).
 
+*Later (§29):* the importer also leaves out attachment pages it missed (92) and near-duplicates (62), strips sub-site names from titles, and writes to `data/raw_site_crawl/` instead of `data/raw`: 814 pages.
+
+## 29. The full crawl in the index: measured, not kept (Runbook 9, Step 2)
+
+**Question.** Does searching ~800 more pages of vnit.ac.in help (answers that were never in the index) or hurt (more pages competing with the right passage)?
+
+**Rule set before measuring.** Keep the bigger index only if more answerable questions reach the AI (`chunk_ranks`, top 7) than at baseline, losing at most one baseline hit, with the reason recorded.
+
+| Version | Chunks | test_agentic | chunk_ranks top 7 | top 3 | fact_ranks | evaluate |
+|---|---|---|---|---|---|---|
+| Baseline (81 pages + documents) | 8,162 | 54/54 | 69/77 | 64/77 | 15/18 | 16/19 |
+| First import, as written (886 pages) | 32,261 | (not measured) | | | | |
+| Attachment pages left out (868 pages) | 17,922 | 52/54 | 69/77 | 64/77 | 15/18 | 17/19 |
+| Plus: sub-site names stripped from titles, near-duplicates left out, corrective step looks at 6 pages (814 pages) | 17,212 | 50/54 | 68/77 | 63/77 | 14/18 | 16/19 |
+
+- **First import.** 92 WordPress attachment pages (an image's own page) got through: the check for `<body class="attachment">` only looked at the first 20,000 characters, and these pages have ~29,000 characters of `<head>`. One of them made 9,555 chunks. Fixed in the importer before measuring.
+- **Attachment pages left out.** No question newly reached the AI. evaluate gained one (the CSE department's founding year now comes from its own page). Two unit tests failed: for "How many students got placed in 2025-26…" the search-quality gate's two "best-titled pages" became "Placement Policy For Companies" under both T&P and Hostel (the same page copied into two sub-sites), and the T&P page holding the 678 figure fell to 21st by title, behind dozens of new pages ending in "– Training & Placement Department".
+- **Second attempt** (each change general, none naming a question): strip a sub-site's name from the end of its page titles (an ending shared by ≥40% of a sub-site's titles); skip pages whose word 5-grams overlap >80% with a page already kept (option b of the runbook, done at import); let the corrective step look inside the 6 best-titled pages and keep the 2 whose best passage the reranker scores highest (option c: the "2 pages" setting dated from 81 pages). Worse: titles left bare ("Placements", "About Us") now matched institute-wide questions — the Chemical department's "Placements" page topped the placements question, T&P's "About Us" the Institute-of-National-Importance one — and `electrical_mtech` dropped from rank 2 to 10.
+
+**Why it doesn't help the test set.** The 8 questions whose answer does not reach the AI (fees, the calendar, the Holi holiday, the 2024-25 company count, General Secretary eligibility) all have their answers in *documents*, which were already in the index. The new pages are mostly faculty profiles, department sub-pages and news posts: useful for questions nobody has written a test for yet ("what does Dr X research?"), but for the tested questions they are only competition.
+
+**Decision.** Not kept. The backup index is restored (byte-identical, checks identical to baseline), the 814 pages are kept in `data/raw_site_crawl/` (which `chunk.py` does not read), and `import_site_crawl.py` writes there. The corrective-step change was reverted with the rest of the step, since it was only measured together with the bigger index. Trying again later is cheap: move the files into `data/raw`, rebuild (~17 minutes), re-run the checks.
+
+**What would be needed to keep them.** A way to search the new pages only when the question is about something the old corpus does not cover (a person, a lab, a sub-page), for example a second, separate index consulted when the first search grades weak — not attempted tonight.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

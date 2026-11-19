@@ -1,9 +1,0 @@
-SOURCE_URL: https://vnit.ac.in/engineering/meta/foundations-of-modelling-and-simulation-course-conducted-by-pmrf-swapnil-bhure/
-TITLE: Foundations of Modelling and Simulation course conducted by PMRF Swapnil Bhure – Department of Metallurgical & Materials Engineering
-FETCHED: 2026-11-19
-CRAWL: full-2026-11-19
----
-16-hour certification coursework on ‘Foundations of Modelling and Simulation’ was conducted by
-Mr. Swapnil Bhure
-, Prime Minister’s Research Fellow at the Indian Institute of Science. In the online certificate distribution function, the Head of the Department, Dr. J. G. Bhatt explained the importance of Computational Materials Science. He stated that, 20-30 years ago, performing simulations was impossible; however, the advancement in technology has made it possible to perform simulations at a complex level. He believes experimental data can be employed for designing computational models which can be further extrapolated to obtain some concrete outcomes. He believes students should make use of the potential possessed by Computational Materials Science to create an economic impact. It could minimize the number of experiments consequently, the raw materials utilized. He thanked Swapnil for taking up the efforts for the students throughout the duration of the coursework.
-Students believe that the coursework has given them a learning pathway and incited a lever of curiosity to further pursue this field. The coursework was easily understandable because of Swapnil’s teaching methodologies. Everyone thanks Mr. Swapnil for his time, efforts, and simple teaching.

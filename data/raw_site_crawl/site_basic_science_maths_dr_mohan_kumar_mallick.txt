@@ -1,0 +1,254 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/maths/dr-mohan-kumar-mallick/
+TITLE: Dr. Mohan Kumar Mallick
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Mohan Kumar Mallick
+Brief
+Bio
+Brief Bio
+Dr. Mohan Kumar Mallick is an Assistant Professor in the Department of Mathematics,Visvesvaraya National Institute of Technology Nagpur. He received his Ph.D. in Mathematical Sciences from IIT Madras in 2019 and subsequently worked as a Postdoctoral Fellow at TIFR-CAM, Bangalore. Prior to joining VNIT Nagpur, he served as an Assistant Professor at SRM University-AP.
+His research lies in nonlinear analysis and partial differential equations, with emphasis on fully nonlinear elliptic and parabolic PDEs, Pucci extremal operators, principal eigenvalue problems, shape optimization, singular nonlinearities, multiplicity theory, and regularity theory. He has also worked on reaction-diffusion equations, mathematical biology, ecological models, nonlinear boundary conditions, and optimal control problems. His research articles have appeared in reputed journals including Communications on Pure and Applied Analysis, Topological Methods in Nonlinear Analysis, Monatshefte für Mathematik, Evolution Equations and Control Theory, Mathematical Methods in the Applied Sciences, Journal of Evolution Equations, and Journal of Differential Equations.
+Dr. Mallick is the Principal Investigator of an ARG-MATRICS research grantfunded by the Anusandhan National Research Foundation, Government of India.He is currently guiding research students in fully nonlinear PDEs and has supervised 5 M.Sc. projects. He has delivered invited talks at various national andinternational academic events and has also served as Convener of the five-dayworkshop “Partial Differential Equations: Theory and Numerics” at VNIT Nagpur in March 2026.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D 2019
+Elliptic Partial Differential Equation
+IIT Madras 2
+M.Sc 2012
+Applied Mathematics
+University of Hyderabad 3
+B.Sc 2010
+Mathematics(Hons)
+Fakir Mohan University
+Contact
+Details
+Phone:
+Email:
+Address:
+(+91)9444378326 mohanmallick@mth.vnit.ac.in
+Cabin No-606,          New Academic Building,Department of Mathematics,VNIT Nagpur - 440010.
+Research
+Interest
+Research Interest 1. Fully Nonlinear Elliptic and Parabolic Partial Differential Equations: Study of Pucci extremal operators, non-divergence form equations, existence, multiplicity, and regularity theory.
+2. Nonlinear Analysis, Eigenvalue Problems and Shape Optimization: Investigation of principal eigenvalues, Pólya-type spectral problems, singular nonlinearities, bifurcation, and nonlinear boundary conditions.
+3. Mathematical Biology, Population Dynamics and Optimal Control: Analysis of reaction-diffusion models, ecological systems, harvesting problems, and control-theoretic approaches.
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Research Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Published Papers
+Ph.D Scholar
+PG Dissertation
+Invited Talk
+Membership in Professional Bodies
+Course Taught
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Shape Optimization of Principal Eigenvalue for Fully Nonlinear Operators: Theoretical and Geometric Advances on Pólya-Type Problems
+Anusandhan National Research Foundation (ANRF), Government of India
+Principal Investigator 2026–2031 30
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Five-Day Workshop on Partial Differential Equations: Theory and Numerics, 13–17 March 2026, Department of Mathematics, VNIT Nagpur
+Sr. No.
+Responsibility
+Institute
+Role
+Year
+Sr. No.
+Awards 1
+TIFR-CAM Postdoctoral Fellowship, 2019–2021 2
+Smt. Lakshmikutty Amma and Sri Krishnan Kutty Nair Prize for Best Ph.D. Thesis, 2019 3
+ERASMUS+ Fellowship to visit University of Koblenz–Landau, Germany, 2017 4
+Qualified CSIR-NET with JRF, 2012 5
+Qualified GATE in Mathematics, 2012
+S.No.
+List of all authors
+Title of the paper
+Journal name in Full
+Volume
+Year
+First Page No
+ISSN
+DOI 1
+Mohan Mallick, R. Shivaji, Byungjae Son, S. Sundar
+Bifurcation and multiplicity results for a class of n x n p-Laplacian system
+Communications on Pure and Applied Analysis 17(3) 2018 1534-0392 / 1553-5258 10.3934/cpaa.2018062 2
+Mohan Mallick, Lakshmi Sankar, Ratnasingham Shivaji, Subbiah Sundar
+Infinite semipositone problems with a falling zero and nonlinear boundary conditions
+Electronic Journal of Differential Equations 2018(193) 2018 1072-6691
+— 3
+Mohan Mallick, S. Sundar
+Existence, bifurcation, and multiplicity results for a class of n x n p-Laplacian system
+Springer Proceedings in Mathematics & Statistics 320 2020 2194-1009 / 2194-1017 10.1007/978-981-15-3615-1_20 4
+Mohan Mallick, Ram Baran Verma
+A three solutions theorem for Pucci’s extremal operator and its application
+Topological Methods in Nonlinear Analysis 58(1) 2021 1230-3429 10.12775/TMNA.2020.066 5
+Mohan Mallick, Sarath Sasi, R. Shivaji, S. Sundar
+Bifurcation, uniqueness and multiplicity results for classes of reaction diffusion equations arising in ecology with nonlinear boundary conditions
+Communications on Pure and Applied Analysis 21(2) 2022 1534-0392 / 1553-5258 10.3934/cpaa.2021195 6
+Mohan Mallick, Ram Baran Verma
+Multiplicity results for system of Pucci’s extremal operator
+Monatshefte für Mathematik 204(3) 2024 0026-9255 / 1436-5081 10.1007/s00605-024-01972-0 7
+Mohan Mallick, Ardra A., Sarath Sasi
+Optimal harvesting for a logistic model with grazing
+Evolution Equations and Control Theory 14(3) 2025 2163-2480 10.3934/eect.2024066 8
+Mohan Mallick, Ram Baran Verma
+Multiplicity results for fully nonlinear elliptic equations with natural gradient growth
+Mathematical Methods in the Applied Sciences 48(13) 2025 0170-4214 / 1099-1476 10.1002/mma.11075 9
+Ram Baran Verma, Mohan Mallick
+Exceptional boundary sets for fully nonlinear parabolic PDEs
+Journal of Evolution Equations 25 2025 1424-3199 / 1424-3202 10.1007/s00028-025-01090-w 10
+Mohan Mallick, Ram Baran Verma
+Regularity for fully nonlinear elliptic equations with natural growth in gradient and singular nonlinearity
+Journal of Differential Equations 441 2025 0022-0396 / 1090-2732 10.1016/j.jde.2025.113477 11
+Ardra A., Mohan Mallick, Sarath Sasi
+On a shape derivative formula for the Robin p-Laplace eigenvalue
+Topological Methods in Nonlinear Analysis
+Accepted
+Accepted 1230-3429
+DOI awaited
+Sr.No.
+Research Scholar Name
+Title of Thesis
+Joining Year
+Completed year/ongoing 1
+Mr. Karan Rathore
+Extsistance and Multiplicity Results for Fully Nonlinear Operator 2023
+Ongoing
+Sr. No
+Student Name
+Dissertation Title
+Year 1
+Mr. Harshal Manoj Bansod
+Maximum Principle in Differential Equations and Its Applications 2023–24 2
+Mr. Samujjal Deb
+Study on Elliptic Partial Differential Equations 2023–24 3
+Mr. Satyanam Rajput
+Eigenvalue Problems and Special Functions 2024–25 4
+Mr. Ritik Paunikar
+Unifying Machine Learning and Interpolation Theory via INN 2025–26 5
+Mr. Suman Kumar Mahto
+Analytic Origins of Functions: Understanding Functions as Solutions of Differential and Integral Equations 2025–26
+Sr. No.
+Conference/ Institute Name
+Title of the Talk
+Date 1
+Sr. No.
+Membership Bodies Name
+Sr. No.
+Course Code
+Course Name
+UG/PG
+Semester( winter/ summer)
+Year 1
+MAL – 208
+Probabilty Theory and Statistical Methods
+UG
+Winter 2022 2
+MAL – 201
+Integral Transforms and Partial DifferentialEquations
+UG
+Winter 2022 3
+MAL – 205
+Numerical Methods and Probability Theory
+UG
+Summer 2023 4
+MAL – 208
+Probabilty Theory and Statistical Methods
+UG
+Summer 2023 6
+MAL – 531
+Functional Analysis
+PG
+Winter 2023 7
+MAL – 208
+Probabilty Theory and Statistical Methods
+UG
+Winter 2023 8
+MAL – 102
+Mathematics-II
+UG
+Summer 2024 9
+MAL – 525
+Numerical Analysis
+UG
+Summer 2024 10
+MAP – 526
+Numerical Computation laboratory
+UG
+Summer 2024 11
+MAL – 531
+Functional Analysis
+PG
+Winter 2024 12
+MAL – 211
+Complex Variables, Integral Transformsand Partial Differential Equations
+UG
+Winter 2024 13
+MAL – 525
+Numerical Analysis
+PG
+Summer 2025 14
+MAL – 102
+Mathematics-II
+UG
+Summer 2025 15
+MAP – 526
+Numerical Computation laboratory
+PG
+Summer 2025 16
+MAL – 101
+Mathematics-I
+UG
+Winter 2025 17
+MAL – 203
+Numerical Methods and Computation
+UG
+Winter 2025 18
+MAL – 513
+Theory of Ordinary DifferentialEquations
+PG
+Winter 2025 19
+MAL – 521
+Complex Analysis
+PG
+Summer 2026 20
+MAL – 102
+Mathematics II
+UG
+Summer 2026
+Sr No
+Paper Citation
+Sr No
+Paper Citation

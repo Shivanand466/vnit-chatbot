@@ -1,0 +1,557 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/maths/dr-p-p-chakravathy/
+TITLE: Dr. P. P. Chakravathy
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. P. P. Chakravathy
+Brief
+Bio
+Brief Bio
+Dr. Pramod Chakravarthy, born in Podilavaripalem, a small village near Cherukupalli, Guntur (Dt.), Andhra Pradesh.  He did his schooling and Intermediate from Government Junior College, Kavour.  He did his graduation from SVRM College Nagaram.  He did his Post graduation in M.Sc. Applied Mathematics from National Institute of Technology, Warangal during 1994-96. He qualified National level examinations like Joint CSIR-UGC- NET-JRF in 1996 and Qualified GATE-96 with 85.06 percentile.  He obtained his Ph.D. degree from National Institute of Technology, Warangal in 2004 under the able guidance of Prof. Y.N. Reddy.   He started his career as lecturer in Mathematics in Kavikulguru Institute of Technology & Science,  Ramtek , Nagpur, Maharastra.  Later he shifted to Kakatiya Institute of Technology & Science, Warangal, and served as senior lecturer in Mathematics till May 2006.He joined as a lecturer in Mathematics in Visvesvaraya National Institute of Technology, Nagpur on 31-05-2006, a premier Institution and an Institute of national Importance.  In 2010 he got selected as Associate Professor in Mathematics and selected as Professor of Mathematics in March 2018.His Broad area of Specialization is Numerical Analysis and till now he published 55 research papers in international journals and 2 papers in international conference proceedings. He successfully completed  3 research projected sponsored by Department of Science and Technology, National Board for Higher Mathematics, Department of Atomic Energy etc.  Completedn 5 Ph.Ds and 3 are ongoing.He organized Four Short term training programmes and two national conferences at VNIT Nagpur. Visited University of Nevada, Las Vegas, USA in March 2012.  London University in 2014 and Beging in 2016. Beijing Computational Science Research Centre, Beijing, China during August 201619th international conference “Computational and Mathematical Methods in Science and Engineering” (CMMSE – 2019) which was held at Rota, Cadiz, Spain during July 2019.   Given more than 36 invited talks in various institutions like, IIT Kanpur, NIT Warangal, NIT Surat, NIT Jamshedpur, NIT Raipur, NIT Uttarakhand, Nagpur University and other premier educational institutions.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University
+B.Sc.
+1994
+Mathematics, Physics and Chemistry
+Nagarjuna University, Guntur, A.P.
+M.Sc.
+1996
+Applied Mathematics
+R.E.C. Warangal (Presently NIT Warangal)
+Ph.D.
+2004
+Mathematics, Numerical Analysis
+NIT Warangal
+Contact
+Details
+Phone:
+Email:
+Address:
+9860444667 ppchakravarthy@mth.vnit.ac.in
+Quarter No. 9, VNIT Campus, Nagpur - 440010
+Research
+Interest
+Research Interest
+Numerical Solutions of Singular Perturbation Problems
+Numerical solutions of Singular Perturbed fractional differntaial equations
+Numerical Analysis,
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Research Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Published Papers
+Ph.D Scholar
+PG Dissertation
+Invited Talk
+Membership in Professional Bodies
+Course Taught
+Conference Publications
+Journal Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Numerical methods for solving Singularly Perturbed Differential Difference Equations
+Department of Science & Technology
+Principal Investigator
+Completed in July 2013
+Rs. 9, 84,400 /- 2
+Numerical methods for solving Singularly Perturbed Delay Differential Equations with large delays
+NBHM, Department of Atomic Energy
+Principal Investigator
+Completed in September 2016
+Rs. 11, 69,725/- 3
+Numerical methods for solving multi-parameter singularly perturbed boundary value problems
+NBHM, Department of Atomic Energy
+Principal Investigator
+Completed in July 2021.
+Rs. 12, 41,100 /-
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Applied Numerical Methods for Scientists and Engineers sponsored by AICTE  conducted during 21-25, December 2009 in Department of Mathematics VNIT Nagpur 2
+Fundamentals of Numerical Computing  conducted during  10-14, December 2012 in Department of Mathematics VNIT Nagpur 3
+Advances in Computational Methods in Science and Engineering during 09-13, December 2013  in Department of Mathematics VNIT Nagpur 4
+Modelling, Computing, Simulation in Science and Engineering during 06-10, July 2015  in Department of Mathematics VNIT Nagpur
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+HOD, Mathematics Department
+VNIT Nagpur 12-4-2013 to 12-4-2016(FN) and 11-4-2018 to 03-01-2021.
+2
+Associate Dean(Student Activities)
+VNIT Nagpur 1-5-2016 to 30-4-2018 (2 years) 3
+DASA admissions (Institute level)
+VNIT Nagpur
+Chairman 2018 4
+Implementation committee, DASA (Direct Admission of Students Abroad)
+VNIT Nagpur
+Convener, 2017 5
+Board of studies , Department of Mathematics
+VNIT Nagpur
+Chairman 12-4-2013 to 12-4-2016(FN) and 11-4-2018 to 03-01-2021.
+6
+Senate
+VNIT Nagpur
+Member 12-4-2013 to 12-04-2016 FN and from 15-03-2018 to till date. Invited member from 01-05-2016 to 14-3-2018.
+7
+M.Sc. admissions
+VNIT Nagpur
+Chairman 2014-15 8
+M.Sc. admissions
+VNIT Nagpur
+Vice-Chairman 2013-14 9
+Warden, Hostel Block 9
+VNIT Nagpur
+Warden
+June 2007 – June 2011 10
+Admission committee for M.Sc. program 2012
+VNIT Nagpur
+Member 2012  for preparing the guidelines for selection criteria, conducting the written entrance examination, preparing the merit list and admitting the candidates etc 11
+Admission committee : AIEEE
+VNIT Nagpur
+Member 2007, 2010, 2012 12
+Convocation 2010
+VNIT Nagpur
+Member photography committee 2010 13
+Conducting IIT – JEE
+VNIT Nagpur
+Deputy Presiding Officer 2009, 2010 14
+Institute Gathering
+VNIT Nagpur
+Member in Discipline committee 2008, 2009 15
+Fresher’s Evening’
+VNIT Nagpur
+Faculty incharge 2008-2011, three times 16
+Department Examination cororinator
+VNIT Nagpur
+DEC 2008-2011 ( 3years) 17
+Department Time Tables
+VNIT Nagpur
+Incharge 2007-2010 ( 3 years) 18
+M.Sc. Coordinator
+VNIT Nagpur
+Incharge 2012-2013
+Sr. No.
+Awards
+S.No.
+List of all authors
+Title of the paper
+Journal name in Full
+Volume
+Year
+First Page No
+ISSN
+DOI 1
+Y. N. Reddy and P. Pramod Chakravarthy
+Method of Reduction of Order for Solving Singularly Perturbed Two-Point Boundary Value Problems
+Applied Mathematics and Computation 136 2003 27 2
+Y. N. Reddy and P. Pramod Chakravarthy
+Numerical Patching Method for Singularly Perturbed Two-Point Boundary Value Problems Using Cubic Splines
+Applied Mathematics and Computation 149 2004 441 3
+Y. N. Reddy and P. Pramod Chakravarthy
+An Exponentially Fitted Finite Difference Method for Singular Perturbation Problems
+Applied Mathematics and Computation 154 2004 83 4
+Y. N. Reddy and P. Pramod Chakravarthy
+An Initial-Value Approach for Solving Singularly Perturbed Two-Point Boundary Value Problems
+Applied Mathematics and Computation 155 2004 95 5
+P. Pramod Chakravarthy and Y. N. Reddy
+An Exponentially Fitted Modified Upwind Scheme for Singular Perturbation Problem
+International Journal of Fluid Mechanics Research 33 2006 119 6
+P. Pramod Chakravarthy, K. Phaneendra and Y. N. Reddy
+A Seventh order Numerical Method for Singular Perturbation Problems
+Applied Mathematics and Computation 186 2007 860 7
+P. Pramod Chakravarthy and Y. N. Reddy
+A cutting point technique for Singular Perturbation Problems
+Journal of Mathematical Control Science and Applications 1 2007 39 8
+P. Pramod Chakravarthy and Y. N. Reddy
+A Pair of Independent Initial Value Problems for Singularly Perturbed Two-Point Boundary Value Problems
+International Journal of Scientific Computing 1 2007 123 9
+P. Pramod Chakravarthy, K. Phaneendra and Y. N. Reddy
+A Fifth Order Numerical Method for Singular Perturbation Problems
+J. Appl. Math. & Informatics 26 2008 689 10
+P. Pramod Chakravarthy, K. Phaneendra and Y. N. Reddy
+A Fifth order Numerical Method for Singularly Perturbed differential-difference equations with negative shift
+J. Appl. M ath. & Informatics 27 2009 441 11
+Bhagwat Thakran, A.G. Deshpande and P. Pramod Chakravarthy
+A Numerical Method for Solving Singularly Perturbed two point Boundary Value Problems using Rational Approximation
+International Journal of Computational Intelligence Research & Applications 3 2009 185 12
+K. Phaneendra, P. Pramod Chakravarthy and Y. N. Reddy
+A Fitted Numerov Method for Singular Perturbation Problems Exhibiting Twin Layers
+Applied Mathematics & Information Sciences … An international journal 4 2010 341 13
+P. Pramod Chakravarthy and A.G. Deshpande
+Numerical Solution of Singular Perturbation Problems by Asymptotic Boundary Condition
+Int. J. of Appl. Math and Mech 7(4) 2011 70 14
+R. Nageshwar Rao, P. Pramod Chakravarthy
+A Fourth order finite difference method for singularly perturbed differential difference equations
+American Journal of Computational and Applied Mathematics 2011 5 10.5923/j.ajcam.20110101.02 15
+P. Padmaja, P. Pramod Chakravarthy, Y.N. Reddy
+A Non Standard Explicit Method for Solving Singularly Perturbed Two point Boundary Value Problems via Method of Reduction of Order
+Int. J. of Appl. Math. and Mech 8(2) 2012 62 16
+R. Nageshwar Rao, P. Pramod Chakravarthy
+Numerical Patching Technique for Singularly Perturbed Nonlinear Differential-Difference Equations with a negative shift
+Applied Mathematics 2(2) 2012 11 10.5923/j.am.20120202.04 17
+P. Pramod Chakravarthy, R. Nageshwar Rao
+A domain decomposition method for Singularly Perturbed Differential-Differential Equations with a small negative shift
+European journal of scientific research 75(2) 2012 193 18
+P. Padmaja, P. Pramod Chakravarthy, Y.N. Reddy
+An Asymptotic Method for Singularly Perturbed Two-Point boundary Value Problems via Initial Value approach
+European journal of scientific research 82(3) 2012 340 19
+P. Pramod Chakravarthy, R. Nageshwar Rao
+A Modified Numerov Method for solving Singularly Perturbed Differential-Difference Equations arising in Engineering and Science
+Results in Physics 2 2012 100 20
+P. Padmaja , P. Pramod Chakravarthy , Y. N. Reddy
+A Numerical Scheme for Nonlinear Singularly Perturbed Two point Boundary Value Problems using Locally Exact Integration
+American Journal of Computational and Applied Mathematics 2(6) 2012 306 10.5923/j.ajcam.20120206.09 21
+P. Pramod Chakravarthy, R. Nageshwar Rao
+A Finite Difference Method for Singularly Perturbed Differential-Difference Equations with Layer and Oscillatory Behavior
+Applied Mathematical Modelling 37 2013 5743 10.1016/j.apm.2012.11.004.
+22
+P. Pramod Chakravarthy, R. Nageshwar Rao
+An initial value technique for singularly perturbed differential-difference equations with a small negative shift
+J. Appl. Math. & Informatics 31 2013 131 23
+R. Nageshwar Rao, P. Pramod Chakravarthy
+A finite difference method for singularly perturbed differential-difference equations arising from a model of neuronal variability
+Journal of Taibah University for Science 7 2013 128 24
+R. Nageshwar Rao, P. Pramod Chakravarthy
+A fitted Numerov method for singularly perturbed parabolic partial differential equation with a small negative shift arising in control theory
+Numerical Mathematics: Theory, Methods and Applications 7 2014 23 25
+R. Nageshwar Rao, P. Pramod Chakravarthy
+An Exponentially Fitted Tridiagonal Finite Difference Method for Singularly Perturbed Differential-Difference Equations with Small Shift
+Ain Shams Engineering Journal 5 2014 1351 26
+Podila Pramod Chakravarthy, S Dinesh Kumar, Ragi Nageshwar Rao and Devendra P Ghate
+A fitted numerical scheme for second order singularly perturbed delay differential equations via cubic spline in compression
+Advances in Difference Equations 2015 300 10.1186/s13662-015-0637-x .
+27
+P. Pramod Chakravarthy, S. Dinesh Kumar, R. Nageshwar Rao
+An exponentially fitted finite difference scheme for singularly perturbed delay differential equations with large delays
+Ain Shams Engineering Journal 8 2017 663 28
+P. Pramod Chakravarthy, S. Dinesh Kumar, R. Nageshwar Rao
+Numerical Solution of Second Order Singularly Perturbed Delay Differential Equations via Cubic Spline in Tension
+International Journal of Applied and Computational Mathematics 3(3) 2017 203 10.1007/s40819-016-0204-5 29
+Pramod Chakravarthy, P., Dinesh Kumar, S. & Nageshwar Rao, R.
+An Exponentially Fitted Spline Method for Second Order Singularly Perturbed Delay Differential Equations
+Iran J Sci Technol Trans Sci 41 2017 515 https://doi.org/10.1007/s40995-017-0253-6 30
+S Dinesh Kumar , R Nageshwar Rao and P Pramod Chakravarthy
+A numerical scheme for singularly perturbed reaction-diffusion problems with a negative shift via Numerov method
+IOP Conf. Series: Materials Science and Engineering 2017 263 10.1088/1757-899X/263/4/042110.
+31
+P. Pramod Chakravarthy, Kamlesh Jangir
+A novel method for singularly perturbed delay differential equations of reaction diffusion type
+Differential equations and dynamical systems 29(3) 2017 10.1007/s12591-017-0399-x 32
+Podila, P., Gupta, T., & Rao, N.
+A numerical scheme for singularly perturbed delay differential equations of convection-diffusion type on an adaptive grid
+Mathematical Modelling and Analysis 23(4) 2018 686 33
+Pramod Chakravarthy, P. & Kumar, K.
+An adaptive mesh method for time dependent singularly perturbed differential-difference equations
+Nonlinear Engineering 8 2019 328 10.1515/nleng-2018-0075 34
+R. Nageshwar Rao, P. Pramod Chakravarthy
+Fitted numerical methods for singularly perturbed one-dimensional parabolic partial differential equations with small shifts arising in the modelling of neuronal variability
+Differ Equ Dyn Syst 27(1–3) 2019 1 10.1007/s12591-017-0363-9 35
+Trun Gupta, P. Pramod Chakravarthy
+A Numerical Scheme for Solving a Coupled System of Singularly Perturbed Delay Differential Equations of Reaction–Diffusion Type
+Springer Nature Singapore Pte Ltd. 2019, Numerical Heat Transfer and Fluid Flow, Lecture Notes in Mechanical Engineering 2019 https://doi.org/10.1007/978-981-13-1903-7_35 36
+Kamalesh Kumar, Trun Gupta, P. Pramod Chakravarthy,and R. Nageshwar Rao
+An Adaptive Mesh Selection Strategy for Solving Singularly Perturbed Parabolic Partial Differential Equations with a Small Delay
+Applied Mathematics and Scientific Computing, Trends in Mathematics 2018 https://doi.org/10.1007/978-3-030-01123-9_8 37
+P. Pramod Chakravarthy, Kamalesh Kumar
+A class of finite difference schemes for singularly perturbed delay differential equations of second order
+Turk J Math 43 2019 1061 38
+Chakravarthy, P.P., Gupta, T.
+Numerical Solution of a Weakly Coupled System of Singularly Perturbed Delay Differential Equations Via Cubic Spline in Tension
+Natl. Acad. Sci. Lett.
+43 2020 259 1. https://doi.org/10.1007/s40009-019-00806-0 39
+Podila, P.C., Gupta, T.
+Numerical Solution of a Weakly Coupled System of Singularly Perturbed Delay Differential Equations via Spline in Compression.
+Natl. Acad. Sci. Lett.
+43 2020 67 https://doi.org/10.1007/s40009-019-00837-7 40
+Podila, P.C., Kumar, K.
+A new stable finite difference scheme and its convergence for time-delayed singularly perturbed parabolic PDEs.
+Comp. Appl. Math.
+39 2020 140 41
+Kumar, K, Pramod Chakravarthy, P, Vigo Aguiar
+Numerical solution of time‐fractional singularly perturbed convection–diffusion problems with a delay in time.
+Math Meth Appl Sci.
+2020 1 https://doi.org/10.1002/mma.6477 42
+KamaleshKumar, P.PramodChakravarthy, HiginioRamos, JesúsVigo-Aguia, b
+A stable finite difference scheme and error estimates for parabolic singularly perturbed PDEs with shift parameters
+Journal of Computational and Applied mathematics https://doi.org/10.1016/j.cam.2020.113050 43
+P. Pramod Chakravarthy, Meenakshi Shivhare
+Numerical study of a singularly perturbed two parameter problems on a modified Bakhavalov mesh
+Computational Mathematics and Mathematical Physics 60(11) 2020 1778 44
+Shivhare, M., Podila, P.C. & Kumar D.
+A uniformly convergent quadratic B-spline collocation method for singularly perturbed parabolic partial differential equations with two small parameters
+J Math Chem 59 2021 186 https://doi.org/10.1007/s10910-020-01190-7 45
+Podila, PC, Gupta, T, Vigo-Aguiar, J.
+A numerical scheme for a weakly coupled system of singularly perturbed delay differential equations on an adaptive mesh
+Comp and Math Methods.
+3 2021 1104 https://doi.org/10.1002/cmm4.1104 46
+Meenakshi Shivhare, P. Pramod Chakravarthy, Higinio Ramos, and Jesus Vigo-Aguiar
+Quadratic B-spline collocation method for time dependent singularly perturbed differential-difference equation arising in the modelling of neuronal activity
+Numerical Methods for Partial Differential Equations https://doi.org/10.1002/num.22738 47
+Meenakshi Shivhare, P. Pramod Chakravarthy & Devendra Kumar
+Quadratic B-spline collocation method for two-parameter singularly perturbed problem on exponentially graded mesh
+International Journal of Computer Mathematics 98(12) 2021 2461
+DOI: 10.1080/00207160.2021.1901277 48
+Kumar, K, Podila, PC, Das, P, Ramos, H.
+A graded mesh refinement approach for boundary layer originated singularly perturbed time-delayed parabolic convection diffusion problems
+Math Meth Appl Sci 44 2021 12332 https://doi.org/10.1002/mma.7358 49
+Podila, P.C., Gupta, T.
+A Nonstandard Method for a Coupled System of Singularly Perturbed Delay Differential Equations
+Int. J. Appl. Comput. Math 105 2021 https://doi.org/10.1007/s40819-021-01057-8 50
+Kumar, K, Podila, P.
+A new stable finite difference scheme and its error analysis for two-dimensional singularly perturbed convection–diffusion equations
+Numer Methods Partial Differential Eq.
+2022 1215 https://doi.org/10.1002/num.22732 51
+Shivhare, M., Podila, P.C.
+Numerical study of two-parameter singularly perturbed problem in two dimensions on an exponentially graded mesh.
+Comp. Appl. Math.
+41 2022 81 https://doi.org/10.1007/s40314-022-01763-z.
+52
+Podila, PC, Sundrani, V, Ramos, H.
+Numerical solution of a fourth order singularly perturbed boundary value problem with discontinuities via Haar wavelets
+Math Meth Appl Sci.
+2022 1 10.1002/mma.8424 53
+Chakravarthy, P.P., Shivhare, M.
+Numerical solution of a time dependent singularly perturbed delay differential equation on an exponentially graded mesh
+Indian J Pure Appl Math 2023 https://doi.org/10.1007/s13226-023-00442-x 54
+Podila, P.C., Sundrani, V.
+A non-uniform Haar wavelet method for a singularly perturbed convection–diffusion type problem with integral boundary condition on an exponentially graded mesh
+Comp. Appl. Math.
+42 2023 216 https://doi.org/10.1007/s40314-023-02359-x.
+55
+P. Pramod Chakravrthy, Vishwas Sundrani
+Haar wavelets for numerical solution of a second order singularly perturbed reaction-diffusion problem with discontinuities
+TWMS Journal of Applied and Engineering Mathematics
+V.14, N.4 2024 1390 56
+Pramod Chakravarthy Podila, Vishwas Sundrani, Higinio Ramos, Jesús Vigo-Aguiar,
+Wavelet-based approximation for two-dimensional singularly perturbed elliptic problems
+Journal of Computational and Applied Mathematics 451 2024 116069 https://doi.org/10.1016/j.cam.2024.116069 57
+Podila, P.C., Mishra, R. & Ramos, H.
+A numerical technique for solving singularly perturbed two-point boundary value problems
+Comp. Appl. Math.
+43, 366 2024 https://doi.org/10.1007/s40314-024-02880-7 58
+Podila, P.C., Sundrani, V.
+Haar wavelet based numerical approach for a two-parameter singularly perturbed boundary value problem with discontinuity in convection coefficient and source term
+Lith Math J 65 2025 99 https://doi.org/10.1007/s10986-025-09657-3 59
+Podila, P.C.; Mishra, R.; Ramos, H.
+A Non-Standard Finite Difference Scheme for Time-Fractional Singularly Perturbed Convection–Diffusion Problems.
+Fractal Fract.
+9, 333 2025 https://doi.org/10.3390/fractalfract9060333 60
+Sahu, S.K., Podila, P.C.
+Convergence of a Finite Element Method on an Exponentially Graded Bakhvalov Mesh for Convection-Diffusion Problems Possessing Boundary Layers.
+Int. J. Appl. Comput. Math 11,226 2025 https://doi.org/10.1007/s40819-025-02045-y 61
+Podila, P.C., Mishra, R., Kumar, K. et al.
+An efficient numerical approach for time-fractional singularly perturbed Burger-Huxley equation.
+Comp. Appl. Math. 45, 243 45,243 2026 https://doi.org/10.1007/s40314-026-03638-z
+Sr. No.
+Research Scholar Name nt_header_2
+Joining Year
+Completed year/ongoing 1
+R. Nageshwar Rao
+July 2010
+Sept 2013 2
+S. Dinesh Kumar
+July 2013
+February, 2017 3
+Trun Gupta
+July 2015
+February 2020 4
+Kamalesh Kumar
+January 2016
+December 2020 5
+Meenakshi Shivhare
+January 2018
+December 2021 6
+Sundrani Vishwas Ramachandra
+July 2019
+Ongoing 7
+Rahul Misra
+January 2022
+Ongoing 8
+Sachin Kumar Sahu
+July2022
+Ongoing
+Sr. No.
+Student Name
+Dissertation Title
+Year 1
+Ms. Neha Rajendra Gajghate
+An asymptotic solution of singularly perturbed multipoint boundary value problems 2014 2
+Mr. Vikas Balkrushna Hatwar
+An intial-value technique for self-adjoint singularly perturbed two point boundary value problems 2014 3
+Mr. Kailash Baliram Kulurkar
+A study on shooting methods for solving two point boundary value problems 2014 4
+Ms.Mohita Saxena
+A finite difference scheme for singularly perturbed two point boundary value problems via cubic spline in compression 2015 5
+Trun Gupta
+Cubic spline methods for singularly perturbed initial and boundary value problems 2015 6
+Meenakshi Shivhare
+Asymptotic solution of singularly perturbed delay differential equation through Liouville-Green transform 2016 7
+Kshma Trivedi
+An exponentially fitted finite difference scheme for singularly perturbed two-point boundary value problems 2016 8
+Nidhi Wamanrao Shahare
+Simply constructed family of a Ostrowski’s method with optimal order of convergence 2017 9
+Pooja Tripathi
+Exponential fitting of the delayed recruitment/renewal equation 2017 10
+Deepti Rai
+Method of reduction of order for solving singularly perturbed delay differential equations 2018 11
+Rahul Mishra
+Numerical solution of multi-parameter singularly perturbed boundary value problems via B-spline collocation method.
+2018 12
+Kumar Aadarsh
+A study on two parameter singularly perturbed boundary value problems by exponential spline 2019 13
+Manish Sharma
+A study on an adaptive domain decomposition algorithm based on Chebyshev tau method for solving singular perturbed problems 2019 14
+Harshita
+A unified approach for the development of k-step block Falkner methods for solving general second- order initial-value problems in ODEs 2020 15
+Anurag Tyagi
+A robust adaptive method for singularly perturbed convection diffusion problem with two parameters 2020 16
+Ankit Kobbhoj
+A study on fractional differential equations 2021 17
+Ranvir Raj
+Numerical solution of Non-linear Two-point boundary value problems via fourth order weighted Newton’s method 2022 18
+Sushruti Vijay Kachare
+Stable finite difference schemes for singularly perturbed boundary value problems without and with delay arguments 2023
+Sr. No.
+Conference/ Institute Name
+Title of the Talk
+Date 1
+National Conference Conducted by Sindu Mahavidyalaya & RRSSC (ISRO)
+Exponential Fitted Methods for Singular Perturbation Problems 10th March 2007.
+2
+AICTE sponsored STTP on Recent Trends in Engineering Mathematics” conducted by Department of Mathematics, VNIT Nagpur
+Numerical Solution of Differential Equations 24th July 2009 3. Given Invited talk on “Optimization Techniques – Non Linear Programming” in AICTE sponsored STTP on “Environmental Engineering Systems Design and Optimization” organized by Department of Civil Engineering, VNIT Nagpur on 28th November 2009.
+4. Given Invited talk on “Singular Perturbations – An Introduction” in AICTE sponsored STTP on “Applied Numerical Methods for Scientists and Engineers” organized by Department of Mathematics, VNIT Nagpur on 24th December 2009.
+5. Given Invited talk on “Numerical Optimization” in AICTE sponsored STTP on “Applied Numerical Methods for Scientists and Engineers” organized by Department of Mathematics, VNIT Nagpur on 25th December 2009.
+6. Given invited talk on “Numerical Solution of Differential Equations: Finite Difference Method” in “Work shop on Mathematical Techniques (Under student curriculum activities, for M.Sc. students)” organized by Department of Mathematics, RTM Nagpur University on 30th December 2011.
+7. Given Invited talk on “Exponential Fitted Finite Difference Methods for Singular Perturbation Problems in Differential Difference Equations” in the Conference on New Vistas in Computational Fluid Dynamics in Engineering Conducted by Department of Mathematics, National Institute of Technology, Warangal during 27 – 29 January, 2012.
+8. Given Expert lectures on “Numerical Analysis” for students of National Institute of Technology Uttarakhand, Srinagar ( Ghardwal), during 29-01-2012 to 3-2-2012.
+9. Given Plenary talk on “Numerical Methods for Singular Perturbation Problems” in UGC sponsored one day national conference on “Recent advances in Mathematics and its applications (CRAMA – 2012) at Seth Narsingdas Mor Arts, Commerce and Smt. Godavaridevi Saraf Science College, Tumsar on 30-03-2012.
+10. Given an expert lecture in the workshop on ‘Improvement in University Results of Applied Mathematics’ organized by Department of Mathematics, Rajiv Gandhi college of Engineering & Research, Nagpur on 25/06/2012.
+11. Given expert lectures on “Numerical Analysis” for students of National Institute of Technology Uttarakhand, Srinagar ( Ghardwal), during 19-08-2012 to 26-08-2012.
+12. Given an expert lecture on “Introduction to Numerical Analysis” in ‘INSPIRE INTERNSHIP CAMP sponsored by Department of Science & Technology,
+(i) at Sri Velagapudi Ramakrishna Memorial College, Nagaram, Guntur (Dt.), A.P. on 22/10/2012.
+(ii) at S.V.K.P. & Dr. K.S. Raju Arts & Science College, Penugonda, W.G. (Dt.), A.P. on 23/10/2012.
+13. Given an expert lecture on “Singular Perturbation Problems: Numerical Treatment” in a national seminar on “Mathematical Modelling in Natural and Physical Sciences” (sponsored by DST), which was held at St. Theresa’s Autonomous college for women, Eluru, West Godavari (A.P.) during 16-17, November 2012.
+14. Given two expert lectures on “Numerical solution of Differential equations” on 26/11/2012
+“Asymptotic analysis of Singular perturbation problems” on 28/11/2012 in a short term training programming on “Modern Applications of Engineering Mathematics” conducted by St. Vincent College of Engineering & Technology, Nagpur.
+15. Given an expert lectures in the STTP on “Fundamental of Numerical Computing” organized by me in Department of Mathematics, VNIT Nagpur during 10-14, December 2012.
+16. Given an expert lecture on “Mathematics” in ‘INSPIRE INTERNSHIP CAMP sponsored by Department of Science & Technology, at Sri Velagapudi Ramakrishna Memorial College, Nagaram, Guntur (Dt.), A.P. on 24/12/2012.
+17. Delivered Invited Talks in the STTP on Recent Advances in Mathematics and its Applications to Science and Engineering (RAMASE-2013) in May 2013 at Department of Mathematics, VNIT Nagpur.
+18. Given an expert lecture on “Interpolation & Approximation” on 20/08/2013 in a short term training programming on “Numerical Methods and its Application in Science and Engineering (NMASE) , conducted by Department of Mathematics, National Institute of Technology, Jamshedpur during 19-23, August, 2013.
+19. Given an expert lecture on “Asymptotic Analysis and Initial value techniques for singular perturbation problems” on 20/08/2013 in a short term training programming on “Numerical Methods and its Application in Science and Engineering (NMASE) , conducted by Department of Mathematics, National Institute of Technology, Jamshedpur during 19-23, August, 2013.
+20. Given an expert lecture on “Method of Matched Asymptotic Expansions and fitted methods for singular perturbation problems” on 2/12/2013 in a short term training programming on “Mathematical Modelling in Engineering , conducted by Department of Mathematics, National Institute of Technology, Warangal during 02-06, December, 2013.
+21. Given an expert lectures in the STTP on “Advances in Computational Methods in Science and Engineering” organized by me in Department of Mathematics, VNIT Nagpur during 09-13, December 2013.
+22. Given an expert lecture on “Perturbation methods” on 26/3/2014 in a short term training programming on “Computational flow and Transport: Modelling , Simulation and Algorithms”, conducted by Department of Mathematics and Humanities, Sardar Vallabhbhai National Institute of Technology, Surat during 24-28, March, 2014.
+23. Given an expert lecture on “Numerical treatment of Singular perturbation Problems” on 26/3/2014 in a short term training programming on “Computational flow and Transport: Modelling , Simulation and Algorithms”, conducted by Department of Mathematics and Humanities, Sardar Vallabhbhai National Institute of Technology, Surat during 24-28, March, 2014.
+24. Given expert lectures (on numerical solution of ODEs and PDEs, Singular perturbation problems and singularly perturbed differential difference equations) in the STTP on “Modelling, Computing, Simulation in Science and Engineering” organized by me in Department of Mathematics, VNIT Nagpur during 06-10, July 2015.
+25. Given expert lecture on ‘Singularly perturbed differential difference equations’ in the STTP on “Mathematical modeling & computational techniques” organized by me in Department of Mathematics, NIT Waraganl during 07-11, December 2015.
+26. Given expert lecture on ‘Singularly perturbed delay differential equations’ in the STTP on “Nonlinear Systems: Mathematical Modelling and Computer Simulations” organized by me in Department of Mathematics, NIT Raipur during 04-8, January 2016.
+27. Given an invited talk on ‘Exponentially fitted methods for singularly perturbed differential-difference equations ” in the International conference on Mathematical Modelling, Differential equations, Scientific Computing & Applications held at Department of Mathematics and Statistics, IIT Kanpur during March 27-29, 2016.
+28. Given an invited talk on ‘A fitted Numerical method for singularly perturbed parabolic partial differential equation with a small negative shift arising in control theory  ” in the International conference on ‘Recent Advances on Theoretical and Computational Partial Differential Equations’ held at Punjab University, Chandigarh during 05-09 December, 2016.
+29. Given an invited talk on ‘Adaptive mesh methods for singularly perturbed delay differential equations’ in the STTP on ‘Mathematical Modelling and Numerical Techniques’ held at NIT Warangal, during 9-14 October, 2018.
+30. Delivered an invited talk on “ New finite difference methods for singularly perturbed delay differential equations” in the 4th international conference on ‘Recent developments in theory, computation & Applications of differential equations to celebrate the 70th Birthday of Prof. M.K. Kadalbajoo ” at South Asian University, New Delhi during 21-23, January 2019.
+31. Delivered an invited talk on “ Numerical solution of singularly perturbed delay differential equation on an adaptive grid” in the conference on ‘Mathematical modelling, methods and computation in science and at NIT Raipur during 18-20, October 2019.
+32. Delivered a talk on “Numerical study of Singular perturbation problems on an adaptive grid”, in a webinar on ‘Mathematics of Fluid Dynamics & Numerical study of Singular Perturbation Problems’ organized by PVP Siddhartha Institute of Technology, Vijayawada, during 17-18, July 2020.
+33. Delivered an invited talk on “New finite difference schemes for a class of singularly perturbed differential-difference equations “ in a minisymposium on “Recent trends in Computational Methods for Singularly Perturbed Differential Equations” in the International Conference on Advances in Differential Equations and Numerical Analysis (ADENA2020),  organized by the Department of Mathematics, Indian Institute of Technology Guwahati during October 12-14, 2020.
+34. Delivered an invited talk on “Numerical solutions of Differential equations” AICTE ATAL-FDP on “Computational Oriented Numerical Analysis”, from 23rd August to 27th August 2021, organized by SATI Vidisha.
+35. Delivered an invited talk on “Numerical solution of singularly perturbed delay differential equations” in FDP on ‘Role of Basic Sciences in Emerging Technologies (RBSET-2022)’ from 9-3-2022 to 14-3-2022, organized by Department of Basic Sciences & Humanities, GMR Institute of Technology, Rajam, and National Institute of Technology Mizoram, Mizoram, India 36. Delivered an invited talk on “Adaptive grid generation for numerical treatment of singularly perturbed delay differential equations” in Short term course on ‘Recent development in Numerical Methods for Partial differential equations’ during 30-5-2022 to 03-06-2022 , organized by Department of Mathematics & Scientific Computing, National Institute of Technology Hamirpur, Hamirpur, India 37.  Delivered an invited talk on “Novel finite difference schemes singular perturbation problems” in a  two-day workshop on “Exploring Mathematics: Theory and Applications in Analysis and Computation,” at SR University, Warangal during 21 – 22 March 202
+Sr. No
+Membership Bodies Name 1
+Indian Society of Technical Education  (LM 34637) 2
+Andhra Pradesh Society of Mathematical Sciences 3
+Vidwan : Expert Data base and National Researcher’s Network : Expert Id : 48375
+Sr.No.
+Course Code
+Course Name
+UG/PG
+Semester( winter/ summer)
+Year 1
+MAL 101
+Mathematics – I
+UG
+Winter 2
+MAL 102
+Mathematics – II
+UG
+Summer 3
+MAL 211
+Complex Variables, Integral transforms and Partial differential equations
+UG
+Winter 4
+MAL 203
+Numerical Methods and Computation
+UG
+Winter 5
+MAL 201
+Integral Transforms and Partial differential equations
+UG
+Winter 6
+MAL 205
+Numerical Analysis and Probability theory
+UG
+Summer 7
+MAL 301
+Introduction to Operations research
+UG (Open Elective)
+Winter /summer 8
+MAL 525
+Numerical Analysis
+PG
+Summer 9
+MAL 532
+Operations research
+PG
+Winter 10
+MAL 550
+Numerical Linear Algebra
+PG
+Summer 11
+MAL 536
+Numerical Solution of Differential Equations
+PG
+Winter 12
+MAL 544
+Finite Element Method
+PG 13
+MAL 611
+Matrix ierative Analysis
+Ph.D 14
+MAL 601
+Singular Perturbation theory
+Ph.D.
+15
+MAL 602
+Fitted Numerical methods for singular perturbation problems
+Ph.D
+Sr No
+Paper Citation
+Sr No
+Paper Citation

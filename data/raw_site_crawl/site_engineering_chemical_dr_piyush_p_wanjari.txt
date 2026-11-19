@@ -1,0 +1,141 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/dr-piyush-p-wanjari/
+TITLE: Dr. Piyush P. Wanjari​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Piyush P. Wanjari​
+Brief Bio
+Brief Bio
+Assistant Professor in Department of Chemical Engineering at VNIT Nagpur
+Research experience in Molecular Dynamics Simulations of Nanostructured Materials and Pharmaceutical Drug Delivery Vehicles from USA and Europe
+Work experience from Sanofi Pharmaceutical Company in Paris, France as Marie Curie Postdoctoral Researcher
+PhD from Tulane University, New Orleans, USA under the guidance of Prof. Hank Ashbaugh
+Recepient of Early Career Research Award (2017) and IBM Corporation PhD Fellowship Awards (2008 and 2011)
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.Tech.
+2006
+Chemical Technology
+Laxminarayan Institute of Technology, Nagpur, India 2
+Ph.D.
+2012
+Chemical and Biomolecular Engineering
+Tulane University, New Orleans, USA
+Contact Details
+Phone:
+Email:
+Address:
+91-712-280-1781 ppwanjari@che.vnit.ac.in
+CHE-115, Department of Chemical Engineering, VNIT, Nagpur,Maharashtra-440010, India
+Research Interest
+Research Interest
+Molecular dynamics simulations
+Molecular modeling
+Self-assembly of nanostructured materials
+CO2 capture
+Material and pharmaceutical drug design
+Free energy calculations
+Cheminformatics
+Nanotechnology
+Sensors
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Investigation of selective CO2 capture by carbon-based novel nanostructures using molecular dynamics simulations (Early Career Research Award)
+SERB (DST)
+PI 2017-2020 23.65 2
+Downstream processing of erythromycin using a new phase separation method (Extra Mural Research Funding)
+SERB (DST)
+Co-PI 2017-2020 24.13
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Nil
+Description
+Author(s)
+Publisher
+ISBN
+Year 1
+Nil
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Nil
+Sr. No.
+Title 1
+Organizing Secretary, CHEMIX’24, A National Conference on Inter and Intra-disciplinary blend of Chemical Engineering, April 2024 2
+Co-convener, CHEMIX’19, A National Conference on Inter and Intra-disciplinary blend of Chemical Engineering, March 2019
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Department Research and Consultancy Committee
+VNIT
+Member 2026-Present 2
+E-Cell
+VNIT
+Faculty InCharge 2025-Present 3
+Alumni Coordinator
+VNIT
+Department Coordinator 2024-Present 4
+Departmental Website
+VNIT
+Faculty Coordinator 2015 – Present 5
+IIChE Club
+VNIT
+Faculty InCharge 2019-2025 6
+Student Mentor Program
+VNIT
+Faculty Coordinator 2021-2023
+Sr. No.
+Awards 1
+Early Career Research Award, SERB-DST, 2017 2
+IBM Corporation Ph.D. Fellowship Award, Tulane University, New Orleans, USA, 2011 3
+IBM Corporation Ph.D. Fellowship Award, Tulane University, New Orleans, USA, 2008
+S.No.
+Paper Citation 1
+Nitin Kumar Singh, Hrushikesh M. Gade, Vrushali Khedkar, Piyush P. Wanjari, Investigating self-assembly of oppositely-charged cyclic peptides and its application towards drug entrapment, ChemistrySelect, 11 (14), e07444, 2026 2
+Vishesh A.Velani, Koustubh U. Kulkarni, Akshayani S. Chaknalwar, Pradip B. Dhamole, Piyush P. Wanjari, Selective Extraction of N-Butanol From Aqueous Media: A Comparative Molecular Dynamics Study of Organic Solvents, ChemistrySelect, 10 (38), e0386, 2025 3
+Padmesh Medesety, Kundrapu Chaitanya, Hrushikesh M. Gade, Vaibhavi Jaiswal, Piyush P. Wanjari*, “Carbon nanotube assisted highly selective separation of organic liquid mixtures”, Chemical Physics, 562, 111647, 2022 4
+Padmesh Medesety, Hrushikesh M. Gade, Nitin Kumar Singh, Piyush P. Wanjari*, Highly selective carbon capture by novel graphene-carbon nanotube hybrids, Molecular Simulation, 47, 16, 1326-1334, 2021 5
+Hrushikesh M. Gade and Piyush P. Wanjari* “Molecular Dynamics Simulations of Water‐Mediated Cholesterol Capture within an Open‐Ended Single‐Walled Carbon Nanotube” ChemPhysChem, 2019, 20, 142-147 6
+Hrushikesh M. Gade, Srihas V. V. Velpuri, and Piyush P. Wanjari* “Conformational rearrangements in n-alkanes encapsulated within capsular self-assembly of capped carbon nanotubes” Chemical Physics, 2019, 517, 198-207 7
+Srihas V.V. Velpuri, Hrushikesh M. Gade and Piyush P. Wanjari* “Encapsulation driven folding and unfolding of n-alkanes inside a hydrogen-bonded supramolecular cavitand assembly” Chemical Physics, 2019, 521, 100-107 8
+Hrushikesh M. Gade, Piyush P. Wanjari*, and Srihas V. V. Velpuri “Water-mediated curvature change in graphene by single-walled carbon nanotube” Physical Chemistry Chemical Physics, 2018, 20, 22359-22367 9
+Piyush P. Wanjari, Bruce C. Gibb, and Henry S. Ashbaugh* “Simulation optimization of spherical non-polar guest recognition by deep-cavity cavitands” Journal of Chemical Physics, 2013, 139, 234502 10
+Piyush P. Wanjari, Ashish V. Sangwai, and Henry S. Ashbaugh* “Confinement induced conformational changes in n-alkanes sequestered within a narrow carbon nanotube” Physical Chemistry Chemical Physics, 2012, 14, 2702-2709
+Invited Talks 1
+Piyush P. Wanjari “Invited Lecture – Conformational analysis and binding free energy perspectives from MD Simulations” Online STC on Basic Principles of Density Functional Theory and Molecular Dynamics Simulations, MNIT Jaipur, November 2020
+Conferences 1
+Koustubh U. Kulkarni, Lawanya, Piyush P. Wanjari “Molecular dynamics simulations of fullerene encapsulated alkane systems” CHEMIX’25, VNIT Nagpur, April 2025 (Second Prize) 2
+Padmesh Medesety*, Piyush P. Wanjari “Molecular simulations of selective CO2 capture by graphene-carbon nanotube hybrids” CHEMCON-2019, IIT Delhi, December 2019 3
+Nitin Kumar Singh*, Piyush P. Wanjari “Review on peptide self-assembly and its applications in drug delivery” CHEMIX’19, VNIT Nagpur, March 2019 4
+Piyush P. Wanjari*, Padmesh Medesety “Molecular dynamics simulation of selective CO2 capture by utilizing novel carbon-based nanostructures” Carbon Capture and Its Utilization, CSIR-NCL, Pune December 2018 5
+Hrushikesh M. Gade*, Piyush P. Wanjari “Molecular dynamics investigation of solvent-mediated cholesterol sequestration within a carbon nanotube” ChEmference’18, IIT Bombay, May 2018 6
+Srihas V. V. Velpuri*, Piyush P. Wanjari “Molecular dynamics simulations of supramolecular self-assembled cavitands including conformational changes in n-alkanes following encapsulation” Computational Science Symposium, IISc Bangalore, March 2017 7
+Hrushikesh M. Gade*, Piyush P. Wanjari ” Molecular dynamics investigation of nanotube induced curvature changes in graphene sheet, Computational Science Symposium, IISc Bangalore, March 2017 8
+Srihas V. V. Velpuri*, Pallavi Gadupudi, Piyush P. Wanjari, Vijayakumar R. P. “Data DNA: Crossing borders between biological and digital storage” CHEMIX’15, VNIT Nagpur, March 2015 (First Prize) 9
+Piyush P. Wanjari*, Henry S. Ashbaugh “Molecular recognition of simple hydrophobic guests by cavitand hosts in aqueous solution” AIChE Annual Meeting, Minneapolis, USA, October 2011 10
+Piyush P. Wanjari*, Ashish V. Sangwai, Henry S. Ashbaugh “Solvent-mediated interactions between supramolecular hosts and hydrophobic guests” AIChE Annual Meeting, Salt Lake City, USA, November 2010 11
+Piyush P. Wanjari*, Henry S. Ashbaugh “MD Simulations of solvent-mediated interactions between cavitand hosts and hydrophobic guests” Annual AMRI Mardi Gras Review and Symposium, New Orleans, USA February 2010

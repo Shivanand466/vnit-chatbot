@@ -1,0 +1,13 @@
+SOURCE_URL: https://vnit.ac.in/section/hostel/associate-dean-hostel-affairs/
+TITLE: Associate Dean (Hostel Affairs)
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Vijaykumar R P
+Department : Chemical Engineering
+Designation : Associate Dean (Hostel Affairs) & Chairman, Disciplinary Action Committee
+Hostel Name : Hostel Section
+Mobile No : 9970335592
+VNIT Qtr No. : NP 02
+Extension No :1782, 1119
+Email Id : associatedeanha@vnit.ac.in

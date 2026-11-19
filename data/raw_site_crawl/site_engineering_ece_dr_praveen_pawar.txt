@@ -1,0 +1,104 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/dr-praveen-pawar/
+TITLE: Dr. Praveen Pawar
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Praveen Pawar
+Brief Bio
+Brief Bio
+Dr. Praveen Pawar is a dedicated and accomplished researcher in the field of wireless communication. With a strong commitment to academia, Dr. Pawar has served as an Assistant Professor in the Department of ECE at the Indian Institute of Information Technology (IIIT), Bhopal, from January 2020 to May 2022. In June 2022, he joined the Visvesvaraya National Institute of Technology (VNIT), Nagpur. Currently, he holds the position of Assistant Professor in the Department of ECE at VNIT Nagpur. His research focuses on Wireless Resource Management, 5G/6G technologies, Internet of Things (IoT), Stochastic Geometry, Data Analytics and AI/ML.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+PHD 2020
+Information Technology
+ABV-IIITM Gwalior 2
+MTech 2013
+Digital Communication
+ABV-IIITM Gwalior 3
+BE 2010
+Electronics and Communication
+SATI Vidisha
+Contact
+Phone:
+Email:
+Address:
+0712-2801912, 7987231873 praveenpawar@ece.vnit.ac.in
+New Academic Block, Room No. 205, ECE Dept., VNIT, Nagpur-440010
+Research Interest
+Research Interest
+Wireless Communication 5G/6G Technologies
+Internet of Things (IoT)
+Data Analytics
+AI/ML
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+SANITIZER DISPENSING BAND 364409-001 19/05/2022
+Granted
+Sr. No.
+Title 1
+Five days online STTP on “Signal and Imgae Processing” during 22-26 March 2021.
+2
+Five days online Workshop on “Emerging Technologies for Industrial Informatics and Communication” during 13-17 December 2021.
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Hostel Warden
+MSS, VNIT Nagpur
+Wardnship 2024-25
+Sr. No.
+Awards
+S.No.
+Paper Citation 1
+P. Pawar and A. Trivedi, “Joint Uplink-Downlink Resource Allocation for D2D Underlaying Cellular Network,” IEEE Transactions on Communication, vol. 69, no. 12, pp. 8352-8362, Dec. 2021. Doi: https://doi.org/10.1109/TCOMM.2021.3116947 [IEEE] 2
+P. Pawar, A. Trivedi and M. K. Mishra, “Outage and ASE Analyses for Power Controlled D2D Communication,” IEEE Systems Journal, vol. 14, no. 2, pp. 2269-2280, June 2020. Doi: https://doi.org/10.1109/JSYST.2019.2925112 [IEEE] 3
+P. Pawar and A. Trivedi, “Interference-aware Channel Assignment and Power Allocation for Device-to-Device Communication Underlaying Cellular Network,” AEÜ – International Journal of Electronics and Communications, vol. 112, pp. 152928, Sep. 2019. Doi: https://doi.org/10.1016/j.aeue.2019.152928 [Elsevier] 4
+P. Pawar, S.M. Yadav, and A. Trivedi, “Performance Study of Dual Unmanned Aerial Vehicles with Underlaid Device-to-Device Communications,” Wireless Personal Communication, vol. 105, no. 3, pp. 1111-1132, Apr. 2019. Doi: https://doi.org/10.1007/s11277-019-06138-y [Springer] 5
+P. Pawar and A. Trivedi, “Device-to-Device Communication Based IoT System: Benefits and Challenges,” IETE Technical Review, vol. 36, no. 4, pp. 362-374, June 2018. Doi: https://doi.org/10.1080/02564602.2018.1476191 [Taylor & Francis]
+S.No.
+Paper Citation 1
+P. Pawar, N. Pawar and A. Trivedi, “How Atmospheric Attenuation affects the UAV Communication Network?” 2023 2nd International Conference on Paradigm Shifts in Communications Embedded Systems, Machine Learning and Signal Processing (PCEMS), Nagpur, India, 2023, pp. 1-6. Doi:https://doi:10.1109/PCEMS58491.2023.10136103 2
+P. Pawar and A. Trivedi, “Power Control and Mode Selection Algorithm for D2D Communications,” in 2019 IEEE 89th Vehicular Technology Conference (IEEE VTC2019-Spring), Kuala Lumpur, Malaysia, 28 April-1 May 2019, pp. 1-5. Doi: https://doi.org/10.1109/VTCSpring.2019.8746684 3
+S. Rajoria, A. Trivedi, W. W. Godfrey and P. Pawar, “Resource Allocation and User Association in Massive MIMO Enabled Wireless Backhaul Network,” in 2019 IEEE 89th Vehicular Technology Conference (IEEE VTC2019-Spring), Kuala Lumpur, Malaysia, 28 April-1 May 2019, pp. 1-6. Doi:https://doi.org/10.1109/VTCSpring.2019.8746401 4
+P. Singh, P. Pawar and A. Trivedi, “Physical Layer Security Approaches in 5G Wireless Communication Networks,” in 2018 First International Conference on Secure Cyber Computing and Communication (ICSCCC-2018), Jalandhar, India, 15-17 Dec. 2018, pp. 477-482. Doi: https://doi.org/10.1109/ICSCCC.2018.8703344 5
+S. Gupta, A. Trivedi and P. Pawar, “An Approach for Improving Performance of Underlay D2D Communication,” in 2018 Conference on Information and Communication Technology (CICT-2018), Jabalpur, India, 26-28 Oct. 2018, pp. 1-5. Doi:https://doi.org/10.1109/INFOCOMTECH.2018.8722392 6
+P. Pawar and A. Trivedi, “Power allocation approach for underlay D2D communication in cellular network,” in 2017 Conference on Information and Communication Technology (CICT-2017), Gwalior, India, 3-5 Nov. 2017, pp. 1-4. Doi:https://doi.org/10.1109/INFOCOMTECH.2017.8340647 7
+P. Pawar and S. K. Amb, “On the capacity of MIMO optical communication bus system,” in 2017 Conference on Information and Communication Technology (CICT-2017), Gwalior India, 3-5 Nov. 2017, pp. 1-4. Doi: https://doi.org/10.1109/INFOCOMTECH.2017.8340649 8
+P. Pawar, A. Trivedi and K. V. Arya, “Diversity-Multiplexing-Delay Tradeoff in Decode-and-Forward MIMO Relay Network with CC-ARQ,” in 2013 5th International Conference and Computational Intelligence and Communication Networks (CICN-2013), Mathura, India, 27-29 Sept. 2013, pp. 177-181. Doi:https://doi.org/10.1109/CICN.2013.46 9
+Y. Pathak and P. Pawar, “Blockchain and Bitcoin Security in Industry 4.0”, Intelligent Analytics for Industry 4.0 Applications, CRC Press, 2023.
+10
+A. Trivedi and P. Pawar, “D2D in UAV Networks,” in Wiley 5G Ref (eds R. Tafazolli, C.‐L. Wang and P. Chatzimisios), pp. 1-17, 2020. Doi: https://doi.org/10.1002/9781119471509.w5GRef195

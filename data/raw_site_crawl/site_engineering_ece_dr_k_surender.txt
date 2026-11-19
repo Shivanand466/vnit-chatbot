@@ -1,0 +1,159 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/dr-k-surender/
+TITLE: Dr. K. Surender
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. K. Surender
+Brief Bio
+Brief Bio
+Myself K.Surender was born in Tamil Nadu, India . I received his B.E. degree in Electronics and Communication Engineering from Bharathidasan University in 2004, M.Tech. degree from National Institute of Technology, Trichy and Ph.D degree from indian institute of Technology Bombay in 2006 and 2021 respectively. My research interest includes dynamic modeling of renewable energy resources, control and instrumentation.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+BE 2004
+ECE
+BharathidhasanTrichy, TN 2
+M.Tech 2006
+Control and Instrumentation
+NIT , Trichy, TN 3
+Ph.D 2021
+Modelling , Control and Estimation
+IIT Bombay
+Contact
+Phone:
+Email:
+Address:
+0712-280-1025 ksurender@ece.vnit.ac.in
+Qr NO- 71  , VNIT capus, nagpur -440011
+Research Interest
+Research Interest
+Control System Design
+Modeling of renewable energy systems
+State Estimation for real time Applications Optimization
+Instrumentation  System Design
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Dynamic controller and estimator design for Hybrid solar thermal power plant
+SERB- DST 2022 -2025 21 Lakths
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+BOOK CHAPTER :  Time delay analysisof the parabolic trough collector with linear model
+Baidya, D. and K.SURENDER
+Springer Nature volume 2, 27 2024
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Modelling and Control implementation on Autonomous Navigation  (FUNDED- IIT Hyderabad – TIHAN ) 2
+Paramount Topics in Control and Automation for Industrial Application (FUNDED: High-End workshop  SERB-KARYASHALA) 3
+Engineering Optimization with Applications in Automation and Computer vision (FUNDED: High-End workshop  SERB-KARYASHALA) 4
+Machine Learning Applications to Automation Engineering(FUNDED: IIT Hyderabad – GIAN)
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Co -incharge
+VNIT
+IV LAB co incharge 2018-2022 2
+Faculty Coordinator (ECE dept)
+VNIT
+Faculty Coordinator (ECE dept) 2023 3
+Hostel Warden
+VNIT
+Warden (M. S. Swaminathan Hostel) 2026
+Sr. No.
+Awards
+S.No.
+Paper Citation 1
+Surender Kannaiyan, Sharad Bhartiya, and Mani Bhushan,”Dynamic Modeling and Simulation of a Hybrid Solar Thermal Power Plant ”Industrial & Engineering Chemistry Research,2019. DOI: 10.1021/acs.iecr.8b04730 2
+S. Kannaiyan, N. D. Bokde and Z. W. Geem, “Solar Collectors Modeling and Controller Design for Solar Thermal Power Plant,” in IEEE Access, vol. 8, pp. 81425-81446, 2020, DOI: 10.1109/ACCESS.2020.2989003.
+3
+Kannaiyan S, Bhartiya S and Bhushan M (2022) Plantwide Decentralized Controller Design for Hybrid Solar Thermal Power Plant. Front. Control. Eng. 3:853625. doi: 10.3389/fcteg.2022.853625 4
+Kannaiyan, S. and Bokde, N.D. (2022). Performance of  parabolic trough collector with different heat transfer fluids and control operation. Energies, 15(20), 7572.DoI: https://doi.org/10.3390/en15207572 5
+Surender Kannaiyan., Chandran, S., and Bokde, N.D. (2024). Streamlined open loop operation using karnaugh map for solar thermal power plant. Renewable Energy Focus, 100549.
+6
+M. D. Patil, Surender Kannaiyan , and G. G. Sarate, “Signal denoising based on bias-variance of intersection of con- fidence interval,” Signal, Image and Video Processing, pp. 1–15, 2024 7
+Baidya, D., Surender Kannaiyan, Bokde, N.D., 2024. Study of parabolic trough collector with crucial analysis on controller and estimator with variablemirror efficiency. Journal of Process Control 143, 103317 8
+A. K. Singh, K. Kumar, U. Choudhury, A. K. Yadav, A. Ahmad, K.Surender, Applications of artificial intelligence and cell balancing techniques for battery management system (bms) in electric vehicles: A comprehensive review, Process Safety and Environmental Protection (2024) 9
+A. Dashputra, Y. Therkar, A. Balpande, N. Khanwani, A. Wasewar, G. C. Patil, A. M. Kuthe, S. C. Tripathi, S. Deshpande, Surender Kannaiyan et al., “Evaluation of tamoxifen analogues as potential estrogen receptor alpha inhibitors for breast cancer treatment: A computational approach,” Journal of Molecular Liquids, p. 126209, 2024.
+10
+Baidya, D., K.SURENDER, Bhushan, M., and Bhartiya, S. (2025). Plantwide dynamic simulation of hybrid solar thermal power plant with molten salt thermal energy storage. Renewable Energy, 123794.
+11
+Bokde, N.D., Kapse, M.N., and K.SURENDER (2026).Adaptive Multi-Objective Jaya Algorithm with Applications in Renewable Energy System Optimization. Algorithms, 19(2), 133.
+12
+Baidya, D., K.SURENDER, Bhushan, M., and Bhartiya, S. (2026). Hysolsim: Plantwide dynamic simulatorfor a hybrid solar thermal power plant. SoftwareX, 35,102873.
+13
+Gouri Pandey, Sesha Surya Sai Pullapanthul, and Surender Kannaiyan, (2024)“Sensor Fusion Approach for Object Detection andDistance Estimation in Autonomous Vehicle Perception using Camera and Lidar,” published in the Journal of Information SystemsEngineering and Management, vol. 9, no. 3, 2024 (scopus Indexed) 14
+Pandey, G. and Kannaiyan, S. (2026). Lightposenet: a lightweight multi-view cnn-lstm framework for real-time pose estimation and loop closure detection. Signal, Image and Video Processing, 20(15), 729.
+15
+S.No.
+Paper Citation 1
+K.surender,B.Padmanaban “Wireless Measurement based on Zibee” , TIMA -2009 , 6th International conference on Trends in Industrial Measurement and Automation, page no-53 ,MIT Chennai.
+2
+K.surender, S.B.Dhok, M.Renuga,” Digital Controller Design for Double Sided Inverted Pendulum” , Fourth National conference on Instrumentation and control ICECON-09 , NIT –Trichy.
+3
+K.Surender, K.D.kulat,S.B.Dhok,somalu ,“System Identification and Controller design in Improved Optimal Hardware System”, National conference on Recent Advances in Electrical and Electronics Engineering ,RAEEE-09,page 317 to 320 , NIT Harmirpur.
+4
+Amit Vijay Waghmare, Pradhnya Arun Priyadarshi, Surender Kannaiyan, Vipin Kamble, “Nonlinear State Estimation Technique Implementation For Human Heart Model”, 24th National Conference on Communication 2018, IIT Hyderabad.
+5
+Abhilash  Ashok Bhadke, Surender Kannaiyan, Vipin Kamble, “Symmetric Chaos-Based Image Encryption Technique on lmage Bit-Planes using SHA-256”, Conference on 24th National Conference on Communication 24-28 February 2018, IIT Hyderabad.
+6
+Harsha Priyanka Guntaka, Soumita Mandal, Disha Kukreja, Surender Kannaiyan, “ Fuel Cell Controller Design”, International Conference on Frontiers in Engineering, Applied Sciences and Technology 2018, NIT Trichy.
+7
+Amit Vijay Waghmare, Surender Kannaiyan, Vipin Kamble,”Predictive Functional Control For Industrial Heat Exchanger”, International Conference on Frontiers in Engineering, Applied Sciences and Technology 2018, NIT Trichy.
+8
+Surender Kanniyan, Mani Bhushan, Sharad Bhartiya, “ Nonlinear state and Parameter Estimation for Parabolic trough Collector“, ACODS, Hyderabad, February 2018.
+9
+Surender Kannaiyan, Abhilash Ashok Bhadke, Soft Computing for Industrial Heat Exchanger, Indian Control Conference 2019-January, IIT Delhi 10
+Ishan Darwhekar, Paritosh Peshwe, K. Surender, Ashwin Kothari, “Wideband Triangular Patch Antenna for Cognitive Radio in TV White Space”, 2nd International Conference on Innovations in Electronics, Signal Processing and Communication, 1-2 March 2019, NIT Meghalaya.
+11
+Wasim Akhtar, K. Surender, “CNN Based Approach Towards Plant Health Monitoring”, in A National Conference on Intra- and InterDisciplinary Blend of Chemical Engineering, CHEMIX’19 (6th Edition) 30-31st March 2019, VNIT Nagpur.
+12
+Wasim Akhtar, K. Surender, “Plant Health Monitoring using Machine Learning & Image Processing”, in 10th International Conference on Computing, Communication and Networking Technologies 6-8th July 2019, IIT Kanpur.
+13
+Wasim Akhtar, K. Surender, “Plant Health Monitoring using Convolutional Neural Networks”, in 1st International Conference on Energy, Systems and Information Processing 6-8th July 2019, IIITD&M Kancheepuram 14
+A Stable GAN for image to image translation, Rohan Bhagwatkar, Mohanish Tikekar, Amit Balki, K.Surender “International conference on Advances in Systems”, Control and Computing, AISCC-2020 15
+Road Vehicle Tracking using Moving Horizon Estimation, Gejo Georgesan, K. Surender, “International Conference on Paradigms of Communication, Computing and Data Sciences”, Advanced Computing Techniques, PCCDS-2021 16
+DeepSCT based Person Following Drone, Himanshu Patil, Rohit Lal, Khush Agrawal, and K. Surender “Unmanned Aerial Systems in Geomatics – IIT Roorkee-2021.
+17
+DeepSCT: Deep Learning Based Self Correcting Object Tracking Mechanism, Khush Agrawal, Rohit Lal, Himanshu Patil, Surender Kannaiyan, and Deep Gupta, “National Conference on Communications (NCC) 2021”- IIT Kanpur-2021 18
+Application of PID and Sliding Mode Control on Quadcopter for Autonomous Optimized Flight, Mohammad Saad, Chinmay Rajhans and Surender Kannaiyan,” INDICON-2021-IIT Guwhati-2021.
+19
+An Overview of Multi-Sensor Fusion Methods with Partial Reliance on GNSS, Rajesh Nagula, Kushagra Srivastava and Surender Kannaiyan”, PCEMS-2022-VNIT NAGPUR-2022.
+20
+Real-Time Audio Synchronization Using Audio Fingerprinting Techniques, Gautam Bidari, Tarun Yadav, Adwait Pande and Surender Kannaiyan”, PCEMS-2022-VNIT NAGPUR-2022.
+22
+Baidya, D., Surender Kannaiyan , Time delay analysis of the Parabolic Trough Collector with Linear Model Predictive Control,  4th Int. Conf. on Emerging Electronics and Automation (E2A 2024), NIT Silchar, Dec. 2024.
+23
+Bhukya, J., Kannaiyan, S., and Rathore, C. (2024). Enhancing system performance with wind farm using fuzzy logic coordination between avr and pss controllers. In 2024 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), 1–5. IEEE.
+24
+Patil, B.H., Patil, P.S., Padekar, U.H.,K.SURENDER,and Alam, M. (2025). Modeling, design and analysisof wireless power transfer system. In 2025 IEEE 5thInternational Conference on Sustainable Energy andFuture Electric Transportation (SEFET), 1–6. IEEE

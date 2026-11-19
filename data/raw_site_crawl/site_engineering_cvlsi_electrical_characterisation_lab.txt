@@ -1,0 +1,14 @@
+SOURCE_URL: https://vnit.ac.in/engineering/cvlsi/electrical-characterisation-lab/
+TITLE: Electrical Characterisation Lab
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Electrical Characterisation Lab
+Class 10,000 Clean Room with accessories for Electrical characterization facility.
+Probe Station (SUSS Microtech PM8) with probe shield, anti-vibration table and chiller for variable temperature.
+RF Characterization Instruments
+RF and DC Measurements
+Agilent PNA-L Series Vector Network AnalyzerAgilent ESA-E Series Spectrum AnalyzerAgilent PSG E8267D Vector Signal GeneratorAgilent EPM-P Series Power Meter Agilent NFA Series Noise Figure Analyzer Agilent 346C K01 RF Noise Source
+DC Characterization
+DC Characterization
+Keithley 4200 SCS Keithley 2182A Nanovoltmeter Keithley 237 High Voltage Source Measure Unit Four Probe Resistivity Measurement set-up

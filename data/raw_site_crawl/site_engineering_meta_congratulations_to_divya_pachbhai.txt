@@ -1,0 +1,8 @@
+SOURCE_URL: https://vnit.ac.in/engineering/meta/congratulations-to-divya-pachbhai/
+TITLE: Congratulations to Divya Pachbhai for securing first position in Thinkwonders Competitive Exam (TCE)
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Divya Pachbhai, a third year student from our department, has achieved first position from all institutes/colleges over India in Thinkwonders Competitive Exam.
+Thinkwonders is a educational organization that focuses on the academic competition and coaching of students which helps in the development of competitive spirit and enhancing thinking ability.
+They provide internship opportunities to top rankers in the TCE exam which is guided from alumni from top IIT/NIT/IIM and cash prices with certificate of merit.

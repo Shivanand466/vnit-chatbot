@@ -1,0 +1,17 @@
+SOURCE_URL: https://vnit.ac.in/section/hostel/contact-us/
+TITLE: Contact Us
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Contact us
+DR. KISHOR. M. BHURCHANDI
+Associate Dean, Training & Placement
+MR. HARSHAD PANSE
+Placement Executive, Training & Placement
+Telephone(O): 0712-2801353
+Mobile no: +91- 9422802995
+Emails tepvnit_ngp@vnit.ac.in tepvnit@gmail.com
+Address :
+Training and Placement Department
+Visvesvaraya National Institute of Technology, Nagpur 4th Floor, New Academic Block
+South Ambazari Road, Nagpur, Maharashtra 440010 coach

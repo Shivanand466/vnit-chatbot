@@ -1,0 +1,23 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/research-areas/
+TITLE: Research Areas
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Broad Research Area of Department
+Faculty Involved
+Biotechnology, Biochemical and Pharmaceutical Engineering
+Chaurasia, Dhamole, Gaikwad, Kannan, Kodape, Mandavgane, Ravikumar, Tajane, Varma, Wasewar, Wanjari
+Catalysis and Reaction Engineering
+Gaikwad, Mandavgane, Rathod, Ravikumar, Varma, Vijayakumar, Wasewar
+Energy, Environment and Sustainability
+Chaurasia, Das, Dhamole, Gaikwad, Kodape, Mandavgane, Methekar, Rathod, Ravikumar, Shende, Vijayakumar, Wasewar, Wanjari
+Nanotechnology and Materials Engineering
+Das, Kannan, Kodape, Rathod, Ravikumar, Sonawane, Vijayakumar, Wasewar, Wanjari
+Novel Separation Techniques
+Das, Dhamole, Kodape, Mandavgane, Rathod, Sonawane, Shende, Tajane, Varma, Wasewar, Wanjari
+Process Modeling and Simulations
+Chaurasia, Gaikwad, Methekar, Ravikumar, Sonawane
+Systems Engineering and Process Control
+Kodape, Methekar
+Thermodynamics, Interfacial Science and Molecular Simulations
+Ravikumar, Vijayakumar, Wanjari

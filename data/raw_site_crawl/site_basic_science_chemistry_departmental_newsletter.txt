@@ -1,0 +1,27 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/chemistry/departmental-newsletter/
+TITLE: Departmental Newsletter
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Departmental Newsletter
+News Letter Issue 1
+News Letter Issue 9
+News Letter Issue 17
+News Letter Issue 2
+News Letter Issue 10
+News Letter Issue 18
+News Letter Issue 3
+News Letter Issue 1 1
+News Letter Issue 19
+News Letter Issue 4
+News Letter Issue 12
+News Letter Issue 20
+News Letter Issue 5
+News Letter Issue 13
+News Letter Issue 21
+News Letter Issue 6
+News Letter Issue 14
+News Letter Issue 7
+News Letter Issue 15
+News Letter Issue 8
+News Letter Issue 16

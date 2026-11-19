@@ -1,0 +1,75 @@
+SOURCE_URL: https://vnit.ac.in/section/uba/chandrapur/
+TITLE: Chandrapur
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Chandrapur
+Sr.No
+Institute
+District
+Village
+Name of Coordinator 1
+Rashtrapita Mahatma Gandhi Arts and Commerce College, Sawli
+Chandrapur
+Chak Piranji,Chargaon,Hirapur,Jibgaon,Khedi,
+Dr Sachin Somalal Choudhari 2
+Chintamani Mahavidyalaya, Pombhurna
+Chandrapur
+Ashta,Kemara,Chak Ballarpur,Sonapur,Bhatari,
+Mr. Vitthal Sadashiv Choudhari 3
+Sri Chintamani Arts Commerce College, Ghuggus
+Chandrapur
+Shengaon,Mhatardevi,Pandharewadi,Nakoda Ct,Usgaon,
+Dr. Ravi S. Dharpawar 4
+Sarvodaya Shikshan Mandal`S Sardar Patel Mahavidyalaya, Chandrapur
+Chandrapur
+Shivni,Marada,Nandgaon,Arwat,Agarzari,
+Dr.S.V.Madhamshettiwar 5
+Nevjabai Hitkarini College, Bramhapuri
+Chandrapur
+Jugnala,Bodegaon,Navegaon,Marar Mendha,
+Dr. Kuljeet Kaur M. Sharma 6
+Rajiv Gandhi College of Engineering, Research and Technology
+Chandrapur
+Arwat,Mamala,Junona Rayyatwari,Waigaon Mokasa,Karwa,
+Prof. Pradip Lad 7
+Chintamani College of Arts and Science, Gondpipri Dist.Chandrapur
+Chandrapur
+Chak Vithalwada,Dhanapur,Kharal Peth,Aksapur,Karanji,
+Mr. Sharad Nagnath Lakhekar 8
+A.N.A.C.Warora
+Chandrapur
+Surla,Chinora,Salori,Khemjai,Yewati,
+Mr. Rahul V. Tayde 9
+Guruvandan Mahila Kalyankari Bahuuddeshiya Mandal`S Guru Sai Polytechnic College Mauza Datala Chandrapur
+Chandrapur
+Dewada,Datala,Pipri,Kosara,Chichala,
+Mr. Sachin I. Walde 10
+Chintamani College of Commerce, Pombhurna
+Chandrapur
+Dongar Haldi Mal,Satara Komti,Satara Tukum,Chak Hattibodi Rai.,Satara Bhosale,
+Dr. Sanghapal W. Narnaware 11
+Chintamani College of Science, Pombhurna
+Chandrapur
+Kasargatta,Gangapur Chek,Gangapur,Borda Zulurwar,Borda Dixit,Borda Borkar,Kukudheti Chak,
+Amol P Gargelwar 12
+Chintamani B Ed College, Ballarpur
+Chandrapur
+Kalamana,Daheli,Bamhani Mal,Karwadi,Amdi Begde,
+Mr. Surendra M Kalbande 13
+Dr.Khatri Mahavidyalaya, Tukum
+Chandrapur
+Kondegaon (Mal),Ghosari,Sitaram Peth,Mudholi,Bhamdeli (Ma),
+Dilip Bawane 14
+Anand Niketan Arts Commerce Science College, Varora
+Chandrapur
+Anandvan,Surla,Salori Yensa Block,Parsoda,Dongargaon,
+Dr. Ranjana Hemraj Lad 15
+Vyankateshwara College of Science Commerce Management Studies, Ghuggus
+Chandrapur
+Wandhari,Nagala Rith,Mahakurla,Mursa,Sonegaon,
+Prof. Hemalata Singh 16
+Dr.Ambedkar College of Arts, Commerce and Science, Chandrapur
+Chandrapur
+Moharli,Padamapur,Kitali Bormala,Bhatali,Payali Bhatali,
+Assist. Prof. Sanjay Patil

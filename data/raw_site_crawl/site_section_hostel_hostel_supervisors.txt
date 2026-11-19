@@ -1,0 +1,96 @@
+SOURCE_URL: https://vnit.ac.in/section/hostel/hostel-supervisors/
+TITLE: Hostel Supervisors
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Mrs. Kshitija Dhokale
+Section Hostel section
+Designation Technician
+Hostel Name Kalpana Chawla
+Mobile No. 9921149834
+Office Extension No. 1347
+Email ID kshitijadhokale@vnit.ac.in
+Mrs. Mangala R. Kawarati
+Section Hostel Section
+Designation Assistant SG-02
+Hostel Name Dr. Anandi Gopal Joshi
+Mobile No. 7276939205
+Office Extension No. 1112
+Email ID mangala.kawarati@vnit.ac.in
+Ms. Diksha Ganvir
+Section Hostel Section
+Designation Office Attendant
+Hostel Name Dr. Anandi Gopal Joshi
+Mobile No. 9168032070
+Office Extension No. 2446
+Email ID dikshaganvir@vnit.ac.in
+Mr. Pankaj Ladnapurkar
+Section Hostel Section
+Designation Office Associate
+Hostel Name : Aryabhatta
+Mobile No. 9764386556
+Office Extension No. 1101
+Email ID : sup1_abb@vnit.ac.in
+Mr. Avinash Dhanraj Bansod
+Section HOSTEL SECTION
+Designation Office Associate (Multi Skilled)
+Hostel Name S. Ramanujan
+Mobile No. 7276511700
+Office Extension No. 1102
+Email ID sup2_sr@vnit.ac.in
+Mr. Ankush Nikalje
+Section Hostel Section
+Designation Junior Assistant
+Hostel Name : M. S. Swaminathan
+Mobile No. 7666219832
+Office Extension No. 1103
+Email ID ankushnikalje@vnit.ac.in
+Mr. Sushil M Bansod
+Section Hostel Section
+Designation Assistant S G II
+Hostel Name : V.G. Bhide
+Mobile No. 9823630720
+Office Extension No. 1104
+Email ID sushilbansod@vnit.ac.in
+Mr. Samir Thakre
+Section Hostel Section
+Designation Office Associate
+Hostel Name : A.P.J.Abdul Kalam
+Mobile No. 9420252646
+Office Extension No. 1105
+Email ID samirthakre@vnit.ac.in
+Mr. Dhammpal H. Gedam
+Section Hostel Section
+Designation Office Associate
+Hostel Name : C. V. Raman
+Mobile No. 9422183766
+Office Extension No. 1106
+Email ID dhammpalgedam@vnit.ac.in
+Mr. Gaurav Parasaramji Gurve
+Section HOSTEL SECTION
+Designation Office Associate (Multi Skilled)
+Hostel Name Homi J. Bhabha
+Mobile No. 8668328477
+Office Extension No. 1111
+Email ID sup7_hjb@vnit.ac.in
+Mr. Ramsushil Patel
+Section Hostel Section
+Designation Office Associate
+Hostel Name : J.C.Bose
+Mobile No. 7744031291
+Office Extension No. 1108
+Email ID ramsushilpatel@vnit.ac.in
+Mr. Suraj Keshao Hinge
+Section Hostel Section
+Designation Office Associate (Multi Skilled)
+Hostel Name Meghnad Saha
+Mobile No. 9730964291
+Office Extension No. 1109
+Email ID sup9_msaha@vnit.ac.in
+Mr. Sushil Vasudeo Rawale
+Section HOSTEL SECTION
+Designation Office Associate (Multi Skilled)
+Hostel Name Vikram Sarabhai
+Mobile No. 8600145458
+Office Extension No. 1110
+Email ID sup10_vs@vnit.ac.in

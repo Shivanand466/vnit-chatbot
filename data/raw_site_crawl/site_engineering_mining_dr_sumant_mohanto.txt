@@ -1,0 +1,128 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mining/dr-sumant-mohanto/
+TITLE: Dr. Sumant Mohanto​
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Sumant Mohanto​
+Brief Bio
+Dr. Sumant Mohanto is an Assistant Professor in the Department of Mining Engineering at Visvesvaraya National Institute of Technology (VNIT) Nagpur. He specialized in the area of Rock Mechanics and Ground Control and his current work focuses on pillar stability in underground metalliferrous mines. He has experience in teaching as Adhoc faculty at National Institute of Technology Suratkal, Karnataka. He is proficient in finite element (FE) software packages such as ANSYS, ABAQUS and PHASE2 and also statistical softwares such as IBM SPSS. He obtained his PhD degree from Indian Institute of Technology Kharagpur, India under the supervision of Prof. Debasis Deb and Dr. Abhiram Kumar Verma. He also has research experience as Senior Research Fellow and Research Associate in one research project (Hindustan Copper Limited, Malanjkhand) and 5 consultancy projects (Uranium Corporation of India Limited, Mohuldih and Turamdih), respectively during the PhD tenure acting as one of the key persons in conducting research and writing final project report. He also worked as an Assistant Professor in the Department of Mining Engineering at Malla Reddy Engineering College (A), Hyderabad for one semester. He obtained his M. Tech in Rock Engineering and Underground Structures from Indian Institute of Technology, Delhi and B. Tech in Mining Engineering from Orissa School of Mining Engineering, Keonjhar.
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+PhD 2020
+Mining Engineering
+Indian Institute of Technology Kharagpur 2
+MTech 2012
+Rock Engineering and Underground Structures
+Indian Institute of Technology Delhi 3
+BTech 2009
+Mining Engineering
+Orissa School of Mining Engineering Keonjhar
+Phone:
+Email:
+Address:
+0712-2802314, +91-7318826520 sumantmohanto@mng.vnit.ac.in
+Department of Mining Engineering
+Research Interest 1. Rock Mechanics and Ground Control 2. Underground Metal Mining 3. Slope Stability 4. Numerical Simulation 5. Soft Computing
+Sponsored Research Projects
+Consultancy Projects
+Books or Book Chapter
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards & Honors
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Mineral Beneficiation Studies and Recovery Studies of ROM for MOIL Limited
+MOIL
+Co-coordinator 2023-24 14.16 2
+Scientific Study for the determination of safe charge in a round of underground blast vis-à-vis ground vibrations for blast to be carried out below the surface structure
+SMS
+Co-coordinator 2023-24 7.08 3
+Scientific Study for Slope Stability of Marki Mangali – II O/C Mines
+M/s Yazdani International Private Limited
+Co-coordinator 2023 7.22
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+STTP on “Recent Trends in Blasting Technology for Mining and Excavation Industry” (10th-14th, July, 2023)
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Departmental Examination Co-ordinator (DEC)
+VNIT Nagpur
+DEC 2022-23 2
+Ph.D Co-ordinator
+VNIT Nagpur
+Ph.D Co-ordinator 2022-23, 2023-24 3
+Classroom Incharge
+VNIT Nagpur
+Classroom Incharge 2023-24 4
+Student Activity and Reports
+VNIT Nagpur
+Students Activity 2023-24 5
+Faculty Advisor
+VNIT Nagpur
+Faculty Advisor to 2022-26 Batch 2023 – 2026 6
+Library Incharge
+VNIT Nagpur
+Library Incharge 2022-23, 2023-24 7
+Newsletter Incharge
+VNIT Nagpur
+Newsletter for Department 2022-23 8
+Testing (Rock Mechanics)
+VNIT Nagpur
+Testing of Rock Samples 2023-24 9
+Mine Environmental Laboratory
+VNIT Nagpur
+Lab Incharge along with Dr. A. K. Agarwal 2022-23, 2023-24
+Sr. No.
+Awards
+S.No.
+Paper Citation 1
+S. Mohanto, K. Singh, T. Chakraborty and D. Basu. (2014) Cyclic Thermo-Mechanical Analysis of Wellbore in Underground Compressed Air Energy Storage Cavern. Geotech Geol Eng 32, 601–616. https://doi.org/10.1007/s10706-014-9736-9 2
+S. Mohanto and D. Deb. (2020). Prediction of Plastic Damage Index for Assessing Rib Pillar Stability in Underground Metal Mine Using Multi-variate Regression and Artificial Neural Network Techniques. Geotechnical and Geological Engineering. 38. 10.1007/s10706-019-01065-y.
+3
+S. Mohanto, D. Deb and A. Senapati (2024) Stability Assessment of Crown Pillar for an Underground Mine using k-cross validation technique. International Journal of Civil Infrastructure. 7, 73-83, DOI: 10.11159/ijci.2024.008.
+S.No.
+Paper Citation 1
+Mohanto S. and Deb D. (2024). Parametric Study on the Stability of Crown Pillars Considering Multi-Variate Regression and K-Cross Validation Techniques. Proceedings of the 9th World Congress on Civil, Structural, and Environmental Engineering (CSEE 2024) London, United Kingdom, April 14-16, 2024, DOI: 10.11159/icgre24.115 2
+S. Mohanto, M. Jeevan Reddy, D. Shiva Raj, B. Ramaprasad and D. Sripuja (2024). Effect of parameters on the surface crown pillar stability in an underground mine considering regression and artificial neural network models. International Conference on Mining for a Greener Future: Technological Developments and Sustainable Practices (ICMFGF – 2024), 16 – 17 February, 2024, NITK Surathkal, Karnataka 3
+Shrirao S., Panchal S., and Mohanto S. (2023), Assessment of Waste Dump Slope Stability in Open pit Iron Ore Mine. 1st SLRMES International Conference on Rock Mechanics for Infrastructure and Geo-resources Development – An ISRM specialized conference (ISRM), pp. 45-46, December, 3-7, 2023, Colombo, Srilanka 4
+Mohanto S., Panchal S., and Deb D. (2023). Parametric study on the stability of rib pillars in an underground metalliferous mine below an open pit mine considering multi-variate regression and k-cross-validation techniques, 1st SLRMES Conference on Rock Mechanics for Infrastructure and Geo-Resources Development– An ISRM specialized conference (ISRM), pp. 81-82, December, 3-7, 2023, Colombo, Srilanka 5
+S. Mohanto, Y. K. Patanwar, B. Ramaprasad, D. Sripuja, Kishori D. Rajurkar and D. Deb (2023). Parametric study on the stability of surface crown pillars in an underground metalliferrous mine considering numerical modelling (2023). International Conference on Sustainable & Innovative Mining Practices (ICSIMP 2023), 16 – 18 November, 2023, NIT Rourkela, Odisha 6
+Y. K. Patanwar, S. Mohanto and D. Deb (2023). Stability Analysis of deep underground stopes with transverse method of extraction using 3-dimensional numerical modelling technique. International Conference on Sustainable & Innovative Mining Practices (ICSIMP 2023), 16 – 18 November, 2023, NIT Rourkela, Odisha 7
+S. Mohanto, R. D. Lokhande, P. Tumane, Y. Kiran and D. Deb (2023). Stability Analysis of Underground structures in a metalliferrous mine due to presence of highly disturbed weak zone with numerical modelling (2023). Conference cum Exhibition on Redefining Indian Mining Industry (CERIMS 2023), MGMI Odisha Branch, 14 October, 2023, Sambalpur, Odisha 8
+A. K. Dash, S. Mohanto, P. Kumar and Y. K. Patanwar (2021). Fleet Management System in Indian Open Pit Mine: Case Studies. Proceedings of 4th International Conference on Opencast Mining Technology and Sustainability, 13 – 14th December, 2021, Singrauli (M.P).
+9
+Deb D., Mohanto S. and Gujjala Y. (2018) Estimation of blast induced damage of saturated rib-pillars in large diameter blast hole (LDBH) method. 12th International Symposium on Rock Fragmentation by Blasting: FRAGBLAST 12, June 9-15, 2018. Lulea, Sweden (Presented) 10
+Patanwar Y. K., Mohanto S., and Deb D. (2017) Design and stability analysis of stopes below an open pit mine using 3-dimensional numerical modelling technique. Young Scholar’s Symposium on Rock Mechanics and International Conference on New Developments in Rock Mechanics and Geotechnical Engineering. 11 – 13 May, 2017. Jeju (Republic of Korea) 11
+Deb D., Mohanto S., Patanwar Y. K. and Shrimali R. (2016) Stability analysis of LDBH stopes below an open pit mine due to blast load. Rock Mechanics and Rock Engineering: From Past to the Future: EUROCK 2016.29-31 August, 2016. Cappadocia (Turkey) 12
+Mohanto S., Patanwar Y. K. and Deb D. (2015) Stability Analysis of Underground Stopes using 3D Numerical Modeling. The Need for Technological Development and Reforms in Mining Sector. Mining Engineers’ Association of India. 13-14 June, 2015. Ahmedabad, Gujarat (Presented) 13
+Patanwar Y. K., Mohanto S. and Deb D. (2015) Geological interpretation of rock mass for designing large underground metal mine. The Need for Technological Development and Reforms in Mining Sector. Mining Engineers’ Association of India. 13-14 June, 2015. Ahmedabad, Gujarat 14
+Mohanto S., Singh K., Chakraborty T. and Basu D. (2012). Cyclic Mechanical Analysis of Thermo-Mechanical Underground Storage Cavern. Underground Space Development- Opportunities and Challenges. 13th World Conference of ACUUS, 2012. 7-9 November, Marina Bay Sands, Singapore (Presented)

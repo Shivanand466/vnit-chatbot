@@ -1,0 +1,10 @@
+SOURCE_URL: https://vnit.ac.in/engineering/meta/patent-awarded-to-dr-r-v-taiwade-and-dr-jagesvar-verma/
+TITLE: Patent awarded to Dr. R. V. Taiwade and Dr. Jagesvar Verma
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. R. V. Taiwade
+Dr. Jagesvar Verma
+Title of patent – A process of preparation of the etchant
+Inventor – Dr. Ravindra V. Taiwade & ( Dr. Jagesvar Verma – Research Scholar)
+Present invention provides a metallurgical etchant for similar and dissimilar weldments of duplex and ferritic stainless steel, martensite phase, carbides and nitrides precipitate and also relates to a method of preparation and application. It is also useful to reveal the macrostructure of the welds to identify the welding related defects. The suggested metallographic technique is an innovative example of combined effect of nitric acid, copper sulfate, hydrochloric acid and distilled water to reveal the phase present in similar and dissimilar welds of duplex and ferritic stainless steel joined by duplex and austenitic electrodes. The developed etchant effectively revealed the phases of duplex, ferritic, martensite and carbides, nitrides precipitate at the same time, so that the time consumption to reveal the phase separately by using different available etchant for respective phases can be saved.

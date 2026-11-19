@@ -1,0 +1,141 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/phy/dr-sayandip-ghosh/
+TITLE: Dr. Sayandip Ghosh
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Sayandip Ghosh
+Brief
+Bio
+Brief Bio
+Dr. Sayandip Ghosh is a theoretical condensed matter physicist. He graduated (B.Sc. with honours in Physics) in 2009 from the University of North Bengal. Thereafter, he went to Indian Institute of Technology Kanpur to pursue the M. Sc.-Ph.D. (dual degree) in Physics. He completed his M.Sc. in 2011 and continued as a Ph.D. student at the same institute. He received his Ph.D. in 2017 under the supervision of Prof. Avinash Singh. Dr. Ghosh subsequently joined TU Dresden, Germany in 2017 as a postdoctoral research associate in Prof. Carsten Timm's group. Afterwards, in 2019, he joined Prof. Marco Polini's group at the Italian Institute of Technology, Genoa and University of Pisa, Italy as a postdoctoral fellow where he continued till 2021. Afterwards, he spent a brief tenure as a postdoctoral fellow at the University of Sherbrooke, Canada with Prof. Ion Garate in 2022, before joining VNIT Nagpur as an Assistant Professor in Physics in the same year.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B. Sc.
+2009
+Physics (Hons)
+University of North Bengal 2
+M. Sc.
+2011
+Physics
+Indian Institute of Technology Kanpur 3
+Ph. D.
+2017
+Theoretical Condensed Matter
+Indian Institute of Technology Kanpur contact
+Details
+Name:
+Phone:
+Email:
+Address:
+Sayandip Ghosh 0712 280 2343 sayandipghosh@phy.vnit.ac.in
+Visvesvaraya National Institute Of Technology Nagpur, South Ambazari Rd, Ambazari, Nagpur, Maharashtra 440010, India
+Research
+Interest
+Research Interest
+Topological Materials, Collective Excitations, Quantum Magnetism, Correlated systems
+Home
+Teaching
+Journal Publications
+Professional Experience
+Ph.D Guidance
+M.Sc Guidance
+Awards & Honors
+Administrative Responsibilities
+Sponsored Research Projects
+Sr. No.
+Courses Taught 1
+Physics-I Theory 2
+Physics-I Lab 3
+Physics-II Theory 4
+Physics-II Lab 5
+Computational Physics 6
+Statistical Mechanics
+S.No.
+Paper Citation 12
+Sayandip Ghosh, Selçuk Parlak, Ion Garate, Inherited Berry curvature of phonons in Dirac materials with time-reversal symmetry, Physical Review B 112, 174305 (2025) 11
+Sayandip Ghosh, Guido Menichetti, Mikhail I Katsnelson and Marco Polini, Plasmon-magnon interactions in two-dimensional honeycomb magnets, Physical Review B 107, 195302 (2023) 10
+Selçuk Parlak, Sayandip Ghosh, and Ion Garate, Detection of phonon helicity in nonchiral crystals with Raman scattering, Physical Review B 107, 104308 (2023) 9
+Shubhajyoti Mohapatra, Dheeraj Kumar Singh, Rajyavardhan Ray, Sayandip Ghosh, and Avinash Singh, Spin–orbit coupling, orbitally entangled antiferromagnetic order, and collective spin–orbital excitations in Sr2VO4, Journal of Physics: Condensed Matter. 35, 045801 (2022) 8
+Sayandip Ghosh and Carsten Timm, Dynamical density and spin response of Fermi arcs and their consequences for Weyl semimetals, Physical Review B 101, 165402 (2020) 7
+T. Chatterji, L.P. Regnault, S. Ghosh, and A. Singh, Magnetic excitations in frustrated fcc type-III antiferromagnet MnS2, Journal of Physics: Condensed Matter. 31, 125802 (2019) 6
+Sayandip Ghosh and Carsten Timm, Charge-spin response and collective excitations in Weyl semimetals, Physical Review B 99, 075104 (2019) 5
+Sayandip Ghosh, Nimisha Raghuvanshi, Shubhajyoti Mohapatra, Ashish Kumar, and Avinash Singh, Multi-orbital quantum antiferromagnetism in iron pnictides — effective spin couplings and quantum corrections to sublattice magnetization, Journal of Physics: Condensed Matter 28, 366002 (2016) 4
+Sayandip Ghosh, Nimisha Raghuvanshi, and Avinash Singh, Magneto-orbital coupling in iron pnictides, Journal of Magnetism and Magnetic Materials 405, 264-269 (2016) 3
+Sayandip Ghosh and Avinash Singh, Electronic structure, spin excitations, and orbital ordering in a three-orbital model for iron pnictides, New Journal of Physics 17, 063009 (2015) 2
+Sudeep Bhattacharjee, Samit Paul, and Sayandip Ghosh, Evolution of the electron energy distribution function during genesis of breakdown plasma, Physics of Plasmas 21, 082103 (2014) 1
+Sayandip Ghosh and Avinash Singh, The role of orbital order in the stabilization of the (π, 0) ordered magnetic state in a minimal two-band model for iron pnictides, Journal of Applied Physics 115, 103907 (2014)
+Sr. No.
+Name of Institutes
+Designation
+Duration 1
+Technische Universität Dresden
+Research Associate 2.5 years 2
+Istituto Italiano di Tecnologia
+Postdoctoral Researcher 2 years 3
+Université de Sherbrooke
+Postdoctoral Researcher 9 months 4
+VNIT Nagpur
+Asst. Prof. Gr-II 2022-present
+Sr. No.
+Name
+Title
+Status 1
+Nikhil Somkule
+Inherited toplogy in bosons
+Ongoing 2
+Abhigya Rangari
+Altermagnetism
+Ongoing
+Sr. No.
+Name
+Title
+Status 1
+Rahul Gautam
+Charge-spin response and collectiveexcitation in Weyl and multi-Weyl Semimetals
+Completed (2024) 2
+Anup Das
+Floquet Mediated Spin Interaction in Weyl Semimetals
+Completed (2025) 3
+Mahbub Alam
+Study of Linear Response in Rarita-Schwinger-Weyl Semimetals
+Completed (2025)
+Sr. No.
+Awards 1
+University Medal for securing 1st class 2nd in B.Sc., University of North Bengal, 2010.
+2
+Certificate of Merit for Academic Excellence, Indian Institute of Technology Kanpur, 2011.
+3
+Junior Research Fellowship (2011) and Senior Research Fellowship (2014) from CSIR, India.
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Student representative of DPGC
+Indian Institute of Technology Kanpur
+Representing PhD students 2014-15 2
+Faculty Mentor
+VNIT
+Mentor W1 and W2 batches 2023-24 3
+Timetable coordinator
+VNIT
+Departmental time-table in-charge 2023-24, 2024-25 4
+Ph. D. coordinator
+VNIT
+Departmental Ph. D. coordinator 2024-25 5
+DEC
+VNIT
+Departmental Examination Coordinator 2025-26
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount (in Lakhs INR) 1
+Topology in heritage: Influence and manifestation of electron topology in bosons
+ANRF
+PI 2025-28 2

@@ -1,7 +1,0 @@
-SOURCE_URL: https://vnit.ac.in/section/sports/memorable-moments/
-TITLE: Memorable Moments – VNIT Nagpur – Sports Section
-FETCHED: 2026-11-19
-CRAWL: full-2026-11-19
----
-The memorable moment
-The sports complex was inaugurated at the hands of Madam Smriti Irani Honorable Minister of Human Resource Development on 11th of February 2016 in presence of honorable Chairman Shri Vishram Jamdar, honorable Director Dr. Narendra S. Chaudhari.

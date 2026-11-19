@@ -1,0 +1,71 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/vnit-nagpur-mechanical-department-homepage/
+TITLE: VNIT Nagpur – Mechanical Department homepage
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+News
+The Mechanical Department at VNIT has been awarded research projects totaling
+INR 2.03 crore under various funding schemes.
+A 5-Day ANSYS workshop is underway from March 24, 2025
+A workshop on “Carpentry and Wooden Toys” is conducted under the sponsored project from KVIC
+Mechanical Department wins the STAR performer award for innovative use of MATLAB for the second consecutive year.
+Upcoming events
+Quick Links
+PEO's
+PO's
+Department Newsletter
+Student Notice Board
+Faculty Profile
+Mechanical Department wins the Star Performer Award for Innovative Utilization of MATLAB
+Previous slide
+Next slide
+About the Department
+Department of Mechanical Engineering is the oldest department started from the inception of the institute (1960). Over the last Six decades, we have grown our expertise and competence in the core Mechanical Engineering curriculum and research. The Department has one UG program (B. Tech in Mechanical Engineering), three PG programs (M. Tech in Industrial Engineering, CAD/CAM and Heat Power Engineering). The department also offers the PhD program. The department is devoted to quality teaching, outstanding research and development activities with its highly qualified 30 faculty members. Department has shown significant contribution in research in the domains like bio-medical engineering, CFD, robotics, solar energy and advanced machining. The department handles research projects funded by various agencies having total outlay of 10 Crores. Department has filed 31 patents and 4 are granted. Three technologies have been successfully transferred to industries. The department organizes training programs/workshops at regular intervals. In the recent past, department has hosted IPRoMM-2016, one of the reputed conferences in India. The vision of the department is to produce a quality human resource of a high stranded in mechanical engineering who can contribute favorably to the technological and socioeconomic development of the nation.
+0
+Faculty 0
+R&D Projects 0
+Publications 0
+Patents 0
+PG Specialization 0
+UG Students 0
+PG Students 0
+Ph.D. Scholars
+Faculty Spotlight
+Dr. D. A. Jolhe
+, Dr. M D. Goel, and
+Dr. V. M. Nistane received approval for the project
+"Ergonomic Improvement of the Seating Arrangements for Loader, Layer and Driver in Artillery gun: ATAGS" from ARMREB (DRDO). Total Outlay: INR 82L
+Dr. Anvesh Reddy and Dr. Rahul Tarodiya have been granted approval from IIT Guwahati Technology Innovation and Development Foundation for a project on -
+"Investigations of Flow Induced Vibration in Deep sea Mining Pipes"
+, with a total budget of INR 20L
+Dr. Ajinkya Baxy secured a research project under the  Prime Minister Early Career Research Grant (
+ANRF-ECRG
+) scheme to
+“Design, Development, and Optimization of Triply Periodic Minimal Surface-Based Customized Insoles for Diabetic Foot Care.”
+, with a total budget of INR 55L
+Dr. Gaurav Tiwari and Dr. M. D. Goel have received a funding of INR 19L for the project
+"Design & Demonstration of Empty and Foam Filled Honeycomb Structure for Energy Absorption During Crash/Impact.”
+Dr. M. D. Goel and
+Dr. G Tiwari have received a funding of INR 27L for the project
+"Hypervelocity Impact Modelling on Aluminum Foam Sandwich Panel.”
+Dr. Rajashree Kotharkar, Dr. Ravindra Keskar, and
+Dr. Rahul Tarodiya have secured a major research grant (outlay Rs. 1.26 CR) for the project on
+"AI-based Urban Heat Mitigation.” under the Climate, Energy, and Sustainable Technology program of DST.
+Previous
+Next
+Student Spotlight
+Mr. Mahankar Prasanna Sudhirchandra has been awarded Ph.D. for his thesis on
+"Failure Analysis of Hydraulic Seal Used in Hydraulic Systems" under the supervision of Dr. A. S. Dhoble
+Mr. Saurabh Rathod has been awarded Ph.D. for his thesis on
+"Ballistic performance of Aramid composite structures: Experimental and Numerical Investigation" under the supervision of Dr. Gaurav Tiwari
+Previous
+Next
+Research Areas
+Thermal and Fluid Sciences
+Dynamics, Robotics,
+& Control
+Advanced Materials
+& Design
+Industrial and
+Production
+Inter-disciplinary Science

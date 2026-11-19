@@ -1,0 +1,249 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-gaurav-tiwari/
+TITLE: Dr. Gaurav Tiwari
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Gaurav Tiwari
+Brief Bio
+Dr. Gaurav Tiwari completed  his graduation from University of Rajasthan in 2003. Thereafter he completed his M.Tech from IIT delhi from Applied Mechanics Dept (2005-07) and Ph.D from IIT Roorkee from Dept. of Civil engineering in 2011-14. He has three years industrial and 12 years teaching experience. His area of reasearch is Crashworthiness and ballistics. He is expertize in Machine design, Finite element analysis, strcuture analysis, Fracture mechanics etc.
+Dr. Tiwari has more than 50 scopus indexed papers. He has granted three reaserach projects from DSTand ISRO. Moreover he has grated one patent on Doubly curvature sandwich structure. He has guided three Ph.D. student and almost 20 M.Tech students.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+BE 2003
+P&I
+University of Rajasthan 2
+M.Tech 2007
+Applied mechanics
+IIT DELHI 3
+Ph.D 2015
+Impact  mechanics
+IIT ROORKEE 4
+Contact
+Phone:
+Email:
+Address:
+9168712666 gauravtiwari@mec.vnit.ac.in
+M-02, Computer lab,Dept. of Mechanical Engg. , VNIT-440010 0712-2801277
+Research Interest
+Finite element analysis
+Crashworthiness
+Ballistics
+Sanwich structure composites
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Response of hemispherical sandwich structure subjected to projectile impact
+DST
+PI 2016 21.97 2
+Design and Demonstration of Empty and Foam Filled Honeycomb Structures for Energy Absorption During Crash/Impact
+ISRO
+PI 2023 17.9 3
+Response of Zirconia Toughened Alumina and Boron Carbide Plate Subjected to Projectile Impact
+VNIT
+PI 2024 15
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+A DOUBLE CURVATURE HEMISPHERICALSANDWICH SHELL STRUCTURE 202021038340 4-9-2020
+Granted
+Sr. No.
+Title
+S. No
+Title of the Event 1
+Finite Element Method- Research and Industrial Applications 2
+Summer research program-2016 3
+Finite Element Modeling- Research and Industrial Applications 4
+Finite Element Modeling- Research and Industrial Applications 5
+Ultrasonic testing level-1
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Wardenship
+VNIT warden 2017 onwards 2 newsletter coordinator
+VNIT
+Coordinator 2021 onwards 3
+DEC
+VNIT
+Coordinator 2018-2019 4
+PG Coordinator
+VNIT
+Coordinator 2018-2019
+Sr. No.
+Awards
+S.No.
+Paper Citation 1
+Ballistic Performance of Thin Aluminium Cylindrical and Hemispherical Shells 2
+Numerical Study of Energy Absorption Behaviour of Thin Aluminium Hemispherical Shell against Projectile Impact 3
+Finite element simulation of Ballistic response of metallic sandwich structures with aluminum foam core 4
+Finite Element Analysis of Impact Response of Foams in Sandwich Panels 5
+A comparative study of the ballistic impact behaviour of ceramic composite armour plate 6
+Crushing behaviour of thick circular high strength aluminium tube against quasi-static axial loading 7
+Effect of cut-outs on axial crushing response of cap and open-end hybrid frusta tube 8
+Experimental and numerical analysis of orthogonal cutting of highstrength aluminium alloy Al7075-T6 9
+Parameter optimization during single roller burnishing of AA6061-T6 alloy by design of experiments 10
+Ballistic response of CFRP armor helmet against ogive nosed projectile 11
+Finite Element Analysis of Bending Response of Aluminum 1100-H12 and Mild Steel Hat Shape Beam 12
+Crushing behavior of honeycomb structure: a review 13
+Ballistic performance and energy absorption characteristics of thin aluminium plates.
+14
+Effect of target span and configuration on the ballistic limit.
+15
+Influence of reinforcement in the honeycomb structures under axial compressive load.
+16
+The ballistic resistance of thin aluminium plates with varying degrees of fixity along the circumference.
+17
+Energy absorption characteristics of thin aluminium plate against hemispherical nosed projectile impact.
+18
+Energy absorption and in-plane crushing behavior of aluminium reinforced honeycomb.
+19
+Energy dissipation in thin metallic shells under projectile impact.
+20
+Ballistic response of hemispherical sandwich shell structure against ogive nosed projectile.
+21
+Ballistic performance and energy dissipation characteristics of cylindrical honeycomb sandwich structure.
+22
+Crashworthiness analysis of multi-configuration thin-walled co-axial frusta tube structures under quasi-static loading.
+23
+Perforation and energy dissipation behaviour of honeycomb core cylindrical sandwich shell subjected to conical shape projectile at high velocity impact.
+24
+Ballistic performance of ceramic–metal composite structures.
+25
+Ballistic response of double layered 1100-H12 aluminium hemispherical shell structure.
+26
+Energy absorption characteristic of sandwich shell structure against conical and hemispherical nose projectile.
+27
+Review of the crushing response of collapsible tubular structures.
+28
+Effect of cut-outs on the axial crushing response of cap and open-end hybrid frusta tube.
+29
+Impact response of single and layered thin plates.
+30
+Parameter optimization during single roller burnishing of AA6061-T6 alloy by design of experiments.
+31
+Effect of eccentricity and obliquity on the ballistic performance and energy dissipation of hemispherical shell subjected to ogive nosed.
+32
+Finite element analysis of impact response of foams in sandwich panels.
+33
+Effect of eccentric loading on energy absorbing circular cap and open end frusta tube structures.
+34
+CFD Analysis of Heat Transfer Rate in Tube in Tube Helical Coil Heat Exchanger.
+35
+The effect of target thickness on ballistic resistance of thin aluminium plates.
+36
+A comparative study on the ballistic performance of aramid and aluminium honeycomb sandwich structures.
+37
+Impact response of thin aluminium plate with varying projectile obliquity and span diameter.
+38
+SIX SIGMA APPROACH TO REDUCE THE TE/FE DEFECTS IN OPTICAL DISC (DVD).
+39
+Influence of target convexity and concavity on the ballistic limit of thin aluminum plate against by sharp nosed projectile.
+40
+Impact response of ceramic structures-A review.
+41
+Experimental and numerical analysis of orthogonal cutting of high strength aluminium alloy Al7075-T6.
+42
+The ballistic performance of thin aluminium plates against blunt-nosed projectile.
+43
+Numerical study of energy absorption behaviour of thin aluminium hemispherical shell against projectile impact.
+44
+Influence of target span and boundary conditions on ballistic limit of thin aluminium plate.
+45
+Low-velocity impact response of layered frusta tube structures.
+46
+Comparative study of impact response of GFRP and CFRP composite plates against blunt nosed projectile.
+47
+Design refinements of synchronous reluctance motor utilising non‐magnetic radial ribs for traction applications.
+48
+Impact response of thin aluminium plates and hemispherical shells.
+49
+Thickness measurement of blast furnace staves with curved cooling channel using a specially designed ultrasonic probe.
+50
+Effect of configuration and target span on the ballistic resistance 51
+Assessment of the ballistic response of honeycomb sandwich structures subjected to offset and normal impact.
+52
+Numerical Investigation on Charging of Thermal Energy Storage for Medium Temperature Applications.
+53
+Influence of oblique impact on curved composite structure against cylindrical projectiles.
+54
+Ballistic response and energy dissipation characteristic of single and double curvature shell against projectile impact: a comparative study 55
+Ballistic Response of CFRP Armor Helmet Against Ogive Nosed Projectile.
+56
+Finite Element Analysis of Bending Response of Aluminum 1100-H12 and Mild Steel Hat Shape Beam.
+57
+Hybrid Context-Based Recommendation for Media.
+58
+Numerical evaluation of the residual stresses in shot peening of alloy steels.
+59
+Performance evaluation of Reinforced honeycomb structure under blast load.
+60
+Crushing Behavior of Thick Circular High Strength Aluminum Tube Against Quasi-static Axial Loading.
+61
+Finite Element Simulation of Ballistic Response of Metallic Sandwich Structures with Aluminium Foam Core.
+62
+Ballistic Response of Confined Ceramic/Metal Armor System Against Long Projectile.
+63
+Structural Response of Multi-Layered Aluminium Foam Core Sandwich Structure Against Blast Loading.
+64
+Ballistic Performance of Thin Aluminium Cylindrical and Hemispherical Shells.
+65
+Modelling of Single Point Cutting Tool Deflection due to Cutting Forces under Variable Side Rake Angle.
+66
+Effect of periphery fixity on ballistic limit of thin aluminum plate subjected to blunt and ogival projectile impact.
+67
+Response of 1100-H12 Aluminum Targets to Varying Span and Configuration.
+68
+Response of Metallic Sandwich kkS.
+69
+BLAST RESPONSE ON STRUCTURES.
+70
+STABILITY ANALYSIS OF ANCHORED ROCK SLOPES AGAINST PLANE FAILURE BY FEM.
+71
+Numerical Investigation of Thermal Analysis of Boiler Tube for Cement Plant.
+72
+Numerical investigation of crushing behavior of conventional and reinforced honeycomb structure against in plane loading.
+73
+Impact Response of Single and Layered Thin Plates-Review
+S.No.
+Paper Citation 1
+Ballistic Performance of Thin Aluminium Cylindrical and Hemispherical Shells 2
+Numerical Study of Energy Absorption Behaviour of Thin Aluminium Hemispherical Shell against Projectile Impact 3
+Finite element simulation of Ballistic response of metallic sandwich structures with aluminum foam core 4
+Finite Element Analysis of Impact Response of Foams in Sandwich Panels 5
+A comparative study of the ballistic impact behaviour of ceramic composite armour plate 6
+Crushing behaviour of thick circular high strength aluminium tube against quasi-static axial loading 7
+Effect of cut-outs on axial crushing response of cap and open-end hybrid frusta tube 8
+Experimental and numerical analysis of orthogonal cutting of highstrength aluminium alloy Al7075-T6 9
+Parameter optimization during single roller burnishing of AA6061-T6 alloy by design of experiments 10
+Ballistic response of CFRP armor helmet against ogive nosed projectile 11
+Finite Element Analysis of Bending Response of Aluminum 1100-H12 and Mild Steel Hat Shape Beam

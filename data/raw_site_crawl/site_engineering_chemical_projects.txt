@@ -1,0 +1,231 @@
+SOURCE_URL: https://vnit.ac.in/engineering/chemical/projects/
+TITLE: Projects
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Sr. No.
+Project Title
+Funding Agency
+Cost of Project (Rs. in Lakhs)
+Investigator(s)
+Year
+Present Status 1
+Sustainable Development of Domestic and Industrial Energy Saving Coatings with eco-friendly utilization ofindustrial waste products
+Innovative Surface Coating Technology
+Dr. Diwakar Z. Shende 2024
+Ongoing 2
+Millet biorefinry for Food, Feed, Fodder, Fertilizer and Fuel: Design to Demonstration’
+DST 139
+Dr. Sachin A Mandavgane 2024
+Ongoing 3
+CoE : Agri-waste Management
+DST 1180
+Dr. Sachin A Mandavgane 2024
+Ongoing 4
+Development of Nano-Hybrid Metal Catalysts for Hydrogen Generation
+UGC-DAE-CSR 16.4
+Dr. Kailas Wasewar 2024
+Ongoing 5
+Tomato Grand challenge
+Ministry of Consumer affairs (GOI) 1.3
+Dr.Shyam Kodape (PI) , Dr. A. P. Rathod 2024
+Ongoing 6
+Valorization of postharvest agro waste (with C/N >50) using indigenous fibrinolytic enzymes
+Sree Padmavathi Venkateswara Foundation (Sree PVF) 32.8
+Dr. Sachin A Mandavgane 2023
+Ongoing 7
+Morphology tuning of heterostructured palladium/magnetic nanoparticles for enhanced catalytic performance in electro-oxidation reactions
+UGC-DAE-CSR 16
+Dr. C. Ravikumar 2023
+Ongoing 8
+Formulation and Design of Cenosphere based Prosthetic rod, nail, screw, tooth, bone implants and artificial bone through Metal/ Metal Oxides Coating and Sintering
+UGC-DAE-CSR 16
+Dr. Diwakar Z. Shende 2023
+Ongoing 9
+Study on Fly Ash Pigment as Green Alternative for High-Performance Paint and Coating
+OrientMicrospheres and Packaging 16
+Dr. Diwakar Z. Shende 2023
+Ongoing 10
+Compact novel hybrid system for the human urine recycling and portable water recovery for long term human space mission
+ISRO, Department of Space, Govt of india 26.65
+Dr Shriram S. Sonawane ,Dr Arvind Mungrey and Dr Alka Mungrey 2022-2024
+Ongoing 11
+Development of processes for high value products from agricultural biomass – Part I: Production of bio-oil and activated carbon.
+KVIC 14.98
+Dr. Ashish S. Chaurasia (PI),            Dr. S. A. Mandavgane 2022
+Completed 12
+Experimental Investigation and analysis for various chemical process development
+Premier Lifestyle Housing Pvt. Ltd.
+8.04
+Dr. Diwakar Z. Shende 2022
+Ongoing 13
+Valorization of organic waste by biorefinery approach to products
+Merino Industries Pvt. Ltd 100
+Dr. Sachin A Mandavgane 2021
+Ongoing 14
+Thermal transformation of waste toner into Carbon nanotubes and Iron in a novel cascade reactor system.
+SERB 42.02
+Dr. Vijayakumar R. P.
+2021
+Ongoing 15
+Feasibility study on Fly ash Filling of Open Cast Mine at Manikpur, Korba
+Bharat Aluminium Company Limited 69.45
+Dr. Diwakar Z. Shende (Co-PI) + 5 2021-2026
+Ongoing 16
+On farm brown and green agrowaste biorefinery using traditional wisdom(DST/TDT/WMT/Traditional tech waste/2021/01)
+DST 34.73
+Dr. S. A. Mandavgane 2021-
+Ongoing 17
+Development of process for sulphur removal from bottom ash of thermal power plant
+NTPC, Govt of India 6
+Dr. Shriram S. Sonawane 2020-2021
+Completed 18
+Research project on abatement of stinking problem associated with bio-toilet installed in Indian Railways
+Indian Railway 0.85
+Dr.Shyam Kodape , Dr. A. P. Rathod 2020
+Completed 19
+Development of Pervaporation process for Separation of Lycopene from Tomato Waste, DST SEED,2020 (Ongoing)
+DST 25.38
+Dr.Shyam Kodape (PI) , Dr. A. P. Rathod 2020-2023
+Completed 20
+Use of Biomass Ash to enhance the nutrient supply to the plant and effect on soil health, 55/14/02/ 2020-BRNS/ 35006
+DAE-BRNS 34.1
+Dr. S. A. MandavganeDr. Sonali Tajane,Dr. Sayaji Mehetre 2020-
+Ongoing 21
+Development of valuable products from stubble waste/agricultural straw by bio refinery approach and field trials, (DST/TDT/WMT/2019/32)
+DST 6
+Dr. S. A. Mandavgane 2019-
+Ongoing 22
+Development of valuable products from stubble waste/ agricultural straw by biorefinery approach and field trials(DST/TDT/WMT/2019-32A)
+DST 167.6
+Dr. S. A. MandavganeDr. Ashish Chaurasia 2019-
+Ongoing 23
+A compositional, structural and mechanical study to evaluate the effect of Mg2+ on the formation of Pseudomonas aeruginosa biofilm
+DST-SERB-EMR 24
+Ashwin Kannan 2018
+Completed 24
+Development of economically viable peeling and dissolution process for the active cathode of the lithium-ion batteries
+IIChE 50
+Dr. Ravi Methekar 2018
+Ongoing 25
+Experimental Investigations of prototype designed Critical Heat Flux (CHF) Enhancement of High Performance Heat Transfer Nanofluids using SWCNT & MWCNT’S based Nanoparticles
+SERB,DST 50
+Dr Shriram S. Sonawane 2018-
+Ongoing 26
+Valuable products from oranges – addressing a problem of Nagpur Division of Vidarbha, the largest orange producer (DST/SSTP/2018/76)
+DST 60.5
+Dr. S. A. MandavganeDr. Sonali Tajane,Dr. Yogendra Shastri,Dr. S. N. Naik 2018-
+Ongoing 27
+Removal of Water from Spent acid
+Ordnance Factory BhandaraSeptember 2017 11.32
+Dr. M. N. VarmaDr. K. L. WasewarDr. D. Z. ShendeDr. C. Ravikumar
+Completed 28
+Development of orange waste bio refinery
+SYST-DST 11.16
+Dr. Sonali P. Tajane (PI) 2018-2019
+Completed 29
+Development of a simple and cost effective process for recovery of proteins from dairy waste
+SYST-DST 15.98
+Dr. Shailesh Agrawal (PI), Dr. Pradip B. Dhamole 2018-2020
+Completed 30
+Development of starch based polyurethane Nano-coatings for packaging application by Sono-chemical approach
+MHRD, Republic of Tunisia & DST, Govt. of India 15
+Dr Shriram S. Sonawane and Dr Shirish H Sonawane 2017-
+Ongoing 31
+Process Development for Production of Janus Nanoparticles for Selected Catalytic Reactions
+DST 23
+Dr Shriram S. Sonawane and Dr Shirish H Sonawane 2017-
+Ongoing 32
+Development of Cost Effective Process for Phyco-Remediation of Dairy Wastewater and Valorization of Algal Biomass for Production of Bio-Succinic Acid: A Sustainable Approach towards bio-refinery
+DST-SERB 20
+Dr. Kailas WasewarDr. Suvidha Gupat
+Ongoing 33
+Design and synthesis of ionic liquids for separation of bio-butanol from fermentation broth to enhance its production
+DBT 50
+Dr. Kailas WasewarDr. Ashish Chaurasia,Dr. Pradip Dhamole
+Ongoing 34
+Process development of potato biorefinery
+SERB-DST 66.9
+Dr. Sachin Mandavgane (PI), Dr. Pradip Dhamole, Dr. Ashish Chaurasia 2017-2021
+Completed 35
+Development of prototype lantern powered by spent laptop batteries
+SYST-DST 12.01
+Dr. Ravi Methekar (PI) 2017
+Completed 36
+Selective separation of water from acid mixture
+Ordnance Factory, Bhandara 11.73
+Dr. Mahesh N Varma (PI) 2017-2018
+Completed 37
+Downstream processing of erythromycin using a new phase separation method
+SERB-DST Extra Mural Research Grant 24.13
+Dr. Pradip Dhamole (PI), Dr. Shailesh Agrawal, Dr. Piyush P. Wanjari 2017-2020
+Completed 38
+Nanoparticles of different shapes conjugated with drugs to achieve enhanced therapeutic efficacy in treatment of cancer
+SERB-DST Extra Mural Research Grant 34
+Dr. C. Ravikumar (PI) 2017-2020
+Completed 39
+Investigation of selective CO₂ capture by graphene-carbon nanotube hybrid nanostructures using molecular dynamics simulations
+SERB-DST Early Career Research Award 23.65
+Dr. Piyush P. Wanjari (PI) 2017-2020
+Completed 40
+Developing functionalized properties on hollow ceramic microsphere for specific applications
+SERB-DST 46.98
+Dr. Diwakar Z. Shende (PI) 2016-2019
+Completed 41
+Development of High Performance Heat Transfer Nanofluids Using Carbon Nanotubes (SWCNT & MWCNT’S) Nanoparticles and Its Applications in Double Pipe Heat Exchanger
+SERB-DST 5.5
+Dr. Shriram S. Sonawane (PI) 2016-17
+Completed 42
+Model based optimal design and fabrication of coin cells using spent lithium ion battery
+SERB-DST 33.64
+Dr. Ravi Methekar (PI) 2016
+Completed 43
+Experimental and modelling studies on the ionic liquid-mediated catalytic conversion of ligno-cellulosic biomass to fuel products
+SERB-DST Early Career Research Award 25.33
+Dr. Ashwin Gaikwad (PI) 2016
+Completed 44
+Rheological study of hydroxyl terminated polybutadiene (Htpb) – Aluminium nanoparticle (ANP) – ammonium perchlorate (AP) composite suspension
+HEMRL, DRDO Pune 10
+Dr. Kailas L. Wasewar (PI) 2015
+Completed 45
+Production of liquid hydrocarbons and carbon nanotubes using waste plastics as precursor
+SERB-DST Fast Track Young Scientist 27
+Dr. Vijayakumar R. P (PI) 2014
+Completed 46
+Development of controlled shape and size metal oxides nanoparticles, synthesis of nanofluids and application in heat exchanger
+SERB-DST 22
+Dr. Shriram S. Sonawane (PI) 2014-2017
+Completed 47
+Exploring the various applications of fly ash conduction of testing of ash and other raw materials and industry based technology development
+Vipra Ferro Alloys Ltd., Nagpur 6.6
+Dr. Diwakar Z. Shende (PI) 2014-2016
+Completed 48
+Removal of chlorinated herbicides from dilute aqueous solution using biomass ashes
+SERB-DST 45
+Dr. Sachin Mandavgane (PI) 2013-2016
+Completed 49
+Extractive fermentation with surfactants to enhance butanol production
+SERB-DST 29.17
+Dr. Pradip Dhamole (PI) Dr. K. L. Wasewar 2013
+Completed 50
+Development and testing of micro fine powder bio-pesticide using Neem
+Department of Atomic Energy 22.6
+Dr. Sachin Mandavgane (PI) 2012
+Completed 51
+Synthesis and application of ionic liquids for deep-desulfurization of liquid fuels
+CSIR 25
+Dr. Kailas Wasewar (PI) 2011-2014
+Completed 52
+Synthesis of nano catalyst from rice husk ash and its application
+DST Fast Track Young Scientist 22.26
+Dr. Sachin Mandavgane (PI) 2010-2012
+Completed 53
+Development of green construction material using industrial waste for low-cost housing
+DST 22.01
+Dr. Sachin Mandavgane (PI) 2009-2011
+Completed 54
+Reactive extraction of propionic acid
+DST 8.4
+Dr. Kailas Wasewar (PI) 2007-2010
+Completed
+Total Funds (Rs. in Lakhs) 2799.77

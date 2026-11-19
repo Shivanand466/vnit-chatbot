@@ -1,0 +1,72 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/faculty/
+TITLE: Faculty
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Faculty at Mechanical Engineering Department, VNIT Nagpur
+Dr. A. B. Andhare
+Head of the Department
+Professor & Head
+PROFESSOR
+Dr. A. M. Kuthe
+Layered Manufacturing, Bio-Medical Engineering
+Dr. S. B. Thombre
+Thermal Engineering, Solar Energy, Fuel cells
+Dr. V. R. Kalamkar
+CFD for Thermo-fluid Systems, Solar Submersible Pumps
+Dr. A. B. Andhare
+Machinery vibration, Condition monitoring, Machine Design
+Dr. Y. M. Puri
+Unconventional manufacturing, Computer Aided and Integrated Manufacturing
+Dr. J. G. Suryawanshi
+I.C. Engines, Alternative Fuels for IC Engines, Thermal Engineering
+Dr. R. V. Uddanwadikar
+Computer Graphics, Theory of Machines, Biomechanics
+Dr. S. S. Chiddarwar
+Robot Motion Planning, Artificial Intelligence and Mobile Robotics
+Dr. A. S. Dhoble
+Automobile Engineering, Thermo Fluid systems
+Dr. T. V. K. Gupta
+Advanced Manufacturing Processes, Hard Material Machining
+Dr. Ravikumar Dumpala
+Manufacturing and Surface Engineering, Wear and Tribology
+ASSOCIATE PROFESSOR
+Dr. D. B. Zodpe
+Refrigeration and Air Conditioning, Thermal Engineering
+Dr. A. K. Singh
+Frictional & Fracture Dynamics, Mechanics of Soft/Hard Solids
+Dr. H.P. Jawale
+Machines and Mechanism Design, Measurement and Sensors
+Dr. M. S. Kotambkar
+Machine Design, Vibration Based Damage Identification, FEA
+Dr. P. V. Kane
+Condition Monitoring, Quality and Reliability Engineering
+Dr. Trushar B. Gohil
+CFD, Parallel Computing, Turbulence Modeling, Code Development
+Dr. V. M. Nistane
+Nonlinear Dynamics, Vibrations & Control, Fault Diagnosis
+Dr. D. A. Jolhe
+Industrial Engineering, Ergonomics, Manufacturing System Simulations, Quality Engineering, Industry 4.0 & Big Data
+Dr. Gaurav Tiwari
+Impact Mechanics, Finite Element Analysis
+Dr. Sukanta Roga
+Renewable Energy (Wind and Solar), CFD, Scramjet Propulsion, Air and Water Quality Monitoring using ML, Image Processing and Data Analysis
+Dr. P. D. Sawarkar
+Combustion Engineering, Heat Transfer, Non-conventional Refrigeration
+Dr. N. K. Lautre
+Advanced Machining, Production and Industrial Engineering
+ASSISTANT PROFESSOR
+Dr. A. A. Thakre
+Tribology, Optimization, Soft Solids
+Dr. K. M. Asthankar
+Rapid Prototyping, Casting, Industrial Engineering
+Dr. Rahul Tarodiya
+Fluid machines, Hydraulic Turbines and Pumps, Multiphase flows,  CFD-DEM simulations, wear, erosion
+Dr. N Anvesh Reddy
+Structural Health Monitoring, Wave propagation, Smart Materials, Structural Dynamics
+Dr. Ajinkya A Baxy
+Vibration, Finite Element Analysis, Machine learning for Mechanical systems, Multibody dynamics.
+Dr. Rajendra Prasad Soni
+Computational fluid dynamics, Microfluidics, Thermal Engineering
+Dr. Prince Kumar Rai
+Surface Engineering, Electrochemistry, Microfabrication, Additive Manufacturing

@@ -1,0 +1,48 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/research_profile_med/
+TITLE: Research_Profile_MED
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Research at Mechanical Engineering Department 7608
+Citations 3722
+Crossref Citations 42
+H-Index 401
+Journal Articles 235
+Conference/In proceedings 11
+Books/ Chapters
+Data obtained from IRINS (Updated on May 27, 2024)
+Research Profiles
+Faculty
+ORCID ID
+Google Scholar Profile
+Dr. P. M. Padole 0000-0001-8878-6770
+Dr. A. M. Kuthe 0000-0002-2278-7401 https://scholar.google.co.in/citations?user=o0sz0K0AAAAJ&hl=en
+Dr. S. B. Thombre 0000-0002-6331-4336 https://scholar.google.co.in/citations?user=VxMpVfMAAAAJ&hl=en
+Dr. V. R. Kalamkar 0000-0002-0715-4251 https://scholar.google.co.in/citations?user=yu3CdsMAAAAJ&hl=en
+Dr. A. B. Andhare 0000-0001-6096-6956 https://scholar.google.com/citations?user=j09cPkYAAAAJ&hl=en&oi=sra
+Dr. Y. M. Puri 0000-0002-4523-0999 https://scholar.google.co.in/citations?user=g2UDQ3wAAAAJ&hl=en
+Dr. J. G. Suryawanshi 0000-0001-5282-3277 https://scholar.google.co.in/citations?user=P_P6UucAAAAJ&hl=en
+Dr. R. V. Uddanwadiker 0000-0002-1995-2680 https://scholar.google.co.in/citations?user=4XnAY54AAAAJ&hl=en
+Dr. S. S. Chiddarwar 0000-0001-8078-6573 https://scholar.google.co.in/citations?user=B9InqKQAAAAJ&hl=en
+Dr. D. B. Zodpe 0000-0001-8647-9523
+Dr. A. S. Dhoble 0000-0003-3879-8006 https://scholar.google.co.in/citations?user=a8TsAQEAAAAJ&hl=en
+Dr. H. P. Jawale 0000-0002-0764-4971 https://scholar.google.com/citations?user=b8lvZ2QAAAAJ&hl=en
+Dr. M. S. Kotambkar 0000-0002-6075-9663 https://scholar.google.co.in/citations?user=nY41--YAAAAJ&hl=en
+Dr. A. K. Singh 0000-0003-1663-9055 https://scholar.google.co.in/citations?user=Vjue56MAAAAJ&hl=en
+Dr. T. B. Gohil 0000-0002-4919-4980 https://scholar.google.co.in/citations?user=qLgGq2gAAAAJ&hl=en
+Dr. T.V.K. Gupta 0000-0002-2108-2725 https://scholar.google.co.in/citations?user=bogidtwAAAAJ&hl=en
+Dr. R. Dumpala 0000-0003-1500-8809 https://scholar.google.co.in/citations?user=ogSRZhQAAAAJ&hl=en
+Dr. R. Peetala 0000-0002-7122-8905 https://scholar.google.co.in/citations?user=wTq4BIQAAAAJ&hl=en
+Dr. D. A. Jolhe 0000-0001-5094-9669 https://scholar.google.co.in/citations?user=TIWB0UwAAAAJ&hl=en
+Dr. P. V. Kane 0000-0002-1250-9846 https://scholar.google.co.in/citations?user=AYFcJBwAAAAJ&hl=en
+Dr. V. M. Nistane 0000-0003-0179-7106
+Dr. G. Tiwari 0000-0001-5076-5165 https://scholar.google.co.in/citations?user=pTYYagIAAAAJ&hl=en
+Dr. S. Roga 0000-0001-8325-9154 https://scholar.google.co.in/citations?user=4kVUGgsAAAAJ&hl=en
+Dr. A. A. Thakre 0000-0002-9604-6841 https://scholar.google.co.in/citations?user=mFH2vYoAAAAJ&hl=en
+Dr. K. M. Ashtankar 0000-0001-9152-5969 https://scholar.google.co.in/citations?user=s_l3JDcAAAAJ&hl=en
+Dr. P. D. Sawarkar 0000-0001-7955-3334 https://scholar.google.com/citations?user=nNAuEZAAAAAJ&hl=id
+Dr. N. K. Lautre 0000-0002-1382-0011 https://scholar.google.co.in/citations?user=1qe4U3UAAAAJ&hl=en
+Dr. N. A. Reddy 0000-0002-2208-3025 https://scholar.google.co.in/citations?user=WddCRZMAAAAJ&hl=en
+Dr. A. A. Baxy 0000-0003-0715-1664 https://scholar.google.com/citations?user=nieJeGsAAAAJ&hl=en
+Dr. R. Tarodiya 0000-0003-1531-1015 https://scholar.google.com/citations?user=IPgwiJYAAAAJ&hl=en
+Dr. R. P. Soni 0000-0003-0512-1592 https://scholar.google.co.in/citations?user=WWOzZjgAAAAJ&hl=en

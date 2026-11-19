@@ -1,0 +1,50 @@
+SOURCE_URL: https://vnit.ac.in/section/hostel/c-v-raman/
+TITLE: C. V. Raman
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+6 6 6 6 6 6 6 6 6 6 6 6 6
+About Hostel
+Warden
+Supervisor
+Night Caretaker
+Activity
+About Hostel
+Welcome to C. V. Raman Hostel, a residence that embodies the spirit of scientific curiosity, discipline, and discovery. The hostel is named in honour of Sir Chandrasekhara Venkata Raman (7 November 1888 – 21 November 1970), the distinguished Indian physicist and Nobel Laureate who revolutionized the understanding of light through his discovery of the Raman Effect.
+Sir C. V. Raman’s life stands as a testament to the power of intellect and perseverance. In his words and deeds, he proved that with focus and curiosity, the pursuit of knowledge can illuminate the world. He often said that India must depend on its own intellect and talent, not on foreign knowledge.
+C. V. Raman Hostel accommodates undergraduate and postgraduate first-year students and consists of two blocks UG and PG block. The hostel layout is thoughtfully organized as follows:
+In UG block, each room is triple seater. Ground floor has 30 rooms including 1 stationary shop, Warden office, Supervisor office, Library room and T.V. room. The first floor includes 32 rooms along with 1 recreational hall and 1 study room. The second and third floor consist of 33 rooms (including 1 study room) and 14 rooms respectively providing comfortable and well-ventilated living spaces for residents. The campus features open courtyard, providing natural light, ventilation, and welcoming spaces for students to relax, study, and interact. In PG block, each room is double seater. Ground floor, first floor and second floor has 16, 21 and 21 rooms respectively including 3 multiactivity rooms like study rooms and recreational hall. Each floor is equipped with water coolers to provide clean and cool drinking water throughout the day. Separate washrooms and bathrooms are available on every floor, maintained regularly to ensure hygiene and convenience.
+For added convenience, the hostel includes app-controlled IoT based washing machines, promoting cleanliness and efficient laundry management. A night canteen within the premises serves as a popular spot for late-night refreshments and group discussions, enhancing the hostel’s community spirit.
+Warden
+Name : Dr. Praveen Pawar, Warden
+Department : Electronics and Comm. Engg
+Hostel Name : CV RAMAN
+Mobile No. 7987231873
+Qtr. No. TA 32
+Department Extension No. 1912
+Residence Extension No. 1945
+Email ID praveenpawar@ece.vnit.ac.in
+Name : Dr. Soumyabrata Das, Warden
+Department : Electrical Engineering
+Hostel Name : CV RAMAN
+Mobile No : 9366731737
+Qtr. No : TA-17
+Department Extension No : 1309
+Residence Extension No : 1957
+Email ID : soumyabratadas@eee.vnit.ac.in
+Supervisor
+Mr. Dhammpal H. Gedam
+Section Hostel Section
+Designation Office Associate
+Hostel Name C. V. Raman
+Mobile No. 9422183766
+Office Extension No. 1106
+Email ID dhammpalgedam@vnit.ac.in
+Night Caretaker
+Name: Shivam Chauragade
+Section: HOSTEL SECTION
+Designation: Night Caretaker
+Hostel Name: C V RAMAN
+Mobile No.: 8600229537
+Activity
+An interaction session was held on 14th October 2026 at 6:30 PM with the Council Members, Prefects, supervisor , Night Caretakers, and Wardens of J. C. Bose and C. V. Raman Hostels, along with Institute Counsellor Dr. Renu Khubani. The session focused on promoting student well-being, strengthening the mentorship system, and enhancing the support mechanism for first-year boys residing in the hostels at VNIT Nagpur.

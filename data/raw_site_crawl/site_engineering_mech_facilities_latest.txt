@@ -1,0 +1,120 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/facilities-latest/
+TITLE: Facilities Latest
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Facilities at Mechanical Engg. Department
+Sr. No.
+Name of theFacility
+SpecializedEquipmentName
+Equipment details
+Utilization details 1
+Rapid Prototyping Lab
+Dimension BST
+Stratasys FDM Printer
+PG and Ph. D. projects + labs
+Rapid Prototyping Lab
+Uprint SE Plus
+Stratasys FDM Printer
+PG and Ph. D. projects + labs 2
+Smart Foundry Lab
+Induction Furnace
+Electrotherm induction furnace
+PG and Ph. D. projects
+Smart Foundry Lab
+Tempstik
+K type contacting thermocouple
+PG and Ph. D. projects
+Smart Foundry Lab
+Vacuum Pump
+Banglore Vacuum Tech., Rotary Vacuum pump
+PG and Ph. D. projects c
+Smart Foundry Lab
+Baby Lathe Machine
+PROXXON FD/E Precision Lathe
+PG and Ph. D. projects
+Smart Foundry Lab
+Baby Milling Machine 2 Speed Benchtop Milling Machine
+PG and Ph. D. projects
+Smart Foundry Lab
+Baby Drilling Machine
+Primium Bench Drill Machine
+PG and Ph. D. projects
+Smart Foundry Lab
+Thermometer
+GM1150 non contacting temperature measurement device
+PG and Ph. D. projects
+Smart Foundry Lab
+Hand held XRF Gun
+Olympus n XRF and XRD analyzer
+PG and Ph. D. projects 3
+Tissue Engg. Lab
+Bio plotter,
+EnvisionTec GMBH with LTPH
+PG and Ph. D. projects
+Tissue Engg. Lab
+CO2 Incubator
+Thermo Scientific with Water jacket
+PG and Ph. D. projects
+Tissue Engg. Lab
+Ultra low freezer,
+Thermo Scientific
+PG and Ph. D. projects
+Tissue Engg. Lab
+Refrigerated Centrifuge
+Thermo Scientific
+PG and Ph. D. projects
+Tissue Engg. Lab
+Inverted Microscope
+Life Technology
+PG and Ph. D. projects
+Tissue Engg. Lab
+Cell Counter
+Thermoscintific
+PG and Ph. D. projects
+Tissue Engg. Lab
+Shaker Water Bath
+Indian make
+PG and Ph. D. projects
+Tissue Engg. Lab
+Cryo-preservation
+BPL
+PG and Ph. D. projects
+Tissue Engg. Lab
+Freezer
+Samsung
+PG and Ph. D. projects
+Tissue Engg. Lab
+Biosafety cabinet
+Thermo Scientific
+PG and Ph. D. projects
+Tissue Engg. Lab
+Microwave furnace
+Enerzi MircowavePvt. Ltd India
+PG and Ph. D. projects
+Tissue Engg. Lab
+Bacteriological Incubator
+Indian make
+PG and Ph. D. projects
+Tissue Engg. Lab
+Oven
+Indian make
+PG and Ph. D. projects
+Tissue Engg. Lab
+Autoclave
+Indian make
+PG and Ph. D. projects
+Tissue Engg. Lab
+Muffle Furnace
+Indian make
+PG and Ph. D. projects 4
+Psychoacoustic Test Bench
+Psychoacoustic Test Bench & vibration analyzer
+Oros France make, With Data acquisition system, microphones, accelerometers and analysis software
+Used for PG and Ph. D. student projects 5
+Biomechanical Engineering facility
+EMG Machine, Intra Oral Scanner, 3D printer
+Used for PG and Ph. D. student projects 6
+Robotics
+IntellitekScorbot ER-4U, Omni-directional mobile robot 5 DOF robot, 4 wheel drive mecanum wheel mobile robot
+Used for PG and Ph. D. student projects and lab sessions

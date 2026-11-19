@@ -1,0 +1,281 @@
+SOURCE_URL: https://vnit.ac.in/basic_science/chemistry/dr-sangesh-p-zodape/
+TITLE: Dr. Sangesh P. Zodape
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Sangesh P. Zodape
+Brief
+Bio
+Brief Bio
+Dr. Sangesh P. Zodape is currently working as an Associate Professor in Department of Chemistry, Visvesvaraya National Institute of Technology (VNIT), Nagpur , Maharashtra, India. Sangesh P. Zodape born and brought up in Nagpur, Maharashtra.  He has completed B.Sc. (Chemistry) from  R.T.M. Nagpur University, Nagpur  in 2004 and M.Sc. (Physical Chemistry)  from Department of Chemistry, R.T.M. Nagpur University, Nagpur in 2006. He also completed M. Phil. (Physical Chemistry) from Department of Chemistry, R.T.M. Nagpur University, Nagpur in 2008. He has been awarded the Ph.D. degree in Chemistry entitled "Thermodynamic and transport properties of some Biologically active compound in aqueous solution at different tempertaures" in 2012 from R.T.M. Nagpur University, Nagpur, Maharashtra, India under the supervision of Dr. Sudhakar S. Dhondge. He has one-year industrial experience from Asian Paint LTD. Gujrat and Lupin Pharma. Bhopal. His research interests include thermodynamic, acoustic, and transport properties of binary and ternary mixtures containing biologically active compounds and ionic liquids, as well as the synthesis and applications of nanomaterials and composites.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+B.SC.
+2004
+Chemistry, Zoology, Microbiology
+Dharampeth Science College, Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur 2
+MSc.
+2006
+Physical Chemistry
+Department of Chemistry, Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur 3
+M. Phil 2008
+Physical Chemistry
+Department of Chemistry, Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur 4
+PhD 2012
+Physical Chemistry
+Department of Chemistry, Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur
+Contact
+Details
+Phone:
+Email:
+Address:
+0712-2801774 szodape@chm.vnit.ac.in,sangesh02@gmail.com,
+Associate Professor, Depatment of Chemistry, Visvesvaraya National Institute of Technology, South Ambazari Road, Nagpur-440 010.
+Research
+Interest
+Research Interest
+Thermodynamics & Solution Chemistry
+Biologically active compounds/Drugs
+Ionic Liquids
+Deep eutectic solvents
+Material Chemistry
+Electrochemistry
+Sponsored Research Projects
+Journal Publications
+Book or Book Chapters
+Research Patents
+STTP & Workshop
+Research Group
+Administrative Responsibilities
+Awards & Honors
+Consultancy Projects
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Study of thermodynamic,transport and acoustic properties of some pharmacetical compounds in aqueous solutions at different temperatures
+Science and engineering research Board(SERB), New Delhi
+PI 2013- 2015 12 2
+Synthesis and characterization of mixed ferrite
+UGC-DAE CSR
+PI 2015-2018 1.35 3
+Synthesis and characterization of mixed ferrite and its applications
+UGC-DAE CSR
+PI 2017-2020 10.57 4
+Removal of metal ions contamination from mine water
+NMDC Limited Hyderabad
+CO-PI 2020-2022 7.08
+S.No.
+Paper Citation 63
+Insights into molecular interactions between tetracaine hydrochloride and glycine in aqueous solutions through volumetric and compressibility parameters, Mustaqueem M Shaikh, Sangesh P. Zodape, Vandana Patel, Vasim R Shaikh, The Journal of Chemical Thermodynamics, 107736, 2026, https://doi.org/10.1016/j.jct.2026.107736 62
+Thermodynamic Insights into Sodium Chloride–Procainamide Hydrochloride Interactions in Aqueous Solutions: Volumetric and Compressibility Studies, Ankita S. Chandak, B Mahesh, Sangesh P.  Zodape, Journal of the Indian Chemical Society, 102899, 2026, 10.1016/j.jics.2026.102899 61
+Bio-inspired synthesis of sea urchin–like hierarchical BaO nanostructures using Ocimum sanctum for enhanced UV-driven photocatalytic dye degradation and electrochemical sensing, SC Asha, Roopashree B, Mahesh B, SG Divakara, Chamaraja NA, CR Ravikumar, Sangesh P Zodape, Kumara Swamy N, Ling Shing Wong, Sharanakumar TM, International Journal of Environmental Analytical Chemistry, 2026,1-25, https://doi.org/10.1080/03067319.2026.2638550 60
+Synthesis of Polypentapeptide of Tropoelastin and Exploration of Its Blends with Polyvinyl Alcohol for the Inhibition of α-Amylase and α-Glucosidase, HR Lokesh, B Mahesh, Sangesh P Zodape, ND Rekha, D Channe Gowda, Alina Sionkowska, Journal of Polymers and the Environment, 2026, 34, 1, 24 59
+Thermolysis, thermodynamic and kinetics analysis of [EMIm][MeSO4] and molecular interaction study of [EMIm][MeSO4] in 0.05/0.10 mol·kg−1 aqueous LiCl solutions at different temperatures through volumetric and computational analysis, Ankita S Chandak, Ratiram G Chaudhary, Sangesh P Zodape, 2025, Journal of Thermal Analysis and Calorimetry, 1-23 58
+Thermodynamic and Compressibility Studies of Naphazoline Hydrochloride in Aqueous and Aqueous l-Valine Solutions: Insights into Molecular Interactions and Solvation Behavior, Vandana S Shende, Mahesh B, Vandana Patel, Ratiram G Chaudhary, Sangesh P Zodape, J. Chem. Eng. Data 2025, 70, 8, 3123–3139 57
+Thermodynamic and computational studies of Promethazine hydrochloride drug in aqueous and aqueous Choline-based deep eutectic solutions, Ankita S Chandak, Ritesh Motghare, Ratiram G Chaudhary, Sangesh P Zodape, 2025, Journal of Ionic Liquids, 5, 1, 100153 56
+Molecular interactions of 1-butyl-2, 3-dimethylimidazolium chloride ionic liquid in aqueous L-alanine solutions through volumetric and compressibility approaches, Vandana Patel, Anuja Jain, Sangesh P Zodape, 2025, Journal of Ionic Liquids, 5, 1, 100140 55
+Integration of ZnO into Polyhedral Oligomeric Silesquioxane (POSS) for Enhanced Adsorption and Removal of Malachite Green Dye from Aqueous Solution, Sneha A Wahurwagh, Shivani Bhagat, Awanti S Talmale, Atul V Wankhade, Sangesh P Zodape, Umesh R Pratap, 2025, Journal of Inorganic and Organometallic Polymers and Materials, 35, 6, 4285-4299 54
+Volumetric and Compressibility Studies of Antimycobacterial Drug in Aqueous and Aqueous d-Glucose Solutions at Various Temperatures, Vandana S. Shende, Anuja Jain, Mahesh B, Sangesh P. Zodape, J. Chem. Eng. Data 2025, 70, 5, 1918–1929 53
+Exploring the Molecular Interactions between d-Glucose and Imidazolium-Based Ionic Liquid in Aqueous Mediums at T = (288.15–318.15) K through a Physicochemical Approach, Ankita S. Chandak, Sangesh P. Zodape, J. Chem. Eng. Data 2025, 70, 5, 1956–1970 52
+Study of Molecular Interactions between Potassium Chloride and Ionic Liquid 1-Methyl-3-propylimidazolium Iodide in Aqueous Solutions at Different Temperatures: A Thermodynamic Approach, Vandana Patel, Anuja Jain, Ankita S. Chandak, Sangesh P. Zodape,. Chem. Eng. Data 2025, 70, 5, 1971–1982 51
+Novel PEGylated deep eutectic solvents: A thermophysical and photophysical investigation, Yagnik Vora, Mithilesh Prajapati, Vaishali Khokhar, Sangesh P Zodape, Kishant Kumar, Siddharth Pandey, Ketan Kuperkar, Journal of Molecular Liquids, 2025, 423, 127052 50
+Thermodynamic studies of molecular interactions between local anesthetical drug (Procaine Hydrochloride) and amino acid (Glycine) in aqueous solutions at T (= 288.15–318.15 K), Mustaqueem M Shaikh, Sangesh P Zodape, Vandana Patel, Vasim R Shaikh, Journal of Chemical & Engineering Data, 70, 4, 1604-1622 49
+Mesoporous, high surface area and microrod-shaped cobalt (II) coordination polymer for assessment of molecular structure, thermolysis and non-isothermal kinetics parameters, Rina Bagade, Azmat Ali Khan, Abdul Malik, Ahmed Abdala, Sabiha Fatima, Sangesh P. Zodape, Harjeet D. Juneja, Ajay K. Potbhare, Ratiram G. Chaudhary, Journal of Molecular Structure, 1322, Part 2, 15 February 2025, 140411 48
+Coupling solvent extraction with pervaporation for efficient separation of lycopene from tomato waste using chitosan/polyvinylpyrrolidone (CS/PVP) pervaporative membranes and its optimization study, Kanchan A. Nandeshwar, Shyam M. Kodape, Ajit P. Rathod & Sangesh P Zodape, 14, 31183–31202, 2024 47
+Exploring the Molecular Interactions of 1,3-Dimethylimidazolium Methyl Sulfate Ionic Liquid in Aqueous and Aqueous l-Alanine Solutions at Various Temperatures, Vandana Patel, Anuja Jain, Sangesh P. Zodape, J. Chem. Eng. Data 2025, 70, 1, 115–128 46
+Physiochemical study of 1-methyl imidazole trifluoro methane sulfonate ionic liquid in aqueous and in aqueous amino acid solutions at different temperatures, Ankita S Chandak, Anuja Jain, Sangesh P. Zodape, Chemical Physics Impact,8, 2024, 100618 45
+Thermophysical and Computational Studies of 1-(2-Hydroxyethyl)-3-methylimidazolium Chloride Ionic Liquid in Aqueous and Aqueous l-Alanine Solutions, Anuja Jain, Ankita S. Chandak, Sangesh P. Zodape, Journal of Chemical & Engineering Data 69 (1),2024, 59–72 44
+Coupling solvent extraction with pervaporation for efficient separation of lycopene from tomato waste using chitosan/polyvinylpyrrolidone (CS/PVP) pervaporative membranes and its optimization study, Kanchan A. Nandeshwar, Shyam M. Kodape, Ajit P. Rathod & Sangesh P. Zodape, Biomass Conversion and Biorefinery, 2023, 1-20.
+43
+Zero-valent silver decorated Ag2MoO4 nanorods: An excellent visible light active photocatalyst for persulfate ion activation with intrinsic bactericidal activity, Rudra P. Singh, Adarsh K. Mourya, Prerna S. Khaga , G.S. Gaikwad, Atul V. Maldhure, Atul V. Wankhade, Inorganic Chemistry Communications, 2023, 157, 111375.
+42
+Expliciting the interactions of tramadol hydrochloride + choline chloride-based deep eutectic solvent + water systems: Thermodynamic aspects, Ankita S Chandak, Anuja Jain, Sangesh P Zodape, Journal of Molecular Liquids, 383,2023, 122100.
+41
+Investigation of Molecular Interactions of 1-Ethyl-3-methylimidazolium Diethyl Phosphate in Water and Aqueous D-Glucose Solutions through Thermodynamic and Compressibility Parameters, J. Chem. Eng. Data, 68( 8), 2023, 1899–1910.
+40
+Removal of Cu(II) and Cd(II) Ions from Aqueous Solutions by Methionine Functionalized Cobalt-Magnesium Ferrite Chitosan Beads: Performance and Adsorption Mechanism, Saroj P Sahare, Sangesh P Zodape, Journal of Polymers and the Environment ,31 (5), 2023,1967-1985.
+39
+Magnetic properties of synthesized cobalt–nickel ferrites (CoxNi1-xFe2O4) by hydrothermal method using malonic acid as a chelating agent, Saroj P Sahare, Atul V Wankhade, Sangesh P. Zodape, Applied Physics A ,129 (1),2023, 43.
+38
+Modified Cobalt Ferrite Entrapped Chitosan Beads as a Magnetic Adsorbent for Effective Removal of Malachite Green and Copper (II) Ions from Aqueous Solutions, Saroj P Sahare, Atul V Wankhade, AK Sinha, Sangesh P Zodape, Journal of Inorganic and Organometallic Polymers and Materials ,33 (1), 2023, 266-286.
+37
+Thermophysical properties of 1-butyl-3-methylimidazolium octyl sulfate ionic liquid in aqueous and aqueous electrolyte solutions at different temperatures, Anuja Jain, Ankita S Chandak, Sangesh P Zodape, Journal of Ionic Liquids, 2 (2),2022, 100047.
+36
+Solvation properties of 1-butyl 2, 3-dimethyl imidazolium chloride ionic liquid in aqueous and aqueous glycine solutions at different temperatures using volumetric and compressibility parameters, A Jain, Sangesh P. Zodape, Journal of Molecular Liquids, 363, 2022,119817.
+35
+An insight into the thermodynamic investigation of important metabolite(KCl)-methyl nicotinate in aqueous solution at various temperatures, Anuja Jain, Umesh R Pratap, Atul V Wankhade, Sangesh P Zodape, Chemical Thermodynamics and Thermal Analysis 6,2022, 100055.
+34
+Synthesis of Ag2V4O11 nanoflakes mediated photoactivation of peroxymonosulfate ion for enhanced dye degradation and intrinsic bactericidal activity, Rudra P Singh, Prerna S Khagar, Adarsh K Mourya, Swapnil K Warkhade, Sangesh P Zodape, Umesh R Pratap, Atul V Wankhade, Materials Science in Semiconductor Processing, 2022,143, 106526.
+33
+, 12-Sustainable hybrid nanomaterials for environmental remediation and agricultural advancement, P Khagar, Sangesh Zodape, U Pratap, A Maldhure, G Gaikwad, A Wankhade, Biogenic Sustainable Nanotechnology,2022, 267-292.
+32
+Insights into the temperature and concentration dependent studies of the Anti-diabetic drug in aqueous binary and ternary (water +sucrose) mixtures at body temperature, AS Chandak, Sangesh P. Zodape, Chemical Physics Impact, 3, 2021,100050.
+31
+Studies of solute–solvent interactions of imidazolium-based ionic liquid in water and aqueous L-alanine solution via volumetric and compressibility properties at T = (293.15–313.15) K, A Jain, VS Shende, DV Kawadkar, UR Pratap, AV Wankhade, Sangesh P. Zodape, The Journal of Chemical Thermodynamics, 162,202, 106561.
+30
+Investigation of molecular interactions of a drug Isoprenaline Hydrochloride-L-alanine in water at different temperatures, VS Shende, UR Pratap, AV Wankhade, SP Zodape, Journal of Molecular Liquids, 337, 116580.
+29
+Self-assembled CoSe2 Microspheres with Intrinsic Peroxidase Mimicking Activity for Efficient Degradation of Variety of Dyes, P Khagar, UR Pratap, SP Zodape, AV Wankhade, Chemistry Select, 6 (20), 2021,5043-5051.
+28
+CoSe2 nanoflakes: An artificial nanoenzyme with excellent peroxidase like activity, SK Warkhade, RP Singh, RS Das, GS Gaikwad, SP Zodape, UR Pratap, A Maldhure, A. V. Wankhade, Inorganic Chemistry Communications,2021, 126, 108461.
+27
+Investigation of the thermodynamic and compressibility properties of antihypertensive drug Hydralazine hydrochloride in aqueous and aqueous amino acids solutions at various temperatures, VS Shende, UR Pratap, AV Wankhade, SP Zodape, Journal of Molecular Liquids, 321,2021, 114755.
+26
+Facile synthesis of benzazoles through biocatalytic cyclization and dehydrogenation employing catalase in water, P Shrivas, S Zodape, A Wankhade, U Pratap, Enzyme and Microbial Technology,138, 2020,109562.
+25
+Green synthesis of pyranopyrazoles via biocatalytic one-pot Knoevenagel condensation–Michael-type addition–heterocyclization cascade in non-aqueous media, P Shrivas, R Pandey, S Zodape, A Wankhade, U Pratap, Research on Chemical Intermediates,46,2020, 2805-2816.
+24
+A facile microwave assisted fabrication of nano Ag2ZrO3: An efficient visible light harvesting photocatalyst, SK Warkhade, RS Das, GS Gaikwad, UR Pratap, SP Zodape, Environmental Progress & Sustainable Energy, 38 (3),2019, e13071.
+23
+Rutile TiO2/CoSe nanocomposite: An efficient photocatalyst for photodegradation of model organic dyes under visible light irradiation, SK Warkhade, SP Zodape, UR Pratap, AV Wankhade, Journal of Molecular Liquids, 279,2019, 434-443.
+22
+Thermophysical Properties of Dicationic Ionic Liquids under the Influence of Amino Acid, Dinesh V Kawadkar, Sangesh P Zodape, Journal of Chemical & Engineering Data, 64, 2, 2019, 421–432.
+21
+Microwave-assisted optimized route for the synthesis of CoSe2 nanoflakes: an efficient material for adsorptive removal of Rhodamine B, SK Warkhade, SP Zodape, UR Pratap, AV Wankhade, Journal of Chemical Technology & Biotechnology, 93 (10),2018, 2868-2877.
+20
+Molecular interactions of Pyridinium DIL with D–glucose: Volumetric, acoustic and viscometric approach, DV Kawadkar, UR Pratap, AV Wankhade, SP Zodape, Journal of Molecular Liquids, 257, 2018,132-143.
+19
+Nano‐nickel aluminates: A sustainable nanocatalyst for solvent‐free acetylation of alcohols phenols and amines, Swapnil K Warkhade, Vayu Chaurasiya, Megha Rawat, Gayatri S Gaikwad, Sangesh P Zodape, Umesh R Pratap, Atul V Wankhade, Chemistry Select, 3(9),2018,2515-2522.
+18
+Investigation of volumetric and acoustic properties of procainamide hydrochloride in aqueous binary and (water+ amino acid) ternary mixtures at different temperatures, Doyel M Bhattacharya, Dinesh V Kawadkar, Chandrashekhar P Pandhurnekar, Atul V Wankhade, Umesh R Pratap, Sangesh P Zodape, Journal of Chemical & Engineering Data 62(12), 2017, 4083-4092.
+17
+Baker’s yeast catalyzed Henry reaction: Biocatalytic CC bond formation, Prabhakar Shrivas, Nitesh Punyapreddiwar, Atul Wankhade, Sangesh P Zodape, Umesh Pratap, Iranian Journal of Catalysis  7,4, 2017, 337-340.
+16
+Low temperature synthesis of pure anatase carbon doped titanium dioxide: An efficient visible light active photocatalyst, Swapnil K Warkhade, GS Gaikwad, Sangesh P Zodape, Umesh Pratap, Atul V Maldhure, Atul V Wankhade, Materials Science in Semiconductor Processing 63, 2017, 18-24.
+15
+Influence of d-glucose on solvation behavior of Bis C3 (mim) Br2, Dinesh V Kawadkar, Umesh R Pratap, Atul V Wankhade, Sangesh P Zodape, Journal of Molecular Liquids  232, 2017, 94-10.
+14
+Santilli’s Magnecules and Their Applications, Chandrashekhar P Pandhurnekar, Sangesh P Zodape, Am. J. Mod. Phys 6,2017, 64-77.
+13
+Santilli Magnegas and their Applications, Sangesh P Zodape, 2016-Sustainable Industrial Processing Summit 4, 2016, 195-206.
+12
+Conjugate addition of malononitrile on chalcone: Biocatalytic CC bond formation, Nitesh D Punyapreddiwar, Sangesh P Zodape, Atul V Wankhade, Umesh R Pratap, Journal of Molecular Catalysis B: Enzymatic  133, 2016, 124-126.
+11
+Solvation behaviour of an antihelmintic drug in aqueous solutions of sodium chloride and glucose at different temperatures, Doyel M Bhattacharya, Sudhakar S Dhondge, Sangesh P Zodape, The Journal of Chemical Thermodynamics  101,2016,207-220.
+10
+Volumetric and ultrasonic approach in the investigation of critical micellar phenomenon of amphiphilic drugs in aqueous solutions at different temperatures, Doyel M Bhattacharya, Umesh R Pratap, Atul V Wankhade, Sangesh P Zodape, Journal of Molecular Liquids 214, 2016, 117-127.
+9
+Studies on molecular interactions of some neurotransmitters in water using volumetric and compressibility measurements at T=(278.15, 288.15 and 298.15) K, Jessie M Moses, Sudhakar S Dhondge, Lalitmohan J Paliwal, Sangesh P Zodape, Pritam H Shende, The Journal of Chemical Thermodynamics 93, 2016, 8-18.
+8
+Saccharomyces cerevisiae catalyzed cyclocondensation reaction: Synthesis of pyrazoline, Nitesh D Punyapreddiwar, Atul V Wankhade, Sangesh P Zodape, Umesh R Pratap, Journal of Applied Chemistry 2016.
+7
+Comprehensive review on santilli s magnegas in hadronic chemistry, Sangesh P. Zodape, HADRONIC JOURNAL 38(3),2015, 307.
+6
+Novel chemical species of Santilli’s magnegas in hadronic chemistry1), Sangesh P. Zodape, AIP Conference Proceedings 1648(510022),2015, 1-5.
+5
+The magnehydrogen in hydronic chemistry, Anil A. Bhalekar, Sangesh P. Zodape, HADRONIC JOURNAL 36(5),2013,565-592.
+4
+The magnehydrogen in hadronic chemistry, Sangesh P. Zodape, Anil A. Bhalekar, AIP Conference Proceedings 1558(648),2013,648-651.
+3
+Volumetric and viscometric studies of some drugs in aqueous solutions at different temperatures, Sudhakar S Dhondge, Sangesh P Zodape, Dilip V Parwate, The Journal of Chemical Thermodynamics 48, 2012, 207-212.
+2
+Structural and optical properties of wet chemically grown Zinc oxide thin film, Arindam Ghosh, Sangesh P Zodape, Ketan P Gattu, Dipak Vyavahare, Journal Advances in Applied Science research 2(5),2011, 151-157.
+1
+X-Ray Diffraction and SEM Investigation of Solidification/Stabilization of Nickel and Chromium Using Fly ash, Ranjana A Patil, Sangesh P. Zodape, Journal of Chemistry 8(S1),2011, S395-S403.
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Dr. Sangesh P. Zodape, Dr. Prashant M. Adkine, Material Chemistry, Himalaya Publishing House.
+Dr. Sangesh P. Zodape, Dr. Prashant M. Adkine
+Himalaya Publishing House.
+2012
+Dr. Sangesh P. Zodape, Dr. Prashant M. Adkine, Engineering Chemistry, Himalaya Publishing House.
+Dr. Sangesh P. Zodape, Dr. Prashant M. Adkine
+Himalaya Publishing House.
+2013
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+International connferenc on Energy and Environmental Challenges (CE2C) – 2019 during 18-19th January,2019
+List of ongoing Ph.D. students:
+Almas Athar
+Phalguni Shembekar
+Jahnvi Fating
+Ankita Chandak
+Vandana Patel
+List of completed Ph.D. students
+Sl. No.
+Name
+Thesis Title
+Year of completion 1.
+Dr. Doyel M. Bhattacharya
+Study of thermodynamic, transport and acoustic properties of some pharmaceutical compounds in aqueous solutions at different temperatures 2018 2.
+Dr. Dinesh V. Kawadkar
+Thermophysical properties of Ionic liquids in aqueous solutions at different temperatures 2019 3.
+Dr. Vandana S. Shende
+Solvation behaviour of some clinically important compounds at different temperatures 2022 4.
+Dr. Saroj P. Sahare
+Synthesis, characterization and applications of modified ferrites 2023 5.
+Dr. Anuja Jain
+Unveiling the molecular interactions of ionic liquids in aqueous solutions through volumetric and compressibility approach 2025
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Departmental exam coridinator (DEC)
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+DEC 2020-2023 2
+Member of B. Tech. admission
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+Member 2014-2016 3
+Stock verification officer
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+Member 2013-20142016-20172019-2020 4
+Convoacation committe member
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+Member 2013,2022-2024 5
+Departmental Library cordinator
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+Cordinator 2012 -till date 6
+Departmental upsatire lab incharge
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+Cordinator 2023-till date 7
+Physical chemistry lab incharge
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+Cordinator 2012-till date 8
+Member of M.Sc. admission
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+Member 2025-2026 9
+T & P Faculty coordinator
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+Coordinator 2025-2026 10
+T & P  Advisor
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+T & P Advisor 2026-2027
+Sr. No.
+Awards 1
+“Professor Shantilal Oswal Young Scientist Award – 2021” by the Indian Thermodynamics Society
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+S.No.
+Paper Citation 1
+Santilli’s Magnecules and Their Applications, Chandrashekhar P Pandhurnekar, Sangesh P Zodape, Am. J. Mod. Phys 6,2017, 64-77.
+2
+Santilli Magnegas and their Applications, Sangesh P Zodape, 2016-Sustainable Industrial Processing Summit 4, 2016, 195-206.
+3
+Comprehensive review on santilli s magnegas in hadronic chemistry, Sangesh P. Zodape, HADRONIC JOURNAL 38(3),2015, 307.
+4
+Novel chemical species of Santilli’s magnegas in hadronic chemistry1), Sangesh P. Zodape, AIP Conference Proceedings 1648(510022),2015, 1-5.
+5
+The magnehydrogen in hydronic chemistry, Anil A. Bhalekar, Sangesh P. Zodape, HADRONIC JOURNAL 36(5),2013,565-592.
+6
+The magnehydrogen in hadronic chemistry, Sangesh P. Zodape, Anil A. Bhalekar, AIP Conference Proceedings 1558(648),2013,648-651.

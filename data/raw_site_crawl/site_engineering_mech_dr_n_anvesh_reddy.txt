@@ -1,0 +1,100 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-n-anvesh-reddy/
+TITLE: Dr. N Anvesh Reddy
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. N Anvesh Reddy
+Brief Bio
+Dr. Anvesh Reddy Nandyala is an Assistant Professor in the Department of Mechanical Engineering at Visvesvaraya National Institute of Technology (VNIT), Nagpur, Maharashtra, India. Dr. Nandyala earned his Ph.D. in Mechanical Engineering from IIT Delhi in 2020, following his M.Tech from IIT Guwahati in 2012 and B.E. from Kakatiya University, Warangal in 2010. His research focuses on structural health monitoring, ultrasonic-guided waves, smart structures, and dynamics. Dr. Nandyala worked as an Adhoc Assistant Professor at NIT Andhra Pradesh from June 2021 to June 2022 and joined VNIT Nagpur in June 2022. He received an Early-Doctoral Fellowship from IIT Delhi and fellowships for his Ph.D. and M.Tech from the Ministry of Human Resource Development, India. Dr. Nandyala's notable publications include research on damage severity assessment in composite structures and the behavior of Lamb waves in composites.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2020
+Machine Design
+IIT Delhi 2
+M.Tech 2012
+Machine Design
+IIT Guwahati 3
+B.Tech 2010
+Mechanical Engineering
+Kakatiya University
+Contact
+Phone:
+Email:
+Address:
+0712-2802315 anveshnreddy@mec.vnit.ac.in 101, New Academic Building, VNIT Nagpur  440010
+Research Interest
+Structural Health Monitoring, Wave propagation, Smart Materials, Structural Dynamics
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Investigation of flow induced vibrations in deep sea mining pipes
+TIH IIT GUWAHATI
+PI 2025 20 2
+Design and development of centirfugal pump for dense slurry transportation of minerals and ores
+Ministry of mines
+Co-PI 2025 31
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title
+Sr. No.
+Responsibility
+Institute
+Role
+Year
+Sr. No.
+Awards 1
+Early-Doctoral Fellowship, IIT Delhi (Oct 2020 – Jan 2021) 2
+Ph.D. Fellowship, Ministry of Human Resource Development, India (Jan 2013 – Dec 2017) 3
+M.Tech Fellowship, Ministry of Human Resource Development, India (July 2010 – June 2012)
+S.No.
+Publication 1
+Nandyala, A.R., Darpe, A.K., and Singh, S.P. (2022). Damage severity assessment in composite structures using multi-frequency lamb waves. Structural Health Monitoring, 21(6), 2834-2850 2
+Nandyala, A.R., Darpe, A.K., and Singh, S.P. (2020). Damage localization in cross-ply laminated composite plates under varying temperature conditions using Lamb waves. Measurement Science and Technology, 31(6), 064003.
+3
+Nandyala, A.R., Darpe, A.K., and Singh, S.P. (2019). Effective stiffness matrix method for predicting the dispersion curves in general anisotropic composites. Archive of Applied Mechanics, 89, 1923-1938.
+4
+Nandyala, A.R., Darpe, A.K., Singh, S.P. (2016). Lamb wave behavior in composite Lamina. 17th ISME conference on Advances in Mechanical Engineering, Oct 3-7, Delhi, India.
+5
+Dwivedy, S.K., Reddy, A.K., and Garg, A. (2015). Dynamic analysis of parametrically excited piezoelectric bimorph beam for energy harvesting. In Vibration Engineering and Technology of Machinery: Proceedings of VETOMAC X 2014, University of Manchester, UK, Sep 9-11, 2014, pp. 363-371. Springer International Publishing.
+S.No.
+Publication 1
+Nandyala, A.R., Darpe, A.K., and Singh, S.P. (2022). Damage severity assessment in composite structures using multi-frequency lamb waves. Structural Health Monitoring, 21(6), 2834-2850 2
+Nandyala, A.R., Darpe, A.K., and Singh, S.P. (2020). Damage localization in cross-ply laminated composite plates under varying temperature conditions using Lamb waves. Measurement Science and Technology, 31(6), 064003.
+3
+Nandyala, A.R., Darpe, A.K., and Singh, S.P. (2019). Effective stiffness matrix method for predicting the dispersion curves in general anisotropic composites. Archive of Applied Mechanics, 89, 1923-1938.
+4
+Nandyala, A.R., Darpe, A.K., Singh, S.P. (2016). Lamb wave behavior in composite Lamina. 17th ISME conference on Advances in Mechanical Engineering, Oct 3-7, Delhi, India.
+5
+Dwivedy, S.K., Reddy, A.K., and Garg, A. (2015). Dynamic analysis of parametrically excited piezoelectric bimorph beam for energy harvesting. In Vibration Engineering and Technology of Machinery: Proceedings of VETOMAC X 2014, University of Manchester, UK, Sep 9-11, 2014, pp. 363-371. Springer International Publishing.

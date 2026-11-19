@@ -1,0 +1,121 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-v-m-nistane/
+TITLE: Dr. V. M. Nistane
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. V. M. Nistane
+Brief Bio
+Associate Professor in the Department of Mechanical Engineering, with a strong commitment to excellence in teaching, research, and academic mentorship. Over the course of my career, I have developed extensive experience in delivering undergraduate and postgraduate courses, guiding students in both theoretical understanding and practical applications of mechanical engineering concepts.
+I have made significant contributions to the research community, with approximately 25 publications in reputed national and international journals as well as conference proceedings. My research work spans diverse areas within mechanical engineering, emphasizing innovation, interdisciplinary approaches, and real-world applications. Beyond teaching and research, I am committed to academic development activities, including curriculum design, student mentoring, and participation in institutional responsibilities.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D
+Nonlinear Dynamics and Soft Computing Techniques
+Indian Institute of Technology, Roorkee 2
+M.Tech
+Design Engineering
+Indian Institute of Technology, Bombay 3
+B.E.
+Mechanical Engineering
+Government College of Engineering, Karad (M.S)
+Contact
+Phone:
+Email:
+Address:
+(+91)7122801442 vmnistane@mech.vnit.ac.in
+Department of Mechanical Engineering,VNIT,Nagpur
+Mobile
+(+91)9422541498 vmnistane@gmail.com
+Cabin: M-02, Mechanical Engineering Department
+Research Interest
+Machine Learning and Soft Computing Methods, Nonlinear Dynamics and Vibrations analysis of rotating structure, Fatigue-LCF and HCF, Fracture Mechanics, Fault Diagnosis and Prognosis of high speed machinery,
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Ergonomic Improvement of the Seating Arrangements for Loader, Layer and Driver in Artillery gun: ATAGS
+ARMREB, DRDO
+Co-PI 2025 82 Lakhs
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1
+Organized STTP on “Fundamentals of FEA and its applications using ANSYS” during 24th to 26th May, 2013 2
+Faculty development / Interactive program on “Online Teaching-Learning process with hands-on” 3 3rd International Conference on Mathematical, Engineering and Management Science during 27th-28th January 2024
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Member of Doctoral Research Committee 2
+Member of Departmental Administrative 3
+In-charge of Machine Design Laboratory 4
+In-Charge of Time-Table 5
+In-Charge of Computer Laboratory 6
+Chairman Fee remission committee
+Sr. No.
+Awards 1
+ISTE, New Delhi and JSFC, Vadodara National award for Best Dissertation of M. Tech (Design Engineering) at Mechanical Engineering Department, IIT, Bombay
+S.No.
+Paper Citation 1
+Ganguwar, S., V. M. Nistane. “Study on comparison between three points bending and four point bending test condition for functionally graded material beam with crack.” Strength, Fracture and Complexity 18, no. 1 (2025): 18-31.
+2
+Ganguwar, S., V. M. Nistane. “Numerical Study on the Determination of Crack Initiation Angle, Stress Field and Stress Triaxiality at Crack Tip in a Cracked Beam of Functionally Graded Material.” Journal of Failure Analysis and Prevention (2024): 1-16.
+3
+Ganguwar, S., V. M. Nistane. “Evaluation of fracture behavior of functionally graded material using SEN specimen.” Journal of the Brazilian Society of Mechanical Sciences and Engineering 46, no. 1 (2024): 16.
+4
+Mathur, Deepali, Sanjeev Saxena, V. M. Nistane. “Predicting critical SZW and JSZWc for 304LN stainless steel using numerical technique and validation with experimental results.” Journal of the Brazilian Society of Mechanical Sciences and Engineering 44.11 (2022): 567.
+5
+Mathur, Deepali, Sanjeev Saxena,  V. M. Nistane. “FEA based prediction of crack growth behavior of 304LN stainless steel cracked and healthy piping elbows.” Journal of the Brazilian Society of Mechanical Sciences and Engineering 45, no. 1 (2023): 43.
+6
+Nistane, Vinod. “Optimum prediction model of remaining useful life for rolling element bearing based on integrating optimize health indicator (OHI) and machine learning algorithm.” World Journal of Engineering 21, no. 1 (2024): 170-185.
+7
+Nistane, Vinod M. “Comparative performance of prognostics for remaining useful life of bearing.” Noise & Vibration Worldwide 51, no. 11 (2020): 208-222.
+8
+Nistane VM, Harsha SP, Combination of envelope spectra and generative topographic mapping to diagnose bearing fault and evaluate degradation of bearing. Noise & Vibration Worldwide. 2019 May;50(5):143-56 9
+Nistane VM , Wavelet-based features for prognosis of degradation in rolling element bearing with non-linear autoregressive neural network. Australian Journal of Mechanical Engineering. 2019 Jun 23:1-5.
+10
+Nistane VM, Harsha SP, Performance evaluation of bearing degradation based on stationary wavelet decomposition and extra trees regression. World Journal of Engineering. 2018 Oct 1;15(5):646-58 11
+Nistane VM, Harsha SP, Prognosis of degradation progress of ball bearings using supervised machine learning. Proceedings of the Institution of Mechanical Engineers, Part K: Journal of Multi-body Dynamics. 2018 Jun;232(2):183-98.
+12
+Nistane VM, Harsha SP , Assessment of bearing degradation by using intrinsic mode functions and k-medoids clustering. Proceedings of the Institution of Mechanical Engineers, Part K: Journal of Multi-body Dynamics. 018:1464419318776742.
+13
+Nistane VM, Harsha SP, Failure evaluation of ball bearing for prognostics. Procedia Technology. 2016 Jan 1;23:179-86.
+14
+V M Nistane, Srinivas Viswanath V, Inventory control by toyota production System kanban methodology—a case Study int. J. Mech. Eng. & rob. Res. Vol. 2, no. 1, january 2013 15
+Srinivas Viswanath V , R Ramanujam , VM Nistane, An Algorithm Based Simulation Modeling For Control of Production Systems. International Journal of Modern Engineering Research (IJMER), Vol.2, Issue.6, Nov-Dec. 2012 pp-4211-4214 16
+Nistane VM,  Harsha SP, Bearing Degradation Performance Assessment based on concept of Advanced Fuzzy Entropy, 1st International and 4th National Conference on Reliability and Safety Engineering (INCRS-2018), PDPM IIITDM, Jabalpur (India), Paper No. INCRS: 2018- HM5, Feb. 26-28, 2018 17
+Nistane VM, Harsha SP, Damage Inception and Failure Evolution of Ball Bearings for Prognostics. National Tribology conference (NTC-2016), IIT BHU, Varanasi (India), Paper No. NTC: 2016-578, Dec. 08-10, 2016.
+18
+V.M.Nistane, Linearization of stress on classification lines for Pressure Vessel” International Scientific Academy of Engineering and Technology, Pattaya, Thailand, conference proceedings of 2013
+S.No.
+Paper Citation

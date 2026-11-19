@@ -1,0 +1,64 @@
+SOURCE_URL: https://vnit.ac.in/engineering/ece/faculty/
+TITLE: Faculty
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Faculties at ELECTRONICS & COMMUNICATION ENGINEERING department
+Dr. Ashwin Kothari
+Professor & Head of the Department
+Communication, Signal processing, Rough Sets, Cognitive Radio, Reconfigurable Antennas, COMMBEDDED Systems: Hybridization of Communication and Embedded Systems.
+PROFESSOR
+Dr. A. S. Gandhi
+Wireless communication, RF circuits and systems, Computer networks
+Dr. K. M. Bhurchandi
+Embedded Systems, Image Processing
+Dr. Ashwin Kothari
+Communication, Signal processing, Rough Sets, Cognitive Radio, Reconfigurable Antennas, COMMBEDDED Systems: Hybridization of Communication and Embedded Systems.
+ASSOCIATE PROFESSOR
+Dr. Vishal R. Satpute
+Image Processing, Computer Vision, Signal Processing, Cryptography, Bio-metrics.
+Dr. Prabhat Kumar Sharma 5G, 6G Wireless communication systems, Quantum Communications. Reconfigurable Surfaces and Antennas,
+Molecular and Biological Communications, VLSI for Communications, Signal Processing,
+Machine Learning and Artificial Intelligence, Game Theory, Biomedical Systems
+Dr. Deep Gupta
+Signal & Image Processing, Medical Image Analysis, Machine Learning, Computer Vision, AI in Healthcare, Food Image Analysis
+Dr. Saugata Sinha
+Image Processing, Pattern Recognition, Medical Imaging. Signal Processing.
+Dr. Pradnya H. Ghare
+Body Area Networks, Wireless Sensors Network, Analog Circuit Design
+Dr. Joydeep  Sengupta
+Communication & Microwave
+Dr. Ankit A.  Bhurane
+Signal, Image and Video Processing, Communications, Embedded Systems
+ASSISTANT PROFESSOR
+Dr. Neeraj Rao
+Non Destructive Testing and Evaluation using EM waves
+Characterization of unknown dielectric material
+Design Analysis of Antennas
+Designing of Artificially designed Substrates like Metamaterial and Electromagnetic Band Gap Structures.
+Dr. Anamika Singh
+Silicon Photonics Integrated Circuits,
+Artificial Intelligence, Deep Learning, Machine Learning,
+Optical and Wireless communications,  Biomedical engineering,
+VLSI for AI and Machine learning,
+Reconfigurable Intelligent Surfaces, THz Antenna
+Dr. Punitkumar Bhavsar
+Human-in-the-loop cyber physical systems, Artificial Intelligence, Deep Learning, Machine Learning,
+Signal Processing,
+Dr. K. Surender
+Control and Instrumentation
+Dr. Arvind Kumar
+Antennas, EMI/EMC Measurement & Testing,  Microwave/Millimeter wave Integrated Circuits.
+Dr. Vipin Kamble
+Signal, Image and Video Processing
+Dr. Amit Agarwal
+Wireless Communication, Optical Wireless Communication, Performance analysis of amplitude constrained channel, Energy Efficient transceivers design, Quantum Communication, Next generation of wireless systems.
+Dr. Praveen Pawar
+Wireless Communication 5G/6G Technologies
+Internet of Things (IoT)
+Data Analytics
+AI/ML
+Recently Retired Professor
+Dr. A. G. Keskar
+Recently Retired Professor
+Fuzzy Logic, Image Processing, Embedded Systems.

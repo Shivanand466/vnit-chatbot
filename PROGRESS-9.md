@@ -6,7 +6,7 @@ Read this first after a restart; carry on from the first step not marked DONE or
 |---|---|---|
 | 0 | DONE | tag `before-runbook-9`, backups in `~/vnit-chatbot-backups/2026-11-20-before-runbook-9/`, baseline in REPORT9.md |
 | 1 | DONE | 886 pages imported as data/raw/site_*.txt; checks unchanged |
-| 2 | | |
+| 2 | DONE | bigger index measured, not better: backup index restored, pages kept in data/raw_site_crawl/ (§29) |
 | 3 | | |
 | 4 | | |
 | 5 | | |
@@ -22,6 +22,9 @@ Read this first after a restart; carry on from the first step not marked DONE or
 
 - Step 1: the boilerplate (40%-of-pages) filter was not applied: on the new files the repeated lines are profile headings, 0-7% of words.
 - Step 1: `crawl.should_skip` applied as written; it skipped none of the new pages.
+- Step 2: the near-duplicate rule (option b) was applied at import time rather than in query.py: same effect (the first crawl's copy wins), no change to the live search path.
+- Step 2: none of the three tried versions met the keep rule, so the runbook's last resort was taken: restore the backup, move site_*.txt to data/raw_site_crawl/. Steps 3-7 work on the original index.
+- Step 2: the corrective-step change (look at 6 pages, keep the best 2) was reverted with the step; it was only measured together with the bigger index.
 
 ## Baseline (no key)
 

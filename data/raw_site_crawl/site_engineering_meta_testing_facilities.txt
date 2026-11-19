@@ -1,0 +1,82 @@
+SOURCE_URL: https://vnit.ac.in/engineering/meta/testing-facilities/
+TITLE: Testing Facilities
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Contact Details for Testing Facilities
+Testing Incharge:
+Dr. Amrut V. Agasti (Mob. No. +91-9960745975)
+Mechanical Testing Contact:
+Mr. Umesh Shende (Mob. No. +91-9503579646)
+Structural Characterization:
+Mr. Rajik Shah (Mob. No. +91- 8600063783)
+Chemical Analysis:
+Mr. Gangadhar Navnage (Mob. No. +91-8999060017)
+Thermal Characterization:
+Miss. Apurwa Bawangade (Mob. No. +91-8390834447)
+Physical Metallurgy:
+Mr. Priyanshu Wasnik (Mob. No. +91-9325791568)
+Report Collection Contact:
+Mr. Nikhil Ganorkar (Mob. No. +91-7387932380) rate list
+Sr.No.
+Name of Testing
+Rate (Taxes Extra) (₹) per sample 1. Testing Charges for Industries 1
+Chemical Analysis of Metal 1000/- per element 2
+Chemical Analysis of Oxides 1000/- per element 3
+Only Carbon & Sulphur 2000/- per sample 4
+Hardness 750/-( Brinell, Rockwell) 1500/-( Vickers Microhardness) 5
+UTS+Elongation+YS(upto 20mm φ) 1000/- 6
+UTS+Elongation+YS(above 20mm φ) 2000/- 7
+Bend Test 750/- 8
+Wear Test 3000/- (Wear Test) 9000/- (Dry Sand Abrasion Test – A type) 9
+Mass of Zinc Coating 600/- 10
+Anodic Coating Thickness 500/- 11
+Water Absorption Test 500/- 12
+Proximate Analysis of Coal 1500/- 13
+Sieve Analysis 1000/- 14
+Microstructure 600/- 15
+Grain size of prepared sample 500/- 16
+Elemental Analysis by AAS 1500/- per element 17
+Impact Test 750/- 18
+SEM Analysis/ EDAX Analysis 4500/- 19
+FE-SEM Analysis/ EDAX Analysis 6000/- 20
+FE-SEM Analysis/ EBSD Analysis 6000/- per hour 21
+XRD Analysis 4000/- 22
+TGA 3000/- 23
+DSC 3500/- 24
+FTIR Analysis 2500/- 25
+Dimensions 500/- 26
+Density 500/- 27
+EDM wire cutting 500/- per hour
+Note:- Sample Preparation Charges extra, as applicable
+Sr.No.
+Name of Testing
+Rate (Taxes Extra) (₹) per sample 2. Testing Charges for Research Work(PG/Ph.D. Students of VNIT) 1
+SEM/EDS(without coating) 500/-(EDS 100/- per spot extra) 2
+SEM/EDS(with coating) 800/-(EDS 100/- per spot extra) 3
+FESEM/EDS(without coating) 800/-(EDS 200/- per spot extra) 4
+FESEM/EDS(with coating) 1000/-(EDS 200/- per spot extra) 5
+FESEM/EBSD Analysis 800/- per hour 6
+XRD 500/- 7
+TGA 1000/- 8
+FTIR 400/- 9
+DSC 500/- 10
+Tensile 200/- 11
+Elemental Analysis by AAS 100/- per element( Min.500/-) 12
+Chemical Analysis 100/- per element( Min.500/-) 13
+Hardness 250/- (Rockwell ,Brinell) 400/- (Vickers Microhardness) 14
+Sputtering(Coating) 300/- 3. Testing Charges for Research Work(Other Institutes) 1
+SEM/EDS(without coating) 1000/- (EDS 200/-per spot extra) 2
+SEM/EDS(with coating) 1500/- (EDS 200/-per spot extra) 3
+FESEM/EDS(without coating) 1500/- (EDS 200/-per spot extra) 4
+FESEM/EDS(with coating) 2000/- (EDS 200/-per spot extra) 5
+FESEM/EBSD Analysis 1500/- per hour 6
+XRD 1000/- 7
+TGA 1200/- 8
+FTIR 500/- 9
+DSC 1000/- 10
+Tensile 300/- 11
+Elemental Analysis by AAS 200/- per element( Min.500/-) 12
+Chemical Analysis 150/- per element( Min.500/-) 13
+Hardness 350/-(Rockwell ,Brinell) 600/- (Vickers Microhardness) 14
+Sputtering(Coating) 500/-

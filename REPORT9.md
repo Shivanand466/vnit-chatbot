@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|
 | 0 (baseline) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
 | 1 (files added, index not rebuilt) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
+| 2 (bigger index measured, not kept; backup restored) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
 
 ## Step 0. Baseline, tag and backups
 
@@ -138,3 +139,25 @@ $ env -u GENAI_API_KEY $PY import_site_crawl.py
 - test_agentic 54/54; chunk_ranks, fact_ranks, evaluate output identical to the baseline (diffed).
 
 **Done when:** import runs cleanly, every file has the header, counts recorded, tests pass, no-key checks unchanged. **Met.**
+
+## Step 2. Rebuild the index and measure: keep it only if better
+
+Commands (from `pipeline/`, no key): `chunk.py && build_index.py && build_facts.py` in the background, logging to `../_trash/rebuild.log` (17-32 minutes per build), then the four no-key checks, diffed per question against Step 0's lists.
+
+| Version | Chunks | test_agentic | chunk_ranks top 7 | top 3 | fact_ranks | evaluate |
+|---|---|---|---|---|---|---|
+| Baseline (81 pages + documents) | 8,162 | 54/54 | 69/77 | 64/77 | 15/18 | 16/19 |
+| First import, as written (886 pages) | 32,261 | (not measured) | | | | |
+| Attachment pages left out (868 pages) | 17,922 | 52/54 | 69/77 | 64/77 | 15/18 | 17/19 |
+| Plus: sub-site names stripped from titles, near-duplicates left out, corrective step looks at 6 pages (814 pages) | 17,212 | 50/54 | 68/77 | 63/77 | 14/18 | 16/19 |
+
+Where the search misses ranked on the bigger index (attachment pages left out): holiday_holi 8 → 9, phd_tuition_full_time 10 → 10, companies_btech_2425, gs_eligibility, higher_sem_classes_start and msc_tuition not in the top 12 before or after. None moved into the top 7.
+
+What went wrong, in short:
+- The first import let through 92 image "attachment" pages (one made 9,555 chunks); fixed in the importer.
+- With them gone, nothing new reached the AI, and the search-quality gate lost the T&P page holding the 2025-26 placement figures (2 unit tests failed): dozens of new page titles ending in "Training & Placement Department" outranked it by title.
+- Stripping those names from titles, dropping near-duplicate pages and widening the gate's look-up made it worse (68/77, 4 unit tests failing): bare titles such as "Placements" (Chemical) and "About Us" (T&P) then matched institute-wide questions.
+
+**Decision:** not kept (the rule was "more questions reach the AI, at most one baseline hit lost"; no version gained one). The backup index is restored, byte for byte; the checks after restoring are identical to the baseline. The 814 imported pages are kept in `data/raw_site_crawl/` (not read by `chunk.py`), and the importer now writes there. The respond.py change tried in this step was reverted. Details and the reasoning: EXPERIMENTS-LOG §29.
+
+**Done when:** decision and numbers in §29; the index on disk is the kept one (the backup). **Met.** Steps 3-7 run on the original index.

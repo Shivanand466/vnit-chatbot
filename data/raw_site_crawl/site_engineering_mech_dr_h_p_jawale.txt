@@ -1,0 +1,181 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-h-p-jawale/
+TITLE: Dr. H.P. Jawale
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. H.P. Jawale
+Brief Bio
+Dr. Hemant P. Jawale is an Associate Professor of Mechanical Engineering specializing in Parallel Manipulators, Planar Mechanism and Manipulators for robotic applications. The areas of interest for teaching and research include Design Engineering, Product Design and Industrial Product Development, Kinematics of Machines, and Mechanical Measurements. He earned his Graduate degree in Mechanical Engineering from Amravati University. After serving for a year in Mahindra & Mahindra Tractors Limited, Nagpur as a Design Engineer, he pursued his post-graduation in Machines and Mechanisms Design from VRCE (Now VNIT Nagpur) with a special interest in Engineering Design. He has chosen Teaching as a profession and has a total teaching experience of more than 25 years. He has been serving at the Mechanical Engineering Department VNIT since 2008. He has adapted chapters in the key textbook "Theory and Design for Mechanical Measurements”, 7th Edition, by Richard S. Figliola to cater to the needs of Indian readers.  Under his guidance, 2  students completed their Ph.D. degree. He co-guided 2 Ph.D. students and 2 Ph.D. students pursuing their doctoral research under his supervision. Additionally, he has mentored over 25 master's students and supported the projects of more than 30 groups of undergraduate students. He is looking after the Mechanical Measurements Laboratory as lab Incharge.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+PhD 2012
+Robotics Parallel Manipulators, Planar Mechanisms
+VNIT, Nagpur 2
+M. Tech 2002
+Machines and Mehanisms Design
+VRCE, Nagpur 3
+B.E.
+1997
+Mechanical Engineering
+Amravati University
+Contact
+Phone:
+Email:
+Address:
+0712-280-1155(office) hpjawale@mec.vnit.ac.in
+Associate Professor, M-0-10, Mechanical Measurements Lab, Department of Mechanical Engineering, VNIT, Nagpur hpjawale@rediffmail.com
+Research Interest
+Machines and Mechanism Design
+Robotics, Parallel Manipulators, Product Design
+Measurement and sensors
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR) 1
+Consultancy service for Design and Detailing of Ore handling and dispatch system at Chikla mines, Dist. Bhandara
+Manganese Ore India Limited(MOIL), Nagpur
+Mechanical Design of Materail Handling system, and its automation 23/07/2020 to 22/01/2022 (Status -Incomplte) 24.78 Lakh
+Consultancy services for analysis of failure of Wagon Tippler side beams installed in coal handling plant of Stage – II
+NTPC, Mouda, and Dist. Nagpur
+Analusis of Bems for Failuare, and Modifcation in design
+January 2020-Dec, 2020 (Status-Completed) 0.236 Lakh
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Study on Error in Sigmoidal Function Generation of 4R mechanism, Book Title: Mechanical Design, Materials and Manufacturing, Ch-04
+Ankur Jaiswal and H. P. Jawale
+Nova Science Publishers, Inc. NY 11788-3619 USA
+ISBN: 978-1-53614-791-9 2019
+Finite Element Analysis of Three DoF Strain Gauge, Book Title: Mechanical Design, Materials and Manufacturing, Ch-01
+H. P. Jawale, Ankur Jaiswal and Atul Sane
+Nova Science Publishers, Inc. NY 11788-3619 USA
+ISBN: 978-1-53614-791-9 2019
+Design and Simulation of 3-DoF Strain Gauge Force Transducer, Book Title: Lecture Notes in Mechanical Engineering,
+Ankur Jaiswal, H.P. Jawale, Kshitij Shrivastava
+Springer, Singapore
+ISBN 978-981-15-1188-2 2020
+AHP Integrated TOPSIS Methodology for Selection of Non-Conventional Machining Process for Micro-Drilling., Book Title :Lecture Notes in Mechanical Engineering.
+Deosant P.V., Lande A.R., Vishwakarma A.G., Jawale H.P.
+Springer, Singapore.
+Print ISBN  978-981-16-1768-3, Online ISBN978-981-16-1769-0 2021
+Workspace Analysis of a 5-Axis Parallel Kinematic Machine Tool with 3-RRS Parallel Manipulator. , Book Title: Lecture Notes in Mechanical Engineering.
+Jain A., Jawale H.P.
+Springer, Singapore.
+Print ISBN  978-981-16-1768-3, Online ISBN978-981-16-1769-0 2021
+Workspace Analysis of a 5-Axis Parallel Kinematic Machine Tool., book titel: Lecture Notes in Mechanical Engineering
+Jain A., Jawale H..P.
+Springer, Singapore.
+Print ISBN  978-981-16-0549-9, Online ISBN 978-9 81-16-0550-5 2022
+Chapter 9. Pressure and Velocity Measurements Text Book Title Theory and Design forMechanical Measurements, Seventh Edition, Richard S. Figliola and Donald E. Beasley
+H. P. Jawale
+Wiley India Pvt. Ltd., 4436/7, Ansari Road, Daryaganj, New Delhi-110002
+Print Book ISBN: 978-93-5424-940-2, ISBN: 978-93-5424-970-9 (ebook)
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus 1
+Special Roller Follower for motion in plane parallel to cam plane 1574/MUM/2014 6th June, 2014
+Granted 2
+Four Wheel Drive and Steering Mechanism 1339/MUM/2014 11th April, 2014
+Granted 3
+Rotating Gear Shifter Mechanism 3248/MUM/2013 15th October 2013
+Granted 4
+Gas Gun for High velocity Impact 2244/MUM/2015 24th  June, 2015
+Granted 5
+Innovative Pencil Design –I 201621018925
+In examination phase 6
+Innovative Pencil Design –II 201621034731
+In examination phase 7
+Multipurpose trolley 201621014905
+In examination phase
+Sr. No.
+Title 1
+TEQIP-II Funded STTP on “Advances in Robotics”, Conducted during 28-31 March 2013, Total of 55 Participants 2
+TEQIP-II Funded STTP on “Product Design”, Conducted during 2-3 April 2016, Total of 59 Participants
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Professor In-charge, Guest House
+VNIT
+Rutine as well as incidental work related to upkeep an maintainancce of servics at Guest House
+Feb 2024 onwards
+Coordinator M. Tech (CAD/CAM)
+Mech Engg Dept, VNIT session 2022-2025
+Vigilance Committee Member
+VNIT session 2021-2023
+Warden Hostel Block -5 (PG Hostel)
+VNIT 2013-17. (4 years)
+PG Admissions Core Committee Member-2014
+VNIT 2014
+Convocation Committee Member-
+VNIT 2012, 2013, 2014, 2017.
+Departmental Examination Coordinator
+Mech Engg Dept, VNIT 2011-12
+Coordinator, Ph. D Entrance process, June 2018 and January 2019
+Mech Engg Dept, VNIT
+Departmental Coordinator- TEQIP-II Activities 2013-16. (3years)
+Mech Engg Dept, VNIT 2012-15. (3years)
+Faculty In charge – SAE Collegiate Club
+Mech Engg Dept, VNIT 2008-2012 (4 Years),
+Lab In charge- Robotics and FMS
+Mech Engg Dept, VNIT 2012-till date (>12 Years)
+Mechanical Measurement-
+Mech Engg Dept, VNIT
+Lab In charge- Robotics and FMS 2008-2012 (4 Years),
+Mechanical Measurement- 2012-till date (>12 Years)
+Sr. No.
+Awards 1
+Research paper won Best Paper award in conference presentation- “Comparative study of three-DoF strain gauge force transducer using FEM” International Technology Congress (Techno congress), Ramee Grand, Pune, 28-29 Dec., 2017, Paper No. 6.
+2
+Supra SAE Design challenge 2012 won award for “Least cost design” and second place, worth cash prize of 20,000/- in 2012.
+S.No.
+Paper Citation 1. H. P. Jawale, R.G. Choudhari, H.T. Thorat, 2024, Study on transmission angle and singularity in 5R planar mechanism, Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 238, 5, pp 1340-1354. (SCI) 2. Anshul Jain, Hemant Jawale, 2024, Comparison of 3-[PP] SY Spatial Parallel Manipulators based on Link Tolerances and Parasitic Motions, Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 238/7, pp 2688-2704. (SCI) 3. Anshul Jain, Hemant Jawale, 2024, Investigation of parasitic motion in 3-RRS parallel manipulator, Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, pp 09544062231224659. (SCI) 4. Rupesh Tatte, Hemant Thorat, Hemant Jawale, 2024, Optimization of higher-order S-curve motion profile using unitization method aiming to reduce the vibration of a lightly damped system, Journal of the Brazilian Society of Mechanical Sciences and Engineering, 46/4, pp. 183 (SCI) 5.Tatte, R., Jawale, H., & Thorat, H., (2024). Characterization of Forth order S-curve trajectory using Unitization Method, International Journal of Intelligent Systems and applications in Engineering, 12(3), pp. 2141-2149 6. Ankur Jaiswal, H. P. Jawale, 2024, Estimation of error in four-bar mechanism under dimensional deviations, International Journal on Interactive Design and Manufacturing (IJIDeM), 18/1, pp 541-554. (SCI) 7. H. P. Jawale, R. G. Choudhari, and H.T. Thorat, “Study on transmission angle and singularity in 5R planar mechanism”, Proc IMechE Part C: J Mechanical Engineering Science 1–15 IMechE 2023, sagepub.com/journals-permissions DOI: 10.1177/09544062231181829 journals.sagepub.com/home/pic( Available online ) 8. Anshul Jain, H. P Jawale, 2022, “Study of the effects of link tolerances to estimate mechanical errors in 3-RRS parallel manipulator” Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 236-3, pp 1598-1615 9. H. P. Jawale, S Jain, 2022, “Investigating workspace and positional accuracy in 3 Degrees of Freedom planar manipulator under the link tolerances”, Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, 236-13, pp- 7179-7196 10.Ankur Jiswal, H. P. Jawale, (2022) Influence of tolerances on error estimation in P3R and 4R planar mechanisms, Journal of the Brazilian Society of Mechanical Sciences and Engineering (2022) 44:62 https://doi.org/10.1007/s40430-021-03346-1 11.H. P. Jawale and Ankur Jaiswal, “Investigation of mechanical error in four-bar mechanism under the effects of link tolerance, Journal of the Brazilian Society of Mechanical Sciences and Engineering, Springer,  Volume 40, 8, pp 383, Aug. 2018(SCIE indexed, Impact factor- 12. Ankur Jaiswal., H. P. Jawale., “Comparative study of four-bar hyperbolic function generation mechanism with four and five accuracy points”, Archive of Applied Mechanics, December 2017, Volume 87, Issue 12, pp 2037–2054SCI Listed, Impact Factor- 2.1, Frequency- Monthly, Springer Berlin Heidelberg ISSN: 0939-1533, https://link.springer.com/article/10.1007/s00419-017-1310-5 13.Jawale,  H. P., Thorat, H. T., 2014, “Comparison of Open Chain and Closed Chain Planar Two Degree of Freedom Manipulator for Positional Error”, ASME Journal of Mechanisms and Robotics, 6, pp. 024501-1-7. SCI Listed, Impact Factor- 1.1, Frequency- Quarterly, www.asme.org,  ISSN: 1942-4302 14. Jawale, H. P., Thorat, H. T., 2013, “Positional Error Analysis in Serial Link Manipulator under Joint Clearances and Backlash”, ASME Journal of Mechanisms and Robotics, 5, pp. 021003-1-7.7SCI Listed, Impact Factor- 1.1, Frequency- Quarterly, www.asme.org, ISSN: 1942-4302 15.Jawale, H. P., Thorat, H. T., 2012, “Investigation of Positional Error in Two Degree of Freedom Mechanism with Joint Clearances”, ASME Journal of Mechanisms and Robotics, 4, pp. 011002-1-7.SCI Listed, Impact Factor- 1.1, Frequency- Quarterly, www.asme.org, ISSN: 1942-4302 16. H. P. Jawale, A. Jaiswal, K.N. Bhasme, 2019, “Design and analysis of three-axis cantilever type force sensor”, World Journal of Engineering 16 (4), 497-508. (Scopus Journal).
+17. R.G. Choudhari, H.P. Jawale, H.T. Thorat “Kinematic Analysis of Two Degree of  Freedom Closed Chain Mechanism”, International Journal of Engineering & Technology Research, Volume 5, Issue 1, January-February, 2017, pp. 15-25 ISSN Online: 2347-4904, Print: 2347-8292, DOA : 15022017 18. R.G. Choudhari, H.P. Jawale, H.T. Thorat, 	“ Kinematic analysis of three degree of freedom closed chain Mechanism”, International Journal of Scientific & Engineering Research, Volume 8, Issue 2, February-2017, ISSN 2229-5518 (Non-Scopus Indexed)
+S.No.
+Paper Citation 1.        Rupesh Tatte, Hemant Thorat, Hemant Jawale ,Reduction of positional error in a path of a 2 DOF serial planar manipulator (Year 2020) IOP Conf. Series: Materials Science and Engineering (ICRADM 2020) 2. U Harikrishnan, Ankur Jaiswal and H. P Jawale, “Position error analysis of P3R manipulator under the effect of joint clearance” 3rd IEEE Bombay Section Signature Conference (IBSSC-2021) 18-20 Nov. 2021, ABV-IIITM Gwalior.
+3. Darren D’Souza Ankur Jaiswal and H. P Jawale “Estimation of Positional Error in Five-bar Manipulator under the Influence of Tolerances” International Conference on Machines and Mechanisms (iNaCoMM 2021), 9-11 Dec. 2021, IIITDM Jabalpur. (Accepted, Paper ID 28).
+4. Ankur Jaiswal, H. P. Jawale, “Synthesis and Optimization of Four bar mechanism with Six Design Parameters” International Conference on Design, Materials & Manufacture (IcDeM), National Institute of Technology Karnataka, Surathkal, 29-31 Jan. 2018, Paper No. 86.
+5. Akashkumar Singh Rajput, H.P. Jawale “Position analysis of five bar mechanism under force”, Proceedings of International conference on mathematical modeling and scientific computing, (icmmsc-18) IIT Indore, 2018, Paper Id-215, July 19-21, 2018, pp-39 6. Aditya Rathore , H.P. Jawale “Kinematic Analysis of Five Bar Mechanism under Tolerance”, Proceedings of International conference on mathematical modelling and scientific computing, (icmmsc-18) IIT Indore, 2018, Paper Id-209, July 19-21, 2018, pp-55 7. H. P. Jawale, Ankur Jaiswal, Atul Sane, “Comparative study of three-DoF strain gauge force transducer using FEM” International Technology Congress (Techno congress), Ramee Grand, Pune, 28-29 Dec., 2017, Paper No. 6. Won Best Paper Award.
+8. Ankur Jaiswal, H. P. Jawale, “Investigation of structural error in 4R mechanism for sigmoidal function generation”, International Technology Congress (Techno congress), Ramee Grand, Pune, 28-29 Dec., 2017, Paper No. 69.
+9. Ankur Jaiswal, H. P. Jawale, “Comparative study of structural error in four bar mechanism for hyperbolic functions” IEEE International Conference on Advances in Mechanical, Industrial, Automation and Management Systems (AMIAMS-2017), MNNIT Allahabad, 3-5 Feb., 2017, Paper No. 31.
+10. Ankur Jaiswal, H. P. Jawale and Kshitij Shrivastava, “Design and Simulation of 3-DoF Strain Gauge Force Transducer using Finite Element Analysis” International Conference on Theoretical, Applied, Computational and Experimental Mechanics (ICTACEM), IIT Kharagpur, 28-30 Dec. 2017, Paper No. 331.
+11. H. P. Jawale, M. S. Deshpande, H.T. Thorat, “Development, calibration and testing of three axis force sensor” 7th International Conference on Mechanical and Aerospace Engineering (ICMAE), IEEE, London, United Kingdom, 18-20 July, 2016.
+12. Ankur Jaiswal, H. P. Jawale, “Comparative Study of Mechanical Error in P3R and 4R Manipulators” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE), Charlotte, North Carolina, USA, 21-24 Aug., 2016, Paper No. DETC2016-60057.
+13. Jawale, H. P., Thorat, H. T., Nov., 2014, “Positional Accuracy Analysis in Serial Chain and Four-bar Closed Chain Manipulator”, Proceedings of 2014 ASME International Congress and Exposition (IMECE2014), Montreal, Quebec, Canada, November 14-20, 2014. Paper No. IMECE2014-37375.
+14. Jawale, H. P., Rahul Singh., Nov., 2014, “Analysis of Residual Stresses in Welded Joint”, Proceedings of 2014 ASME International Congress and Exposition (IMECE2014), Montreal, Quebec, Canada, November 14-20, 2014. Paper No. IMECE2014-39484.
+15. Jawale, H. P., Thorat, H. T., Zalke H., Nov., 2014, “Investigations on Deformation in Spur Gear for Transmission Efficiency”, Proceedings of 2014 ASME International Congress and Exposition (IMECE2014), Montreal, Quebec, Canada, November 14-20, 2014. Paper No. IMECE2014-39463.
+16. H. P. Jawale, Nilesh Bhanjan, Sunil Kumar, Vaibhav Borkar, “Effect of Geometric Projections on Plate Subjected to Ballistic Impact”, Proceedings of 2014 ASME International Congress and Exposition (IMECE2014), Montreal, Quebec, Canada, November 14-20, 2014. Paper No. IMECE2014-38008. (Technical Presentation ) 17. Jaiswal Ankur., Jawale, H. P., December., 2014, “Optimal Synthesis of Four bar Planar Mechanism with Four Precision Points”, Proceedings of Sixth International Conference on Theoretical, Applied, Computational and Experimental Mechanics, Indian Institute of Technology, Kharagpur (IITKgp), India, December 29-31, 2014. Paper No. 426.
+18. Jawale, H. P., Thorat, H. T., Nov., 2012, “Comparison of Closed Chain Mechanisms for Positional Deviations”, Proceedings of 2012 ASME International Congress and Exposition (IMECE2012), Houston, Texas, November 9-15, 2012. Paper No. IMECE2012-88522, pp. 1665-1671; 7 pages Volume 3: Design, Materials and Manufacturing, Parts A, B, and C, ISBN: 978-0-7918-4519-6 19. Jawale, H. P., Thorat, H.T., Dec., 2008, “Planar Manipulator for Hard Automation”, Proceedings of 2nd International and 23rd AIMTDR Conference, IITM, Chennai, M. S. Shunmugam, pp. 161-165.
+20. Jawale, H. P., Thorat, H.T., Dec., 2007, “Closed Chain Profile Generator” International Conference on Computer Aided Engineering (CAE – 2007) IITM, Chennai 12-15th December 2007, pp.321-327.
+National Conferences 1) H.P. Jawale, and Abhijit Chahande, 2023, Design of Vertical Axis Wind Turbine, 6th National Conference on Multidisciplinary Design and Analysis, IIT Guwahati, December 6-8, 2023.
+1) Ankur Jaiswal, H. P. Jawale, “Optimization of structural error in four-bar linkage with five accuracy points” Proc. XII IPRoMM-2016 (Challenges in Manufacturing), VNIT Nagpur, pp. 141-148, 22-23 Dec., 2016, Paper No. 21.
+2) Kshitij Srivastava, H. P. Jawale, 2016, “Design Testing and Calibration of Infrared Sensor for Velocity Measurement of Projectiles”, Proceedings of XII IPRoMM-2016 (Challenges in Manufacturing), VNIT Nagpur, 22-23 Dec., 2016, Paper No. 23, pp.157-164.
+3) Jawale, H. P., Thorat, H.T., Dec., 2011, “Analysis of Positional Errors due to Joint Clearances in Four-Bar Mechanism”, Proceedings of 15th National Conference on Machines and Mechanisms (NaCoMM-2011), IITM, Chennai, S. Bandopadhaya, pp. 58-65.
+4)   Jawale, H. P., Thorat, H.T., Jan., 2010, “Analysis of Five-Bar Mechanism with Joint Clearances”, Conference Proceedings on Planar Parallel Robot Manipulators, RCE, Bhilai, A. Srinath, pp. 61-68.
+5) Ankur Jaiswal and H. P. Jawale, “Comparatively Study of Sigmoid Function Generation 4R Planar Mechanism with Five and Six Design Variables” Research Scholar Day-2018, 18th March 2018, VNIT Nagpur

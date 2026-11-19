@@ -1,0 +1,35 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mining/mine-surveying-laboratory/
+TITLE: Mine Surveying Laboratory
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Mine Surveying Laboratory
+The domain of engineering which involves the collection of field data and subsequently preparation of plan/map of the area is termed as ‘Surveying’. Surveying is defined as the art and science of making measurements of the earth specifically the surface of the earth.
+Mine Surveying is a practical subject and therefore the Mine Surveying Laboratory is developed keeping in mind the skill set required to the current students  which include taking measurements on and under the surface of the earth in a horizontal and vertical plane, showing the results in the form of a map, plan, or 3D computer model after certain calculations have been done.
+The laboratory is well equippmed with latest survey instruments like Digital theodolites, Total Station, Auto Levels, Digital Planimeter etc.
+List of Equipments available in Mine Surveying Lab
+S.N.
+Name of Equipment 1
+Electronic Theodolite 2
+Transit Vernier Theodolite 3
+Digital Planimeter 4
+Total Station 5
+Dupmy Level 6
+Tacheometer 7
+Telescopic Alidade 8
+Prismatic compass 9
+Brunton comapss 10
+Clinometer compass 11
+Miner’s Dial 12
+Metallic tape & Steel tape 13
+Land Measuring chains 14
+Levelling Staff 15
+Tripod Stand 16
+Shaft plumbing appratus 17
+Brass Pumb Bob 1,2,5,10kg 18
+Compaq Ipaq 19
+GPS system 20
+Ranging Rod 21
+Line Ranger 22
+Open cross staff 23
+Optical Square

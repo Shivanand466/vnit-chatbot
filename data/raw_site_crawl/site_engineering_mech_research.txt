@@ -1,0 +1,1068 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/research/
+TITLE: Research
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Research at Mechanical Engineering Department
+Projects
+Publications & Journals
+Patents
+Short Term Training Program (STTP)
+Industry Institute Collaboration
+S.No
+Project Title
+Role of Faculty
+Details of Investigators
+Funding Agency (Scheme)
+Fund to VNIT (In Lakhs)
+Starting Year (Month)
+Project Duration (In Months)
+Status of the Project
+Closing Year (Month) 1
+Design, Analysis and Optimization of 15 mm Artillery Gun
+PI
+Dr.V.R.Kalamkar, Professor
+Ministry of Defence 24.756 2017 (October) 10
+Completed 2018 (August) 2
+Performance Analysis and Optimization of recoil mechanism of 7.62 mm assault rifle
+PI
+Dr.V.R.Kalamkar, Professor
+Ministry of Defence 24.0787 2017 (October) 10
+Completed 2018 (August) 3
+Biomechanical behaviour of Mandibular overdenture retained by one or two standard sized or mini implants: 3D Finite Element Analysis
+PI
+Rashmi Uddanwadiker, Professor
+International Medical University, Malaysia 1.5 2017 (July) 12
+Completed 2018 (April) 4
+Application of rate, state, temperature and pore pressure friction (RSTPF) model for rock slope stability and failure hazard assessment
+PI
+Dr.Arun Singh, Associate Professor
+NRDMS-DST 13.5 2017 (March) 24
+Ongoing 2019 (February) 5
+Online Monitoring and Characterization of Distortion in Multi Layer Laser Cladding Process
+PI
+Dr. T V K Gupta, Associate Professor
+DST-ECR 37.19 2017 (April) 36
+Ongoing 2020 (March) 6
+Development of Fluid – Structure Interaction (FSI) Solver for Cardiovascular Disease: An Aneurysm
+PI
+Dr.Trushar B. Gohil, Associate Professor
+DST-SERB 26.19 2017 (Feb) 36
+Ongoing 2020 (Jan) 7
+Response of hemispherical sandwich shell structures subjected to projectile impact
+PI
+Dr. Gaurav Tiwari, Assistant Professor
+SERB (DST) 21.97 2017 (April) 36
+Ongoing 2020 (April) 8
+Design and Fabrication of Thin-film Sensor for Hypersonic flows
+PI
+Dr.Ravik Kumar Peetala, Associate Professor
+DST (ECSR) 36 2017 36
+Ongoing 2019 9
+Smart Foundary 2020
+PI
+Dr. A. M. Kuthe, Professor
+DST 250 2016 60
+Ongoing 2020 10
+Development of Digital Dental Restoration
+PI
+Rashmi Uddanwadiker, Associate Professor
+Department of Science and Technology 41.5 2016 (May) 26
+Completed 2018 (July) 11
+Performance enhancement of grinding mill
+PI
+Dr. A. S. Dhoble,Associate ProfessorDr. M. S. Kotambkar, Associate Professor
+Tyco (India) Pvt. Ltd. Nagpur 1 2016 (Jan)
+Ongoing
+On-going 12
+Experimental and numerical study of flow and heat transfer in cross flow heat exchanger
+PI
+Dr. A. S. Dhoble, Associate Professor
+TEQIP-II 1.51 2016 (April)
+On-going
+On-going
+SMART Foundry 2020
+Co-PI
+CAD-CAM Centre, Mech. Engg., VNIT, Nagpur
+DST and 5 industries 134.516 2016 (September) 36
+Ongoing 2019 (March) 13
+Development of Ni based composite coatings using electroless plating method for high temperature tribological applications
+PI
+Dr.Ravikumar Dumpala, Associate Professor
+DST (ECRA) 35.54 2016 (October) 36
+Ongoing 2019 (September) 14
+Biomedical Engineering and Technology centre Incubation
+PI
+Dr. A. M. Kuthe, Professor
+DST/RGSTC 350 2014 60
+Ongoing 2019 15
+Purchase of Sound and Vibration Analyzer
+PI
+Dr.A.B.Andhare, Professor
+TEQIP 45 2014 12
+Completed 2015 16
+Fabrication of experimental setup of a solar air heater and study the effect of rib shapes on the thermal enhancement of a solar air heater
+PI
+Dr. A. S. Dhoble, Associate Professor
+TEQIP-II 1 2014 (Dec) 17
+Completed 2016 April 17
+Mathematical Modeling of Hydraulically Operated Zero Velocity Valve
+Co-PI
+Dr. A.V. Vasudeo, Dr. A. S. Dhoble, Dr. A. K. Singh, Dr. M. S. Kotambkar, Dr.Tavalare
+Flonix Valves Ltd., Pune 2.5 2014 (Sept)
+On-going
+On-going 18
+SWAYATT- The Humanoid, Design, development and fabrication
+PI
+Dr.Shital S. Chiddarwar, Professor
+COE, Combedded Systems 10 2014 24
+Completed 2016 19
+Mathematical modelling of zero velocity valve
+Co-PI
+Dr.Arun Singh, Associate Professor
+Flownix Valve Pvt. Ltd., Pune 2.5 2014 (Sept)
+–
+Ongoing
+– 20
+KVIC Technology Dissemination
+PI
+Dr.P.M.Padole, Professor
+KVIC 2013 12
+Completed 2014 21
+Estimation of human muscle characteristics
+PI
+Rashmi Uddanwadiker, Professor
+Department of Science & Technology 13.16 2013 (June) 36
+Completed 2016 (May) 22
+Development of Robot programming by demonstration system for spray painting operation
+PI
+Dr.Shital S. Chiddarwar, Professor
+DST 25 2013 (July) 36
+Completed 2016 (June) 23
+Development and testing of customized joint replacement implant using layered manufacturing
+PI
+Dr. A. M. Kuthe , Professor
+RGSTC 50.6 2009 36
+Completed 2012 24
+Crack detection in cantilever beam using nonlinear frequency response function
+Dr.Animesh Chatterjee, Professor
+ARDB(Structures) 9.34 2009 April 36
+Completed 2012 Sept 25
+Development of TRA & MRA Assembly
+PI
+Dr. T V K Gupta, Associate Professor
+HAL-Lucknow 2009 (July) 4
+Completed 2009 (Oct) 26
+Centre for Advanced Technology in Mech. Engg.- FIST Project
+PI
+Dr.P.M.Padole, Professor
+DST 2008
+Completed 2014 27
+RLV-3 Development
+Co-PI
+Dr. T V K Gupta, Associate Professor
+NWTF-VSSC 2008 (July) 18
+Completed 2009 (Dec) 28
+Experimental Investigations on Inconel 718 using AWJM
+PI
+Dr. T V K Gupta, Associate Professor
+VSSC 2007 (Jan) 3
+Completed 2007 (Mar) 29
+Application of Advanced Engineering Techniques toProsthodontics and orthopedics
+PI
+Dr.P.M.Padole, Professor
+MHRD 2005 24
+Completed 2007 30
+Design & Development of Components for RLV-Version_01
+PI
+Dr. T V K Gupta, Associate Professor
+NWTF-VSSC 2004 (Feb) 24
+Completed 2006 (Apr) 31
+Wear estimation in joints of Mechanism using ANN approach.
+PI
+Dr. A. M. Kuthe , Professor
+Ministry of Human Resources Govt. of India.
+4 2003 42
+Completed 2007 32
+Design &Development of Appropriate technology for ruralengineering
+PI
+Dr.P.M.Padole, Professor
+KVIC 2003 36
+Completed 2006 33
+Design &Development of Small scale ginnery
+PI
+Dr.P.M.Padole, Professor
+KVIC 2003 24
+Completed 2005 34
+Machine system performance evaluation
+PI
+Dr.P.M.Padole, Professor
+AICTE 1998 24
+Completed 2000 35
+Fatigue testing of Hip Prosthesis
+PI
+Dr.P.M.Padole, Professor
+DRDO
+Ongoing 36
+Design and Fabrication of Humanoid Robot
+Co-PI
+Rashmi Uddanwadiker, Professor
+COE & Department of Electronics Engineering,VNIT 10 12
+Completed 2015 (April) 37
+Design and analysis of of weld joints of aerofoilin jet Blast Deflector
+PI
+Dr. A. S. Dhoble, Dr. R. V. taiwade
+Anand Mine Tools Pvt. Ltd 38
+Project on capacity enhancement of pulverizer
+PI
+Dr. M.S. kotambkar, Dr. A.S. Dhoble
+TYCO India Pvt. Ltd.
+1
+Ongoing 39
+Metal Additive Manufacturing using Laser Cladding Process
+PI
+Dr. T V K Gupta (VNIT Nagpur), Dr. G S Kumar (IIT Madras), Shri Mahendiran (JNARDDC)
+DST-AMT 67.8 24
+Money Yet to Receive
+List of Publications in Reputed Journals
+Sr. No.
+Year
+Authors
+Title of the Publication
+Journal Name
+Vol
+Pg
+WoS
+Scopus 1
+CAY (2018-19)
+Deshpande, Y.V., Andhare,A.B., Padole, P.M.
+How cryogenic techniques help in machining of nickel alloys? A review
+Machining Science and Technology 22 (4) 543-584
+SCIE
+Yes 2
+CAY (2018-19)
+Gawande V.B., Dhoble A.S.,Zodpe D.B., Mangrulkar C
+A comparative analysis of thermo-hydraulic performance of a roughened solar air heater using various rib shapes
+Australian Journal of Mechanical Engineering
+ESCI
+Yes 3
+CAY (2018-19)
+Gawande V.B., Dhoble A.S.,Zodpe D.B., Mangrulkar C
+Thermal performance evaluation of solar air heater using combined square and equilateral triangular rib roughness
+Australian Journal of Mechanical Engineering
+ESCI
+Yes 4
+CAY (2018-19)
+Prasad V. Kane andAtul B. Andhare
+End of the Assembly Line Gearbox Fault Inspection using Artificial Neural Network and Support Vector Machines
+International Journal of Acoustics and Vibration 24 (1) 68-84
+SCIE
+Yes 5
+CAY (2018-19)
+Yogesh Deshpandeand Atul Andhare
+Application of advanced algorithms for enhancement in machining performance of Inconel 718
+Indian Journal of Engineering and Material Sciences 25 366-376
+NO
+No 6
+CAY (2018-19)
+Neelesh Kumar Sahu andAtul Andhare
+Multiobjective Optimization for improving Machinability of Ti-6Al-4V using RSM and Advanced algorithms
+Journal of Computational Design and Engineering, Manuscript Available online 10 May 2018 6
+ESCI
+Yes 7
+CAY (2018-19)
+Yogesh Deshpande,Atul Andhare and Pramod Padole
+Application of ANN to estimate surface roughness using cutting parameters, force, sound and vibration in turning off Inconel 718
+SN Applied Sciences 1-104
+NO
+No 8
+CAY (2018-19)
+Dhananjay Katpatal,Atul Andhare andPramod Padole
+Viscosity behaviour and thermal conductivity prediction of CuO-Blend oil based nano-blended lubricants
+Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology
+SCIE
+Yes 9
+CAY (2018-19)
+Yogesh Deshpande,Atul Andhare,A. S. Chatpalliwar,I.P. Keswani andA. D. Urade
+The energy efficient machining of Inconel 825 using cryogenically treated tools for optimization of surface roughness
+International Journal of Mechanical and Production Engineering Research and Development 9 (special issue) 44-50
+No
+Yes 10
+CAY (2018-19)
+H.P. Jawale, Ankur Jaiswal
+Investigation of mechanical error in four-bar mechanism under the effects of link tolerance
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 40 383
+SCIE
+Yes 11
+CAY (2018-19)
+Ranjit J Singha andTrushar B Gohil
+Influence of the Presence of the Lorentz Force and its Direction on the Suppression of Secondary Flow in Two Different Orifices: A Numerical Study using OpenFOAM
+Journal of Applied Fluid Mechanics 12 (3) 751-762
+SCI
+Yes 12
+CAY (2018-19)
+Ranjit J Singha andTrushar B Gohil
+The numerical analysis on the development of Lorentz force and its directional effect on the suppression of buoyancy-driven flow and heat transfer using OpenFOAM
+Computers & Fluids 179 476-489
+SCI
+Yes 13
+CAY (2018-19)
+Trushar B. Gohil,Saha, Arun K.
+POD analysis of a blooming jet at a moderate Reynolds number
+Journal of Flow Visualization and Image Processing 25(3-4) 359-382
+No
+Yes 14
+CAY (2018-19)
+Shubham Dalvi, Snehal Bali,Divyesh Nayka, Suraj H. Kale,and Trushar B. Gohil
+Numerical study of mixed convective heat transfer in a lid‐driven enclosure with rotating cylinders
+Heat Transfer—Asian Research 48(4) 1180-1203
+No
+Yes 15
+CAY (2018-19)
+Hemendra Patle, Mahendiran P,B. Ratna Sunil andRavikumar Dumpala
+Hardness and sliding wear characteristics of AA7075-T6 surface composites reinforced with B4C and MoS2 particles
+Materials Research Express
+SCIE
+Yes 16
+CAY (2018-19)
+Gaurav Durge, Aayush Chandak,Abhimanyu Kumar Jaiswal,Kommineni Uday Venkat Kiran,B. Ratna Sunil andRavikumar Dumpala
+Effect of heat treatment on the hardness and wear characteristics of NiCrBSi laser clad deposited on AISI410 stainless steel
+Materials Research Express
+SCIE
+Yes 17
+CAY (2018-19)
+B Vandana, P Syamala,D Sri Venugopal,S R K Imran Sk,B Venkateswarlu, M Jagannatham,Marek KolenčíkI,Ramakanth, Ravikumar Dumpala,B Ratna Sunil
+Magnesium/fish bone derived hydroxyapatite composites by friction stir processing: studies on mechanical behaviour and corrosion resistance
+Bulletin of Materials Science 42 122
+SCIE
+Yes 18
+CAY (2018-19)
+Uday Venkat Kiran,K., Arora, A., Ratna Sunil,B., Dumpala, R.
+Sliding wear characteristics of as-deposited and heat-treated electroless Ni-P coatings against AISI E52100 steel ball
+Materials Research Express 6 36401
+SCIE
+Yes 19
+CAY (2018-19)
+Patel, V., Tiwari, G.,Dumpala, R.
+Effect of eccentric loading on energy absorbing circular cap and open end frusta tube structures
+Vacuum
+SCI
+Yes 20
+CAY (2018-19)
+G. Tiwari, M.A. Iqbal,P.K. Gupta
+Influence of Projectile Obliquity along with Target Span Diameter on Ballistic Response of Thin Aluminium 1100-H12 Plates
+Iranian Journal of Science and Technology, Transactions of Mechanical Engineering
+SCI
+Yes 21
+CAY (2018-19)
+Richa Agrawal, J. Veerababu, Sunil Goyal, R. Sandhya, Rashmi Uddanwadiker, Pramod Padole,”
+Estimation of Low Cycle Fatigue Response of 316 LN Stainless Steel in Presence of Notch”,
+Journal of Materials Engineering and Performance.
+SCI
+Yes 22
+(2017-18)
+Mahesh B Mawale, Abhaykumar Kuthe, Anupama M Mawale & Sandeep W Dahake
+Development of an ear cap in chronicsuppurative otitis media using additivemanufacturing and TRIZ
+Journal of Engineering In Medicine 7 733-738
+SCI
+Yes 23
+(2017-18)
+Kulkarni, P., Dhoble, A., Padole, P.M.
+A review of research and recent trends in analysis of composite plates
+Sadhana – Academy Proceedings in Engineering Sciences 43 (6) 96
+SCIE
+Yes 24
+(2017-18)
+Sane, A.U., Padole, P.M., Manjunatha, C.M., Uddanwadiker, R.V., Jhunjhunwala, P.
+Mixed mode cohesive zone modelling and analysis of adhesively bonded composite T-joint under pull-out load
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 40 (3) 167
+SCIE
+Yes 25
+(2017-18)
+Sane, A., Peshwe, D.R., Manjunatha, C.M., Padole, P.M., Uddanwadiker, R.V.
+Evaluation of Progressive Failure of Composite T-Joint Using Mixed Mode Cohesive Zone Model
+Transactions of the Indian Institute of Metals 71 (2) 445-451
+SCIE
+Yes 26
+(2017-18)
+Agrawal, R., Veerababu, J., Goyal, S., Sandhya, R., Uddanwadiker, R., Padole, P.
+Estimation of Low Cycle Fatigue Response of 316 LN Stainless Steel in the Presence of Notch
+Journal of Materials Engineering and Performance 27 (2) 590-600
+SCIE
+Yes 27
+(2017-18)
+Sane, A., Padole, P.M., Uddanwadiker, R.V.
+Progressive failure evaluation of composite skin-stiffener joints using node to surface interactions and CZM
+CMES – Computer Modeling in Engineering and Sciences 115 (2) 281-294
+SCIE
+Yes 28
+(2017-18)
+Katpatal, D.C., Andhare, A.B., Padole, P.M., Khedkar, R.S.
+Study of dispersion stability and thermo-physical properties of CuO-Jatropha oil-based nanolubricants
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 39 (9) 3657-3668
+SCIE
+Yes 29
+(2017-18)
+Kulkarni, P.A., Hu, W., Dhoble, A.S., Padole, P.M.
+Statistical wind prediction and fatigue analysis for horizontal-axis wind turbine composite material blade under dynamic loads
+Advances in Mechanical Engineering 9 (9) 26-Jan
+No
+Yes 30
+(2017-18)
+Seema S Munjewar, Shashikant B Thombre, Awanikumar P Pati
+Passive direct alcohol fuel cell using methanol and 2-propanol mixture as a fuel
+Ionics 11-Jan
+SCIE
+Yes 31
+(2017-18)
+RanjanMallick, S.B. Thombre, K. P. Kothekar
+An integral mathematical model of liquid feed passive DMFCs with non-isothermal effects and charge conservation phenomenon
+Journal of Cleaner Production 182 654-671
+SCI
+Yes 32
+(2017-18)
+RS Shelke, SB Thombre, SR Patrikar
+Status and perspectives of dyes used in dye sensitized solar cells
+International Journal of Renewable Energy Resources 3 (2) 54-61
+No
+Yes 33
+(2017-18)
+RK Mallick, SB Thombre
+Performance of passive DMFC with expanded metal mesh current collectors
+Electrochemical Acta 243 299-309
+SCI
+Yes 34
+(2017-18)
+Vikas Gohil, Y M Puri
+Multi-Objective Optimization of Material Removal Rate and Surface Roughness in Electrical Discharge Turning of Titanium Alloy (Ti-6Al-4V)”
+Indian Journal of Engineering & Materials Sciences.
+SCIE
+Yes 35
+(2017-18)
+AK Tiwari, VR Kalamkar
+Effects of total head and solar radiation on the performance of solar water pumping system
+Renewable Energy 118 919-927
+SCIE
+Yes 36
+(2017-18)
+Rohan R Pande, Vilas R Kalamkar & Milind Kshirsagar
+Making the popular clean: improving the traditional multipot biomass cookstove in Maharashtra, India
+Environment Development and Sustainability
+SCIE
+Yes 37
+(2017-18)
+Sanjay K Sharma, V. R. Kalamkar
+Numerical Investigation of Convective Heat Transfer and Friction in Solar Air Heater with Thin Ribs
+Computer Modeling in Engineering and Science 114 (3) 295-319
+SCIE
+Yes 38
+(2017-18)
+Nitnaware P.T. and Suryawanshi J.G.
+Effects of Exhaust Gas Recirculation on Performanceand Emission Characteristic of SI Engine using Hydrogen and CNG Blends
+Journal of institute of engineers india Series C
+No
+Yes 39
+(2017-18)
+Girish Bhiogade and J.G. Suryawanshi
+Effect of external mixture formation and EGR Techniques on diesel fuelled PCCI engine
+Journal of institute of engineers India Series C
+No
+Yes 40
+(2017-18)
+Roja Abraham Raju, Atul Andhare and Neelesh Kumar Sahu
+Performance of multi-walled carbon nano tube based nano fluid in turning operation
+Materials and Manufacturing Processes 32 (13) 1490-1496
+SCIE
+Yes 41
+(2017-18)
+Dhananjay Katpatal, Atul Andhare, Pramod Padole and Rohit Khedkar
+Study of Dispersion Stability and Thermophysical Properties of CuO- Jatropha Oil Based Nanolubricants
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 39 (9) 3657-3668
+SCIE
+Yes 42
+(2017-18)
+Neelesh Kumar Sahu and Atul Andhare
+Modelling and multi objective optimization for productivity improvement in high speed milling of Ti6Al4V using RSM and GA
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 39 (12) 5069 – 5085
+SCIE
+Yes 43
+(2017-18)
+Neelesh Kumar Sahu and Atul Andhare
+Evaluation of performance of nano fluid using multi walled carbon nano tubes for machining of Ti-6Al-4V
+Machining Science and Technology
+SCIE
+Yes 44
+(2017-18)
+Yogesh Deshpande, Atul Andhare and Pramod Padole
+How Cryogenic Techniques Help in Machining of Nickel Alloys? A Review
+Machining Science and Technology
+SCIE
+Yes 45
+(2017-18)
+Yogesh Deshpande, Atul Andhare and Pramod Padole
+Experimental results on the performance of cryogenic treatment of tool and minimum quantity lubrication for machinability improvement in the turning of Inconel 718
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 40 (6)
+SCIE
+Yes 46
+(2017-18)
+Dhananjay Katpatal, Atul Andhare and Pramod Padole
+Effect of CuO Nanoparticles on Rheological Behaviour of ISO VG46, Jatropha Oil and their blend
+Journal of Testing and Evaluation 47 (4)
+SCI
+Yes 47
+(2017-18)
+Parikshit Dumbhare, Shikha Dubey, Yogesh Deshpande, Atul Andhare and P. S. Barve
+Modelling and multi objective optimization of surface roughness and kerf taper angle in abrasive jet machining of steel
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 40 (5)
+SCIE
+Yes 48
+(2017-18)
+Tushar M. Sathe⁎, A.S. Dhoble
+A review on recent advancements in photovoltaic thermal techniques
+Renewable and Sustainable Energy Reviews 76 645-672
+SCI
+Yes 49
+(2017-18)
+Amol Wadhawan, A.S. Dhoble, V.B. Gawande
+Analysis of the effects of use of thermal energystorage device (TESD) in solar air heater
+Alexandria Engineering Journal
+ESCI 50
+(2017-18)
+P. A. Kulkarni, A. S. Dhoble, P. M. Padole
+Statistical wind prediction and fatique analysis for HAWT composite material blade under dynamic loads
+Advances in Mechanical Engineering 9 26-Jan
+SCIE
+Yes 51
+(2017-18)
+Sandeep Joshi, A. S. Dhoble
+Use of silicone oil and coconut oil as liquid spectrum filters for BSPVT systems: with emphasis on degradation of liquids by sunlight
+Journal of Solar Energy Engineering: Including Wind Energy and Building Energy Conservation
+SCI
+Yes 52
+(2017-18)
+Jagesvar Verma, R V Taiwade, S G Sapate, A P Patil, A S Dhoble
+Evaluation of Microstructure, Mechanical properties and corrosion resistance of friction stir-welded aluminium and Magnesium dissimilar alloys
+Journal of Material Engineering and Performance
+SCIE
+Yes 53
+(2017-18)
+Joshi, S.S., Dhoble, A.S., Sathe, T., Mangrulkar, C.
+Performance Analysis of Photovoltaic Thermal System Using Silicone Oil Spectrum Filter
+Applied Solar Energy
+NO 54
+(2017-18)
+Gawande, V.B., Dhoble, A.S., Zodpe, D.B., Fale, S.G.
+Thermal performance evaluation of solar air heater using combined square and equilateral triangular rib roughness
+Australian Journal of Mechanical Engineering 55
+(2017-18)
+Gawande, V.B., Dhoble, A.S., Zodpe, D.B., Fale, S.G.
+A comparative analysis of thermo-hydraulic performance of a roughened solar air heater using various rib shapes
+Australian Journal of Mechanical Engineering 56
+(2017-18)
+Kulkarni, P.A., Dhoble, A.S., Padole, P.M.
+Deep neural network-based wind speed forecasting and fatigue analysis of a large composite wind turbine blade
+Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science
+SCIE 57
+(2017-18)
+Joshi, S.S., Dhoble, A.S.
+Use of Silicone Oil and Coconut Oil as Liquid Spectrum Filters for BSPVT: With Emphasis on Degradation of Liquids by Sunlight
+Journal of Solar Energy Engineering, Transactions of the ASME
+SCI 58
+(2017-18)
+Kulkarni, P., Dhoble, A., Padole, P.M.
+A review of research and recent trends in analysis of composite plates
+Sadhana – Academy Proceedings in Engineering Sciences
+SCI 59
+(2017-18)
+Sathe, T.M., Dhoble, A.S.
+Thermal management of low concentrated photovoltaic systems using extended surfaces in phase change materials
+Journal of Renewable and Sustainable Energy
+SCI 60
+(2017-18)
+Joshi, S.S., Dhoble, A.S.
+Analytical approach for performance estimation of BSPVT system with liquid spectrum filters
+Energy
+SCI 61
+(2017-18)
+Joshi, S.S., Dhoble, A.S
+Photovoltaic -Thermal systems (PVT): Technology review and future trends
+Renewable and Sustainable Energy Reviews
+SCI 62
+(2017-18)
+Veer Alakshendra, Shital S. Chiddarwar
+Simultaneous balancing and Trajectory tracking control for an omnidirectional mobile robot with a cylinder using switching between two robust controllers
+SAGE International Journal of Advanced Robotic Systems 14(6) 16-Jan
+SCIE
+Yes 63
+(2017-18)
+Sahoo, S. R., Chiddarwar S.S., Veer Alekshendra
+Intuitive dynamic modelling and flatness based non-linear control of mobile robot
+SAGE Journal of Simulation: Transactions of the Society for Modeling and Simulation International
+SCIE
+Yes 64
+(2017-18)
+Khandekar, P.M., Chiddarwar S.S., and Jha, A.,
+Programming of an Industrial Robot Using Demonstrations and Soft Computing Techniques
+Journal of Scientific and Industrial Research 77(3) 156-163
+SCIE
+Yes 65
+(2017-18)
+Ankur Jaiswal, H.P. Jawale
+Comparative study of four-bar hyperbolic function generation mechanism with four and five accuracy points
+Archive of Applied Mechanics (Springer) 87 2037-2054
+SCI
+Yes 66
+(2017-18)
+Mangesh S. Kotambkar
+Modal analysis of mistuned turbine blade packet due to combined blade and lacing wire damage
+International Journal of Acoustics and Vibration
+SCIE 67
+(2017-18)
+P.V. Kane and A.B. Andhare
+End of the Assembly Line Gearbox fault inspection using Artificial Neural Network & Support Vector Machines
+International Journal of Acoustics and Vibration 24 (1) 68-84
+SCIE
+Yes 68
+(2017-18)
+Lautre, N.K.,Sharma, A.K.,Pradeep, K.,Das, S.
+Experimental Evaluation of a Microwave Drilling Process in Perspex
+Journal of Testing and Evaluation 48(4)
+IN press
+SCI
+Yes 69
+(2017-18)
+A. A. Thakre and A. K. Singh
+Frictional study of the soft and hard solid interface using Response surface methodology
+Journal of Tribology (ASME) 140(4) 41601
+SCIE
+Yes 70
+(2017-18)
+A. A. Thakre and A. K. Singh
+Determination of work of adhesion of gelatin hydrogels on a glass substrate
+Materials Research Express 2053-1591
+SCIE
+Yes 71
+(2017-18)
+A. A. Thakre and A. K. Singh
+Energy release rate of gelatin hydrogels on glass surface in direct shear sliding experiments
+Journal of Adhesion Science and Technology 32(17) 1899-1910
+SCI
+Yes 72
+(2017-18)
+A.A. Thakre and A.K. Singh
+An experimental study on stick-slip of gelatin hydrogels using fracture mechanics
+Materials Research Express 5 (8)
+SCIE
+Yes 73
+(2017-18)
+A.A. Thakre and A.K. Singh
+Specimen thickness dependency of energy release tate of a gelatine hydrogel and glass substrate interface
+Journal of Tribology (ASME)
+SCI
+Yes 74
+(2017-18)
+N. Sinha, A.K. Singh and T.N. Singh
+Dynamic Stability of the Rate, State, Temprature, and Pore Pressure Friction Model at a Rock Interface
+Pure and Applied Geophysics 1420-9136
+SCI
+Yes 75
+(2017-18)
+N. Sinha, A.K. Singh and T.N. Singh
+The effect of inertia, viscous damping, temperature and normal stress on chaotic behavior of the rate and state friction model
+Journal of Earth System Science
+–
+–
+SCIE
+Yes 76
+(2017-18)
+V. Gupta and A.K. Singh
+Stress relaxation at a gelatin hydrogel-glass interface in direct shear sliding
+Modern Physics Letters B 31 1750345-1-14
+SCI
+Yes 77
+(2017-18)
+Gondane, S., A.K. Singh, Vijayakumar, R.P. and Sinha, N.
+The Effect of Carbon Nanotubes Based Nanolubricant on Stick–Slip Behavior
+Transactions of the Indian Institute of Metals
+SCIE
+Yes 78
+(2017-18)
+Hemendra Patle, Ravikumar Dumpala, B. Ratna Sunil
+Machining Characteristics and Corrosion Behavior of Grain Refined AZ91 Mg Alloy Produced by Friction Stir Processing: Role of Tool Pin Profile
+Transactions of the Indian Institute of Metals 71 (4) 951–959
+SCIE
+Yes 79
+(2017-18)
+Swetha Chowdary, Ravikumar Dumpala, Anand Kumar, Kondaiah V, Ratna Sunil
+Influence of heat treatment on the machinability and corrosion behavior of AZ91 Mg alloy
+Journal of Magnesium and Alloys 6 (1) 52-58
+SCIE
+Yes 80
+(2017-18)
+N. Saikrishna, G. Pradeep Kumar Reddy, Balakrishnan Munirathinam, Ravikumar Dumpala, M. Jagannatham, B. Ratna Sunil
+An investigation on the hardness and corrosion behavior of MWCNT/Mg composites and grain refined Mg
+Journal of Magnesium and Alloys 6 (1) 83-89
+SCIE
+Yes 81
+(2017-18)
+B. Lakshmana Prasad, G. Neelaiah, M. Gopi Krishna, S.V.V. Ramana, K.Sai Prakash, G. Sarika, G. Pradeep Kumar Reddy, Ravikumar Dumpala, B. Ratna Sunil
+Joining of AZ91 Mg alloy and Al6063 alloy sheets by friction stir welding
+Journal of Magnesium and Alloys 6 (1) 71-76
+SCIE
+Yes 82
+(2017-18)
+G. Tiwari, Tiju Thomas, R. P. Khandelwal
+Influence of reinforcement in the honeycomb structures under axial compressive load
+Thin walled structure 126 238-245
+SCI
+Yes 83
+(2017-18)
+G. Tiwari, M.A. Iqbal,P.K. Gupta
+Energy absorption characteristics of thin aluminium plate against hemispherical nosed projectile impact
+Thin walled structure 126 246-257
+SCI
+Yes 84
+(2017-18)
+G. Tiwari, M.A. Iqbal,P.K. Gupta
+Impact response of thin aluminum plates and hemispherical shells
+International Journal of Crashworthiness 24 (4) 413-428
+SCI
+Yes 85
+(2017-18)
+Tiju Thomas, G. Tiwari
+Crushing behavior of honeycomb structure-A Review
+International Journal of Crashworthiness
+SCI
+Yes 86
+(2017-18)
+Sane, A. U., Padole, P. M., Manjunatha, C. M., Uddanwadiker, R. V., & Jhunjhunwala, P.
+Mixed mode cohesive zone modelling and analysis of adhesively bonded composite T-joint under pull-out load.
+Journal of the Brazilian Society of Mechanical Sciences and Engineering, 40 (3) 167
+SCIE
+Yes 87
+(2017-18)
+Sane, A., Padole, P. M., Uddanwadiker, R. V.
+Progressive failure evaluation of composite skin-stiffener joints using node to surface interactions and CZM.
+Computer Modeling in Engineering & Sciences (CMES) accepted
+SCI
+Yes 88
+(2017-18)
+Sane, A., Peshwe, D. R., Manjunatha, C. M., Padole, P. M., & Uddanwadiker, R. V.
+Evaluation of Progressive Failure of Composite T-Joint Using Mixed Mode Cohesive Zone Model.
+Transactions of the Indian Institute of Metals 71(2) 445-451
+SCI
+Yes 89
+(2017-18)
+Sanjay B. Ingole and Animesh Chatterjee
+Joint stiffness identification: A three-parameter joint model of cantilever beam
+International Journal of Acoustics and Vibrations
+SCI
+Yes 90
+(2017-18)
+T. Vaidya, Animesh Chatterjee
+Vibration of road bridges under moving vehicles: A comparative study between single contact point and two contact point models
+Transactions of the Canadian Society for Mechanical Engineering 91
+CAYm2 (2016-17)
+Sapkal Pranav, Shraddha Jaiswal, Abhaykumar Kuthe.
+Rapid Prototyping Assisted Scaffold Fabrication for Bone TissueRegeneration
+Journal of Materials Science and Research 5 79-95
+No
+No 92
+CAYm2 (2016-17)
+Sandeep Dahake, Abhaykumar Kuthe, Mahesh Mawale
+Applications of medical rapid prototyping (MRP) assisted customized surgical guides (CSG) in complex surgeries
+Rapid prototyping journal, Emerald.
+22
+SCIE
+Yes 93
+CAYm2 (2016-17)
+Pranav S. Sapkal, AbhaykumarM. Kuthe, Rajpal S. Kashyap, AmitR. Nayak, Sudhanshu A. Kuthe & AnujaP. Kawle
+Indirect casting of patient-speciic tricalcium phosphate zirconiascafolds for bone tissue regeneration using rapid prototypingmethodology
+Journal of Porous Materials 11-Jan
+SCI
+Yes 94
+CAYm2 (2016-17)
+K. P. Kothekar, S.B. Thombre, RanjanMallick
+Estimation of Kinetic and electric parameters of liquid feed passive DMFCs
+International Journal of Hydrogen energy 42 (38) 24358-24371
+SCI
+Yes 95
+CAYm2 (2016-17)
+HS Deshmukh, SB Thombre
+Solar distillation with single basin solar still using sensible heat storage materials
+Desalination 410 91-98
+SCI
+Yes 96
+CAYm2 (2016-17)
+Seema S Munjewar, Shashikant B Thombre, Ranjan K Mallick
+Approaches to overcome the barrier issues of passive direct methanol fuel cell–Review
+Renewable and Sustainable Energy Reviews 67 1087-1104
+SCI
+Yes 97
+CAYm2 (2016-17)
+Seema S Munjewar, Shashikant B Thombre, Ranjan K Mallick
+A comprehensive review on recent material development of passive direct methanol fuel cell
+Ionics 23 18-Jan
+Yes 98
+CAYm2 (2016-17)
+Bhele S.K., Thombre S.B., Deshpande N.V.
+Investigation of the spray and flame structure Characteristics of Jatropha Biodiesel using simplex air blast atomizer
+Journal of basic and applied research International 19 (2) 118-127
+Yes 99
+CAYm2 (2016-17)
+Bhele S.K., Thombre S.B., Deshpande N.V.
+Experimental Investigations on Combustion Characteristics of Jatropha Biodiesel (JME) and its diesel blends for tubular combustor application
+Advances in Automobile Engineering
+No 100
+CAYm2 (2016-17)
+Ranjan K Mallick, Shashikant B Thombre, Ramani V Motghare, Rakesh R Chillawar
+Analysis of the clamping effects on the passive direct methanol fuel cell performance using electrochemical impedance spectroscopy
+Electrochemical Acta 215 150–161
+SCI
+Yes 101
+CAYm2 (2016-17)
+Ingole, S.B., Chatterjee, A.
+Joint stiffness identification: A three-parameter joint model of cantilever beam
+Journal of Acoustics and Vibrations 13-Mar
+SCI
+Yes 102
+CAYm2 (2016-17)
+Tanuja Vaidya and Animesh Chatterjee
+A comparative study between single contact point and two contact point models
+Transactions of the Canadian Society for Mechanical Engineering 41 99-111
+SCI
+Yes 103
+CAYm2 (2016-17)
+Animesh Chatterjee, M S Kotambkar
+Modeling and investigation of modal properties under crack induced mistuning in a turbine blade packet
+Advances in Vibration Engineering (Current: Journal of Vibration Engineering and Technologies) 16(4) 335 348
+SCIE
+Yes 104
+CAYm2 (2016-17)
+D B Meshram, Y M Puri
+Review of research work in die sinking EDM for machining curved hole
+Journal of the Brazilian society of Mechanical Sciences and Engineering 39,(7) 2593–2605
+SCIE
+Yes 105
+CAYm2 (2016-17)
+Vikas Gohil, Y M Puri
+Statistical Analysis of material removal rate and Surface roughness in Electrical Discharge Turning of titanium Ti-6Al-4V alloy
+Journal of Engineering Manufacture Part B
+SCI
+No 106
+CAYm2 (2016-17)
+Vikas Gohil, Y M Puri
+Experimental investigation of surface roughness in electrical discharge turning of Ti-6Al-4V alloy
+Transactions of FAMENA 40 (4) 10-Jan
+SCIE
+No 107
+CAYm2 (2016-17)
+Milind P. Kshirsagar, V. R. Kalamkar
+User-centric approach for the design and sizing of natural convection biomass cookstoves for lower emissions
+Energy 115 1202-1215
+SCI
+Yes 108
+CAYm2 (2016-17)
+S.K. Sharma, V. R. Kalamkar
+Experimental and numerical investigation of forced convective heat transfer in solar air heater with thin ribs
+Solar Energy 147 277-291
+SCIE
+Yes 109
+CAYm2 (2016-17)
+PV Kane and AB Andhare
+Application of psychoacoustics for gear fault diagnosis using artificial neural network
+Journal of Low Frequency Noise, Vibration and Active Control 35(3) 207-220
+SCI
+Yes 110
+CAYm2 (2016-17)
+Yogesh Deshpande, Atul Andhare and Neelesh Kumar Sahu
+Estimation of surface roughness using cutting parameters, force, sound and vibration in turning of Inconel 718
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 39 (12) 5087 – 5096
+SCIE
+Yes 111
+CAYm2 (2016-17)
+Abhishek M. Thote, Rashmi V. Uddanwadiker, Krishna Sharma and Sunita Shrivastava
+Optimum pure intrusion of a mandibular canine with the segmented arch in lingual orthodontics
+Biomedical materials and engineering 28 247-256
+SCIE
+Yes 112
+CAYm2 (2016-17)
+Abhishek M. Thote, Rashmi V. Uddanwadiker, Krishna Sharma and Sunita Shrivastava
+Pure intrusion of a mandibular canine with segmented arch in lingual orthodontics: A numerical study with 3-dimensional finite element analysis
+Biocybernetics and Biomedical Engineering 37 590-598
+SCIE
+Yes 113
+CAYm2 (2016-17)
+Gawande, V.B., Dhoble, A.S., Zodpe, D.B., Chamoli, S.
+Analytical approach for evaluation of thermo hydraulic performance of roughened solar air heater
+Case Studies in Thermal Engineering 8 19-31
+ESCI
+Yes 114
+CAYm2 (2016-17)
+C. K. Mangrulkar, A. S. Dhoble, A. R. Deshmukh, S. A. Mandavgane
+Numerical investigation of heat transfer and friction factor characteristics from in-line cam shaped tube bank in crossflow
+Applied Thermal Engineering 110 521-538
+SCIE
+Yes 115
+CAYm2 (2016-17)
+C. K. Mangrulkar, A. S. Dhoble, S. G. Chakrabarty, U. S. Wankhede
+Experimental and CFD prediction of heat transfer and friction factor characteristics in cross flow tube bank with integral splitter plate
+International Journal of Heat and Mass Transfer 104 964-978
+SCI
+Yes 116
+CAYm2 (2016-17)
+R.M. Dhoble, P. Reddy Maddigapu, Sadhana S. Rayalu,A.G. Bhole,Ashwinkumar S. Dhoble, Shubham R. Dhoble
+Removal of arsenic(III) from water by magnetic binary oxide particles(MBOP): Experimental studies on fixed bed column
+Journal of Hazardous Materials 322 469-478
+SCI
+Yes 117
+CAYm2 (2016-17)
+C. K. Mangrulkar, V. M. Kriplani, A. S. Dhoble
+Experimental Investigation Of Convective Heat Transfer Enhancement Using Alumina/Water And Copper Oxide/Water Nanofluids
+Thermal Science 20 1681-1692
+SCIE 118
+CAYm2 (2016-17)
+Abhishek Jha, Shital S. Chiddarwar, Veer Alakshendra, Mayur Andulkar
+Kinematics‑based approach for robot programming via human arm motion
+Journal of the Brazilian Society of Mechanical Sciences and Engineering 39(7) 2659-2675
+SCIE
+Yes 119
+CAYm2 (2016-17)
+Veer Alakshendra, Shital S. Chiddarwar
+Adaptive robust control of Mecanum-wheeled mobile robot with uncertainties
+Nonlinear Dynamics 87(4) 2147-2169
+SCI
+Yes 120
+CAYm2 (2016-17)
+Abhishek Jha, Shital S. Chiddarwar
+Robot Programming by Demonstration using Teleoperation through Imitation
+Emerald Journal of Industrial Robot 44(2) 142-154
+SCIE
+Yes 121
+CAYm2 (2016-17)
+Mangesh S. Kotambkar, Animesh Chatterjee
+Modeling and investigation of modal properties under crack induced mistuning in a turbine blade packet
+Journal of Vibration Engineering and Technologies 4(4) 335-348
+SCIE
+Yes 122
+CAYm2 (2016-17)
+Avinash A Thakre, Shashank Soni
+Modeling of burr size in drilling of aluminum silicon carbide composites using response surface methodology
+Engineering Science and Technology, an International Journal 19 1199-1205
+No
+No 123
+CAYm2 (2016-17)
+Avinash A Thakre, Ananta Shinde, Ganesh Mundhe
+Improvement in Boundary Lubrication Characteristics of SAE20W40 Oil Using Aluminum Oxide Nanoparticles
+Journal of Tribology 138 34501
+SCI
+Yes 124
+CAYm2 (2016-17)
+Vinit Gupta, Arun K. Singh
+Scaling laws of gelatin hydrogels for steady dynamic friction
+International Journal of Modern Physics B 30 1650198
+SCI
+Yes 125
+CAYm2 (2016-17)
+Sandeep Nandgaonkar, T V K Gupta, Suhas S Joshi
+Effect of Water Oil Mist Spray (WOMS) Cooling on Drilling of Ti6Al4V Alloy Using Ester Oil Based Cutting Fluid
+Procedia Manufacturing 6 71-79
+No
+Yes 126
+CAYm2 (2016-17)
+Nikhil Bauskar, Rahul A Mali, T V K Gupta
+FEA Based Simulation and Experimental Analysis of Forces in Dry Milling of Inconel 718
+Atlantis Press: 2nd International Conference on Communicationand Signal Processing (ICCASP 2016) 137 206-211
+No
+Yes 127
+CAYm2 (2016-17)
+G. V. V Surya Kiran, K. Hari Krishna, Sk. Sameer, M. Bhargavi, B. Santosh Kumar, G. Mohana Rao, Y. Naidubabu, Ravikumar Dumpala, B. Ratna Sunil
+Machining characteristics of fine grained AZ91 Mg alloy processed by friction stir processing
+Transactions of Nonferrous Metals Society of China 27 (4) 804–811
+SCI
+Yes 128
+CAYm2 (2016-17)
+Pravin Sawarkar,T.Sundararajan and K.Srinivasan
+Effects of externally applied pulsations on LPG flames at low and high fuel flow rates
+Applied Thermal Engineering 111 1664-1673
+SCI
+Yes 129
+CAYm2 (2016-17)
+K.M. Pandey, S. Roga and G. Choubey
+Numerical Investigation on Hydrogen-Fueled Scramjet Combustor with Parallel Strut Fuel Injector at a Flight Mach Number of 6
+Journal of Applied Fluid Mechanics 9 1215-1220
+SCI
+Yes 130
+CAYm2 (2016-17)
+Girish Bhiogade and J.G. Suryawanshi
+Investigations on premixed charge compression ignition engine with external mixture formation and exhaust gas recirculation technique
+Journal of Mechanical Science and Technology (Springer) 30 5269 – 5274
+SCIE
+Yes 131
+CAYm2 (2016-17)
+S.P.Chincholkar and J. G. Suryawanshi
+Gasoline Direct Injection: An Efficient Technology
+Energy Procedia (Elsevier) 90 666 – 672
+No
+Yes 132
+CAYm2 (2016-17)
+Animesh Chatterjee
+Sensitivity and Error Analysis of a Coupled Micro-Resonator Array for Ultra-Sensitive Mass Detection Using Matrix Perturbation Theory
+IEEE Sensors Journal
+SCI
+Yes 133
+CAYm2 (2016-17)
+Animesh Chatterjee
+Lumped parameter modelling of turbine blade packets for analysis of modal characteristics and identification of damage induced mistuning
+Applied Mathematical Modelling
+SCI
+Yes
+Acadmic Year
+S.No.
+Title of the Invention
+Inventors
+Status
+Patent Number
+Filing Date
+Filed In
+Filed 2016-2017 1
+SIMULTANEOUS BALANCING ANDTRAJECTORY TRACKING CONTROL FOR AMOBILE ROBOT WITH A NON- PLANAR OBJECT
+Veer Alakshendra, Shital Chiddarwar
+Filed 201721028549 09-08-2017
+India 2016-2017 2
+ROBOTIC SYSTEM FOR DE- BURRINGWORK-PIECES
+Rohini Bhute, Shital Chiddarwar, Abhishek Jha, VeerAlakshendra, Saumya Ranjan Sahoo
+Filed 201721026348 25-07-2017
+India 2016-2017 3
+Hybrid Robot
+Chiddarwar Shital Sudhakar, Khanna Parag, SINGH AKASH, THAKKER ROHAN ASHWIN, KAMAT AJINKYA RAM , KHUSHDEEP SINGH MANN,PAIGWAR ANSHUL, KUMAR SUDHIR
+Filed 201721020615 13-06-2017
+India 2016-2017 4
+Humanoid Robot
+KOTHARI ASHWIN, BHURCHANDI KISHOR, AGRAWAL SAPAN SANTOSH, SINGH AKASH, GADWE ANIKET ASHOK, PAIGWAR ANSHUL KAMAL, KAMAT AJINKYA RAM, SAROYA MANISH RAJESH, PUSALKAR NEHA, PATATH KARTIK, PRASAD BANDAPPA VAGDARGI, SARAF RADHA, THAKKER ROHAN ASHWIN, KAKDE SAKSHI, ADDEPALLI SHALINI, VERMA SURABHI,CHIDDARWAR SHITAL
+Filed 201721015920 05-05-2017
+India 2016-2017 5
+Robotic Cleaning System for Internal Cleaning of a Unit
+Chiddarwar Shital Sudhakar, Hattarge Swapnil Sudarshan, Shahu Pravin, Kapgate Sachin Damodar, Agrawal Sapan Santosh, Patath Kartik
+Filed 201621043891 22-12-2016
+India 2016-2017 6 3D Printed Artificial Temporal Bone andprocess of making the same
+Rashmi Uddanwadiker
+Filed 201621041387 2016
+India 2015-2016 7
+Feeding Bottle for Cleft Palate Babies
+Rashmi Uddanwadiker, Sukhada Joshi, Jugal Shah
+Filed 201621011518 31-03-2016
+India 2015-2016 8
+Rib design for thermal performance enhancement in roughened solar air heater
+V.B.Gawande, A.S.Dhoble, D.B.Zodpe
+Filed
+Filed on 24th June 2016 24-06-16
+Indian 2013-2014 9
+Device to restrict the unwanted reverse motion of vehicles
+Mangesh S. Kotambkar, Ajinkya s. Khade, Yash V. Borghate
+Filed 23-04-2014
+Published 2016-2017 10
+Method for Manufacturing of Thin PorousMetal Membrane using EDM and WEDM
+Dr. Y M Puri
+Published 201621028405 (application no.) 20-08-2016
+India

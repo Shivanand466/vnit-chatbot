@@ -1,0 +1,30 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/biomass-cookstove-lab-2/
+TITLE: Biomass Cookstove Lab
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+It is a known fact that millions of people in India and around the world still use biomass stoves for multiple applications. The purpose of the biomass cookstove lab is to carry out research in the unexplored area to enhance the performance of the stove and develop efficient, economical, and durable stove for the benefits of society. Research conducted involves both experimental and computational analysis..
+Available facilities
+Flue gas analyzer
+Particulate matter monitor
+Multi-Channel data Logger
+Infrared Thermometer (Non contact type)
+Hot wire Anemometer
+K type thermocouples
+Weighing scales
+Types of biomass cookstove
+Experimental setup of biomass cookstove
+Ph. D Students
+Sr. No.
+Name
+Thesis Title
+Status 1
+Milind Kshirsagar
+Mathematical and experimental Analysis of natural and hybrid draft Biomass cookstoves.
+Completed (2019) 2
+Rohan Pande
+Analysis of multi-pot biomass cookstove
+Completed (2019) 3
+Suraj Ghiwe
+Experimental and computational analysis of the impact of stove materials on the overall performance of a hybrid draft biomass cookstove
+(Thesis submitted) 2024

@@ -1,0 +1,134 @@
+SOURCE_URL: https://vnit.ac.in/engineering/mech/dr-rajendra-prasad-soni/
+TITLE: Dr. Rajendra Prasad Soni
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Dr. Rajendra Prasad Soni
+Brief Bio
+Dr. R. P. Soni, is currently working as an Assistant Professor in the department of Mechanical Engineering, VNIT Nagpur. He has completed his M.Tech. and Ph.D. from Indian Institute of Technology Guwahati. His PhD work focuses on hydrdoynamic instability of convection flow with density inversion of water. His research area includes, Battery Thermal Management System, Solar-thermal Energy, CFD, Hydrodynamic Instability,Cooling of Electronic devices, Microfluidics and Bio-medical applications. He is also interested in exploring areas such as Data Driven CFD, application of AI-ML in computation Fluid Dynamics.
+Education
+Sr. No.
+Degree
+Year
+Specialization
+University 1
+Ph.D.
+2021
+Fluid and Thermal Engg.
+IIT Guwahati 2
+M.Tech.
+2014
+Computational Mechanics
+IIT Guwahati 3
+B.E.
+2012
+Mechanical Engg.
+CSVTU Bhilai
+Contact
+Phone:
+Email:
+Address:
+0712-280-2301 rajendrasoni@mec.vnit.ac.in
+Office No.-104, New Academic Building rpsoni21@gmail.com
+VNIT Nagpur, South Ambazari Road,
+Nagpur-440010, Maharashtra, India
+Research Interest
+Hydrodynamic Instability, Computational Fluid Dynamics (CFD), Data Driven CFD, Machine Leaning, Battery Thermal Management System (BTMS), Cooling of Electronic devices, Solar-Energy, Micro-Fluidics and Bio-medical Applications
+Sponsored Research Projects
+Consultancy Projects
+Book or Book Chapters
+Patents
+STTP & Workshop
+Administrative Responsibilities
+Awards
+Journal Publications
+Conference Publications
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Sr. No.
+Title
+Funding Agency
+Role
+Year
+Amount  (in Lakhs INR)
+Description
+Author(s)
+Publisher
+ISBN
+Year
+Computational fluid dynamics analysis of MQL mist droplets characteristics with various geometrical nozzle orifice
+Karuturi Manohar Sai Krishna, Satyam Dwivedi,Rajendra Soni, and Kishor Kumar Gajrani
+CRC Press, Taylor and Francis Group 9781003291961 2023
+Sr. No.
+Patent Title
+Application No.
+Date
+Present Staus
+Sr. No.
+Title 1 5 Day Short Term Training Program on  “Modelling and Simulation in Solid and Fluid Mechanics Applications” in the department of Mechanical Engineering, VNIT Nagpur 2 5 Day Short Term Training Program on  “5-Day Training Workshop on CFD Simulation and Analysis using ANSYS Fluent” in the department of Mechanical Engineering, VNIT Nagpur
+Sr. No.
+Responsibility
+Institute
+Role
+Year 1
+Yoga Club
+VNIT Nagpur
+Professor In-charge 2023-2025 2
+Looking after maintainance activity of department library, Seminar hall, Classrooms
+VNIT Nagpur
+In-charge
+June 2022- May 2024, May 2024-till date 3
+Committee member for Maintenance of AC, Cooler and Filter in the institute
+VNIT Nagpur
+Member
+May 2024-till date 4
+Member of NBA Commitee in Mechanical Engineering department
+VNIT Nagpur
+Member
+May 2024-till date 5
+Guiding/ mentoring the students in their academics regarding finalising the subjects, etc.
+VNIT Nagpur
+Faculty advisor
+July 2023- June 2025 6
+Warden for 1st year students, Hostel: C V Raman
+VNIT Nagpur
+Warden
+June 2025-May 2026 7
+Conducting Cult Night, Freshers Evening and other cultural activity pertaining to 1st year students
+VNIT Nagpur
+Professor In-charge
+Sept 2025-Aug 2026 8
+Sr. No.
+Awards
+S.No.
+Publications 1
+Priti D. Dhabarde, Rajendra Prasad Soni, Jiwak G. Suryawanshi, Numerical thermal analysis and BP-ANN prediction of a lithium-ion battery module with a PCM-metal foam-based hexagonal enclosure, Applied Thermal Engineering. (Q1 Journal, Impact factor: 7.86).
+2
+Priti D. Dhabarde, Rajendra Prasad Soni, Jiwak G. Suryawanshi, Numerical investigation of a hybrid passive thermal management system for a lithium-ion battery module within an aluminium honeycomb enclosure, International Communications in Heat and Mass Transfer, page no. 112331, Vol. 179, 2026 (Q1 Journal, Impact factor: 6.2).
+3
+Priti D. Dhabarde , Rajendra Prasad Soni, Jiwak G. Suryawanshi, Passive-cooling of Li-ion batteries using PCM-metal foam in honeycomb enclosure, Applied Thermal Engineering, 281 (2025), 128543. Applied Thermal Engineering. (Q1 Journal, Impact factor: 7.86).
+4
+Saket Bihari Sharan Pandey , Rajendra Prasad Soni, Trushar B. Gohil, Reliability enhancement of solar PV power supply under particulate matter-induced losses through Demand Side Management, Thermal Science and Engineering Progress, 66,  (2025), 104032.
+5
+Soni R.P. and Gavara M.R., Aiding and opposing mixed convection of water with density inversion about a wall of varying temperature, Sādhanā, 172, 44, 2019.
+6
+Soni R.P. and Gavara M.R., Mixed convection heat transfer of water about a vertical surface of variable heat flux with density inversion, Sādhanā, 80, 44, 2019.
+7
+Soni R.P. and Gavara M.R., Natural convection in a cavity surface mounted with discrete heaters and subjected to different cooling configurations, Numerical Heat Transfer Part-A, 79-102, 70, 2016.
+8
+Priti D. Dhabarde , Rajendra Prasad Soni, Jiwak G. Suryawanshi, Thermal performance evaluation of a copper metal foam enhanced paraffin RT35 PCM system for lithium-ion battery under high discharge conditions, 28th National and 6th International ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2025), IIT Jodhpur, India.(accpeted for oral presentation) 9
+Raoof Koya K S, Vilas R Kalamkar, Rajendra Prasad Soni, Mitigating Thermal Runaway Propagation in High-Energy Battery Packs: A Thermo-Mechanical Perspective, 28th National and 6th International ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2025), IIT Jodhpur, India. (accpeted for oral presentation) 10
+Anuragi Lokesh and Soni R. P., Conjugate Heat Transfer with MHD Flow in a Rectangular Enclosure with Discrete Heating Elements using Nanofluid, 2nd International Conference on Emerging Aspects of Manufacturing, Thermal and Design Engineering (MATHED-2024), NIT Hamirpur, India 11
+Soni R.P. and Gavara M.R., Temporal stability of mixed convection boundary layer flows of water with density inversion, 7th International Congress on Computational Mechanics and Simulation (ICCMS-2019), IIT Mandi, India.
+12
+Soni R.P. and Gavara M.R., Spatial stability analysis of free convection water flows over an inclined plate including density inversion, 7th International and 45th National Fluid Mechanics and  luid Power Conference (FMFP) 2018, IIT Bombay, Mumbai, India.
+13
+Soni R.P. and Gavara M.R., Stability analysis of free convection of water about an inclined plate near its density inversion, 24th National and 2nd International ISHMT-ASTFE Heat and Mass  Transfer Conference (IHMTC-2017), BITS Pilani, Hyderabad Campus, India.
+14
+Soni R.P. and Gavara M.R., Study of mixed convection of water near 4oC over a vertical wall of uniform heat flux, 6th International and 43rd National Conference on Fluid Mechanics and Fluid Power (FMFP-2016), MNNIT Allahabad, India.
+S.No.
+Paper Citation 1 2 3 4 5 6 7

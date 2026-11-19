@@ -1,0 +1,115 @@
+SOURCE_URL: https://vnit.ac.in/engineering/apm/ph-d-admissions-summer-2026/
+TITLE: Ph.D. Admissions- Summer 2026
+FETCHED: 2026-11-19
+CRAWL: full-2026-11-19
+---
+Faculties at Applied Mechanics Department
+Prof.  Sangeeta Gadve
+Professor & Head of the Department
+Area of interest: Repairs,  Rehabilitation, RC/PSC structures, Concrete technology, FE analysis
+Contact No.(Office): 0712-2801323
+Email Id: head[at]apm.vnit.ac.in
+PROFESSOR
+Dr. R.K. Ingle
+Professor
+Area of interest: Analysis and design of  bridges, Water tanks, Buildings and  special structures, Earthquake resistant design, FEM Analysis
+Contact No.(Office) : 0712-2801358
+Email Id: rkingle[at]apm.vnit.ac.in
+Dr. O.R. Jaiswal
+Professor
+(Currently Director, NIT Goa) Area of interest: Dynamic analysis of structures ( wind and earthquake loads), Analysis and Design of elevated water tank, Structural Control
+Contact No.(Office): 0712-2801212
+Email Id: orjaiswal[at]apm.vnit.ac.in
+Dr. R. S. Sonparote
+Professor
+Area of interest: Software development, Soil-structure interaction, Machine foundation
+Contact No.(Office): 0712-2801077
+Email Id: rssonparote[at]apm.vnit.ac.in
+Dr. (Mrs) Sangeeta Gadve
+Professor
+Area of interest: Repairs,  Rehabilitation, RC/PSC structures, Concrete technology, FE analysis
+Contact No.(Office): 0712-2801415
+Email Id: sangeetagadve[at]apm.vnit.ac.in
+Dr. Sachin V. Bakre
+Professor
+Area of interest: Structural Control, Finite Element Analysis, Earthquake Engineering, Response of Structures to Blast Induced Vibrations
+Contact No.(Office): 0712-2801072
+Email Id: svbakre[at]apm.vnit.ac.in
+Dr. Ratnesh Kumar
+Professor
+Area of interest: Performance-based design, Seismic evaluation and retrofitting, Seismic vulnerability and risk assessment
+Contact No.(Office): 0712-2801582
+Email Id: ratneshkumars[at]apm.vnit.ac.in
+Associate Professor
+Dr. Sanjay B. Borghate
+Associate Professor
+Area of interest: Reinforced Concrete / Precast Concrete / Composite Structures, Numerical Methods / Finite Element Analysis and Computer Programming, Structural Auditing and Retrofittings
+Contact No.(Office): 0712-2801080
+Email Id: sbborghate[at]apm.vnit.ac.in
+Dr. Debarati Datta
+Associate Professor
+Area of interest: Structural dynamics, Seismic response of structures, Structural reliability
+Contact No. (Office): 0712-2801075
+Email Id: debaratidatta[at]apm.vnit.ac.in
+Dr. Arvind Y. Vyavahare
+Associate Professor
+Area of interest: FEM analysis, Steel structures, Steel connection
+Contact No. (Office): 0712-2801076
+Email Id: ayvyavahare[at]apm.vnit.ac.in
+Dr. Manmohan Dass Goel
+Associate Professor
+Area of interest: Blast Resistant Design of Structures, Behavior of Materials at Low, Medium and High Rate of Loadings, Numerical Simulation and Analysis of Blast and Impact Events, Crash Worthiness and Impact Mechanics
+Contact No. (Office): 0712-2801419
+Email: mdgoel[at]apm.vnit.ac.in
+ASSISTANT PROFESSOR
+Dr. A.P. Khatri
+Assistant Professor
+Area of interest: Steel Structures, RC Structures, Structural Stability, Structural Fire Engineering, Steel-concrete composite structures
+Contact No. (Office): 0712-2801581
+Email Id: ashishkhatri[at]apm.vnit.ac.in
+Dr. Sonal Dhanvijay
+Assistant Professor
+Area of interest: Experimental structural dynamics, hybrid simulation, reliability estimation
+Contact No. (Office): 0712-2801906
+Email Id: sonaldhanvijay[at]apm.vnit.ac.in
+Dr. Rahul Biswas
+Assistant Professor
+Area of interest: Concrete Technology, UHPC, Supplementary Cementitious Material, Machine Learning
+Contact No. (Office): – 0712-2801904
+Email Id: rahulbiswas[at]apm.vnit.ac.in
+Adhoc Assistant Professor
+Dr. Prachi Mishra
+Adhoc Assistant Professor
+Area of interest: Structural Engineering
+Contact No. (Office): 0712-2801323
+Dr. Sadique Ameen
+Adhoc Assistant Professor
+Area of interest: Composite Materials, Bamboo as Structural Material
+Contact No. (Office): – 0712-2801323
+Dr. Hemanth Kumar Karaka
+Adhoc Assistant Professor
+Area of interest: Seismic Behavior of Infilled masonry structures, Finite Element Analysis, Applied Element Analysis, Advanced computational modeling in Structural Engineering
+Contact No. (Office): 0712-2801323
+Dr. Geetopriyo Roy
+Adhoc Assistant Professor
+Area of interest: Seismic Hazard, Seismic Risk and Vulnerability
+Contact No. (Office): – 0712-2801323
+Dr. Sharad Singh
+Adhoc Assistant Professor
+Area of interest: Structural Dynamics and Vibration control
+Contact No. (Office): – 0712-2801323
+Dr. Jogi Pranitha
+Adhoc Assistant Professor
+Area of interest: Structural Dynamics, Finite Element Analysis, Fluid–Structure Interaction, and Seismic Response of Structures
+Contact No. (Office): – 0712-2801323
+Visiting Faculty
+Dr. G. R. Reddy, Ph.D (TMU, Japan)
+Professor Emeritus,
+Department of
+Applied Mechanics
+, VNIT Nagpur,
+Adjunct Professor, VJTI, Mumbai, Former Adjunct Professor, NITK, Surathkal, Former Teacher for PhDs, University of Mumbai,
+Former Outstanding Scientist, BARC, Former Senior Professor, HBNI, Mumbai.
+Area of interest:  1. Dynamics and Earthquake Engineering related to Structures, Equipment and Systems,  2. Generation of design hazards and Dynamic response  control of Structures, Equipment and Systems.
+
+Email Id: grrddy[at]yahoo.com
