@@ -253,6 +253,34 @@ def pictures_note(page):
             f'which this demo does not copy. {external(page["source_url"], "See them on vnit.ac.in")}.</p>\n')
 
 
+def menu_children(site, path):
+    """The menu entries under this page, if some menu on vnit.ac.in lists it as a heading."""
+    def walk(items):
+        for item in items:
+            if item["href"] == "vnit:" + path and item["children"]:
+                return item["children"]
+            found = walk(item["children"])
+            if found:
+                return found
+        return None
+    for items in site.menus.values():
+        found = walk(items)
+        if found:
+            return found
+    return None
+
+
+def empty_note(site, page, root):
+    """Pages that are empty on vnit.ac.in: list their menu entries, or say plainly that they are empty."""
+    if page["words"] > 0 or page.get("images"):
+        return ""
+    children = menu_children(site, page["path"])
+    if children:
+        return f'<ul class="child-pages">{site.menu_items(children, root)}</ul>\n'
+    return (f'<p class="pictures-note">This page on vnit.ac.in has no text of its own. '
+            f'{external(page["source_url"], "See it on vnit.ac.in")}.</p>\n')
+
+
 def build_page(site, page):
     rel = out_file(page["path"])
     root = "../" * rel.count("/")
@@ -267,7 +295,7 @@ def build_page(site, page):
     crumbs.append((page["title"], None))
     date = f'<p class="post-date">{esc(page["date"])}</p>\n' if page["kind"] == "post" and page["date"] else ""
     side = site.side_menu(page, "$root")
-    article = (f'  <article class="content">\n    <h1>{esc(page["title"])}</h1>\n{date}{pictures_note(page)}'
+    article = (f'  <article class="content">\n    <h1>{esc(page["title"])}</h1>\n{date}{pictures_note(page)}{empty_note(site, page, "$root")}'
                f'{body}\n{source_line(page)}\n  </article>\n')
     layout = "page-layout" if side else "page-layout single"
     main = breadcrumbs(crumbs) + f'\n<div class="{layout}">\n{side}{article}</div>'

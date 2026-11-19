@@ -38,3 +38,5 @@ Step 9: DONE - README (what, how to run, how it is built, widget server, checks)
 - Git identity in this repo is copied from vnit-chatbot (Doddi Shivanand).
 - vnit-chatbot `git status --short` at Step 0: only ` M data/processed/answer_check.json`. Step 6 must leave it exactly like that.
 - No ablation or 100-case runner is running (the 100-case run was halted on 14 Nov at 50 of 100 answered).
+
+- 2026-11-19, after Runbook 8: full site from a full crawl (1,628 pages fetched, 1,562 built). Links 0 broken, pages 0 problems, faithfulness 0 of 200,125 not found. DONE.

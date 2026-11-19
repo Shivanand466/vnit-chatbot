@@ -14,3 +14,5 @@ checks/*.png
 # Full crawl of vnit.ac.in (HTML), rebuilt by tools/crawl_site.py
 crawl/html/
 content/pages/
+crawl/*.log
+crawl/*.err

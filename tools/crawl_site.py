@@ -25,7 +25,7 @@ import urllib.robotparser
 from datetime import date
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urljoin, urlsplit, urlunsplit
+from urllib.parse import quote, urljoin, urlsplit, urlunsplit
 
 HERE = Path(__file__).resolve().parent.parent
 CRAWL = HERE / "crawl"
@@ -70,7 +70,7 @@ class LinkParser(HTMLParser):
 def normalise(url):
     """https, no query or fragment, trailing slash: one spelling per page."""
     parts = urlsplit(url)
-    path = re.sub(r"/+", "/", parts.path or "/")
+    path = quote(re.sub(r"/+", "/", parts.path or "/"), safe="/%:@!$&'()*+,;=-._~")
     if not path.endswith("/") and "." not in path.rsplit("/", 1)[-1]:
         path += "/"
     return urlunsplit(("https", "vnit.ac.in", path, "", ""))

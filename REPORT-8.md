@@ -2,6 +2,9 @@
 
 ## Good morning
 
+> **Update, 19 Nov 2026: the full site.** After Runbook 8 the site was rebuilt from a full crawl of vnit.ac.in: 1,562 pages (was 89), at the real addresses, with the real main menu and every department's and section's own menu. See "After Runbook 8: the full site" at the end. The sections below describe the 89-page version as it was at the end of Runbook 8.
+
+
 **What was built.**
 - A copy of the VNIT website with 89 pages: home, 75 content pages in 11 menu sections, section overview pages, a searchable list of 401 notices, contact and a "not found" page.
 - It is built entirely from the pages and documents the chatbot already crawled from vnit.ac.in. A check confirms that every one of its 6,987 pieces of text is copied from the crawl.
@@ -402,3 +405,39 @@ All of Step 7's checks were re-run after the fixes, and the screenshots were ret
 - The "Good morning" section at the top of this report, including the paragraph to paste into `vnit-chatbot/HOW-TO-RUN.md` (the chatbot's README and HOW-TO-RUN were not edited).
 
 **Done when:** README and REPORT-8 complete: yes. Every step's line in PROGRESS-8 filled in: yes (0 to 9, all DONE).
+
+
+## After Runbook 8: the full site
+
+Asked for: "complete vnit website as in vnit.ac.in, all its pages".
+
+**What changed.** The site is no longer built from the chatbot's 81 crawled pages. It is built from a new crawl of every page vnit.ac.in lists:
+- `tools/crawl_site.py` read the WordPress sitemaps of the main site and 17 sub-sites, and followed links in the 5 departments without a sitemap. It was polite (robots.txt, 1 page per second) and took about 3½ hours on 19 Nov 2026, because vnit.ac.in answers slowly (about 7 s a page). It saved 1,628 pages; 22 addresses failed, mostly pages vnit.ac.in itself reports as missing (404).
+- `tools/extract.py` keeps each page's own content and copies the menus: the main menu and 21 sub-site menus. R&C has no menu on vnit.ac.in, only tiles on its front page, so its pages have no side menu.
+- `build_site.py` puts every page at its real address, with breadcrumbs, the sub-site's menu at the side, a Source line and a News page of all 101 news posts. Home page, Notices search and the chat widget are as before.
+
+**Checks** (all on the final build):
+
+| Check | Result |
+|---|---|
+| `check_links.py` | 0 broken internal links |
+| `check_pages.py` | 1,562 pages, 0 problems |
+| `check_faithful.py` | 200,125 pieces of text, 0 not found in the HTML vnit.ac.in sent for that page |
+| `screenshots.sh` | 16 screenshots (home, CSE department, CSE faculty, Academic fees, an empty page, News, Notices, chat), laptop and phone, all looked at |
+
+**Problems found and fixed on the way:**
+- The crawler stopped at a link containing a curly quote; addresses are now percent-encoded.
+- Most department menus use a menu style the first extractor did not know (ElementsKit); now found on all 21 sub-sites that have one.
+- Animated counters came out as one long line, and the faithfulness check misread them (the original page holds a "0" placeholder next to the real value); each counter is now its own line, and the check reads the real value.
+- Slider and testimonial items ran together; each is now its own paragraph.
+- One page had a whole second web page pasted into it, and its `<!DOCTYPE html>` showed as the word "html"; dropped.
+- Sub-site names were repeated at the end of every page title ("Faculty – VNIT Nagpur Mining Engineering Department"); now just "Faculty".
+
+**Left out on purpose** (each listed with its reason in `content/skipped.json`):
+- 18 pages of a WordPress theme's demo content left installed in the Civil sub-site (an imaginary city's mayor, example.com addresses). They are on vnit.ac.in, but they are not VNIT content.
+- 2 pages listing named candidates (privacy), and 1 test post.
+- 48 addresses that redirect to another page that is already copied.
+
+**Shown with a note instead of content:** 22 pages that are only pictures (the note gives the number of pictures and links to them on vnit.ac.in), and 69 pages that are empty on vnit.ac.in itself.
+
+**Correction.** An earlier message said the main sitemap lists 543 news posts. That was wrong: the crawl holds 102 posts, and the site shows 101 (one is the test post).

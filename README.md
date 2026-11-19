@@ -1,6 +1,6 @@
 # VNIT website, with the VNIT Assistant built in (student project demo)
 
-A copy of the VNIT Nagpur website's structure and content, rebuilt from the pages and documents our chatbot already crawled from vnit.ac.in. The VNIT Assistant chatbot is a floating chat window on every page.
+A copy of the whole VNIT Nagpur website: every page vnit.ac.in lists, including each department's and section's own sub-site, at the same addresses and with the same menus. The VNIT Assistant chatbot is a floating chat window on every page.
 
 **This is a demo, not the official VNIT website.** Every page says so in a banner at the top and links to the real site, https://vnit.ac.in. Every page is marked `noindex` so search engines leave it out. Every content page ends with a "Source" line linking to the vnit.ac.in page it was copied from. There are no logins, forms or payments, and no VNIT logo or photos.
 
@@ -27,35 +27,44 @@ You can also open `dist\index.html` straight from the folder, without the server
 
 ## How it is built
 
-Everything comes from the chatbot's crawl in `../vnit-chatbot/data/raw/` (81 pages and 406 documents). Nothing is written by hand.
+Three steps, each a script. Nothing on the site is written by hand.
 
 | Step | Script | Writes |
 |---|---|---|
-| Which crawled page becomes which page of the site | `tools/inventory.py` | `content/pages.json` (75 pages in 11 sections), `content/left_out.json` (6 files that don't become ordinary pages, and why) |
-| The notice list | `tools/notices.py` | `content/notices.json`: the 401 documents the chatbot converted and did not exclude as personal data, newest first |
-| The site | `build_site.py` | `dist/`: 89 pages of plain HTML with relative links, plus `sitemap.json` |
+| 1. Fetch every page | `tools/crawl_site.py` | `crawl/html/` (each page's HTML, gzipped) and `crawl/manifest.json` |
+| 2. Keep each page's own content, and the menus | `tools/extract.py` | `content/site.json`, `content/pages/`, `content/menus.json`, `content/skipped.json` |
+| 3. Build the site | `build_site.py` | `dist/`: one folder per page, at the same address as on vnit.ac.in, plus `sitemap.json` |
 
-**`build_site.py` copies, never rewrites.** It:
-- drops the old site's widget text ("Next slide", "Read more →", animated counters that were crawled as 0, photo file names, empty tab names) and repeated lines;
-- rejoins sentences the crawl broke over two adjacent lines;
-- turns lines into headings, lists, tables and paragraphs;
-- makes emails and phone numbers clickable;
-- turns a line that is the exact link text of a crawled document into a link to that document.
+The notice list (`/notices/`) still comes from the chatbot's documents (`tools/notices.py`), and the home page from the chatbot's crawl of the home, history and director pages.
 
-It uses the Python standard library only: no installs, no frameworks, no web fonts and no CDNs, so it works offline.
+**Step 1, the crawl.** The crawler finds pages in vnit.ac.in's own WordPress sitemaps: the main site plus 17 sub-sites (sections such as Academics, Hostel and T&P, and departments such as CSE and Civil). The departments without a sitemap (Mining, CVLSI, Architecture, Physics, Metallurgy) are found by following their links. It obeys robots.txt, waits a second between pages and can be stopped and resumed. The crawl of 2026-11-19 saved 1,628 pages; 22 addresses failed, almost all of them pages vnit.ac.in itself reports as missing (404).
+
+**Step 2, extraction.** For each page the extractor keeps only the page's own content (headings, paragraphs, lists, tables, links) and drops the site header, footer, scripts, images, forms and sliders' duplicate copies. Text is never changed. It also brings back what the plain text crawl lost: tab contents, and the real numbers behind animated counters ("Faculty 22", not "Faculty 0"). It copies the main menu and each sub-site's own menu with all their levels. Pages left out, each with its reason in `content/skipped.json`:
+- 48 that redirect to (or are the same as) another page;
+- 18 pages of a WordPress theme's demo content left installed in the Civil sub-site (placeholder text about an imaginary city, example.com addresses);
+- 2 pages that list named candidates (privacy);
+- 1 test post ("test09.11.26").
+
+**Step 3, the build.** `build_site.py` puts each page at its real address (`vnit.ac.in/engineering/cse/faculty/` becomes `dist/engineering/cse/faculty/index.html`) with the real main menu, the sub-site's own menu at the side, breadcrumbs and a Source line. Links between copied pages stay on the demo site; links to pages that were not copied (and to PDFs) go to vnit.ac.in. It uses the Python standard library only: no installs, no web fonts, no CDNs, so it works offline.
+
+Things the demo does not copy, on purpose:
+- **VNIT's logo and photos.** 22 pages on vnit.ac.in are only pictures (mostly newspaper clippings); their copy says how many pictures there are and links to the original.
+- **Empty pages.** 69 pages are empty on vnit.ac.in itself (menu headings such as "Administration"); their copy says so and links to the original.
+- **Logins, forms and payments.** Online Payment, e-Samarth and e-Office link to the real portals.
 
 Templates are in `templates/` (Python `string.Template`). Styles are in `assets/css/site.css` and `assets/css/vnit-assistant.css`. Scripts are in `assets/js/`: `site.js` runs the menu, `notices.js` runs the notice search, and `vnit-assistant.js` is the chat widget.
 
-### After the chatbot's crawl is refreshed
+### To refresh the copy from vnit.ac.in
 
 ```
 cd vnit-website
-~/anaconda3/python.exe tools/inventory.py      # stops and names any new page file that needs a place
+~/anaconda3/python.exe tools/crawl_site.py           # about 3 hours for a full crawl; resumable
+cd tools && ~/anaconda3/python.exe extract.py && cd ..   # about 12 minutes
 ~/anaconda3/python.exe tools/notices.py
-~/anaconda3/python.exe build_site.py
-~/anaconda3/python.exe tools/check_faithful.py # must say 0 not found in the crawl
+~/anaconda3/python.exe build_site.py                 # under a minute
+~/anaconda3/python.exe tools/check_faithful.py       # must say 0 not found in the crawl
 ```
-If `inventory.py` stops at a new page file, add it to `PAGES` (or `LEFT_OUT`) in that script.
+The crawler skips pages it already saved. To fetch everything fresh, move `crawl/` to `_trash/` first.
 
 ## How the chat widget finds its server
 
@@ -79,8 +88,8 @@ The conversation is kept in memory only, never in cookies or storage, so it star
 ```
 ~/anaconda3/python.exe tools/check_links.py     # every link inside the site leads to a page that exists
 ~/anaconda3/python.exe tools/check_pages.py     # every page has the banner, noindex, footer credit, one <h1>, a Source line
-~/anaconda3/python.exe tools/check_faithful.py  # every piece of text on the site is found in the crawl
-bash tools/screenshots.sh                       # 12 screenshots into checks/ (headless Edge)
+~/anaconda3/python.exe tools/check_faithful.py  # every piece of text is found in the HTML vnit.ac.in sent for that page
+bash tools/screenshots.sh                       # 16 screenshots into checks/ (headless Edge)
 ~/anaconda3/python.exe tools/smoke_test.py      # needs the chatbot server on port 8010; uses no Groq quota without a key
 ```
-All three Python checks report zero problems.
+All three Python checks report zero problems (1,562 pages, 200,125 pieces of text).

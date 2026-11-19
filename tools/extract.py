@@ -23,7 +23,7 @@ import sys
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit, urlunsplit
 
-from bs4 import BeautifulSoup, Comment, NavigableString
+from bs4 import BeautifulSoup, Comment, Declaration, Doctype, NavigableString
 
 HERE = Path(__file__).resolve().parent.parent
 CRAWL = HERE / "crawl"
@@ -35,7 +35,7 @@ KEEP = {"h1", "h2", "h3", "h4", "h5", "h6", "p", "ul", "ol", "li", "table", "the
         "dl", "dt", "dd", "sup", "sub", "caption", "hr"}
 DROP = {"script", "style", "noscript", "iframe", "img", "svg", "form", "input", "button", "select",
         "textarea", "video", "audio", "picture", "source", "canvas", "object", "embed", "map",
-        "link", "meta", "template", "label", "nav"}
+        "link", "meta", "template", "label", "nav", "head", "title"}
 DROP_CLASSES = re.compile(
     r"elementor-hidden-desktop|swiper-slide-duplicate|elementor-tabs-wrapper|screen-reader-text|"
     r"elementor-swiper-button|swiper-pagination|elementor-share|sharedaddy|post-navigation|"
@@ -48,6 +48,12 @@ PRIVATE_TITLE = re.compile(
     r"shortlist|selected (candidates|students)|list of (eligible|selected|candidates|provisionally)|"
     r"provisional (selection )?list|merit list|qualified|candidates (selected|allowed|qualified)|"
     r"score access|marks secured|result of|interview result|waiting list", re.I)
+
+# Pages that are a WordPress theme's demo content left installed on vnit.ac.in (placeholder
+# text about an imaginary city, example.com addresses), not VNIT content: left out.
+THEME_DEMO = re.compile(r"Monocle ipsum|@example\.com|Amon City|official website of EGovt|Slider with alias|"
+                        r"Pre-Made blocks|use Obira|Lorem ipsum dolor sit amet, consectetur adipiscing elit\. "
+                        r"Ut elit tellus", re.I)
 
 SITE_SUFFIX = re.compile(r"\s*[–—|-]\s*(VNIT Nagpur.*|Hostel Section|Research and Consultancy|"
                          r"VNIT Academic and Exam Section)\s*$")
@@ -86,6 +92,8 @@ def page_title(soup):
     og = soup.find("meta", property="og:title")
     raw = og["content"] if og and og.get("content") else (soup.title.get_text() if soup.title else "")
     title = SITE_SUFFIX.sub("", raw).strip(" |–—-")
+    if title == "VNIT Nagpur":  # a section's front page, "VNIT Nagpur – Hostel Section": keep its name
+        title = raw.strip()
     if title:
         return title
     h1 = soup.select_one("h1")
@@ -138,12 +146,23 @@ def menu_tree(ul, base):
     return items
 
 
-def find_menu(soup):
-    for sel in ["#site-navigation-bottom-desktop", "nav.primary-menu", "header nav", ".hfe-nav-menu",
-                ".ekit-menu-container", "#masthead nav", "nav"]:
-        nav = soup.select_one(sel)
-        if nav and nav.find("ul"):
-            return nav.find("ul")
+def find_menu(soup, base):
+    """The site's (or sub-site's) main menu, as a tree of {label, href, children}."""
+    for sel in ["#site-navigation-bottom-desktop ul", "ul.elementskit-navbar-nav", "ul.hfe-nav-menu",
+                "ul.elementor-nav-menu", "nav.primary-menu ul", "#masthead nav ul"]:
+        ul = soup.select_one(sel)
+        if ul is not None and len(ul.find_all("a")) > 4:
+            return menu_tree(ul, base)
+    # Some sub-sites (R&C) keep their menu as plain links in a pop-up panel.
+    panel = soup.select_one('[id^="ekit_modal-popup"]')
+    if panel is not None:
+        items, seen = [], set()
+        for a in panel.find_all("a"):
+            label, href = a.get_text(" ", strip=True), link_target((a.get("href") or "").strip(), base)
+            if label and href and (label, href) not in seen:
+                seen.add((label, href))
+                items.append({"label": label, "href": href, "children": []})
+        return items or None
     return None
 
 
@@ -168,6 +187,12 @@ def link_target(href, base, crawled=None):
 def fix_widgets(root):
     for counter in root.select(".elementor-counter-number[data-to-value]"):
         counter.string = counter["data-to-value"]
+    for counter in root.select(".elementor-counter"):
+        counter.name = "p"  # one counter (number and label) per paragraph
+    for item in root.select(".elementor-slide-heading, .elementor-slide-description, .elementor-testimonial__text, "
+                            ".elementor-testimonial__name, .elementor-testimonial__title"):
+        if not item.find(["p", "div", "ul", "ol", "table"]):
+            item.name = "p"  # one slide or testimonial per paragraph
     for title in root.select(".elementor-tab-mobile-title, .elementor-tab-title, .elementor-toggle-title"):
         title.name = "h3"
     for heading in root.select(".elementor-heading-title, .elementor-image-box-title, .elementor-icon-box-title"):
@@ -176,7 +201,7 @@ def fix_widgets(root):
 
 
 def strip_tree(root, base, crawled):
-    for c in root.find_all(string=lambda s: isinstance(s, Comment)):
+    for c in root.find_all(string=lambda s: isinstance(s, (Comment, Doctype, Declaration))):
         c.extract()
     for el in root.find_all(DROP):
         el.decompose()
@@ -284,6 +309,30 @@ def to_fragment(root, base, crawled):
     return html[len("<div>"):-len("</div>")].strip() if html.startswith("<div>") else html
 
 
+def strip_site_names(site):
+    """Drops a sub-site's name from the end of its page titles ("Faculty – VNIT Nagpur Mining
+    Engineering Department" becomes "Faculty"), as SITE_SUFFIX does for the main site. A sub-site's
+    name is the ending most of its titles share; its front page keeps the name as its title."""
+    from collections import Counter
+    split = re.compile(r"\s+[–—|]\s+")
+    by_sub = {}
+    for page in site:
+        by_sub.setdefault(page["subsite"], []).append(page)
+    for sub, pages in by_sub.items():
+        if sub == "/":
+            continue
+        endings = Counter(split.split(p["title"])[-1] for p in pages if split.search(p["title"]))
+        if not endings:
+            continue
+        name, count = endings.most_common(1)[0]
+        if count < 3 or count < 0.4 * len(pages):
+            continue
+        for page in pages:
+            parts = split.split(page["title"])
+            if len(parts) > 1 and parts[-1] == name:
+                page["title"] = name if page["path"] == sub else page["title"][:page["title"].rfind(name)].rstrip(" –—|")
+
+
 # ------------------------------------------------------------ whole run
 
 def slug_for(path):
@@ -319,12 +368,19 @@ def main():
         if PRIVATE_TITLE.search(title):
             skipped.append({"url": url, "reason": "lists named individuals (privacy)", "title": title})
             continue
+        if re.fullmatch(r"test[\s\d.\-]*", title, re.I):
+            skipped.append({"url": url, "reason": "test post", "title": title})
+            continue
+        root = content_root(soup)
+        if THEME_DEMO.search(root.get_text(" ")):
+            skipped.append({"url": url, "reason": "theme demo page (placeholder text, not VNIT content)",
+                            "title": title})
+            continue
         sub = subsite_of(path, subsites)
         if path == sub or path == "/":
-            ul = find_menu(soup)
-            if ul is not None:
-                menus[sub] = menu_tree(ul, url)
-        root = content_root(soup)
+            menu = find_menu(soup, url)
+            if menu:
+                menus[sub] = menu
         images = len(root.find_all("img"))
         body = to_fragment(root, url, crawled)
         slug = slug_for(path)
@@ -333,6 +389,7 @@ def main():
                      "date": page_date(soup), "subsite": sub, "source_url": url,
                      "fetched": entry["fetched"], "images": images, "words": len(BeautifulSoup(body, "html.parser").get_text(" ").split())})
 
+    strip_site_names(site)
     (CONTENT / "site.json").write_text(json.dumps(site, indent=1, ensure_ascii=False), encoding="utf-8")
     (CONTENT / "menus.json").write_text(json.dumps(menus, indent=1, ensure_ascii=False), encoding="utf-8")
     (CONTENT / "skipped.json").write_text(json.dumps(skipped, indent=1, ensure_ascii=False), encoding="utf-8")

@@ -1,1 +1,2367 @@
-{}
+{
+ "/": [
+  {
+   "label": "Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "About",
+   "href": "",
+   "children": [
+    {
+     "label": "Chairman-BoG",
+     "href": "vnit:/chairman/",
+     "children": []
+    },
+    {
+     "label": "Director",
+     "href": "vnit:/director-vnit-nagpur/",
+     "children": []
+    },
+    {
+     "label": "Deputy Director",
+     "href": "vnit:/deputy-director-vnit-nagpur/",
+     "children": []
+    },
+    {
+     "label": "Deans",
+     "href": "vnit:/deans-2026/",
+     "children": []
+    },
+    {
+     "label": "Registrar",
+     "href": "vnit:/registrar/",
+     "children": []
+    },
+    {
+     "label": "Associate Deans",
+     "href": "vnit:/associate-deans-ver-1-0/",
+     "children": []
+    },
+    {
+     "label": "Head of Departments",
+     "href": "vnit:/head-of-departments/",
+     "children": []
+    },
+    {
+     "label": "Administrative Officers",
+     "href": "vnit:/administrative-officers/",
+     "children": []
+    },
+    {
+     "label": "Technical / Other Cadre Officers",
+     "href": "vnit:/technical-other-cadre-officers/",
+     "children": []
+    },
+    {
+     "label": "Administration",
+     "href": "",
+     "children": [
+      {
+       "label": "Board of Governors",
+       "href": "vnit:/bog-2026/",
+       "children": []
+      },
+      {
+       "label": "Senate Members",
+       "href": "https://drive.google.com/file/d/1ki-CGVc5eUAGj7sORvekAj0HLMJjt-E1/view?usp=sharing",
+       "children": []
+      },
+      {
+       "label": "Finance Committee",
+       "href": "vnit:/finance-committee-2/",
+       "children": []
+      },
+      {
+       "label": "Building and Works Committee",
+       "href": "vnit:/building-works-committee/",
+       "children": []
+      },
+      {
+       "label": "Committees",
+       "href": "",
+       "children": [
+        {
+         "label": "Anti-Ragging Committee",
+         "href": "https://drive.google.com/file/d/1nQyQIbC5Klu5OtlcmPw9sv9Ao70Brz7x/view?usp=sharing",
+         "children": []
+        },
+        {
+         "label": "Institution’s Innovation Council",
+         "href": "vnit:/wp-content/uploads/2024/01/Institutions-Innovation-Council.pdf",
+         "children": []
+        },
+        {
+         "label": "Institute Website Committee",
+         "href": "vnit:/wp-content/uploads/2024/05/website-committee-24.pdf",
+         "children": []
+        },
+        {
+         "label": "Grievance Committee",
+         "href": "https://drive.google.com/file/d/1AMv0QOu2y5hnNkGrXIqf_27P2TT_kGsN/view?usp=sharing",
+         "children": []
+        },
+        {
+         "label": "Internal Complaints Committee",
+         "href": "https://drive.google.com/file/d/17Bdn_V-yX77luhRXhW-kywGLOxXCnBzG/view?usp=sharing",
+         "children": []
+        },
+        {
+         "label": "Staff Selection Committee",
+         "href": "vnit:/staff-selection-committee/",
+         "children": []
+        },
+        {
+         "label": "Rajbhasha Hindi Committee",
+         "href": "https://drive.google.com/file/d/1sL4jvYQIQw0ppTHNAxeQcLtPSR_rRw4V/view?usp=sharing",
+         "children": []
+        },
+        {
+         "label": "SC/ST Cell",
+         "href": "https://drive.google.com/file/d/1HvbFywkHClePNehGe9eewjgND3g4WjZC/view?usp=sharing",
+         "children": []
+        }
+       ]
+      },
+      {
+       "label": "Special Cell",
+       "href": "https://drive.google.com/file/d/1mmGVGrjUVVG8EuLTeULz9c29m1sJX-iu/view?usp=sharing",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Vision and Mission",
+     "href": "vnit:/vision-and-mission/",
+     "children": []
+    },
+    {
+     "label": "General Information",
+     "href": "vnit:/general-information/",
+     "children": [
+      {
+       "label": "History",
+       "href": "vnit:/history/",
+       "children": []
+      },
+      {
+       "label": "Institute Awards",
+       "href": "vnit:/institute-awards/",
+       "children": []
+      },
+      {
+       "label": "Annual Reports & Annual Accounts",
+       "href": "vnit:/annual-reports-annual-accounts/",
+       "children": []
+      },
+      {
+       "label": "Campus Map",
+       "href": "vnit:/campus-map/",
+       "children": []
+      },
+      {
+       "label": "Contacts",
+       "href": "vnit:/contact-us/",
+       "children": []
+      },
+      {
+       "label": "Telephone Directory",
+       "href": "vnit:/telephone-directory/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Student Corner",
+     "href": "",
+     "children": [
+      {
+       "label": "Student Council",
+       "href": "https://drive.google.com/file/d/1wWj-3H5C_m7NMTM0sEw21yFwuLkeDXo0/view?usp=sharing",
+       "children": []
+      },
+      {
+       "label": "Circular",
+       "href": "",
+       "children": []
+      },
+      {
+       "label": "Academic Forms",
+       "href": "vnit:/section/academics/academic-forms/",
+       "children": []
+      },
+      {
+       "label": "Academic Rule Book",
+       "href": "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Director Office Staff",
+     "href": "vnit:/director-office-staff/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Academics",
+   "href": "",
+   "children": [
+    {
+     "label": "Departments",
+     "href": "",
+     "children": [
+      {
+       "label": "Basic Science",
+       "href": "",
+       "children": [
+        {
+         "label": "Department of Physics",
+         "href": "vnit:/basic_science/phy/",
+         "children": []
+        },
+        {
+         "label": "Department of Chemistry",
+         "href": "vnit:/basic_science/chemistry/",
+         "children": []
+        },
+        {
+         "label": "Department of Mathematics",
+         "href": "vnit:/basic_science/maths/",
+         "children": []
+        },
+        {
+         "label": "Humanities & Social Sciences",
+         "href": "vnit:/basic_science/hum/",
+         "children": []
+        }
+       ]
+      },
+      {
+       "label": "Engineering",
+       "href": "",
+       "children": [
+        {
+         "label": "Applied Mechanics",
+         "href": "vnit:/engineering/apm/",
+         "children": []
+        },
+        {
+         "label": "Centre for VLSI & Nanotechnology",
+         "href": "vnit:/engineering/cvlsi/",
+         "children": []
+        },
+        {
+         "label": "Chemical Engineering",
+         "href": "vnit:/engineering/chemical/",
+         "children": []
+        },
+        {
+         "label": "Civil Engineering",
+         "href": "vnit:/engineering/civil/",
+         "children": []
+        },
+        {
+         "label": "Computer Science & Engineering",
+         "href": "vnit:/engineering/cse/",
+         "children": []
+        },
+        {
+         "label": "Electrical Engineering",
+         "href": "vnit:/engineering/electrical/",
+         "children": []
+        },
+        {
+         "label": "Electronics & Communication",
+         "href": "vnit:/engineering/ece/",
+         "children": []
+        },
+        {
+         "label": "Mechanical Engineering",
+         "href": "vnit:/engineering/mech/",
+         "children": []
+        },
+        {
+         "label": "Metallurgical & Materials Engineering",
+         "href": "vnit:/engineering/meta/",
+         "children": []
+        },
+        {
+         "label": "Mining Engineering",
+         "href": "vnit:/engineering/mining/",
+         "children": []
+        }
+       ]
+      },
+      {
+       "label": "Architecture & Planning",
+       "href": "vnit:/arch/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Sections",
+     "href": "",
+     "children": [
+      {
+       "label": "Academic & Exam",
+       "href": "vnit:/section/academics/",
+       "children": []
+      },
+      {
+       "label": "Accounts Section",
+       "href": "vnit:/account-section/",
+       "children": []
+      },
+      {
+       "label": "Stores",
+       "href": "vnit:/section/stores/",
+       "children": []
+      },
+      {
+       "label": "Training and Placement",
+       "href": "vnit:/section/tnp/",
+       "children": []
+      },
+      {
+       "label": "Hostels",
+       "href": "vnit:/section/hostel/",
+       "children": []
+      },
+      {
+       "label": "Sports",
+       "href": "vnit:/section/sports/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Research Centres",
+     "href": "",
+     "children": [
+      {
+       "label": "CAD – CAM Centre",
+       "href": "vnit:/wp-content/uploads/2023/04/cad_cam_dept.pdf",
+       "children": []
+      },
+      {
+       "label": "Material Engineering Centre",
+       "href": "vnit:/wp-content/uploads/2023/04/center_for_materials.pdf",
+       "children": []
+      },
+      {
+       "label": "Centre for Water Resource",
+       "href": "vnit:/wp-content/uploads/2023/04/water_resources_engineering_centre.pdf",
+       "children": []
+      },
+      {
+       "label": "Centre for Remote Sensing",
+       "href": "vnit:/wp-content/uploads/2023/04/remote_sensing_and_gis_lab1.pdf",
+       "children": []
+      },
+      {
+       "label": "S-TIC VNIT",
+       "href": "vnit:/s-tic-vnit/",
+       "children": []
+      },
+      {
+       "label": "Centre for Innovation",
+       "href": "vnit:/centre-for-innovation/",
+       "children": []
+      },
+      {
+       "label": "V R Jamdar Siemens CoE",
+       "href": "vnit:/vrjscoe/",
+       "children": []
+      },
+      {
+       "label": "Centre of Excellence",
+       "href": "vnit:/coe/",
+       "children": []
+      },
+      {
+       "label": "5G Lab",
+       "href": "vnit:/5g-lab-vnit-nagpur/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Institute Utility Centres",
+     "href": "",
+     "children": [
+      {
+       "label": "Network Centre",
+       "href": "vnit:/network-centre/",
+       "children": []
+      },
+      {
+       "label": "Computer Centre",
+       "href": "vnit:/computer-centre/",
+       "children": []
+      },
+      {
+       "label": "Library and Information Resource Centre",
+       "href": "vnit:/library-and-information-center/",
+       "children": []
+      },
+      {
+       "label": "Students & Sports Activity Centre",
+       "href": "vnit:/section/sports/",
+       "children": []
+      },
+      {
+       "label": "Training & Placement Centre",
+       "href": "vnit:/section/tnp/",
+       "children": []
+      },
+      {
+       "label": "Health Centre",
+       "href": "vnit:/health-centre/",
+       "children": [
+        {
+         "label": "Gallery",
+         "href": "https://drive.google.com/file/d/1W68EyjNJcGObJFYuZiPG6E7mFbtM3fRw/view?usp=sharing",
+         "children": []
+        },
+        {
+         "label": "Letter to Parents",
+         "href": "https://drive.google.com/file/d/1gHPNgu90sIJjDkSj8jiuXRW0Sk2B5OSS/view?usp=sharing",
+         "children": []
+        },
+        {
+         "label": "Booklet",
+         "href": "https://drive.google.com/file/d/10gFBPyGcifJ5cNxpfwspkuPquS883dor/view?usp=sharing",
+         "children": []
+        },
+        {
+         "label": "List of Hospitals",
+         "href": "https://drive.google.com/file/d/1S1CtvRwaHttlaFZ1b04F06M_syg4pzKM/view?usp=sharing",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Continuing Education",
+     "href": "",
+     "children": [
+      {
+       "label": "GIAN",
+       "href": "vnit:/gian/",
+       "children": []
+      },
+      {
+       "label": "NME-ICT Project",
+       "href": "https://proposal.sakshat.ac.in/scholarship/index.php/scholarship/scholarship-user/home",
+       "children": []
+      },
+      {
+       "label": "NPTEL",
+       "href": "https://nptel.ac.in/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Academic Programs",
+     "href": "vnit:/academic-programs/",
+     "children": []
+    },
+    {
+     "label": "Academic Event Calendar",
+     "href": "vnit:/academic-event-calendar/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Research",
+   "href": "",
+   "children": [
+    {
+     "label": "R&C Office Homepage",
+     "href": "vnit:/section/rnc/r-c-office/",
+     "children": []
+    },
+    {
+     "label": "Policies/Rules/Norms",
+     "href": "vnit:/section/rnc/policies-rules-norms/",
+     "children": []
+    },
+    {
+     "label": "Forms & Annexures",
+     "href": "vnit:/section/rnc/forms-annexures/",
+     "children": []
+    },
+    {
+     "label": "Sponsored research",
+     "href": "vnit:/section/rnc/sponsored-research/",
+     "children": []
+    },
+    {
+     "label": "IPR & Innovation",
+     "href": "vnit:/section/rnc/ipr-innovation/",
+     "children": []
+    },
+    {
+     "label": "MoU & Collaboration",
+     "href": "vnit:/section/rnc/mou-collaborations/",
+     "children": []
+    },
+    {
+     "label": "CoE & Research Labs",
+     "href": "vnit:/section/rnc/coe-research-labs/",
+     "children": []
+    },
+    {
+     "label": "Digital Profile of Institute",
+     "href": "https://drive.google.com/file/d/1-bb9nNQeg7y0g5nI26qS39jbgOyF0MWY/view?usp=sharing",
+     "children": []
+    },
+    {
+     "label": "PRATIBIMB: Institute Research Newsletter",
+     "href": "vnit:/pratibimb/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Acts/Statutes",
+   "href": "vnit:/nit-acts-statutes/",
+   "children": []
+  },
+  {
+   "label": "RTI",
+   "href": "",
+   "children": [
+    {
+     "label": "RTI Related",
+     "href": "",
+     "children": [
+      {
+       "label": "RTI Officer",
+       "href": "vnit:/rti-officer/",
+       "children": []
+      },
+      {
+       "label": "RTI Suo Motu Disclosure",
+       "href": "vnit:/suo-motu-disclosure/",
+       "children": []
+      },
+      {
+       "label": "RTI Reports",
+       "href": "vnit:/rti-reports/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Recruitment Rules",
+     "href": "vnit:/recruitment-rules/",
+     "children": []
+    },
+    {
+     "label": "Establishment Manual",
+     "href": "vnit:/wp-content/uploads/2022/12/ESTABLISHMENT_MANUAL.pdf",
+     "children": []
+    },
+    {
+     "label": "Schedule For Retention Of Record",
+     "href": "https://drive.google.com/file/d/1mQ_vjChHj6jBt_TxEDwRsefCX0oWmMLo/view?usp=sharing",
+     "children": []
+    },
+    {
+     "label": "Immovable Property Details",
+     "href": "vnit:/immovable-property-details-3/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Gallery & Press Note",
+   "href": "vnit:/category/news-events/",
+   "children": [
+    {
+     "label": "Press Notes",
+     "href": "vnit:/category/press-notes/",
+     "children": []
+    },
+    {
+     "label": "Vnit Research in News",
+     "href": "vnit:/research-in-news/",
+     "children": []
+    },
+    {
+     "label": "Gallery",
+     "href": "vnit:/gallery/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Engage With VNIT",
+   "href": "",
+   "children": [
+    {
+     "label": "Dean International & Alumni Affairs",
+     "href": "",
+     "children": []
+    },
+    {
+     "label": "Ongoing Research Collaboration",
+     "href": "vnit:/ongoing-research-collaborations/",
+     "children": []
+    },
+    {
+     "label": "Technology Transfer",
+     "href": "vnit:/technology-transfer/",
+     "children": []
+    },
+    {
+     "label": "Entrepreneurship",
+     "href": "vnit:/entrepreneurship/",
+     "children": [
+      {
+       "label": "Centre for Innovation",
+       "href": "vnit:/centre-for-innovation/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Tenders",
+     "href": "vnit:/section/stores/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "International Activities & Admissions",
+   "href": "",
+   "children": [
+    {
+     "label": "International Advisory Committee(IAC)",
+     "href": "https://drive.google.com/file/d/1ewG3zgeNRw16Ca84MB-6lJ6qhfQq7ta9/view?usp=sharing",
+     "children": []
+    },
+    {
+     "label": "News",
+     "href": "vnit:/iaa-news/",
+     "children": []
+    },
+    {
+     "label": "International Admissions",
+     "href": "",
+     "children": [
+      {
+       "label": "DASA",
+       "href": "",
+       "children": [
+        {
+         "label": "SAARC",
+         "href": "vnit:/saarc/",
+         "children": []
+        },
+        {
+         "label": "NON-SAARC",
+         "href": "vnit:/non-saarc/",
+         "children": []
+        },
+        {
+         "label": "CIWG",
+         "href": "vnit:/ciwg/",
+         "children": []
+        }
+       ]
+      },
+      {
+       "label": "Study in India",
+       "href": "vnit:/study-in-india/",
+       "children": []
+      },
+      {
+       "label": "Indian Council for Cultural Relations",
+       "href": "vnit:/indian-council-for-cultural-relations/",
+       "children": []
+      },
+      {
+       "label": "Facilities (Hostel & Mess)",
+       "href": "vnit:/facilities-hostel-mess/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "International Activities",
+     "href": "",
+     "children": [
+      {
+       "label": "Events",
+       "href": "vnit:/ia-events/",
+       "children": []
+      },
+      {
+       "label": "MOUs",
+       "href": "vnit:/mous/",
+       "children": []
+      },
+      {
+       "label": "Visits of Foreign Delegates",
+       "href": "vnit:/visits-of-foreign-delegates/",
+       "children": []
+      },
+      {
+       "label": "Visits of VNITians Abroad",
+       "href": "vnit:/visits-of-vnitians-abroad/",
+       "children": []
+      },
+      {
+       "label": "International Alumni Activities",
+       "href": "vnit:/international-alumni-activities/",
+       "children": []
+      },
+      {
+       "label": "Internships & Placements",
+       "href": "vnit:/internships-placements/",
+       "children": []
+      },
+      {
+       "label": "Students & Faculty Exchangess",
+       "href": "vnit:/student-faculty-exchanges/",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Online Payment",
+   "href": "https://pay.vnit.ac.in/",
+   "children": []
+  },
+  {
+   "label": "Public Relation Office",
+   "href": "vnit:/public-relation-office/",
+   "children": []
+  },
+  {
+   "label": "NIRF",
+   "href": "vnit:/nirf/",
+   "children": []
+  },
+  {
+   "label": "E-Samarth",
+   "href": "https://vnit.samarth.ac.in/index.php/site/login",
+   "children": []
+  },
+  {
+   "label": "e-Office",
+   "href": "https://eoffice.vnit.ac.in/SSOComponent/gate.php",
+   "children": []
+  },
+  {
+   "label": "Donate / Support to VNIT",
+   "href": "vnit:/contribution-to-vnit/",
+   "children": []
+  }
+ ],
+ "/arch/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/arch/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/arch/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/arch/research/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/arch/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/arch/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/arch/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "Placement",
+   "href": "vnit:/arch/placement/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/arch/alumni/",
+   "children": []
+  },
+  {
+   "label": "Feedback",
+   "href": "vnit:/arch/feedback/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/arch/contact-us/",
+   "children": []
+  }
+ ],
+ "/basic_science/chemistry/": [
+  {
+   "label": "Home",
+   "href": "vnit:/basic_science/chemistry/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/basic_science/chemistry/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/basic_science/chemistry/research/",
+   "children": []
+  },
+  {
+   "label": "Faculty & Staff",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/basic_science/chemistry/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/basic_science/chemistry/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/basic_science/chemistry/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/basic_science/chemistry/alumni/",
+   "children": []
+  },
+  {
+   "label": "Feedback",
+   "href": "vnit:/basic_science/chemistry/feedback/",
+   "children": []
+  },
+  {
+   "label": "Testing & Consultancy",
+   "href": "vnit:/basic_science/chemistry/service/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/basic_science/chemistry/contact-us/",
+   "children": []
+  },
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  }
+ ],
+ "/basic_science/hum/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/basic_science/hum/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/basic_science/hum/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/basic_science/hum/research/",
+   "children": []
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/basic_science/hum/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/basic_science/hum/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/basic_science/hum/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/basic_science/hum/alumni/",
+   "children": []
+  },
+  {
+   "label": "Feedback",
+   "href": "vnit:/basic_science/hum/feedback/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/basic_science/hum/contact-us/",
+   "children": []
+  }
+ ],
+ "/basic_science/maths/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/basic_science/maths/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/basic_science/maths/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/basic_science/maths/research/",
+   "children": []
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/basic_science/maths/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/basic_science/maths/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/basic_science/maths/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/basic_science/maths/alumni/",
+   "children": []
+  },
+  {
+   "label": "Service",
+   "href": "vnit:/basic_science/maths/service/",
+   "children": []
+  },
+  {
+   "label": "Event",
+   "href": "vnit:/basic_science/maths/workshop/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/basic_science/maths/contact-us/",
+   "children": []
+  }
+ ],
+ "/basic_science/phy/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/basic_science/phy/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/basic_science/phy/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/basic_science/phy/research/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/basic_science/phy/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/basic_science/phy/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/basic_science/phy/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "Placement",
+   "href": "vnit:/basic_science/phy/placement/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/basic_science/phy/alumni/",
+   "children": []
+  },
+  {
+   "label": "Feedback",
+   "href": "vnit:/basic_science/phy/feedback/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/basic_science/phy/contact-us/",
+   "children": []
+  }
+ ],
+ "/engineering/apm/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/apm/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/apm/academics/",
+   "children": []
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/engineering/apm/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/apm/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/engineering/apm/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/engineering/apm/research-2/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/apm/alumni/",
+   "children": []
+  },
+  {
+   "label": "Service",
+   "href": "vnit:/engineering/apm/service/",
+   "children": []
+  },
+  {
+   "label": "PhD Admission – Summer 2026",
+   "href": "vnit:/engineering/apm/2026/05/20/phd-admission-summer-2026/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/apm/contact-us/",
+   "children": []
+  }
+ ],
+ "/engineering/chemical/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/chemical/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/chemical/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "",
+   "children": [
+    {
+     "label": "Projects",
+     "href": "vnit:/engineering/chemical/projects/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/chemical/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "PhD",
+     "href": "vnit:/engineering/chemical/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Placements",
+   "href": "vnit:/engineering/chemical/placements/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/chemical/alumni/",
+   "children": []
+  },
+  {
+   "label": "Web Team",
+   "href": "vnit:/engineering/chemical/web-team/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/chemical/contact-us/",
+   "children": []
+  },
+  {
+   "label": "Quick Links",
+   "href": "",
+   "children": [
+    {
+     "label": "Institute Gathering",
+     "href": "vnit:/engineering/chemical/institute-gathering/",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "/engineering/civil/": [
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/civil/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/civil/academics/",
+   "children": []
+  },
+  {
+   "label": "Research & Labs",
+   "href": "vnit:/engineering/civil/research/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/civil/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "vnit:/engineering/civil/students/",
+   "children": [
+    {
+     "label": "Ph.D",
+     "href": "vnit:/engineering/civil/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/civil/alumni/",
+   "children": []
+  },
+  {
+   "label": "Services",
+   "href": "",
+   "children": [
+    {
+     "label": "Testing Services",
+     "href": "vnit:/engineering/civil/testing/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/civil/contactus/",
+   "children": []
+  }
+ ],
+ "/engineering/cse/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/cse/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/cse/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/engineering/cse/research/",
+   "children": []
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/engineering/cse/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/cse/faculty/",
+     "children": []
+    },
+    {
+     "label": "Technical Staff",
+     "href": "vnit:/engineering/cse/technical-staff-at-department-of-computer-science-and-engineering/",
+     "children": []
+    },
+    {
+     "label": "Office Staff",
+     "href": "vnit:/engineering/cse/office-staff/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/engineering/cse/ph-d/",
+     "children": []
+    },
+    {
+     "label": "M. Tech",
+     "href": "vnit:/engineering/cse/m-tech/",
+     "children": []
+    },
+    {
+     "label": "B. Tech",
+     "href": "vnit:/engineering/cse/b-tech/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Placements",
+   "href": "vnit:/engineering/cse/placements/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/cse/alumni/",
+   "children": []
+  },
+  {
+   "label": "Consultancy",
+   "href": "vnit:/engineering/cse/consultancy/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/cse/contact-us/",
+   "children": []
+  }
+ ],
+ "/engineering/cvlsi/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/cvlsi/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/cvlsi/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/engineering/cvlsi/research/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/cvlsi/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/engineering/cvlsi/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/cvlsi/alumni/",
+   "children": []
+  },
+  {
+   "label": "Achievements",
+   "href": "vnit:/engineering/cvlsi/achievements/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/cvlsi/contact-us/",
+   "children": []
+  },
+  {
+   "label": "MiNaG Activities",
+   "href": "",
+   "children": [
+    {
+     "label": "QuDSim",
+     "href": "vnit:/engineering/cvlsi/qudsim/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Laboratories",
+   "href": "",
+   "children": [
+    {
+     "label": "High Performance Computation Lab",
+     "href": "vnit:/engineering/cvlsi/high-performance-computation-lab/",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "/engineering/ece/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/ece/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/ece/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/engineering/ece/research/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/ece/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/engineering/ece/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/engineering/ece/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "Placement",
+   "href": "vnit:/engineering/ece/placement/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/ece/alumni/",
+   "children": []
+  },
+  {
+   "label": "Service",
+   "href": "vnit:/engineering/ece/service/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/ece/contact-us/",
+   "children": []
+  },
+  {
+   "label": "Quick Links",
+   "href": "",
+   "children": [
+    {
+     "label": "Centre of Excellence-VNIT",
+     "href": "vnit:/engineering/ece/centre-of-excellence-vnit/",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "/engineering/electrical/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/electrical/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/electrical/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/engineering/electrical/research/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/electrical/faculty/",
+     "children": []
+    },
+    {
+     "label": "Staff",
+     "href": "vnit:/engineering/electrical/staff/",
+     "children": []
+    },
+    {
+     "label": "Former HOD’S",
+     "href": "vnit:/engineering/electrical/former-hods/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph.D",
+     "href": "vnit:/engineering/electrical/ph-d/",
+     "children": []
+    },
+    {
+     "label": "M.Tech",
+     "href": "vnit:/engineering/electrical/m-tech/",
+     "children": []
+    },
+    {
+     "label": "B.Tech",
+     "href": "vnit:/engineering/electrical/b-tech/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/electrical/alumni/",
+   "children": []
+  },
+  {
+   "label": "Service",
+   "href": "",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/electrical/contact-us/",
+   "children": []
+  }
+ ],
+ "/engineering/mech/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Department Home",
+   "href": "vnit:/engineering/mech/vnit-nagpur-mechanical-department-homepage/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/mech/academics-latest/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "",
+   "children": [
+    {
+     "label": "Research Profile",
+     "href": "vnit:/engineering/mech/research_profile_med/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Infrastructure",
+   "href": "",
+   "children": [
+    {
+     "label": "Laboratories",
+     "href": "vnit:/engineering/mech/laboratories-at-mech/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/mech/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Mechanical Workshop",
+   "href": "vnit:/engineering/mech/mechanical-workshop/",
+   "children": []
+  },
+  {
+   "label": "Gallery",
+   "href": "vnit:/engineering/mech/gallery/",
+   "children": []
+  },
+  {
+   "label": "Placements",
+   "href": "vnit:/engineering/mech/placements/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/mech/contact-us/",
+   "children": []
+  }
+ ],
+ "/engineering/meta/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/meta/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/meta/alumni-copy/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/engineering/meta/research/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/meta/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph.D",
+     "href": "vnit:/engineering/meta/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Placement",
+   "href": "vnit:/engineering/meta/placement-new/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/meta/alumni/",
+   "children": []
+  },
+  {
+   "label": "Infrastructure",
+   "href": "vnit:/engineering/meta/infrastructure/",
+   "children": []
+  },
+  {
+   "label": "Testing Facilities",
+   "href": "vnit:/engineering/meta/testing-facilities/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/meta/contact-us/",
+   "children": []
+  }
+ ],
+ "/engineering/mining/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/engineering/mining/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/engineering/mining/academics/",
+   "children": []
+  },
+  {
+   "label": "Research",
+   "href": "vnit:/engineering/mining/research/",
+   "children": []
+  },
+  {
+   "label": "People",
+   "href": "",
+   "children": [
+    {
+     "label": "Faculty",
+     "href": "vnit:/engineering/mining/faculty/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Students",
+   "href": "",
+   "children": [
+    {
+     "label": "Ph. D.",
+     "href": "vnit:/engineering/mining/ph-d/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Department Infrastructure",
+   "href": "vnit:/engineering/mining/department-infrastructure/",
+   "children": []
+  },
+  {
+   "label": "Laboratories",
+   "href": "vnit:/engineering/mining/laboratories/",
+   "children": []
+  },
+  {
+   "label": "Placements",
+   "href": "vnit:/engineering/mining/placements/",
+   "children": []
+  },
+  {
+   "label": "Alumni",
+   "href": "vnit:/engineering/mining/alumni/",
+   "children": []
+  },
+  {
+   "label": "M. Tech",
+   "href": "vnit:/engineering/mining/service/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/engineering/mining/contact-us/",
+   "children": []
+  }
+ ],
+ "/section/academics/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/section/academics/",
+   "children": []
+  },
+  {
+   "label": "Admission",
+   "href": "vnit:/section/academics/admission/",
+   "children": []
+  },
+  {
+   "label": "Curriculum",
+   "href": "vnit:/section/academics/curriculum/",
+   "children": []
+  },
+  {
+   "label": "Office Staff",
+   "href": "vnit:/section/academics/office-staff-2/",
+   "children": []
+  },
+  {
+   "label": "Notice",
+   "href": "",
+   "children": [
+    {
+     "label": "Student Notice",
+     "href": "vnit:/section/academics/notice/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Result",
+   "href": "",
+   "children": [
+    {
+     "label": "Main Exam Result",
+     "href": "vnit:/section/academics/results/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Semester Exams",
+   "href": "vnit:/section/academics/semester-exams/",
+   "children": []
+  },
+  {
+   "label": "Fees",
+   "href": "vnit:/section/academics/fees/",
+   "children": []
+  }
+ ],
+ "/section/hostel/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/section/hostel/",
+   "children": []
+  },
+  {
+   "label": "Hostels",
+   "href": "vnit:/section/hostel/hostels/",
+   "children": [
+    {
+     "label": "Kalpana Chawla",
+     "href": "vnit:/section/hostel/kalpana-chawla/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Mess",
+   "href": "vnit:/section/hostel/mess/",
+   "children": [
+    {
+     "label": "Ruchira Mess",
+     "href": "",
+     "children": [
+      {
+       "label": "About Ruchira Mess",
+       "href": "vnit:/section/hostel/about-ruchira-mess/",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Hostel Authority",
+   "href": "vnit:/section/hostel/hostel-authority/",
+   "children": [
+    {
+     "label": "Dean (Student Welfare)",
+     "href": "vnit:/section/hostel/dean-student-welfare/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Facilities",
+   "href": "vnit:/section/hostel/facilities/",
+   "children": []
+  },
+  {
+   "label": "Notices",
+   "href": "vnit:/section/hostel/notices/",
+   "children": []
+  },
+  {
+   "label": "Rules & Regulations",
+   "href": "vnit:/section/hostel/rules-regulations/",
+   "children": []
+  },
+  {
+   "label": "Anti-Ragging",
+   "href": "",
+   "children": [
+    {
+     "label": "Anti-Ragging Committee",
+     "href": "https://drive.google.com/file/d/1UEh3LGKcpXk-64KG2d2c-PIDHK9XHMgD/view?usp=sharing",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Fees",
+   "href": "vnit:/section/hostel/fees/",
+   "children": []
+  }
+ ],
+ "/section/sports/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/section/sports/",
+   "children": []
+  },
+  {
+   "label": "Faculty",
+   "href": "vnit:/section/sports/faculty-2/",
+   "children": []
+  },
+  {
+   "label": "Academics",
+   "href": "vnit:/section/sports/academics-2/",
+   "children": []
+  },
+  {
+   "label": "Achievements",
+   "href": "vnit:/section/sports/achivements/",
+   "children": []
+  },
+  {
+   "label": "Gallery",
+   "href": "vnit:/section/sports/gallery/",
+   "children": []
+  },
+  {
+   "label": "Notice",
+   "href": "vnit:/section/sports/notice/",
+   "children": [
+    {
+     "label": "Cross Country Run",
+     "href": "https://drive.google.com/file/d/1NSTkiqsVucEBjFsOfukfZ7afwbKJNK6Q/view?usp=sharing",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "News & Events",
+   "href": "vnit:/section/sports/news-events/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/section/sports/contact-us-2/",
+   "children": []
+  },
+  {
+   "label": "Quick Links",
+   "href": "",
+   "children": [
+    {
+     "label": "Annual Sports Activities",
+     "href": "vnit:/section/sports/annual-sports-activities/",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "/section/stores/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/section/stores/",
+   "children": []
+  },
+  {
+   "label": "Store Section Forms",
+   "href": "vnit:/section/stores/store-section-forms/",
+   "children": []
+  },
+  {
+   "label": "TEQIP III Tenders",
+   "href": "vnit:/section/stores/teqip-iii-tenders/",
+   "children": []
+  },
+  {
+   "label": "Debarment Notice",
+   "href": "vnit:/section/stores/2026/04/21/debarment-notice/",
+   "children": []
+  }
+ ],
+ "/section/tnp/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/section/tnp/",
+   "children": []
+  },
+  {
+   "label": "About Us",
+   "href": "vnit:/section/tnp/about-us/",
+   "children": []
+  },
+  {
+   "label": "Placement Report",
+   "href": "",
+   "children": [
+    {
+     "label": "Placement and Internship Report 2025-2026",
+     "href": "https://drive.google.com/file/d/1kejECNfQyOyYpOQD6hr560WA5Q_BExJc/view?usp=sharing",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Placement Policy",
+   "href": "",
+   "children": [
+    {
+     "label": "For Companies",
+     "href": "vnit:/section/tnp/placement-policy-for-companies/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Our Recruiters",
+   "href": "https://drive.google.com/file/d/1RgMCcwfcMUFZMxUJFUog9ZDCya-STnzC/view?usp=sharing",
+   "children": []
+  },
+  {
+   "label": "Semester-Long Internship SOP & Annexures",
+   "href": "vnit:/section/tnp/semester-long-internship-sop-annexures/",
+   "children": []
+  },
+  {
+   "label": "Brochure",
+   "href": "",
+   "children": [
+    {
+     "label": "T&P Brochure 2026-27",
+     "href": "https://drive.google.com/file/d/1leVvr2GEIiWgoKzioLKTNzX3ESh4Zx-5/view?usp=sharing",
+     "children": [
+      {
+       "label": "Applied Mechanics_Brochure_2025-26",
+       "href": "vnit:/section/tnp/wp-content/uploads/2025/08/Applied-Mechanics-Brochure-2025-26.pdf",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "T&P Team",
+   "href": "vnit:/section/tnp/tp-team-2/",
+   "children": []
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/section/tnp/contact-us/",
+   "children": []
+  }
+ ],
+ "/section/uba/": [
+  {
+   "label": "VNIT Home",
+   "href": "vnit:/",
+   "children": []
+  },
+  {
+   "label": "Home",
+   "href": "vnit:/section/uba/vnit-nagpur-uba/",
+   "children": []
+  },
+  {
+   "label": "About UBA",
+   "href": "vnit:/section/uba/about-uba/",
+   "children": []
+  },
+  {
+   "label": "Regional Coordinating Institute (RCI)",
+   "href": "",
+   "children": [
+    {
+     "label": "RCI Committee",
+     "href": "vnit:/section/uba/rci-committee-2/",
+     "children": []
+    },
+    {
+     "label": "District  Adoption list",
+     "href": "vnit:/section/uba/district-and-village-adoption-list/",
+     "children": []
+    },
+    {
+     "label": "List of PIs under RCI-VNIT",
+     "href": "https://drive.google.com/file/d/1lbFYBvI0ulHWnWDIV8XOf1wqasm7TAlt/view?usp=sharing",
+     "children": [
+      {
+       "label": "Gadchiroli",
+       "href": "vnit:/section/uba/gadchiroli/",
+       "children": []
+      },
+      {
+       "label": "Chandrapur",
+       "href": "vnit:/section/uba/chandrapur/",
+       "children": []
+      },
+      {
+       "label": "Gondia",
+       "href": "vnit:/section/uba/gondia/",
+       "children": []
+      },
+      {
+       "label": "Bhandara",
+       "href": "vnit:/section/uba/bhandara/",
+       "children": []
+      },
+      {
+       "label": "Nagpur",
+       "href": "vnit:/section/uba/nagpur/",
+       "children": []
+      },
+      {
+       "label": "Wardha",
+       "href": "vnit:/section/uba/wardha/",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "RCI Activites",
+     "href": "",
+     "children": [
+      {
+       "label": "Social Internship",
+       "href": "",
+       "children": [
+        {
+         "label": "7th March 2026",
+         "href": "vnit:/section/uba/7th-march-2026/",
+         "children": []
+        },
+        {
+         "label": "May to July",
+         "href": "vnit:/section/uba/may-to-july/",
+         "children": []
+        }
+       ]
+      },
+      {
+       "label": "Orientation Workshop",
+       "href": "",
+       "children": [
+        {
+         "label": "Sept 2024",
+         "href": "vnit:/section/uba/pi-orientation-workshop/",
+         "children": []
+        },
+        {
+         "label": "April 25",
+         "href": "vnit:/section/uba/pi-orientation-workshop-online/",
+         "children": []
+        },
+        {
+         "label": "Aug 25",
+         "href": "vnit:/section/uba/orientation-workshop-august-2025/",
+         "children": []
+        }
+       ]
+      },
+      {
+       "label": "PI Visits",
+       "href": "vnit:/section/uba/pi-visits/",
+       "children": []
+      },
+      {
+       "label": "Village Visits",
+       "href": "vnit:/section/uba/village-visits-2/",
+       "children": []
+      },
+      {
+       "label": "Foundation Day 2025",
+       "href": "https://drive.google.com/file/d/1cpcKwVBBf5rzSoDlSS8hSk0umfxB3a_W/view?usp=sharing",
+       "children": []
+      }
+     ]
+    },
+    {
+     "label": "Gallery",
+     "href": "vnit:/section/uba/gallery-uba-tabs/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Participating Institute (PI)",
+   "href": "",
+   "children": [
+    {
+     "label": "PI committee",
+     "href": "vnit:/section/uba/pi-committee/",
+     "children": []
+    },
+    {
+     "label": "Village Adoption list",
+     "href": "vnit:/section/uba/pi-village-adoption-list/",
+     "children": []
+    },
+    {
+     "label": "Reports",
+     "href": "vnit:/section/uba/pi-reports/",
+     "children": []
+    },
+    {
+     "label": "Gallery",
+     "href": "vnit:/section/uba/gallery-pi/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Themes",
+   "href": "",
+   "children": [
+    {
+     "label": "Organic Farming",
+     "href": "",
+     "children": []
+    },
+    {
+     "label": "Water Resource Management",
+     "href": "",
+     "children": []
+    },
+    {
+     "label": "Renewable Energy",
+     "href": "",
+     "children": []
+    },
+    {
+     "label": "Artisans, Industries and Livelihood",
+     "href": "",
+     "children": []
+    },
+    {
+     "label": "Basic Amenities",
+     "href": "",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Contact Us",
+   "href": "vnit:/section/uba/contact-us-2/",
+   "children": []
+  }
+ ]
+}

@@ -46,6 +46,7 @@ PATTERNS = [
     re.compile(r"^This page on vnit\.ac\.in is made of \d+ pictures?, which this demo does not copy\. "
                r"See them on vnit\.ac\.in\.$"),
     re.compile(r"^Listed on:"),
+    re.compile(r"^This page on vnit\.ac\.in has no text of its own\. See it on vnit\.ac\.in\.$"),
 ]
 BREAKS = {"p", "li", "td", "th", "h1", "h2", "h3", "h4", "h5", "h6", "div", "br", "span", "section", "ul", "ol",
           "tr", "nav", "aside", "article", "button", "label", "input", "table", "dt", "dd", "blockquote"}
@@ -101,12 +102,18 @@ class AllText(HTMLParser):
         value = dict(attrs).get("data-to-value")
         if value:
             self.parts.append(value)
+            self.counter = True  # the "0" the counter starts from is not shown on our copy
+
+    counter = False
 
     def handle_endtag(self, tag):
         if tag in ("script", "style", "noscript") and self.skip:
             self.skip -= 1
 
     def handle_data(self, data):
+        if self.counter and re.fullmatch(r"\s*[\d.,]*\s*", data):
+            self.counter = False
+            return
         if not self.skip:
             self.parts.append(data)
 
@@ -145,7 +152,7 @@ def main():
 
     total_pieces = total_missing = 0
     for entry in sitemap:
-        page = by_path.get(entry["source_path"])
+        page = by_path.get(entry["source_path"]) if entry["source_path"] != "/" else None
         if page:
             sources = [original_text(manifest[page["source_url"]])]
         elif entry["source_path"] == "/":
