@@ -2,7 +2,55 @@
 
 ## Good morning
 
-(Written at the end, in Step 8.)
+**In short: the chatbot now gets 97 of 100 test questions right (it was 91).** Six of the nine failures are fixed, by changes that are general rules rather than special cases. The eleven questions that passed before still pass. All of it is committed; nothing is pushed.
+
+**Before and after**
+
+| | Before (Runbook 9 start) | After |
+|---|---|---|
+| Answer check, saved results | 91/100 | **97/100** |
+| Answer passage reaches the AI (`chunk_ranks`, no key) | 69/77 | **73/77** |
+| Answer passage in the top 3 (`fact_ranks`) | 15/18 | 14/18 (one moved from 3rd to 4th, still reaches the AI) |
+| Right page in the top 3 (`evaluate`) | 16/19 | 16/19 |
+| Automated tests (`test_agentic`, no key) | 54/54 | **66/66** |
+
+**The nine failures**
+
+| Case | Now | What fixed it, or why not |
+|---|---|---|
+| M.Sc tuition | ✅ | Table rows were drowned by a 40-word heading repeated on every row; now the heading is written once per group, so the right row reaches the AI |
+| Ph.D. full-time tuition | ✅ | Same fix: the ₹7,500 tuition row now reaches the AI (it gave the ₹22,100 total before) |
+| Mess joining (asked "boys or girls?" for nothing) | ✅ | The chatbot now asks back only when the groups' answers have different figures or dates |
+| "what is the tuition fee?" (didn't ask which programme) | ✅ | When fee sheets for 3 or more programmes match, it asks |
+| "what about mtech?" after a hostel-fee question | ✅ | Follow-ups that only change a detail (programme, boys/girls, category, year, full/part-time) are rewritten in plain code; the AI rewrite had left it as "What about M.Tech?" |
+| Hostel fee with the profile M.Tech/boys | ✅ | The profile already reached the search; with cleaner passages the AI now gives ₹40,080 |
+| Holi holiday | ❌ | The row "Holi — 04.03.2026" is one row of a long table and still ranks 9th; the AI answered from the restricted list (Holika Dahan, 3 March) |
+| Companies at B.Tech placements 2024-25 (121) | ❌ | The statistics row is never found, not even when the agent looks inside the report; the company-name list outranks it |
+| Ph.D. part-time tuition after a follow-up | ❌ | The follow-up is now read correctly, but the ₹15,000 tuition row ranks 10th, so the AI gave the ₹25,000 total |
+
+**The full crawl (1,628 pages from the website project): measured, not kept.** 814 usable pages were imported (lists of people, near-empty pages, image pages and duplicates left out), and the index was rebuilt three ways. None brought a tested answer to the AI, and each pushed some right answers out, because dozens of new pages have titles like "… – Training & Placement Department" that compete with the page that has the real figures. The pages are kept in `data/raw_site_crawl/` (not searched), so trying again later costs one rebuild. The tested answers are all in documents, not in those pages (EXPERIMENTS-LOG §29).
+
+**What got worse, and what was done:** only `fact_ranks` dropped by one (an exam-date passage moved from 3rd to 4th, behind three passages of the same exam schedule; it still reaches the AI). Kept, because the same change brought four other answers to the AI. Recorded in PROGRESS-9.md, Decisions. Everything tried and rejected is in EXPERIMENTS-LOG §29-§30.
+
+**Quota used:** about 99,000 tokens of gpt-oss-120b (20 questions), so roughly half of today's allowance is left for a demo.
+
+**The 3 things to do next, in order**
+
+1. **Restart the ablation measurements on the new search** (the old rows were measured before tonight's changes, and three rows were never finished). In Git Bash:
+   ```
+   cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-chatbot
+   mkdir -p _trash/ablations-before-20-nov
+   mv data/processed/answer_check_oneshot.json data/processed/answer_check_no_tools.json data/processed/answer_check_agent_30oct.json data/processed/answer_check_crag.json _trash/ablations-before-20-nov/
+   cd pipeline
+   bash run_ablations.sh
+   ```
+   Moving the old files matters: the script resumes, so it would otherwise keep the old answers. It runs on its own for **about 3-4 days** of free allowance (all rows plus one full run of 100). Keep the laptop on; if it stops, run `bash run_ablations.sh` again. When the log says "all tracks done", run `python ablation_table.py`.
+   *If the report deadline is close:* the two missing hard-set rows can instead be finished on the old search, in a separate copy so nothing here changes: `git worktree add ../vnit-chatbot-old before-runbook-9`, copy the three files from `~/vnit-chatbot-backups/2026-11-20-before-runbook-9/` into `../vnit-chatbot-old/data/processed/`, copy the four old `answer_check_*.json` files there too, and run `bash run_ablations.sh` in `../vnit-chatbot-old/pipeline` (about a day). The table then compares like with like, on the old search.
+2. **Decide whether to convert the new documents.** The full crawl links **116 documents the chatbot has never read** about fees, calendars, hostels, scholarships and placements, including the Summer 2027 fee instructions, the 2026-27 scholarships and the January 2027 Ph.D. admission brochure (list in Step 6 below). Converting them takes about 2-4 hours and the Drive key (`ingest_documents.py discover`, then `convert`, then rebuild).
+3. **Update slides 13-19** with the new numbers: 97/100, 73/77, 66/66 tests, and the full-crawl finding.
+
+**When you are happy, push:** `cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-chatbot && git push`. It triggers the Hugging Face workflow, which skips itself because no `HF_TOKEN` is set.
+
 
 ## No-key checks after each step
 
@@ -276,7 +324,8 @@ Reading the numbers:
 ## Step 7. Ask the AI: the 9 failures and a regression sample
 
 Commands (from `pipeline/`), one case at a time, the key read inside the command only:
-`GENAI_API_KEY=$(head -1 ~/groq-key.txt | tr -d '
+`GENAI_API_KEY=$(head -1 ~/groq-key.txt | tr -d '
+
  ') $PY check_answers.py --only <name> --pause 30`
 
 ```
@@ -351,3 +400,13 @@ Tokens: about 99,000 for 20 cases (gpt-oss-120b), under the 120,000 budget; no d
 **New overall: 97/100 saved results pass** (was 91/100). Before/after table: EXPERIMENTS-LOG §33.
 
 **Done when:** every case asked; new count computed; §33 written. **Met.**
+
+## Step 8. Docs and the morning report
+
+- `README.md`: project status (20 Nov), web pages and the kept-aside full crawl, chunks 6,897, table rows 23,088, answer quality 97/100, tests 66/66, measured-quality table (chunk_ranks 73/77, fact_ranks 14/18), known limitations (rows of long tables; the full crawl not searched), what to do next.
+- `APPLICATION.md`: status table (same numbers), retrieval (repeated passages dropped), clarify-or-assume rule.
+- `HOW-TO-RUN.md`: test count and time, `check_answers.py --only`, `chunk_ranks.py` in the quality checks, `data/raw_site_crawl/`.
+- EXPERIMENTS-LOG §26: note that the search changed on 20 Nov and the ablation table must be re-run.
+- **Website check** (no key, port 8010, server started with `uvicorn api.main:app --port 8010`, the same command `start_website.bat` runs on 8000; stopped afterwards): `/health` ok; `/site/` 200 ("Home | VNIT Nagpur (student project demo)"); `/site/engineering/cse/faculty/` 200; `/ask` "What is the hostel fee?" → clarify (B.Tech, B.Arch, M.Sc, Ph.D); `/ask` "Who is the Director of VNIT?" → extractive answer naming Prof. (Dr.) Prem Lal Patel. The website in `../vnit-website` was not rebuilt or changed.
+
+**Done when:** docs updated, every step marked, last commit in. **Met.**

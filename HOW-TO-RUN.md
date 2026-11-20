@@ -133,17 +133,18 @@ python chunk.py
 python build_index.py
 python build_facts.py
 
-REM 4. Check quality
+REM 4. Check quality (no key needed)
 python evaluate.py
 python fact_ranks.py
+python chunk_ranks.py
 python test_agentic.py
 set GENAI_API_KEY=<paste key here only in this window>
 python check_answers.py
 ```
 
-`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about a minute, and should print `54/54 passed`.
+`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about ten minutes (one test asks all 100 test questions without the AI), and should print `66/66 passed`.
 
-`check_answers.py` asks 39 real questions (plus 4 checks of the clarifying questions) through the agent and takes about 45 minutes, because of the free plan's per-minute limit. To measure the older, simpler pipeline on the same questions, add `--pipeline oneshot`. If the free plan's **daily** limit runs out part-way (the end of the output warns you), run the same command again the next day with `--resume` added: it only re-asks the questions that didn't get a real answer.
+`check_answers.py` asks the 100 test cases through the agent. A full run needs about 450,000 tokens, more than two days of the free plan's daily allowance, so ask a few at a time with `--only <part of a name>` (for example `--only hostel_fee`). To measure the older, simpler pipeline on the same questions, add `--pipeline oneshot`. If the free plan's **daily** limit runs out part-way (the end of the output warns you), run the same command again the next day with `--resume` added: it only re-asks the questions that didn't get a real answer.
 
 ---
 
@@ -155,7 +156,8 @@ python check_answers.py
 | `frontend/index.html` | The chat page |
 | `api/main.py` | The small server that answers questions |
 | `pipeline/` | Everything that collects the website, reads documents and finds answers |
-| `data/raw/` | The collected text: web pages and `doc_*.txt` documents |
+| `data/raw/` | The collected text: web pages and `doc_*.txt` documents (this is what is searched) |
+| `data/raw_site_crawl/` | 814 more pages from the website project's full crawl (`pipeline/import_site_crawl.py`), kept aside: not searched, because they did not help (EXPERIMENTS-LOG §29). To try them again, move them into `data/raw` and rebuild (step 3) |
 | `data/processed/` | The search index built from that text |
 | `data/documents/` | List of all documents found, and which were used or skipped |
 | `APPLICATION.md` | Technical description of how it all works |

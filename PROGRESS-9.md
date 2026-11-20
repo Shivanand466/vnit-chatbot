@@ -5,14 +5,14 @@ Read this first after a restart; carry on from the first step not marked DONE or
 | Step | Status | Note |
 |---|---|---|
 | 0 | DONE | tag `before-runbook-9`, backups in `~/vnit-chatbot-backups/2026-11-20-before-runbook-9/`, baseline in REPORT9.md |
-| 1 | DONE | 886 pages imported as data/raw/site_*.txt; checks unchanged |
+| 1 | DONE | 886 pages imported as data/raw/site_*.txt; checks unchanged (Step 2 re-imported 814 and moved them to data/raw_site_crawl/) |
 | 2 | DONE | bigger index measured, not better: backup index restored, pages kept in data/raw_site_crawl/ (§29) |
 | 3 | DONE | shared table lead-ins + repeated passages dropped: 69/77 -> 73/77 reach the AI (§30) |
 | 4 | DONE | ask back only when the answers differ; vague fee question asks; 2/100 ask back, both expected (§31) |
 | 5 | DONE | slot-only follow-ups rewritten in code; both conversations get the right question (§32) |
 | 6 | DONE | 4,569 new document links; 116 new titles about fees/calendar/hostel/scholarship/placement/rules; counted only |
 | 7 | DONE | 6 of 9 failures fixed, regression 11/11, 97/100 saved results; ~99k tokens (§33) |
-| 8 | | |
+| 8 | DONE | README, APPLICATION, HOW-TO-RUN, §26 note, website check, Good morning |
 
 ## Decisions
 
