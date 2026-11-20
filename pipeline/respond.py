@@ -29,6 +29,7 @@ whichever documents came back.
 """
 import json
 import os
+import re
 from pathlib import Path
 
 import agent
@@ -194,6 +195,10 @@ def answer(question: str, history=None, k: int = 7, use_agent: bool = None,
             grade = grader.grade(searched, report)
             extra = corrective_passages(searched, report) if grade["grade"] != "correct" else []
             grade_note = {"step": "grade", "verdict": grade["grade"], "text": _grade_text(grade, extra)}
+            rows = table_rows(searched, topic, report)
+            if rows:
+                extra = extra + rows
+                grade_note["text"] += " I also looked up matching rows in the documents' tables."
         try:
             result = planner.run(searched, report, extra=extra, search_grade=grade)
             steps = result["trace"]
@@ -288,6 +293,12 @@ def hand_off(reply: dict) -> dict:
 # search grades weak (grader.py), and passages kept from each.
 CORRECTIVE_DOCUMENTS = 2
 CORRECTIVE_PASSAGES = 2
+# Table rows added to every fees, calendar or placement question (table_rows).
+TABLE_TOPICS = (router.FEES, router.CALENDAR, router.PLACEMENT)
+TABLE_ROWS_ADDED = 2
+TABLE_MIN_WORDS = 2
+TABLE_CANDIDATES = 40   # rows fetched before the best TABLE_ROWS_ADDED are chosen
+TABLE_ROW_CHARS = 450    # about 150 tokens a row in the first prompt
 
 
 CLARIFY_PASSAGES = 7
@@ -326,6 +337,65 @@ def corrective_passages(question: str, report: dict) -> list:
                 text = text[:generate.MAX_CHUNK_CHARS].rsplit(" ", 1)[0] + "..."
             found.append((r, text))
     return found
+
+
+def table_rows(question: str, topic: str, report: dict) -> list:
+    """The best table rows for a fees, calendar or placement question, as
+    corrective passages.
+
+    The answer to these is often one row of a long table (a holiday list, a
+    fee sheet, a placement report), and the other rows of the same table can
+    fill its places in the passage search before the right one is reranked
+    (EXPERIMENTS-LOG §35). facts.db holds every row on its own, and the agent's
+    lookup_table tool can find it, but the agent rarely calls it. This looks
+    the rows up in code, as the tool would: the question's rarer words as
+    keywords, its programme, gender, category, year and academic year as
+    filters. A row is kept only when it holds at least TABLE_MIN_WORDS of
+    those words; the rows naming the question's rarest words in their own
+    label and cells come first. No LLM call.
+    """
+    import tools
+
+    if topic not in TABLE_TOPICS:
+        return []
+    words = grader.key_words(question)
+    if len(words) < TABLE_MIN_WORDS:
+        return []
+    tags = {k: v for k, v in slots.extract(question).items() if k in tools.TABLE_TAGS}
+    year = re.search(r"\b(20\d{2})\s*[-–/]\s*(\d{2})\b", question)
+    if year:
+        tags["academic_year"] = f"{year.group(1)}-{year.group(2)}"
+    idf = grader._idf()
+    scored = []
+    for n, r in enumerate(tools.lookup_table(" ".join(words), limit=TABLE_CANDIDATES, **tags)):
+        held = tools._words(_undotted(f"{r['title']} {r['text']}"))
+        if sum(1 for w in words if w in held) < TABLE_MIN_WORDS:
+            continue
+        # Judge the row by its own label and cells, not the lead-in and title
+        # every row of its table shares, and by how rare the words it holds
+        # are: "Holi" names one row, "holiday" names every row of the list.
+        own = tools._words(_undotted(" | ".join(r["text"].rsplit(" | ", 2)[-2:])))
+        scored.append((-sum(idf.get(w, 0.0) for w in words if w in own), n, r))
+    found, documents = [], set()
+    for _s, _n, r in sorted(scored, key=lambda t: t[:2]):
+        if r["source_url"] in documents:
+            continue  # one row per document, as the search caps passages per source
+        documents.add(r["source_url"])
+        text = r["text"]
+        if len(text) > TABLE_ROW_CHARS:  # a calendar row can hold dozens of cells
+            text = text[:TABLE_ROW_CHARS].rsplit(" ", 1)[0] + "..."
+        found.append((r, text))
+        if len(found) == TABLE_ROWS_ADDED:
+            break
+    return found
+
+
+def _undotted(text: str) -> str:
+    """"B.Tech" as "BTech", "Ph.D" as "PhD": a question says "btech", a table "B.Tech"."""
+    return _DOTTED.sub(r"\1\2", text)
+
+
+_DOTTED = re.compile(r"\b([A-Za-z]{1,2})\.\s?([A-Za-z]{1,4})\b")
 
 
 def _grade_text(grade: dict, extra) -> str:

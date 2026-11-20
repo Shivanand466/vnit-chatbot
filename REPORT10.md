@@ -129,3 +129,39 @@ Full numbers and reasons: EXPERIMENTS-LOG §34. Per-question lists: `../_trash/r
   All 5 rank 1. A sixth, the S-27 fee-payment last date, wasn't in the top 12, so it was replaced rather than loosened.
 
 **Done when:** decision and numbers in §34, kept index on disk, 5 new cases written. **Met.**
+
+## Step 4. The 3 table-row misses
+
+Details of every attempt: EXPERIMENTS-LOG §35.
+
+- **Kept:** option 1, table rows as corrective passages (`respond.table_rows`, code only, no LLM call). For fees, calendar and placement questions, the best 2 rows of `facts.db` are added to the agent's first evidence. The trace adds "I also looked up matching rows in the documents' tables." Four general fixes were needed:
+  - rows are ranked by the rare question words in their own label and cells;
+  - no "already shown" filter;
+  - one row per document;
+  - "B.Tech" is matched as "btech".
+
+  The table parser also learnt the row shape used by tables with no paragraph before them, so `facts.db` grew from 23,457 to **31,682** records. That is how the "Number of Companies Visited — B.Tech: 121" row got in.
+- Each added row is capped at 450 characters. The largest first prompt measured is 5,374 tokens, under the 6,000 budget.
+- Option 2 (look inside the best document) was measured first and not built: inside the placement report, the statistics passage still isn't in the top 8 of 30. Option 3 wasn't needed.
+- `CRAG_GATE=off` switches the rows off too, so the ablations stay consistent.
+
+| The 3 misses | Before | Now |
+|---|---|---|
+| `holiday_holi` | not in the evidence (rank 9) | **in the evidence** (row "Holi — Date: 04.03.2026; Day: Wednesday") |
+| `companies_btech_2425` | not in the evidence | **in the evidence** (row "Number of Companies Visited — B.Tech: 121") |
+| `conv_phd_part_time` | not in the evidence (rank 10) | **in the evidence** (row "Tuition Fees — Ph.D. (Part-Time) Per Sem.: 15000.00") |
+
+| Check | After Step 3 | After Step 4 |
+|---|---|---|
+| `evidence_check.py` (new, no key), fact questions | 78/82 | **80/82** |
+| `evidence_check.py`, conversations and profile cases | 10/11 | **11/11** |
+| `chunk_ranks.py` | 78/82 | **78/82** (every rank identical; the first search did not change) |
+| `test_agentic.py` | 70/70 | **73/73** |
+
+- `fact_ranks` and `evaluate` call the search directly, which didn't change, so they stay at 13/18 and 16/19.
+- New tests:
+  - `test_table_parser_takes_a_row_without_a_lead_in`
+  - `test_table_rows_bring_the_one_row_of_a_long_table` (all three rows, real `facts.db`, skipped when it's missing)
+  - `test_table_rows_only_for_fees_calendar_and_placement`
+
+**Done when:** each of the 3 is in the evidence; `chunk_ranks` and `evidence_check` no lower than after Step 3; tests pass. **Met.**

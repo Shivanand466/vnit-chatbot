@@ -8,7 +8,7 @@ Read this first after a restart; carry on from the first step not marked DONE, F
 | 1 | DONE | `discover-crawl` added 116 documents (115 selected, tier 0); existing entries unchanged |
 | 2 | DONE | timeboxed at 4 h: 47 kept, 1 excluded (list of candidates), 1 empty, 4 failed, 62 still to do |
 | 3 | DONE | kept 42 new documents; 4 held (cost B.Arch/M.Sc tuition), Hindi copy excluded (cost placements); 78/82, 13/18 (Kotak trade), 16/19, 70/70; 105 cases (§34) |
-| 4 | | |
+| 4 | DONE | table rows as corrective passages + parser takes rows without a lead-in: all 3 in the evidence; evidence 80/82 + 11/11, chunk_ranks 78/82, tests 73/73 (§35) |
 | 5 | | |
 | 6 | | |
 | 7 | | |
@@ -26,3 +26,7 @@ Read this first after a restart; carry on from the first step not marked DONE, F
 - Step 3: `evidence_check.py` (written early, for Step 4) was used here too, because `chunk_ranks` can't see the corrective step: it caught the placements loss that `chunk_ranks` would have missed.
 - Step 3: the held documents keep `status.json` "ok"; their files are in `data/raw_new_docs_held/`, so a re-run of convert won't redo them and moving them back is one rebuild.
 - Step 3: the one fact_ranks trade (Kotak Kanya 2 -> 4) is the newer version of the same notice with the same figure; kept.
+- Step 4: the table rows run inside the corrective gate block, so CRAG_GATE=off removes them as well (ablation consistency), and they are added even when the grade is "correct", as the runbook says.
+- Step 4: option 2 was measured (retrieve_within on the placement report) before building and could not fix the companies case, so it was not built; option 3 was not needed.
+- Step 4: `facts.db` is rebuilt (31,682 records), the passage index is the Step 3 one (7,328 chunks). The Step 3 facts.db is kept in `../_trash/facts_step3.db`.
+- Step 4: rows capped at 450 characters after measuring that uncapped calendar rows added up to ~1,460 tokens to the first prompt.

@@ -64,8 +64,17 @@ def parse_number(value: str):
 def parse_line(line: str):
     """One table line -> (lead_in, row_label, [(column, value), ...]), or None if it isn't one."""
     if " | " not in line:
-        return None
-    lead_in, rest = line.split(" | ", 1)
+        # A table with no paragraph before it has no lead-in either:
+        # "<caption>: <row label> — <column>: <value>; <column>: <value>" (the
+        # placement report's "Number of Companies Visited" row). Taken only in
+        # that strict shape, with two cells or more, so prose with a dash is not.
+        left, dash, right = line.partition(" — ")
+        cells = right.split("; ")
+        if not dash or ": " not in left or len(cells) < 2 or not all(": " in c for c in cells):
+            return None
+        lead_in, rest = "", line
+    else:
+        lead_in, rest = line.split(" | ", 1)
     if " — " in rest:
         left, right = rest.split(" — ", 1)
         label_part = left.rsplit(": ", 1)

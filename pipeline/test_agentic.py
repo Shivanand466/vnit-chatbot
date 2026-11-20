@@ -912,6 +912,44 @@ def test_inventory_merge_keeps_every_existing_entry():
     assert leftovers == ["inventory.json"], leftovers
 
 
+
+# ---------------------------------------------------------------------------
+# Table rows as corrective passages (respond.table_rows, Runbook 10 Step 4)
+# ---------------------------------------------------------------------------
+
+def test_table_parser_takes_a_row_without_a_lead_in():
+    import build_facts
+    line = ("Visvesvaraya National Institute of Technology, Nagpur Placement Statistics - 202: "
+            "Number of Companies Visited — B.Tech: 121; B.Arch: 09; M.Tech: 68; M.Sc: 07")
+    lead, label, cells = build_facts.parse_line(line)
+    assert label == "Number of Companies Visited" and ("B.Tech", "121") in cells, (lead, label, cells)
+    assert build_facts.parse_line("The hostel — see the rules: here") is None
+    assert build_facts.parse_line("Note: fees are due — Date: 1 Jan") is None   # one cell: prose
+
+
+def _rows_for(question):
+    report = {"sub_questions": [], "whole_question_results": []}
+    return [text for _r, text in respond.table_rows(question, router.intent(question), report)]
+
+
+def test_table_rows_bring_the_one_row_of_a_long_table():
+    if not tools.FACTS_PATH.exists():
+        return  # facts.db is built by build_facts.py; not in a fresh clone
+    cases = [("is holi a holiday at vnit in 2026? which date?", "04.03.2026"),
+             ("how many companies came for btech placements in 2024-25", "B.Tech: 121"),
+             ("What is the tuition fee for part time PhD per semester?", "15000")]
+    for question, expected in cases:
+        rows = _rows_for(question)
+        assert any(expected in row for row in rows), (question, rows)
+
+
+def test_table_rows_only_for_fees_calendar_and_placement():
+    if not tools.FACTS_PATH.exists():
+        return
+    assert _rows_for("Who is the Director of VNIT?") == []
+    assert _rows_for("What is the hostel fee for first year B.Tech boys?") == []   # a hostel question
+    assert respond._undotted("B.Tech, Ph.D and M. Sc") == "BTech, PhD and MSc"
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]

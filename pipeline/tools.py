@@ -420,7 +420,7 @@ TABLE_ROWS = 8
 _LEAD_IN_CHARS = 140
 
 
-def lookup_table(keywords: str, **tags) -> list:
+def lookup_table(keywords: str, limit: int = TABLE_ROWS, **tags) -> list:
     """Table rows matching `keywords`, filtered by the tags given, as result dicts.
 
     The query is always parameterised and built here: the model chooses
@@ -453,7 +453,8 @@ def lookup_table(keywords: str, **tags) -> list:
            f"GROUP BY doc_url, lead_in, row_label HAVING hits >= ? "
            f"ORDER BY exact DESC, hits DESC, figures DESC, date DESC LIMIT ?")
     likes = [f"%{w}%" for w in words]
-    params = likes + list(valid.values()) + list(valid.values())         + [(len(words) + 1) // 2, TABLE_ROWS]
+    params = (likes + list(valid.values()) + list(valid.values())
+              + [(len(words) + 1) // 2, limit])
     with sqlite3.connect(f"file:{FACTS_PATH}?mode=ro", uri=True) as db:
         rows = db.execute(sql, params).fetchall()
     results = []

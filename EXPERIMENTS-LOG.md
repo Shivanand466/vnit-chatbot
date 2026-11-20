@@ -724,6 +724,47 @@ Of 115 selected:
 
 A sixth question tried first, the S-27 last date for fee payment ("1-Nov-2026 to 23-Dec-2026"), was not in the top 12: the date line sits alone, below a long OCR-damaged fee table. It was replaced, not loosened.
 
+## 35. The three table-row misses: table rows as corrective passages (Runbook 10, Step 4)
+
+**The problem.** After Runbook 9 the last three failures were each one row of a long table that never reached the AI:
+- **Holi** (rank 9): the AI answered from the restricted list.
+- **The 121 companies:** 64th before reranking; the reranker prefers the list of company names.
+- **Ph.D. part-time tuition, ₹15,000** (rank 10): the AI gave the ₹25,000 total.
+
+`chunk_ranks` can't see the corrective step, so a new no-key script, `evidence_check.py`, runs `respond.answer` with the planner replaced by a stand-in. It records what the agent would be given: the first-search passages and the corrective ones.
+
+**Tried, in order, measured with `evidence_check`:**
+
+1. **Table rows as corrective passages** (`respond.table_rows`, code only, no LLM call). For fees, calendar and placement questions, the best 2 `facts.db` rows are added through the corrective path. The keywords are the question's rarer words, the filters its programme, gender, category, year and academic year. A row counts only if it holds at least 2 of those words. It runs even when the grade is "correct". The first version found 1 of 3 (Holi missing, PhD found but dropped, companies not found). Four general fixes followed:
+   - **Rank rows by their own label and cells, weighted by word rarity.** Holi's stem "holi" also matches every "Holiday" row, and the newer calendars' rows came first. Judged on its own cells, "holi" (rare) outweighs "holid" (common).
+   - **No "already shown" filter.** It dropped the ₹15,000 row because its label, "Tuition Fees", appears in other passages. Exact repeats are already dropped by the evidence list.
+   - **One row per document,** as the search caps passages per source. Two rows of the international-students sheet had been taking both places.
+   - **"B.Tech" read as "btech"** when matching. The question's "btech" never met the row's "B.Tech", so the companies row failed the 2-word rule.
+
+   The companies row was not in `facts.db` at all. The placement report's table has no paragraph before it, so its lines have no " | " lead-in, and `build_facts.parse_line` dropped them. Fixed generally: the parser now accepts "<caption>: <label> — <column>: <value>; …" with 2 cells or more, and still rejects prose such as "Note: fees are due — Date: 1 Jan". `facts.db` went from 23,457 to 31,682 records: tables without a lead-in were being dropped across all documents.
+2. **Look inside the best document** (page-scoped re-ranking). Measured before building: the statistics passage is not in the top 8 of its own report's 30 chunks; the company-name list wins there too. It would not fix the companies case, so it was not built.
+3. **Row-level reranker input.** Not needed: option 1 got all three in.
+
+The rows are part of the corrective step, so the ablation switch `CRAG_GATE=off` turns them off too (checked by the existing `test_gate_switch_removes_the_corrective_passages`).
+
+**Prompt size** (the first prompt, measured with a fake LLM, no key). Uncapped rows added 300–1,460 tokens: a calendar row can hold dozens of cells. Each added row is now capped at 450 characters (about 150 tokens). The largest first prompts measured are 5,374 (`barch_tuition`) and 5,245 (`placements`), under `planner.PROMPT_BUDGET` = 6,000.
+
+**Result** (no key):
+
+| Check | After Step 3 | After Step 4 |
+|---|---|---|
+| `evidence_check`, fact questions | 78/82 | **80/82** (Holi and companies now through the corrective step) |
+| `evidence_check`, conversations and profile cases | 10/11 | **11/11** (`conv_phd_part_time`) |
+| `chunk_ranks` (first search; unchanged code) | 78/82 | **78/82**, every rank identical |
+| `test_agentic.py` | 70/70 | **73/73** |
+
+Still not in the evidence: `msc_tuition` (rank 10; it passes end to end through the agent's own tools, EXPERIMENTS-LOG §33) and `higher_sem_classes_start` (it passes end to end too).
+
+**Tests added:**
+- `test_table_parser_takes_a_row_without_a_lead_in`
+- `test_table_rows_bring_the_one_row_of_a_long_table` (real `facts.db`; all three rows)
+- `test_table_rows_only_for_fees_calendar_and_placement` (no rows for a people or hostel question)
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.
