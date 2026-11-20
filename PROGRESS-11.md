@@ -16,7 +16,7 @@ Work happens only in this worktree (`vnit-chatbot-v2/`, branch `agent-v2`) and, 
 | 6 | DONE | /ask/stream SSE (step, token, replace, done, error), worker thread, ping, Stop cancels, suggestions; done JSON == /ask in test; curl -N on 8020 |
 | 7 | DONE | new chat page: streaming with live steps, Stop, Copy, Regenerate, Edit, suggestions, New chat, empty state, tables, 360 px; old features checklist kept; escaping checked; screenshots in checks/ |
 | 8 | DONE | vnit-website branch agent-v2 (0ced9ea): widget streams with live steps, Stop, Copy, Regenerate, suggestions, tables, /ask fallback; site rebuilt, 0/0/0 in the three checks; master unchanged |
-| 9 | | |
+| 9 | DONE | no-key 112/112, v1-only 73/73, 78/82, 13/18, 16/19, 80/82 + 11/11; agentic set (19) + regression (15) added; live: dev allowance ran out after 2/2 agentic, loop resumes until 07:30, commands written; cost table; §37 |
 | 10 | | |
 
 ## Decisions

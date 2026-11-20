@@ -180,3 +180,51 @@
 - Committed on `vnit-website`'s `agent-v2`: `0ced9ea`.
 - **Done when:** the widget works against v2 on 8020, the site checks pass, `master` unchanged. **Met.**
 
+## Step 9. Tests and measurements
+
+**No key** (all on the frozen index):
+
+| Check | Baseline (Step 0) | v2 |
+|---|---|---|
+| `test_agentic.py` (v1 + v2 tests) | 73/73 | **112/112** (73 + 39) |
+| `test_agentic.py --v1-only` with `AGENT_V2=off` | 73/73 | **73/73**, unchanged |
+| `chunk_ranks.py` | 78/82 | **78/82** |
+| `fact_ranks.py` | 13/18 | **13/18** |
+| `evaluate.py` | 16/19 | **16/19** |
+| `evidence_check.py` | 80/82 + 11/11 | **80/82 + 11/11** |
+
+Retrieval is unchanged, as intended: v2 changes what happens after the first search, not the search.
+
+**New cases** in `check_answers.py`:
+- `--set agentic` (`AGENTIC`, 19 cases): 3 multi-part, 2 compare, 2 summarise, 2 explain, 2 draft (the office's email and the draft label must appear), 2 multi-turn ("how do I pay it?", "which of the two is cheaper?"; the earlier turns are asked too and their answers remembered), 1 Hindi, 1 Hinglish, 2 general (must carry the label), and 2 must-decline phrased to tempt the general path (must decline and must *not* carry the general label). Expected figures come from the same documents the existing cases use.
+- `--set regression` (`REGRESSION_V2`, 15 of the original cases: B.Tech and M.Sc fees, the girls' and boys' hostel fees, a mid-sem date, Holi, placements, the 2024-25 company count, Director, Dean (Academic)'s email, Registrar, 2 must-decline, 2 clarify).
+- Both save only to `answer_check_<config>.json` and need `--config`; `answer_check.json` is never touched. `reached_llm` now also counts a "general (model)" answer.
+- `pipeline/v2_table.py` prints the pass counts and the cost table from the saved runs.
+
+**Live, dev model only.** Started 01:59 with `--set agentic --config agent_v2_dev --pause 30`, `AGENT_MODEL` and `GENAI_MODEL` = `qwen/qwen3.8-27b`:
+- `multi_tuition_and_s27_deadline` **PASS** (₹1,25,000; 23 Dec) and `multi_hostel_girls_and_mtech_mess` **PASS** (₹32,650; ₹48,000); 16,008 tokens, 160 s and 3 tool calls a question on average.
+- Then the dev model's rolling daily allowance ran out (about 160,000 tokens had gone on the Step 2-5 trials). A background loop resumes the agentic set every 20 minutes until it is complete, then the regression set through v2, then the same 15 through v1 (`AGENT_V2=off`) for a like-for-like cost table, and stops at 07:30. Its results are added below if they arrive before the end of this run; otherwise these are the commands (from `vnit-chatbot-v2/pipeline`, Git Bash; each resumes where it stopped):
+  ```
+  export AGENT_MODEL=qwen/qwen3.8-27b GENAI_MODEL=qwen/qwen3.8-27b
+  GENAI_API_KEY=$(cat ~/groq-key.txt) python check_answers.py --set agentic --config agent_v2_dev --pause 30 --resume
+  GENAI_API_KEY=$(cat ~/groq-key.txt) python check_answers.py --set regression --config agent_v2_dev_regression --pause 30 --resume
+  AGENT_V2=off GENAI_API_KEY=$(cat ~/groq-key.txt) python check_answers.py --set regression --config agent_v1_dev_regression --pause 30 --resume
+  python v2_table.py
+  ```
+
+The dev model is not the final model: these runs show that the agent works, not the final score.
+
+**Cost and speed so far:**
+
+| | Questions | Avg tokens | Avg seconds | Avg tool calls | Avg LLM calls |
+|---|---|---|---|---|---|
+| v1, saved 105-case run (gpt-oss-120b) | 103 through the agent | 4,541 (median 3,625) | 24 | 0.3 | 1.3 |
+| v2, Step 2-5 trials (dev model) | 13 through the agent | 12,036 (median 13,329) | 121 | 1.8 | 3.2 |
+| v2, agentic set so far (dev model) | 2 | 16,008 | 160 | 3.0 | n/a |
+
+Not like for like (different models; the trials were mostly multi-part questions, against v1's mix of mostly single facts), which is why the regression spread is being asked through both on the same model. A simple question costs about the same in both (the Registrar question: 4,169 tokens and 7 s on v2). On the hard ones, v2 is about 2.6× v1. Decision on lowering `AGENT_V2_MAX_STEPS`/`AGENT_V2_BUDGET`: see the end of this section.
+
+**EXPERIMENTS-LOG.md §37 "Agent v2"** added in the worktree.
+
+**Done when:** no-key checks pass; the agentic and regression runs recorded or their commands written; the cost table in REPORT11; §37 added. **Met**: the dev model's allowance limits how much of the live runs completes tonight, and the commands above finish them.
+

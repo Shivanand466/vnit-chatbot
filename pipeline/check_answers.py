@@ -339,6 +339,82 @@ HARD = [
     "clarify_hostel_vague", "clarify_then_answer", "no_clarify_when_specific", "no_clarify_director",
 ]
 
+# Agent v2 (Runbook 11): the kinds of task v1 could not do. A case is a
+# question, or a list of turns asked one after another with the answers
+# remembered (the last one is scored). Asked with --set agentic and saved only
+# to answer_check_<config>.json, never to answer_check.json. Every expected
+# figure is from a VNIT document already used by the cases above (the girls'
+# and boys' hostel fee sheets, the B.Tech/B.Arch fee estimates, the S-27 fee
+# notice of 6 Nov 2026, the placement reports, the M.Tech hostel fee sheet,
+# the fee remission notices, administrative-officers for the office emails).
+DRAFT_LABEL = r"Draft\s*-+\s*check before sending"
+GENERAL_LABEL = r"General answer, not from VNIT's documents"
+DEVANAGARI = r"[ऀ-ॿ]{3}"
+AGENTIC = [
+    # several parts in one question
+    ("multi_tuition_and_s27_deadline",
+     "What is the yearly tuition fee for B.Tech and for B.Arch in the OPEN category, and what is the "
+     "last date to pay the Even term (S-27) fee?",
+     [r"1,?25,?000", r"23(rd)?\s*(Dec|December)|23[./-]12[./-]2026"], []),
+    ("multi_hostel_girls_and_mtech_mess",
+     "What is the hostel fee for first year B.Tech girls for Winter 2026, and what is the mess deposit "
+     "for first year M.Tech students?", [r"32,?650", r"48,?000"], []),
+    ("multi_placements_two_years",
+     "How many students got placed in 2025-26, and what was the highest package for B.Tech in 2024-25?",
+     [r"678", r"\b64(\.00)?\b"], []),
+    # compare: a table
+    ("compare_btech_barch_tuition",
+     "Compare the yearly tuition fees for B.Tech and B.Arch in the OPEN category",
+     [r"1,?25,?000", r"\|.*\|"], []),
+    ("compare_hostel_boys_girls",
+     "Compare the Winter 2026 hostel fee for first year B.Tech boys and girls",
+     [r"32,?150", r"32,?650", r"\|.*\|"], []),
+    # summarise a document
+    ("summarise_s27_notice", "summarise the S-27 fee notice",
+     [r"23(rd)?\s*(Dec|December)|23[./-]12", r"AIMS|challan"], []),
+    ("summarise_fee_remission_notice", "summarise the notice on fee remission for 2026-27",
+     [r"income", r"google\s*form|online"], []),
+    # explain a procedure
+    ("explain_fee_remission", "how do I apply for fee remission?",
+     [r"(?m)^\s*1[.)]", r"google\s*form", r"income"], []),
+    ("explain_pay_semester_fee", "how do I pay the semester fee online?",
+     [r"AIMS", r"online\s*payment|challan|fee\s*management"], []),
+    # draft: the office's address and the label
+    ("draft_hostel_extension",
+     "write an email to the hostel office asking for an extension of the hostel fee deadline",
+     [DRAFT_LABEL, r"AR_HOSTEL@vnit\.ac\.in"], []),
+    ("draft_accounts_refund", "Draft an email to the accounts section asking about my fee refund",
+     [DRAFT_LABEL, r"ar_accounts@vnit\.ac\.in"], []),
+    # several turns, with the answers remembered
+    ("turns_pay_it", ["What is the yearly tuition fee for B.Tech students in the OPEN category?",
+                      "how do I pay it?"], [r"AIMS|online|challan"], []),
+    ("turns_which_is_cheaper", ["What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
+                                "and for girls? which of the two is cheaper?"],
+     [r"32,?650", r"32,?150"], []),
+    # Hindi and Hinglish
+    ("hindi_hostel_girls", "बी.टेक लड़कियों की पहले वर्ष की हॉस्टल फीस कितनी है? विंटर 2026",
+     [r"32,?650", DEVANAGARI], []),
+    ("hinglish_btech_tuition", "btech ki yearly tuition fee kitni hai open category ke liye?",
+     [r"1,?25,?000"], []),
+    # general questions: answered, but labelled
+    ("general_cgpa", "what is CGPA?", [GENERAL_LABEL, r"cumulative\s+grade\s+point"], []),
+    ("general_dasa", "what does DASA mean?", [GENERAL_LABEL, r"direct\s+admission"], []),
+    # must decline, though phrased to tempt the general path
+    ("decline_josaa_rank_general", "what was the JoSAA closing rank for CSE at VNIT?",
+     [NOT_FOUND], [GENERAL_LABEL]),
+    ("decline_gate_cutoff_general", "what is the GATE cutoff for M.Tech at VNIT?",
+     [NOT_FOUND], [GENERAL_LABEL]),
+]
+
+# 15 of the original cases, a spread (fees, hostel, calendar, placements,
+# people, 2 must-decline, 2 clarify), for checking that v2 keeps the basics.
+REGRESSION_V2 = [
+    "btech_fee_open", "msc_tuition", "hostel_fee_girls", "no_clarify_when_specific", "midsem_slot_a",
+    "holiday_holi", "placements", "companies_btech_2425", "director", "dean_academic_email",
+    "registrar", "unanswerable_wifi", "unanswerable_jee_rank", "clarify_hostel_vague",
+    "clarify_tuition_vague",
+]
+
 PROCESSED = Path(__file__).parent.parent / "data" / "processed"
 # The agent's results keep the old file name, since the agent is what the chat
 # page runs; the baseline gets its own file so the two can be compared.
@@ -370,7 +446,8 @@ _CITATION = re.compile(r"\[\d+\]")
 
 
 def reached_llm(mode: str) -> bool:
-    return mode.startswith(("llm", "agent"))
+    # "general (model)" is agent v2's labelled general answer: an LLM answer too.
+    return mode.startswith(("llm", "agent", "general"))
 
 
 def _score_clarify(name, question, profile, expect, out, results):
@@ -493,9 +570,12 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
         subset: str = "", config: str = ""):
     use_agent = pipeline == "agent"
     path = results_path(pipeline, config)
+    if subset == "agentic":
+        return run_agentic(only, pause, resume, config)
 
     def wanted(name):
-        return only in name and (subset != "hard" or name in HARD)
+        return only in name and ((subset != "hard" or name in HARD)
+                                 and (subset != "regression" or name in REGRESSION_V2))
 
     # --resume keeps every saved result that reached the LLM and asks the rest
     # again: a run cut short by the daily quota can be finished the next day
@@ -606,6 +686,52 @@ def run(only: str = "", pause: float = 30.0, pipeline: str = "agent", resume: bo
     return results, total
 
 
+def run_agentic(only: str = "", pause: float = 30.0, resume: bool = False, config: str = ""):
+    """Ask the AGENTIC cases through agent v2. A list of turns is asked in order,
+    each answer remembered (`turns`), and the last answer is scored."""
+    if not config:
+        raise SystemExit("--set agentic needs --config (its results never go to answer_check.json)")
+    path = results_path("agent", config)
+    kept = {}
+    if resume and path.exists():
+        kept = {r["name"]: r for r in json.loads(path.read_text(encoding="utf-8")) if answered(r)}
+        print(f"Resuming: keeping {len(kept)} saved result(s) that reached the LLM.")
+    cases = [c for c in AGENTIC if only in c[0]]
+    results, asked = [], 0
+    for name, question, must, must_not in cases:
+        if name in kept:
+            results.append(kept[name])
+            continue
+        if results and _daily_limit_hit(results):
+            break
+        questions = question if isinstance(question, list) else [question]
+        turns, out, spent = [], None, {"tokens": 0, "tool_calls": 0, "llm_calls": 0, "seconds": 0.0}
+        for q in questions:
+            if asked:
+                time.sleep(pause)
+            asked += 1
+            out = _timed(respond.answer, q, turns=list(turns), use_agent=True)
+            turns.append({"q": out.get("understood_as") or q, "a": out["answer"]})
+            for k in ("tokens", "tool_calls", "llm_calls"):
+                spent[k] += (out.get("usage") or {}).get(k, 0)
+            spent["seconds"] += out.get("seconds") or 0
+        _score(name, " | ".join(questions), out, must, must_not, results,
+               extra={"task": out.get("task"), "language": out.get("language"),
+                      "steps": (out.get("usage") or {}).get("steps"), "all_turns": spent})
+        if _daily_limit(out):
+            break
+    if results and _daily_limit_hit(results):
+        dropped = results.pop()
+        print(f"\nSTOPPED: the free daily AI allowance is used up (at {dropped['name']}); "
+              f"run again later with --resume.")
+    passed = sum(r["pass"] for r in results)
+    print(f"\nAgentic check: {passed}/{len(results)} passed"
+          + (f" ({len(cases) - len(results)} not asked yet)" if len(results) < len(cases) else ""))
+    path.write_text(json.dumps(results, indent=1, ensure_ascii=False), encoding="utf-8")
+    print(f"Full answers saved to {path}")
+    return results, len(cases)
+
+
 def _timed(fn, *args, **kwargs):
     start = time.time()
     out = fn(*args, **kwargs)
@@ -626,8 +752,9 @@ if __name__ == "__main__":
     ap.add_argument("--pause", type=float, default=30.0)
     ap.add_argument("--pipeline", choices=sorted(RESULTS_PATHS), default="agent")
     ap.add_argument("--resume", action="store_true")
-    ap.add_argument("--set", default="", choices=["", "hard"], dest="subset",
-                    help="hard: only the HARD questions (for the ablations)")
+    ap.add_argument("--set", default="", choices=["", "hard", "agentic", "regression"], dest="subset",
+                    help="hard: only the HARD questions (for the ablations); agentic: agent v2's "
+                         "task cases (AGENTIC); regression: 15 of the original cases (REGRESSION_V2)")
     ap.add_argument("--config", default="",
                     help="save to answer_check_<config>.json, e.g. one per ablation configuration")
     ap.add_argument("--rescore", action="store_true",

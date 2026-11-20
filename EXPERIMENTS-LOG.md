@@ -804,3 +804,29 @@ Every answer was "verified": every figure was found in the passages. No regressi
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.
 - **A real transformer sentence-embedding model**, if a network path to one ever opens up (a different host than huggingface.co, or the model weights hand-carried onto the machine some other way). Given experiment #2's result, this is genuinely the more promising direction, not the word-vector averaging tried here.
 - **Sentence-level chunking with page-aware grouping** (chunk by sentence, but keep a page's chunks logically grouped so a "which chunk of this page" reranking step has cleaner units to work with) — different from the flat smaller-chunk-size sweep already tried.
+
+## 37. Agent v2: memory, a longer loop, more tools and tasks, streaming (Runbook 11, branch `agent-v2`)
+
+**Why.** v1 answered one question at a time from at most two rounds of tools, remembered only the last three questions, and showed nothing until the whole answer was ready. The goal was the feel of Claude or ChatGPT (streaming, memory, planning, more tools and kinds of task, the usual chat controls) without weakening the one rule: VNIT facts only from VNIT's documents, cited, every figure verified. The model is unchanged (Groq's free `openai/gpt-oss-120b`); everything new is the agent around it.
+
+**What was built** (all behind `AGENT_V2`, on in the branch; `AGENT_V2=off` is v1 exactly, and v1's 73 tests pass with it off):
+- `memory.py`: 6 turns with answers, each answer ≤600 characters, ≤~1,500 tokens; earlier answers are context, never evidence.
+- `agent_loop.py`: a short plan (1-4 parts, tracked), up to 6 rounds of up to 3 parallel tool calls, a per-question budget of 14,000 tokens, stopping when the plan is done or two rounds find nothing new; a one-line reflection after each round written by code (no critic model); compaction past `PROMPT_BUDGET`; repeated calls skipped; the final answer streamed.
+- Tools: `latest_notices`, `fetch_vnit_page` (vnit.ac.in only, cached a day), `today`, `contact_office`.
+- `router.task`: compare (table), summarise, explain (steps), draft (labelled, verified office email), general (labelled, no VNIT figures; the must-decline questions never qualify), chat.
+- `language.py`: Hindi, Marathi, Hinglish detected in code; English search; answer in kind with figures as in the sources.
+- `POST /ask/stream` (Server-Sent Events) and a new chat page and website widget with Stop, Copy, Regenerate, Edit, suggestions and tables.
+
+**No-key measurements (same frozen index).** Retrieval is unchanged: `chunk_ranks` 78/82, `fact_ranks` 13/18, `evaluate` 16/19, `evidence_check` 80/82 + 11/11, all equal to Runbook 10. Tests: 112/112 (73 of v1 + 39 of v2).
+
+**Live trials on a dev model, not the final model.** The ablations of §26 were using the gpt-oss allowance, so v2 was tried on `qwen/qwen3.8-27b` (its own allowance). 16 trial questions: 13 through the agent, 2 fixed replies (general, chat), and the Hinglish one repeated after a per-minute limit. Of the 13:
+- multi-part: 2 right, 1 half right (it took the 2025-26 placement season as "ongoing" from the report instead of the T&P page's 678);
+- tools: `latest_notices` used for "any new fee notice?"; a deadline question did not call `today` (the date is already in the prompt) and reasoned badly from a missing date;
+- compare, summarise, explain, draft, lookup: right; general labelled; chat listed the new abilities;
+- Hindi, Marathi (it opened the live Director page by itself) and Hinglish: right, figures verified.
+
+**Cost.** On these trials, v2 averaged **12,036 tokens, 121 s, 1.8 tool calls and 3.2 LLM calls** a question; v1's saved 105-case run on gpt-oss-120b averaged 4,541 tokens, 24 s, 0.3 tool calls and 1.3 calls. The two are not like for like (different model, and the trials were mostly multi-part questions), so the 15 regression cases are being asked through both v1 and v2 on the dev model (`--set regression`, configs `agent_v1_dev_regression` and `agent_v2_dev_regression`). Two causes are visible already: each v2 round carries a longer prompt (9 tool descriptions and the planning rules, ~2,600 tokens before any passage), and the final answer plus one revision come after the budget check, so a summary used 20,606 tokens against a 14,000 budget. The seconds are mostly the rate pacer waiting for the 8,000-tokens-a-minute allowance; streaming the steps is what makes that wait visible rather than blank.
+
+**The agentic set** (`check_answers.py --set agentic`, 19 cases: 3 multi-part, 2 compare, 2 summarise, 2 explain, 2 draft, 2 multi-turn, Hindi, Hinglish, 2 labelled general, 2 must-decline phrased to tempt the general path), saved to `answer_check_agent_v2_dev.json`, never to `answer_check.json`. The dev model's rolling daily allowance (~200,000 tokens) ran out after the trials, during this set; see REPORT11.md for how far it got.
+
+**Not yet measured:** v2 on the real model over the 105 cases (`--config agent_v2`), and as a row of the ablation table. That waits for the ablations of §26 to finish (REPORT11.md, the merge plan).
