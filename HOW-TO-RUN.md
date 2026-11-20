@@ -124,9 +124,12 @@ cd C:\Users\shiva\OneDrive\Desktop\LIBRARY\FYP\VNIT-Website-Chatbot\vnit-chatbot
 REM 1. Refresh website pages
 python recrawl.py
 
-REM 2. Find and read new documents (notices, fee sheets...) - slow: about 1 minute per document
-%USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe ingest_documents.py discover
-%USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe ingest_documents.py convert
+REM 2. Find and read new documents (notices, fee sheets...) - slow: 1 to 10 minutes per document
+REM    discover-crawl looks at the website project's saved full crawl (..\..\vnit-website\crawl)
+REM    and only ADDS new documents to the list; it never rewrites what is there.
+%USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe ingest_documents.py discover-crawl
+%USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe ingest_documents.py plan --only-new
+%USERPROFILE%\.venvs\vnit-pdf\Scripts\python.exe ingest_documents.py convert --only-new
 
 REM 3. Rebuild the search index
 python chunk.py
@@ -137,14 +140,17 @@ REM 4. Check quality (no key needed)
 python evaluate.py
 python fact_ranks.py
 python chunk_ranks.py
+python evidence_check.py
 python test_agentic.py
 set GENAI_API_KEY=<paste key here only in this window>
 python check_answers.py
 ```
 
-`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about ten minutes (one test asks all 100 test questions without the AI), and should print `66/66 passed`.
+**About step 2.** Use `discover-crawl`, not the older `discover`: `discover` only looks at the 81 pages of the first crawl and rewrites the document list from scratch. `discover-crawl` reads the pages the website project saved (no downloading of pages), finds the documents they link to about fees, calendars, hostels, scholarships, placements and rules, and adds only the new ones (their list goes in `data/documents/added_<date>.json`). `convert --only-new` then converts just those, newest first. It is safe to stop: finished documents are kept, and running it again carries on. On 20 Nov it was stopped after 4 hours with 62 of 116 still to do, so the same command picks those up. It needs the Google Drive key (`C:\Users\shiva\vnit-secrets.txt`). After it, rebuild (step 3) and run the checks (step 4). If `chunk_ranks.py` or `evidence_check.py` gets worse, move the new documents that cost the answers into `data/raw_new_docs_held/` and rebuild, as `EXPERIMENTS-LOG.md` §34 did. **Don't do this while the measurements (`run_ablations.sh`) are running**: they need the index to stay as it is.
 
-`check_answers.py` asks the 100 test cases through the agent. A full run needs about 450,000 tokens, more than two days of the free plan's daily allowance, so ask a few at a time with `--only <part of a name>` (for example `--only hostel_fee`). To measure the older, simpler pipeline on the same questions, add `--pipeline oneshot`. If the free plan's **daily** limit runs out part-way (the end of the output warns you), run the same command again the next day with `--resume` added: it only re-asks the questions that didn't get a real answer.
+`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about ten minutes (one test asks all 100 test questions without the AI), and should print `73/73 passed`.
+
+`check_answers.py` asks the 105 test cases through the agent. A full run needs about 450,000 tokens, more than two days of the free plan's daily allowance, so ask a few at a time with `--only <part of a name>` (for example `--only hostel_fee`). To measure the older, simpler pipeline on the same questions, add `--pipeline oneshot`. If the free plan's **daily** limit runs out part-way (the end of the output warns you), run the same command again the next day with `--resume` added: it only re-asks the questions that didn't get a real answer.
 
 ---
 
@@ -157,6 +163,7 @@ python check_answers.py
 | `api/main.py` | The small server that answers questions |
 | `pipeline/` | Everything that collects the website, reads documents and finds answers |
 | `data/raw/` | The collected text: web pages and `doc_*.txt` documents (this is what is searched) |
+| `data/raw_new_docs_held/` | 4 documents converted on 20 Nov but kept out of the search, because they pushed right answers out (EXPERIMENTS-LOG §34) |
 | `data/raw_site_crawl/` | 814 more pages from the website project's full crawl (`pipeline/import_site_crawl.py`), kept aside: not searched, because they did not help (EXPERIMENTS-LOG §29). To try them again, move them into `data/raw` and rebuild (step 3) |
 | `data/processed/` | The search index built from that text |
 | `data/documents/` | List of all documents found, and which were used or skipped |

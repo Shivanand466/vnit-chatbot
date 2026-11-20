@@ -11,7 +11,7 @@ Read this first after a restart; carry on from the first step not marked DONE, F
 | 4 | DONE | table rows as corrective passages + parser takes rows without a lead-in: all 3 in the evidence; evidence 80/82 + 11/11, chunk_ranks 78/82, tests 73/73 (§35) |
 | 5 | DONE | 16/16 pass (3 misses fixed, 5 new, 8 regression); saved results 105/105; ~69k tokens (§36) |
 | 6 | DONE | tag `final-index-2026-11-20`, frozen copy, old results in data/processed/results-before-2026-11-20/, runner started 18:28 |
-| 7 | | |
+| 7 | DONE | README, APPLICATION, HOW-TO-RUN, website check on 8010, Good morning |
 
 ## Decisions
 

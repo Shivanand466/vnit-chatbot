@@ -2,7 +2,71 @@
 
 ## Good morning
 
-(Written at the end, in Step 7.)
+**In short: every test question now passes in the saved results, 105 of 105 (it was 97 of 100).** The last three failures are fixed, five new questions from newly read documents pass, and nothing that passed before broke. The search index is frozen, and the measurements for the report (the ablations) are running in their own window. Everything is committed; nothing is pushed.
+
+**Before and after**
+
+| Check | Before tonight | After |
+|---|---|---|
+| Answer check, saved results | 97/100 | **105/105** |
+| Answer passage reaches the AI's first search (`chunk_ranks`, no key) | 73/77 | **78/82** (the old 77 unchanged, all 5 new ones found 1st) |
+| Answer is in what the agent starts from (`evidence_check`, new, no key) | 73/77 + 10/11 | **80/82 + 11/11** |
+| Answer passage in the top 3 (`fact_ranks`) | 14/18 | 13/18 (one moved from 2nd to 4th, see below) |
+| Right page in the top 3 (`evaluate`) | 16/19 | 16/19 |
+| Automated tests (`test_agentic`, no key) | 66/66 | **73/73** |
+
+Of the 105 saved answers, 16 were asked tonight on the final index (all pass). The other 89 are from 14–20 Nov. The fresh full run that the ablations end with will give the headline number on tonight's code.
+
+**New documents.** The website project's full crawl links 116 fee, calendar, hostel, scholarship, placement and rules documents the chatbot had never read.
+- All 116 were added to the document list, and every existing entry stayed exactly as it was.
+- 53 were processed in the 4-hour limit, newest first: 47 converted, 1 thrown out as a list of people's names, 1 empty, 4 failed.
+- **42 are kept** in the search. 4 more are held aside because they pushed right answers out, and 1 Hindi copy (unreadable after scanning) was set aside.
+- 62 are still to do; the same command carries on with them.
+
+**The 5 most useful new documents**, each with a new test question that passes:
+1. Fees Payment Instruction Summer 2027 (dollar rate for DASA students: ₹96.21)
+2. Extension of last date for Fee Remission 2026-27 (14/10/2026)
+3. Placement Policy for batch 2027 (offers can be upgraded until 30 April 2027)
+4. M.Tech (Research) brochure, January 2027 (5 extra seats per programme)
+5. Shiksha Shakti Scholarship 2026-27 (deadline 31 October 2026)
+
+The S-27 fee notice for January–June 2027 is in the search too.
+
+**The 3 table-row misses: all fixed.** Each answer was one row of a long table that the search never brought to the AI. The chatbot now also looks up the two best-matching table rows in code (no extra AI call) for every fee, calendar or placement question, and adds them to what the AI reads.
+- **Holi** is now answered 04.03.2026.
+- **Companies at B.Tech placements 2024-25** is now answered 121. That row wasn't even in the table store: the reader skipped tables with no paragraph before them, and now it doesn't.
+- **Ph.D. part-time tuition** is now answered ₹15,000 per semester.
+
+**Two safety catches found tonight.**
+- A converted "refund" notice turned out to be a list of job candidates' names. It had no roll numbers, so the old filter missed it. It is excluded, and a new rule now catches such lists.
+- The Hindi placement policy came out of scanning as junk Latin letters. It is excluded, and documents titled as the Hindi version are now skipped.
+
+**Tests that may be out of date:** none found.
+
+**What got worse:** only `fact_ranks`, by one place. The Kotak Kanya question's passage is now 4th, behind the new 2026-27 notice of the same scholarship; both say ₹1.5 lakh a year, and it still reaches the AI.
+
+**The ablations are running** (started 20 Nov 18:28, in the window called "VNIT ablations"). The log already shows answers, for example `one-shot: [PASS] civil_intake`.
+- They should finish in **about 3-4 days**. Today's free allowance was mostly used already, so they will mostly wait until tomorrow and then carry on by themselves.
+- To check, in Git Bash:
+  ```
+  cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-chatbot
+  tail data/processed/ablation_runs.log
+  ```
+- When the last line says "all tracks done", run `cd pipeline && python ablation_table.py`.
+- **While they run, the free allowance is mostly theirs.** A demo then may be slow or get the simpler answers. To pause them, close their window. To resume, run `cd pipeline && bash run_ablations.sh`; it never asks a question twice.
+- Don't change the index or the documents until they finish.
+
+**What to do next**
+1. Let the ablations finish, then put the table from `python ablation_table.py` into slides 13-19 (and EXPERIMENTS-LOG §26, README, APPLICATION).
+2. Optional, only after that: convert the other 62 documents (`HOW-TO-RUN.md` §5, `convert --only-new`).
+3. When you are happy, push:
+   ```
+   cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-chatbot && git push && git push --tags
+   ```
+   It triggers the Hugging Face workflow, which skips itself because no `HF_TOKEN` is set.
+
+**Quota used tonight:** about 69,000 tokens of gpt-oss-120b (16 questions). Nothing else used the Groq key, apart from the ablation runner, which started after.
+
 
 ---
 
@@ -207,3 +271,25 @@ Steps 3–5 ended with a kept, working index and no regression, so this step ran
 - From here, the index, `data/raw` and the retrieval code stay as they are. Step 7 only edits docs.
 
 **Done when:** tag and frozen copy exist; old results set aside; runner confirmed started. **Met.**
+
+## Step 7. Docs and the morning report
+
+- `README.md`:
+  - project status: documents 448, the index frozen with 7,328 chunks and 31,682 table cells, 105/105, 105 cases, tests 73/73, ablations running;
+  - measured quality: `chunk_ranks` 78/82, the new `evidence_check` 80/82 + 11/11, `fact_ranks` 13/18;
+  - known limitations: table rows found by a separate lookup, 62 documents still to convert, the privacy filter's new rule;
+  - what to do next.
+- `APPLICATION.md`: status table (same numbers), and the corrective step's new table rows described in §5a B.
+- `HOW-TO-RUN.md`:
+  - how to run `discover-crawl`, `plan --only-new` and `convert --only-new`, in the same plain style, with a warning not to do it while the ablations run;
+  - `evidence_check.py` in the checks; the test count 73/73;
+  - `data/raw_new_docs_held/` in the folder table.
+- **Website check** (no key, port 8010, `uvicorn api.main:app --port 8010`, stopped afterwards; port 8010 confirmed free):
+  - `/health` ok;
+  - `/site/` 200 ("Home | VNIT Nagpur (student project demo)");
+  - `/ask` "is holi a holiday at vnit in 2026? which date?" gave `extractive (no GENAI_API_KEY set)` passages from "List of Holiday's during the year 2026";
+  - `/ask` "What is the hostel fee?" gave `clarify` (btech, barch, mtech, phd).
+
+  The website in `../vnit-website` was not rebuilt or changed.
+
+**Done when:** docs updated, every step marked, last commit in. **Met.**
