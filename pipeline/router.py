@@ -120,6 +120,80 @@ def intent(question: str) -> str:
     return OTHER
 
 
+# Task types (agent v2): what the student wants done with VNIT's facts, as
+# opposed to what the facts are about (intent) or whether to search (route).
+# Code rules, checked in this order; anything else is a plain lookup.
+TASK_LOOKUP, TASK_COMPARE, TASK_SUMMARISE, TASK_EXPLAIN = "lookup", "compare", "summarise", "explain"
+TASK_DRAFT, TASK_GENERAL, TASK_CHAT = "draft", "general", "chat"
+
+_DRAFT = re.compile(
+    r"\b(write|draft|compose|prepare|create|frame)\b[^.?!]{0,40}?\b(e-?mail|mail|letter|application|"
+    r"request|complaint|message)\b|\b(e-?mail|letter|application)\s+to\s+(the\s+)?\w+", re.I)
+_COMPARE = re.compile(
+    r"\bcompare\b|\bcomparison\b|\bvs\.?(?!\w)|\bversus\b|\bdifference\s+between\b|"
+    r"\bwhich\s+(one\s+|hostel\s+|programme\s+|course\s+)?(is|are|has)\s+(the\s+)?"
+    r"(cheaper|cheapest|costlier|higher|lower|better|more|less|bigger)\b|\bcheaper\b|\bcostlier\b|"
+    r"\b(higher|lower|more|less)\s+than\b", re.I)
+_SUMMARISE = re.compile(
+    r"\bsummar(y|ise|ize|ising|izing)\b|\bkey\s+points\b|\btl;?dr\b|\boverview\s+of\b|\bgist\b|"
+    r"\bwhat\s+does\s+(the\s+)?.{3,60}?\b(say|state|contain|cover)\b", re.I)
+_EXPLAIN = re.compile(
+    r"\bhow\s+(do|can|should|does)\s+(i|we|one|a\s+student|students)\s+(apply|get|obtain|pay|register|"
+    r"submit|request|claim|change|cancel|withdraw|transfer|renew|book|reserve)\b|"
+    r"\bhow\s+to\s+(apply|get|obtain|pay|register|submit|request|claim|change|cancel|withdraw|"
+    r"transfer|renew|book|reserve)\b|\b(steps?|procedure|process)\s+(to|for|of)\b|"
+    r"\bwhat\s+is\s+the\s+(procedure|process)\b|\bstep[\s-]by[\s-]step\b", re.I)
+# "what is CGPA?", "what does DASA mean?": a short concept, nothing else.
+_GENERAL = re.compile(
+    r"^\s*(what\s+(is|are)|what's|whats|define|meaning\s+of|what\s+does)\s+(an?\s+|the\s+)?"
+    r"(?P<thing>[\w.&/' -]{2,40}?)\s*(mean|means|stand\s+for|stands\s+for)?\s*\??\s*$", re.I)
+# Anything VNIT-specific or time-sensitive is never a general question: it is
+# looked up, and declined if VNIT's documents do not have it.
+_SPECIFIC = re.compile(
+    r"\b(vnit|visvesvaraya|nagpur|fees?|tuition|ranks?|cut-?offs?|closing|opening|dates?|deadlines?|"
+    r"last\s+day|when|cost|price|salary|address|password|wi-?fi|score|marks|percentile|package|ctc|"
+    r"placements?|warden|director|dean|registrar|professor|faculty|hostels?|mess|seats?|intake|"
+    r"how\s+much|how\s+many|our|my|here|current|latest|today|timetable|exams?|holidays?|contact|"
+    r"e-?mail|phone|hod|head|who|where)\b|\b(19|20)\d{2}\b", re.I)
+
+
+def task(question: str) -> str:
+    """The kind of task a message asks for: one of the TASK_ constants."""
+    q = (question or "").strip()
+    if route(q) in (GREETING, THANKS, CAPABILITY):
+        return TASK_CHAT
+    if _DRAFT.search(q):
+        return TASK_DRAFT
+    if _COMPARE.search(q):
+        return TASK_COMPARE
+    if _SUMMARISE.search(q):
+        return TASK_SUMMARISE
+    if _EXPLAIN.search(q):
+        return TASK_EXPLAIN
+    m = _GENERAL.match(q)
+    if m and len(m.group("thing").split()) <= 4 and not _SPECIFIC.search(q):
+        return TASK_GENERAL
+    return TASK_LOOKUP
+
+
+# One instruction line per task, for the agent's prompts (agent_loop.py).
+TASK_LINES = {
+    TASK_COMPARE: ("Task: compare. Plan one part per item being compared. Answer with a small "
+                   "markdown table, a header row then one row per item, every figure in it cited "
+                   "like [P3], even for two items; then at most two short lines."),
+    TASK_SUMMARISE: ("Task: summarise. Find the document (find_documents), read its passages in "
+                     "order (read_document, more than once if needed), then write 5 to 8 bullets, "
+                     "each cited. The 120-word limit does not apply."),
+    TASK_EXPLAIN: ("Task: explain a procedure. Answer with numbered steps (1. 2. 3.), each taken "
+                   "from a passage and cited, then the office to contact (use contact_office)."),
+    TASK_DRAFT: ("Task: draft. Write the email or application itself: polite, short, with "
+                 "placeholders like [Your name] and [Roll number]. Every VNIT fact in it (an "
+                 "office's email, a deadline, a fee) must come from a passage and be cited; get the "
+                 "office's email with contact_office. Begin with the line \"Draft — check before "
+                 "sending.\" The 120-word limit does not apply."),
+}
+
+
 def route(question: str) -> str:
     """Which kind of question this is: one of the constants above."""
     q = (question or "").strip()
