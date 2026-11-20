@@ -1,7 +1,10 @@
 // VNIT Assistant: the chatbot as a floating chat window on every page of the site.
-// The logic is copied from vnit-chatbot/frontend/index.html (the chatbot's own
-// chat page) so both behave the same: follow-ups, clarifying buttons, the student
-// profile, sources, "How I found this", the verification badge and feedback.
+// The logic follows vnit-chatbot/frontend/index.html (the chatbot's own chat
+// page) so both behave the same: follow-ups, clarifying buttons, the student
+// profile, sources, "How I found this", the verification badge and feedback, and
+// since agent v2 the answer streamed with its steps shown live, Stop, Copy,
+// Regenerate, suggested follow-ups and tables. It prefers /ask/stream and falls
+// back to /ask, so it still works with an older chatbot server.
 // Conversation state lives in memory only (no localStorage, no cookies), exactly
 // like the chat page, so it is forgotten when the visitor changes page.
 (function () {
@@ -73,14 +76,16 @@
     [/notices/, "scholarships"]
   ];
 
-  var KIND = { understand: "understood", route: "decided", search: "searched",
-    tool: "acted", answer: "answered", verify: "checked", revise: "revised",
-    fallback: "fallback", grade: "graded", clarify: "asked back", handoff: "handed off" };
+  var KIND = { understand: "understood", route: "decided", search: "searched", plan: "planned",
+    tool: "acted", reflect: "noticed", compact: "tidied", stop: "stopped", answer: "answered",
+    verify: "checked", revise: "revised", fallback: "fallback", grade: "graded",
+    clarify: "asked back", handoff: "handed off" };
 
-  var asked = [];   // questions so far, so a follow-up can be understood
+  var turns = [];   // earlier questions and the answers given, {q, a}, so follow-ups work
   var profile = {}; // details picked from clarifying questions (programme, gender...)
-  var busy = false;
+  var busy = null;  // the AbortController of the answer being written, while one is
   var els = {};
+  var MAX_TURNS = 6;
 
   function apiUrl() {
     if (window.VNIT_ASSISTANT_API) return window.VNIT_ASSISTANT_API;
@@ -111,24 +116,46 @@
     });
   }
 
-  // Minimal Markdown -> HTML for what the model actually writes: bold, italics,
-  // inline code, bullet and numbered lists, and "Note:" lines. Everything is
-  // escaped first, so nothing in an answer can inject HTML into the page.
+  // Markdown -> HTML for what the model writes: bold, italics, inline code,
+  // links, bullet and numbered lists, tables (compare answers) and "Note:"
+  // lines. Everything is escaped first, so nothing in an answer can inject
+  // HTML into the page; links are kept only as plain http(s) addresses.
+  function inline(s) {
+    return s
+      .replace(/\[([^\]]{1,120})\]\((https?:\/\/[^\s)]+)\)/g, function (m, text, url) {
+        return '<a href="' + url + '" target="_blank" rel="noopener">' + text + "</a>";
+      })
+      .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+      .replace(/(^|[\s(])\*(?!\s)([^*]+?)\*(?=[\s).,;:!?]|$)/g, "$1<em>$2</em>")
+      .replace(/`([^`]+?)`/g, "<code>$1</code>")
+      .replace(/\[(\d+)\]/g, "<sup>$1</sup>");
+  }
+
+  function tableHtml(rows) {
+    var rule = /^\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?$/;
+    var html = '<div class="va-tablewrap"><table>';
+    rows.forEach(function (r, i) {
+      if (rule.test(r)) return;
+      var tag = i === 0 && rows[1] && rule.test(rows[1]) ? "th" : "td";
+      var cells = r.replace(/^\|/, "").replace(/\|$/, "").split("|");
+      html += "<tr>" + cells.map(function (c) {
+        return "<" + tag + ">" + inline(c.trim()) + "</" + tag + ">";
+      }).join("") + "</tr>";
+    });
+    return html + "</table></div>";
+  }
+
   function renderAnswer(text) {
     var lines = escapeHtml(String(text || "").replace(/\r/g, "")).split("\n");
-    var html = "", list = null;
+    var html = "", list = null, table = [];
 
-    function inline(s) {
-      return s
-        .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-        .replace(/(^|[\s(])\*(?!\s)([^*]+?)\*(?=[\s).,;:!?]|$)/g, "$1<em>$2</em>")
-        .replace(/`([^`]+?)`/g, "<code>$1</code>")
-        .replace(/\[(\d+)\]/g, "<sup>$1</sup>");
-    }
     function closeList() { if (list) { html += "</" + list + ">"; list = null; } }
+    function closeTable() { if (table.length) { html += tableHtml(table); table = []; } }
 
     lines.forEach(function (raw) {
       var line = raw.trim();
+      if (line.charAt(0) === "|") { closeList(); table.push(line); return; }
+      closeTable();
       if (!line) { closeList(); return; }
       var bullet = line.match(/^[-*•]\s+(.*)$/);
       var numbered = line.match(/^(\d+)[.)]\s+(.*)$/);
@@ -148,6 +175,7 @@
         html += "<p>" + inline(line.replace(/^#+\s*/, "")) + "</p>";
       }
     });
+    closeTable();
     closeList();
     return html;
   }
@@ -243,18 +271,30 @@
     turn.appendChild(el("div", "va-bubble", text));
   }
 
+  // While the answer is being worked out: the steps as small lines (the newest
+  // with a spinner), then the answer itself as it is written.
   function addThinking() {
     var turn = addTurn("va-bot");
-    turn.innerHTML = '<div class="va-bubble"><span class="va-typing" aria-hidden="true"><i></i><i></i><i></i></span>' +
-      '<span class="va-typing-label">Searching VNIT’s documents…</span></div>';
-    // A question that needs extra lookups can wait for the free plan's
-    // per-minute allowance, so say so rather than look frozen.
-    var label = turn.querySelector(".va-typing-label");
-    var later = setTimeout(function () {
-      label.textContent = "Looking further — extra lookups can take up to a minute on the free plan…";
-    }, 12000);
-    turn.stopTimer = function () { clearTimeout(later); };
+    var bubble = el("div", "va-bubble");
+    turn.live = el("div", "va-live");
+    turn.body = el("div", "va-body va-cursor");
+    bubble.append(turn.live, turn.body);
+    turn.appendChild(bubble);
+    liveStep(turn, "Searching VNIT’s documents…");
     return turn;
+  }
+
+  function liveStep(turn, text) {
+    if (!turn.live) return;
+    turn.live.querySelectorAll(".va-now").forEach(function (d) { d.classList.remove("va-now"); });
+    var line = el("div", "va-now", text.length > 160 ? text.slice(0, 160) + "…" : text);
+    turn.live.appendChild(line);
+    els.chat.scrollTop = els.chat.scrollHeight;
+  }
+
+  function stepText(t) {
+    if (t.step === "tool" && t.tool === "read_document") return "Opening: " + t.text.replace(/^Looked inside /, "");
+    return t.text;
   }
 
   function rate(data, rating, row, status) {
@@ -309,7 +349,7 @@
         row.querySelectorAll("button").forEach(function (x) { x.disabled = true; });
         profile[data.clarify.slot] = c.value;
         showProfile();
-        send(data.question, c.label, turn.historyAtAsk);
+        send(data.question, c.label);
       });
       row.appendChild(b);
     });
@@ -334,8 +374,28 @@
     turn.appendChild(details);
   }
 
+  function tool(label, title, onClick) {
+    var b = el("button", "va-tool", label);
+    b.type = "button";
+    b.title = title;
+    b.addEventListener("click", onClick);
+    return b;
+  }
+
   function addMeta(turn, data) {
     var meta = el("div", "va-meta");
+    if (data.mode !== "error") {
+      meta.appendChild(tool("Copy", "Copy the answer", function (e) {
+        var b = e.currentTarget;
+        var done = function (text) { b.textContent = text; setTimeout(function () { b.textContent = "Copy"; }, 1500); };
+        if (navigator.clipboard) navigator.clipboard.writeText(data.answer).then(function () { done("Copied"); },
+                                                                                   function () { done("Copy failed"); });
+        else done("Copy failed");
+      }));
+    }
+    meta.appendChild(tool("Regenerate", "Ask the same question again", function () {
+      if (!busy && data.question) send(data.question, data.question);
+    }));
     meta.appendChild(el("span", "va-mode", data.mode));
     var v = data.verification;
     if (v && (v.verdict === "verified" || v.verdict === "unsupported")) {
@@ -346,7 +406,7 @@
     }
     // Rating only makes sense for a real answer, not a greeting, a question back or an error.
     var mode = String(data.mode);
-    if (mode.indexOf("direct") !== 0 && mode !== "clarify" && mode !== "error") {
+    if (mode.indexOf("direct") !== 0 && mode !== "clarify" && mode !== "error" && mode !== "stopped") {
       var row = el("span", "va-rate");
       var status = el("span", "va-rate-status");
       [["\u{1F44D}", "up", "Helpful"], ["\u{1F44E}", "down", "Not helpful"]].forEach(function (r) {
@@ -363,17 +423,33 @@
     turn.appendChild(meta);
   }
 
-  function fillAnswer(turn, data) {
-    if (turn.stopTimer) turn.stopTimer();
+  // Follow-up questions the server suggests, as chips under the newest answer only.
+  function addSuggestions(turn, data) {
+    els.chat.querySelectorAll(".va-suggest").forEach(function (s) { s.remove(); });
+    if (!data.suggestions || !data.suggestions.length) return;
+    var row = el("div", "va-suggest");
+    data.suggestions.forEach(function (q) {
+      var b = el("button", "", q);
+      b.type = "button";
+      b.addEventListener("click", function () { if (!busy) send(q, q); });
+      row.appendChild(b);
+    });
+    turn.appendChild(row);
+  }
+
+  function fillAnswer(turn, data, corrected) {
     turn.innerHTML = "";
+    turn.live = turn.body = null;
     addUnderstood(turn, data);
     var bubble = el("div", "va-bubble");
     bubble.innerHTML = renderAnswer(data.answer);
     addSources(bubble, data);
     turn.appendChild(bubble);
+    if (corrected) turn.appendChild(el("div", "va-corrected", "Corrected after checking against the documents."));
     addChoices(bubble, turn, data);
     addSteps(turn, data);
     addMeta(turn, data);
+    addSuggestions(turn, data);
     els.chat.scrollTop = els.chat.scrollHeight;
   }
 
@@ -382,38 +458,103 @@
     if (!question || busy) return;
     els.input.value = "";
     els.input.style.height = "auto";
-    send(question, question, asked.slice(-3));
+    send(question, question);
+  }
+
+  function setBusy(controller) {
+    busy = controller;
+    els.send.textContent = controller ? "Stop" : "Ask";
+    els.send.classList.toggle("va-stop", !!controller);
+  }
+
+  function requestBody(question) {
+    return JSON.stringify({ question: question, turns: turns.slice(-MAX_TURNS),
+                            history: turns.slice(-3).map(function (t) { return t.q; }), profile: profile });
+  }
+
+  function errorAnswer(question, resp) {
+    return resp.json().catch(function () { return {}; }).then(function (body) {
+      return { question: question, answer: body.detail || "HTTP " + resp.status, sources: [], mode: "error" };
+    });
+  }
+
+  // Server-Sent Events from /ask/stream: "step" lines, "token" pieces of the
+  // answer, "replace" when the checker made it revise, then "done" (what /ask
+  // returns). Resolves to null when the server has no /ask/stream (an older one).
+  function streamAnswer(question, turn, signal) {
+    return fetch(apiUrl().replace(/\/ask$/, "/ask/stream"), {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: requestBody(question), signal: signal
+    }).then(function (resp) {
+      if (resp.status === 404 || resp.status === 405 || !resp.body) return null;
+      if (!resp.ok) return errorAnswer(question, resp);
+      var reader = resp.body.getReader();
+      var decoder = new TextDecoder();
+      var buffer = "", text = "", corrected = false;
+      function paint() { if (turn.body) { turn.body.innerHTML = renderAnswer(text); els.chat.scrollTop = els.chat.scrollHeight; } }
+      function pump() {
+        return reader.read().then(function (r) {
+          if (r.done) return text ? { question: question, answer: text, sources: [], mode: "stopped" } : null;
+          buffer += decoder.decode(r.value, { stream: true });
+          var cut;
+          while ((cut = buffer.indexOf("\n\n")) >= 0) {
+            var block = buffer.slice(0, cut);
+            buffer = buffer.slice(cut + 2);
+            if (block.charAt(0) === ":") continue;            // keep-alive ping
+            var event = (block.match(/^event: (.*)$/m) || [])[1];
+            var raw = (block.match(/^data: (.*)$/m) || [])[1];
+            if (!event || raw === undefined) continue;
+            var data = JSON.parse(raw);
+            if (event === "step") liveStep(turn, stepText(data));
+            else if (event === "token") { if (!text) liveStep(turn, "Writing the answer…"); text += data; paint(); }
+            else if (event === "replace") { text = data; corrected = true; paint(); }
+            else if (event === "done") { data._corrected = corrected; return data; }
+            else if (event === "error") return { question: question, answer: data.message, sources: [], mode: "error" };
+          }
+          return pump();
+        });
+      }
+      return pump();
+    });
+  }
+
+  function plainAnswer(question, signal) {
+    return fetch(apiUrl(), {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: requestBody(question), signal: signal
+    }).then(function (resp) { return resp.ok ? resp.json() : errorAnswer(question, resp); });
   }
 
   // `shown` is what appears as the visitor's message: the question itself, or
   // the choice they clicked ("B.Tech") when a clarified question is re-asked.
-  function send(question, shown, history) {
+  function send(question, shown) {
     if (busy) return;
-    busy = true;
-    els.send.disabled = true;
     addMine(shown);
     var pending = addThinking();
-    pending.historyAtAsk = history;
+    var controller = new AbortController();
+    setBusy(controller);
 
-    fetch(apiUrl(), {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ question: question, history: history, profile: profile })
-    }).then(function (resp) {
-      if (!resp.ok) {
-        return resp.json().catch(function () { return {}; }).then(function (body) {
-          fillAnswer(pending, { question: question, answer: body.detail || "HTTP " + resp.status, sources: [], mode: "error" });
-        });
+    streamAnswer(question, pending, controller.signal).catch(function (err) {
+      if (err && err.name === "AbortError") throw err;
+      return null;                                     // the stream failed: try /ask
+    }).then(function (data) {
+      return data || plainAnswer(question, controller.signal);
+    }).then(function (data) {
+      fillAnswer(pending, data, data._corrected);
+      if (data.mode !== "error" && data.mode !== "clarify") {
+        turns.push({ q: data.understood_as || question, a: data.answer });
+        turns = turns.slice(-50);
       }
-      return resp.json().then(function (data) {
-        fillAnswer(pending, data);
-        asked.push(data.understood_as || question);
-      });
-    }).catch(function () {
-      fillAnswer(pending, { question: question, answer: NOT_RUNNING, sources: [], mode: "error" });
+    }).catch(function (err) {
+      if (err && err.name === "AbortError") {
+        var partial = pending.body ? pending.body.innerText.trim() : "";
+        fillAnswer(pending, { question: question, answer: (partial ? partial + "\n\n" : "") + "*Stopped.*",
+                              sources: [], mode: "stopped" });
+      } else {
+        fillAnswer(pending, { question: question, answer: NOT_RUNNING, sources: [], mode: "error" });
+      }
     }).then(function () {
-      busy = false;
-      els.send.disabled = false;
+      setBusy(null);
       els.input.focus();
     });
   }
@@ -426,9 +567,13 @@
     });
     els.close.addEventListener("click", close);
     els.clear.addEventListener("click", function () { profile = {}; showProfile(); });
-    els.form.addEventListener("submit", function (e) { e.preventDefault(); ask(); });
+    els.form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      if (busy) busy.abort();          // the button reads Stop while an answer is written
+      else ask();
+    });
     els.input.addEventListener("keydown", function (e) {
-      if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); ask(); }
+      if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); if (!busy) ask(); }
     });
     els.input.addEventListener("input", function () {
       els.input.style.height = "auto";
