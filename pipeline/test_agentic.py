@@ -953,6 +953,11 @@ def test_table_rows_only_for_fees_calendar_and_placement():
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]
+    # Agent v2's tests (Runbook 11) run here too, unless only v1's are wanted.
+    if "--v1-only" not in sys.argv:
+        import test_agent_v2
+        tests += [(f"v2.{n}", f) for n, f in sorted(vars(test_agent_v2).items())
+                  if n.startswith("test_") and callable(f)]
     failed = 0
     for name, fn in tests:
         try:

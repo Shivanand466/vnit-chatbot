@@ -33,9 +33,12 @@ Then:
     curl -X POST localhost:8000/ask -H "Content-Type: application/json" \
          -d '{"question": "What is the fee for B.Tech and where can I find the hostel rules?"}'
 """
+import asyncio
 import json
 import os
+import queue
 import sys
+import threading
 import time
 from collections import defaultdict, deque
 from contextlib import asynccontextmanager
@@ -46,10 +49,22 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "pipeline"))
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse, RedirectResponse
+from fastapi.responses import FileResponse, RedirectResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
+# AGENT_FAKE_LLM=on: a pretend model answers instead of Groq, for trying the
+# chat page and taking screenshots without spending any allowance (fake_llm.py).
+if os.environ.get("AGENT_FAKE_LLM", "off").strip().lower() in ("on", "1", "true", "yes"):
+    import fake_llm
+    fake_llm.install()
+    os.environ.setdefault("GENAI_API_KEY", "fake")
+    os.environ["AGENT_MODEL"] = fake_llm.MODEL
+    os.environ["GENAI_MODEL"] = fake_llm.MODEL
+    print("AGENT_FAKE_LLM is on: answers come from a pretend model, not Groq.")
+
+import agent_loop
+import memory
 import respond
 import slots
 
@@ -131,6 +146,9 @@ def _check_rate_limit(ip: str, bucket: str = "ask"):
 class Question(BaseModel):
     question: str
     history: list[str] = []
+    # v2: the earlier questions with the answers given, [{"q": ..., "a": ...}].
+    # Trimmed by memory.py (6 turns, ~1,500 tokens) and never stored.
+    turns: list[dict] = []
     # What the student told the chat page (programme, gender, ...): kept in the
     # page only, sent with each question, and never stored here.
     profile: dict = {}
@@ -154,19 +172,98 @@ def health():
     return {"status": "ok"}
 
 
-@app.post("/ask")
-def ask(q: Question, request: Request):
+def _accepted(q: Question, request: Request):
+    """(question, keyword arguments for respond.answer), after the length and rate checks."""
     question = q.question.strip()
     if not question:
         raise HTTPException(400, "Please type a question.")
     if len(question) > MAX_QUESTION_CHARS:
         raise HTTPException(400, f"Please keep questions under {MAX_QUESTION_CHARS} characters.")
     _check_rate_limit(_client_ip(request))
+    history = [h.strip()[:MAX_QUESTION_CHARS] for h in q.history if h and h.strip()][-MAX_HISTORY:]
+    return question, {"history": history, "profile": slots.clean_profile(q.profile),
+                      "turns": q.turns[-memory.MAX_TURNS:]}
 
+
+@app.post("/ask")
+def ask(q: Question, request: Request):
     # respond.answer owns the whole hierarchy: resolve a follow-up, decide what
     # kind of message this is, search only if it needs searching, then compose.
-    history = [h.strip()[:MAX_QUESTION_CHARS] for h in q.history if h and h.strip()][-MAX_HISTORY:]
-    return respond.answer(question, history, profile=slots.clean_profile(q.profile))
+    question, kwargs = _accepted(q, request)
+    return respond.answer(question, **kwargs)
+
+
+# A comment line every so often while nothing else is sent, so a proxy or the
+# Cloudflare tunnel doesn't close a connection that is waiting on the rate pacer.
+PING_SECONDS = 10.0
+
+
+def _sse(event: str, data) -> str:
+    return f"event: {event}\ndata: {json.dumps(data, ensure_ascii=False)}\n\n"
+
+
+async def event_stream(events: queue.Queue, cancel: threading.Event, is_disconnected,
+                       ping_seconds: float = PING_SECONDS):
+    """Server-Sent Events from the worker's queue until "done" or "error".
+
+    Stops the worker (`cancel`) when the page goes away -- the Stop button
+    aborts the request -- so an abandoned question spends no more quota.
+    """
+    poll = min(1.0, ping_seconds)
+    idle = 0.0
+    try:
+        while True:
+            if await is_disconnected():
+                return
+            try:
+                event, data = await asyncio.to_thread(events.get, True, poll)
+            except queue.Empty:
+                idle += poll
+                if idle >= ping_seconds:
+                    idle = 0.0
+                    yield ": ping\n\n"
+                continue
+            idle = 0.0
+            if event == "cancelled":
+                return
+            yield _sse(event, data)
+            if event in ("done", "error"):
+                return
+    finally:
+        cancel.set()
+
+
+def start_worker(question: str, kwargs: dict, events: queue.Queue, cancel: threading.Event):
+    """Answer in a thread, so the event loop stays free to stream; events go into `events`."""
+    def emit(event, data):
+        if not cancel.is_set():
+            events.put((event, data))
+
+    def work():
+        try:
+            events.put(("done", respond.answer(question, emit=emit, cancel=cancel, **kwargs)))
+        except agent_loop.Cancelled:
+            events.put(("cancelled", None))
+        except Exception as e:  # never show a stack trace or a key-like message
+            print(f"/ask/stream failed: {type(e).__name__}")
+            events.put(("error", {"message": "Something went wrong while answering. Please try again."}))
+
+    thread = threading.Thread(target=work, daemon=True)
+    thread.start()
+    return thread
+
+
+@app.post("/ask/stream")
+async def ask_stream(q: Question, request: Request):
+    """Like /ask, but as Server-Sent Events: "step" lines as the agent works,
+    "token" pieces of the answer as it is written, "replace" when the verifier
+    made it revise, and "done" with exactly what /ask would have returned."""
+    question, kwargs = _accepted(q, request)
+    events, cancel = queue.Queue(), threading.Event()
+    start_worker(question, kwargs, events, cancel)
+    return StreamingResponse(event_stream(events, cancel, request.is_disconnected),
+                             media_type="text/event-stream",
+                             headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
 
 
 @app.post("/feedback")

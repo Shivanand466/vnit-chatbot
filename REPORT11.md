@@ -23,3 +23,160 @@
 
 **Done when:** worktree on `agent-v2` with the frozen index, `vnit-chatbot/` unchanged, dev model recorded, baseline equals REPORT10. **Met.**
 
+## Step 1. Conversation memory
+
+- `pipeline/memory.py` (new): keeps the last **6** turns `{q, a}`, each answer cut to **600** characters without its `[1]` numbers, "Who can help" footer or "could not confirm" note, and the whole block within **~1,500 tokens** (oldest dropped first). Nothing is stored.
+- `/ask` (and `/ask/stream`) accept `turns: [{"q", "a"}]` besides the old `history`, which still works (v1, `check_answers.py`).
+- `followup.resolve(..., turns=...)`: the code fast path is unchanged; the LLM rewrite is shown the questions **and answers**, so "how do I pay it?" after a B.Tech fee answer is rewritten with the programme. Item references ("the second one", "which one is cheaper", "the latter") count as follow-ups only when answers are remembered (v2), so v1's behaviour is unchanged.
+- The agent's first message carries a "Conversation so far" block, labelled as context: "any VNIT figure, date or contact you repeat from it must be found again in a passage and cited". It is never given to the verifier.
+- **Tests (fake LLM):** 6 turns kept / 7 trimmed to 6; the token cap drops the oldest; answers trimmed and footers dropped; "how do I pay it?" rewritten with "B.Tech" (and the no-key fallback keeps it too); item references are follow-ups only with answers; a figure found only in an earlier answer is **unsupported**; `AGENT_V2=off` ignores the answers and its prompt equals v1's exactly.
+- **Done when:** tests pass; no-key checks equal the baseline (table at the end of Step 6). **Met.**
+
+## Step 2. The agent loop v2
+
+- `pipeline/agent_loop.py` (new) imports planner.py's client and pacer, `Evidence`, `_final_prompt`, citations and the verifier step; it does not copy them. Only the loop differs:
+  - **plan:** the first reply may list 1-4 parts, shown as a `plan` step. A part is marked done by the model ("Done: 1, 3") or by code: a new passage covers most of the part's rarer words and holds the kind of fact it asks for (an amount, a date, a count, a contact).
+  - **act:** up to `AGENT_V2_MAX_STEPS` (6) rounds, up to 3 calls per round run **in parallel** (a thread pool; `Evidence.add` got a lock).
+  - **stop:** the model answers; every plan part is done; the next round would pass `AGENT_V2_BUDGET` (14,000); or two rounds in a row found nothing new.
+  - **reflection, in code:** after each round, one line such as "That round found 2 new passage(s) but none gives a date. Try the document that should state it…", plus "Steps left: 4; about 8,200 tokens left".
+  - **context control:** past `PROMPT_BUDGET`, the conversation is rebuilt as one message with the cited passages, then the newest, then the first search, and the titles set aside (to reopen with `read_document`).
+  - a repeated identical tool call is not run again (seen live: the dev model asked `read_document` the same thing twice).
+  - answer, verify, revise once, hand-off: as in v1. Fallbacks (one-shot, then extractive) unchanged.
+- `planner._LLM.chat` got two optional arguments (`schemas`, `extra`); left out, the request is exactly v1's.
+- **Tests (fake LLM):** a 4-round run with 3 calls at once (measured: 3 running together); stop on budget; stop when stuck, with the reflection line; plan parts tracked and the stop when all are done; the model marking parts itself; verify and revise; compaction; a repeated call skipped; `AGENT_V2=off` calls `planner.run`, on calls `agent_loop.run`.
+- **Live, dev model** (`qwen/qwen3.8-27b`), three multi-part questions:
+
+| Question | Result | Tokens | Rounds | Tool calls | Seconds |
+|---|---|---|---|---|---|
+| B.Tech and B.Arch OPEN tuition, and first-year B.Tech girls' hostel fee | **right** (₹1,25,000 both; ₹32,650); a plan of 3 parts, all found, then it stopped | 10,921 | 1 | 2 (parallel) | 157 |
+| Students placed in 2025-26, and highest B.Tech package 2024-25 | **half right**: ₹64 LPA right; said the 2025-26 count is "not yet available" (the T&P page says 678) | 15,144 | 2 | 2 | 104 |
+| M.Tech mess deposit, and when first-years join the mess | **right** (₹48,000; from the day of physical reporting) | 14,423 | 2 | 3 | 103 |
+
+  Most of the seconds are the rate pacer waiting for the 8,000-tokens-a-minute allowance: each round is ~5,000 tokens with v2's longer tool list.
+- **Done when:** tests pass; retrieval unchanged; 3 live multi-part traces recorded. **Met** (one of the three half wrong, recorded).
+
+## Step 3. New tools
+
+- In `tools.py`, offered only to v2 (`active_schemas(v2=True)`; v1's list is unchanged). Each result is registered through `Evidence` as a `[P#]` passage:
+  - `latest_notices(category, n)`: converted, kept documents (status "ok" and text in `data/raw`) from `inventory.json` + `status.json`, newest first, by category (fees, academics, hostel, scholarship, placement, admission, recruitment);
+  - `fetch_vnit_page(url)`: **only** `vnit.ac.in` and its sub-sites (the host is compared whole, so `vnit.ac.in.evil.com` is refused); robots.txt, the crawler's user agent, 1 request a second, 10 s timeout, 2,500 characters, a 24-hour cache in `data/cache/pages/` (git-ignored), and the crawled copy when the site can't be reached. `LIVE_PAGES=off` removes it;
+  - `today()`: today's date in IST, as a passage, so the verifier can check a date taken from it;
+  - `contact_office(topic)`: the office from `data/contacts.json` for a topic.
+- One line per tool in the prompt; every description is under 25 words.
+- **Tests (no internet):** order and category of `latest_notices` on the real inventory; five bad URLs refused (another host, look-alike hosts, `ftp:`, `javascript:`); the saved page `pipeline/fixtures/vnit_section_hostel.html` parsed, and the second open served from the cache; the crawled-copy fallback; `today()` verified as a passage; `contact_office("hostel room refund")` gives the Hostel Section; v2's tools never offered to v1.
+- **Live, dev model:**
+  - "any new fee notice?" called **`latest_notices`** and answered with the S-27 fee notice of 6 Nov 2026 and its 1 Nov – 23 Dec window, plus the two Summer 2027 notices of the same day (9,395 tokens, 145 s).
+  - "is the Summer 2027 fee payment deadline over?" did **not** call `today` (today's date is already in its prompt) and found no date in the Summer 2027 instructions. It said so, but opened with "not over", which doesn't follow. It also repeated a lookup, which led to the repeated-call check above (13,329 tokens, 92 s).
+  - Unasked, the Marathi Director question in Step 5 opened the **live** Director page with `fetch_vnit_page`.
+- **Done when:** tests pass; no-key checks equal the baseline; the two live questions run. **Met**, with the `today` gap recorded.
+
+## Step 4. More kinds of task
+
+- `router.task()`: `lookup`, `compare`, `summarise`, `explain`, `draft`, `general` or `chat`, by code rules in that order. A "Task: compare." trace line, and one instruction line per task for the agent (`router.TASK_LINES`).
+- **general:** only a short concept question ("what is CGPA?") with nothing VNIT-specific or time-sensitive in it (no fees, ranks, cut-offs, dates, salaries, passwords, people or years). One LLM call, no search. The label "*General answer, not from VNIT's documents.*" is added by code, and the verifier runs with no passages, so any figure is flagged in a note. With no key, it is looked up instead.
+- **draft:** the label "Draft — check before sending." is added by code if the model leaves it out; the office's email comes from `contact_office` and is verified like any figure.
+- **chat:** "what can you do?" lists the new abilities (v2 only; v1's text is unchanged).
+- **Tests:** 25 phrasings mapped to task types; the 10 must-decline cases, and 4 more phrased to tempt `general`, are never `general` and always route to a lookup; a fake-LLM draft carries `AR_HOSTEL@vnit.ac.in` from `contact_office`, verified, with the administrative-officers page as its source; a fake-LLM compare answer keeps its markdown table with numbered citations; a general answer is labelled and has no sources, and a VNIT figure in one is flagged.
+- **Live, dev model, one of each** (trimmed):
+  - **compare** "B.Tech vs B.Arch OPEN tuition": a table, B.Tech ₹1,25,000 [1], B.Arch ₹1,25,000 [2], verified (6,312 tokens). A note saying a sheet "does not restate the category" set off the "Who can help" line needlessly.
+  - **summarise** "the S-27 fee notice": 5 bullets (dated 6 Nov 2026; 1 Nov – 23 Dec 2026 window; registration only after fee validation; the AIMS path; DASA fees in USD), verified after one revision. 20,606 tokens, over the 14,000 budget: the budget stops tool rounds, but the final answer and the revision come after it.
+  - **explain** "how do I apply for fee remission?": 3 numbered steps (the documents, including the income certificate and the ₹100 affidavit; the Google form; handing in the originals to the Deputy Registrar, Academic) and the extended date 14/10/2026. 4 tool calls, 3 of them in one round; 13,622 tokens.
+  - **draft** "email to the hostel office … extension": "Draft — check before sending.", To: Assistant Registrar (Hostel Section), `AR_HOSTEL@vnit.ac.in` [1], the 15 August 2026 deadline and the ₹5,000-a-month fine from the outstanding-fees notice [2], placeholders [Your Name], [Roll Number]; verified.
+  - **general** "what is CGPA?": labelled, 203 tokens, 0.3 s, no figures.
+  - **chat** "what can you do?": the new list, no LLM call.
+  - **lookup** "Who is the Registrar?": CMA Shri S. S. Jagdale; 4,169 tokens, 7 s.
+- **Done when:** tests pass; no-key checks equal the baseline; one live answer of each type recorded. **Met.**
+
+## Step 5. Hindi, Marathi and Hinglish
+
+- `pipeline/language.py` (new): Devanagari is Hindi or Marathi, told apart by very common words of each (है/क्या/कितनी vs आहे/काय/किती); Latin-script Hindi by words like kitni, kya, hai, kab, kaise, hoga.
+- The first search runs on English keywords made in code. Hinglish keeps its English words; Hindi and Marathi keep anything in Latin letters or digits and translate a small glossary (फीस/शुल्क → fee, छात्रावास/वसतिगृह → hostel, लड़कियों/मुलींच्या → girls, बी.टेक → B.Tech, …). The trace says so, and `understood_as` shows the English search.
+- The agent is told the language: search in English; answer in the student's language, with numbers, amounts, dates, emails and titles exactly as in the passages, in digits 0-9. Devanagari digits in an answer are turned into 0-9 in code before verifying.
+- Greetings and thanks in Hindi, Marathi and Hinglish get fixed replies in that language (no LLM); a general answer is written in the language too.
+- **Tests:** 12 phrasings (3 each of Hindi, Marathi, Hinglish and English) detected right; the Hinglish hostel question's first search is "hostel fees", a Hindi one's "B.Tech girls how much hostel fee"; a Hindi answer with "Rs. 32,650" and one with "३२६५०" both verify; नमस्ते and धन्यवाद are answered directly.
+- **Live, dev model:**
+  - Hindi "बी.टेक लड़कियों की पहले वर्ष की हॉस्टल फीस कितनी है? विंटर 2026": "B.Tech. girls के लिए 2026-27 में पहली साल का Hostel Fee **Rs. 32650/-** (Winter 2026 session) है।", plus the Summer 2027 fee and the mess deposit. **Right**, verified (15,419 tokens).
+  - Marathi "VNIT चे संचालक कोण आहेत?": "VNIT Nagpur चे सध्याचे (2026) **Director Prof. (Dr.) Prem Lal Patel** आहेत.", after opening the live Director page. **Right** (8,524 tokens).
+  - Hinglish "btech ki yearly tuition fee kitni hai open category ke liye?": "B.Tech ka **yearly tuition fee OPEN/OBC/EWS category ke liye Rs. 1,25,000** hai", through `lookup_table`. **Right** (11,131 tokens). The first try hit the per-minute limit and fell back; it was asked again a few minutes later.
+- **Done when:** tests pass; one Hindi, one Marathi and one Hinglish question answered right. **Met.**
+
+## Step 6. Streaming API
+
+- `POST /ask/stream` (same body, same 500-character limit and rate limits) returns Server-Sent Events: `step` (each trace line as it happens), `token` (pieces of the answer as Groq streams it, with `[P3]` turned into `[1]` on the fly), `replace` (the revised answer after the verifier), `done` (exactly what `/ask` returns) and `error` (a plain message).
+- The answer runs in a worker thread and passes events through a queue. A `: ping` comment goes out after 10 s of silence (the rate pacer can wait that long).
+- **Stop:** when the page disconnects, the stream sets a cancel flag; the agent stops at its next step or token and closes the stream from Groq.
+- `/ask` is unchanged. Streaming falls back to an ordinary call if the stream fails, so it changes how an answer arrives, never whether it does.
+- **Suggested follow-ups,** in code: 2-3 per topic, all taken from cases the saved results show are answered right, with `{programme}` filled from the question. A repeat of the question is skipped; a draft or a procedure also gets "Which office should I contact about this, and how?".
+- **Tests:** with a fake streaming LLM, step… → token… → done in order; the streamed text is the final answer with numbered citations, and **the `done` JSON equals what `/ask` returns for the same fake run**; the limits apply to `/ask/stream`; a disconnect sets the cancel flag and a cancelled run stops; Stop after the first word closes the LLM stream (only "one " arrives); the ping comment appears while waiting; a hostel fee answer gets fee-related suggestions.
+- **Manual run** on port 8020 in fake-LLM mode (`AGENT_FAKE_LLM=on`; `pipeline/fake_llm.py` is a pretend model that answers from the passages, for screenshots without quota), with `curl -N`: `route`, `route` at 0.0 s; `: ping` at 10.2 s while the first search ran; `grade`, `search`, `plan` at 10.2-10.4 s; `tool`, `reflect` at 20.3 s; then 80 `token` events, `answer`, `verify` and `done`.
+- **Done when:** tests pass; events seen arriving with `curl -N`. **Met.**
+
+### No-key checks after Steps 1-6
+
+| Check | Baseline | After Steps 1-6 |
+|---|---|---|
+| `test_agentic.py --v1-only` with `AGENT_V2=off` (v1's tests, v1's behaviour) | 73/73 | **73/73** |
+| `evidence_check.py` (v2 on) | 80/82 + 11/11 | **80/82 + 11/11** |
+| `chunk_ranks.py` | 78/82 | **78/82** |
+| `test_agentic.py` (v1 + v2 tests together) | 73/73 | final count in Step 9 |
+
+`fact_ranks.py` and `evaluate.py` call only the search (`query.py`), which v2 doesn't change; they are re-run in Step 9.
+
+## Step 7. The chat page, like Claude or ChatGPT
+
+`frontend/index.html` rewritten (plain JS, no framework, no CDN):
+
+- **Streaming:** reads `/ask/stream` with `fetch` and a stream reader. The steps appear as small grey lines with a spinner on the newest ("Searching VNIT's documents…", "Opening: Fee notice S-27…"), then the answer grows word by word behind a blinking cursor. On `done`, the steps fold into "How I found this", and the sources, badge and suggestions appear. On `replace`, the revised answer is swapped in with "Corrected after checking against the documents."
+- **Controls:** under each answer Copy, Regenerate (the latest answer is replaced in place; an older one is asked again at the bottom) and 👍/👎; **Edit** on the newest question (puts it back in the box and removes that exchange); while an answer is being written, the send button becomes **Stop** (`AbortController`), and the server stops the work.
+- **Suggested follow-ups** as chips under the newest answer.
+- **New chat** (forgets the turns and the profile) and an empty screen with 4 example questions and the line "Answers come only from VNIT's own documents, with sources, and every figure is checked."
+- **Markdown:** headings, bold, italics, lists, numbered steps, http(s) links and **tables**, all escaped first.
+- **Layout:** a centred 760 px column, the box fixed at the bottom and growing (Enter sends, Shift+Enter adds a line), the student's messages right-aligned in bubbles, the assistant's left-aligned without a bubble, dark mode from the system. Works at 360 px (the developer-only "server" box is hidden on phones).
+- The turns and profile live in memory only. "Keep this chat if I reload" (off by default) uses `sessionStorage`, wrapped in try/catch.
+- If `/ask/stream` is missing (an older server) or fails before answering, the page uses `/ask`.
+- `/?q=<question>` asks a question when the page opens (used for the screenshots; the website could link to answers this way).
+
+**Screenshots** (`checks/`, fake-LLM server on 8020, so no quota; the answers' wording is the pretend model's, labelled "agent v2 (fake-llm)"). Each was opened and looked at:
+
+| Screenshot | What it shows |
+|---|---|
+| `empty_desktop.png` (dark), `empty_phone.png` (360 px) | the empty screen with 4 example cards (left-aligned after a fix), the one-line promise, New chat, the round send button |
+| `answer_live.png` (light) before the answer finished | live steps with ✓ and the spinner, the blinking cursor, the Stop button |
+| `answer_desktop.png` (light), `answer_phone.png` | a finished answer: numbered sources, "How I found this (9 steps, 1 lookup)", Copy, Regenerate, 👍/👎, the mode, "✓ 8 figures checked", three fee/mess suggestion chips, Edit under the question |
+| `compare_desktop.png` (light), `compare_phone.png` (dark, 360 px) | a compare answer as a bordered table with header row and citation numbers; on the phone the table fits without sideways scrolling |
+| `draft_desktop.png` (dark) | a draft starting "Draft — check before sending.", placeholders [Your name] [Roll number], and "Which office should I contact about this, and how?" first among the suggestions |
+| `stop_desktop.png` | Stop pressed during the steps: "*Stopped.*", no rating buttons (removed for stopped answers after looking) |
+| `escape_desktop.png` | the question `<img src=x onerror=alert(1)> hostel fee?` shown as plain text in the bubble; no image, no script |
+
+**Nothing from the old page is lost:**
+
+| Old feature | v2 page |
+|---|---|
+| `escapeHtml` before any Markdown; source links only for http(s) | kept (links in answers only for http(s) too) |
+| sources as numbered chips | kept |
+| "How I found this" with step kinds | kept, with the new kinds (planned, noticed, tidied, stopped) |
+| verification badge (✓ figures checked / ⚠ not confirmed) | kept |
+| "Understood as" line | kept |
+| clarify buttons that remember the choice in the profile | kept |
+| "Clear my details" | kept |
+| 👍/👎 to `/feedback` | kept |
+| starter questions | now the 4 example cards |
+| server address box | kept (hidden on phones) |
+| Enter sends, Shift+Enter new line, growing box | kept |
+| dark mode | kept |
+| no storage | kept (the reload option is off by default and per-tab) |
+
+**Done when:** every feature works in the screenshots, nothing lost (checklist above), escaping intact. **Met.**
+
+## Step 8. The website widget gets the same
+
+- `vnit-website` on a new branch **`agent-v2`** (`master` still at `fc7c5f8`, unchanged). In `assets/js/vnit-assistant.js` and its CSS:
+  - prefers `/ask/stream` and falls back to `/ask` (so it still works with v1's server);
+  - live steps with a spinner, the answer written as it streams, Stop (the Ask button becomes Stop), Copy, Regenerate, suggested follow-ups as chips under the newest answer, tables and http(s) links in answers, "Corrected after checking…" on `replace`;
+  - the turns `{q, a}` sent as `turns`, in memory only; the floating-panel design and the page-based suggested questions kept.
+- Rebuilt with `build_site.py`: 1,562 pages. Checks: `check_links` **0 broken internal links**; `check_pages` **1,562 pages, 0 problems**; `check_faithful` **200,125 pieces of text, 0 not found in the crawl**.
+- v2 serves the site the same way: `api/main.py`'s `SITE` is relative to the file, so from `vnit-chatbot-v2/api/` it is `VNIT-Website-Chatbot/vnit-website/dist`; `/site/` worked on 8020.
+- **Screenshots** on 8020: `widget_live.png` (the widget's live steps and its Stop button) and `widget_desktop.png` (a compare table inside the floating panel, with Copy, Regenerate, ratings and three suggestion chips).
+- Committed on `vnit-website`'s `agent-v2`: `0ced9ea`.
+- **Done when:** the widget works against v2 on 8020, the site checks pass, `master` unchanged. **Met.**
+

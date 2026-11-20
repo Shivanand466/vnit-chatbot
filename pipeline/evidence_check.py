@@ -24,6 +24,7 @@ import re
 import sys
 
 import generate
+import agent_loop
 import planner
 import respond
 from check_answers import CHECKS, CLARIFY_CHECKS, CONVERSATIONS, NOT_FOUND
@@ -54,12 +55,13 @@ def evidence_for(question: str, history=None, profile=None):
         return {"answer": "", "sources": [], "mode": "agent (evidence check)", "trace": [],
                 "verification": None, "usage": None}
 
-    real = planner.run
-    planner.run = stand_in
+    # Agent v2 (agent_loop.run) is handed the same passages; both are stood in for.
+    real, real_v2 = planner.run, agent_loop.run
+    planner.run = agent_loop.run = stand_in
     try:
         respond.answer(question, history=history, profile=profile, use_agent=True)
     finally:
-        planner.run = real
+        planner.run, agent_loop.run = real, real_v2
     return (seen["first"], seen["extra"]) if seen else None
 
 
