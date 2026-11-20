@@ -183,3 +183,27 @@ There are 16 cases, asked one at a time through the agent. That is 15 answers pl
 - No daily-limit message appeared; nothing is waiting.
 
 **Done when:** all asked; before/after table in EXPERIMENTS-LOG §36. **Met.**
+
+## Step 6. Freeze the index and start the ablations
+
+Steps 3–5 ended with a kept, working index and no regression, so this step ran.
+
+- **Frozen.**
+  - Tag `final-index-2026-11-20` (at commit `3cfea23`).
+  - Copy in `~/vnit-chatbot-backups/final-index-2026-11-20/`, sizes equal to the originals: `index.pkl` 32,383,236 B, `chunks.jsonl` 8,626,639 B, `facts.db` 10,977,280 B.
+  - EXPERIMENTS-LOG §26 now says every ablation row from here on uses this index, and why the older rows are set aside.
+- **Old results set aside** in `data/processed/results-before-2026-11-20/`:
+  - moved: `answer_check_oneshot.json`, `_no_tools`, `_agent_30oct`, `_crag`, and the old `ablation_runs.log`, as `ablation_runs_before_2026-11-20.log`;
+  - copied: `answer_check.json` (the 105/105 record, tonight's Step 5 answers included).
+- **What was checked in `run_ablations.sh` and `check_answers.py`:**
+  - Every agent configuration writes `answer_check_<config>.json` (`results_path`). The final full run uses `--config full`, so it writes `answer_check_full.json` and never reads `answer_check.json`. The headline number will be a fresh run of all 105 on the frozen index, with no change needed.
+  - The one-shot track writes `answer_check_oneshot.json`. That file was moved aside, so it starts afresh too.
+- **Started** in its own window ("VNIT ablations") with `cmd //c start "VNIT ablations" "C:\Program Files\Git\bin\bash.exe" -lc "cd …/pipeline && bash run_ablations.sh"`. Git Bash is at `C:\Program Files\Git\bin\bash.exe`. The log shows:
+  ```
+  [20 Nov 18:28] started
+  [20 Nov 18:28] one-shot: attempt 1
+  [20 Nov 18:28] agent, no tools: attempt 1
+  ```
+- From here, the index, `data/raw` and the retrieval code stay as they are. Step 7 only edits docs.
+
+**Done when:** tag and frozen copy exist; old results set aside; runner confirmed started. **Met.**

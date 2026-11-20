@@ -1,0 +1,3711 @@
+[
+ {
+  "name": "civil_intake",
+  "question": "How many undergraduate students does Civil Engineering enroll annually?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**120 undergraduate students are enrolled each year in the B.Tech Civil Engineering program.**\n\n- The department’s intake is “120 students per year under UG Course”[1].\n- The same figure appears in the 2025‑26 Civil Engineering brochure[2].",
+  "sources": [
+   "https://vnit.ac.in/engineering/civil/",
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Civil-Engg-_Brochure_2025-26.pdf"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2644,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "5g_announced",
+  "question": "Tell me about the 5G lab and when was it announced",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The 5G Lab at VNIT is a state‑of‑the‑art facility for research, education and innovation in 5G communication, IoT, edge computing and related networking systems, and it was announced on **27 October 2023** during a virtual ceremony hosted by Prime Minister Narendra Modi at the Indian Mobile Congress (IMC‑23)**[1].\n\n- Selected by the Department of Telecommunications as one of the “100 5G labs” initiative[1].\n- Equipped with a 5G Core, 5G Radio, IMS solution and MEC/Application Server for real‑time testing and cloud integration[1].\n- Provides hands‑on internships, project support for students and training programmes for faculty and industry professionals[1].",
+  "sources": [
+   "https://vnit.ac.in/5g-lab-vnit-nagpur"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3036,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 4
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Split the question into 2 parts and searched for each and for the whole question: 7 passages from 3 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "placements",
+  "question": "How many students got placed in 2025-26 and how many companies came?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**≈ 678 students were placed in 2025‑26 and ≈ 170 companies participated.**\n\n- The Training & Placement Department reports that “more than 678 students from undergraduate and postgraduate programmes secured employment … and offers were extended by over 170 reputed organizations” for the 2025‑26 placement season[1].\n\nNote: The figures are given as “more than” and “over,” so the exact counts may be slightly higher.",
+  "sources": [
+   "https://vnit.ac.in/section/tnp/"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4124,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 12,
+   "passages_cited": 1
+  },
+  "seconds": 58.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Split the question into 2 parts and searched for each and for the whole question: 10 passages from 7 sources.",
+   "The first search looked weak (best match scored -1.2, below 0), so I also looked inside “VNIT Nagpur – Training & Placement Department”. I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "chemical_spec",
+  "question": "What two specializations does Chemical Engineering offer?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Chemical Engineering** and **Chemical Technology**[1].",
+  "sources": [
+   "https://vnit.ac.in/engineering/chemical/"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2999,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "electrical_mtech",
+  "question": "What specializations does the Electrical Engineering M.Tech offer?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The Electrical Engineering M.Tech offers the following specializations: **Power Electronics, Control Systems, Power Systems, Power Electronics & Drives, Electrical Machines, Instrumentation, Condition Monitoring, Biomedical Instrumentation, Power and Energy Systems, Integrated Power System, and Control & Automation**.\n\n- Power Electronics, Control Systems, Power Systems, Power Electronics & Drives, Electrical Machines, Instrumentation, Condition Monitoring, Biomedical Instrumentation – listed as allied specializations for the M.Tech in Electrical Engineering[1].\n- Power and Energy Systems (PES), Power Electronics and Drives (PED), Control and Automation (also referred to as Integrated Power System) – shown as the department’s M.Tech specializations[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1PQ4lpLnGvbRnaNrpx-E0YocSxv4hfuUU/view",
+   "https://vnit.ac.in/engineering/electrical/"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3156,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 6 passages from 5 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "director",
+  "question": "Who is the current Director of VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Prof. P. L. Patel (Prof. Prem Lal Patel) is the current Director of VNIT.**\n\n- The institute’s June 2026 alumni‑event report lists “Director Prof. P. L. Patel” among the leadership present[1].\n- A 2024 news‑letter notes that Prof. Prem Lal Patel took over as Director on 21 May 2024[2].\n\nNote: The title “Prof. P. L. Patel” refers to Prof. Prem Lal Patel, who has been serving as Director since May 2024.",
+  "sources": [
+   "https://drive.google.com/file/d/1FiXQu6BD4ZcfBqxuC-nxRWid6YkKOYZO/view",
+   "https://vnit.ac.in/basic_science/chemistry/wp-content/uploads/2024/08/News-Letter-Issue-17.pdf"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3086,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 50.9,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: people.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked relevant (score 7.1).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "dean_academic_email",
+  "question": "What is the email of the Dean (Academic)?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**deanacd@vnit.ac.in**[1]",
+  "sources": [
+   "https://vnit.ac.in/deans-2026"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2840,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mech_established",
+  "question": "When was the Mechanical Engineering department established?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The Department of Mechanical Engineering was established in 1960.**\n\n- The UG Course Book states the department “started in 1960”[1].\n- The department’s web page notes it is “the oldest department started from the inception of the institute (1960)”[2].\n- The 2025‑26 Mechanical Engineering brochure also confirms it “is the oldest department started … (1960)”[3].",
+  "sources": [
+   "https://vnit.ac.in/engineering/mech/wp-content/uploads/2026/08/B.-Tech.-Mechanical-Engg.-Course-Book_updated-14-aug-2026.pdf",
+   "https://vnit.ac.in/engineering/mech/",
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Mechanical-Engg_Brochure_2025-26.pdf"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2765,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 3
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "registrar",
+  "question": "Who is the Registrar of VNIT Nagpur?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**CMA Shri S. S. Jagdale** is the Registrar of VNIT Nagpur[1].\n\n- The official Registrar page lists him as “CMA S. S. Jagdale,” noting his appointment as Joint Registrar effective 4 Oct 2021[1].\n- Board of Governors and Senate documents also refer to him as “Shri Sachin S. Jagdale, Registrar”[2][3].",
+  "sources": [
+   "https://vnit.ac.in/registrar",
+   "https://vnit.ac.in/bog-2026",
+   "https://drive.google.com/file/d/1ki-CGVc5eUAGj7sORvekAj0HLMJjt-E1/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2950,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 3
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 7 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "btech_fee_open",
+  "question": "What is the yearly tuition fee for B.Tech students in the OPEN category?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹125,000 per year** for B.Tech students in the OPEN category.\n\n- Tuition fee listed as ₹125,000 for each of the four years for OPEN/OBC/EWS category B.Tech students[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1YwaPEqSM2OtnfmSd_N5W3ESgaIB_3Flv/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4198,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
+  },
+  "seconds": 49.1,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 7.2). I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "btech_fee_scst",
+  "question": "What tuition fee do SC/ST B.Tech students pay?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**SC/ST B.Tech students pay **₹ 0** tuition fee.**\n\n- The 4‑Year Fee Estimate for B.Tech lists “Tuition Fee — First Year: 0; Second Year: 0; Third Year: 0; Fourth Year: 0” for SC/ST/PwD candidates[1].\n- The Common Fees 2026‑27 sheet shows “B. Tech.SC, ST, PWD: NIL” for tuition fees[2].\n- The JoSAA admission fee notice states “No Tuition Fees is charged from SC/ ST/ PwD candidates”[3].",
+  "sources": [
+   "https://drive.google.com/file/d/1YwaPEqSM2OtnfmSd_N5W3ESgaIB_3Flv/view",
+   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view",
+   "https://drive.google.com/file/d/1FiFXbv4qJw2wTCWdsb6xlgiGUZX9v-5l/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3750,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 3
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 7.8).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "kotak_scholarship",
+  "question": "How much money does the Kotak Kanya Scholarship give per year?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The Kotak Kanya Scholarship provides **₹1.5 lakh per year**.\n\n- The 2025‑26 scholarship notice states “Scholarship of INR 1.5 lakh * per year”[1].\n- The 2026‑27 scholarship announcement also mentions “Get 1.5 Lakhs Per Year till course completion”[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1vmJZBMPEFm5wajEeMZoavZwD7xADMgAD/view",
+   "https://drive.google.com/file/d/14P3YHNVd8W66KLKxA16GR2PbsM-cou5M/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2899,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "idfc_deadline",
+  "question": "What is the last date to apply for the IDFC FIRST Bank Engineering Scholarship?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**20 September 2026** is the last date to apply for the IDFC FIRST Bank Engineering Scholarship[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1HvVnf3qj2isBR5G1IABsZGc_vpKadQVY/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2930,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 6 passages from 5 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_first_year",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹32,150** for first‑year B.Tech boys for the Winter 2026 session.\n\n- The hostel fee estimate for first‑year boys admitted in 2026‑27 lists the Winter 2026 fee as Rs. 32150/‑[1].\n- The UG hostel admission procedure confirms the total amount for boys is Rs. 32150/‑ for Winter 2026[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3761,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 51.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked relevant (score 7.5).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "classes_start_fy",
+  "question": "When do classes start for first year B.Tech students in Winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Classes for first‑year B.Tech (and B.Arch) students in the Winter 2026 session begin on **19 August 2026**.\n\n- The Academic Calendar (Winter 2026) lists “Commencement of Classes: 19 th Aug 2026” for First Year UG courses[1].\n\nNote: This date applies to all first‑year B.Tech (and B.Arch) students for the Winter 2026 semester.",
+  "sources": [
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3551,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 49.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 8.1).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "endsem_fy",
+  "question": "When are the end semester exams for first year B.Tech in Winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**End semester exams for First‑Year B.Tech (Winter 2026) run from 7 December 2026 to 15 December 2026.**\n\n- Academic Calendar (Winter 2026) lists the “End semester examination: 7 Dec to 15 Dec 2026” for First‑Year UG (B.Tech/B.Arch)[1].\n- The detailed exam‑slot notice gives individual end‑semester dates of 07 Dec, 10 Dec, 11 Dec and 12 Dec 2026 for various courses[2].\n\nNote: The overall exam period is 7‑15 Dec 2026; exact dates vary by course/slot.",
+  "sources": [
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view",
+   "https://drive.google.com/file/d/1SdoXCmn7I6vc-BsjlGVjgTAI6R5rK1n7/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 13,
+   "supported": 13,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3980,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 4
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 13 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "unanswerable_1995",
+  "question": "Who won the VNIT cricket match against IIT Bombay in 1995?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I’m sorry, but none of the provided VNIT documents contain information about a 1995 cricket match between VNIT and IIT Bombay. You might try searching the VNIT archives or the “Sports” section of vnit.ac.in for historical match records.",
+  "sources": [
+   "https://vnit.ac.in/engineering/mech/",
+   "https://drive.google.com/file/d/1Ex6kyBDdkMwTGpuDmuNcpEjjiVCdioGZ/view",
+   "https://drive.google.com/file/d/1ewG3zgeNRw16Ca84MB-6lJ6qhfQq7ta9/view",
+   "https://vnit.ac.in",
+   "https://drive.google.com/file/d/1cpcKwVBBf5rzSoDlSS8hSk0umfxB3a_W/view",
+   "https://vnit.ac.in/section/sports"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 8260,
+   "waited_for_quota_s": 17.4,
+   "tool_calls": 2,
+   "passages_seen": 8,
+   "passages_cited": 0
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "Looked up documents titled like “cricket IIT Bombay 1995 VNIT”: VNIT Nagpur – Sports Section; VNIT Nagpur – uba; Director, VNIT, Nagpur",
+   "Looked inside “VNIT Nagpur – Sports Section” for “1995 cricket IIT Bombay”",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "unanswerable_wifi",
+  "question": "What is the hostel wifi password?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The provided documents do not contain the hostel Wi‑Fi password.\n\n* The hostel‑section overview lists amenities (telephone, TV, gyms, messes, etc.) but gives no Wi‑Fi details[1].\n\n**Note:** To obtain the current Wi‑Fi password, check the hostel notice board or contact the Assistant Registrar (Hostel) at AR_HOSTEL@vnit.ac.in or (0712) 2801373/2801117.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "sources": [
+   "https://vnit.ac.in/section/hostel/",
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 10226,
+   "waited_for_quota_s": 19.4,
+   "tool_calls": 2,
+   "passages_seen": 10,
+   "passages_cited": 1
+  },
+  "seconds": 86.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (best match scored -6.1, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “hostel wifi password VNIT”: Hostel Information for UG 1st Year Students; Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27; HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026-27",
+   "Searched for “wifi password hostel VNIT”: Hostel Information for UG 1st Year Students; VNIT Nagpur – Hostel Section; HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026-27",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 4 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "hostel_fee_girls",
+  "question": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 32,650** for first‑year B.Tech/B.Arch girls for the Winter 2026 session[1].\n\n- This amount is the total hostel fee payable at the time of admission for girls in the 2026‑27 intake[1].\n\nNote: The fee applies specifically to first‑year B.Tech/B.Arch female students for the Winter 2026 session.",
+  "sources": [
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4524,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 8,
+   "passages_cited": 1
+  },
+  "seconds": 48.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “girls”, “session”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “HOSTEL FEES FOR SECOND YEAR GIRLS ADMITTED IN YEAR 2025-26”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "cse_established",
+  "question": "When was the Computer Science and Engineering department established?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The Department of Computer Science and Engineering was established in **1987**.\n\n- The 2025‑26 CSE brochure states “The Department of Computer Science and Engineering, established in 1987…”[1].\n- The same information appears on the VNIT CSE web page: “The Department of Computer Science and Engineering, established in 1987…”[2].",
+  "sources": [
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Computer-Science-Engg_Brochure_2025-26.pdf",
+   "https://vnit.ac.in/engineering/cse/"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3105,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Split the question into 2 parts and searched for each and for the whole question: 7 passages from 5 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "reexam_dates",
+  "question": "When is the re-examination held in Winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Re‑examination is held from 28 December 2026 to 31 December 2026.**\n\n- Academic Calendar (Winter 2026) for First Year UG (B.Tech/B.Arch) lists “Re‑examination: 28 th to 31 st Dec 2026”[1].\n\nNote: This date applies to the first‑year undergraduate programmes for the Winter 2026 term.",
+  "sources": [
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 9,
+   "supported": 9,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3467,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 9 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "convocation",
+  "question": "When is the convocation in 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The 24th Convocation will be held on **15 September 2026**.\n\n- The official news announcement states the convocation is scheduled for 15 September 2026[1].\n- The instructions for degree recipients also list the ceremony date as 15 September 2026 (Tuesday)[2].",
+  "sources": [
+   "https://vnit.ac.in/%f0%9f%8e%93-vnit-nagpur-24th-convocation-2026",
+   "https://vnit.ac.in/instructions-to-degree-recipients-for-attending-24th-convocation-2026"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2905,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 3
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "adddrop_deadline",
+  "question": "What is the last date for processing Add and Drop requests by the faculty adviser in Winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The last date for processing Add‑and‑Drop requests by the Faculty Adviser for Winter 2026 is **17 August 2026, 5:00 PM**.\n\n- The Add & Drop Notice for Winter 2026 states “Last Date for processing of Add/Drop requests by FA – 17/08/2026, 05:00 PM”[1].\n\nNote: This deadline applies to all students requesting Add/Drop during the Winter 2026 session.",
+  "sources": [
+   "https://drive.google.com/file/d/1qrV91cxgx9lofYVG8AgyiMVEGVNir_FR/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2992,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Split the question into 2 parts and searched for each and for the whole question: 7 passages from 3 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "antiragging_helpline",
+  "question": "What is the national anti-ragging helpline number?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**National Anti‑Ragging Helpline: 1800‑180‑5522**[1]",
+  "sources": [
+   "https://drive.google.com/file/d/1mtgop7GAQWFWTdhX8nT-7NImfIVHQjOe/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3197,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "summer_term_fee",
+  "question": "How much does one summer term course cost at VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**One Summer Term course costs ₹ 3,000**[1].\n\n- The Summer Term 2026 notice states that students must pay a fee of **₹ 3,000 per course** (up to a maximum of three courses) when registering for the term[1].\n\nNote: This fee applies to each course taken in the Summer Term 2026 and is limited to a maximum of three courses per student.",
+  "sources": [
+   "https://drive.google.com/file/d/16ur4iXJBJSAWXGVkhFTzh1xqTUaxXPZ-/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 2,
+   "tokens": 6618,
+   "waited_for_quota_s": 7.7,
+   "tool_calls": 1,
+   "passages_seen": 10,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "Looked inside “Summer Term 2026 Notice” for “fee”",
+   "Wrote the answer after 1 round(s) of tool use.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "summer_term_max_courses",
+  "question": "How many courses can a student register for in the summer term?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**A student can register for a maximum of **3 **theory courses in the summer term**[1].\n\n- This limit is specified in the Summer Term 2026 notice, which states “A student can register Max. 3 (three‑theory) courses”[1].\n\nNote: The limit applies to theory courses; other course types (e.g., labs) are not covered by this specific summer‑term rule.",
+  "sources": [
+   "https://drive.google.com/file/d/16ur4iXJBJSAWXGVkhFTzh1xqTUaxXPZ-/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3171,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "dean_academic_name",
+  "question": "Who is the Dean (Academic) at VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Dr. V. R. Kalamkar** is the Dean (Academic) at VNIT Nagpur[1].",
+  "sources": [
+   "https://vnit.ac.in/deans-2026"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2760,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 7 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "dean_planning_email",
+  "question": "What is the email address of the Dean (Planning and Development)?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**deanp_f@vnit.ac.in**\n\n- Listed on the VNIT “Deans” page (2026) as the email for **Dr. Ratnesh Kumar, Dean (Planning & Development)**[1].",
+  "sources": [
+   "https://vnit.ac.in/deans-2026"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3339,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 7 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "msc_tuition",
+  "question": "What is the yearly tuition fee for M.Sc students at VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Yearly tuition fee for M.Sc. (General/Open/EWS/OBC/NCL) students: ₹15,000**\n\n- Tuition fee per semester for M.Sc. (GEN/EWS/OBC/NCL) is ₹7,500 [​P9]; two semesters per year → ₹7,500 × 2 = ₹15,000.\n- For SC/ST/PwD students the tuition fee is **nil** (as shown in the fee estimate for SC/ST students) [​P1][​P10].\n\n**Note:** The ₹15,000 figure applies to the open category (General, EWS, OBC, NCL) only; SC, ST, and PwD categories are exempt from tuition fees.",
+  "sources": [
+   "https://drive.google.com/file/d/1ARUdONHAu1pFaYGIZ8CRkYBvHbA-jtnu/view",
+   "https://drive.google.com/file/d/1mzxryJP1oaJ5nU6lKur2eEPdl3kZpDNI/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
+   "https://vnit.ac.in/section/academics/fees/",
+   "https://drive.google.com/file/d/1qDt03ICmQKzUKo5S5FaKm8gIT47ZK1ww/view",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view",
+   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 2,
+   "tokens": 8130,
+   "waited_for_quota_s": 17.2,
+   "tool_calls": 1,
+   "passages_seen": 10,
+   "passages_cited": 0
+  },
+  "seconds": 78.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “yearly”), so I also looked inside “Notice No. 3266 dated 17 November 2025 Regarding Hostel Fee payment information for Summer 2025 for all UG – M.Sc. students for 2025-26” and “Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27”. I also looked up matching rows in the documents' tables.",
+   "Calculated 7500 * 2 = 15000",
+   "Wrote the answer after 1 round(s) of tool use.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_tuition",
+  "question": "What is the yearly tuition fee for M.Tech students in the OPEN category?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹70,000 per year** for M.Tech students in the OPEN (and OBC/EWS) category[1][2][3][4].",
+  "sources": [
+   "https://drive.google.com/file/d/1rSmfTQ0R2G5eeI7-WvnVG0Lsf8OdOnzy/view",
+   "https://vnit.ac.in/section/academics/wp-content/uploads/2024/06/Info-Brochure-updated-on-20th-Jun-2024.pdf",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view",
+   "https://drive.google.com/file/d/1rNIoQRRMIVkyBs2m0OivVTgkTNYPwadl/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 2,
+   "tokens": 6098,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 5
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s): could not find 27 in the sources.",
+   "Rewrote the answer after the check. Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_fee_scst",
+  "question": "What tuition fee do SC/ST M.Tech students pay?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**SC/ST M.Tech students pay ₹0 tuition fee** (full tuition waiver).\n\n- Tuition fee is listed as “No Tuition Fees is charged from SC/ ST/ PwD candidates” in the 2024‑04‑16 M Tech fee information [1].\n- The 2026‑05‑04 M.Tech (Research) brochure also states “SC/ST/ PwD candidates are given 100% waiver in tuition fees” [2].\n- The 2026‑08‑07 Common Fees document shows “M. Tech.SC, ST, PWD: nil” for tuition fees [3].\n\nNote: Other charges (e.g., convocation fee ₹750, thesis evaluation ₹5,000, hostel fees) may still apply.",
+  "sources": [
+   "https://drive.google.com/file/d/1ZqAPg85PB2oxYMmorzfmozrNSj8qyGc5/view",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view",
+   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3464,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 3
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "barch_tuition",
+  "question": "What is the yearly tuition fee for B.Arch students at VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs 125,000 per year** for B.Arch tuition.\n\n- JoSAA admission fee document lists Tuition Fee for B.Arch as Rs 125,000 (to be paid semester‑wise) [1].\n- Same figure appears in the detailed fee breakdown for B.Arch [1].\n\nNote: SC/ST/PwD candidates are exempt from tuition fees as per the same fee schedule [1].",
+  "sources": [
+   "https://drive.google.com/file/d/1FiFXbv4qJw2wTCWdsb6xlgiGUZX9v-5l/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 13370,
+   "waited_for_quota_s": 45.3,
+   "tool_calls": 2,
+   "passages_seen": 14,
+   "passages_cited": 2
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked weak (the top passages do not mention “yearl”), so I also looked inside “HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026-27” and “Orientation program for 1st Year B. Tech. and B. Arch. students (2026 Admission)”.",
+   "Searched for “B.Arch tuition fee VNIT 2026-27”: HOSTEL FEES FOR B.ARCH. BOYS ADMITTED IN YEAR 2022-23; HOSTEL FEES FOR B.ARCH GIRLS ADMITTED IN YEAR 2022-23; W26-Fee Notice Odd Term – Academic Year 2026-27-UG-PG",
+   "Looked inside “Fees Information B Tech B Arch Admission Through JoSAA” for “tuition fee B.Arch”",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_appliances",
+  "question": "Can I keep a refrigerator in my hostel room at VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**No, you cannot keep a refrigerator in your VNIT hostel room.**\n\n- The MBA 1st‑year hostel notice (Academic Year **2026‑27**) states that “use of … electrical appliances viz. … **refrigerators** etc. is strictly prohibited (except Air Coolers in summer)”[1].\n- The UG 1st‑year hostel information dated **2025‑08‑16** includes the same prohibition on refrigerators[2].\n- The UG (B.Tech/B.Arch) 1st‑year admission procedure for **2026‑27** also bans refrigerators[3].\n- The M.Tech., Ph.D. & M.Sc. 1st‑year admission notice dated **2026‑07‑27** repeats the restriction on refrigerators[4].\n\n**Note:** Only air‑coolers are permitted during summer; all other electrical appliances, including refrigerators, are not allowed.",
+  "sources": [
+   "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view",
+   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 2,
+   "tokens": 6663,
+   "waited_for_quota_s": 22.5,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 4
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s): could not find 26 in the sources.",
+   "Rewrote the answer after the check. Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "midsem_slot_a",
+  "question": "When is the mid semester exam for slot A in Winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**04 September 2026**\n\n- Mid‑semester examination for Slot A is scheduled on 04/09/2026 according to the UG‑PG Higher Semester Timetable (Winter 2026)[1].\n\nNote: This date applies to the higher‑semester UG & PG exams for Winter 2026.",
+  "sources": [
+   "https://drive.google.com/file/d/165jU5At1xtZFAOU4vkrTWCTSbe20HfO0/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4413,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
+  },
+  "seconds": 59.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked relevant (score 6.8). I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "unanswerable_old_hostel_fee",
+  "question": "What was the hostel fee for first year B.Tech boys in 2015-16?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I’m sorry, but none of the provided documents contain the hostel fee for first‑year B.Tech boys for the 2015‑16 academic year. You could look for the “Hostel Fee Estimate & Demand Letter for UG Students” for the 2015‑16 session on the VNIT website (e.g., under Student Services → Hostel → Fee Details) or ask for the specific 2015‑16 fee schedule.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "sources": [
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 10456,
+   "waited_for_quota_s": 26.1,
+   "tool_calls": 2,
+   "passages_seen": 7,
+   "passages_cited": 0
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention 2015-16); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “hostel fee first year B.Tech boys 2015-16”: HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026-27",
+   "Looked up documents titled like “hostel fees first year B.Tech boys 2015-16”: Hostel fees; First Year B.Tech Teaching Slots and Time Table; Coursebook for First Year B.Tech & B.Arch",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 3 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "unanswerable_director_salary",
+  "question": "What is the monthly salary of the VNIT Director?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I’m sorry, but none of the provided passages contain information about the monthly salary of the VNIT Director. You may check the VNIT official website (vnit.ac.in) or contact the institute’s administrative office for the current salary details.\n\n**Who can help:** Director Office — director_office@vnit.ac.in, 0712-2801370",
+  "sources": [
+   "https://vnit.ac.in/contact-us/"
+  ],
+  "verification": {
+   "verdict": "refused",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 8007,
+   "waited_for_quota_s": 5.3,
+   "tool_calls": 2,
+   "passages_seen": 8,
+   "passages_cited": 0
+  },
+  "seconds": 22.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: people.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked weak (best match scored -0.1, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “Director VNIT monthly salary”: Director, VNIT, Nagpur; Click here for the Advertisement",
+   "Searched for “Director VNIT salary”: Click here for the Advertisement; Director, VNIT, Nagpur",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "The sources do not cover this, so the answer says so instead of guessing.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "unanswerable_bus_pass",
+  "question": "How much does a day scholar bus pass cost at VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I’m sorry, but none of the provided documents contain information about the cost of a day‑scholar bus pass at VNIT.\n\nYou could look for this detail on the VNIT website’s **Student Transport/Transport Services** page (e.g., vnit.ac.in/transport) or ask the Student Welfare Office directly.",
+  "sources": [],
+  "verification": {
+   "verdict": "refused",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 8931,
+   "waited_for_quota_s": 11.3,
+   "tool_calls": 2,
+   "passages_seen": 8,
+   "passages_cited": 0
+  },
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Searched VNIT's pages and documents: 7 passages from 7 sources.",
+   "Searched for “day scholar bus pass cost VNIT”: HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26; HOSTEL FEE INFORMATION FOR WINTER 2025 ( (For M.Sc. students Admitted in year 2024); Details",
+   "Searched for “bus pass fee VNIT day scholar”: Visvesvaraya National Institute of Technology (VNIT), Nagpur; HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26; HOSTEL FEE INFORMATION FOR WINTER 2025 ( (For M.Sc. students Admitted in year 2024)",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "The sources do not cover this, so the answer says so instead of guessing."
+  ]
+ },
+ {
+  "name": "mess_rate_per_day",
+  "question": "how much is the hostel mess charge per day now?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹132.5 per day** (effective from 1 July 2026)[1]\n\n- The notice revises all hostel mess rates to a uniform charge of ₹132.5 per day, inclusive of taxes[1].\n- This rate applies to any student availing the mess facility for a minimum of three consecutive days[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1d8WE_sFxw8pBtdvXukeSw4USCYwaXUD5/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3797,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 8,
+   "passages_cited": 2
+  },
+  "seconds": 102.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked weak (the top passages do not mention “now”), so I also looked inside “Hostel fees”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mess_breakfast_only",
+  "question": "if i only want breakfast in mess during vacations how much do i pay",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹40 per day** for breakfast during vacations (paid directly to the mess contractor)[1].\n\n- This rate is listed in the “Notice Regarding Revised Hostel Mess Rates Effective from 01 July 2026” and applies to any student availing the mess on a need‑basis or during vacation periods.\n\nNote: The charge is per day; you pay the contractor directly each day you take breakfast.",
+  "sources": [
+   "https://drive.google.com/file/d/1d8WE_sFxw8pBtdvXukeSw4USCYwaXUD5/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3282,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "seconds": 9.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked weak (best match scored only 1.7); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mess_one_day_guest",
+  "question": "my friend is staying just one day, what does the mess charge for a full day on a normal day?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹180 per day** for a single‑day full‑day mess charge on a normal day[1].\n\n- The revised hostel mess rates (effective 1 July 2026) state that a student who avails the mess for only one day is charged **₹180 per day on normal days**; higher rates apply on special lunch/dinner days and Fridays[1].\n\nNote: “Normal day” means any day that is not a Sunday, Wednesday (special lunch/dinner) or Friday.",
+  "sources": [
+   "https://drive.google.com/file/d/1d8WE_sFxw8pBtdvXukeSw4USCYwaXUD5/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3266,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "seconds": 12.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (best match scored only 1.4); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_second_year_boys",
+  "question": "hostel fees for 2nd year btech boys winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs 32,650** is the hostel fee for 2nd‑year BTech boys for the Winter 2026 session [​P1】.\n\n- This amount is listed in the “HOSTEL FEES FOR SECOND YEAR BOYS ADMITTED IN YEAR 2025‑26” document dated 10 April 2026, under “Session wise Hostel Fees payable for the Academic Year 2026‑27 for Winter 2026”[1].\n\nNote: The figure applies to BTech (4‑year) second‑year male students for the winter term of the 2026‑27 academic year.",
+  "sources": [
+   "https://drive.google.com/file/d/1lEgLzIoqiU8iTZqFtyka6x_RgyGwZeW5/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 8,
+   "supported": 8,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4020,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 9.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 7.3).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 8 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_fourth_year_boys",
+  "question": "4th yr boys hostel fee for winter 2026 sem",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 33,400** for the Winter 2026 semester.\n\n- This amount is listed in the “Hostel Fees for Fourth Year Boy Students admitted in Year 2023‑24” document (dated 10 Apr 2026) as the fee payable for the Academic Year 2026‑27, Winter 2026 semester[1].\n\nNote: Applies to fourth‑year male undergraduate students admitted in the 2023‑24 batch.",
+  "sources": [
+   "https://drive.google.com/file/d/190mQEfAhbooI0vwmhHkNgqNQf2VkMWGZ/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 8,
+   "supported": 8,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3223,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 5,
+   "passages_cited": 1
+  },
+  "seconds": 9.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 5 passages from 5 sources.",
+   "The first search looked relevant (score 7.0).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 8 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_mtech_first_year",
+  "question": "I just got M.Tech admission. What is the hostel fee for Winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 40,080**\n\n- According to the “HOSTEL FEES FOR FIRST YEAR M.Tech BOYS & GIRLS ADMITTED IN YEAR 2026‑27” notice (dated 10 Apr 2026), the Winter 2026 hostel fee is Rs. 40,080 /‑[1]\n\nNote: This amount applies to first‑year M.Tech students (both boys and girls) admitted for the 2026‑27 academic session.",
+  "sources": [
+   "https://drive.google.com/file/d/1QoFVZPQae7mXoQNza05-K6aUreW79yYm/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4344,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
+  },
+  "seconds": 10.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “just”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “Notice No. 3265 dated 17 November 2025 Regarding Hostel Fee payment information for Summer 2025 for all M.Tech. – Ph.D. Students for 2025-26”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_mess_deposit",
+  "question": "what is the mess deposit for first year mtech students?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Mess deposit for first‑year M.Tech students: ₹ 48,000 (one‑year advance).**\n\n- Listed in the “Hostel Fee (Refundable / Adjustable as per actual)” table for first‑year M.Tech students (academic year 2025‑26) as the total mess deposit amount ₹ 48,000[1].\n\nNote: This figure applies to the academic year 2025‑26 and covers the full year’s mess charges.",
+  "sources": [
+   "https://drive.google.com/file/d/13pqqEFCDId3FtSWE-6JW0ejbS4aowgrJ/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4019,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 12.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (best match scored only 2.8); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_msc_first_year",
+  "question": "msc 1st year hostel fees for winter 2026",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs 33,400** is the hostel fee for first‑year MSc students (boys & girls) for the Winter 2026 session of the 2026‑27 academic year[1].\n\n- This amount is listed in the “HOSTEL FEES FOR FIRST YEAR MSc BOYS & GIRLS ADMITTED IN YEAR 2026‑27” document dated 10 April 2026.\n\nNote: The fee applies to all MSc first‑year students (both genders) for the Winter 2026 period.",
+  "sources": [
+   "https://drive.google.com/file/d/1cQzCo7gDQ0crd8GydTnT6agQPB5XQ8sX/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3771,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 8.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 9.6).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_fee_summer_first_year_boys",
+  "question": "How much hostel fee do first year B.Tech boys pay for Summer 2027?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 31,050** for Summer 2027.\n\n- The hostel fee schedule for first‑year boys admitted in 2026‑27 lists Summer 2027 fee as Rs. 31,050 /‑[1].\n\nNote: This amount applies to first‑year B.Tech (and B.Arch) male students.",
+  "sources": [
+   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3269,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 5,
+   "passages_cited": 1
+  },
+  "seconds": 9.5,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 5 passages from 4 sources.",
+   "The first search looked relevant (score 7.8).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "hostel_air_cooler",
+  "question": "can we use an air cooler in the hostel room?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Yes, you may use an air‑cooler in a hostel room, but only during the summer season and according to the hostel’s guidelines.**\n\n- Air coolers are permitted for use in hostels **only in the summer season** and must be placed at the designated location without obstructing passages [1].\n- The cooler must meet safety requirements (proper earthing, no loose wiring, within permissible electrical load) and residents are responsible for any damage caused [1].\n- General hostel rules state that all electrical appliances are prohibited **except air coolers in summer** [2][3][4].\n\n**Note:** Use is limited to the summer period; compliance with the “General Guidelines for the Use of Air Coolers” is mandatory.",
+  "sources": [
+   "https://drive.google.com/file/d/1XFOAbD5WHWwp86u_3qbkCSoRT-AmHGEo/view",
+   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view",
+   "https://drive.google.com/file/d/1jKI6-r6OVFm4cLHl1c8HKZHU0Xh469fq/view",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3217,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 6
+  },
+  "seconds": 8.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 7.5).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "attendance_minimum",
+  "question": "whats the minimum attendance needed in mtech courses",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Minimum attendance required for M.Tech courses is **75 %** of the classes actually held.**\n\n- The Academic Rule Book states that “Every student must attend minimum of 75 % of the classes actually held for that course” for M.Tech (and M.Sc) programmes[1].\n- The same 75 % minimum is repeated in the course‑book for Production & Industrial Engineering M.Tech, Bio‑Medical Engineering M.Tech, CAD/CAM M.Tech and Electric Vehicle Technology M.Tech programmes[2][3][4][5].\n\n*Note: Attendance may be relaxed by the course coordinator by up to 25 % in exceptional cases, but the baseline minimum remains 75 %.*",
+  "sources": [
+   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view",
+   "https://vnit.ac.in/engineering/mech/wp-content/uploads/2025/07/M.-Tech.-PIE-course-book-Oct-2024-1.pdf",
+   "https://drive.google.com/file/d/1ryERrEMqvSeJt8Ie7ShjO53o9wUFSlhM/view",
+   "https://drive.google.com/file/d/1bFyHCUpagNUThwLBf_GkryhUnPuFaQRv/view",
+   "https://drive.google.com/file/d/1TrDoTrVEmNbPbLHA8c3OD45_rEHI44sp/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3296,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 5
+  },
+  "seconds": 8.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: department.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (best match scored only 0.6); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "attendance_below_75",
+  "question": "what happens if my attendance is below 75% in an M.Tech course?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**If your attendance falls below 75 % in an M.Tech course you will receive a “W” (withdrawn) grade, be barred from the end‑semester exam, re‑examination and summer term, and your answer books will not be evaluated; additionally, any assistantship you hold will not be paid for that month and repeated shortfall can lead to termination of your studentship and assistantship**[1].",
+  "sources": [
+   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3368,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 7.7,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: department.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked relevant (score 4.9).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_stipend_cgpa",
+  "question": "below what cgpa does an mtech student lose the assistantship stipend?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**M.Tech students lose their assistantship stipend if their CGPA falls below **6.75**.**\n\n- The Academic Rule Book states that if a student’s CGPA, calculated after re‑examination, is less than 6.75, the stipend is reduced according to institute norms, and can be restored only when the CGPA rises to 6.75 or above [1].\n\n**Note:** The CGPA threshold applies after any re‑examination; improvement to 6.75 or higher restores the stipend.",
+  "sources": [
+   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 2,
+   "tokens": 6916,
+   "waited_for_quota_s": 3.0,
+   "tool_calls": 1,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 23.1,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: scholarship.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (the top passages do not mention “lose”, “mtech”); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “M.Tech assistantship CGPA below stipend terminated”: Academic Rule Book; M Tech Institute Spot Round Admission (ISR) 2026 for GATE, Non-GATE & Sponsored candidates",
+   "Wrote the answer after 1 round(s) of tool use.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "branch_change",
+  "question": "can i change my branch after first year at vnit?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**No, you cannot change your branch after the first year at VNIT.**\n\n- The admission notice states that “Branch once allotted, will not be changed.”[1].\n\nNote: This rule applies to the branch assigned at the time of admission, and there is no provision allowing a change after completing the first year.",
+  "sources": [
+   "https://drive.google.com/file/d/1_EL2fHee8GUp093WGEqkb-2KPX43-cDS/view"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3489,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 121.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 7 passages from 7 sources.",
+   "The first search looked weak (best match scored only 1.3); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "minor_cgpa",
+  "question": "what cgpa do i need to take a minor degree?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**You need a CGPA of **≥ 8.0** (at the end of the first year) to be eligible for a minor degree.**\n\n- The Minor‑course eligibility notice for B.Tech. batch 2025 states that a student may apply for a minor only after the first year if they have **CGPA ≥ 8.0** and no active FF/W/LL grades[1].\n\nNote: The CGPA requirement applies to all B.Tech. students; other conditions (no active failing grades) must also be met.",
+  "sources": [
+   "https://drive.google.com/file/d/1-8kE1lLm8eSrQg3GEqnSnVqcVerkQb9H/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3429,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 34.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: rules.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked weak (the top passages do not mention “take”); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "minor_deadline",
+  "question": "last date to apply for minor course for btech batch 2025?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**30 June 2026** is the final deadline to submit the Minor‑course application for the B.Tech batch 2025.\n\n- Extension Notice – Allocation for Minor Course for the B.Tech Batch admitted in 2025 (dated 10 June 2026) states that applications must be submitted via the Google form **till 30 June 2026**[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1W8nQDbDX75WkMijyA6v-K0vvF1hno4Mr/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 8,
+   "supported": 8,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3930,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 8,
+   "passages_cited": 1
+  },
+  "seconds": 89.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: department.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked weak (the top passages do not mention “btech”, “last”), so I also looked inside “Notice : Last Date of Fees payment- 26/07/2025 and Institute Reporting and Physical Original Documents Verification- August 20-23, 2025”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 8 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "higher_sem_classes_start",
+  "question": "when do classes start for 2nd year and above in winter 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Classes for 2nd‑year and above begin on 21 July 2026.**\n\n- The Academic Calendar for Higher Semester UG & PG (Winter 2026) lists “Commencement of Classes: 21 st July 2026”[1].\n\nNote: This date applies to all higher‑semester (2nd year and above) undergraduate and postgraduate programmes for the Winter 2026 session.",
+  "sources": [
+   "https://drive.google.com/file/d/1uIEpHZrCq-y9tbKDHSHTcEnQnLINO5g1/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 12107,
+   "waited_for_quota_s": 41.1,
+   "tool_calls": 2,
+   "passages_seen": 12,
+   "passages_cited": 1
+  },
+  "seconds": 80.9,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Split the question into 2 parts and searched for each and for the whole question: 7 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “2nd”, “start”, “above”); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “Winter 2026 academic calendar higher semesters UG”: Academic Event Calendar; ACADEMIC CALENDAR (Winter 2026) For Higher Semester UG & PG; Academic Calendar (Winter 2025) for Higher Semesters of UG & PG",
+   "Looked inside “ACADEMIC CALENDAR (Winter 2026) For Higher Semester UG & PG” for “Commencement of Classes”",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "no_instruction_days",
+  "question": "are there any days without classes in november 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Yes – 9 Nov 2026 to 13 Nov 2026 are “No instruction” days (no classes).**\n\n- The Academic Calendar (Winter 2026) for Higher Semester UG & PG lists “No instruction day: 9 th‑13 th November 2026”[1].\n- The Academic Calendar (Winter 2026) for First‑Year UG (B.Tech/B.Arch) also notes “days: 9 th‑13 th Nov 2026”[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1uIEpHZrCq-y9tbKDHSHTcEnQnLINO5g1/view",
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 9,
+   "supported": 9,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3722,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 9.9,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (the top passages do not mention “days”, “without”); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 9 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "freshers_date",
+  "question": "when is freshers in 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Freshers will be held on **18 October 2026**.\n\n- The Academic Calendar (Winter 2026) lists “Student Activities: Freshers Oct 18 th 2026” for higher‑semester UG/PG programmes[1].\n- The same date appears in the First‑Year UG (B.Tech/B.Arch) Academic Calendar (Winter 2026) under Student Activities[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1uIEpHZrCq-y9tbKDHSHTcEnQnLINO5g1/view",
+   "https://drive.google.com/file/d/1ieRWNBaNz--YFEkpynrvteb4Ro16exd-/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3820,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 6.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 5.8).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "orientation_date",
+  "question": "When is the orientation program for new B.Tech students in 2026?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The orientation program for new B.Tech (and B.Arch) students in 2026 is on **19 August 2026**.\n\n- The news article reports the programme was held on 19 August 2026, starting a five‑day induction from 19–23 August 2026[1].\n- The official orientation notice specifies the event for 1st‑year B.Tech and B.Arch students on Wednesday, 19 August 2026 at 10:00 AM[2].\n- The same notice also lists a second session on 19 August 2026 at 04:00 PM[2].",
+  "sources": [
+   "https://vnit.ac.in/vnit-nagpur-welcomes-the-new-batch-of-b-tech-b-arch-students-orientation-programme-2026",
+   "https://drive.google.com/file/d/1RfafFBO1FDBDUGJh0CO8kZbMYt8PZPep/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 13,
+   "supported": 13,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3527,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 3
+  },
+  "seconds": 5.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: department.",
+   "Searched VNIT's pages and documents: 7 passages from 5 sources.",
+   "The first search looked relevant (score 9.7).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 13 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "orientation_parents",
+  "question": "can my parents come inside the auditorium for the orientation?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**No, parents are not allowed inside the auditorium for the orientation.**\n\n- The orientation schedule states that “Parents are not allowed in the Auditorium” and a live‑stream of the program is provided in the Multi Activity Centre (2nd Floor, Boys Hostel Complex) for parents [1].   Note: This restriction applies to all parents of 1st‑year B.Tech. and B.Arch. students for the 2026‑27 orientation.",
+  "sources": [
+   "https://drive.google.com/file/d/1RfafFBO1FDBDUGJh0CO8kZbMYt8PZPep/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3288,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 6.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked weak (best match scored only 2.0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "holiday_holi",
+  "question": "is holi a holiday at vnit in 2026? which date?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Yes – Holi is a holiday on 04 March 2026 (Wednesday).**\n\n- Listed as “HOLIDAY: Holi” on 4 Mar in the Academic Calendar (Summer 2026) for all UG & PG semesters[1].\n- Confirmed in the official “List of Holiday’s during the year 2026” with the entry “Holi | Date: 04.03.2026; Day: Wednesday”[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1W5AWHV0CGlYHvehSDA3s2M8AjuaurNM9/view",
+   "https://drive.google.com/file/d/1nuTp0HsQcVUArZlGG3rnoOWAsDDH4f-q/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3931,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 8,
+   "passages_cited": 2
+  },
+  "seconds": 63.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked weak (the top passages do not mention “holi”); no better-titled page had a relevant passage, so I continued with what it found. I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "holiday_dussehra",
+  "question": "dussehra holiday date 2026",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Dussehra holidays in 2026 are on 18 Oct, 19 Oct and 20 Oct**[1].\n\nNote: I could not confirm 19 in VNIT's documents, so please check the linked source before relying on it.\n\n**Who can help:** Deputy Registrar, Exam Section — dr_acd@vnit.ac.in, 0712-2801365",
+  "sources": [
+   "https://drive.google.com/file/d/1nuTp0HsQcVUArZlGG3rnoOWAsDDH4f-q/view",
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "unsupported",
+   "checked": 4,
+   "supported": 3,
+   "unsupported": [
+    "19"
+   ]
+  },
+  "usage": {
+   "llm_calls": 4,
+   "tokens": 14987,
+   "waited_for_quota_s": 60.9,
+   "tool_calls": 2,
+   "passages_seen": 8,
+   "passages_cited": 1
+  },
+  "seconds": 78.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Searched VNIT's pages and documents: 6 passages from 6 sources.",
+   "The first search looked relevant (score 8.8).",
+   "Searched for “Dussehra 2026 VNIT academic calendar”: Academic Calendar (Winter 2025) for Higher Semesters of UG & PG; Academic Calendar (Winter 2025) For First Semester PG; ACADEMIC CALENDAR (Winter 2026) for First Year PG (M.Tech/M.Sc/MBA)",
+   "Looked inside “ACADEMIC CALENDAR (Winter 2026) For Higher Semester UG & PG” for “Dussehra”",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 4 figure(s): could not find 19 in the sources.",
+   "Rewrote the answer after the check. Checked 4 figure(s): could not find 19 in the sources.",
+   "Part of this answer could not be confirmed, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "phd_tuition_full_time",
+  "question": "phd full time tuition fee per semester?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹ 7,500 per semester** is the tuition fee for a full‑time Ph.D. student[1].\n\n- This amount is listed under “Tuition Fees” for Ph.D. (Full‑Time) in the 2026‑05‑08 Ph.D. Guidelines[1].\n\nNote: This figure applies to Indian‑national Ph.D. candidates; fees for NRI/foreign students are quoted in USD in separate documents.",
+  "sources": [
+   "https://drive.google.com/file/d/1Xed4BvuZF7Ui0WhXljF5JLeSqMpO89to/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3957,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
+  },
+  "seconds": 51.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 6.2). I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mba_tuition",
+  "question": "What is the MBA tuition fee per semester at VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**INR 1,00,000 per semester** for the MBA (Advanced Construction Management) programme[1].\n\n- The fee estimate shows Tuition Fee = INR 1,00,000 for the 3rd and 4th semesters, and a total of INR 4,00,000 for the four‑semester programme, implying the same amount each semester[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1o4_hm6mIrM67KzvBKSlpsLkpVxG_NgZQ/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3347,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 5.7,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 4.1).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "sii_seat_acceptance_fee",
+  "question": "is the seat acceptance fee refundable for study in india students? how much is it?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The Seat Acceptance Fee for Study‑in‑India (SII) students is **non‑refundable** and is **₹ 35,000**.**\n\n- The policy states that SII students pay a non‑refundable Seat Acceptance Fee of INR 35,000 to confirm the offered seat; the fee is forfeited if the admission is cancelled or the seat is not taken[1].\n- The same amount (INR 35,000) is described as a non‑refundable fee in the SII Admissions notice, with the fee split as INR 5,000 processing charge and INR 30,000 adjustable to semester fees[2].\n- Additional notices confirm that the Seat Acceptance Fee of INR 35,000 will be forfeited if the candidate does not pay the remaining semester fees or rejects the offer[2][3].\n\n**Who can help:** Assistant Registrar, Accounts Section — ar_accounts@vnit.ac.in, 0712-2801366",
+  "sources": [
+   "https://drive.google.com/file/d/10wsg3Q5C144VztEXVnc_va7nPD24l5Te/view",
+   "https://drive.google.com/file/d/13pqqEFCDId3FtSWE-6JW0ejbS4aowgrJ/view",
+   "https://drive.google.com/file/d/1hQoVChEnsXDf12LnFhz5ZUyQbAJQr9ni/view",
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3438,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 4
+  },
+  "seconds": 8.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 4.5).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "fee_remission_affidavit",
+  "question": "for fee remission what stamp paper is needed for the no income affidavit",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**A Rs. 100 non‑judicial stamp paper** is required for the “No Income” affidavit of parents.\n\n- The fee‑remission notice (2026‑27) specifies the affidavit must be on **Rs. 100 Non‑judicial stamp paper**[1].\n- The FAQs for fee remission (dated 08‑Sep‑2026) also state to submit the original “No Income” affidavit on **Rs. 100 stamp paper**[2].\n- The detailed fee‑remission notice (dated 10‑Sep‑2026) repeats that the affidavit should be on **Rs. 100 Non‑judicial stamp paper**[3].\n\n*Note: This requirement applies to the fee‑remission scheme for the academic year 2026‑27.*",
+  "sources": [
+   "https://drive.google.com/file/d/12Mivo1R5gyLzX-As2vTIRB7QNpT6Z0n9/view",
+   "https://drive.google.com/file/d/1HRu-PDVhAszErbpOkpiB8cETwOd-KnIb/view",
+   "https://drive.google.com/file/d/1FfVDG8obcUskIUeKDA76XFsLgNm8F9cD/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 9,
+   "supported": 9,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3481,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 3
+  },
+  "seconds": 6.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked relevant (score 6.6).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 9 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "fee_remission_other_scholarship",
+  "question": "can i apply for fee remission if i already have another scholarship?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**No, you cannot apply for fee remission if you already hold another scholarship that reimburses tuition fees.**\n\n- The Fee Remission FAQ states “Can I apply for Fee Remission as I already applied or beneficiary for Home State/Other State/Private scholarship? Ans‑No, you cannot apply for Fee Remission.” [1]\n- The 2026‑27 Fee Remission notice requires a declaration that the student “shall not receive any other scholarship from Govt./Non‑Govt. agencies” and says “students who have applied for any other scholarship in which academic fees reimbursement is admissible, are not eligible to apply for fee remission.” [2]\n- The same notice warns that taking fee remission together with another tuition‑fee scholarship will require returning the remitted amount and may lead to disciplinary action. [2]\n\n*Note: This restriction applies to all categories of students; the rule is uniform across Open, OBC, SC/ST, PwD, etc.*",
+  "sources": [
+   "https://drive.google.com/file/d/1HRu-PDVhAszErbpOkpiB8cETwOd-KnIb/view",
+   "https://drive.google.com/file/d/1FfVDG8obcUskIUeKDA76XFsLgNm8F9cD/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3508,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 3
+  },
+  "seconds": 11.5,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 5.6).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "kalpana_chawla_deadline",
+  "question": "last date for kalpana chawla scholarship?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**10 August 2026** is the final deadline to apply for the Kalpana Chawla Chhatravrati Yojna (girls‑only scholarship).\n\n- The scholarship notice dated 28 July 2026 states that the last date for applications has been extended to 10‑08‑2026[1].\n- The accompanying flyer (also dated 28 July 2026) lists the same last‑date 10‑08‑2026[2].\n\nNote: This deadline applies to eligible girl students from Haryana admitted to B.E./B.Tech, B.Arch or B.Plan programmes for the 2025‑26 academic year.",
+  "sources": [
+   "https://drive.google.com/file/d/1Pv3qsxDnDcW5P6q25GopXaTIDe-4JLYj/view",
+   "https://drive.google.com/file/d/1oeZaIRS_75k72jftYzVKHUFpkvMTr1_y/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 9,
+   "supported": 9,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3625,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 12.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: scholarship.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked relevant (score 8.1).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 9 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "kalpana_chawla_who",
+  "question": "who can apply for the kalpana chawla chhatravrati yojna",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Girls who are Haryana residents (or have completed 10th & 12th in Haryana) and have taken admission in B.E/B.Tech, B.Arch or B.Plan courses for the 2025‑26 academic year** can apply.\n\n- The scheme is **girls‑only** and targets students admitted to B.E/B.Tech, B.Arch & B.Plan courses in 2025‑26[1].\n- Eligible candidates must either have a Haryana domicile/Haryana Resident Certificate **or** have passed 10th & 12th classes from Haryana[1].\n- The flyer reiterates the same eligibility: “For Girls who have taken admission in Bachelor of Engineering / Technology, Architecture & Planning courses in the year 2025‑26”[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1Pv3qsxDnDcW5P6q25GopXaTIDe-4JLYj/view",
+   "https://drive.google.com/file/d/1oeZaIRS_75k72jftYzVKHUFpkvMTr1_y/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3752,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 3
+  },
+  "seconds": 12.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked relevant (score 7.1).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "highest_package_2425",
+  "question": "highest package for btech in 2024-25 placements?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹64.00 LPA** was the highest package offered to B.Tech students in the 2024‑25 placement season.\n\n- Placement and Internship Report 2024‑25 (VNIT) lists the overall highest B.Tech CTC as 64.00 LPA[1].\n- The branch‑wise data also shows the Computer Science Engg. highest CTC at 64.00 LPA[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3781,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 9.1,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked weak (the top passages do not mention “btech”); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "average_package_2425",
+  "question": "what was the average package for B.Tech in 2024-25?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Average package for B.Tech in 2024‑25: 10.70 LPA**\n\n- Placement and Internship Report 2024‑2025 lists the average CTC for B.Tech as 10.70 LPA[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3697,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 6.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 4.9).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "cse_placement_percent_2425",
+  "question": "what percent of cse students got placed in 2024-25?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**93.40 %** of B.Tech. Computer Science Engineering students were placed in 2024‑25[1].\n\n- Placement & Internship Report 2024‑2025 shows 106 CSE students registered, 99 placed, giving a placement percentage of 93.40 %[1].\n\nNote: Figure applies to B.Tech. CSE batch for the academic year 2024‑25.",
+  "sources": [
+   "https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3720,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 8.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked weak (best match scored only 1.1); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "companies_btech_2425",
+  "question": "how many companies came for btech placements in 2024-25",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**121 companies** came for B.Tech placements in 2024‑25[1].\n\n- This figure is from the “Placement and Internship Report 2024‑2025” which lists the number of companies visited for each programme, showing B.Tech = 121.   Note: the count covers all B.Tech students (all branches) for the academic year 2024‑25.",
+  "sources": [
+   "https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4331,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
+  },
+  "seconds": 56.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked weak (the top passages do not mention “btech”), so I also looked inside “Demand Letter-W26-BTECH-2023_2024_2025BARCH-2022_2023_2024_2025-BATCH-Open-OBC” and “Demand Letter-W26-BTECH-2023_2024_2025BARCH-2022_2023_2024_2025BATCH-SC-ST-PwD”. I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "deemed_university",
+  "question": "when did vnit become a deemed university?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**VNIT was granted Deemed‑to‑be University status on **26 June 2002**.\n\n- The institute’s History page states that the Government of India conferred Deemed‑to‑be University status (under the UGC Act, 1956) with effect from 26 June 2002[1].\n- The same information appears in the 2026‑27 Training & Placement brochure and the Establishment Manual, confirming the date[2][3].",
+  "sources": [
+   "https://vnit.ac.in/history/",
+   "https://drive.google.com/file/d/1leVvr2GEIiWgoKzioLKTNzX3ESh4Zx-5/view",
+   "https://vnit.ac.in/wp-content/uploads/2022/12/ESTABLISHMENT_MANUAL.pdf"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3176,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 3
+  },
+  "seconds": 9.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 6 passages from 5 sources.",
+   "The first search looked weak (the top passages do not mention “become”); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "old_name",
+  "question": "what was vnit called earlier?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**VNIT was formerly known as the Visvesvaraya Regional College of Engineering (VR C E).**\n\n- The Establishment Manual notes that “Earlier, the Institute was known as Visvesvaraya Regional College of Engineering (VRCE)”[1].\n- The Academic Rule Book (2025) states “The Visvesvaraya National Institute of Technology (VNIT), (formerly known as VRCE)… Earlier, the Institute was known as Visvesvaraya Regional College of Engineering (VRCE)”[2].\n- The Academic Rule Book (2024) repeats the same earlier name[3].\n- The Material Engineering Centre document mentions the Institute was “established in 1960 as Regional College of Engineering… named after … Sir M. Visvesvaraya,” confirming the earlier designation[4].",
+  "sources": [
+   "https://vnit.ac.in/wp-content/uploads/2022/12/ESTABLISHMENT_MANUAL.pdf",
+   "https://drive.google.com/file/d/1_hgJglRVNtknD5nhkPsm6xEE6rdTlRat/view",
+   "https://drive.google.com/file/d/13IWMP-syXocScZgO4uQqd1_ZNd8VHUPy/view",
+   "http://vnit.ac.in/wp-content/uploads/2023/04/center_for_materials.pdf"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3387,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 4
+  },
+  "seconds": 5.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (the top passages do not mention “called”); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "cse_hod",
+  "question": "who is the hod of cse?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Dr. M. P. Kurhekar** is the Head of the Department (HOD) of Computer Science and Engineering at VNIT Nagpur[1].",
+  "sources": [
+   "https://vnit.ac.in/section/tnp/wp-content/uploads/2025/08/Computer-Science-Engg_Brochure_2025-26.pdf"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3026,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 7.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: people.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked relevant (score 3.0).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "rti_email",
+  "question": "what is the email to file an rti with vnit?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Email to file an RTI with VNIT:** **cpio@vnit.ac.in**\n\n- The Central Public Information Officer (CPIO) for RTI requests is listed as Shri Aravind Palla, Assistant Registrar, with the email cpio@vnit.ac.in [1].\n- For appeals, the First Appellate Authority (FAA) can be contacted at faa@vnit.ac.in [1].",
+  "sources": [
+   "https://vnit.ac.in/rti-officer/"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3281,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 8.1,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: people.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (best match scored only 3.0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "library_timings",
+  "question": "what are the library timings on weekdays?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The Library and Information Resource Centre is open Monday to Saturday from **8:30 am to 9:40 pm**; it is closed on Sundays.**\n\n- Library Hours page lists “Reading room Monday to Saturday 8:30 am to 9:40 pm” and notes Sunday is closed[1].\n- The same schedule appears in the library’s issue document confirming Monday‑Saturday timings[2].",
+  "sources": [
+   "https://vnit.ac.in/library-and-information-center/",
+   "https://drive.google.com/file/d/1QF-4xDVx_Ltld7ldOqtDjyd8gK2cs05C/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3862,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 7.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked weak (best match scored -1.0, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "internet_speed",
+  "question": "how fast is the campus internet?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The campus internet runs on a 1 Gbps fiber‑optic backbone, with an aggregate bandwidth of about 132 Mbps available to users.**\n\n- The Network Centre states that VNIT has a campus‑wide fiber‑optic gigabit network and is a member of the National Knowledge Network (NKN) providing 1 Gbps connectivity[1].\n- It also notes that the internet bandwidth supplied by various service providers to the institute is around 132 Mbps[1].",
+  "sources": [
+   "https://vnit.ac.in/network-centre"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3141,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "seconds": 9.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (best match scored -5.6, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "swimming_pool",
+  "question": "does vnit have a swimming pool?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Yes, VNIT has an Olympic‑size swimming pool.**\n\n- The alumni visit description lists the “Olympic-size Swimming Pool” among the iconic campus landmarks [1].",
+  "sources": [
+   "https://drive.google.com/file/d/1FiXQu6BD4ZcfBqxuC-nxRWid6YkKOYZO/view"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3016,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 5.5,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 7 passages from 7 sources.",
+   "The first search looked relevant (score 3.5).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "convocation_dress_boys",
+  "question": "what should boys wear for the convocation?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Boys should wear a white kurta and pyjama**[1].\n\n- This dress code is specified for all degree recipients attending the 24th Convocation on 15 September 2026[1].\n\nNote: The requirement applies to male graduates for the 2026 convocation ceremony.",
+  "sources": [
+   "https://vnit.ac.in/instructions-to-degree-recipients-for-attending-24th-convocation-2026"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3164,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "seconds": 8.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked weak (best match scored -0.3, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "convocation_gates",
+  "question": "what time do the gates close on convocation day?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The entry gates close at **8:15 AM** on the convocation day.**\n\n- The convocation instructions state “The gates will close strictly by 8:15 AM” for the 15 September 2026 ceremony[1].\n- A later timeline notes that “All gates of the VNIT Auditorium will be closed” at 08:30 AM, which refers to the final closure after the ceremony[1].\n\n**Note:** 8:15 AM is the deadline for entering and taking seats; the auditorium gates are shut completely at 08:30 AM.",
+  "sources": [
+   "https://vnit.ac.in/instructions-to-degree-recipients-for-attending-24th-convocation-2026"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3326,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 8.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: calendar.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked relevant (score 4.8).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "gs_eligibility",
+  "question": "who can contest for general secretary in the student council election?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**All fourth‑year UG students of B.Tech or B.Arch (enrollment BT22/BA22) are eligible to contest for General Secretary.**\n\n- Basic eligibility for nomination is listed as “All 4th year UG students of B.Tech / B.Arch (i.e. Enrollment No. BT22 / BA22)” for the General Secretary post[1].\n- Candidates must submit their nomination through the Institute Election Committee portal within the stipulated time[1].\n\nNote: This eligibility applies only to undergraduate students; no other programmes are mentioned for this post.",
+  "sources": [
+   "https://drive.google.com/file/d/1MNd8CGaxoNMDroSzHYF2xkm99S9jDvAA/view"
+  ],
+  "verification": {
+   "verdict": "nothing to check",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 10158,
+   "waited_for_quota_s": 25.2,
+   "tool_calls": 2,
+   "passages_seen": 11,
+   "passages_cited": 1
+  },
+  "seconds": 45.0,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 4.3).",
+   "Searched for “General Secretary eligibility criteria student council election VNIT”: Guidelines and Rules Student Council Election (2025-26)",
+   "Looked inside “Guidelines and Rules Student Council Election (2025-26)” for “General Secretary eligibility”",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "No figures, dates or contact details to check in this answer."
+  ]
+ },
+ {
+  "name": "mess_joining_first_year",
+  "question": "when can first year students join the hostel mess?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**First‑year UG and PG students can join their allotted mess on the day they physically report to their hostel.**\n\n- The mess joining schedule states that “All 1º year students (UG & PG) are hereby informed that they may report to their respective hostels and join their allotted messes … from the date of their physical reporting”[1].\n- Higher‑semester students are told to join from 20 July 2026, but the first‑year rule is based on each student’s reporting date[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1D2EGLElamRRlPJ9p6thUNFxMEtVtAwzg/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3580,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 51.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 2 sources.",
+   "The first search looked relevant (score 6.3).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "unanswerable_jee_rank",
+  "question": "what jee main rank do i need for cse at vnit?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I’m sorry, but none of the provided documents contain information about the JEE Main rank required for admission to the Computer Science Engineering program at VNIT.\n\nYou could check the latest “Admission Brochure” or “Counselling Round Results” on the VNIT website (e.g., vnit.ac.in/admissions) for the most recent CSE cutoff ranks.",
+  "sources": [],
+  "verification": {
+   "verdict": "refused",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 10437,
+   "waited_for_quota_s": 24.8,
+   "tool_calls": 2,
+   "passages_seen": 11,
+   "passages_cited": 0
+  },
+  "seconds": 49.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: admission.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked weak (best match scored only 1.7); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “JEE Main cutoff rank CSE VNIT 2026”: CSE_Brochure_2025-26; IA&A News; Allocation for Minor course for the B. Tech batch admitted in 2025",
+   "Searched for “VNIT CSE JEE Main cutoff rank”: Mechanical_Brochure_2025-26; FAQs for Admission portal; Frequently Asked Questions",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "The sources do not cover this, so the answer says so instead of guessing."
+  ]
+ },
+ {
+  "name": "unanswerable_gate_cutoff",
+  "question": "What is the GATE cutoff score for M.Tech CSE at VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I’m sorry, but none of the provided documents specify the actual GATE cutoff score for the M.Tech Computer Science and Engineering program at VNIT. You could check the latest VNIT admission brochure or the CCMT (Centralized Counseling for M.Tech.) website for the current cutoff details.",
+  "sources": [],
+  "verification": {
+   "verdict": "refused",
+   "checked": 0,
+   "supported": 0,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 9681,
+   "waited_for_quota_s": 28.4,
+   "tool_calls": 2,
+   "passages_seen": 11,
+   "passages_cited": 0
+  },
+  "seconds": 46.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: admission.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (best match scored only 2.3); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Looked up table rows for “CSE GATE cutoff” (mtech, 2024-25): 2 rows from M Tech Institute Spot Round Admission (ISR) 2026 for GATE, Non-GATE & Sponsored candidates; M Tech Institute Spot Round Admission (ISR) 2024 for GATE, Non-GATE & Sponsored candidates",
+   "Searched for “M.Tech CSE GATE cutoff VNIT”: M Tech Institute Spot Round Admission (ISR) 2026 for GATE, Non-GATE & Sponsored candidates; M Tech Institute Spot Round Admission (ISR) 2024 for GATE, Non-GATE & Sponsored candidates",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "The sources do not cover this, so the answer says so instead of guessing."
+  ]
+ },
+ {
+  "name": "unanswerable_old_placement",
+  "question": "what was the average package at vnit in 2015-16?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I’m sorry, but none of the provided passages contain information about the average placement package at VNIT for the 2015‑16 academic year.\n\nYou could check the “Training & Placement” section of the VNIT website (vnit.ac.in/section/tnp/) or look for the institute’s annual placement report for 2015‑16 for that data.",
+  "sources": [],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 9418,
+   "waited_for_quota_s": 21.7,
+   "tool_calls": 2,
+   "passages_seen": 8,
+   "passages_cited": 0
+  },
+  "seconds": 32.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked weak (best match scored -3.7, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Searched for “average package 2015-16 VNIT placement”: 5 Year Fee Estimate for Bachelor of Architecture; VNIT Nagpur – Training & Placement Department",
+   "Looked up documents titled like “placement report 2015-16 VNIT”: VNIT Nagpur – Training & Placement Department; Guidelines for Hassle free Institute Reporting at VNIT; Report on Visit of French Delegation to VNIT Nagpur",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 2 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "unanswerable_warden_address",
+  "question": "what is the home address of the hostel warden?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "I’m sorry, but none of the available VNIT documents provide the personal home address of any hostel warden. You may need to contact the hostel office directly (e.g., via hostelmanager@vnit.ac.in or the VNIT main switchboard) for that information.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "sources": [
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3295,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 0
+  },
+  "seconds": 11.5,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 7 sources.",
+   "The first search looked weak (best match scored only 0.0); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 1 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "unanswerable_old_tuition",
+  "question": "What was the B.Tech tuition fee at VNIT in 1990?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "The provided documents do not contain the B.Tech tuition fee for the year 1990.\n\n*You may consult the VNIT archives or contact the Institute’s Academic & Exam Section (www.vnit.ac.in/section/academics/fees/) for historical fee information.*\n\n**Who can help:** Assistant Registrar, Accounts Section — ar_accounts@vnit.ac.in, 0712-2801366",
+  "sources": [
+   "https://vnit.ac.in/administrative-officers"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 1,
+   "supported": 1,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 3,
+   "tokens": 9677,
+   "waited_for_quota_s": 11.3,
+   "tool_calls": 2,
+   "passages_seen": 7,
+   "passages_cited": 0
+  },
+  "seconds": 25.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 3.1).",
+   "Searched for “1990 B.Tech tuition fee VNIT”: 5 Year Fee Estimate for Bachelor of Architecture; 4 Year Fee Estimate for Bachelor of Technology",
+   "Looked up documents titled like “1990 tuition fee B.Tech VNIT”: 4 Year Fee Estimate for Bachelor of Technology; Notice No. 3266 dated 17 November 2025 Regarding Hostel Fee payment information for Summer 2025 for all UG – M.Sc. students for 2025-26; SOP for Semester Fee Payment Winter 2026",
+   "Wrote the answer after 2 round(s) of tool use.",
+   "Checked 1 figure(s) against the sources: all found.",
+   "I couldn't find this in VNIT's documents, so I've added who to contact."
+  ]
+ },
+ {
+  "name": "conv_hostel_girls",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session? | and for girls?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs 32,650** is the hostel fee for first‑year B.Tech girls for the Winter 2026 session[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 2,
+   "supported": 2,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4403,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 8,
+   "passages_cited": 1
+  },
+  "seconds": 55.5,
+  "trace": [
+   "Read the follow-up with the earlier questions as: “What is the hostel fee for first year B.Tech girls for the Winter 2026 session?”",
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “girls”, “session”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “HOSTEL FEES FOR SECOND YEAR GIRLS ADMITTED IN YEAR 2025-26”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 2 figure(s) against the sources: all found."
+  ],
+  "understood_as": "What is the hostel fee for first year B.Tech girls for the Winter 2026 session?"
+ },
+ {
+  "name": "conv_mtech_tuition",
+  "question": "What is the yearly tuition fee for B.Tech students in the OPEN category? | what about M.Tech?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹70,000 per year** for M.Tech students in the OPEN (as well as OBC/EWS) category[1].\n\n- The 2‑year fee estimate lists the tuition fee for OPEN/OBC/EWS M.Tech students as **₹70,000 each year**[1].\n- The 2024‑25 ISR brochure states the tuition fee to be paid semester‑wise at **₹70,000 per year**[2].\n- The 2026‑27 information brochure also records the tuition fee as **₹70,000 per year**[3].",
+  "sources": [
+   "https://drive.google.com/file/d/1rSmfTQ0R2G5eeI7-WvnVG0Lsf8OdOnzy/view",
+   "https://vnit.ac.in/section/academics/wp-content/uploads/2024/06/Info-Brochure-updated-on-20th-Jun-2024.pdf",
+   "https://drive.google.com/file/d/1PtChosCFDxaQ8wF72pffYXAJP62aVOj4/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3780,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 8,
+   "passages_cited": 4
+  },
+  "seconds": 8.9,
+  "trace": [
+   "Read the follow-up with the earlier questions as: “What is the yearly tuition fee for M.Tech students in the OPEN category?”",
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked weak (the top passages do not mention “yearly”, “category”), so I also looked inside “2 Year Fee Estimate for M.Tech Electric Vehicle Technology”.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ],
+  "understood_as": "What is the yearly tuition fee for M.Tech students in the OPEN category?"
+ },
+ {
+  "name": "conv_hostel_mtech",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session? | what about mtech?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs. 40,080** for the Winter 2026 session.\n\n- The hostel fee for first‑year M.Tech students (boys & girls) admitted in 2026‑27 is Rs. 40,080 for the Winter 2026 session[1].\n- The same amount is listed as the applicable hostel fee for M.Tech & Ph.D. first‑year students in the admission information document[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1QoFVZPQae7mXoQNza05-K6aUreW79yYm/view",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3698,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 50.7,
+  "trace": [
+   "Read the follow-up with the earlier questions as: “What is the hostel fee for first year M.Tech boys for the Winter 2026 session?”",
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked relevant (score 9.2).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ],
+  "understood_as": "What is the hostel fee for first year M.Tech boys for the Winter 2026 session?"
+ },
+ {
+  "name": "conv_phd_part_time",
+  "question": "What is the tuition fee for full time PhD per semester? | and for part time?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹15,000 per semester** for a part‑time PhD [​P9].\n\n- The latest fee schedule (dated 8 May 2026) lists the tuition fee for “Ph.D. (Part‑Time) Per Sem.” as ₹15,000 [​P9].\n\nNote: This amount applies to the part‑time PhD programme for Indian‑national students; fees for international students differ.",
+  "sources": [
+   "https://drive.google.com/file/d/1-n7687vfaWhZ8Fz4FhCnBc40fWyQM7k1/view",
+   "https://drive.google.com/file/d/1TyjlnxPw8hPsSL59hr23NPKDhRNQ1H5J/view",
+   "https://drive.google.com/file/d/1gaQCSqxvo0SltUHNso7ELDSZGlHmo2WT/view",
+   "https://drive.google.com/file/d/1Xed4BvuZF7Ui0WhXljF5JLeSqMpO89to/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3780,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 0
+  },
+  "seconds": 52.0,
+  "trace": [
+   "Read the follow-up with the earlier questions as: “What is the tuition fee for part time PhD per semester?”",
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 5.5). I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ],
+  "understood_as": "What is the tuition fee for part time PhD per semester?"
+ },
+ {
+  "name": "conv_placement_cse",
+  "question": "What was the average package for B.Tech in 2024-25? | and for cse specifically?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Average package for B.Tech (2024‑25): ₹10.70 LPA; for CSE (2024‑25): ₹17.30 LPA**[1]\n\n- Overall B.Tech average CTC = 10.70 LPA (Placement & Internship Report 2024‑25)[1].\n- CSE branch average CTC = 17.30 LPA (same report, branch‑wise data)[1].\n\nNote: Figures are expressed as Lakhs per annum (CTC) for the 2024‑25 placement season.",
+  "sources": [
+   "https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 8,
+   "supported": 8,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3772,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 1
+  },
+  "seconds": 18.8,
+  "trace": [
+   "Read the follow-up with the earlier questions as: “What was the average package for B.Tech in 2024-25 and for CSE specifically?”",
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Split the question into 2 parts and searched for each and for the whole question: 7 passages from 4 sources.",
+   "The first search looked relevant (score 3.3).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 8 figure(s) against the sources: all found."
+  ],
+  "understood_as": "What was the average package for B.Tech in 2024-25 and for CSE specifically?"
+ },
+ {
+  "name": "conv_holiday",
+  "question": "When is the Holi holiday in 2026? | and dussehra?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Dussehra 2026 falls on 20 October 2026 (Tuesday).**\n\n- The official “List of Holiday’s during the year 2026” records Dussehra on 20‑Oct‑2026, Tuesday [1].\n- The same list also mentions the preceding Saptami (18 Oct) and Ashtami (19 Oct), confirming the main festival day as the 20th [1].\n\n**Note:** The dates for Saptami (18 Oct) and Ashtami (19 Oct) are also listed, but the principal Dussehra (Vijayadashami) is on 20 Oct 2026.",
+  "sources": [
+   "https://drive.google.com/file/d/1nuTp0HsQcVUArZlGG3rnoOWAsDDH4f-q/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 13,
+   "supported": 13,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3987,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 7.3,
+  "trace": [
+   "Read the follow-up with the earlier questions as: “When is Dussehra in 2026?”",
+   "A question about VNIT: looking it up.",
+   "Topic: other.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 5.7).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 13 figure(s) against the sources: all found."
+  ],
+  "understood_as": "When is Dussehra in 2026?"
+ },
+ {
+  "name": "clarify_hostel_vague",
+  "question": "What is the hostel fee?",
+  "pass": true,
+  "mode": "clarify",
+  "missing": [],
+  "forbidden": [],
+  "answer": "Which programme are you asking about?",
+  "sources": [],
+  "profile": {},
+  "choices": [
+   "btech",
+   "barch",
+   "msc",
+   "phd"
+  ],
+  "verification": null,
+  "usage": null,
+  "seconds": 47.5,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents.",
+   "Your question fits several different documents (B.Tech, B.Arch, M.Sc, Ph.D) with different answers, so I asked which one you mean."
+  ]
+ },
+ {
+  "name": "clarify_then_answer",
+  "question": "What is the hostel fee for first year?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹32,650** for first‑year B.Tech girls (UG, 2026‑27)[1]\n\n- This amount is listed under the payment category “Hostel Fee For First Year UG/PG/PhD → For Girls” in the Hostel Admission Procedure for UG (B.Tech/B.Arch) 1st‑year students admitted in 2026‑27.\n\nNote: The fee applies to B.Tech (and B.Arch) first‑year female under‑graduates for the academic year 2026‑27.",
+  "sources": [
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4022,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "seconds": 50.7,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Assuming B.Tech girls, from earlier in this chat.",
+   "Searched VNIT's pages and documents: 6 passages from 5 sources.",
+   "The first search looked relevant (score 7.2).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ],
+  "profile": {
+   "programme": "btech",
+   "gender": "girls"
+  }
+ },
+ {
+  "name": "no_clarify_when_specific",
+  "question": "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Rs 32,150** for first‑year B.Tech boys for the Winter 2026 session.\n\n- The hostel fee notice for first‑year boys admitted in 2026‑27 lists the Winter 2026 fee as **Rs 32150**[1].\n- The UG hostel admission procedure for 2026‑27 confirms the same amount for boys for Winter 2026[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1bl1TxUBkvBsfslaSsEDe4Ty3rem1b-jR/view",
+   "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 7,
+   "supported": 7,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3570,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 6.1,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 8.0).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 7 figure(s) against the sources: all found."
+  ],
+  "profile": {}
+ },
+ {
+  "name": "no_clarify_director",
+  "question": "Who is the Director of VNIT?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Prof. (Dr.) Prem Lal Patel** is the Director of VNIT, Nagpur[1][2].\n\n- He assumed charge on **21 May 2024**[2].\n- He is a Professor (HAG) of Hydraulics and Water Resources in the Department of Civil Engineering at SVNIT, Surat[1].\n\nNote: The information is current as of the latest update in May 2024.",
+  "sources": [
+   "https://vnit.ac.in/director-vnit-nagpur/",
+   "https://vnit.ac.in/basic_science/chemistry/wp-content/uploads/2024/08/News-Letter-Issue-17.pdf"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 2922,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 3
+  },
+  "seconds": 5.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: people.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 8.5).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ],
+  "profile": {}
+ },
+ {
+  "name": "clarify_profile_mtech",
+  "question": "hostel fee for first year?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹78,840** is the total hostel fee for a first‑year M.Tech boy (academic year 2026‑27).\n\n- The fee breakdown (Winter 2026 ₹40,080 + Summer 2027 ₹38,760) sums to **₹78,840**[1].\n- The document lists the overall first‑year total as **₹78,840** for single‑seated students[1].\n\nNote: This amount includes room rent, mess deposit, electricity, water, maintenance, and caution money as specified in the fee schedule.",
+  "sources": [
+   "https://drive.google.com/file/d/1QoFVZPQae7mXoQNza05-K6aUreW79yYm/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 8,
+   "supported": 8,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3596,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 50.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: hostel.",
+   "Assuming M.Tech boys, from earlier in this chat.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 9.1).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 8 figure(s) against the sources: all found."
+  ],
+  "profile": {
+   "programme": "mtech",
+   "gender": "boys"
+  }
+ },
+ {
+  "name": "clarify_tuition_vague",
+  "question": "what is the tuition fee?",
+  "pass": true,
+  "mode": "clarify",
+  "missing": [],
+  "forbidden": [],
+  "answer": "Which programme are you asking about?",
+  "sources": [],
+  "profile": {},
+  "choices": [
+   "btech",
+   "barch",
+   "mtech",
+   "msc"
+  ],
+  "verification": null,
+  "usage": null,
+  "seconds": 51.5,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents.",
+   "Your question fits several different documents (B.Tech, B.Arch, M.Tech, M.Sc) with different answers, so I asked which one you mean."
+  ]
+ },
+ {
+  "name": "no_clarify_placement",
+  "question": "highest package for btech in 2024-25?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**₹64.00 LPA** (highest CTC for B.Tech students in 2024‑25)[1]\n\n- Report: Placement and Internship Report 2024‑2025, VNIT Nagpur.\n\nNote: This figure represents the overall highest package offered to B.Tech graduates, without category‑wise breakdown.",
+  "sources": [
+   "https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3647,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 1
+  },
+  "seconds": 69.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked weak (best match scored only 1.2); no better-titled page had a relevant passage, so I continued with what it found.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ],
+  "profile": {}
+ },
+ {
+  "name": "dasa_usd_rate_summer_2027",
+  "question": "What USD exchange rate is used to convert DASA students' fees for Summer 2027?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The USD exchange rate used is Rs **96.21** per $1**[1].\n\n- The “Fees Payment Instruction Summer 2027” notice states that for DASA/MEA students the USD rate (as per RBI) is set to Rs 96.21 as on 14‑Oct‑2026 for the Summer‑27 semester[1].",
+  "sources": [
+   "https://drive.google.com/file/d/16XapmmYsMgZkaasBomGfxZBGKJHUfyVH/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3537,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 53.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked relevant (score 7.0).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "fee_remission_2627_extended",
+  "question": "What is the extended last date to apply for fee remission 2026-27?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The extended deadline to submit the fee‑remission application (Google form) is **14 Oct 2026**, and the deadline to submit the original documents in hard copy is **16 Oct 2026**[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1FlysFpxKSiZeM92D0MvnGRaaOZ7E_2ls/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3748,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
+  },
+  "seconds": 54.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 9.4). I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "shiksha_shakti_deadline",
+  "question": "What is the application deadline for the Shiksha Shakti Scholarship 2026-27?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Application deadline: ** **October 31, 2026**[1].\n\n- The scholarship notice states “Application Deadline: October 31, 2026” for the Shiksha Shakti Scholarship 2026‑27[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1nAVlH_tTYkU2KEDbgQNXZhwbEfsuHQ8H/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3226,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 51.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: scholarship.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 9.4).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "placement_offer_upgrade_2027",
+  "question": "Until what date can batch 2027 students upgrade a placement offer?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Batch 2027 students can upgrade a placement offer until 30 April 2027.**\n\n- The Placement Policy for Batch 2027 states that “Offer upgradation (including PSUs) can be done only till 30th April 2027”[1].\n- The same clause is reiterated in the policy’s Offer Upgradation section[1].",
+  "sources": [
+   "https://drive.google.com/file/d/11fe3wscvE3EDdbF_Db3np_WdWsdHbVDi/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3677,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 2
+  },
+  "seconds": 51.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 7.6). I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_research_seats_2027",
+  "question": "How many supernumerary seats per programme does the M.Tech (Research) programme of January 2027 have?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The M.Tech (Research) programme for the January 2027 intake has **5** supernumerary seats per programme.**\n\n- The Information Brochure states “Proposed supernumerary seats per programme: 5”[1].\n- The same brochure and the Advertisement note a total of 115 supernumerary seats, which equals 23 programmes × 5 seats each[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1u1jw2SnhrUl92iwFUNis_Ip4HIXXH_sR/view",
+   "https://drive.google.com/file/d/1FKvhgWHeIEoB4lEXLil7aZi6RFgxl0L5/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3359,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 52.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: admission.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked relevant (score 8.7).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
+ }
+]

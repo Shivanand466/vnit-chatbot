@@ -507,6 +507,13 @@ Hard set: 14 questions (placements, msc_tuition, barch_tuition, midsem_slot_a, s
 
 **Note (20 Nov 2026): the search changed under these rows.** On 20 Nov (Runbook 9, §30) table lead-ins were written once per chunk (8,162 → 6,897 chunks) and repeated passages are now dropped after reranking; the clarifying rules changed too (§31, §32). The rows above were measured before that, and three rows were never finished ("+ clarify", "full (hard set)", "full (all questions)"). For the report to compare like with like, the whole table has to be re-run on the new search: move the old `answer_check_<config>.json` files aside (otherwise `--resume` keeps them) and start `run_ablations.sh` again; see REPORT9.md, Good morning.
 
+**Frozen index (20 Nov 2026, Runbook 10 Step 6). Every ablation row from now on uses it.**
+- Git tag `final-index-2026-11-20`; copy in `~/vnit-chatbot-backups/final-index-2026-11-20/`.
+- 7,328 chunks; 31,682 table records; 105 test cases; table rows as corrective passages (§34–§35).
+- The rows above were measured on two earlier indexes and are set aside, not mixed in. Their files are in `data/processed/results-before-2026-11-20/`, together with a copy of `answer_check.json` (the 105/105 record) and the old runner log.
+- The re-run measures every configuration afresh. The final full run writes `answer_check_full.json` (`--config full`), not `answer_check.json`, so the headline number is a fresh run of all 105 on the frozen index.
+- The CRAG-gate switch also turns off the table rows of §35, which belong to the corrective step.
+
 ## 27. A 100-case answer check, written like students (2026-11-14)
 
 **Why.** 39 questions (plus 4 clarify cases) is a small sample, and most were written by the developer, in full sentences, about topics already known to be in the data. Real students type "hostel fees for 2nd year btech boys winter 2026?" and ask about things nobody tested.

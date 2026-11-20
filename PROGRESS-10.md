@@ -10,7 +10,7 @@ Read this first after a restart; carry on from the first step not marked DONE, F
 | 3 | DONE | kept 42 new documents; 4 held (cost B.Arch/M.Sc tuition), Hindi copy excluded (cost placements); 78/82, 13/18 (Kotak trade), 16/19, 70/70; 105 cases (§34) |
 | 4 | DONE | table rows as corrective passages + parser takes rows without a lead-in: all 3 in the evidence; evidence 80/82 + 11/11, chunk_ranks 78/82, tests 73/73 (§35) |
 | 5 | DONE | 16/16 pass (3 misses fixed, 5 new, 8 regression); saved results 105/105; ~69k tokens (§36) |
-| 6 | | |
+| 6 | DONE | tag `final-index-2026-11-20`, frozen copy, old results in data/processed/results-before-2026-11-20/, runner started 18:28 |
 | 7 | | |
 
 ## Decisions
@@ -30,3 +30,5 @@ Read this first after a restart; carry on from the first step not marked DONE, F
 - Step 4: option 2 was measured (retrieve_within on the placement report) before building and could not fix the companies case, so it was not built; option 3 was not needed.
 - Step 4: `facts.db` is rebuilt (31,682 records), the passage index is the Step 3 one (7,328 chunks). The Step 3 facts.db is kept in `../_trash/facts_step3.db`.
 - Step 4: rows capped at 450 characters after measuring that uncapped calendar rows added up to ~1,460 tokens to the first prompt.
+- Step 6: the old runner log was moved aside with the old results (not deleted), so the new log starts clean; the final full run already writes `answer_check_full.json`, so `run_ablations.sh` was not edited.
+- Step 6: about 170k gpt-oss-120b tokens were spent today (Runbook 9 ~99k + Step 5 ~69k), so the agent track will reach the daily limit quickly tonight and carry on tomorrow by itself (it retries every 30 minutes).
