@@ -577,6 +577,36 @@ The index is not rebuilt in this step; the no-key checks are identical to the ba
 
 **What would be needed to keep them.** A way to search the new pages only when the question is about something the old corpus does not cover (a person, a lab, a sub-page), for example a second, separate index consulted when the first search grades weak — not attempted tonight.
 
+## 30. Search misses: table lead-ins and repeated passages (Runbook 9, Step 3)
+
+**Starting point** (original index, `chunk_ranks`): 69/77 answer passages reach the AI. Not reaching it: `placements`, `msc_tuition`, `barch_tuition` (9), `higher_sem_classes_start`, `holiday_holi` (8), `phd_tuition_full_time` (10), `companies_btech_2425`, `gs_eligibility`.
+
+**Cause 1: repeated table lead-ins.** Converted documents write each table row as "<lead-in> | <row>", the lead-in being the text before the table. When that text is long it swamps the rows: in the 2026 holiday list every row starts with a 40-word "In terms of Office Memorandum F. No. 12/2/2023-JCA dated 03rd July 2025 …", so a 135-word chunk held two holidays. Over all documents, repeated lead-ins are **16% of the words** (189 documents, 7,858 rows).
+**Fix** (`chunk.share_lead_ins`): consecutive rows with the same lead-in are written as "<lead-in> | <row> | <row> …", the lead-in once per group, each group at most a chunk long, so every chunk still starts with its lead-in. 8,162 → 6,897 chunks. `build_facts.py` reads the raw files, so the table tool is unchanged.
+
+**Cause 2: the same passage twice.** A paragraph copied onto two pages ranks twice. For the summer-term fee, places 1–2 were one Intellipaat passage and 4–5 one brochure passage, and the notice stating "Rs. 3000/- per course" fell to 8th.
+**Fix** (`query._drop_repeats`): after reranking, a passage sharing over 90% of its words with one ranked above it is left out (the pool is 60, so the places are refilled).
+
+| | test_agentic | chunk_ranks top 7 | top 3 | top 12 | fact_ranks | evaluate |
+|---|---|---|---|---|---|---|
+| Before | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
+| Shared lead-ins | 54/54 | 71/77 | 66/77 | 74/77 | 14/18 | 16/19 |
+| + repeats dropped (kept) | 57/57 | **73/77** | 66/77 | 74/77 | 14/18 | 16/19 |
+
+Newly reaching the AI: `gs_eligibility` (not in top 12 → 3), `msc_tuition` (→ 7), `phd_tuition_full_time` (10 → 7), `barch_tuition` (9 → 5). Also better: `electrical_mtech` 2 → 1, `hostel_fee_mtech_first_year` 2 → 1, `hostel_fee_msc_first_year` 3 → 1, `mess_rate_per_day` 2 → 1. Every question that reached the AI before still does.
+
+**Trade, recorded.** In `fact_ranks` (top 3), "When are the end semester exams for first year B.Tech in Winter 2026?" moved from 3rd to 4th (15/18 → 14/18): the three passages above it are the first-year exam schedule itself, scored 8.40/8.18/8.10 against 8.00, and it still reaches the AI. Reverting would give up four questions to keep one top-3 place.
+
+**Tried and rejected.**
+- Grouping "<lead>: <row>" lines the same way (the 2024-25 placement report writes "Companies visited for placement - 2024-25:" before each company): brought the 121 companies to rank 4, but lost `cse_placement_percent_2425` (a baseline hit) and `gs_eligibility`: 72/77. Reverted.
+- A larger per-source cap in the candidate pool (6, 8): no change for Holi or the companies.
+
+**Still not reaching the AI, and why.**
+- `holiday_holi` (rank 9): once in front of the reranker the Holi chunk scores 4.54 against the top's 4.66, but it is 12th in the keyword+embedding order and other chunks of the same list fill that document's places in the pool. Needs either a finer split of that one list or a "named-thing" keyword boost; neither attempted (the first is a special case, the second would need its own measurement).
+- `companies_btech_2425`: the statistics chunk is 64th before reranking and scores 1.8 against 5.6 for the company-name chunks (see the rejected colon grouping).
+- `higher_sem_classes_start`: the answer is "Commencement of Next Session: 21st July 2026" in the *Summer* 2026 calendar; the question asks about Winter 2026 and second year onwards, words that passage does not contain. Not fixable by search alone.
+- `placements`: the 2025-26 figures are on the T&P page; the CRAG gate's corrective step brings it in the live path (unit test), which `chunk_ranks` does not run.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

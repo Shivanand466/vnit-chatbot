@@ -44,6 +44,50 @@ def split_into_paragraphs(body: str):
     return [p.strip() for p in parts if p.strip()]
 
 
+def share_lead_ins(paragraphs, chunk_words=CHUNK_WORDS):
+    """Write a table's lead-in once per group of rows instead of once per row.
+
+    Converted documents write every table row as "<lead-in> | <row>", where the
+    lead-in is the text before the table, so the reader of a single row knows
+    what it belongs to. When the lead-in is long, it swamps the rows: in the
+    2026 holiday list each row carries a 40-word "In terms of Office Memorandum
+    F. No. 12/2/2023-JCA ..." prefix, a 135-word chunk holds two holidays, and
+    the reranker cannot tell the chunk with Holi in it from the others (it
+    ranked 8th). Repeated lead-ins are 16% of the documents' words.
+
+    Consecutive rows with the same lead-in become paragraphs of
+    "<lead-in> | <row> | <row> ...", each at most chunk_words long, so every
+    chunk still starts with the lead-in and no row loses it.
+    """
+    out, lead, rows = [], None, []
+
+    def flush():
+        if not rows:
+            return
+        if len(rows) == 1:
+            out.append(f"{lead} | {rows[0]}")
+            return
+        group = []
+        for row in rows:
+            if group and len(f"{lead} | {' | '.join(group + [row])}".split()) > chunk_words:
+                out.append(f"{lead} | {' | '.join(group)}")
+                group = []
+            group.append(row)
+        out.append(f"{lead} | {' | '.join(group)}")
+
+    for para in paragraphs:
+        this_lead, sep, row = para.partition(" | ")
+        if sep and this_lead == lead:
+            rows.append(row)
+            continue
+        flush()
+        lead, rows = (this_lead, [row]) if sep else (None, [])
+        if not sep:
+            out.append(para)
+    flush()
+    return out
+
+
 def chunk_paragraphs(paragraphs, chunk_words=CHUNK_WORDS, overlap_words=OVERLAP_WORDS):
     """Pack paragraphs into ~chunk_words-sized chunks with overlap.
 
@@ -94,7 +138,7 @@ def main():
     all_chunks = []
     for path in sorted(RAW_DIR.glob("*.txt")):
         meta, body = parse_file(path)
-        paragraphs = split_into_paragraphs(body)
+        paragraphs = share_lead_ins(split_into_paragraphs(body))
         chunks = chunk_paragraphs(paragraphs)
         for i, chunk_text in enumerate(chunks):
             all_chunks.append({

@@ -11,6 +11,7 @@
 | 0 (baseline) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
 | 1 (files added, index not rebuilt) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
 | 2 (bigger index measured, not kept; backup restored) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
+| 3 (shared table lead-ins, repeated passages dropped) | 57/57 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
 
 ## Step 0. Baseline, tag and backups
 
@@ -161,3 +162,30 @@ What went wrong, in short:
 **Decision:** not kept (the rule was "more questions reach the AI, at most one baseline hit lost"; no version gained one). The backup index is restored, byte for byte; the checks after restoring are identical to the baseline. The 814 imported pages are kept in `data/raw_site_crawl/` (not read by `chunk.py`), and the importer now writes there. The respond.py change tried in this step was reverted. Details and the reasoning: EXPERIMENTS-LOG §29.
 
 **Done when:** decision and numbers in §29; the index on disk is the kept one (the backup). **Met.** Steps 3-7 run on the original index.
+
+## Step 3. The search misses
+
+Worked on the original index (Step 2 kept it). Two general causes found and fixed; details in EXPERIMENTS-LOG §30.
+
+1. **Table lead-ins repeated on every row** swamped the rows (16% of all document words; the holiday list held two holidays per chunk). `chunk.share_lead_ins` writes a lead-in once per group of rows. Rebuilt: 8,162 → 6,897 chunks.
+2. **The same passage ranked twice** (copied onto two pages), wasting the AI's places. `query._drop_repeats` leaves out a passage with over 90% of its words in common with one ranked above it.
+
+Results (`chunk_ranks`, answer passage within the top 7):
+
+| Case (runbook's list, plus msc) | Before | After |
+|---|---|---|
+| `gs_eligibility` | not in top 12 | **3** |
+| `phd_tuition_full_time` | 10 | **7** |
+| `msc_tuition` | not in top 12 | **7** |
+| `barch_tuition` | 9 | **5** |
+| `holiday_holi` | 8 | 9 (not fixed) |
+| `companies_btech_2425` | not in top 12 | not in top 12 (not fixed) |
+| `higher_sem_classes_start` | not in top 12 | not in top 12 (not fixed) |
+
+Why the three are not fixed: Holi's chunk scores almost top once reranked (4.54 vs 4.66) but other chunks of the same list fill its document's places before reranking; the companies' statistics chunk is 64th before reranking and the reranker prefers the company-name list; the higher-semester start date is in the *Summer* calendar ("Commencement of Next Session: 21st July 2026"), which shares no words with "winter 2026, 2nd year and above". Tried and rejected: grouping "lead: row" lines too (companies → rank 4, but lost a baseline hit; 72/77), and a larger per-source cap (no change).
+
+**Trade:** fact_ranks 15/18 → 14/18, because "end semester exams for first year B.Tech" moved from 3rd to 4th, behind three passages of the first-year exam schedule itself. It still reaches the AI. Recorded in PROGRESS-9 Decisions.
+
+Tests added (no key): `test_table_rows_share_one_lead_in_per_chunk`, `test_long_table_runs_split_but_every_part_keeps_its_lead_in`, `test_repeated_passages_take_one_place_only`. test_agentic 57/57.
+
+**Done when:** each miss fixed or explained (4 fixed, 3 explained, placements reaches the AI through the CRAG gate in the live path); no-key checks no lower than after Step 2 — chunk_ranks higher (73 vs 69), evaluate equal, fact_ranks one lower (recorded trade); §30 written. **Met, with the recorded trade.**

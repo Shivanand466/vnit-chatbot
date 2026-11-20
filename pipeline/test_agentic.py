@@ -692,6 +692,38 @@ def test_quota_fallback_is_not_an_agent_answer():
     assert not check_answers.complete([agent, fallback], 2)
 
 
+# ---------------------------------------------------------------------------
+# Search: table lead-ins and repeated passages
+# ---------------------------------------------------------------------------
+
+def test_table_rows_share_one_lead_in_per_chunk():
+    # The 2026 holiday list repeats a 40-word lead-in on every row; written once
+    # per group, a chunk holds many holidays instead of two.
+    import chunk
+    lead = "In terms of Office Memorandum F. No. 12/2/2023-JCA dated 03rd July 2025 the list is"
+    rows = [f"{lead} | AR CIRCULAR: {day} — Date: {d}" for day, d in
+            [("Republic Day", "26.01.2026"), ("Holi", "04.03.2026"), ("Ram Navami", "26.03.2026")]]
+    out = chunk.share_lead_ins(["Document: List of Holiday's during the year 2026"] + rows + ["Signed"])
+    assert out[0].startswith("Document:") and out[-1] == "Signed", out
+    assert len(out) == 3 and out[1].count(lead) == 1 and "Holi" in out[1] and "Ram Navami" in out[1], out
+
+
+def test_long_table_runs_split_but_every_part_keeps_its_lead_in():
+    import chunk
+    rows = [f"Fee sheet 2026 | row {i}: " + "word " * 30 for i in range(10)]
+    out = chunk.share_lead_ins(rows, chunk_words=100)
+    assert len(out) > 1 and all(p.startswith("Fee sheet 2026 | row") for p in out), out
+    assert all(len(p.split()) <= 100 for p in out), [len(p.split()) for p in out]
+    assert sum(p.count("row ") for p in out) == 10
+
+
+def test_repeated_passages_take_one_place_only():
+    same = "by VNIT Nagpur via email with copies to Intellipaat. Intellipaat will initiate the collection"
+    chunks = [{"text": same}, {"text": same + " ."}, {"text": "Summer term: Rs. 3000/- per course"}]
+    kept, scores = query._drop_repeats(chunks, [0, 1, 2], [3.1, 3.0, 1.1])
+    assert kept == [0, 2] and scores == [3.1, 1.1], (kept, scores)
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]

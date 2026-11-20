@@ -126,6 +126,30 @@ def _interleave(*orders):
     return merged
 
 
+REPEAT_OVERLAP = 0.9
+
+
+def _drop_repeats(chunks, ranked, scores):
+    """Leave out a passage that repeats one ranked above it.
+
+    The same paragraph often sits on two pages (a course notice copied to a
+    department page, a brochure linked twice), and both copies rank together,
+    so the LLM's seven places hold the same text twice. Measured: for the
+    summer-term fee, two places went to one Intellipaat passage and two to one
+    brochure passage, and the notice stating "Rs. 3000/- per course" ranked 8th.
+    "Repeats" means over 90% of the words in common.
+    """
+    kept, kept_scores, seen = [], [], []
+    for idx, score in zip(ranked, scores):
+        words = set(chunks[idx]["text"].lower().split())
+        if any(len(words & other) / max(1, len(words | other)) > REPEAT_OVERLAP for other in seen):
+            continue
+        seen.append(words)
+        kept.append(idx)
+        kept_scores.append(score)
+    return kept, kept_scores
+
+
 def _candidates(question, chunks, fused_order):
     """The RERANK_POOL candidates to rerank, skipping chunks whose degree
     programme or academic year contradicts the question's (see
@@ -186,7 +210,7 @@ def retrieve(question: str, k: int = 3):
                     data["tfidf_vectorizer"].transform([variant]), data["tfidf_matrix"])[0]
                 orders.append(list(_fuse(variant_sims, keyword)))
             pool = _candidates(question, chunks, _interleave(*orders))
-            ranked, rerank = _rerank(question, chunks, pool)
+            ranked, rerank = _drop_repeats(chunks, *_rerank(question, chunks, pool))
             ranked, rerank = ranked[:k], rerank[:k]
         else:
             ranked = sims.argsort()[::-1][:k]
