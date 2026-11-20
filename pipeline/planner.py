@@ -213,13 +213,16 @@ class _LLM:
         self.tokens = 0
         self.waited = 0.0
 
-    def chat(self, messages, tools_on=True):
+    def chat(self, messages, tools_on=True, schemas=None, extra=None):
+        """One reply. `schemas` and `extra` (more payload fields) are for agent v2;
+        left out, the request is exactly v1's."""
         import requests
 
         payload = {"model": self.model, "messages": messages, "max_tokens": MAX_TOKENS,
                    "temperature": 0}
+        payload.update(extra or {})
         if tools_on:
-            payload["tools"] = tools.active_schemas()
+            payload["tools"] = schemas if schemas is not None else tools.active_schemas()
             payload["tool_choice"] = "auto"
         attempts = 0
         while True:
@@ -345,13 +348,15 @@ def _tool_calls_of(message):
 
 
 def run(question: str, report: dict, api_key: str = None, base_url: str = None,
-        model: str = None, extra=None, search_grade: dict = None) -> dict:
+        model: str = None, extra=None, search_grade: dict = None, conversation: str = "") -> dict:
     """Answer `question` agentically, starting from the first search `report` (agent.answer).
 
     `extra` are passages the corrective gate (respond.py, grader.py) added
     because the first search looked weak, as (result, text) pairs; they are
     shown after the first search's. `search_grade` is the grader's verdict,
-    told to the model in one line.
+    told to the model in one line. `conversation` (v2, memory.prompt_block) is
+    the trimmed earlier turns, shown as context before the question; it is not
+    evidence, so the verifier never sees it.
 
     Returns answer, sources, mode, trace, verification and usage. Raises
     AgentUnavailable when the LLM cannot be used at all.
@@ -398,7 +403,7 @@ def run(question: str, report: dict, api_key: str = None, base_url: str = None,
                if search_grade else "")
     messages = [
         {"role": "system", "content": _system_prompt()},
-        {"role": "user", "content": f"Student's question: {question}\n\nFirst search results:\n\n"
+        {"role": "user", "content": f"{conversation}Student's question: {question}\n\nFirst search results:\n\n"
                                     + ("\n\n".join(first_block) or "(nothing found)")
                                     + f"\n\n{titles}{quality}"},
     ]
