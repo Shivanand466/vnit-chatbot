@@ -29,6 +29,10 @@ CONFIGS = [
     ("+ CRAG gate", "answer_check_crag.json", "CLARIFY=off LOOKUP_TABLE=off"),
     ("+ clarify", "answer_check_clarify.json", "LOOKUP_TABLE=off"),
     ("full", "answer_check_full_hard.json", "none"),
+    # Agent v2 (Runbook 11): its hard questions, taken from its full 105-case
+    # run (`check_answers.py --config agent_v2`). On the agent-v2 branch the
+    # rows above are v1, which is AGENT_V2=off there.
+    ("agent v2", "answer_check_agent_v2.json", "AGENT_V2=on"),
 ]
 
 

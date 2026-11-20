@@ -2,7 +2,66 @@
 
 ## Good morning
 
-(Written at the end, in Step 10.)
+**In short: version 2 is built, tested and committed on its own branch, and runs next to version 1.** It streams its answers, shows its steps live, remembers the conversation, plans, uses more tools, does more kinds of task, answers in Hindi and Marathi, and has the usual chat buttons. Version 1 and the ablations were not touched. Nothing is merged or pushed.
+
+**What v2 can do that v1 couldn't** (a list to read out in a demo):
+1. It **writes the answer word by word**, and shows what it is doing while it works: "Searching VNIT's documents…", "Plan: 1. … 2. …", "Opening: Fee notice S-27…". You can press **Stop**.
+2. It **remembers the conversation**: the last 6 questions and answers, so "how do I pay it?" and "which of those is cheaper?" work.
+3. It **plans and keeps going**: a multi-part question gets a short plan, up to 6 rounds of lookups (3 at a time), and it stops when every part is found.
+4. **More tools**: the newest notices, a **live** vnit.ac.in page, today's date, and the right office to contact.
+5. **More kinds of task**: **compare** (a table), **summarise** a notice, **explain** a procedure step by step, **draft** an email to an office (with its verified address), and short **general** answers ("what is CGPA?"), always labelled as not from VNIT's documents.
+6. **Hindi, Marathi and Hinglish**, with the figures exactly as in the documents.
+7. **A chat page like ChatGPT's**: Copy, Regenerate, Edit, suggested next questions, New chat, tables, dark mode, phones. The website's floating assistant got the same.
+8. Still the same promise: **VNIT facts only from VNIT's documents, with sources, every figure checked.** The must-decline questions (Wi-Fi password, JoSAA ranks, GATE cut-offs, a warden's address, old fees) are still declined; they can never be taken for "general" questions (tested).
+
+**Steps:** 0-10 all **DONE**. Two things are only partly measured, because of the free allowance (below).
+
+**Live results on the dev model** (`qwen/qwen3.8-27b`; the ablations had the gpt-oss allowance, so v2 was **not** tried on the final model tonight):
+- 13 trial questions through the agent: **11 right, 1 half right, 1 poor.** Multi-part fees and hostel: right. Placements 2025-26: it called the season "ongoing" instead of giving 678 (half right). "Is the Summer 2027 deadline over?": it found no date and still said "not over" (poor). Compare, summarise, explain, draft, lookup: right. Hindi, Marathi (it opened the live Director page by itself) and Hinglish: right.
+- The agentic test set (19 cases): **2 of 2 asked so far passed**, then the dev model's daily allowance ran out. A loop keeps resuming it until 07:30 (see "Final numbers" at the end of this section).
+- **Cost:** on the trials, v2 used about **12,000 tokens and 2 minutes** a question, against v1's 4,500 tokens and 24 s. That is ~2.6× on hard questions; a simple question costs the same in both. The like-for-like comparison (15 regression questions through both on the same model) is queued; if v2 is above 2× there, set `AGENT_V2_BUDGET=10000`.
+
+**Automated checks (no key):** 112/112 tests (v1's 73 + 39 new), and v1's 73 pass unchanged with `AGENT_V2=off`. Search measurements are unchanged: 78/82, 13/18, 16/19, 80/82 + 11/11.
+
+**The 6-click demo:**
+1. Double-click `vnit-chatbot-v2\start_chatbot_v2.bat` (opens `http://127.0.0.1:8001/`).
+2. Ask *"What is the yearly tuition fee for B.Tech and for B.Arch in the OPEN category, and what is the hostel fee for first year B.Tech girls for Winter 2026?"* and watch the plan and lookups stream, then the answer.
+3. Ask anything else, and click **■ Stop** while the steps are showing.
+4. Ask *"Compare the yearly tuition fees for B.Tech and B.Arch"*: a table.
+5. Ask *"Write an email to the hostel office asking for a fee extension"*: a draft with AR_HOSTEL@vnit.ac.in, marked "Draft — check before sending."
+6. Ask *"बी.टेक लड़कियों की पहले वर्ष की हॉस्टल फीस कितनी है? विंटर 2026"*: the same fee, answered in Hindi.
+
+**Before a demo, while the ablations still run:** v2 uses the same models as v1, so a demo spends the ablations' allowance. To demo v2 without it, open `start_chatbot_v2.bat` in Notepad and remove `REM ` from the `AGENT_MODEL=qwen/qwen3.8-27b` line. To rehearse without any AI at all, see `HOW-TO-RUN.md` §2a (`AGENT_FAKE_LLM=on`).
+
+**Untouched, as required:**
+- `vnit-chatbot/`: `git status` identical to the start (on `main` at `ddcb7cd`; only the ablations' result files are new there).
+- The ablations are still running. Log tail at 02:50: `one-shot: Answer check (oneshot): 77/88 passed (17 not asked yet)`.
+- `vnit-website`'s `master` is still at `fc7c5f8`; the new widget is on its branch `agent-v2`. That folder is now checked out on `agent-v2`, so v1 on port 8000 also shows the new widget (it falls back to `/ask` and works). `git -C vnit-website switch master` and `python build_site.py` give the old one back.
+
+**The merge plan (after the ablations finish):**
+1. Run all 105 cases on v2 with the real model (about 2 days of allowance):
+   ```
+   cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-chatbot-v2/pipeline
+   export GENAI_API_KEY=$(head -1 ~/groq-key.txt | tr -d '\r\n ')
+   python check_answers.py --config agent_v2 --pause 30 --resume     # run again each day until it says 105/105 asked
+   ```
+2. Add "agent v2" as a row of the ablation table. v2's `ablation_table.py` already lists it (`answer_check_agent_v2.json`); copy the ablations' result files next to it and print the table:
+   ```
+   cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-chatbot-v2
+   cp ../vnit-chatbot/data/processed/answer_check_{oneshot,no_tools,agent_30oct,crag,clarify,full_hard}.json data/processed/
+   cd pipeline && python ablation_table.py
+   ```
+3. Merge **only if** v2 is not lower than v1 on the 105 (v1: 105/105 saved) **and** every must-decline case is still refused:
+   ```
+   git -C vnit-chatbot merge agent-v2
+   git -C vnit-website switch master && git -C vnit-website merge agent-v2
+   cd vnit-website && python build_site.py && python tools/check_links.py && python tools/check_pages.py && python tools/check_faithful.py
+   ```
+4. Until then, the demo can show both: **v1 on 8000** (measured) and **v2 on 8001** (the Claude-like one).
+
+**One honest line for the slides:** "Same open model (gpt-oss-120b); what changed is the agent around it: memory, planning, more tools, streaming and the interface."
+
+**Final numbers:** written at the end of this run, under Step 10 below.
 
 ## Step 0. Worktree, branch, frozen index, dev model, baseline
 
@@ -206,9 +265,10 @@ Retrieval is unchanged, as intended: v2 changes what happens after the first sea
 - Then the dev model's rolling daily allowance ran out (about 160,000 tokens had gone on the Step 2-5 trials). A background loop resumes the agentic set every 20 minutes until it is complete, then the regression set through v2, then the same 15 through v1 (`AGENT_V2=off`) for a like-for-like cost table, and stops at 07:30. Its results are added below if they arrive before the end of this run; otherwise these are the commands (from `vnit-chatbot-v2/pipeline`, Git Bash; each resumes where it stopped):
   ```
   export AGENT_MODEL=qwen/qwen3.8-27b GENAI_MODEL=qwen/qwen3.8-27b
-  GENAI_API_KEY=$(cat ~/groq-key.txt) python check_answers.py --set agentic --config agent_v2_dev --pause 30 --resume
-  GENAI_API_KEY=$(cat ~/groq-key.txt) python check_answers.py --set regression --config agent_v2_dev_regression --pause 30 --resume
-  AGENT_V2=off GENAI_API_KEY=$(cat ~/groq-key.txt) python check_answers.py --set regression --config agent_v1_dev_regression --pause 30 --resume
+  export GENAI_API_KEY=$(head -1 ~/groq-key.txt | tr -d '\r\n ')
+  python check_answers.py --set agentic --config agent_v2_dev --pause 30 --resume
+  python check_answers.py --set regression --config agent_v2_dev_regression --pause 30 --resume
+  AGENT_V2=off python check_answers.py --set regression --config agent_v1_dev_regression --pause 30 --resume
   python v2_table.py
   ```
 
@@ -222,9 +282,22 @@ The dev model is not the final model: these runs show that the agent works, not 
 | v2, Step 2-5 trials (dev model) | 13 through the agent | 12,036 (median 13,329) | 121 | 1.8 | 3.2 |
 | v2, agentic set so far (dev model) | 2 | 16,008 | 160 | 3.0 | n/a |
 
-Not like for like (different models; the trials were mostly multi-part questions, against v1's mix of mostly single facts), which is why the regression spread is being asked through both on the same model. A simple question costs about the same in both (the Registrar question: 4,169 tokens and 7 s on v2). On the hard ones, v2 is about 2.6× v1. Decision on lowering `AGENT_V2_MAX_STEPS`/`AGENT_V2_BUDGET`: see the end of this section.
+Not like for like (different models; the trials were mostly multi-part questions, against v1's mix of mostly single facts), which is why the regression spread is being asked through both on the same model. A simple question costs about the same in both (the Registrar question: 4,169 tokens and 7 s on v2). On the hard ones, v2 is about 2.6× v1.
+
+**Decision on the budget.** The runbook's rule is "more than 2× v1's tokens **on the original cases**". The only figures above 2× tonight come from multi-part questions on another model, and on a single-fact question v2 costs the same as v1. So the defaults stay (`AGENT_V2_MAX_STEPS=6`, `AGENT_V2_BUDGET=14000`) until the regression spread has run through both v1 and v2 on the same model (`python v2_table.py`). If v2 is then above 2× v1, set `AGENT_V2_BUDGET=10000` (about two rounds instead of three). Recorded in PROGRESS-11 too.
 
 **EXPERIMENTS-LOG.md §37 "Agent v2"** added in the worktree.
 
 **Done when:** no-key checks pass; the agentic and regression runs recorded or their commands written; the cost table in REPORT11; §37 added. **Met**: the dev model's allowance limits how much of the live runs completes tonight, and the commands above finish them.
+
+## Step 10. Docs, the merge plan and the morning report
+
+- `README.md`: a "Version 2" section near the top (what it adds, how to start it, the honest note about the model); the test count 112/112.
+- `APPLICATION.md`: §5b "Agent v2" (memory, the loop compared with v1's in a table, the tools, task types, languages, streaming, the chat page and widget, the fake LLM); the new switches in §9 (`AGENT_V2`, `AGENT_V2_MAX_STEPS`, `AGENT_V2_BUDGET`, `LIVE_PAGES`, `AGENT_FAKE_LLM`); the test count.
+- `HOW-TO-RUN.md`: §2a "Start version 2" in the same plain style, with the 6-click demo, the allowance warning and how to rehearse without any AI; the test count; the new files in the folder table.
+- `start_chatbot_v2.bat` (port **8001**, opens `http://127.0.0.1:8001/`) and `start_website_v2.bat` (opens `/site/`), both with a commented line to switch to the dev model while the ablations run.
+- `ablation_table.py`: an "agent v2" row (`answer_check_agent_v2.json`), for the merge plan.
+- The merge plan and the morning report: at the top of this file.
+
+**Done when:** docs and launchers exist, PROGRESS-11 has every step marked, the last commit is on `agent-v2`. **Met.**
 

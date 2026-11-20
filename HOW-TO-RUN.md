@@ -46,6 +46,44 @@ Most answers take a few seconds. A question where the chatbot decides it needs t
 
 ---
 
+## 2a. Start version 2 (the one like Claude or ChatGPT)
+
+Version 2 lives in its own folder, `VNIT-Website-Chatbot\vnit-chatbot-v2` (git branch `agent-v2`), and runs **next to** version 1, on a different port.
+
+1. Open the folder `VNIT-Website-Chatbot\vnit-chatbot-v2`.
+2. **Double-click `start_chatbot_v2.bat`.** A black window opens (leave it open); after about 30 seconds the chat page opens at `http://127.0.0.1:8001/`.
+3. For the website demo with version 2 in the corner of every page, double-click **`start_website_v2.bat`** instead (opens `http://127.0.0.1:8001/site/`).
+
+Version 1 (`start_chatbot.bat` in `vnit-chatbot`, port 8000) can run at the same time, so you can show both.
+
+What is different on the page:
+- The answer **appears word by word**, and above it you see what the chatbot is doing ("Searching VNIT's documents…", "Opening: …", "Plan: 1. … 2. …"). When it finishes, those steps fold into "How I found this".
+- While it works, the round button is a **■ Stop** button.
+- Under each answer: **Copy**, **Regenerate** (ask again), 👍/👎, and 2-3 **suggested next questions** to click. Under your last question: **Edit**.
+- **New chat** (top right) starts again and forgets your details.
+- It remembers the conversation, so "how do I pay it?" or "which of those is cheaper?" work.
+- It can **compare** (a table), **summarise** a notice, **explain** steps, **draft** an email to an office, and answer in **Hindi, Marathi or Hinglish**.
+
+**A 6-click demo:**
+1. Start `start_chatbot_v2.bat`.
+2. Ask *"What is the yearly tuition fee for B.Tech and for B.Arch in the OPEN category, and what is the hostel fee for first year B.Tech girls for Winter 2026?"* and watch the steps stream: the plan, the lookups, then the answer.
+3. Ask another question and click **■ Stop** while the steps are showing.
+4. Ask *"Compare the yearly tuition fees for B.Tech and B.Arch"*: the answer is a table.
+5. Ask *"Write an email to the hostel office asking for a fee extension"*: a draft with the hostel office's real email address, marked "Draft — check before sending."
+6. Ask the first question in Hindi: *"बी.टेक लड़कियों की पहले वर्ष की हॉस्टल फीस कितनी है? विंटर 2026"*.
+
+**About the free allowance:** version 2 takes more steps for hard questions, so it uses about 2-3 times as much of the daily Groq allowance as version 1 on those, and they can take 1-3 minutes (the steps on screen show it working). Version 2 uses the same models as version 1, so **while the ablations are still running, a demo of either version spends their allowance**. To try version 2 without touching it, open `start_chatbot_v2.bat` in Notepad and remove `REM ` from the line `REM set "AGENT_MODEL=qwen/qwen3.8-27b" ...`: version 2 then uses a different free model with its own allowance.
+
+**To see the page without spending any allowance at all** (for example to rehearse), start it with a pretend AI that answers by quoting the documents:
+```
+cd vnit-chatbot-v2
+set AGENT_FAKE_LLM=on
+%USERPROFILE%\anaconda3\python.exe -m uvicorn api.main:app --port 8001
+```
+Its answers are labelled `agent v2 (fake-llm)` and are only for showing the interface.
+
+`AGENT_V2=off` makes version 2 behave exactly like version 1.
+
 ## 2b. Showing it on a phone (optional)
 
 Double-click **`start_public_link.bat`** instead. It starts the chatbot and prints a temporary web address ending in `.trycloudflare.com` that anyone can open, including on a phone. Keep both windows open; close them to take it offline. You get a new address each time, so start it shortly before the demo.
@@ -148,7 +186,7 @@ python check_answers.py
 
 **About step 2.** Use `discover-crawl`, not the older `discover`: `discover` only looks at the 81 pages of the first crawl and rewrites the document list from scratch. `discover-crawl` reads the pages the website project saved (no downloading of pages), finds the documents they link to about fees, calendars, hostels, scholarships, placements and rules, and adds only the new ones (their list goes in `data/documents/added_<date>.json`). `convert --only-new` then converts just those, newest first. It is safe to stop: finished documents are kept, and running it again carries on. On 20 Nov it was stopped after 4 hours with 62 of 116 still to do, so the same command picks those up. It needs the Google Drive key (`C:\Users\shiva\vnit-secrets.txt`). After it, rebuild (step 3) and run the checks (step 4). If `chunk_ranks.py` or `evidence_check.py` gets worse, move the new documents that cost the answers into `data/raw_new_docs_held/` and rebuild, as `EXPERIMENTS-LOG.md` §34 did. **Don't do this while the measurements (`run_ablations.sh`) are running**: they need the index to stay as it is.
 
-`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about ten minutes (one test asks all 100 test questions without the AI), and should print `73/73 passed`.
+`test_agentic.py` checks the agent's tools, the figure checker and the agent's decision loop. It needs no key and no internet, takes about ten minutes (one test asks all 100 test questions without the AI), and should print `112/112 passed`: version 1's 73 tests plus version 2's 39 (`test_agent_v2.py`, memory, the loop, the new tools, task types, languages and streaming, all with a pretend AI). `python test_agentic.py --v1-only` with `AGENT_V2=off` runs only version 1's 73.
 
 `check_answers.py` asks the 105 test cases through the agent. A full run needs about 450,000 tokens, more than two days of the free plan's daily allowance, so ask a few at a time with `--only <part of a name>` (for example `--only hostel_fee`). To measure the older, simpler pipeline on the same questions, add `--pipeline oneshot`. If the free plan's **daily** limit runs out part-way (the end of the output warns you), run the same command again the next day with `--resume` added: it only re-asks the questions that didn't get a real answer.
 
@@ -159,7 +197,11 @@ python check_answers.py
 | Folder / file | What it is |
 |---|---|
 | `start_chatbot.bat` | Double-click to start |
-| `frontend/index.html` | The chat page |
+| `frontend/index.html` | The chat page (version 2: streaming, Stop, Copy, Regenerate, suggestions) |
+| `start_chatbot_v2.bat`, `start_website_v2.bat` | Start version 2 on port 8001 |
+| `pipeline/agent_loop.py`, `memory.py`, `language.py` | Version 2's agent loop, conversation memory, and Hindi/Marathi/Hinglish |
+| `pipeline/fake_llm.py` | A pretend AI for showing the page without the free allowance (`AGENT_FAKE_LLM=on`) |
+| `tools/cdp_shot.py`, `tools/shot.sh` | Screenshots of the chat page (development only) |
 | `api/main.py` | The small server that answers questions |
 | `pipeline/` | Everything that collects the website, reads documents and finds answers |
 | `data/raw/` | The collected text: web pages and `doc_*.txt` documents (this is what is searched) |

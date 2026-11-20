@@ -31,7 +31,7 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 | End-to-end answer check (`check_answers.py`, 105 cases since 20 Nov, EXPERIMENTS-LOG §27, §34) | **105/105** saved results through the agent (20 Nov evening; 97/100 after EXPERIMENTS-LOG §30-§33, 91/100 before). The last three failures (Holi, the 2024-25 company count, Ph.D. part-time tuition) pass since the corrective step adds table rows (§35, §36). A fresh full run of all 105 on the frozen index is being measured by `run_ablations.sh` (`answer_check_full.json`). Earlier, on the original 39 cases: 35/39 in the full run of 2026-10-30 |
 | LLM | Groq free tier: `openai/gpt-oss-120b` for the agent, `openai/gpt-oss-20b` for the one-shot fallback and follow-up rewriting (separate daily allowances, §5a) |
 | Agentic layer (added 2026-10-30) | Router (kind of message, and topic: fees, hostel, calendar, …) → follow-up resolver → first search → **clarify or assume** (slots.py: asks which programme/gender when the relevant passages carry different figures for different groups, or fills it from the chat's profile) → **corrective gate** (grades the first search from the reranker's scores; if weak, looks inside the 2 best-titled pages it missed) → **planner** with five tools (`search_vnit`, `find_documents`, `read_document`, `lookup_table`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported → **hand-off**: a refusal or unconfirmed answer gets the right office's contact (`data/contacts.json`). Falls back to the one-shot pipeline if the agent cannot run. See §5a |
-| Agent tests (`test_agentic.py`, no key needed) | **73/73** |
+| Agent tests (`test_agentic.py`, no key needed) | **112/112** on `agent-v2` (v1's 73, which also pass with `AGENT_V2=off`, plus 39 for v2 in `test_agent_v2.py`) |
 | API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-30. Follow-up questions ("and for girls?"), a "How I found this" panel listing the agent's steps, a verification badge, numbered citations, and a thumbs up/down rating on every answer |
 | Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
@@ -181,6 +181,37 @@ Every step is returned as `trace` and shown under each answer as **"How I found 
 
 ---
 
+### 5b. Agent v2 (branch `agent-v2`, Runbook 11, REPORT11.md)
+
+Every v2 behaviour is behind `AGENT_V2` (on in this branch); `AGENT_V2=off` gives v1's exact behaviour on the same code, which the tests check (v1's 73 tests pass unchanged with it off).
+
+**Memory (`memory.py`).** The page sends `turns: [{q, a}]`. The server keeps the last 6, each answer cut to 600 characters without its citation numbers and footers, the block within ~1,500 tokens (oldest dropped first), and stores nothing. The follow-up rewrite (`followup.py`) sees the answers too, and item references ("the second one") count as follow-ups. The agent's first message carries a "Conversation so far" block labelled as context; the verifier never sees it, so a figure from an earlier answer must be found again.
+
+**The loop (`agent_loop.py`).** It reuses planner.py's client, pacer, `Evidence`, final prompt, citations and verifier step, and differs in the loop only:
+
+| | v1 (`planner.run`) | v2 (`agent_loop.run`) |
+|---|---|---|
+| Rounds of tools | 2 | up to `AGENT_V2_MAX_STEPS` (6) |
+| Calls per round | 2, one after another | up to 3, run in parallel |
+| Plan | none | 1-4 parts written first, shown in the trace, tracked (by the model's "Done: 1, 3" or by code) |
+| Stops when | answered, or 2 rounds | answered; every plan part done; the next round would pass `AGENT_V2_BUDGET` (14,000 tokens); two rounds with nothing new |
+| After each round | nothing | one line written by code: what the round found and what to try next, steps and tokens left |
+| Long conversations | stop searching | compact: keep cited and newest passages, list the titles set aside |
+| Repeated identical call | run again | skipped, with a note |
+| Answer | not streamed | streamed (`emit`), `[P3]` → `[1]` on the fly; Stop (`cancel`) at the next step or token |
+
+**Tools (`tools.py`, offered only to v2).** `latest_notices(category, n)` (inventory + status, converted and kept, newest first); `fetch_vnit_page(url)` (only `vnit.ac.in` and sub-sites, compared as a whole host; robots.txt, 1 request a second, 10 s, 2,500 characters, 24-hour cache in `data/cache/pages/`, the crawled copy when offline; `LIVE_PAGES=off` removes it); `today()` (IST, as a passage); `contact_office(topic)` (`data/contacts.json`). All results become `[P#]` passages the verifier checks.
+
+**Task types (`router.task`).** `lookup`, `compare` (a markdown table, one row per item, every cell cited), `summarise` (find the document, read it in order, 5-8 cited bullets), `explain` (numbered steps from passages, then the office), `draft` (written freely with placeholders; every VNIT fact cited; the office email from `contact_office`; "Draft — check before sending." added by code), `general` (only a short concept question with nothing VNIT-specific or time-sensitive in it: one LLM call, no search, labelled "General answer, not from VNIT's documents", verified against no passages so any figure is flagged), `chat` (fixed replies; "what can you do?" lists v2's abilities). The 10 must-decline cases are never `general` (tested).
+
+**Languages (`language.py`).** Devanagari → Hindi or Marathi (common words of each), Latin-script Hindi → Hinglish (kitni, kya, hai…). The first search runs on English keywords made in code (a small glossary plus anything already in Latin letters or digits); the agent is told to search in English and answer in the student's language with figures exactly as in the sources; Devanagari digits are turned into 0-9 before verifying.
+
+**Streaming (`api/main.py`).** `POST /ask/stream`, same body and limits as `/ask`, returns Server-Sent Events: `step`, `token`, `replace`, `done` (exactly `/ask`'s JSON, tested), `error`. The answer runs in a worker thread; a `: ping` comment every 10 s of silence; a disconnect sets the cancel flag. `done` carries `suggestions` (2-3, in code, from cases known to be answered right), `task` and `language`.
+
+**Chat page (`frontend/index.html`) and widget (`vnit-website`, branch `agent-v2`).** Stream reader with live steps, Stop, Copy, Regenerate, Edit (last question), suggestion chips, New chat, empty state, tables; `/ask` as the fallback; state in memory only (optional per-tab `sessionStorage`, off by default).
+
+**Fake LLM (`fake_llm.py`).** `AGENT_FAKE_LLM=on` makes a pretend model answer from the passages, for showing and screenshotting the page without spending allowance; its answers say "agent v2 (fake-llm)".
+
 ## 6. Measured quality
 
 Run on 2026-10-03 with 81 pages + 406 documents (8,162 chunks). Full answers: `data/processed/answer_check.json`.
@@ -254,3 +285,8 @@ Earlier rounds: adding titles to chunks 11 → 12/18; sending 5 passages instead
 | `CRAG_GATE` | `on` | `off` disables the corrective retrieval gate (§5a step B) |
 | `AGENT_MODEL` | `openai/gpt-oss-120b` | The agent's model. Kept different from `GENAI_MODEL` on purpose: Groq's free daily allowance (~200,000 tokens) is per model, so when the agent's runs out, the one-shot fallback still has its own |
 | `GENAI_TOKENS_PER_MINUTE` | `8000` | The provider's per-minute token allowance, used by the agent's pacer until the first response's headers report the real figure |
+| `AGENT_V2` | `on` (branch `agent-v2`) | `off` gives v1's exact behaviour: `planner.run`, questions-only history, no task types, languages, suggestions or new tools (§5b) |
+| `AGENT_V2_MAX_STEPS` | `6` | Most rounds of tools v2 may take for one question |
+| `AGENT_V2_BUDGET` | `14000` | Tokens one question's tool rounds may spend (the final answer and a revision come after it) |
+| `LIVE_PAGES` | `on` | `off` removes the `fetch_vnit_page` tool (no live vnit.ac.in pages) |
+| `AGENT_FAKE_LLM` | `off` | `on` answers with a pretend model (`fake_llm.py`) for demos and screenshots without Groq |

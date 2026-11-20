@@ -10,6 +10,25 @@ Final-year project (FYP). Built with free and open-source tools only.
 
 ---
 
+## Version 2: the agent like Claude or ChatGPT (branch `agent-v2`)
+
+This folder, `vnit-chatbot-v2`, is **agent v2** (Runbook 11, `REPORT11.md`). It runs next to version 1: double-click `start_chatbot_v2.bat` (port **8001**), or `start_website_v2.bat` for the website demo. Version 1 stays in `vnit-chatbot` (port 8000) and is what the measurements of `EXPERIMENTS-LOG.md` §26 describe.
+
+What v2 adds, with the same rule as v1 (VNIT facts **only** from VNIT's documents, with sources, every figure checked):
+
+- **Streams its answer** word by word, and shows what it is doing while it works ("Searching VNIT documents…", "Opening: Fee notice S-27…"), with a **Stop** button.
+- **Remembers the conversation**: the last 6 questions *and* answers, so "how do I pay it?" or "which of those is cheaper?" work. Earlier answers are context only: a figure repeated from one must be found and cited again.
+- **Plans and keeps going**: it writes a short plan for multi-part questions, takes up to 6 rounds of tools (3 at a time), and stops when every part is found, when two rounds find nothing new, or when the question's token budget (14,000) is spent. After each round, code (not another AI call) tells it what that round found.
+- **More tools**: the newest notices, a **live** vnit.ac.in page (only vnit.ac.in, cached for a day), today's date, and the right office to contact.
+- **More kinds of task**: **compare** (a table), **summarise** a document, **explain** a procedure step by step, **draft** an email or application (with the office's verified address and the label "Draft — check before sending."), and short **general** answers to concept questions ("what is CGPA?"), clearly labelled as not from VNIT's documents. VNIT-specific questions (fees, ranks, cut-offs, dates, people) are never treated as general: they are looked up, and declined if not found.
+- **Hindi, Marathi and Hinglish**: searched in English, answered in the student's language with the figures exactly as in the documents.
+- **A chat page like the familiar apps**: Copy, Regenerate, Edit the last question, suggested follow-ups, New chat, tables, dark mode, phones. The website's floating assistant (`vnit-website`, branch `agent-v2`) got the same.
+- `AGENT_V2=off` gives exactly version 1's behaviour on the same code, so v1 and v2 can be measured side by side.
+
+**Honest note for the report:** the model is still Groq's free open model (`openai/gpt-oss-120b`), not Claude or GPT. What became "like Claude or ChatGPT" is the agent around it: memory, planning, more tools, streaming and the interface.
+
+---
+
 ## What it does
 
 - A student types a question in a chat page, for example *"What is the B.Tech tuition fee?"* or *"When do first-year classes start in Winter 2026?"*
@@ -78,7 +97,7 @@ Measured from 30 October to 20 November 2026, with every answer coming from the 
 | `check_answers.py --pipeline oneshot` | The same 43 cases through the older one-search, one-call pipeline (finished 8 Nov) | **34/39 + 4/4** (38/43). It misses the placement totals, the summer-term fee and the B.Arch fee, which the agent finds by opening documents |
 | `check_answers.py`, all 105 cases | Asked through the agent, a day's free allowance at a time (14, 19 and 20 Nov) | **105/105** saved results (was 91/100, then 97/100). On the evening of 20 Nov the last three failures passed (Holi, the 121 companies, Ph.D. part-time tuition: the table rows now reach the AI, §35), and so did the 5 new cases and 8 regression cases (§36). Earlier that day: Three markings were widened on 20 Nov because the documents support more than one answer (Slot A mid-sem: 1 Oct for first-year PG, 4 Sep for higher semesters; minor-course deadline extended from 15 May to 30 June; "cannot change branch"). Fixed on 20 Nov: M.Sc and Ph.D. full-time tuition, mess joining (no needless question), the M.Tech hostel follow-up, the M.Tech profile case, the vague tuition question. Then still failing: Holi, the 121 companies, Ph.D. part-time tuition, all three table rows the search did not bring to the AI (`EXPERIMENTS-LOG.md` §33) |
 | `ablation_table.py` | What each piece adds, on 14 hard questions, and a fresh full run of 105 | being measured on the frozen index since 20 Nov (`EXPERIMENTS-LOG.md` §26) |
-| `test_agentic.py` | Intent, search grade, clarifying questions, follow-up rewrites, hand-off, table lookup, chunking, the tools, the verifier, the decision loop, document discovery and the privacy filter (no key needed) | **73/73** |
+| `test_agentic.py` | Intent, search grade, clarifying questions, follow-up rewrites, hand-off, table lookup, chunking, the tools, the verifier, the decision loop, document discovery and the privacy filter (no key needed); since v2 it also runs `test_agent_v2.py` (memory, loop, new tools, task types, languages, streaming) | **112/112** (v1's 73, unchanged with `AGENT_V2=off`, plus 39) |
 | `chunk_ranks.py` | Does the passage holding the answer reach the AI's first search? (the 82 answerable questions) | **78/82** (the earlier 77: 73/77, unchanged; 69/77 before 20 Nov) |
 | `evidence_check.py` | Is the answer in everything the agent starts from, the corrective step included? (82 questions, plus 11 conversation and profile cases) | **80/82 + 11/11** (73/77 + 10/11 before Runbook 10) |
 | `fact_ranks.py` | Is the passage containing the answer among the top 3 found? | 13/18 (15/18 before 20 Nov: an exam date moved from 3rd to 4th, and Kotak Kanya from 2nd to 4th, behind its own 2026-27 notice; both still reach the AI) |

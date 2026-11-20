@@ -17,7 +17,7 @@ Work happens only in this worktree (`vnit-chatbot-v2/`, branch `agent-v2`) and, 
 | 7 | DONE | new chat page: streaming with live steps, Stop, Copy, Regenerate, Edit, suggestions, New chat, empty state, tables, 360 px; old features checklist kept; escaping checked; screenshots in checks/ |
 | 8 | DONE | vnit-website branch agent-v2 (0ced9ea): widget streams with live steps, Stop, Copy, Regenerate, suggestions, tables, /ask fallback; site rebuilt, 0/0/0 in the three checks; master unchanged |
 | 9 | DONE | no-key 112/112, v1-only 73/73, 78/82, 13/18, 16/19, 80/82 + 11/11; agentic set (19) + regression (15) added; live: dev allowance ran out after 2/2 agentic, loop resumes until 07:30, commands written; cost table; §37 |
-| 10 | | |
+| 10 | DONE | README v2 section, APPLICATION §5b and switches, HOW-TO-RUN §2a, start_chatbot_v2.bat / start_website_v2.bat (8001), ablation_table row, Good morning with the merge plan |
 
 ## Decisions
 
@@ -36,3 +36,5 @@ Work happens only in this worktree (`vnit-chatbot-v2/`, branch `agent-v2`) and, 
 - Step 7: the chat page accepts `/?q=<question>` to ask on opening; it is what the screenshots use, and lets the website link straight to an answer.
 - Step 8: `vnit-website` itself is on branch `agent-v2` (as the runbook says), so v1's server on 8000 also serves the new widget from `dist/`; the widget falls back to `/ask` when `/ask/stream` is missing, so v1 keeps working with it. `git -C vnit-website switch master` and a rebuild give the old widget back.
 - Step 9: the dev model's rolling daily allowance (~200,000 tokens) ran out during the agentic set, after about 160,000 tokens of Steps 2-5 trials; a background loop resumes the agentic set, then the regression spread, every 20 minutes until 07:30.
+- Step 9: the budget stays at 14,000 for now: the only figures above 2x v1 are multi-part trials on another model, and the runbook's rule is about the original cases; if the queued regression spread (same model, v1 and v2) shows more than 2x, set `AGENT_V2_BUDGET=10000`.
+- Step 10: `ablation_table.py` reads a fixed list of result files, so the "agent v2" row was added to it in the worktree; the merge plan copies the ablations' files next to it.
