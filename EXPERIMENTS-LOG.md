@@ -677,6 +677,53 @@ Asked on 20 Nov 2026 through the agent (gpt-oss-120b), one case at a time (`chec
 
 The three left are all search misses on table rows that the AI never sees; the next idea worth measuring is a keyword boost for a rare word the question shares with a single table row ("Holi", "Companies Visited"), which the cross-encoder alone does not reward enough.
 
+## 34. New documents from the full crawl: kept, except five (Runbook 10, Step 3)
+
+**What changed.** The website project's full crawl linked 116 fee, calendar, hostel, scholarship, placement and rules documents never read. `ingest_documents.py discover-crawl` added them to the inventory (only adding; every existing entry is unchanged), and `convert --only-new` converted them, newest first, until the 4-hour timebox.
+
+Of 115 selected:
+- 48 were converted.
+- 1 was excluded as personal data: a refund list of recruitment candidates' names, caught by the new `PERSON_LABEL` density rule.
+- 1 was empty, and 4 failed (3 timeouts, 1 crash).
+- 62 are still to do.
+
+**Measured, no key** (82 answerable questions: the 77 of before plus 5 new ones written from the new documents):
+
+| Index | Chunks | `chunk_ranks` (top 7) | `fact_ranks` | `evaluate` | `evidence_check` | Tests |
+|---|---|---|---|---|---|---|
+| Before (Step 0) | 6,897 | 73/77 | 14/18 | 16/19 | 73/77 + 10/11 | 68/68 |
+| All 47 new documents | 7,369 | 75/82: **`barch_tuition` 5→9 and `msc_tuition` 7→10 lost**; the S-27 last-date question not in the top 12 | 13/18 | 16/19 | 76/82 | not run |
+| Without 4 that cost hits | 7,339 | 78/82 (old 73/77 kept) | 13/18 | 16/19 | 77/82: **`placements` lost**; it had reached the agent only through the corrective step | 67/69 (the two placement-gate tests fail) |
+| **Kept:** also without the Hindi copy | **7,328** | **78/82** (old 73/77 kept; the 5 new ones all rank 1) | **13/18** | **16/19** | **78/82 + 10/11** (every baseline hit kept) | **70/70** |
+
+**What took the places.**
+- **B.Arch and M.Sc tuition:** the *Information Brochure for International Admissions – 2026* (a hostel-cost line for B.Tech/B.Arch/M.Sc), the *MahaDBT Scholarship/Freeship* notice ("Tuition Fee & Exam Fee for Tribal Students"), and two older term fee notices (*S25 … 2024-25 UG/PG*, *Revised W25 … 2025-26 UG-PG*). None of them is a newer version of the tuition sheets the tests use, so they were moved to `data/raw_new_docs_held/`, not searched. Their `status.json` entries stay "ok", so `convert` won't redo them.
+- **Placements:**
+  - the corrective step looks inside the 2 best-titled pages the first search missed;
+  - the new *Placement Policy_Batch 2027 (Hindi)* took one of those places from the Training & Placement page that holds 678/170;
+  - its text is OCR noise (Hindi read as Latin letters; Devanagari share 0.0), so the Devanagari check after conversion missed it.
+
+  Fixed in general: `select()` now treats a title naming the Hindi version like one in Devanagari (it matches only this document). The file was moved to `_trash/r10-hindi/` and its entry marked `hindi`.
+
+**The one trade.**
+- `fact_ranks`' Kotak Kanya question moved from 2nd to 4th, behind the new *Kotak Kanya Scholarship 2026-27*. That is the newer version of the same notice, and both give ₹1.5 lakh a year, so the test's expected answer is not out of date.
+- It still reaches the AI. This is the one acceptable `fact_ranks` place in the ground rules.
+- `cse_placement_percent_2425` moved from 4th to 6th and still reaches the AI.
+
+**Tests that may be out of date:** none found. No kept document gives a different figure for something a test asks.
+
+**The 5 new cases** (`check_answers.py`; the test set is now 105):
+
+| Case | Document | Expected | Rank |
+|---|---|---|---|
+| `dasa_usd_rate_summer_2027` | Fees Payment Instruction Summer 2027 | ₹96.21 per USD | 1 |
+| `fee_remission_2627_extended` | Extension of last date for Fee Remission 2026-27 application | 14/10/2026 | 1 |
+| `shiksha_shakti_deadline` | Shiksha Shakti Scholarship 2026–27 (SDEF) | 31 October 2026 | 1 |
+| `placement_offer_upgrade_2027` | Placement Policy_Batch 2027 | 30 April 2027 | 1 |
+| `mtech_research_seats_2027` | M.Tech (Research) brochure, January 2027 | 5 supernumerary seats per programme (115) | 1 |
+
+A sixth question tried first, the S-27 last date for fee payment ("1-Nov-2026 to 23-Dec-2026"), was not in the top 12: the date line sits alone, below a long OCR-damaged fee table. It was replaced, not loosened.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

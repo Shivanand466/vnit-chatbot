@@ -3561,12 +3561,9 @@
   "seconds": 566
  },
  "drive:1CSyHpjltRvFyJm_A5lDvYg2QrJ2JqXT7": {
-  "result": "ok",
-  "words": 1258,
-  "file": "doc_1CSyHpjltRvFyJm_A5lDvYg2QrJ2JqXT7.txt",
+  "result": "hindi",
   "title": "Placement Policy_Batch 2027 (Hindi)",
-  "tier": 0,
-  "seconds": 283
+  "reason": "excluded after conversion (2026-11-20): Hindi version, OCR read it as Latin junk; file moved to _trash/r10-hindi/"
  },
  "drive:11fe3wscvE3EDdbF_Db3np_WdWsdHbVDi": {
   "result": "ok",

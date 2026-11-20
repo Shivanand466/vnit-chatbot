@@ -249,6 +249,25 @@ CHECKS = [
     ("mess_joining_first_year", "when can first year students join the hostel mess?",
      [r"report"], []),
 
+    # Added 2026-11-20 (Runbook 10) from documents first read that day.
+    # Information Brochure, Rules and Regulations for admission to M.Tech (Research) Program
+    # January 2027: "Proposed supernumerary seats per programme: 5", "Total Seats: 23 (programs) X 5 ... = 115"
+    ("mtech_research_seats_2027",
+     "How many supernumerary seats per programme does the M.Tech (Research) programme of January 2027 have?",
+     [r"\b(5|five)\b[^.]{0,40}seats|seats[^.]{0,30}\b(5|five)\b|\b115\b"], []),
+    # Fees Payment Instruction Summer 2027: "USD rate ... is set to Rs. 96.21 ... (for Summer-27)"
+    ("dasa_usd_rate_summer_2027", "What USD exchange rate is used to convert DASA students' fees for Summer 2027?",
+     [r"96\.21"], []),
+    # Extension of last date for Fee Remission 2026-27 application: "extended upto 14/10/2026"
+    ("fee_remission_2627_extended", "What is the extended last date to apply for fee remission 2026-27?",
+     [r"14[./-]10[./-]2026|14(th)?\s*Oct\w*|Oct\w*\s*14"], []),
+    # Shiksha Shakti Scholarship 2026–27 (SDEF): "Application Deadline: October 31, 2026"
+    ("shiksha_shakti_deadline", "What is the application deadline for the Shiksha Shakti Scholarship 2026-27?",
+     [r"31(st)?\s*Oct\w*|Oct\w*\s*31|31[./-]10"], []),
+    # Placement Policy_Batch 2027: "Offer upgradation (including PSUs) can be done only till 30th April 2027"
+    ("placement_offer_upgrade_2027", "Until what date can batch 2027 students upgrade a placement offer?",
+     [r"30(th)?\s*April,?\s*2027|April\s*30,?\s*2027|30[./-]0?4[./-]2027"], []),
+
     # Must decline. None of VNIT's pages or documents gives JoSAA closing
     # ranks or GATE cut-offs, the placement reports start in 2019-20, and a
     # warden's home address is not something to give out even if it were there.

@@ -96,6 +96,7 @@ def looks_like_personal_data(text: str) -> bool:
 PROCUREMENT = r"tender|quotation|corrigendum|\bbid\b|purchase|rate contract|gem ?bid|e-?procurement"
 SKIP_PAGES = r"/section/stores|faculty-recruitment-2025-shortlisted|/recruitmen\b|/recruitment-rules"
 DEVANAGARI = re.compile(r"[\u0900-\u097F]")
+HINDI_TITLE = re.compile(r"\bhindi\b", re.I)
 
 TIER0_PAGES = r"/section/academics/fees|academic-event-calendar|/section/academics/?$|/section/tnp|/section/hostel|/ciwg"
 TIER0_WORDS = (r"fee|rule ?book|calendar|holiday|scholarship|hostel|mess|placement|brochure|"
@@ -286,7 +287,10 @@ def select(inventory: dict):
             continue
         if re.search(BLANK_FORMS, title, re.I) and not re.search(r"fee", title, re.I):
             continue
-        if re.search(SKIP_PAGES, v["found_on"]) or DEVANAGARI.search(title):
+        # A title naming the Hindi version counts as Hindi too: OCR can read
+        # Devanagari as Latin junk, which the content check after conversion
+        # then misses (Placement Policy_Batch 2027 (Hindi), 2026-11-20).
+        if re.search(SKIP_PAGES, v["found_on"]) or DEVANAGARI.search(title) or HINDI_TITLE.search(title):
             continue
         year = (v.get("modifiedTime") or "0000")[:4]
         if re.search(TIER0_PAGES, v["found_on"]) or re.search(TIER0_WORDS, hay, re.I):

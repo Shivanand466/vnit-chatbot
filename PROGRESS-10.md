@@ -7,7 +7,7 @@ Read this first after a restart; carry on from the first step not marked DONE, F
 | 0 | DONE | tag `before-runbook-10`, backups, baseline 68/68, 73/77, 14/18, 16/19 |
 | 1 | DONE | `discover-crawl` added 116 documents (115 selected, tier 0); existing entries unchanged |
 | 2 | DONE | timeboxed at 4 h: 47 kept, 1 excluded (list of candidates), 1 empty, 4 failed, 62 still to do |
-| 3 | | |
+| 3 | DONE | kept 42 new documents; 4 held (cost B.Arch/M.Sc tuition), Hindi copy excluded (cost placements); 78/82, 13/18 (Kotak trade), 16/19, 70/70; 105 cases (§34) |
 | 4 | | |
 | 5 | | |
 | 6 | | |
@@ -21,4 +21,8 @@ Read this first after a restart; carry on from the first step not marked DONE, F
 - Step 1: `--only-new` reads every `data/documents/added_*.json`, not one dated file, so a later run on another day still finds them.
 - Step 2: no old failures would be retried (every old selected document is in status.json), but `--only-new` was used anyway.
 - Step 2: timebox hit with 62 of 115 not converted; the run moves on with the 47 kept, as the runbook says. The order was newest-first in tier 0, so the most recent fee/calendar notices are among those converted.
-- Step 2: a converted recruitment-candidates refund list passed the old privacy rules; added the PERSON_LABEL density rule (flags only that document of all 446) rather than a title rule, since its title says "candidates" only as "in respect of candidates".
+- Step 2: a converted recruitment-candidates refund list passed the old privacy rules; added the PERSON_LABEL density rule (flags only that document of all 454) rather than a title rule, since its title says "candidates" only as "in respect of candidates".
+- Step 3: the S-27 last-date question (first choice of the 5) didn't rank, so it was replaced by the M.Tech (Research) seats question instead of loosening anything.
+- Step 3: `evidence_check.py` (written early, for Step 4) was used here too, because `chunk_ranks` can't see the corrective step: it caught the placements loss that `chunk_ranks` would have missed.
+- Step 3: the held documents keep `status.json` "ok"; their files are in `data/raw_new_docs_held/`, so a re-run of convert won't redo them and moving them back is one rebuild.
+- Step 3: the one fact_ranks trade (Kotak Kanya 2 -> 4) is the newer version of the same notice with the same figure; kept.

@@ -91,9 +91,41 @@ Not reaching the LLM at baseline: `placements` and `higher_sem_classes_start` (n
 - **Privacy re-check** over every new `doc_*.txt`: `looks_like_personal_data` false and no `STUDENT_ROLL` match. This passed for all 48, but reading the largest one found it is a list of people.
   - "Notice – Refund of Caution Deposit and Partial Application Fee in respect of candidates applied for non-academic posts…" (12,861 words) is mostly an annex of recruitment candidates' names. It has no roll numbers, so no rule caught it.
   - Fixed generally: a new rule, `PERSON_LABEL`, flags text with at least 10 "Name of the candidate/student/applicant" labels and at least 1 per 100 words.
-  - Measured over all 446 documents in `data/raw`, it flags only this one. The densest of the older documents, a department brochure with its students' placements, has 0.85 per 100 words and is unchanged, because existing entries stay as they are.
+  - Measured over all 454 documents then in `data/raw`, it flags only this one. The densest of the older documents, a department brochure with its students' placements, has 0.85 per 100 words and is unchanged, because existing entries stay as they are.
   - The file was moved to `_trash/r10-personal-data/` and its new `status.json` entry is marked `personal_data`, with the reason.
   - New test: `test_a_list_of_candidates_names_is_personal_data`.
 - `status.json`: 456 entries before and 509 now. **Every existing entry is unchanged**, and every new key comes from `added_2026-11-20.json` (checked by a script against the backup).
 
 **Done when:** conversion timeboxed; counts and 10 titles here; privacy re-check passes (after the one exclusion). **Met.**
+
+## Step 3. Rebuild and measure: keep only what helps
+
+Full numbers and reasons: EXPERIMENTS-LOG §34. Per-question lists: `../_trash/r10_s3*_*.txt`.
+
+- **First rebuild, all 47 new documents** (7,369 chunks): `chunk_ranks` **lost 2 baseline hits**: `barch_tuition` went from 5 to 9 and `msc_tuition` from 7 to 10.
+  - Their places went to 4 new documents that are not newer versions of those fee sheets: International Admissions brochure 2026, MahaDBT freeship, S25 fee notice 2024-25, and Revised W25 fee notice 2025-26.
+  - These were moved to `data/raw_new_docs_held/`.
+- **Second rebuild** (7,339 chunks): `chunk_ranks` kept everything, but `evidence_check` (Step 4's script, no key) showed `placements` lost.
+  - It had reached the agent only through the corrective step. The new *Placement Policy_Batch 2027 (Hindi)* now took one of the corrective step's two places.
+  - Its text is OCR noise. Fixed in general: `select()` skips titles naming the Hindi version. The file was moved to `_trash/r10-hindi/` and marked `hindi` in `status.json`. Test: `test_a_hindi_version_is_not_selected`.
+- **Kept index** (third rebuild): **7,328 chunks** from 529 files: 81 web pages and 448 documents, 42 of them new tonight. `facts.db` holds 23,457 table records (was 23,088).
+
+| Check | Step 0 | Kept index |
+|---|---|---|
+| `test_agentic.py` | 68/68 | **70/70** |
+| `chunk_ranks.py` (top 7) | 73/77 | **78/82**: the old 73/77 unchanged, plus all 5 new cases at rank 1 |
+| `fact_ranks.py` | 14/18 | **13/18**: the Kotak Kanya question moved from 2nd to 4th, behind the new 2026-27 notice of the same scholarship (both give ₹1.5 lakh); it still reaches the AI. This is the one allowed trade. |
+| `evaluate.py` | 16/19 | **16/19** |
+| `evidence_check.py` (fact questions) | 73/77 | **78/82**, with every baseline hit kept; conversation and profile cases 10/11, also unchanged |
+
+- **Tests that may be out of date:** none.
+- **The 5 new cases** written from the documents' own text, now in `check_answers.py`; the set is 105 cases:
+  - `dasa_usd_rate_summer_2027` (₹96.21)
+  - `fee_remission_2627_extended` (14/10/2026)
+  - `shiksha_shakti_deadline` (31 Oct 2026)
+  - `placement_offer_upgrade_2027` (30 April 2027)
+  - `mtech_research_seats_2027` (5 per programme)
+
+  All 5 rank 1. A sixth, the S-27 fee-payment last date, wasn't in the top 12, so it was replaced rather than loosened.
+
+**Done when:** decision and numbers in §34, kept index on disk, 5 new cases written. **Met.**

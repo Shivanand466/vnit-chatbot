@@ -886,6 +886,15 @@ def test_a_list_of_candidates_names_is_personal_data():
     assert not ing.looks_like_personal_data(brochure)  # 10 names in ~1,600 words: below 1 per 100
 
 
+def test_a_hindi_version_is_not_selected():
+    import ingest_documents as ing
+    entry = {"kind": "drive", "id": "x", "url": "u", "mimeType": "application/pdf", "size": "1000",
+             "found_on": "https://vnit.ac.in/section/tnp/", "modifiedTime": "2026-08-19"}
+    inventory = {"drive:en": {**entry, "link_text": "Placement Policy_Batch 2027"},
+                 "drive:hi": {**entry, "link_text": "Placement Policy_Batch 2027 (Hindi)"}}
+    assert [k for _, k, _ in ing.select(inventory)] == ["drive:en"]
+
+
 def test_inventory_merge_keeps_every_existing_entry():
     import tempfile
     from pathlib import Path
