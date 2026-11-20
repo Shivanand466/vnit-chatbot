@@ -61,7 +61,7 @@
 
 **One honest line for the slides:** "Same open model (gpt-oss-120b); what changed is the agent around it: memory, planning, more tools, streaming and the interface."
 
-**Final numbers:** written at the end of this run, under Step 10 below.
+**Final numbers:** the dev-model loop keeps resuming until 07:30 (agentic set, then the regression spread through v2, then through v1). To see how far it got, in Git Bash: `cd ~/OneDrive/Desktop/LIBRARY/FYP/VNIT-Website-Chatbot/vnit-chatbot-v2/pipeline && python v2_table.py`. What it showed when this run ended is under "Late results" at the very end of this file.
 
 ## Step 0. Worktree, branch, frozen index, dev model, baseline
 
