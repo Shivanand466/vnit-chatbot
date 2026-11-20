@@ -8,7 +8,7 @@ Read this first after a restart; carry on from the first step not marked DONE or
 | 1 | DONE | 886 pages imported as data/raw/site_*.txt; checks unchanged |
 | 2 | DONE | bigger index measured, not better: backup index restored, pages kept in data/raw_site_crawl/ (§29) |
 | 3 | DONE | shared table lead-ins + repeated passages dropped: 69/77 -> 73/77 reach the AI (§30) |
-| 4 | | |
+| 4 | DONE | ask back only when the answers differ; vague fee question asks; 2/100 ask back, both expected (§31) |
 | 5 | | |
 | 6 | | |
 | 7 | | |
@@ -27,6 +27,8 @@ Read this first after a restart; carry on from the first step not marked DONE or
 - Step 2: the corrective-step change (look at 6 pages, keep the best 2) was reverted with the step; it was only measured together with the bigger index.
 - Step 3: kept a fix that moved one fact_ranks question from 3rd to 4th (still reaches the AI; its three betters are the same exam schedule) because it brought four other questions to the AI. Interpreted 'baseline hit' as 'reaches the LLM', the ground rules' wording.
 - Step 3: the runbook's 5 misses included two that already pass end to end; worked from chunk_ranks' actual list instead (7 cases).
+- Step 4: fee rule threshold is 3 programmes, not the runbook's 2 (at 2, summer-term and fee-remission questions would ask back).
+- Step 4: item 3 (profile into retrieval filters) needed no code: apply_profile already puts the profile in the searched text, which the filter reads; verified with a test.
 
 ## Baseline (no key)
 

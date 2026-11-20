@@ -27,7 +27,7 @@ import re
 
 from programme_terms import genders, programmes
 
-PROFILE_KEYS = ("programme", "gender", "category", "study_year")
+PROFILE_KEYS = ("programme", "gender", "category", "study_year", "mode_of_study")
 
 REQUIRED = {"hostel": ["programme", "gender"], "fees": ["programme", "category"],
             "calendar": ["programme"]}
@@ -40,6 +40,7 @@ LABELS = {
                  "st": "ST", "ews": "EWS", "pwd": "PwD"},
     "study_year": {"first": "First year", "second": "Second year", "third": "Third year",
                    "fourth": "Fourth year", "final": "Final year"},
+    "mode_of_study": {"full-time": "Full-time", "part-time": "Part-time"},
 }
 
 QUESTIONS = {
@@ -47,6 +48,7 @@ QUESTIONS = {
     "gender": "Is this for boys or girls?",
     "category": "Which admission category are you in?",
     "study_year": "Which year of study are you in?",
+    "mode_of_study": "Full-time or part-time?",
 }
 
 # Category names as the fee sheets write them. SC, ST and OPEN are matched in
@@ -71,6 +73,14 @@ _STUDY_YEAR = [
 ]
 
 
+# Ph.D. fees differ for full-time and part-time scholars.
+_MODES = [("full-time", r"\bfull[\s-]?time\b"), ("part-time", r"\bpart[\s-]?time\b")]
+
+
+def modes_of_study(text: str) -> set:
+    return {name for name, pattern in _MODES if re.search(pattern, text, re.I)}
+
+
 def categories(text: str) -> set:
     found = {name for name, pattern in _CATEGORIES if pattern.search(text)}
     if _OPEN_WORDS.search(text):
@@ -85,7 +95,7 @@ def study_years(text: str) -> set:
 
 
 _READERS = {"programme": programmes, "gender": genders, "category": categories,
-            "study_year": study_years}
+            "study_year": study_years, "mode_of_study": modes_of_study}
 
 
 def extract(text: str) -> dict:
@@ -127,15 +137,69 @@ def needs_clarification(question: str, intent: str, passages, profile=None):
     for slot in REQUIRED.get(intent, []):
         if slot in given or slot in profile or _READERS[slot](question):
             continue
-        documents = {}
+        documents, best = {}, {}
         for r in relevant:
             values = _READERS[slot](f"{r['title']} {r['text']}")
             if len(values) == 1:
-                documents.setdefault(next(iter(values)), set()).add(r["source_url"])
-        if len(documents) >= 2:
+                value = next(iter(values))
+                documents.setdefault(value, set()).add(r["source_url"])
+                if value not in best or r["rerank"] > best[value]["rerank"]:
+                    best[value] = r
+        if len(documents) >= 2 and answers_differ(best.values()):
+            return {"slot": slot, "question": QUESTIONS[slot],
+                    "choices": _choices(slot, question, documents)}
+        if slot == "programme" and intent == "fees" and _many_programmes_titled(question):
             return {"slot": slot, "question": QUESTIONS[slot],
                     "choices": _choices(slot, question, documents)}
     return None
+
+
+_FIGURE = re.compile(r"\d[\d,]*(?:\.\d+)?")
+
+
+def figures(text: str) -> set:
+    """The numbers in a passage (fees, dates, counts), commas removed."""
+    return {f.replace(",", "") for f in _FIGURE.findall(text)}
+
+
+def answers_differ(passages) -> bool:
+    """Do the groups' best passages carry different figures or dates?
+
+    Documents for boys and girls both being found is not enough to ask: "when
+    can first year students join the hostel mess?" found both, but both say
+    "from the date of their physical reporting", so asking changed nothing.
+    The hostel fee sheets, by contrast, carry different totals. When no
+    passage has any figure, there is nothing for the choice to change either.
+    """
+    sets = [figures(f"{r['title']} {r['text']}") for r in passages]
+    return any(sets) and any(s != sets[0] for s in sets[1:])
+
+
+# Fee documents for at least this many programmes among the best-titled ones
+# make a fee question that names no programme ambiguous. Measured over the 100
+# cases: "what is the tuition fee?" finds sheets for 5 programmes (title scores
+# above 1.2); real fee questions find at most 2, weakly (below 0.6), and at 2
+# the summer-term and fee-remission questions would be asked back.
+PROGRAMMES_FOR_FEES = 3
+
+
+def _many_programmes_titled(question: str) -> bool:
+    """Is a fee question that names no programme matched by several programmes' fee sheets?
+
+    "What is the tuition fee?" was answered without asking because the passages
+    the first search found happened to be one programme's sheet, so they
+    "agreed". The titles show the ambiguity the passages hide.
+    """
+    import query
+    import tools
+
+    catalogue = query.list_sources()
+    found = set()
+    for _score, i in tools._title_scores(question)[:TITLES_CONSULTED]:
+        values = programmes(catalogue[i]["title"])
+        if len(values) == 1:
+            found |= values
+    return len(found) >= PROGRAMMES_FOR_FEES
 
 
 # Rerank score from which a passage counts as being about the question; the

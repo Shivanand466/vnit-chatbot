@@ -607,6 +607,26 @@ Newly reaching the AI: `gs_eligibility` (not in top 12 → 3), `msc_tuition` (�
 - `higher_sem_classes_start`: the answer is "Commencement of Next Session: 21st July 2026" in the *Summer* 2026 calendar; the question asks about Winter 2026 and second year onwards, words that passage does not contain. Not fixable by search alone.
 - `placements`: the 2025-26 figures are on the T&P page; the CRAG gate's corrective step brings it in the live path (unit test), which `chunk_ranks` does not run.
 
+## 31. Ask back only when it changes the answer (Runbook 9, Step 4)
+
+**The three failures (§27).** "When can first year students join the hostel mess?" was asked "boys or girls?" although the answer is the same for both; "what is the tuition fee?" was answered without asking which programme; "hostel fee for first year?" with the profile M.Tech / boys gave a wrong total.
+
+**Changes in `slots.needs_clarification`:**
+1. **The answers must differ, not only the documents.** Finding documents for two groups is no longer enough: the best passage of each group must carry different figures or dates (`answers_differ`). Mess joining: both schedules say "from the date of their physical reporting" → no question. Hostel fees: the sheets carry different totals → asked.
+2. **A vague fee question looks at the titles too.** When a fee question names no programme and the 10 best-titled documents include fee sheets for **3 or more** programmes, ask which programme, even if the passages found happen to come from one sheet. Measured over the 100 cases: "what is the tuition fee?" matches sheets for 5 programmes (title scores above 1.2); every real fee question without a programme matches at most 2, weakly (below 0.6). The runbook suggested 2 programmes; at 2, the summer-term and fee-remission questions would be asked back.
+3. **The profile in the search.** Checked, no change needed: `apply_profile` writes the profile into the question ("hostel fee for first year? (for M.Tech boys)"), and the programme and gender filter in `query._candidates` reads that text. With the profile, the M.Tech sheet stating ₹40,080 ranks 1st and all 7 passages are M.Tech hostel sheets. The saved failure was the AI adding up the wrong items (₹78,840, which the verifier flagged), so it is an answer problem, asked again in Step 7.
+
+**Over all 100 cases, no key** (`respond.answer`, first question of each):
+
+| | Ask back | Unexpected / missing |
+|---|---|---|
+| Before (after Step 3) | 1 (`clarify_hostel_vague`) | `clarify_tuition_vague` not asked |
+| After | 2 (`clarify_hostel_vague`, `clarify_tuition_vague`) | none |
+
+`mess_joining_first_year` had already stopped asking after Step 3's re-chunking (different passages found); rule 1 now makes that a rule rather than luck, and has its own test.
+
+Tests (no key): `test_no_question_back_when_every_group_has_the_same_answer`, `test_question_back_when_the_groups_have_different_figures`, `test_vague_tuition_question_asks_which_programme`, `test_fee_question_about_something_else_is_not_asked_back`, `test_profile_brings_the_mtech_hostel_sheet`, and `test_no_unexpected_questions_back_over_all_cases` (all 100 cases; skipped without the index).
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

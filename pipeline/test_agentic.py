@@ -724,6 +724,115 @@ def test_repeated_passages_take_one_place_only():
     assert kept == [0, 2] and scores == [3.1, 1.1], (kept, scores)
 
 
+# ---------------------------------------------------------------------------
+# Ask back only when it changes the answer
+# ---------------------------------------------------------------------------
+
+def _passage(title, text, url, rerank=6.0):
+    return {"title": title, "text": text, "source_url": url, "rerank": rerank}
+
+
+def test_no_question_back_when_every_group_has_the_same_answer():
+    # Mess joining: the boys' and girls' schedules both say "from the date of
+    # their physical reporting", so asking which one changes nothing.
+    import slots
+    same = "First year students can join the mess from the date of their physical reporting."
+    found = [_passage("Mess Joining Schedule for Boys", same, "u1"),
+             _passage("Mess Joining Schedule for Girls", same, "u2")]
+    assert slots.needs_clarification("when can first year students join the hostel mess?",
+                                     "hostel", found) is None
+
+
+def test_question_back_when_the_groups_have_different_figures():
+    import slots
+    found = [_passage("Hostel fees for Boys", "Total Rs. 32150 for Winter 2026", "u1"),
+             _passage("Hostel fees for Girls", "Total Rs. 32650 for Winter 2026", "u2")]
+    ask = slots.needs_clarification("What is the hostel fee for first year B.Tech?", "hostel", found)
+    assert ask and ask["slot"] == "gender", ask
+
+
+def test_vague_tuition_question_asks_which_programme():
+    # The passages may all come from one programme's sheet; the titles show
+    # that fee sheets exist for several.
+    import slots
+    ask = slots.needs_clarification("what is the tuition fee?", "fees", [])
+    assert ask and ask["slot"] == "programme" and len(ask["choices"]) >= 2, ask
+
+
+def test_fee_question_about_something_else_is_not_asked_back():
+    import slots
+    assert slots.needs_clarification("How much does one summer term course cost at VNIT?", "fees", []) is None
+
+
+def test_profile_brings_the_mtech_hostel_sheet():
+    import chunk_ranks
+    import slots
+    asked, _note = slots.apply_profile("hostel fee for first year?", "hostel",
+                                       {"programme": "mtech", "gender": "boys"})
+    rank, title = chunk_ranks.rank_of(asked, r"40,?080")
+    assert rank is not None and rank <= 7 and "M.Tech" in title, (rank, title)
+
+
+def test_no_unexpected_questions_back_over_all_cases():
+    # Of the 100 answer-check cases only the two vague clarify cases may ask back.
+    # Slow (every case is searched), and needs the index.
+    import os
+    from check_answers import CHECKS, CLARIFY_CHECKS, CONVERSATIONS
+    if not query.INDEX_PATH.exists():
+        print("  (skipped: no index)")
+        return
+    cases = [(n, q, {}) for n, q, _m, _x in CHECKS]
+    cases += [(n, t[0], {}) for n, t, _m, _x in CONVERSATIONS]
+    cases += [(n, q, p) for n, q, p, _e in CLARIFY_CHECKS]
+    expected = {n for n, _q, _p, e in CLARIFY_CHECKS if "clarify" in e}
+    saved = os.environ.pop("GENAI_API_KEY", None)
+    try:
+        asked = {n for n, q, p in cases
+                 if respond.answer(q, profile=p, use_agent=False)["mode"] == "clarify"}
+    finally:
+        if saved is not None:
+            os.environ["GENAI_API_KEY"] = saved
+    assert asked == expected, (sorted(asked - expected), sorted(expected - asked))
+
+
+# ---------------------------------------------------------------------------
+# Follow-ups that only change a detail: rewritten in code
+# ---------------------------------------------------------------------------
+
+HOSTEL_B_TECH = "What is the hostel fee for first year B.Tech boys for the Winter 2026 session?"
+PHD_FULL_TIME = "What is the tuition fee for full time PhD per semester?"
+MTECH_OPEN = "What is the M.Tech tuition fee for OPEN category?"
+
+
+def test_swap_follow_ups_are_rewritten_without_an_llm():
+    import followup
+    cases = [
+        (HOSTEL_B_TECH, "and for girls?", "first year B.Tech girls for the Winter 2026"),
+        (HOSTEL_B_TECH, "what about mtech?", "first year M.Tech boys for the Winter 2026"),
+        (PHD_FULL_TIME, "and for part time?", "tuition fee for part time PhD per semester"),
+        (PHD_FULL_TIME, "and part time?", "tuition fee for part time PhD per semester"),
+        (MTECH_OPEN, "for SC students?", "M.Tech tuition fee for SC category"),
+        (MTECH_OPEN, "how about obc?", "M.Tech tuition fee for OBC category"),
+        (HOSTEL_B_TECH, "what about second year?", "second year B.Tech boys"),
+        ("What is the MBA tuition fee per semester?", "and for girls?", "MBA tuition fee per semester (for girls)"),
+    ]
+    for previous, asked, expected in cases:
+        rewritten, note = followup.resolve(asked, [previous], api_key="unused-no-call-made")
+        assert note == "rewritten" and expected in rewritten, (asked, rewritten)
+
+
+def test_other_follow_ups_do_not_take_the_swap():
+    import followup
+    assert followup._swap_rewrite("and the mess fee?", HOSTEL_B_TECH) is None
+    assert followup.resolve("who is the warden?", [HOSTEL_B_TECH]) == ("who is the warden?", None)
+
+
+def test_mode_of_study_is_a_profile_slot():
+    import slots
+    assert slots.extract("tuition for part time PhD") == {"programme": "phd", "mode_of_study": "part-time"}
+    assert slots.clean_profile({"mode_of_study": "part-time", "mode_of_study2": "x"}) == {"mode_of_study": "part-time"}
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]

@@ -12,6 +12,7 @@
 | 1 (files added, index not rebuilt) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
 | 2 (bigger index measured, not kept; backup restored) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
 | 3 (shared table lead-ins, repeated passages dropped) | 57/57 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
+| 4 (ask back only when the answers differ) | 63/63 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
 
 ## Step 0. Baseline, tag and backups
 
@@ -189,3 +190,23 @@ Why the three are not fixed: Holi's chunk scores almost top once reranked (4.54 
 Tests added (no key): `test_table_rows_share_one_lead_in_per_chunk`, `test_long_table_runs_split_but_every_part_keeps_its_lead_in`, `test_repeated_passages_take_one_place_only`. test_agentic 57/57.
 
 **Done when:** each miss fixed or explained (4 fixed, 3 explained, placements reaches the AI through the CRAG gate in the live path); no-key checks no lower than after Step 2 — chunk_ranks higher (73 vs 69), evaluate equal, fact_ranks one lower (recorded trade); §30 written. **Met, with the recorded trade.**
+
+## Step 4. Ask back only when it changes the answer
+
+Changes in `slots.needs_clarification` (EXPERIMENTS-LOG §31):
+1. Ask only when the groups' best passages carry **different figures or dates** (`answers_differ`), not merely when documents for two groups were found.
+2. A fee question naming no programme asks which programme when the 10 best-titled documents include fee sheets for **3 or more** programmes (`_many_programmes_titled`). The runbook suggested 2; measured, 2 would also ask back on the summer-term and fee-remission questions (recorded in PROGRESS-9 Decisions).
+3. Profile in the search: already effective, no change. With M.Tech / boys, "hostel fee for first year?" is searched as "hostel fee for first year? (for M.Tech boys)", the programme filter reads that, and the ₹40,080 sheet ranks 1st with all 7 passages M.Tech hostel sheets. The saved failure was the AI adding the wrong items (₹78,840): an answer problem, re-asked in Step 7.
+
+All 100 cases through `respond.answer`, no key:
+
+| | Ask back | Unexpected or missing |
+|---|---|---|
+| Before | 1: `clarify_hostel_vague` (B.Tech, B.Arch, M.Sc, Ph.D) | `clarify_tuition_vague` not asked |
+| After | 2: `clarify_hostel_vague` (B.Tech, B.Arch, M.Sc, Ph.D); `clarify_tuition_vague` (B.Tech, B.Arch, M.Tech, M.Sc) | none |
+
+`mess_joining_first_year`: answered, not asked (mode not clarify); its best passage is the "Mess Joining Schedule for UG, PG & Ph.D. Students" (rank 1). It had already stopped asking after Step 3's re-chunking; rule 1 makes that a rule, with a test that does not depend on the index.
+
+Tests added: 6 (listed in §31), including the all-100-cases count (skipped without the index). test_agentic 63/63. Retrieval checks identical to Step 3.
+
+**Done when:** tests pass; the clarify cases and `mess_joining_first_year` behave correctly without a key; checks no lower than Step 3; §31 written. **Met.**
