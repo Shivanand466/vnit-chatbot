@@ -3,31 +3,34 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>VNIT Chatbot</title>
+<title>VNIT Assistant</title>
 <style>
   :root {
     color-scheme: light dark;
-    --bg: #f4f5f7;
+    --bg: #ffffff;
     --panel: #ffffff;
+    --soft: #f4f5f7;
     --ink: #16181d;
     --ink-soft: #5b6472;
     --ink-faint: #8a93a0;
     --line: #e3e6ea;
     --accent: #1d4ed8;
     --accent-soft: #eef2ff;
-    --user: #1d4ed8;
+    --user: #eef1f6;
+    --user-ink: #16181d;
     --note: #fff8e6;
     --note-line: #e8c96a;
     --ok: #15803d;
     --warn: #b45309;
-    --radius: 14px;
-    --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 8px 24px rgba(16, 24, 40, .06);
+    --radius: 18px;
+    --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 8px 24px rgba(16, 24, 40, .08);
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #0f1115; --panel: #171a21; --ink: #e9ecf1; --ink-soft: #a7b0bd;
-      --ink-faint: #76808f; --line: #262b35; --accent: #7aa2ff; --accent-soft: #1b2436;
-      --user: #2b4a9e; --note: #2a2415; --note-line: #7a6424; --ok: #4ade80; --warn: #fbbf24;
+      --bg: #13151a; --panel: #1b1e25; --soft: #20242c; --ink: #e9ecf1; --ink-soft: #a7b0bd;
+      --ink-faint: #76808f; --line: #2a2f39; --accent: #7aa2ff; --accent-soft: #1b2436;
+      --user: #262b35; --user-ink: #e9ecf1; --note: #2a2415; --note-line: #7a6424;
+      --ok: #4ade80; --warn: #fbbf24;
       --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 8px 24px rgba(0, 0, 0, .35);
     }
   }
@@ -40,314 +43,372 @@
     background: var(--bg);
     color: var(--ink);
     display: flex;
-    justify-content: center;
-    padding: 0 16px;
-  }
-  .app {
-    width: 100%;
-    max-width: 780px;
-    display: flex;
     flex-direction: column;
-    height: 100vh;
-    padding: 20px 0 16px;
   }
+  button { font: inherit; color: inherit; }
 
-  header { flex: none; margin-bottom: 14px; }
-  h1 {
-    font-size: 1.2rem; font-weight: 650; margin: 0 0 4px;
-    letter-spacing: -.01em; display: flex; align-items: center; gap: 9px;
+  /* Top bar */
+  .top {
+    flex: none; display: flex; align-items: center; gap: 10px;
+    padding: 10px 16px; border-bottom: 1px solid var(--line);
   }
-  h1 .dot {
-    width: 9px; height: 9px; border-radius: 50%; background: #22c55e; flex: none;
+  .top h1 { font-size: 1rem; font-weight: 650; margin: 0; display: flex; align-items: center; gap: 8px; }
+  .top h1 .dot { width: 9px; height: 9px; border-radius: 50%; background: #22c55e; }
+  .top .tag { font-size: .7rem; color: var(--ink-faint); border: 1px solid var(--line); border-radius: 999px; padding: 0 7px; }
+  .top .spacer { flex: 1; }
+  .top button {
+    background: none; border: 1px solid var(--line); border-radius: 10px;
+    padding: 5px 11px; font-size: .85rem; cursor: pointer;
   }
-  header p { margin: 0; color: var(--ink-soft); font-size: .88rem; }
-
-  /* Starter questions */
-  .starters { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 12px; }
-  .starters button {
-    font: inherit; font-size: .8rem; color: var(--accent);
-    background: var(--accent-soft); border: 1px solid transparent;
-    padding: 6px 11px; border-radius: 999px; cursor: pointer;
-  }
-  .starters button:hover { border-color: var(--accent); }
-
-  /* Choices under a clarifying question */
-  .choices { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px; }
-  .choices button {
-    font: inherit; font-size: .85rem; color: var(--accent);
-    background: var(--accent-soft); border: 1px solid transparent;
-    padding: 6px 13px; border-radius: 999px; cursor: pointer;
-  }
-  .choices button:hover:not(:disabled) { border-color: var(--accent); }
-  .choices button:disabled { opacity: .45; cursor: default; }
-  #clear-details { margin-left: 6px; }
+  .top button:hover { border-color: var(--accent); color: var(--accent); }
 
   /* Conversation */
-  #chat {
-    flex: 1 1 auto; overflow-y: auto; display: flex; flex-direction: column;
-    gap: 14px; padding: 4px 2px 10px;
-  }
-  .turn { display: flex; flex-direction: column; max-width: 92%; }
-  .turn.me { align-self: flex-end; align-items: flex-end; }
-  .turn.bot { align-self: flex-start; }
+  #scroll { flex: 1 1 auto; overflow-y: auto; }
+  .column { max-width: 760px; margin: 0 auto; padding: 20px 16px 8px; }
+  #chat { display: flex; flex-direction: column; gap: 22px; }
 
-  .bubble {
-    padding: 11px 15px; border-radius: var(--radius); font-size: .95rem;
+  .empty { text-align: center; padding: 8vh 0 2vh; }
+  .empty h2 { font-size: 1.6rem; font-weight: 650; margin: 0 0 8px; letter-spacing: -.01em; }
+  .empty p { color: var(--ink-soft); margin: 0 auto 22px; max-width: 520px; font-size: .95rem; }
+  .examples { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; text-align: left; }
+  .examples button {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 14px;
+    padding: 12px 14px; cursor: pointer; font-size: .9rem; line-height: 1.4; text-align: left;
   }
-  .me .bubble {
-    background: var(--user); color: #fff; border-bottom-right-radius: 5px;
-  }
-  .bot .bubble {
-    background: var(--panel); border: 1px solid var(--line);
-    border-bottom-left-radius: 5px; box-shadow: var(--shadow);
-  }
+  .examples button:hover { border-color: var(--accent); }
+  .examples button span { display: block; color: var(--ink-faint); font-size: .78rem; margin-top: 3px; }
 
-  /* Answer body */
-  .bubble > :first-child { margin-top: 0; }
-  .bubble > :last-child { margin-bottom: 0; }
-  .bubble p { margin: 0 0 .6em; }
-  .bubble strong { font-weight: 650; }
-  .bubble ul, .bubble ol { margin: .45em 0 .6em; padding-left: 1.3em; }
-  .bubble li { margin: .22em 0; }
-  .bubble li::marker { color: var(--ink-faint); }
-  .bubble code {
-    font: .85em ui-monospace, "Cascadia Code", Consolas, monospace;
-    background: var(--accent-soft); padding: .1em .35em; border-radius: 4px;
+  .msg.me { display: flex; flex-direction: column; align-items: flex-end; }
+  .msg.me .bubble {
+    background: var(--user); color: var(--user-ink); padding: 10px 16px;
+    border-radius: var(--radius); max-width: 85%; white-space: pre-wrap; overflow-wrap: anywhere;
   }
-  .bubble .note {
-    background: var(--note); border-left: 3px solid var(--note-line);
-    padding: 8px 12px; border-radius: 0 8px 8px 0; margin: .6em 0;
-    font-size: .9rem;
-  }
-  .bubble table { border-collapse: collapse; width: 100%; margin: .5em 0; font-size: .88rem; }
-  .bubble th, .bubble td { border: 1px solid var(--line); padding: 5px 9px; text-align: left; }
-  .bubble th { background: var(--accent-soft); font-weight: 600; }
+  .msg.me .tools { margin-top: 4px; }
 
-  .understood {
-    font-size: .8rem; color: var(--ink-soft); margin-bottom: 6px;
-    padding-left: 2px; display: flex; gap: 6px; align-items: baseline;
-  }
-  .understood span:first-child { color: var(--ink-faint); flex: none; }
+  .msg.bot .body { overflow-wrap: anywhere; }
+  .body > :first-child { margin-top: 0; }
+  .body > :last-child { margin-bottom: 0; }
+  .body p { margin: 0 0 .7em; }
+  .body h3, .body h4 { margin: .9em 0 .35em; font-size: 1.02rem; }
+  .body strong { font-weight: 650; }
+  .body ul, .body ol { margin: .45em 0 .7em; padding-left: 1.4em; }
+  .body li { margin: .25em 0; }
+  .body li::marker { color: var(--ink-faint); }
+  .body a { color: var(--accent); }
+  .body code { font: .85em ui-monospace, "Cascadia Code", Consolas, monospace;
+               background: var(--soft); padding: .1em .35em; border-radius: 4px; }
+  .body .note { background: var(--note); border-left: 3px solid var(--note-line);
+                padding: 8px 12px; border-radius: 0 8px 8px 0; margin: .6em 0; font-size: .92rem; }
+  .body .tablewrap { overflow-x: auto; margin: .6em 0; }
+  .body table { border-collapse: collapse; width: 100%; font-size: .9rem; }
+  .body th, .body td { border: 1px solid var(--line); padding: 6px 10px; text-align: left; vertical-align: top; }
+  .body th { background: var(--soft); font-weight: 600; }
+  .body sup { color: var(--accent); font-size: .7em; font-weight: 650; margin-left: 1px; }
+  .cursor::after { content: "▍"; color: var(--ink-faint); animation: blink 1s steps(2) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
 
-  /* Sources */
-  .sources { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 9px; }
+  .understood { font-size: .8rem; color: var(--ink-soft); margin-bottom: 6px; }
+  .understood b { color: var(--ink-faint); font-weight: 500; margin-right: 6px; }
+  .corrected { font-size: .78rem; color: var(--warn); margin-top: 6px; }
+
+  /* Live steps while working */
+  .live { font-size: .84rem; color: var(--ink-faint); margin-bottom: 8px; }
+  .live div { display: flex; gap: 8px; align-items: baseline; padding: 1px 0; }
+  .live div::before { content: "✓"; color: var(--ok); flex: none; font-size: .75rem; }
+  .live div.now::before {
+    content: ""; width: 10px; height: 10px; border-radius: 50%; flex: none; align-self: center;
+    border: 2px solid var(--ink-faint); border-top-color: transparent; animation: spin .8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Sources, badge, steps */
+  .sources { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
   .sources a {
     font-size: .78rem; color: var(--ink-soft); text-decoration: none;
-    border: 1px solid var(--line); background: var(--bg);
+    border: 1px solid var(--line); background: var(--soft);
     padding: 3px 9px; border-radius: 999px;
     max-width: 320px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
   }
   .sources a:hover { border-color: var(--accent); color: var(--accent); }
   .sources a b { color: var(--accent); font-weight: 650; margin-right: 4px; }
-  .bubble sup { color: var(--accent); font-size: .7em; font-weight: 650; margin-left: 1px; }
-
-  /* Verification badge and the agent's steps */
   .check { border-radius: 999px; padding: 1px 8px; border: 1px solid var(--line); }
   .check.ok { color: var(--ok); border-color: var(--ok); }
   .check.warn { color: var(--warn); border-color: var(--warn); }
   details.steps { margin-top: 8px; font-size: .8rem; color: var(--ink-soft); }
   details.steps summary { cursor: pointer; color: var(--ink-faint); width: fit-content; }
   details.steps summary:hover { color: var(--accent); }
-  details.steps ol {
-    margin: 6px 0 0; padding: 8px 12px 8px 30px; background: var(--panel);
-    border: 1px solid var(--line); border-radius: 10px;
-  }
+  details.steps ol { margin: 6px 0 0; padding: 8px 12px 8px 30px; background: var(--soft);
+                     border: 1px solid var(--line); border-radius: 10px; }
   details.steps li { margin: 3px 0; }
-  details.steps li .kind {
-    font-size: .7rem; text-transform: uppercase; letter-spacing: .04em;
-    color: var(--accent); margin-right: 6px; font-weight: 650;
-  }
-  .typing-label { font-size: .78rem; color: var(--ink-faint); margin-left: 8px; }
+  details.steps li .kind { font-size: .7rem; text-transform: uppercase; letter-spacing: .04em;
+                           color: var(--accent); margin-right: 6px; font-weight: 650; }
 
-  /* Footer row of a bot turn */
-  .meta {
-    display: flex; align-items: center; gap: 10px; margin-top: 8px;
-    font-size: .74rem; color: var(--ink-faint); flex-wrap: wrap;
+  /* Buttons under a message */
+  .meta { display: flex; align-items: center; gap: 8px; margin-top: 8px; font-size: .74rem;
+          color: var(--ink-faint); flex-wrap: wrap; }
+  .tools { display: flex; gap: 4px; align-items: center; }
+  .tools button {
+    background: none; border: 1px solid transparent; border-radius: 7px; cursor: pointer;
+    padding: 2px 7px; font-size: .8rem; color: var(--ink-faint);
   }
-  .meta .rate { display: flex; gap: 5px; margin-left: auto; }
-  .meta .rate button {
-    font: inherit; font-size: .9rem; line-height: 1; cursor: pointer;
-    background: none; border: 1px solid var(--line); color: inherit;
-    border-radius: 7px; padding: 3px 7px;
-  }
-  .meta .rate button:hover:not(:disabled) { border-color: var(--accent); }
-  .meta .rate button:disabled { opacity: .45; cursor: default; }
+  .tools button:hover:not(:disabled) { border-color: var(--line); color: var(--ink); }
+  .tools button:disabled { opacity: .45; cursor: default; }
+  .tools .status { margin-left: 4px; }
 
-  /* Typing indicator */
-  .typing { display: inline-flex; gap: 4px; padding: 3px 0; }
-  .typing i {
-    width: 6px; height: 6px; border-radius: 50%; background: var(--ink-faint);
-    animation: bounce 1.2s infinite;
+  .choices, .suggest { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px; }
+  .choices button, .suggest button {
+    font-size: .84rem; color: var(--accent); background: var(--accent-soft);
+    border: 1px solid transparent; padding: 6px 13px; border-radius: 999px; cursor: pointer;
+    text-align: left;
   }
-  .typing i:nth-child(2) { animation-delay: .15s; }
-  .typing i:nth-child(3) { animation-delay: .3s; }
-  @keyframes bounce { 0%, 60%, 100% { opacity: .25; } 30% { opacity: 1; } }
+  .choices button:hover:not(:disabled), .suggest button:hover { border-color: var(--accent); }
+  .choices button:disabled { opacity: .45; cursor: default; }
 
   /* Composer */
+  .composer { flex: none; padding: 8px 16px 12px; background: var(--bg); }
+  .composer .column { padding: 0; }
   form {
-    flex: none; display: flex; gap: 8px; align-items: flex-end;
+    display: flex; gap: 8px; align-items: flex-end;
     background: var(--panel); border: 1px solid var(--line);
-    border-radius: var(--radius); padding: 8px; box-shadow: var(--shadow);
+    border-radius: 22px; padding: 8px 8px 8px 14px; box-shadow: var(--shadow);
   }
   textarea {
-    flex: 1; font: inherit; font-size: .95rem; resize: none; border: none;
-    background: none; color: var(--ink); padding: 7px 8px; max-height: 140px;
+    flex: 1; font: inherit; font-size: .97rem; resize: none; border: none;
+    background: none; color: var(--ink); padding: 6px 0; max-height: 200px; line-height: 1.5;
   }
   textarea:focus { outline: none; }
-  button.send {
-    font: inherit; font-weight: 550; font-size: .9rem; cursor: pointer;
-    background: var(--accent); color: #fff; border: none;
-    border-radius: 10px; padding: 9px 16px; flex: none;
+  .send {
+    flex: none; width: 38px; height: 38px; border-radius: 50%; border: none; cursor: pointer;
+    background: var(--accent); color: #fff; font-size: 1.05rem; line-height: 1;
   }
-  button.send:disabled { opacity: .5; cursor: default; }
-  .hint { flex: none; font-size: .72rem; color: var(--ink-faint); margin: 7px 2px 0; }
+  .send:disabled { opacity: .4; cursor: default; }
+  .send.stop { background: var(--ink); color: var(--bg); }
+  .hint { font-size: .72rem; color: var(--ink-faint); margin: 7px 4px 0; display: flex;
+          flex-wrap: wrap; gap: 4px 12px; align-items: center; }
   .hint a { color: var(--ink-faint); }
+  .hint label { display: inline-flex; gap: 4px; align-items: center; cursor: pointer; }
+  .hint input[type=text] { font: inherit; color: inherit; background: none; border: none;
+                           border-bottom: 1px dotted var(--line); width: 210px; }
 
-  #api-row { flex: none; font-size: .72rem; color: var(--ink-faint); margin-top: 5px; }
-  #api-row input {
-    font: inherit; color: inherit; background: none;
-    border: none; border-bottom: 1px dotted var(--line); width: 230px;
+  @media (max-width: 520px) {
+    .examples { grid-template-columns: 1fr; }
+    .empty { padding-top: 4vh; }
+    .msg.me .bubble { max-width: 92%; }
+    .hint .server { display: none; }
   }
 </style>
 </head>
 <body>
-<div class="app">
-  <header>
-    <h1><span class="dot"></span> VNIT Nagpur Chatbot</h1>
-    <p>Answers come only from VNIT's own website and documents, with the source shown for every answer and every figure checked against it.</p>
-    <div class="starters" id="starters"></div>
-  </header>
+<div class="top">
+  <h1><span class="dot"></span> VNIT Assistant</h1>
+  <span class="tag">v2</span>
+  <span class="spacer"></span>
+  <button type="button" id="new-chat" title="Start again: forgets this conversation and your details">New chat</button>
+</div>
 
-  <div id="chat" aria-live="polite"></div>
+<div id="scroll">
+  <div class="column">
+    <div class="empty" id="empty">
+      <h2>Ask about VNIT Nagpur</h2>
+      <p>Answers come only from VNIT's own documents, with sources, and every figure is checked.
+         I can also compare, summarise, explain a procedure, draft an email, and answer in Hindi or Marathi.</p>
+      <div class="examples" id="examples"></div>
+    </div>
+    <div id="chat" aria-live="polite"></div>
+  </div>
+</div>
 
-  <form id="form">
-    <textarea id="question" rows="1" placeholder="Ask about fees, hostels, admissions, exams, scholarships…" autocomplete="off"></textarea>
-    <button class="send" type="submit" id="send">Ask</button>
-  </form>
-  <p class="hint">Enter to send · Shift+Enter for a new line · follow-ups like “and for girls?” work<a href="#" id="clear-details" hidden>· Clear my details</a></p>
-  <div id="api-row">server: <input id="api-url" value="http://localhost:8000/ask" spellcheck="false"></div>
+<div class="composer">
+  <div class="column">
+    <form id="form">
+      <textarea id="question" rows="1" placeholder="Ask about fees, hostels, admissions, exams, scholarships…" autocomplete="off"></textarea>
+      <button class="send" type="submit" id="send" title="Send" aria-label="Send">↑</button>
+    </form>
+    <div class="hint">
+      <span>Enter to send · Shift+Enter for a new line</span>
+      <a href="#" id="clear-details" hidden>Clear my details</a>
+      <label title="Off by default: nothing is kept anywhere unless you tick this"><input type="checkbox" id="keep"> Keep this chat if I reload</label>
+      <span class="server">server: <input type="text" id="api-url" value="http://localhost:8001/ask" spellcheck="false"></span>
+    </div>
+  </div>
 </div>
 
 <script>
 const chat = document.getElementById('chat');
+const scroller = document.getElementById('scroll');
+const empty = document.getElementById('empty');
 const form = document.getElementById('form');
 const input = document.getElementById('question');
 const sendBtn = document.getElementById('send');
 const apiUrlInput = document.getElementById('api-url');
-const asked = [];   // questions so far, so a follow-up can be understood
-// Details the student picked from clarifying questions (programme, gender...).
-// Kept in memory only, never in localStorage: the server does not store it
-// either, so closing the page forgets it.
-let profile = {};
+const keepBox = document.getElementById('keep');
 const clearDetails = document.getElementById('clear-details');
 
-function showProfile() { clearDetails.hidden = Object.keys(profile).length === 0; }
-clearDetails.addEventListener('click', e => { e.preventDefault(); profile = {}; showProfile(); });
+// The conversation, in memory only: each exchange is {q, a} as the server
+// should remember it. Nothing is stored anywhere unless "Keep this chat" is on,
+// and then only in this tab (sessionStorage), never on the server.
+let turns = [];
+// Details the student picked from clarifying questions (programme, gender...).
+let profile = {};
+let busy = null;          // the AbortController of the answer being written
+const MAX_TURNS = 6;
+const STORE = 'vnit-assistant-chat';
 
 if (location.protocol.startsWith('http')) apiUrlInput.value = location.origin + '/ask';
 
-const STARTERS = [
-  'Who is the Director of VNIT?',
-  'What is the hostel fee for first year B.Tech boys for Winter 2026?',
-  'What tuition fee do SC/ST B.Tech students pay?',
-  'When are the end semester exams in Winter 2026?',
+const EXAMPLES = [
+  ['What is the hostel fee for first year B.Tech girls for Winter 2026?', 'a fee, checked against the fee sheet'],
+  ['Compare the yearly tuition fees for B.Tech and B.Arch', 'a table, every figure cited'],
+  ['Write an email to the hostel office asking for a fee extension', 'a draft with the right address'],
+  ['हॉस्टल की फीस कितनी है?', 'in Hindi, Marathi or Hinglish'],
 ];
-
-const starters = document.getElementById('starters');
-STARTERS.forEach(q => {
+const examples = document.getElementById('examples');
+EXAMPLES.forEach(([q, why]) => {
   const b = document.createElement('button');
   b.type = 'button';
   b.textContent = q;
-  b.addEventListener('click', () => { input.value = q; ask(); });
-  starters.appendChild(b);
+  const s = document.createElement('span');
+  s.textContent = why;
+  b.appendChild(s);
+  b.addEventListener('click', () => ask(q));
+  examples.appendChild(b);
 });
 
+function showProfile() { clearDetails.hidden = Object.keys(profile).length === 0; }
+clearDetails.addEventListener('click', e => { e.preventDefault(); profile = {}; showProfile(); save(); });
+
 function escapeHtml(s) {
-  return s.replace(/[&<>"']/g, c =>
+  return String(s).replace(/[&<>"']/g, c =>
     ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]));
 }
 
-// Minimal Markdown -> HTML for what the model actually writes: bold, italics,
-// inline code, bullet and numbered lists, and "Note:" lines. Everything is
-// escaped first, so nothing in an answer can inject HTML into the page.
-function renderAnswer(text) {
-  const lines = escapeHtml(text.replace(/\r/g, '')).split('\n');
-  let html = '', list = null;
-
-  const inline = s => s
+// Markdown -> HTML for what the model writes: headings, bold, italics, code,
+// links, bullet and numbered lists, tables and "Note:" lines. The text is
+// escaped first, so nothing in an answer can inject HTML; links are kept only
+// when they are plain http(s) addresses.
+function inline(s) {
+  return s
+    .replace(/\[([^\]]{1,120})\]\((https?:\/\/[^\s)]+)\)/g,
+             (m, text, url) => `<a href="${url}" target="_blank" rel="noopener">${text}</a>`)
+    .replace(/(^|[\s(])(https?:\/\/[^\s<)]+[^\s<).,;:!?])/g,
+             (m, pre, url) => `${pre}<a href="${url}" target="_blank" rel="noopener">${url}</a>`)
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/(^|[\s(])\*(?!\s)([^*]+?)\*(?=[\s).,;:!?]|$)/g, '$1<em>$2</em>')
     .replace(/`([^`]+?)`/g, '<code>$1</code>')
     .replace(/\[(\d+)\]/g, '<sup>$1</sup>');
+}
 
+function tableHtml(rows) {
+  const cells = r => r.replace(/^\|/, '').replace(/\|$/, '').split('|').map(c => c.trim());
+  const isRule = r => /^\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?$/.test(r);
+  let html = '<div class="tablewrap"><table>';
+  let head = true;
+  rows.forEach((r, i) => {
+    if (isRule(r)) return;
+    const tag = head && i === 0 && rows[1] && isRule(rows[1]) ? 'th' : 'td';
+    html += '<tr>' + cells(r).map(c => `<${tag}>${inline(c)}</${tag}>`).join('') + '</tr>';
+    head = false;
+  });
+  return html + '</table></div>';
+}
+
+function renderAnswer(text) {
+  const lines = escapeHtml(String(text || '').replace(/\r/g, '')).split('\n');
+  let html = '', list = null, table = [];
   const closeList = () => { if (list) { html += `</${list}>`; list = null; } };
+  const closeTable = () => { if (table.length) { html += tableHtml(table); table = []; } };
 
-  for (let raw of lines) {
+  for (const raw of lines) {
     const line = raw.trim();
+    if (line.startsWith('|')) { closeList(); table.push(line); continue; }
+    closeTable();
     if (!line) { closeList(); continue; }
-
+    const heading = line.match(/^(#{1,4})\s+(.*)$/);
     const bullet = line.match(/^[-*•]\s+(.*)$/);
     const numbered = line.match(/^(\d+)[.)]\s+(.*)$/);
     const note = line.match(/^(?:\*\*)?(note|caution|important)\s*:?(?:\*\*)?\s*:?\s*(.*)$/i);
-
-    if (bullet) {
+    if (heading) {
+      closeList();
+      html += `<h${heading[1].length < 3 ? 3 : 4}>${inline(heading[2])}</h${heading[1].length < 3 ? 3 : 4}>`;
+    } else if (bullet) {
       if (list !== 'ul') { closeList(); html += '<ul>'; list = 'ul'; }
       html += `<li>${inline(bullet[1])}</li>`;
     } else if (numbered) {
-      if (list !== 'ol') { closeList(); html += '<ol>'; list = 'ol'; }
+      if (list !== 'ol') { closeList(); html += `<ol start="${numbered[1]}">`; list = 'ol'; }
       html += `<li>${inline(numbered[2])}</li>`;
     } else if (note && note[2]) {
       closeList();
       html += `<div class="note"><strong>${note[1][0].toUpperCase()}${note[1].slice(1)}:</strong> ${inline(note[2])}</div>`;
     } else {
       closeList();
-      html += `<p>${inline(line.replace(/^#+\s*/, ''))}</p>`;
+      html += `<p>${inline(line)}</p>`;
     }
   }
+  closeTable();
   closeList();
   return html;
 }
 
-function addTurn(cls) {
-  const turn = document.createElement('div');
-  turn.className = 'turn ' + cls;
-  chat.appendChild(turn);
-  chat.scrollTop = chat.scrollHeight;
-  return turn;
-}
+function scrollDown() { scroller.scrollTop = scroller.scrollHeight; }
 
 function addMine(text) {
-  const turn = addTurn('me');
+  empty.hidden = true;
+  const msg = document.createElement('div');
+  msg.className = 'msg me';
   const b = document.createElement('div');
   b.className = 'bubble';
-  b.textContent = text;
-  turn.appendChild(b);
+  b.textContent = text;      // the student's own words, never HTML
+  msg.appendChild(b);
+  chat.appendChild(msg);
+  scrollDown();
+  return msg;
 }
 
-function addThinking() {
-  const turn = addTurn('bot');
-  turn.innerHTML = '<div class="bubble"><span class="typing"><i></i><i></i><i></i></span>'
-    + '<span class="typing-label">Searching VNIT’s documents…</span></div>';
-  // A question that needs extra lookups can wait for the free plan's
-  // per-minute allowance, so say so rather than look frozen.
-  const label = turn.querySelector('.typing-label');
-  const later = setTimeout(() => {
-    label.textContent = 'Looking further — extra lookups can take up to a minute on the free plan…';
-  }, 12000);
-  turn.stopTimer = () => clearTimeout(later);
-  return turn;
+function addBot() {
+  const msg = document.createElement('div');
+  msg.className = 'msg bot';
+  const live = document.createElement('div');
+  live.className = 'live';
+  const body = document.createElement('div');
+  body.className = 'body cursor';
+  msg.append(live, body);
+  chat.appendChild(msg);
+  liveStep(msg, 'Searching VNIT’s documents…');
+  scrollDown();
+  return msg;
+}
+
+// What each kind of step looks like while it happens.
+function stepLabel(t) {
+  if (t.step === 'tool') {
+    const name = t.tool || '';
+    if (name === 'read_document') return 'Opening: ' + t.text.replace(/^Looked inside /, '');
+    if (name === 'fetch_vnit_page') return t.text;
+    return t.text;
+  }
+  if (t.step === 'plan') return t.text;
+  return t.text;
+}
+
+function liveStep(msg, text) {
+  const live = msg.querySelector('.live');
+  if (!live) return;
+  live.querySelectorAll('.now').forEach(d => d.classList.remove('now'));
+  const d = document.createElement('div');
+  d.className = 'now';
+  d.textContent = text.length > 180 ? text.slice(0, 180) + '…' : text;
+  live.appendChild(d);
+  scrollDown();
 }
 
 async function rate(data, rating, row, status) {
-  row.querySelectorAll('button').forEach(b => b.disabled = true);
+  row.querySelectorAll('.rate').forEach(b => b.disabled = true);
   try {
     const resp = await fetch(apiUrlInput.value.replace(/\/ask$/, '/feedback'), {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        question: data.understood_as || data.question,
-        answer: data.answer, mode: data.mode, rating,
-      }),
+      body: JSON.stringify({ question: data.understood_as || data.question,
+                             answer: data.answer, mode: data.mode, rating }),
     });
     status.textContent = resp.ok ? 'Thanks!' : 'Could not save that.';
   } catch (_) {
@@ -355,29 +416,45 @@ async function rate(data, rating, row, status) {
   }
 }
 
-function fillAnswer(turn, data) {
-  if (turn.stopTimer) turn.stopTimer();
-  turn.innerHTML = '';
+function toolButton(label, title, onClick) {
+  const b = document.createElement('button');
+  b.type = 'button';
+  b.textContent = label;
+  b.title = title;
+  b.addEventListener('click', onClick);
+  return b;
+}
 
+const KIND = { understand: 'understood', route: 'decided', search: 'searched', plan: 'planned',
+               tool: 'acted', reflect: 'noticed', compact: 'tidied', stop: 'stopped',
+               answer: 'answered', verify: 'checked', revise: 'revised', fallback: 'fallback',
+               grade: 'graded', clarify: 'asked back', handoff: 'handed off' };
+
+function fillAnswer(msg, data, ctx) {
+  msg.innerHTML = '';
+  msg.data = data;
   if (data.understood_as) {
-    const note = document.createElement('div');
-    note.className = 'understood';
-    const label = document.createElement('span');
-    label.textContent = 'Understood as';
-    const q = document.createElement('span');
-    q.textContent = data.understood_as;
-    note.append(label, q);
-    turn.appendChild(note);
+    const u = document.createElement('div');
+    u.className = 'understood';
+    const b = document.createElement('b');
+    b.textContent = 'Understood as';
+    u.append(b, document.createTextNode(data.understood_as));
+    msg.appendChild(u);
   }
-
-  const bubble = document.createElement('div');
-  bubble.className = 'bubble';
-  bubble.innerHTML = renderAnswer(data.answer);
+  const body = document.createElement('div');
+  body.className = 'body';
+  body.innerHTML = renderAnswer(data.answer);
+  msg.appendChild(body);
+  if (ctx && ctx.corrected) {
+    const c = document.createElement('div');
+    c.className = 'corrected';
+    c.textContent = 'Corrected after checking against the documents.';
+    msg.appendChild(c);
+  }
 
   if (data.sources && data.sources.length) {
     const src = document.createElement('div');
     src.className = 'sources';
-    // Numbered like the [1], [2] citations in the answer, when it has any.
     const numbered = /\[\d+\]/.test(data.answer || '');
     data.sources.forEach((s, i) => {
       const a = document.createElement('a');
@@ -393,9 +470,8 @@ function fillAnswer(turn, data) {
       a.title = s.url;
       src.appendChild(a);
     });
-    bubble.appendChild(src);
+    msg.appendChild(src);
   }
-  turn.appendChild(bubble);
 
   // A clarifying question: one button per choice. Picking one remembers it and
   // asks the original question again with it filled in.
@@ -405,33 +481,28 @@ function fillAnswer(turn, data) {
     data.clarify.choices.forEach(c => {
       const b = document.createElement('button');
       b.type = 'button';
-      b.textContent = c.label;   // textContent, so a label can never be HTML
+      b.textContent = c.label;
       b.addEventListener('click', () => {
         row.querySelectorAll('button').forEach(x => x.disabled = true);
         profile[data.clarify.slot] = c.value;
         showProfile();
-        send(data.question, c.label, turn.historyAtAsk);
+        send(data.question, c.label);
       });
       row.appendChild(b);
     });
-    bubble.appendChild(row);
+    msg.appendChild(row);
   }
 
-  // The agent's steps: what it searched, which documents it opened, what it
-  // calculated, and what the verifier found -- so it can be checked, not trusted.
+  // The agent's steps, folded away: what it searched, opened, calculated and checked.
   if (data.trace && data.trace.length) {
     const details = document.createElement('details');
     details.className = 'steps';
     const summary = document.createElement('summary');
     const tools = data.trace.filter(t => t.step === 'tool').length;
     summary.textContent = `How I found this (${data.trace.length} steps`
-      + (tools ? `, ${tools} extra lookup${tools > 1 ? 's' : ''}` : '') + ')';
+      + (tools ? `, ${tools} lookup${tools > 1 ? 's' : ''}` : '') + ')';
     details.appendChild(summary);
     const list = document.createElement('ol');
-    const KIND = { understand: 'understood', route: 'decided', search: 'searched',
-                   tool: 'acted', answer: 'answered', verify: 'checked', revise: 'revised',
-                   fallback: 'fallback', grade: 'graded', clarify: 'asked back',
-                   handoff: 'handed off' };
     data.trace.forEach(t => {
       const li = document.createElement('li');
       const kind = document.createElement('span');
@@ -441,15 +512,37 @@ function fillAnswer(turn, data) {
       list.appendChild(li);
     });
     details.appendChild(list);
-    turn.appendChild(details);
+    msg.appendChild(details);
   }
 
   const meta = document.createElement('div');
   meta.className = 'meta';
+  const tools = document.createElement('span');
+  tools.className = 'tools';
+  if (data.mode !== 'error') {
+    tools.appendChild(toolButton('Copy', 'Copy the answer', async e => {
+      const b = e.currentTarget;
+      try { await navigator.clipboard.writeText(data.answer); b.textContent = 'Copied'; }
+      catch (_) { b.textContent = 'Copy failed'; }
+      setTimeout(() => { b.textContent = 'Copy'; }, 1500);
+    }));
+  }
+  tools.appendChild(toolButton('Regenerate', 'Ask the same question again', () => regenerate(msg)));
+  const real = !String(data.mode).startsWith('direct') && !['clarify', 'error', 'stopped'].includes(data.mode);
+  if (real) {
+    const status = document.createElement('span');
+    status.className = 'status';
+    [['\u{1F44D}', 'up', 'Helpful'], ['\u{1F44E}', 'down', 'Not helpful']].forEach(([label, value, title]) => {
+      const b = toolButton(label, title, () => rate(data, value, tools, status));
+      b.classList.add('rate');
+      tools.appendChild(b);
+    });
+    tools.appendChild(status);
+  }
+  meta.appendChild(tools);
   const mode = document.createElement('span');
   mode.textContent = data.mode;
   meta.appendChild(mode);
-
   const v = data.verification;
   if (v && (v.verdict === 'verified' || v.verdict === 'unsupported')) {
     const badge = document.createElement('span');
@@ -459,82 +552,254 @@ function fillAnswer(turn, data) {
                            : `⚠ not confirmed: ${v.unsupported.join(', ')}`;
     meta.appendChild(badge);
   }
+  msg.appendChild(meta);
 
-  // Rating only makes sense for a real answer, not a greeting or a question back.
-  if (!String(data.mode).startsWith('direct') && data.mode !== 'clarify') {
-    const row = document.createElement('span');
-    row.className = 'rate';
-    const status = document.createElement('span');
-    [['\u{1F44D}', 'up'], ['\u{1F44E}', 'down']].forEach(([label, value]) => {
+  if (data.suggestions && data.suggestions.length) {
+    const row = document.createElement('div');
+    row.className = 'suggest';
+    data.suggestions.forEach(s => {
       const b = document.createElement('button');
       b.type = 'button';
-      b.textContent = label;
-      b.title = value === 'up' ? 'Helpful' : 'Not helpful';
-      b.addEventListener('click', () => rate(data, value, row, status));
+      b.textContent = s;
+      b.addEventListener('click', () => ask(s));
       row.appendChild(b);
     });
-    row.appendChild(status);
-    meta.appendChild(row);
+    msg.appendChild(row);
   }
-  turn.appendChild(meta);
-  chat.scrollTop = chat.scrollHeight;
+  scrollDown();
 }
 
-async function ask() {
-  const question = input.value.trim();
-  if (!question || sendBtn.disabled) return;
+// Only the newest user message can be edited, and only the last answer shows suggestions.
+function refreshControls() {
+  chat.querySelectorAll('.msg.me .tools').forEach(t => t.remove());
+  chat.querySelectorAll('.msg.bot').forEach((m, i, all) => {
+    const s = m.querySelector('.suggest');
+    if (s) s.hidden = i !== all.length - 1;
+  });
+  const mine = chat.querySelectorAll('.msg.me');
+  const last = mine[mine.length - 1];
+  if (!last || busy) return;
+  const tools = document.createElement('div');
+  tools.className = 'tools';
+  tools.appendChild(toolButton('Edit', 'Put this question back in the box to change it', () => {
+    input.value = last.asked || last.querySelector('.bubble').textContent;
+    const answer = last.nextElementSibling;
+    if (answer) answer.remove();
+    last.remove();
+    turns = turns.slice(0, last.turnIndex);
+    if (!chat.children.length) empty.hidden = false;
+    grow();
+    input.focus();
+    save();
+    refreshControls();
+  }));
+  last.appendChild(tools);
+}
+
+function regenerate(botMsg) {
+  if (busy) return;
+  const mine = botMsg.previousElementSibling;
+  const question = botMsg.data ? botMsg.data.question : (mine && mine.asked);
+  if (!question) return;
+  if (botMsg === chat.lastElementChild && mine) {
+    turns = turns.slice(0, mine.turnIndex);
+    botMsg.remove();
+    send(question, null, mine);
+  } else {
+    send(question, question);
+  }
+}
+
+function ask(q) {
+  const question = (q !== undefined ? q : input.value).trim();
+  if (!question || busy) return;
   input.value = '';
-  input.style.height = 'auto';
-  send(question, question, asked.slice(-3));
+  grow();
+  send(question, question);
+}
+
+function setBusy(controller) {
+  busy = controller;
+  sendBtn.classList.toggle('stop', !!controller);
+  sendBtn.textContent = controller ? '■' : '↑';
+  sendBtn.title = controller ? 'Stop' : 'Send';
+  sendBtn.setAttribute('aria-label', sendBtn.title);
+  refreshControls();
+}
+
+function requestBody(question) {
+  return JSON.stringify({ question, turns: turns.slice(-MAX_TURNS),
+                          history: turns.slice(-3).map(t => t.q), profile });
+}
+
+// Reads Server-Sent Events from /ask/stream: step, token, replace, done, error.
+async function streamAnswer(question, msg, signal) {
+  const resp = await fetch(apiUrlInput.value.replace(/\/ask$/, '/ask/stream'), {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: requestBody(question), signal,
+  });
+  if (resp.status === 404 || resp.status === 405) return null;   // an older server: use /ask
+  if (!resp.ok) {
+    let detail = 'HTTP ' + resp.status;
+    try { detail = (await resp.json()).detail || detail; } catch (_) {}
+    return { question, answer: detail, sources: [], mode: 'error' };
+  }
+  const reader = resp.body.getReader();
+  const decoder = new TextDecoder();
+  const body = msg.querySelector('.body');
+  let buffer = '', text = '', corrected = false, pending = false;
+  const paint = () => { pending = false; body.innerHTML = renderAnswer(text); scrollDown(); };
+  while (true) {
+    const { value, done } = await reader.read();
+    if (done) break;
+    buffer += decoder.decode(value, { stream: true });
+    let cut;
+    while ((cut = buffer.indexOf('\n\n')) >= 0) {
+      const block = buffer.slice(0, cut);
+      buffer = buffer.slice(cut + 2);
+      if (block.startsWith(':')) continue;           // a keep-alive ping
+      const event = (block.match(/^event: (.*)$/m) || [])[1];
+      const raw = (block.match(/^data: (.*)$/m) || [])[1];
+      if (!event || raw === undefined) continue;
+      const data = JSON.parse(raw);
+      if (event === 'step') liveStep(msg, stepLabel(data));
+      else if (event === 'token') {
+        if (!text) liveStep(msg, 'Writing the answer…');
+        text += data;
+        if (!pending) { pending = true; requestAnimationFrame(paint); }
+      } else if (event === 'replace') { text = data; corrected = true; paint(); }
+      else if (event === 'done') return Object.assign(data, { _corrected: corrected });
+      else if (event === 'error') return { question, answer: data.message, sources: [], mode: 'error' };
+    }
+  }
+  return text ? { question, answer: text, sources: [], mode: 'stopped' } : null;
+}
+
+async function plainAnswer(question, signal) {
+  const resp = await fetch(apiUrlInput.value, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: requestBody(question), signal,
+  });
+  if (!resp.ok) {
+    let detail = 'HTTP ' + resp.status;
+    try { detail = (await resp.json()).detail || detail; } catch (_) {}
+    return { question, answer: detail, sources: [], mode: 'error' };
+  }
+  return resp.json();
 }
 
 // `shown` is what appears as the student's message: the question itself, or
 // the choice they clicked ("B.Tech") when a clarified question is re-asked.
-async function send(question, shown, history) {
-  if (sendBtn.disabled) return;
-  addMine(shown);
-  sendBtn.disabled = true;
-  const pending = addThinking();
-  pending.historyAtAsk = history;
-
+// `reuse` is the student's message to answer again (Regenerate).
+async function send(question, shown, reuse) {
+  if (busy) return;
+  const mine = reuse || addMine(shown);
+  mine.asked = question;
+  mine.turnIndex = turns.length;
+  const msg = addBot();
+  const controller = new AbortController();
+  setBusy(controller);
+  let data = null;
   try {
-    const resp = await fetch(apiUrlInput.value, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ question, history, profile }),
-    });
-    if (!resp.ok) {
-      let detail = 'HTTP ' + resp.status;
-      try { detail = (await resp.json()).detail || detail; } catch (_) {}
-      pending.innerHTML = '';
-      fillAnswer(pending, { question, answer: detail, sources: [], mode: 'error' });
-      return;
+    try {
+      data = await streamAnswer(question, msg, controller.signal);
+    } catch (err) {
+      if (err.name === 'AbortError') throw err;
+      data = null;                                   // the stream failed: try the plain endpoint
     }
-    const data = await resp.json();
-    fillAnswer(pending, data);
-    asked.push(data.understood_as || question);
+    if (!data) data = await plainAnswer(question, controller.signal);
+    fillAnswer(msg, data, { corrected: data._corrected });
+    if (data.mode !== 'error' && data.mode !== 'clarify') {
+      turns.push({ q: data.understood_as || question, a: data.answer });
+      turns = turns.slice(-50);
+    }
   } catch (err) {
-    fillAnswer(pending, {
-      question,
-      answer: 'Could not reach the chatbot server (' + err.message + '). Is it still running?',
-      sources: [], mode: 'error',
-    });
+    const partial = msg.querySelector('.body') ? msg.querySelector('.body').innerText.trim() : '';
+    if (err.name === 'AbortError') {
+      fillAnswer(msg, { question, answer: (partial ? partial + '\n\n' : '') + '*Stopped.*',
+                        sources: [], mode: 'stopped' });
+    } else {
+      fillAnswer(msg, { question, sources: [], mode: 'error',
+                        answer: 'Could not reach the chatbot server (' + err.message + '). Is it still running?' });
+    }
   } finally {
-    sendBtn.disabled = false;
+    setBusy(null);
+    save();
     input.focus();
   }
 }
 
-form.addEventListener('submit', e => { e.preventDefault(); ask(); });
+// "Keep this chat if I reload": this tab only, and only when ticked.
+function save() {
+  try {
+    if (!keepBox.checked) { sessionStorage.removeItem(STORE); return; }
+    const messages = [...chat.children].map(m => m.classList.contains('me')
+      ? { me: m.querySelector('.bubble').textContent, asked: m.asked }
+      : { data: m.data || null });
+    sessionStorage.setItem(STORE, JSON.stringify({ turns, profile, messages }));
+  } catch (_) { /* storage blocked: the chat simply isn't kept */ }
+}
+
+function restore() {
+  try {
+    const saved = JSON.parse(sessionStorage.getItem(STORE) || 'null');
+    if (!saved) return;
+    keepBox.checked = true;
+    turns = saved.turns || [];
+    profile = saved.profile || {};
+    let index = 0;
+    (saved.messages || []).forEach(m => {
+      if (m.me !== undefined) {
+        const mine = addMine(m.me);
+        mine.asked = m.asked;
+        mine.turnIndex = index;
+      } else if (m.data) {
+        const msg = document.createElement('div');
+        msg.className = 'msg bot';
+        chat.appendChild(msg);
+        fillAnswer(msg, m.data);
+        if (m.data.mode !== 'error' && m.data.mode !== 'clarify') index++;
+      }
+    });
+    showProfile();
+    refreshControls();
+  } catch (_) { /* nothing kept, or storage blocked */ }
+}
+
+keepBox.addEventListener('change', save);
+
+document.getElementById('new-chat').addEventListener('click', () => {
+  if (busy) busy.abort();
+  turns = [];
+  profile = {};
+  chat.innerHTML = '';
+  empty.hidden = false;
+  showProfile();
+  save();
+  input.focus();
+});
+
+form.addEventListener('submit', e => {
+  e.preventDefault();
+  if (busy) { busy.abort(); return; }               // the button is Stop while answering
+  ask();
+});
 
 // Enter sends, Shift+Enter makes a new line; the box grows with the text.
-input.addEventListener('keydown', e => {
-  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); ask(); }
-});
-input.addEventListener('input', () => {
+function grow() {
   input.style.height = 'auto';
-  input.style.height = Math.min(input.scrollHeight, 140) + 'px';
+  input.style.height = Math.min(input.scrollHeight, 200) + 'px';
+}
+input.addEventListener('keydown', e => {
+  if (e.key === 'Enter' && !e.shiftKey && !e.isComposing) { e.preventDefault(); if (!busy) ask(); }
 });
+input.addEventListener('input', grow);
+
+restore();
+// A link like /?q=hostel+fee asks that question when the page opens (the
+// website's pages can link straight to an answer).
+const preset = new URLSearchParams(location.search).get('q');
+if (preset && !chat.children.length) ask(preset.slice(0, 500));
 input.focus();
 </script>
 </body>
