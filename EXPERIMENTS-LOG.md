@@ -650,6 +650,30 @@ Tests (no key): `test_no_question_back_when_every_group_has_the_same_answer`, `t
 
 Tests (no key): 8 phrasings that take the swap, 2 that must not ("and the mess fee?", "who is the warden?"), and the `mode_of_study` slot. test_agentic 66/66; retrieval checks unchanged.
 
+## 33. The AI asked again: 91/100 → 97/100 (Runbook 9, Step 7)
+
+Asked on 21 Nov 2026 through the agent (gpt-oss-120b), one case at a time (`check_answers.py --only <name> --pause 30`), after Steps 3–5. About 99,000 tokens for 20 cases; the daily limit was not reached.
+
+**The 9 failures:**
+
+| Case | Before | After | Why |
+|---|---|---|---|
+| msc_tuition | FAIL (₹0, the SC/ST row) | **PASS** | The fee estimate's tuition row now reaches the AI (shared lead-ins, §30) |
+| phd_tuition_full_time | FAIL (₹22,100, the total) | **PASS** | The tuition row (₹7,500) now reaches the AI (rank 10 → 7) |
+| mess_joining_first_year | FAIL (asked boys/girls) | **PASS** | Asked back only when the answers differ (§31) |
+| conv_hostel_mtech | FAIL (rewrite left "What about M.Tech?") | **PASS** | Slot swap in code (§32) |
+| clarify_profile_mtech | FAIL (₹78,840, wrong items added) | **PASS** | With the new chunks the M.Tech sheet's passages are cleaner; ₹40,080 given |
+| clarify_tuition_vague | FAIL (answered without asking) | **PASS** | Asks which programme (§31) |
+| holiday_holi | FAIL | FAIL | Answered "03 March" from the *restricted* list (Holika Dahan); the gazetted row "Holi — 04.03.2026" still ranks 9th |
+| companies_btech_2425 | FAIL | FAIL | The statistics row ("Number of Companies Visited — B.Tech: 121") is not found, even by `read_document` on the report |
+| conv_phd_part_time | FAIL (₹25,000, the total) | FAIL (₹25,000, the total) | Right question now, but the tuition row (₹15,000) ranks 10th |
+
+**Regression sample** (all passed before): director, unanswerable_director_salary (picked up by the "director" fragment), no_clarify_director, hostel_fee_first_year, btech_fee_open, placements, unanswerable_wifi, conv_hostel_girls, clarify_hostel_vague, clarify_then_answer, classes_start_fy — **11/11 pass**. No change was reverted; no pattern was changed, so no `--rescore`.
+
+**Overall, from `answer_check.json`: 97/100 saved results pass** (the other 80 are the saved answers from 14 and 19 Nov, asked before tonight's changes; a full re-run would measure them on the new code, at ~450k tokens).
+
+The three left are all search misses on table rows that the AI never sees; the next idea worth measuring is a keyword boost for a rare word the question shares with a single table row ("Holi", "Companies Visited"), which the cross-encoder alone does not reward enough.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

@@ -272,3 +272,82 @@ Reading the numbers:
 - Converting 116 PDFs with Docling takes roughly 2-4 hours and needs the Drive key (`ingest_documents.py`, after running `discover()` so they enter `inventory.json`). The decision is Shivanand's.
 
 **Done when:** counts and list in REPORT9.md. **Met.**
+
+## Step 7. Ask the AI: the 9 failures and a regression sample
+
+Commands (from `pipeline/`), one case at a time, the key read inside the command only:
+`GENAI_API_KEY=$(head -1 ~/groq-key.txt | tr -d '
+ ') $PY check_answers.py --only <name> --pause 30`
+
+```
+=== msc_tuition (08:12)
+[PASS] msc_tuition  (tools: 1, check: verified)
+Answer check (agent): 1/1 passed
+=== holiday_holi (08:13)
+[FAIL] holiday_holi missing ['0?4[./-]0?3|\\b4(th)?\\s*Mar|Mar\\w*\\s*4\\b']  (tools: 2, check: verified)
+Answer check (agent): 0/1 passed
+=== phd_tuition_full_time (08:15)
+[PASS] phd_tuition_full_time  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== companies_btech_2425 (08:16)
+[FAIL] companies_btech_2425 missing ['\\b121\\b']  (tools: 2, check: verified)
+Answer check (agent): 0/1 passed
+=== mess_joining_first_year (08:18)
+[PASS] mess_joining_first_year  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== conv_hostel_mtech (08:19)
+[PASS] conv_hostel_mtech  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== conv_phd_part_time (08:20)
+[FAIL] conv_phd_part_time missing ['15,?000']  (tools: 0, check: verified)
+Answer check (agent): 0/1 passed
+=== clarify_profile_mtech (08:21)
+[PASS] clarify_profile_mtech  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== clarify_tuition_vague (08:21)
+[PASS] clarify_tuition_vague  (mode: clarify, choices: ['btech', 'barch', 'mtech', 'msc'])
+Answer check (agent): 1/1 passed
+=== director (08:22)
+[PASS] director  (tools: 0, check: verified)
+[PASS] unanswerable_director_salary  (tools: 2, check: refused)
+[PASS] no_clarify_director  (tools: 0, check: verified)
+Answer check (agent): 3/3 passed
+=== hostel_fee_first_year (08:25)
+[PASS] hostel_fee_first_year  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== btech_fee_open (08:26)
+[PASS] btech_fee_open  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== placements (08:27)
+[PASS] placements  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== unanswerable_wifi (08:28)
+[PASS] unanswerable_wifi  (tools: 2, check: verified)
+Answer check (agent): 1/1 passed
+=== conv_hostel_girls (08:29)
+[PASS] conv_hostel_girls  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== clarify_hostel_vague (08:30)
+[PASS] clarify_hostel_vague  (mode: clarify, choices: ['btech', 'barch', 'msc', 'phd'])
+Answer check (agent): 1/1 passed
+=== clarify_then_answer (08:31)
+[PASS] clarify_then_answer  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== classes_start_fy (08:32)
+[PASS] classes_start_fy  (tools: 0, check: verified)
+Answer check (agent): 1/1 passed
+=== finished 08:33
+```
+
+Failures still failing, first 300 characters of the answer:
+- **holiday_holi:** "Yes – Holi is observed as a restricted holiday on 03 March 2026 at VNIT. The “List of Holiday’s during the year 2026” records Holika Dahan – Date: 03.03.2026 …" Wrong: the gazetted list has "Holi — 04.03.2026". That row ranks 9th, so the AI never saw it.
+- **companies_btech_2425:** "I’m sorry, but none of the provided documents state the total number of companies that visited for B.Tech placements in 2024-25 …" The agent searched and looked inside the 2024-25 report for "total companies", but the row "Number of Companies Visited — B.Tech: 121" did not come up.
+- **conv_phd_part_time:** "₹25,000 per semester for a part-time PhD …" The rewrite is right now ("What is the tuition fee for part time PhD per semester?"), but ₹25,000 is the per-semester total; the tuition row (₹15,000) ranks 10th.
+
+Mode, tools, verifier: all 17 written answers "agent (openai/gpt-oss-120b)", 0-2 tool calls, verifier "verified" (or "refused" for the must-decline case); the 2 clarify cases asked with the expected choices.
+
+Tokens: about 99,000 for 20 cases (gpt-oss-120b), under the 120,000 budget; no daily-limit stop. Regression: 11/11 pass; nothing reverted; no pattern changed, no `--rescore`.
+
+**New overall: 97/100 saved results pass** (was 91/100). Before/after table: EXPERIMENTS-LOG §33.
+
+**Done when:** every case asked; new count computed; §33 written. **Met.**

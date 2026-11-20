@@ -11,7 +11,7 @@ Read this first after a restart; carry on from the first step not marked DONE or
 | 4 | DONE | ask back only when the answers differ; vague fee question asks; 2/100 ask back, both expected (§31) |
 | 5 | DONE | slot-only follow-ups rewritten in code; both conversations get the right question (§32) |
 | 6 | DONE | 4,569 new document links; 116 new titles about fees/calendar/hostel/scholarship/placement/rules; counted only |
-| 7 | | |
+| 7 | DONE | 6 of 9 failures fixed, regression 11/11, 97/100 saved results; ~99k tokens (§33) |
 | 8 | | |
 
 ## Decisions
