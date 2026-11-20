@@ -21,6 +21,7 @@ What is deliberately NOT ingested (see select()):
     images and videos.
 """
 import argparse
+import gzip
 import json
 import os
 import re
@@ -42,6 +43,9 @@ DOC_DIR = ROOT / "data" / "documents"
 INVENTORY = DOC_DIR / "inventory.json"
 STATUS = DOC_DIR / "status.json"
 IN_PROGRESS = DOC_DIR / "in_progress.txt"
+ADDED_LIST = DOC_DIR / f"added_{date.today().isoformat()}.json"
+# the website project's saved full crawl, read by discover-crawl (read-only)
+SITE_CRAWL = ROOT.parent / "vnit-website" / "crawl"
 # 15 minutes is enough for all but the longest documents. Course books and FAQ
 # sheets (dense, often scanned, so every page goes through OCR) timed out at
 # this limit; retry those few with VNIT_DOC_TIMEOUT set higher rather than
@@ -104,6 +108,34 @@ def _page_urls():
     return urls + [u for u in EXTRA_PAGES if u not in urls]
 
 
+def links_on(url: str, html: str):
+    """(key, entry, link text) for each document linked from one page: Google
+    Drive files and PDFs on vnit.ac.in itself."""
+    for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
+        link = urljoin(url, a["href"].split("#")[0])
+        text = a.get_text(" ", strip=True)[:200]
+        fid = du.drive_file_id(link)
+        if fid:
+            yield f"drive:{fid}", {"kind": "drive", "id": fid,
+                                   "url": f"https://drive.google.com/file/d/{fid}/view"}, text
+        elif urlparse(link).netloc == "vnit.ac.in" and urlparse(link).path.lower().endswith(".pdf"):
+            yield f"web:{link}", {"kind": "web", "url": link}, text
+
+
+def add_metadata(v: dict, key: str):
+    """Drive's name/type/size/date for a Drive file; for a vnit.ac.in PDF, the
+    month it was uploaded, read from its /uploads/YYYY/MM/ path."""
+    if v["kind"] == "drive":
+        try:
+            v.update(du.file_metadata(v["id"], key))
+        except du.DriveError as e:
+            v["error"] = str(e)
+    else:
+        m = re.search(r"/uploads/(\d{4})/(\d{2})/", v["url"])
+        v.update({"mimeType": "application/pdf", "name": Path(urlparse(v["url"]).path).name,
+                  "modifiedTime": f"{m.group(1)}-{m.group(2)}-01" if m else ""})
+
+
 def discover():
     DOC_DIR.mkdir(parents=True, exist_ok=True)
     found = {}
@@ -118,36 +150,112 @@ def discover():
         except Exception as e:
             print(f"  [page error] {url}: {e}")
             continue
-        for a in BeautifulSoup(resp.text, "html.parser").find_all("a", href=True):
-            link = urljoin(url, a["href"].split("#")[0])
-            text = a.get_text(" ", strip=True)[:200]
-            fid = du.drive_file_id(link)
-            if fid:
-                key, entry = f"drive:{fid}", {"kind": "drive", "id": fid,
-                                              "url": f"https://drive.google.com/file/d/{fid}/view"}
-            elif urlparse(link).netloc == "vnit.ac.in" and urlparse(link).path.lower().endswith(".pdf"):
-                key, entry = f"web:{link}", {"kind": "web", "url": link}
-            else:
-                continue
+        for key, entry, text in links_on(url, resp.text):
             if key not in found:
                 found[key] = {**entry, "link_text": text, "found_on": url}
         print(f"[{i}/{len(pages)}] {len(found)} documents so far")
 
     key = du.load_key()
-    for n, (k, v) in enumerate(found.items(), 1):
-        if v["kind"] == "drive":
-            try:
-                v.update(du.file_metadata(v["id"], key))
-            except du.DriveError as e:
-                v["error"] = str(e)
-        else:
-            m = re.search(r"/uploads/(\d{4})/(\d{2})/", v["url"])
-            v.update({"mimeType": "application/pdf", "name": Path(urlparse(v["url"]).path).name,
-                      "modifiedTime": f"{m.group(1)}-{m.group(2)}-01" if m else ""})
+    for n, v in enumerate(found.values(), 1):
+        add_metadata(v, key)
         if n % 50 == 0:
             print(f"  metadata {n}/{len(found)}")
     INVENTORY.write_text(json.dumps(found, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"\n{len(found)} documents recorded in {INVENTORY}")
+
+
+def _norm(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", (text or "").lower()).strip()
+
+
+def crawl_links(crawl_dir: Path) -> dict:
+    """Every document linked from the website project's saved full crawl
+    (read-only; no page is fetched): {key: entry with link_text and found_on}.
+    A link seen on several pages keeps the first non-empty link text."""
+    manifest = json.loads((crawl_dir / "manifest.json").read_text(encoding="utf-8"))
+    found = {}
+    for url, page in manifest.items():
+        if "file" not in page:
+            continue
+        html = gzip.decompress((crawl_dir / "html" / page["file"]).read_bytes()).decode("utf-8", "replace")
+        for key, entry, text in links_on(page.get("final_url") or url, html):
+            if key not in found or (text and not found[key]["link_text"]):
+                found[key] = {**entry, "link_text": text, "found_on": url}
+    return found
+
+
+def crawl_candidates(found: dict, inventory: dict, status: dict):
+    """The crawl's documents worth adding: not in the inventory, not titled like
+    a list of people or procurement, titled about fees, calendar, hostel,
+    scholarship, placement or rules (TIER0_WORDS), and not the title of a
+    document already known under another link (the same notice is often on
+    Drive and on vnit.ac.in). One link per title. Returns (chosen, skipped
+    counts by reason)."""
+    known = {_norm(v.get("title", "")) for v in status.values()} | \
+            {_norm(v.get("link_text", "")) for v in inventory.values()}
+    chosen, seen, skipped = {}, set(), {}
+
+    def skip(reason):
+        skipped[reason] = skipped.get(reason, 0) + 1
+
+    for k, v in found.items():
+        text = v["link_text"]
+        if k in inventory:
+            skip("already in inventory")
+        elif re.search(f"{PEOPLE_LISTS}|{PROCUREMENT}", text, re.I):
+            skip("list of people or procurement")
+        elif not re.search(TIER0_WORDS, text, re.I):
+            skip("not about fees, calendar, hostel, scholarship, placement or rules")
+        elif _norm(text) in known:
+            skip("same title as a document already known")
+        elif _norm(text) in seen:
+            skip("same title as another new link")
+        else:
+            seen.add(_norm(text))
+            chosen[k] = v
+    return chosen, skipped
+
+
+def merge_inventory(path: Path, new: dict) -> int:
+    """Add new entries to the inventory file; existing keys are never changed or
+    dropped. Written through a temporary file and renamed, so a crash can't
+    leave half a file. Returns how many were added."""
+    inventory = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    added = {k: v for k, v in new.items() if k not in inventory}
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps({**inventory, **added}, indent=1, ensure_ascii=False), encoding="utf-8")
+    os.replace(tmp, path)
+    return len(added)
+
+
+def added_keys() -> set:
+    """Keys of every document discover-crawl has added, over all its runs."""
+    return {k for f in DOC_DIR.glob("added_*.json") for k in json.loads(f.read_text(encoding="utf-8"))}
+
+
+def discover_crawl():
+    """discover(), but from the website project's saved full crawl, adding to
+    the inventory instead of rewriting it. The keys added are listed in
+    data/documents/added_<date>.json, for `convert --only-new`."""
+    inventory = json.loads(INVENTORY.read_text(encoding="utf-8"))
+    status = json.loads(STATUS.read_text(encoding="utf-8")) if STATUS.exists() else {}
+    found = crawl_links(SITE_CRAWL)
+    chosen, skipped = crawl_candidates(found, inventory, status)
+    print(f"{len(found)} document links in the crawl; {len(chosen)} to add.")
+    for reason, n in skipped.items():
+        print(f"  skipped, {reason}: {n}")
+    key = du.load_key()
+    for n, v in enumerate(chosen.values(), 1):
+        add_metadata(v, key)
+        if n % 20 == 0:
+            print(f"  metadata {n}/{len(chosen)}")
+    errors = [v for v in chosen.values() if v.get("error")]
+    for v in errors:
+        print(f"  [metadata error] {v['link_text'][:60]}: {v['error'][:100]}")
+    added = merge_inventory(INVENTORY, chosen)
+    ADDED_LIST.write_text(json.dumps(sorted(chosen), indent=1), encoding="utf-8")
+    print(f"\nAdded {added} documents to {INVENTORY.name} ({len(errors)} metadata errors); "
+          f"their keys are in {ADDED_LIST.name}.")
 
 
 def title_of(v) -> str:
@@ -217,13 +325,16 @@ def fetch_pdf(v: dict, key: str) -> Path:
     return cache
 
 
-def convert(limit: int, tiers):
+def convert(limit: int, tiers, only_new=False):
     import doc_convert
 
     inventory = json.loads(INVENTORY.read_text(encoding="utf-8"))
     status = json.loads(STATUS.read_text(encoding="utf-8")) if STATUS.exists() else {}
     key = du.load_key()
     todo = [(t, k, v) for t, k, v in select(inventory) if t in tiers]
+    if only_new:
+        added = added_keys()
+        todo = [(t, k, v) for t, k, v in todo if k in added]
     done_now = 0
     print(f"{len(todo)} documents selected in tiers {sorted(tiers)}; "
           f"{sum(1 for _, k, _ in todo if k in status)} already processed.")
@@ -273,7 +384,7 @@ def convert(limit: int, tiers):
     print(f"\nProcessed this run: {done_now}. Total ingested so far: {ok}.")
 
 
-def supervise(limit: int, tiers):
+def supervise(limit: int, tiers, only_new=False):
     """Run convert() in a worker process and restart it if it dies.
 
     Docling's native OCR/layout code can crash the whole Python process
@@ -288,7 +399,7 @@ def supervise(limit: int, tiers):
     while True:
         IN_PROGRESS.unlink(missing_ok=True)
         worker = subprocess.Popen([sys.executable, "-u", __file__, "convert", "--worker",
-                                   "--tiers", tier_arg, "--limit", str(limit)])
+                                   "--tiers", tier_arg, "--limit", str(limit)] + (["--only-new"] if only_new else []))
         timed_out = False
         while worker.poll() is None:
             time.sleep(5)
@@ -311,22 +422,29 @@ def supervise(limit: int, tiers):
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
-    ap.add_argument("action", choices=["discover", "convert", "plan"])
+    ap.add_argument("action", choices=["discover", "discover-crawl", "convert", "plan"])
     ap.add_argument("--limit", type=int, default=10_000)
     ap.add_argument("--tiers", default="0,1,2")
     ap.add_argument("--worker", action="store_true", help=argparse.SUPPRESS)
+    ap.add_argument("--only-new", action="store_true",
+                    help="only the documents discover-crawl added (data/documents/added_*.json)")
     a = ap.parse_args()
     tiers = {int(t) for t in a.tiers.split(",")}
     if a.action == "discover":
         discover()
+    elif a.action == "discover-crawl":
+        discover_crawl()
     elif a.action == "plan":
         sel = [s for s in select(json.loads(INVENTORY.read_text(encoding="utf-8"))) if s[0] in tiers]
+        if a.only_new:
+            added = added_keys()
+            sel = [s for s in sel if s[1] in added]
         for t in sorted(tiers):
             items = [s for s in sel if s[0] == t]
             print(f"\n=== tier {t}: {len(items)} documents")
             for _, _, v in items[:25]:
                 print(f"   {(v.get('modifiedTime') or '')[:10]}  {title_of(v)[:100]}")
     elif a.worker:
-        convert(a.limit, tiers)
+        convert(a.limit, tiers, a.only_new)
     else:
-        supervise(a.limit, tiers)
+        supervise(a.limit, tiers, a.only_new)

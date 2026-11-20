@@ -833,6 +833,66 @@ def test_mode_of_study_is_a_profile_slot():
     assert slots.clean_profile({"mode_of_study": "part-time", "mode_of_study2": "x"}) == {"mode_of_study": "part-time"}
 
 
+# ---------------------------------------------------------------------------
+# Documents from the saved full crawl (ingest_documents.py discover-crawl)
+# ---------------------------------------------------------------------------
+
+def _fake_crawl(tmp, pages):
+    import gzip
+    from pathlib import Path
+    crawl = Path(tmp) / "crawl"
+    (crawl / "html").mkdir(parents=True)
+    manifest = {}
+    for i, (url, links) in enumerate(pages.items()):
+        html = "".join(f'<a href="{href}">{text}</a>' for href, text in links)
+        (crawl / "html" / f"p{i}.html.gz").write_bytes(gzip.compress(html.encode("utf-8")))
+        manifest[url] = {"file": f"p{i}.html.gz"}
+    (crawl / "manifest.json").write_text(json.dumps(manifest), encoding="utf-8")
+    return crawl
+
+
+def test_crawl_documents_skip_known_links_people_lists_and_other_topics():
+    import tempfile
+    import ingest_documents as ing
+    old_id, new_id = "A" * 25, "B" * 25
+    with tempfile.TemporaryDirectory() as tmp:
+        crawl = _fake_crawl(tmp, {
+            "https://vnit.ac.in/section/academics/fees/": [
+                (f"https://drive.google.com/file/d/{old_id}/view", "Fee structure 2025-26"),
+                (f"https://drive.google.com/file/d/{new_id}/view", "Fee structure 2026-27"),
+                ("https://drive.google.com/file/d/" + "C" * 25 + "/view", "Merit list for hostel 2026"),
+                ("https://vnit.ac.in/wp-content/uploads/2026/07/x.pdf", "Fee structure 2026-27"),
+                ("https://vnit.ac.in/wp-content/uploads/2026/07/y.pdf", "Annual sports report"),
+            ],
+            "https://vnit.ac.in/section/hostel/": [(f"https://drive.google.com/file/d/{new_id}/view", "")],
+        })
+        found = ing.crawl_links(crawl)
+        inventory = {f"drive:{old_id}": {"link_text": "Fee structure 2025-26"}}
+        chosen, skipped = ing.crawl_candidates(found, inventory, {})
+    assert list(chosen) == [f"drive:{new_id}"], chosen        # added once, though linked twice
+    assert chosen[f"drive:{new_id}"]["link_text"] == "Fee structure 2026-27"
+    assert skipped == {"already in inventory": 1, "list of people or procurement": 1,
+                       "same title as another new link": 1,
+                       "not about fees, calendar, hostel, scholarship, placement or rules": 1}, skipped
+
+
+def test_inventory_merge_keeps_every_existing_entry():
+    import tempfile
+    from pathlib import Path
+    import ingest_documents as ing
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "inventory.json"
+        existing = {"drive:old": {"url": "u1", "link_text": "Old notice", "modifiedTime": "2025-01-01"}}
+        path.write_text(json.dumps(existing), encoding="utf-8")
+        added = ing.merge_inventory(path, {"drive:old": {"url": "CHANGED"}, "drive:new": {"url": "u2"}})
+        merged = json.loads(path.read_text(encoding="utf-8"))
+        assert ing.merge_inventory(path, {"drive:new": {"url": "u2"}}) == 0
+        leftovers = [p.name for p in Path(tmp).iterdir()]
+    assert added == 1
+    assert merged == {"drive:old": existing["drive:old"], "drive:new": {"url": "u2"}}, merged
+    assert leftovers == ["inventory.json"], leftovers
+
+
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     tests = [(n, f) for n, f in sorted(globals().items()) if n.startswith("test_") and callable(f)]
