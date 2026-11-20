@@ -58,6 +58,67 @@ def looks_like_followup(question: str) -> bool:
     return bool(_BARE_REFERENCE.search(q)) and not _HAS_SUBJECT.search(q)
 
 
+# Slot values a short follow-up may name, per kind, matched case-insensitively.
+# Categories are matched more loosely than in slots.py ("sc" typed in lower
+# case), which is safe here because the whole follow-up must be slot values.
+_SWAP_KINDS = {
+    "programme": [(tag, re.compile(p, re.I)) for tag, p in [
+        ("B.Tech", r"\bb\.?\s*tech\b"), ("B.Arch", r"\bb\.?\s*arch\b"), ("M.Tech", r"\bm\.?\s*tech\b"),
+        ("M.Sc", r"\bm\.?\s*sc\b"), ("MBA", r"\bmba\b"), ("Ph.D", r"\bph\.?\s*d\b")]],
+    "gender": [(tag, re.compile(p, re.I)) for tag, p in [
+        ("girls", r"\bgirls?\b|\bwomen\b|\bladies\b"), ("boys", r"\bboys?\b|\bmen\b|\bgents\b")]],
+    "category": [(tag, re.compile(p, re.I)) for tag, p in [
+        ("SC/ST", r"\bsc\s*/\s*st\b"), ("OBC", r"\bobc\b"), ("EWS", r"\bews\b"), ("PwD", r"\bpwd\b"),
+        ("OPEN", r"\bopen\b|\bgeneral\b"), ("SC", r"\bsc\b"), ("ST", r"\bst\b")]],
+    "study_year": [(tag, re.compile(p, re.I)) for tag, p in [
+        ("first year", r"\b(first|1st)\s+year\b"), ("second year", r"\b(second|2nd)\s+year\b"),
+        ("third year", r"\b(third|3rd)\s+year\b"), ("fourth year", r"\b(fourth|4th)\s+year\b"),
+        ("final year", r"\b(final|last)\s+year\b")]],
+    "mode_of_study": [(tag, re.compile(p, re.I)) for tag, p in [
+        ("full time", r"\bfull[\s-]?time\b"), ("part time", r"\bpart[\s-]?time\b")]],
+}
+_FILLER = {"for", "the", "a", "an", "of", "in", "students", "student", "candidates", "scholars",
+           "category", "categories", "programme", "program", "course", "ones", "one"}
+
+
+def _swap_rewrite(question: str, previous: str):
+    """"what about M.Tech?" after "What is the hostel fee for first year B.Tech boys?"
+    -> "What is the hostel fee for first year M.Tech boys?", in code.
+
+    Only when the follow-up names nothing but slot values (programme, gender,
+    category, year of study, full-/part-time): each replaces the previous
+    question's value of the same kind, or is added as "(for ...)" when it had
+    none. Anything else ("and the mess fee?") returns None and goes to the LLM.
+    The LLM rewrite once returned "What about M.Tech?" unchanged, and the search
+    then found the M.Tech programme pages instead of the fee sheet.
+    """
+    core = re.sub(r"^(and|also|but|so)\b[\s,]*", "", question.strip(), flags=re.I)
+    core = re.sub(r"^(what|how)\s+about\b[\s,]*", "", core, flags=re.I).strip(" ?.!")
+    found, rest = [], core
+    for kind, values in _SWAP_KINDS.items():
+        for label, pattern in values:
+            m = pattern.search(rest)
+            if m:
+                found.append((kind, label))
+                rest = rest[:m.start()] + " " + rest[m.end():]
+                break
+    if not found or any(w.lower() not in _FILLER for w in re.findall(r"[\w./-]+", rest)):
+        return None
+    rewritten, added = previous.strip(), []
+    for kind, label in found:
+        for _old, pattern in _SWAP_KINDS[kind]:
+            m = pattern.search(rewritten)
+            if m:
+                rewritten = rewritten[:m.start()] + label + rewritten[m.end():]
+                break
+        else:
+            added.append(label)
+    if added:
+        end = "?" if rewritten.endswith("?") else ""
+        rewritten = f"{rewritten.rstrip('?').rstrip()} (for {' '.join(added)}){end}"
+    return rewritten
+
+
 def _glue(question: str, previous: str) -> str:
     """Fallback rewrite: keep both questions' words in one string."""
     core = re.sub(r"^(and|also|but|so)\b[\s,]*", "", question.strip(), flags=re.IGNORECASE)
@@ -120,6 +181,9 @@ def resolve(question: str, history, api_key: str = None, base_url: str = None,
     history = [h for h in (history or []) if h and h.strip()]
     if not history or not looks_like_followup(question):
         return question, None
+    swapped = _swap_rewrite(question, history[-1])
+    if swapped:
+        return swapped, "rewritten"
 
     api_key = api_key or os.environ.get("GENAI_API_KEY")
     base_url = base_url or os.environ.get("GENAI_BASE_URL", "https://api.groq.com/openai/v1")

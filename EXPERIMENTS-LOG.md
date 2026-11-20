@@ -627,6 +627,29 @@ Newly reaching the AI: `gs_eligibility` (not in top 12 → 3), `msc_tuition` (�
 
 Tests (no key): `test_no_question_back_when_every_group_has_the_same_answer`, `test_question_back_when_the_groups_have_different_figures`, `test_vague_tuition_question_asks_which_programme`, `test_fee_question_about_something_else_is_not_asked_back`, `test_profile_brings_the_mtech_hostel_sheet`, and `test_no_unexpected_questions_back_over_all_cases` (all 100 cases; skipped without the index).
 
+## 32. Follow-ups that only change a detail, rewritten in code (Runbook 9, Step 5)
+
+**The two failing conversations, from their saved traces:**
+- `conv_hostel_mtech` ("…hostel fee for first year B.Tech boys…" → "what about mtech?"): **the rewrite failed.** gpt-oss-20b returned "What about M.Tech?" unchanged, the search found M.Tech programme pages, and the answer listed M.Tech specialisations.
+- `conv_phd_part_time` ("…tuition fee for full time PhD per semester?" → "and for part time?"): **the rewrite was right** ("What is the tuition fee for part time PhD per semester?"); the answer gave the per-semester *total* (₹25,000) instead of the tuition row (₹15,000) — the same row confusion as `phd_tuition_full_time`.
+
+**Change (`followup._swap_rewrite`), before the LLM rewrite:** when a follow-up names nothing but slot values — programme, gender, category, year of study, or full-/part-time — each value replaces the previous question's value of the same kind, or is added as "(for …)" when the previous question had none. No LLM call, the same result every time. Anything else ("and the mess fee?") still goes to the LLM rewrite. `mode_of_study` (full-time / part-time) is now a slot in `slots.py`, with the same validation as the others.
+
+**No key, all six conversations** (`respond.answer` with history):
+
+| Case | Follow-up | Searched as | Answer passage rank |
+|---|---|---|---|
+| conv_hostel_girls | and for girls? | …first year B.Tech **girls** for the Winter 2026 session? | 3 |
+| conv_mtech_tuition | what about M.Tech? | (a slot-only follow-up: same swap) | 1 |
+| **conv_hostel_mtech** | what about mtech? | …first year **M.Tech** boys for the Winter 2026 session? | **1** (₹40,080) |
+| **conv_phd_part_time** | and for part time? | …tuition fee for **part time** PhD per semester? | 10 (not reached) |
+| conv_placement_cse | and for cse specifically? | (not a slot value: glued without a key, LLM with one) | 1 |
+| conv_holiday | and dussehra? | (not a slot value: glued without a key, LLM with one) | 1 |
+
+`conv_phd_part_time` now has the right question; its passage (the "Tuition Fees — … Part-Time … 15000.00" row) ranks 10th, a retrieval miss like `phd_tuition_full_time` (7th). Recorded for Step 7.
+
+Tests (no key): 8 phrasings that take the swap, 2 that must not ("and the mess fee?", "who is the warden?"), and the `mode_of_study` slot. test_agentic 66/66; retrieval checks unchanged.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.

@@ -13,6 +13,7 @@
 | 2 (bigger index measured, not kept; backup restored) | 54/54 | 69/77 | 64/77 | 72/77 | 15/18 | 16/19 |
 | 3 (shared table lead-ins, repeated passages dropped) | 57/57 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
 | 4 (ask back only when the answers differ) | 63/63 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
+| 5 (slot-only follow-ups rewritten in code) | 66/66 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
 
 ## Step 0. Baseline, tag and backups
 
@@ -210,3 +211,21 @@ All 100 cases through `respond.answer`, no key:
 Tests added: 6 (listed in §31), including the all-100-cases count (skipped without the index). test_agentic 63/63. Retrieval checks identical to Step 3.
 
 **Done when:** tests pass; the clarify cases and `mess_joining_first_year` behave correctly without a key; checks no lower than Step 3; §31 written. **Met.**
+
+## Step 5. The two failing conversations
+
+Diagnosis from the saved traces: `conv_hostel_mtech` failed in the **rewrite** (the LLM returned "What about M.Tech?" unchanged); `conv_phd_part_time` failed in the **answer** (right question, but the total ₹25,000 was given as the tuition).
+
+Fix: `followup._swap_rewrite`, a code-only rewrite before the LLM for follow-ups that only name a slot value (programme, gender, category, year, full-/part-time). New slot `mode_of_study`. Details: EXPERIMENTS-LOG §32.
+
+No key, `respond.answer` with history:
+```
+conv_hostel_girls | and for girls? -> What is the hostel fee for first year B.Tech girls for the Winter 2026 session? | mode extractive (no GENAI_API_KEY set) | answer passage rank: 3
+conv_mtech_tuition | what about M.Tech? -> What is the yearly tuition fee for M.Tech students in the OPEN category? | mode extractive (no GENAI_API_KEY set) | answer passage rank: 1
+conv_hostel_mtech | what about mtech? -> What is the hostel fee for first year M.Tech boys for the Winter 2026 session? | mode extractive (no GENAI_API_KEY set) | answer passage rank: 1
+conv_phd_part_time | and for part time? -> What is the tuition fee for part time PhD per semester? | mode extractive (no GENAI_API_KEY set) | answer passage rank: 10
+conv_placement_cse | and for cse specifically? -> What was the average package for B.Tech in 2024-25 - for cse specifically | mode extractive (no GENAI_API_KEY set) | answer passage rank: 1
+conv_holiday | and dussehra? -> When is the Holi holiday in 2026 - dussehra | mode extractive (no GENAI_API_KEY set) | answer passage rank: 1
+```
+
+**Done when:** tests pass (66/66, 10 phrasings); the two conversations get the right stand-alone question without a key (both do); checks unchanged; §32 written. **Met.** `conv_phd_part_time`'s passage still ranks 10th (retrieval), recorded for Step 7.

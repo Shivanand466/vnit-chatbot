@@ -9,7 +9,7 @@ Read this first after a restart; carry on from the first step not marked DONE or
 | 2 | DONE | bigger index measured, not better: backup index restored, pages kept in data/raw_site_crawl/ (§29) |
 | 3 | DONE | shared table lead-ins + repeated passages dropped: 69/77 -> 73/77 reach the AI (§30) |
 | 4 | DONE | ask back only when the answers differ; vague fee question asks; 2/100 ask back, both expected (§31) |
-| 5 | | |
+| 5 | DONE | slot-only follow-ups rewritten in code; both conversations get the right question (§32) |
 | 6 | | |
 | 7 | | |
 | 8 | | |
