@@ -46,12 +46,25 @@ _HAS_SUBJECT = re.compile(
 )
 
 
-def looks_like_followup(question: str) -> bool:
-    """True when `question` needs earlier context to make sense on its own."""
+# "the second one", "which one is cheaper", "the latter": pointing at an item of
+# an earlier *answer*, which only v2 remembers (memory.py).
+_ITEM_REFERENCE = re.compile(
+    r"\b(first|second|third|fourth|last|other|cheaper|costlier|latter|former)\s+(one|option|item)s?\b|"
+    r"^which\s+one\b|\b(the\s+)?(latter|former)\b", re.IGNORECASE)
+
+
+def looks_like_followup(question: str, answers_remembered: bool = False) -> bool:
+    """True when `question` needs earlier context to make sense on its own.
+
+    `answers_remembered` (v2) also counts references to an item of an earlier
+    answer; v1 kept only questions, so it could not resolve those anyway.
+    """
     q = question.strip().rstrip("?").strip()
     if not q or len(q.split()) > MAX_FOLLOWUP_WORDS:
         return False
     if _CONNECTIVE_START.search(q):
+        return True
+    if answers_remembered and _ITEM_REFERENCE.search(q):
         return True
     # A bare referring word is only a follow-up if the question says nothing
     # concrete itself: "is it free?" yes, "is the hostel fee the same?" no.
@@ -136,16 +149,26 @@ def _glue(question: str, previous: str) -> str:
 REWRITE_MAX_TOKENS = 400
 
 
-def _llm_rewrite(question: str, history, api_key: str, base_url: str, model: str) -> str:
+def _llm_rewrite(question: str, history, api_key: str, base_url: str, model: str,
+                 turns=None) -> str:
     import requests
 
-    recent = "\n".join(f"- {h}" for h in history[-3:])
+    if turns:
+        # v2 (memory.py): the earlier answers too, so "how do I pay it?" after a
+        # fee answer can name the fee, and "the second one" can name an item.
+        import memory
+        context = "Conversation so far:\n" + memory.block(turns)
+        told = ("using the conversation so far for context (name the programme, item or "
+                "document it refers to)")
+    else:
+        context = "Earlier questions:\n" + "\n".join(f"- {h}" for h in history[-3:])
+        told = "using their earlier questions for context"
     prompt = (
         "Rewrite the student's latest question so that it can be understood on its own, "
-        "using their earlier questions for context. Keep it in the student's words, change "
+        f"{told}. Keep it in the student's words, change "
         "as little as possible, and do not answer it. Reply with the rewritten question and "
         "nothing else.\n\n"
-        f"Earlier questions:\n{recent}\n\nLatest question: {question}\n\nRewritten question:"
+        f"{context}\n\nLatest question: {question}\n\nRewritten question:"
     )
     body = {"model": model, "messages": [{"role": "user", "content": prompt}],
             "max_tokens": REWRITE_MAX_TOKENS, "temperature": 0, "reasoning_effort": "low"}
@@ -172,14 +195,16 @@ def _llm_rewrite(question: str, history, api_key: str, base_url: str, model: str
 
 
 def resolve(question: str, history, api_key: str = None, base_url: str = None,
-            model: str = None) -> tuple:
+            model: str = None, turns=None) -> tuple:
     """Return (question_to_search, note).
 
     `note` is None when the question was left alone, otherwise a short string
-    saying how it was read, for the chat page to show.
+    saying how it was read, for the chat page to show. `turns` (v2, memory.py)
+    are the earlier questions with their answers; only the LLM rewrite reads
+    the answers, and the code fast path stays as it is.
     """
     history = [h for h in (history or []) if h and h.strip()]
-    if not history or not looks_like_followup(question):
+    if not history or not looks_like_followup(question, answers_remembered=bool(turns)):
         return question, None
     swapped = _swap_rewrite(question, history[-1])
     if swapped:
@@ -191,7 +216,7 @@ def resolve(question: str, history, api_key: str = None, base_url: str = None,
 
     if api_key:
         try:
-            return _llm_rewrite(question, history, api_key, base_url, model), "rewritten"
+            return _llm_rewrite(question, history, api_key, base_url, model, turns), "rewritten"
         except Exception:
             pass  # fall through to the glue fallback; never fail the question
     return _glue(question, history[-1]), "combined with your previous question"
