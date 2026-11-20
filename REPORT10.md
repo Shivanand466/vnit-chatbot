@@ -65,3 +65,35 @@ Not reaching the LLM at baseline: `placements` and `higher_sem_classes_start` (n
   Both pass.
 
 **Done when:** existing entries unchanged plus about 116 new ones; plan output here. **Met.**
+
+## Step 2. Conversion
+
+- Run: `PDFPY ingest_documents.py convert --tiers 0,1,2 --only-new`, in the background, log in `../_trash/convert.log`.
+  - Started about 10:33. Stopped at the **4-hour timebox (14:35)**.
+  - Documents took 35 s to 11 min each. They were slowest while the evidence baseline (Step 4's script) ran beside them.
+  - The worker was stopped cleanly. Finished documents are kept in `status.json`. The document in progress at the stop was not recorded, so it is retried next time; its stale `in_progress.txt` was moved to `_trash/`.
+- **Counts, of the 115 selected:**
+  - 53 processed: **47 converted and kept**, 1 converted then excluded as personal data, 1 empty, 4 failed. That is the 48 converted by the converter, minus the 1 excluded after it.
+  - **62 still to do.** `convert --only-new` carries on with them when run again.
+- **Failed (4):** Ph.D. admission brochure January 2027 (timeout), SOP for Semester Fee Payment Summer 2025 (timeout), SOP Winter 2025 (timeout), ONGC Scholarship 2024-25 (worker crashed). Retry those with `VNIT_DOC_TIMEOUT` set higher.
+- **Empty (1):** "Detailed Brochure" (8 words, an image PDF).
+- **10 converted titles, the most useful first:**
+  1. S-27-Fee Notice Even Term – Academic Year 2026-27 – UG-PG (1,025 words)
+  2. Fees Payment Instruction Summer 2027 (751)
+  3. SOP for Semester Fee Payment Summer 2027 (1,621)
+  4. Information Brochure, Rules and Regulations for admission to M.Tech (Research) Program January 2027 (4,162)
+  5. Placement Policy_Batch 2027 (2,259)
+  6. Kotak Kanya Scholarship 2026-27 (97)
+  7. Shiksha Shakti Scholarship 2026–27 (308)
+  8. Extension of last date for Fee Remission 2026-27 application (84)
+  9. National Overseas Scholarship (NOS) Scheme for ST students (4,023)
+  10. Information Brochure for International Admissions – 2026 (591)
+- **Privacy re-check** over every new `doc_*.txt`: `looks_like_personal_data` false and no `STUDENT_ROLL` match. This passed for all 48, but reading the largest one found it is a list of people.
+  - "Notice – Refund of Caution Deposit and Partial Application Fee in respect of candidates applied for non-academic posts…" (12,861 words) is mostly an annex of recruitment candidates' names. It has no roll numbers, so no rule caught it.
+  - Fixed generally: a new rule, `PERSON_LABEL`, flags text with at least 10 "Name of the candidate/student/applicant" labels and at least 1 per 100 words.
+  - Measured over all 446 documents in `data/raw`, it flags only this one. The densest of the older documents, a department brochure with its students' placements, has 0.85 per 100 words and is unchanged, because existing entries stay as they are.
+  - The file was moved to `_trash/r10-personal-data/` and its new `status.json` entry is marked `personal_data`, with the reason.
+  - New test: `test_a_list_of_candidates_names_is_personal_data`.
+- `status.json`: 456 entries before and 509 now. **Every existing entry is unchanged**, and every new key comes from `added_2026-11-20.json` (checked by a script against the backup).
+
+**Done when:** conversion timeboxed; counts and 10 titles here; privacy re-check passes (after the one exclusion). **Met.**

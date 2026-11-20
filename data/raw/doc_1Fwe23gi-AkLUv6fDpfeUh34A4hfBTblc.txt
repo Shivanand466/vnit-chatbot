@@ -1,0 +1,22 @@
+SOURCE_URL: https://drive.google.com/file/d/1Fwe23gi-AkLUv6fDpfeUh34A4hfBTblc/view
+TITLE: SOP (Standard Operating Procedure) for Filling Course Feedback
+FETCHED: 2024-11-22
+FOUND_ON: https://vnit.ac.in/section/rnc/notice-new/
+---
+Document: SOP (Standard Operating Procedure) for Filling Course Feedback (dated 2024-11-22)
+Visvesvaraya National Institute of Technology
+Instructions for using the AIMS software for Faculty and Course Evaluation
+Browser: Google Chrome/Mozilla Firefox
+Step 1: Login AIMS with your User ID and Password of your own login
+Step 2: Select session: Select Current session for e.g. W24
+Step 3: Click Browse  Feedback  Masters  Teacher &Course Evaluation
+Step 4: Select Current session w24
+Step 5: Select New
+Step 6: Read the Instructions written as Note.
+Step 7: Select search icon to select populated registered course in selected session for filling new feedback or to see your submitted rating when input text is disabled. Select course from populated screen for feedback rating.
+You can also write special remark at the end.
+Step 8: Add rating for feedback questions in ratings Input column after that click on save button. Ratings for feedback form is possible one time only, you cannot update the already saved ratings. Save the responses for all the courses.
+Note:
+The V.N.I.T. and its faculty are engaged in a constant endeavour to make you learn better. The form which you are about to fill up, has been designed with the prime objective of making our educational system more effective and more adaptable for you to achieve excellence. This exercise is meant to collect your opinion of different facets of education being imparted in this department. Please base your judgement on your honest and unbiased observations. Your balanced and matured opinion will assist in achieving the desired objective. Answer independently, objectively and with a sense of responsibility. Please bear in mind that your response will in no way affect your results. Remember that its abuse or misuse may shatter its very purpose and prevent improvement in our educational system.
+Filling the feedback form is mandatory for all the students else they will not be able to register for the next semester.
+Please read the questions carefully and provide your response in the range 1-10 else form won't be accepted.

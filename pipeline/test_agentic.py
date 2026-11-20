@@ -876,6 +876,16 @@ def test_crawl_documents_skip_known_links_people_lists_and_other_topics():
                        "not about fees, calendar, hostel, scholarship, placement or rules": 1}, skipped
 
 
+def test_a_list_of_candidates_names_is_personal_data():
+    import ingest_documents as ing
+    notice = "Refund of caution deposit to candidates. " + " ".join(
+        f"Name of the Candidate: Person {i} Amount: 1000" for i in range(12))
+    brochure = ("The department has excellent labs and faculty. " * 200
+                + " ".join(f"Name of Student: Scholar {i}" for i in range(10)))
+    assert ing.looks_like_personal_data(notice)
+    assert not ing.looks_like_personal_data(brochure)  # 10 names in ~1,600 words: below 1 per 100
+
+
 def test_inventory_merge_keeps_every_existing_entry():
     import tempfile
     from pathlib import Path

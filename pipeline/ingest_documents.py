@@ -74,6 +74,11 @@ BLANK_FORMS = r"\bform\b|\bformat\b"
 STUDENT_ROLL = re.compile(r"\b(BT|MT|BA|MS|PH|MB|DT|PD)\s?\d{2}\s?[A-Z]{2,5}\s?[0-9O]{2,4}\b", re.I)
 STUDENT_EMAIL = re.compile(r"@students\.vnit\.ac\.in", re.I)
 LONG_ID = re.compile(r"\b\d{10,15}\b")
+# A table of people without roll numbers: a refund notice for recruitment
+# candidates (2026-11-20) held 168 "Name of the Candidate" cells in ~13,000
+# words. At 1 per 100 words it catches that and none of the documents read
+# before it (the densest, a department brochure, has 0.85).
+PERSON_LABEL = re.compile(r"name of (the )?(candidate|student|applicant)s?\b", re.I)
 
 
 def looks_like_personal_data(text: str) -> bool:
@@ -86,7 +91,8 @@ def looks_like_personal_data(text: str) -> bool:
         n = len(pattern.findall(text))
         return n >= min_count and n * 100 / words >= per_100_words
 
-    return dense(STUDENT_ROLL) or dense(STUDENT_EMAIL) or len(LONG_ID.findall(text)) >= 25
+    return (dense(STUDENT_ROLL) or dense(STUDENT_EMAIL) or len(LONG_ID.findall(text)) >= 25
+            or dense(PERSON_LABEL, min_count=10, per_100_words=1.0))
 PROCUREMENT = r"tender|quotation|corrigendum|\bbid\b|purchase|rate contract|gem ?bid|e-?procurement"
 SKIP_PAGES = r"/section/stores|faculty-recruitment-2025-shortlisted|/recruitmen\b|/recruitment-rules"
 DEVANAGARI = re.compile(r"[\u0900-\u097F]")

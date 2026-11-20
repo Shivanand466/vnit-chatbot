@@ -1,0 +1,17 @@
+SOURCE_URL: https://drive.google.com/file/d/1-gCNnJqwxouGN9Pisj_Mn9euQtRPtrjV/view
+TITLE: Click here for fees
+FETCHED: 2025-05-30
+FOUND_ON: https://vnit.ac.in/section/rnc/admission/
+---
+Document: Click here for fees (dated 2025-05-30)
+Fee Structure for the eM.Tech in Industrial Metallurgy for Industry Personnel (Online/Hybrid Mode)
+Fee Structure for the eM.Tech in Industrial Metallurgy for Industry Personnel (O: Description: At the time of admission (one time) — Total Credit Requirement: NA; Amount to be paid in INR (per credit 6500 INR): 15,000
+Fee Structure for the eM.Tech in Industrial Metallurgy for Industry Personnel (O: Description: Departmental Core (DC) Courses — Total Credit Requirement: 37; Amount to be paid in INR (per credit 6500 INR): 2,40,500
+Fee Structure for the eM.Tech in Industrial Metallurgy for Industry Personnel (O: Description: Departmental Electives (DE) Courses — Total Credit Requirement: 15; Amount to be paid in INR (per credit 6500 INR): 97,500
+Fee Structure for the eM.Tech in Industrial Metallurgy for Industry Personnel (O: Description: Total Cost (52 credits) — Total Credit Requirement: Total Cost (52 credits); Amount to be paid in INR (per credit 6500 INR): 3,53,000
+Note: If the candidate must repeat any course, either due to attendance shortage or failure, then he/she must pay the fee for recrediting that course.
+Tentative breakup semester wise (there could be slight variation)
+1 st Semester = 15000 + (12 x 6500) = 93,000 INR
+2 nd Semester = 12 x 6500 = 78,000 INR
+3 rd Semester = 13 x 6500 = 84,500 INR
+4 th Semester = 15 x 6500 = 97,500 INR
