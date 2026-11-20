@@ -14,6 +14,7 @@
 | 3 (shared table lead-ins, repeated passages dropped) | 57/57 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
 | 4 (ask back only when the answers differ) | 63/63 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
 | 5 (slot-only follow-ups rewritten in code) | 66/66 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
+| 6 (count only, no search change) | 66/66 | 73/77 | 66/77 | 74/77 | 14/18 | 16/19 |
 
 ## Step 0. Baseline, tag and backups
 
@@ -229,3 +230,45 @@ conv_holiday | and dussehra? -> When is the Holi holiday in 2026 - dussehra | mo
 ```
 
 **Done when:** tests pass (66/66, 10 phrasings); the two conversations get the right stand-alone question without a key (both do); checks unchanged; §32 written. **Met.** `conv_phd_part_time`'s passage still ranks 10th (retrieval), recorded for Step 7.
+
+## Step 6. New documents linked from the new pages (count only)
+
+`ingest_documents.discover()` fetches every page live and needs the Drive key for metadata, so a small read-only scan was written instead: `pipeline/count_new_documents.py`. It reads the saved HTML of all 1,628 crawled pages, finds document links by the same rules as `discover()` (Google Drive file ids, vnit.ac.in `.pdf` links), and compares them with `data/documents/inventory.json`. Nothing is downloaded; `inventory.json` and `status.json` were checked unchanged (md5 before and after).
+
+```
+$ env -u GENAI_API_KEY $PY count_new_documents.py
+Document links in the full crawl: 5098
+  already in inventory.json:     529
+  new:                           4569 (1939 Google Drive, 2630 vnit.ac.in PDFs)
+  new, titled like lists of people or procurement (would be skipped): 44
+  new titles about fees, calendar, hostel, scholarship, placement or rules, not already read under another link: 116
+
+The 20 newest of those, by link text:
+  Fees Payment Instruction Summer 2027                                              on /section/academics/notice-new/
+  Information Brochure Ph.D. Admission (Full-Time/ Part-Time) January 2027          on /section/academics/admission/
+  Information Brochure, Rules and Regulations for admission to M.Tech (Research) P  on /section/academics/admission/
+  Placement Policy_Batch 2027                                                       on /section/tnp/placement-policy-for-companies/
+  Placement Policy_Batch 2027 (Hindi)                                               on /section/tnp/placement-policy-for-companies/
+  SOP for Semester Fee Payment Summer 2027                                          on /section/academics/notice-new/
+  Extension of last date for Fee Remission 2026-27 application                      on /
+  Information Brochure for International Admissions – 2026                          on /study-in-india/
+  Kotak Kanya Scholarship 2026-27                                                   on /section/academics/notice-new/
+  S-27-Fee Notice Even Term – Academic Year 2026-27 – UG-PG                         on /section/academics/notice-new/
+  Shiksha Shakti Scholarship 2026–27 an initiative of the Swami Dayanand Education  on /section/academics/notice-new/
+  Academic Calendar Summer Term 2025                                                on /section/rnc/notice/
+  Fees Payment Instruction – Summer 2025                                            on /section/rnc/notice-new/
+  Fees Payment Instruction – Winter 2025                                            on /section/rnc/notice/
+  Information Brochure Admission To Ph.D (Full Time and Part Time) July 2025        on /section/rnc/admission/
+  Notice about Documents required for Fee Remission 2025-26                         on /section/rnc/notice/
+  Revised W25-Fee Notice Odd Term – Academic Year 2025-26-PhD                       on /section/rnc/notice/
+  Revised W25-Fee Notice Odd Term – Academic Year 2025-26-UG-PG                     on /section/rnc/notice/
+  SOP for Semester Fee Payment Summer 2025                                          on /section/rnc/notice-new/
+  SOP for Semester Fee Payment Winter 2025                                          on /section/rnc/notice/
+```
+
+Reading the numbers:
+- **4,569 new links** sounds like a lot, but most are old (department archives, 2019-2023 notices) or not useful to students (research papers, newsletters, forms). Filtering by title (fees, calendar, hostel, scholarship, placement, rules), and leaving out the ones whose title the chatbot has already read under another link, leaves **116**.
+- The newest of those are worth converting: the **Summer 2027 fee instructions and SOP**, the **S-27 fee notice** for 2026-27, **Ph.D. admission (January 2027)** and **M.Tech (Research)** brochures, the **2026-27 scholarships** (Kotak Kanya, Shiksha Shakti), the **fee remission extension 2026-27**, and the **international admissions brochure 2026**.
+- Converting 116 PDFs with Docling takes roughly 2-4 hours and needs the Drive key (`ingest_documents.py`, after running `discover()` so they enter `inventory.json`). The decision is Shivanand's.
+
+**Done when:** counts and list in REPORT9.md. **Met.**

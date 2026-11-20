@@ -10,7 +10,7 @@ Read this first after a restart; carry on from the first step not marked DONE or
 | 3 | DONE | shared table lead-ins + repeated passages dropped: 69/77 -> 73/77 reach the AI (§30) |
 | 4 | DONE | ask back only when the answers differ; vague fee question asks; 2/100 ask back, both expected (§31) |
 | 5 | DONE | slot-only follow-ups rewritten in code; both conversations get the right question (§32) |
-| 6 | | |
+| 6 | DONE | 4,569 new document links; 116 new titles about fees/calendar/hostel/scholarship/placement/rules; counted only |
 | 7 | | |
 | 8 | | |
 
@@ -29,6 +29,7 @@ Read this first after a restart; carry on from the first step not marked DONE or
 - Step 3: the runbook's 5 misses included two that already pass end to end; worked from chunk_ranks' actual list instead (7 cases).
 - Step 4: fee rule threshold is 3 programmes, not the runbook's 2 (at 2, summer-term and fee-remission questions would ask back).
 - Step 4: item 3 (profile into retrieval filters) needed no code: apply_profile already puts the profile in the searched text, which the filter reads; verified with a test.
+- Step 6: discover() needs live fetching and the Drive key, so a read-only scan of the saved crawl HTML was written (count_new_documents.py), as the runbook allows. It scans all 1,628 crawled pages, not only data/raw's (the imported pages are in data/raw_site_crawl/ after Step 2).
 
 ## Baseline (no key)
 
