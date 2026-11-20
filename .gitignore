@@ -27,3 +27,9 @@ data/processed/ablation_runs.log
 
 # Files moved out of the way instead of deleted
 _trash/
+
+# Live vnit.ac.in pages opened by agent v2 (tools.fetch_vnit_page), kept for a day
+data/cache/
+
+# Screenshots from tools/shot.sh (looked at during the run, described in REPORT11.md)
+checks/

@@ -53,8 +53,13 @@ class Evidence:
     """The passages the agent has been shown, in order, each with a label."""
 
     def __init__(self):
+        import threading
+
         self.passages = []   # dicts: pid, result, text (as shown to the model)
         self._by_key = {}
+        # Agent v2 runs up to three tools at once (agent_loop.py); two of them
+        # registering a passage at the same moment must not get the same label.
+        self._lock = threading.Lock()
 
     @staticmethod
     def _key(r):
@@ -66,12 +71,13 @@ class Evidence:
     def add(self, r: dict, text: str, origin: str = "tool"):
         """Register a passage; returns (pid, is_new). `origin` is "first" for the first search."""
         key = self._key(r)
-        if key in self._by_key:
-            return self._by_key[key], False
-        pid = f"P{len(self.passages) + 1}"
-        self.passages.append({"pid": pid, "result": r, "text": text, "origin": origin})
-        self._by_key[key] = pid
-        return pid, True
+        with self._lock:
+            if key in self._by_key:
+                return self._by_key[key], False
+            pid = f"P{len(self.passages) + 1}"
+            self.passages.append({"pid": pid, "result": r, "text": text, "origin": origin})
+            self._by_key[key] = pid
+            return pid, True
 
     def get(self, pid: str):
         for p in self.passages:
@@ -335,13 +341,264 @@ SCHEMAS = [
 TOOL_NAMES = [s["function"]["name"] for s in SCHEMAS]
 
 
-def active_schemas() -> list:
+def active_schemas(v2: bool = False) -> list:
     """The tools offered to the model: lookup_table only when its database exists and
-    LOOKUP_TABLE is not "off" (for the ablations of EXPERIMENTS-LOG)."""
+    LOOKUP_TABLE is not "off" (for the ablations of EXPERIMENTS-LOG). `v2` adds
+    agent v2's tools (V2_SCHEMAS); v1's planner never asks for them."""
     off = os.environ.get("LOOKUP_TABLE", "on").strip().lower() in ("off", "0", "false", "no")
+    schemas = SCHEMAS + (v2_schemas() if v2 else [])
     if off or not FACTS_PATH.exists():
-        return [s for s in SCHEMAS if s["function"]["name"] != "lookup_table"]
-    return SCHEMAS
+        return [s for s in schemas if s["function"]["name"] != "lookup_table"]
+    return schemas
+
+
+def v2_schemas() -> list:
+    """Agent v2's extra tools; fetch_vnit_page only while LIVE_PAGES is not "off"."""
+    live = os.environ.get("LIVE_PAGES", "on").strip().lower() not in ("off", "0", "false", "no")
+    return [s for s in V2_SCHEMAS if live or s["function"]["name"] != "fetch_vnit_page"]
+
+
+# Descriptions are kept under 25 words: every one is sent with every round.
+V2_SCHEMAS = [
+    {"type": "function", "function": {
+        "name": "latest_notices",
+        "description": "The newest VNIT notices and documents, newest first, optionally of one "
+                       "category. For 'any new notice about fees?' or 'what's the latest on scholarships?'.",
+        "parameters": {"type": "object", "properties": {
+            "category": {"type": "string", "enum": ["fees", "academics", "hostel", "scholarship",
+                                                    "placement", "admission", "recruitment"]},
+            "n": {"type": "integer", "description": "How many, 1 to 8 (default 5)."}}}}},
+    {"type": "function", "function": {
+        "name": "fetch_vnit_page",
+        "description": "Open a live page on vnit.ac.in and read its current text. For checking "
+                       "what the website says now, or a page the search lacks.",
+        "parameters": {"type": "object", "properties": {
+            "url": {"type": "string", "description": "A https://vnit.ac.in/... address."}},
+            "required": ["url"]}}},
+    {"type": "function", "function": {
+        "name": "today",
+        "description": "Today's date in India (IST). For 'is the deadline over?' or 'when is the next holiday?'.",
+        "parameters": {"type": "object", "properties": {}}}},
+    {"type": "function", "function": {
+        "name": "contact_office",
+        "description": "The VNIT office to contact about a topic (hostel, fees, exams, ...), with "
+                       "its email and phone.",
+        "parameters": {"type": "object", "properties": {
+            "topic": {"type": "string", "description": "What the student needs help with, e.g. 'hostel refund'."}},
+            "required": ["topic"]}}},
+]
+
+
+# ---------------------------------------------------------------------------
+# latest_notices: the newest converted documents, from the document inventory
+# ---------------------------------------------------------------------------
+
+DOCUMENTS = Path(__file__).parent.parent / "data" / "documents"
+RAW = Path(__file__).parent.parent / "data" / "raw"
+NOTICE_CATEGORIES = {
+    "fees": r"fees?|payment|remission|refund|tuition|challan",
+    "academics": r"calendar|exam\w*|time\s*-?table|semester|course|registration|academic|result|"
+                 r"syllabus|curriculum|convocation|holiday",
+    "hostel": r"hostels?|mess|warden",
+    "scholarship": r"scholarships?|fellowships?|stipend",
+    "placement": r"placements?|internships?|training\s*&\s*placement|t\s*&\s*p",
+    "admission": r"admissions?|brochure|counsell?ing|josaa|csab|dasa|reporting|seat\s+matrix",
+    "recruitment": r"recruitment|vacanc\w*|advertisement|walk-?in|interview|post\s+of|faculty\s+position",
+}
+MAX_NOTICES = 8
+
+
+def latest_notices(category: str = "", n: int = 5) -> list:
+    """The newest documents that were converted and kept (status "ok", text in data/raw),
+    newest first, as result dicts: title, date, link and the page that lists it."""
+    import json
+
+    inventory = json.loads((DOCUMENTS / "inventory.json").read_text(encoding="utf-8"))
+    status = json.loads((DOCUMENTS / "status.json").read_text(encoding="utf-8"))
+    pattern = re.compile(rf"\b(?:{NOTICE_CATEGORIES[category]})\b", re.I) if category in NOTICE_CATEGORIES else None
+    found = []
+    for key, st in status.items():
+        entry = inventory.get(key)
+        if not entry or not isinstance(st, dict) or st.get("result") != "ok":
+            continue
+        if not st.get("file") or not (RAW / st["file"]).exists():
+            continue  # excluded, held aside or never converted
+        title = (st.get("title") or entry.get("link_text") or entry.get("name") or "").strip()
+        if pattern and not pattern.search(f"{title} {entry.get('name', '')}"):
+            continue
+        day = (entry.get("modifiedTime") or "")[:10]
+        found.append({"text": f"{title} — dated {day or 'undated'} — listed on {entry.get('found_on', 'vnit.ac.in')}",
+                      "title": title, "source_url": entry["url"], "fetched": day,
+                      "score": 0.0, "rerank": None})
+    found.sort(key=lambda r: r["fetched"], reverse=True)
+    return found[:max(1, min(MAX_NOTICES, int(n or 5)))]
+
+
+# ---------------------------------------------------------------------------
+# fetch_vnit_page: a live page, only on vnit.ac.in, cached for a day
+# ---------------------------------------------------------------------------
+
+PAGE_CACHE = Path(__file__).parent.parent / "data" / "cache" / "pages"
+PAGE_CHARS = 2500
+PAGE_TIMEOUT = 10
+PAGE_CACHE_SECONDS = 24 * 3600
+_last_fetch = [0.0]
+
+
+def vnit_url(url: str):
+    """The URL if it is an http(s) address on vnit.ac.in or one of its sub-sites, else None.
+
+    The host is compared as a whole, so "vnit.ac.in.evil.com" and
+    "evilvnit.ac.in" are refused.
+    """
+    from urllib.parse import urlparse
+
+    try:
+        parts = urlparse((url or "").strip())
+    except ValueError:
+        return None
+    host = (parts.hostname or "").lower()
+    if parts.scheme not in ("http", "https") or not (host == "vnit.ac.in" or host.endswith(".vnit.ac.in")):
+        return None
+    return parts.geturl()
+
+
+def page_text(html: str) -> tuple:
+    """(title, readable text) of a page's HTML, read exactly as the crawler reads pages."""
+    import fetch_utils
+
+    title, text = fetch_utils.html_to_text(html)
+    return title, re.sub(r"\s+", " ", text or "").strip()
+
+
+def _cached(url: str):
+    import hashlib
+    import json
+    import time
+
+    path = PAGE_CACHE / (hashlib.sha1(url.encode("utf-8")).hexdigest() + ".json")
+    if path.exists():
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if time.time() - data.get("at", 0) < PAGE_CACHE_SECONDS:
+            return path, data
+    return path, None
+
+
+def _crawled_copy(url: str):
+    """The page's text as crawled (from the index), for when the live site can't be reached."""
+    want = url.rstrip("/")
+    for s in _catalogue():
+        if s["url"].rstrip("/") == want:
+            chunks = query.load_index()["chunks"]
+            return s["title"], " ".join(chunks[i]["text"] for i in s["chunk_ids"])
+    return None
+
+
+def fetch_vnit_page(url: str, fetch=None) -> dict:
+    """{"title", "text", "url", "from"} for a vnit.ac.in page; "from" is live, cache or crawl.
+
+    One request a second at most, robots.txt respected, the crawler's user
+    agent, a 10 s timeout, and a day's cache in data/cache/pages/. `fetch`
+    (url -> html) replaces the network in tests.
+    """
+    import json
+    import time
+
+    import fetch_utils
+    import requests
+
+    safe = vnit_url(url)
+    if not safe:
+        raise ValueError("only pages on vnit.ac.in can be opened")
+    path, cached = _cached(safe)
+    if cached:
+        return dict(cached, **{"from": "cache"})
+    try:
+        if fetch is None:
+            if not fetch_utils.is_allowed(safe):
+                raise PermissionError("robots.txt does not allow it")
+            wait = fetch_utils.REQUEST_DELAY_SECONDS - (time.time() - _last_fetch[0])
+            if wait > 0:
+                time.sleep(wait)
+            _last_fetch[0] = time.time()
+            resp = requests.get(safe, headers={"User-Agent": fetch_utils.USER_AGENT}, timeout=PAGE_TIMEOUT)
+            resp.raise_for_status()
+            html = resp.text
+        else:
+            html = fetch(safe)
+        title, text = page_text(html)
+    except Exception:
+        copy = _crawled_copy(safe)
+        if copy is None:
+            raise
+        title, text = copy
+        return {"title": title, "text": text[:PAGE_CHARS], "url": safe, "from": "crawl"}
+    page = {"title": title or safe, "text": text[:PAGE_CHARS], "url": safe, "at": time.time()}
+    PAGE_CACHE.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(page, ensure_ascii=False), encoding="utf-8")
+    return dict(page, **{"from": "live"})
+
+
+# ---------------------------------------------------------------------------
+# today and contact_office
+# ---------------------------------------------------------------------------
+
+def today_ist():
+    from datetime import datetime, timedelta, timezone
+    return datetime.now(timezone(timedelta(hours=5, minutes=30))).date()
+
+
+CONTACTS = Path(__file__).parent.parent / "data" / "contacts.json"
+
+
+def contact_for(topic: str):
+    """The office for a topic, from data/contacts.json (copied by hand from VNIT's pages)."""
+    import json
+    import router
+
+    contacts = {k: v for k, v in json.loads(CONTACTS.read_text(encoding="utf-8")).items()
+                if not k.startswith("_")}
+    return contacts.get(router.intent(topic or "")) or contacts.get("other")
+
+
+def run_v2_tool(name: str, args: dict, evidence: Evidence):
+    """Agent v2's tools, or None for any other name (run_tool handles those)."""
+    if name == "latest_notices":
+        category = str(args.get("category") or "").strip().lower()
+        rows = latest_notices(category, args.get("n") or 5)
+        if not rows:
+            return {"observation": "No notices found in that category.",
+                    "summary": f"Looked for the latest {category or ''} notices: none found"}
+        return {"observation": "Newest first:\n\n" + evidence.render(rows),
+                "summary": f"Listed the {len(rows)} newest {category + ' ' if category else ''}notices: "
+                           + _titles(rows, 2)}
+    if name == "fetch_vnit_page":
+        url = str(args.get("url") or "")
+        if not vnit_url(url):
+            return {"observation": "Refused: only pages on vnit.ac.in can be opened.",
+                    "summary": f"Refused to open a page outside vnit.ac.in ({url[:60]})"}
+        page = fetch_vnit_page(url)
+        result = {"text": page["text"], "title": page["title"], "source_url": page["url"],
+                  "fetched": "", "score": 0.0, "rerank": None}
+        where = {"live": "Opened the live page", "cache": "Opened the page (saved copy from today)",
+                 "crawl": "The live site could not be reached, so read the crawled copy of"}[page["from"]]
+        return {"observation": evidence.render([result]),
+                "summary": f"{where} “{page['title']}”"}
+    if name == "today":
+        day = today_ist()
+        result = {"text": f"Today's date (from the server clock, India time) is {day:%d %B %Y} "
+                          f"({day:%d/%m/%Y}, a {day:%A}).",
+                  "title": "Today's date", "source_url": "about:today", "fetched": "",
+                  "score": 0.0, "rerank": None}
+        return {"observation": evidence.render([result]), "summary": f"Checked today's date: {day:%d %B %Y}"}
+    if name == "contact_office":
+        office = contact_for(str(args.get("topic") or ""))
+        result = {"text": f"{office['office']} — email {office['email']}, phone {office['phone']}.",
+                  "title": office["office"], "source_url": office["source_url"], "fetched": "",
+                  "score": 0.0, "rerank": None}
+        return {"observation": evidence.render([result]),
+                "summary": f"Looked up whom to contact: {office['office']}"}
+    return None
 
 
 def run_tool(name: str, args: dict, evidence: Evidence) -> dict:
@@ -403,6 +660,9 @@ def run_tool(name: str, args: dict, evidence: Evidence) -> dict:
             return {"observation": f"{expr} = {value}", "summary": f"Calculated {expr} = {value}",
                     "value": value}
 
+        v2 = run_v2_tool(name, args, evidence)
+        if v2 is not None:
+            return v2
         return {"observation": f"Error: unknown tool {name!r}. Available: {', '.join(TOOL_NAMES)}.",
                 "summary": f"Asked for an unknown tool ({name})"}
     except Exception as e:  # a tool must never take the whole answer down
