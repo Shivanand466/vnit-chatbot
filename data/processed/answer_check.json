@@ -71,7 +71,7 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**678+ students were placed in 2025‑26 and 170+ companies participated**[1]\n\n- The Training & Placement Department reports that “more than 678 students from undergraduate and postgraduate programmes secured employment …” and “offers were extended by over 170 reputed organizations” for the 2025‑26 placement season.\n\nNote: The figures are given as “more than” and “over,” indicating they are minimum counts.",
+  "answer": "**≈ 678 students were placed in 2025‑26 and ≈ 170 companies participated.**\n\n- The Training & Placement Department reports that “more than 678 students from undergraduate and postgraduate programmes secured employment … and offers were extended by over 170 reputed organizations” for the 2025‑26 placement season[1].\n\nNote: The figures are given as “more than” and “over,” so the exact counts may be slightly higher.",
   "sources": [
    "https://vnit.ac.in/section/tnp/"
   ],
@@ -83,18 +83,18 @@
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3898,
+   "tokens": 4124,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
-   "passages_seen": 11,
+   "passages_seen": 12,
    "passages_cited": 1
   },
-  "seconds": 60.5,
+  "seconds": 58.0,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: placement.",
-   "Split the question into 2 parts and searched for each and for the whole question: 10 passages from 6 sources.",
-   "The first search looked weak (best match scored -1.2, below 0), so I also looked inside “VNIT Nagpur – Training & Placement Department”.",
+   "Split the question into 2 parts and searched for each and for the whole question: 10 passages from 7 sources.",
+   "The first search looked weak (best match scored -1.2, below 0), so I also looked inside “VNIT Nagpur – Training & Placement Department”. I also looked up matching rows in the documents' tables.",
    "Wrote the answer from the first search; no further lookups were needed.",
    "Checked 6 figure(s) against the sources: all found."
   ]
@@ -307,7 +307,7 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**₹125,000 per year** for B.Tech students in the OPEN category.\n\n- Tuition fee listed as ₹125,000 for each of the four years for students admitted in the OPEN/OBC/EWS category [1].",
+  "answer": "**₹125,000 per year** for B.Tech students in the OPEN category.\n\n- Tuition fee listed as ₹125,000 for each of the four years for OPEN/OBC/EWS category B.Tech students[1].",
   "sources": [
    "https://drive.google.com/file/d/1YwaPEqSM2OtnfmSd_N5W3ESgaIB_3Flv/view"
   ],
@@ -319,18 +319,18 @@
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3819,
+   "tokens": 4198,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
-   "passages_seen": 7,
+   "passages_seen": 9,
    "passages_cited": 1
   },
-  "seconds": 52.1,
+  "seconds": 49.1,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: fees.",
    "Searched VNIT's pages and documents: 7 passages from 3 sources.",
-   "The first search looked relevant (score 7.2).",
+   "The first search looked relevant (score 7.2). I also looked up matching rows in the documents' tables.",
    "Wrote the answer from the first search; no further lookups were needed.",
    "Checked 2 figure(s) against the sources: all found."
   ]
@@ -586,9 +586,9 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**The hostel Wi‑Fi password is not provided in the available documents.**\n\n- For the current Wi‑Fi details, contact the Assistant Registrar (Hostel) at AR_HOSTEL@vnit.ac.in or call (0712) 2801373 / 2801117 [1].\n\nNote: The cited passages contain hostel admission and rule information but do not include the Wi‑Fi password.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
+  "answer": "The provided documents do not contain the hostel Wi‑Fi password.\n\n* The hostel‑section overview lists amenities (telephone, TV, gyms, messes, etc.) but gives no Wi‑Fi details[1].\n\n**Note:** To obtain the current Wi‑Fi password, check the hostel notice board or contact the Assistant Registrar (Hostel) at AR_HOSTEL@vnit.ac.in or (0712) 2801373/2801117.\n\n**Who can help:** Assistant Registrar, Hostel Section — AR_HOSTEL@vnit.ac.in, 0712-2801373",
   "sources": [
-   "https://drive.google.com/file/d/1K2VpoGJGyztYJQcIHESC3gYQLRvm532X/view",
+   "https://vnit.ac.in/section/hostel/",
    "https://vnit.ac.in/administrative-officers"
   ],
   "verification": {
@@ -599,20 +599,20 @@
   },
   "usage": {
    "llm_calls": 3,
-   "tokens": 9898,
-   "waited_for_quota_s": 19.3,
+   "tokens": 10226,
+   "waited_for_quota_s": 19.4,
    "tool_calls": 2,
-   "passages_seen": 9,
+   "passages_seen": 10,
    "passages_cited": 1
   },
-  "seconds": 74.9,
+  "seconds": 86.4,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
    "The first search looked weak (best match scored -6.1, below 0); no better-titled page had a relevant passage, so I continued with what it found.",
    "Searched for “hostel wifi password VNIT”: Hostel Information for UG 1st Year Students; Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27; HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026-27",
-   "Looked up documents titled like “wifi password hostel VNIT”: VNIT Nagpur – Hostel Section; Hostels – VNIT Nagpur – Hostel Section; Fees – VNIT Nagpur – Hostel Section",
+   "Searched for “wifi password hostel VNIT”: Hostel Information for UG 1st Year Students; VNIT Nagpur – Hostel Section; HOSTEL ADMISSION PROCEDURE FOR UG (B.Tech/B.Arch) 1ST YEAR STUDENTS ADMITTED IN 2026-27",
    "Wrote the answer after 2 round(s) of tool use.",
    "Checked 4 figure(s) against the sources: all found.",
    "I couldn't find this in VNIT's documents, so I've added who to contact."
@@ -625,31 +625,32 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Rs. 32,650** for the Winter 2026 session.\n\n- Hostel Admission Procedure for UG (B.Tech/B.Arch) 1st‑year students admitted in 2026‑27: “For Girls : Total amount of Rs. 32650/- Winter 2026 to be paid at the time of Hostel Admission”[1].\n\nNote: This fee applies to first‑year B.Tech (and B.Arch) girls admitted for the 2026‑27 academic year.",
+  "answer": "**Rs. 32,650** for first‑year B.Tech/B.Arch girls for the Winter 2026 session[1].\n\n- This amount is the total hostel fee payable at the time of admission for girls in the 2026‑27 intake[1].\n\nNote: The fee applies specifically to first‑year B.Tech/B.Arch female students for the Winter 2026 session.",
   "sources": [
    "https://drive.google.com/file/d/1eHQRTJoSRBRKCj1-BPFbp2jTIkEjMMd4/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 6,
-   "supported": 6,
+   "checked": 4,
+   "supported": 4,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 4300,
+   "tokens": 4524,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
    "passages_seen": 8,
    "passages_cited": 1
   },
+  "seconds": 48.2,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: hostel.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
    "The first search looked weak (the top passages do not mention “girls”, “session”), so I also looked inside “HOSTEL FEE INFORMATION FOR WINTER 2025 FOR THE ACADEMIC YEAR 2025-26” and “HOSTEL FEES FOR SECOND YEAR GIRLS ADMITTED IN YEAR 2025-26”.",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 6 figure(s) against the sources: all found."
+   "Checked 4 figure(s) against the sources: all found."
   ]
  },
  {
@@ -950,34 +951,39 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Yearly tuition fee for M.Sc. students is ₹15,000** (for Open/OBC/EWS categories).\n\n- The 2‑year fee estimate lists **Tuition Fee – First Year: 15,000; Second Year: 15,000**[1].\n- The same amount appears as a per‑semester charge of ₹7,500, confirming a yearly total of ₹15,000[2].\n- For SC/ST/PwD categories, the tuition fee is shown as **NIL** (₹0)[1].\n\n**Note:** The ₹15,000 figure applies to Open, OBC and EWS students; SC, ST and PwD students are exempt from tuition fees.",
+  "answer": "**Yearly tuition fee for M.Sc. (General/Open/EWS/OBC/NCL) students: ₹15,000**\n\n- Tuition fee per semester for M.Sc. (GEN/EWS/OBC/NCL) is ₹7,500 [​P9]; two semesters per year → ₹7,500 × 2 = ₹15,000.\n- For SC/ST/PwD students the tuition fee is **nil** (as shown in the fee estimate for SC/ST students) [​P1][​P10].\n\n**Note:** The ₹15,000 figure applies to the open category (General, EWS, OBC, NCL) only; SC, ST, and PwD categories are exempt from tuition fees.",
   "sources": [
    "https://drive.google.com/file/d/1ARUdONHAu1pFaYGIZ8CRkYBvHbA-jtnu/view",
-   "https://drive.google.com/file/d/1l1hpu6096u_pqtIjyDp3EAbnSFFqQON4/view"
+   "https://drive.google.com/file/d/1mzxryJP1oaJ5nU6lKur2eEPdl3kZpDNI/view",
+   "https://drive.google.com/file/d/1hCbAhhS-KTTNivYBN69iZCK_ylZrV44x/view",
+   "https://vnit.ac.in/section/academics/fees/",
+   "https://drive.google.com/file/d/1qDt03ICmQKzUKo5S5FaKm8gIT47ZK1ww/view",
+   "https://drive.google.com/file/d/1cZNAgtd5GcvRdlFCcckp5FZySAVkJShN/view",
+   "https://drive.google.com/file/d/1w8-xwaXcphCG3bdqOl-16JkGk1g24Wkv/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 6,
-   "supported": 6,
+   "checked": 5,
+   "supported": 5,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 2,
-   "tokens": 8534,
-   "waited_for_quota_s": 20.5,
+   "tokens": 8130,
+   "waited_for_quota_s": 17.2,
    "tool_calls": 1,
-   "passages_seen": 16,
-   "passages_cited": 3
+   "passages_seen": 10,
+   "passages_cited": 0
   },
-  "seconds": 76.8,
+  "seconds": 78.4,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: fees.",
    "Searched VNIT's pages and documents: 6 passages from 4 sources.",
-   "The first search looked weak (the top passages do not mention “yearly”), so I also looked inside “Notice No. 3266 dated 17 November 2025 Regarding Hostel Fee payment information for Summer 2025 for all UG – M.Sc. students for 2025-26” and “Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27”.",
-   "Looked up table rows for “tuition fee” (msc): 8 rows from 2 Year Fee Estimate for Master of Science; Fees Information M Sc Admission Through CCMN; Demand Letter-W26-MSC_2025-BATCH-Open-OBC-EWS",
+   "The first search looked weak (the top passages do not mention “yearly”), so I also looked inside “Notice No. 3266 dated 17 November 2025 Regarding Hostel Fee payment information for Summer 2025 for all UG – M.Sc. students for 2025-26” and “Hostel Admission Information for 1st Year M.Tech., Ph.D. & M.Sc. Students Admitted in 2026-27”. I also looked up matching rows in the documents' tables.",
+   "Calculated 7500 * 2 = 15000",
    "Wrote the answer after 1 round(s) of tool use.",
-   "Checked 6 figure(s) against the sources: all found."
+   "Checked 5 figure(s) against the sources: all found."
   ]
  },
  {
@@ -1129,32 +1135,32 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**Mid‑semester exam for Slot A is on 04 September 2026.**\n\n- UG‑PG Higher Semester Timetable (Winter 26) lists Slot A – Mid Sem Date: 04/09/2026[1].\n- The Academic Calendar (Winter 2026) states the mid‑semester exam period runs from 4 Sept to 12 Sept 2026[2].",
+  "answer": "**04 September 2026**\n\n- Mid‑semester examination for Slot A is scheduled on 04/09/2026 according to the UG‑PG Higher Semester Timetable (Winter 2026)[1].\n\nNote: This date applies to the higher‑semester UG & PG exams for Winter 2026.",
   "sources": [
-   "https://drive.google.com/file/d/165jU5At1xtZFAOU4vkrTWCTSbe20HfO0/view",
-   "https://drive.google.com/file/d/1uIEpHZrCq-y9tbKDHSHTcEnQnLINO5g1/view"
+   "https://drive.google.com/file/d/165jU5At1xtZFAOU4vkrTWCTSbe20HfO0/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 6,
-   "supported": 6,
+   "checked": 4,
+   "supported": 4,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 4119,
+   "tokens": 4413,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
-   "passages_seen": 7,
-   "passages_cited": 2
+   "passages_seen": 9,
+   "passages_cited": 1
   },
+  "seconds": 59.0,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: calendar.",
    "Searched VNIT's pages and documents: 7 passages from 5 sources.",
-   "The first search looked relevant (score 6.8).",
+   "The first search looked relevant (score 6.8). I also looked up matching rows in the documents' tables.",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 6 figure(s) against the sources: all found."
+   "Checked 4 figure(s) against the sources: all found."
   ]
  },
  {
@@ -2015,14 +2021,13 @@
  {
   "name": "holiday_holi",
   "question": "is holi a holiday at vnit in 2026? which date?",
-  "pass": false,
+  "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
-  "missing": [
-   "0?4[./-]0?3|\\b4(th)?\\s*Mar|Mar\\w*\\s*4\\b"
-  ],
+  "missing": [],
   "forbidden": [],
-  "answer": "**Yes – Holi is observed as a restricted holiday on **03 March 2026** at VNIT.**\n\n- The “List of Holiday’s during the year 2026” records **Holika Dahan – Date: 03.03.2026; Day: Tuesday** as a restricted holiday [1].\n\nNote: Holika Dahan is the eve of Holi and is the designated holiday for the Holi celebration in the institute’s 2026 calendar.",
+  "answer": "**Yes – Holi is a holiday on 04 March 2026 (Wednesday).**\n\n- Listed as “HOLIDAY: Holi” on 4 Mar in the Academic Calendar (Summer 2026) for all UG & PG semesters[1].\n- Confirmed in the official “List of Holiday’s during the year 2026” with the entry “Holi | Date: 04.03.2026; Day: Wednesday”[2].",
   "sources": [
+   "https://drive.google.com/file/d/1W5AWHV0CGlYHvehSDA3s2M8AjuaurNM9/view",
    "https://drive.google.com/file/d/1nuTp0HsQcVUArZlGG3rnoOWAsDDH4f-q/view"
   ],
   "verification": {
@@ -2032,22 +2037,20 @@
    "unsupported": []
   },
   "usage": {
-   "llm_calls": 3,
-   "tokens": 12405,
-   "waited_for_quota_s": 37.1,
-   "tool_calls": 2,
-   "passages_seen": 16,
-   "passages_cited": 1
+   "llm_calls": 1,
+   "tokens": 3931,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 8,
+   "passages_cited": 2
   },
-  "seconds": 96.8,
+  "seconds": 63.0,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: calendar.",
    "Searched VNIT's pages and documents: 6 passages from 3 sources.",
-   "The first search looked weak (the top passages do not mention “holi”), so I also looked inside “Extension of the Last Date for filling the Course Feedback”.",
-   "Searched for “Holi 2026 VNIT holiday”: Visvesvaraya National Institute of Technology (VNIT), Nagpur; 🎓 VNIT Nagpur | 24th Convocation 2026",
-   "Looked up table rows for “Holi” (2026-27): 8 rows from ACADEMIC CALENDAR (Winter 2026) for First Year UG (B.Tech/B.Arch); ACADEMIC CALENDAR (Winter 2026) for First Year PG (M.Tech/M.Sc/MBA); ACADEMIC CALENDAR (Winter 2026) For Higher Semester UG & PG",
-   "Wrote the answer after 2 round(s) of tool use.",
+   "The first search looked weak (the top passages do not mention “holi”); no better-titled page had a relevant passage, so I continued with what it found. I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
    "Checked 3 figure(s) against the sources: all found."
   ]
  },
@@ -2100,32 +2103,32 @@
   "mode": "agent (openai/gpt-oss-120b)",
   "missing": [],
   "forbidden": [],
-  "answer": "**₹7,500 per semester** for a full‑time Ph.D. programme[1].\n\n- This amount is listed under “Tuition Fees – Ph.D. (Full‑Time) Per Sem.” in the Ph.D. Fees Structure (dated 2026‑04‑09).   Note: The total semester fee (including registration, library, retention, etc.) is ₹22,100[1], but the tuition component alone is ₹7,500.",
+  "answer": "**₹ 7,500 per semester** is the tuition fee for a full‑time Ph.D. student[1].\n\n- This amount is listed under “Tuition Fees” for Ph.D. (Full‑Time) in the 2026‑05‑08 Ph.D. Guidelines[1].\n\nNote: This figure applies to Indian‑national Ph.D. candidates; fees for NRI/foreign students are quoted in USD in separate documents.",
   "sources": [
-   "https://drive.google.com/file/d/1TyjlnxPw8hPsSL59hr23NPKDhRNQ1H5J/view"
+   "https://drive.google.com/file/d/1Xed4BvuZF7Ui0WhXljF5JLeSqMpO89to/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 4,
-   "supported": 4,
+   "checked": 2,
+   "supported": 2,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3697,
+   "tokens": 3957,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
-   "passages_seen": 7,
-   "passages_cited": 2
+   "passages_seen": 9,
+   "passages_cited": 1
   },
-  "seconds": 56.8,
+  "seconds": 51.6,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: fees.",
    "Searched VNIT's pages and documents: 7 passages from 3 sources.",
-   "The first search looked relevant (score 6.2).",
+   "The first search looked relevant (score 6.2). I also looked up matching rows in the documents' tables.",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 4 figure(s) against the sources: all found."
+   "Checked 2 figure(s) against the sources: all found."
   ]
  },
  {
@@ -2455,38 +2458,36 @@
  {
   "name": "companies_btech_2425",
   "question": "how many companies came for btech placements in 2024-25",
-  "pass": false,
+  "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
-  "missing": [
-   "\\b121\\b"
-  ],
+  "missing": [],
   "forbidden": [],
-  "answer": "I’m sorry, but none of the provided documents state the total number of companies that visited for B.Tech placements in 2024‑25. You could check the full “Placement and Internship Report 2024‑2025” on the VNIT website for a complete count.",
-  "sources": [],
+  "answer": "**121 companies** came for B.Tech placements in 2024‑25[1].\n\n- This figure is from the “Placement and Internship Report 2024‑2025” which lists the number of companies visited for each programme, showing B.Tech = 121.   Note: the count covers all B.Tech students (all branches) for the academic year 2024‑25.",
+  "sources": [
+   "https://drive.google.com/file/d/1qPcLe_xRTMdLgkWBrtAjg7JSBpfKBblA/view"
+  ],
   "verification": {
    "verdict": "verified",
-   "checked": 2,
-   "supported": 2,
+   "checked": 5,
+   "supported": 5,
    "unsupported": []
   },
   "usage": {
-   "llm_calls": 3,
-   "tokens": 12607,
-   "waited_for_quota_s": 43.5,
-   "tool_calls": 2,
-   "passages_seen": 11,
-   "passages_cited": 0
+   "llm_calls": 1,
+   "tokens": 4331,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
   },
-  "seconds": 106.3,
+  "seconds": 56.4,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: placement.",
    "Searched VNIT's pages and documents: 6 passages from 3 sources.",
-   "The first search looked weak (the top passages do not mention “btech”), so I also looked inside “Demand Letter-W26-BTECH-2023_2024_2025BARCH-2022_2023_2024_2025-BATCH-Open-OBC” and “Demand Letter-W26-BTECH-2023_2024_2025BARCH-2022_2023_2024_2025BATCH-SC-ST-PwD”.",
-   "Searched for “Placement and Internship Report 2024-2025 total companies visited B.Tech”: Placement and Internship Report 2024-2025",
-   "Looked inside “Placement and Internship Report 2024-2025” for “total companies”",
-   "Wrote the answer after 2 round(s) of tool use.",
-   "Checked 2 figure(s) against the sources: all found."
+   "The first search looked weak (the top passages do not mention “btech”), so I also looked inside “Demand Letter-W26-BTECH-2023_2024_2025BARCH-2022_2023_2024_2025-BATCH-Open-OBC” and “Demand Letter-W26-BTECH-2023_2024_2025BARCH-2022_2023_2024_2025BATCH-SC-ST-PwD”. I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
   ]
  },
  {
@@ -3178,40 +3179,40 @@
  {
   "name": "conv_phd_part_time",
   "question": "What is the tuition fee for full time PhD per semester? | and for part time?",
-  "pass": false,
+  "pass": true,
   "mode": "agent (openai/gpt-oss-120b)",
-  "missing": [
-   "15,?000"
-  ],
+  "missing": [],
   "forbidden": [],
-  "answer": "**₹ 25,000 per semester** for a part‑time PhD.\n\n- The 2026 PhD Guidelines list “Ph.D. (Part‑Time) Per Sem.” as **₹ 25,000**[1].\n- The same fee appears in the PhD Fees Structure document (2026‑04‑09) showing “Ph.D. (Part‑Time) Per Sem.” at **₹ 25,000**[2].\n\nNote: This amount applies to Indian‑national part‑time PhD candidates as per the latest 2026 fee schedule.",
+  "answer": "**₹15,000 per semester** for a part‑time PhD [​P9].\n\n- The latest fee schedule (dated 8 May 2026) lists the tuition fee for “Ph.D. (Part‑Time) Per Sem.” as ₹15,000 [​P9].\n\nNote: This amount applies to the part‑time PhD programme for Indian‑national students; fees for international students differ.",
   "sources": [
    "https://drive.google.com/file/d/1-n7687vfaWhZ8Fz4FhCnBc40fWyQM7k1/view",
-   "https://drive.google.com/file/d/1TyjlnxPw8hPsSL59hr23NPKDhRNQ1H5J/view"
+   "https://drive.google.com/file/d/1TyjlnxPw8hPsSL59hr23NPKDhRNQ1H5J/view",
+   "https://drive.google.com/file/d/1gaQCSqxvo0SltUHNso7ELDSZGlHmo2WT/view",
+   "https://drive.google.com/file/d/1Xed4BvuZF7Ui0WhXljF5JLeSqMpO89to/view"
   ],
   "verification": {
    "verdict": "verified",
-   "checked": 6,
-   "supported": 6,
+   "checked": 3,
+   "supported": 3,
    "unsupported": []
   },
   "usage": {
    "llm_calls": 1,
-   "tokens": 3456,
+   "tokens": 3780,
    "waited_for_quota_s": 0.0,
    "tool_calls": 0,
-   "passages_seen": 7,
-   "passages_cited": 2
+   "passages_seen": 9,
+   "passages_cited": 0
   },
-  "seconds": 51.3,
+  "seconds": 52.0,
   "trace": [
    "Read the follow-up with the earlier questions as: “What is the tuition fee for part time PhD per semester?”",
    "A question about VNIT: looking it up.",
    "Topic: fees.",
    "Searched VNIT's pages and documents: 7 passages from 3 sources.",
-   "The first search looked relevant (score 5.5).",
+   "The first search looked relevant (score 5.5). I also looked up matching rows in the documents' tables.",
    "Wrote the answer from the first search; no further lookups were needed.",
-   "Checked 6 figure(s) against the sources: all found."
+   "Checked 3 figure(s) against the sources: all found."
   ],
   "understood_as": "What is the tuition fee for part time PhD per semester?"
  },
@@ -3487,7 +3488,7 @@
   ],
   "verification": null,
   "usage": null,
-  "seconds": 49.8,
+  "seconds": 51.5,
   "trace": [
    "A question about VNIT: looking it up.",
    "Topic: fees.",
@@ -3530,5 +3531,181 @@
    "Checked 3 figure(s) against the sources: all found."
   ],
   "profile": {}
+ },
+ {
+  "name": "dasa_usd_rate_summer_2027",
+  "question": "What USD exchange rate is used to convert DASA students' fees for Summer 2027?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The USD exchange rate used is Rs **96.21** per $1**[1].\n\n- The “Fees Payment Instruction Summer 2027” notice states that for DASA/MEA students the USD rate (as per RBI) is set to Rs 96.21 as on 14‑Oct‑2026 for the Summer‑27 semester[1].",
+  "sources": [
+   "https://drive.google.com/file/d/16XapmmYsMgZkaasBomGfxZBGKJHUfyVH/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3537,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 7,
+   "passages_cited": 2
+  },
+  "seconds": 53.6,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 6 sources.",
+   "The first search looked relevant (score 7.0).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "fee_remission_2627_extended",
+  "question": "What is the extended last date to apply for fee remission 2026-27?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The extended deadline to submit the fee‑remission application (Google form) is **14 Oct 2026**, and the deadline to submit the original documents in hard copy is **16 Oct 2026**[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1FlysFpxKSiZeM92D0MvnGRaaOZ7E_2ls/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 4,
+   "supported": 4,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3748,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 1
+  },
+  "seconds": 54.2,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: fees.",
+   "Searched VNIT's pages and documents: 7 passages from 3 sources.",
+   "The first search looked relevant (score 9.4). I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 4 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "shiksha_shakti_deadline",
+  "question": "What is the application deadline for the Shiksha Shakti Scholarship 2026-27?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Application deadline: ** **October 31, 2026**[1].\n\n- The scholarship notice states “Application Deadline: October 31, 2026” for the Shiksha Shakti Scholarship 2026‑27[1].",
+  "sources": [
+   "https://drive.google.com/file/d/1nAVlH_tTYkU2KEDbgQNXZhwbEfsuHQ8H/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 5,
+   "supported": 5,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3226,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 51.3,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: scholarship.",
+   "Searched VNIT's pages and documents: 6 passages from 4 sources.",
+   "The first search looked relevant (score 9.4).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 5 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "placement_offer_upgrade_2027",
+  "question": "Until what date can batch 2027 students upgrade a placement offer?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**Batch 2027 students can upgrade a placement offer until 30 April 2027.**\n\n- The Placement Policy for Batch 2027 states that “Offer upgradation (including PSUs) can be done only till 30th April 2027”[1].\n- The same clause is reiterated in the policy’s Offer Upgradation section[1].",
+  "sources": [
+   "https://drive.google.com/file/d/11fe3wscvE3EDdbF_Db3np_WdWsdHbVDi/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3677,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 9,
+   "passages_cited": 2
+  },
+  "seconds": 51.8,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Searched VNIT's pages and documents: 7 passages from 4 sources.",
+   "The first search looked relevant (score 7.6). I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ },
+ {
+  "name": "mtech_research_seats_2027",
+  "question": "How many supernumerary seats per programme does the M.Tech (Research) programme of January 2027 have?",
+  "pass": true,
+  "mode": "agent (openai/gpt-oss-120b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**The M.Tech (Research) programme for the January 2027 intake has **5** supernumerary seats per programme.**\n\n- The Information Brochure states “Proposed supernumerary seats per programme: 5”[1].\n- The same brochure and the Advertisement note a total of 115 supernumerary seats, which equals 23 programmes × 5 seats each[2].",
+  "sources": [
+   "https://drive.google.com/file/d/1u1jw2SnhrUl92iwFUNis_Ip4HIXXH_sR/view",
+   "https://drive.google.com/file/d/1FKvhgWHeIEoB4lEXLil7aZi6RFgxl0L5/view"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 3,
+   "supported": 3,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 3359,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 6,
+   "passages_cited": 2
+  },
+  "seconds": 52.4,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: admission.",
+   "Searched VNIT's pages and documents: 6 passages from 3 sources.",
+   "The first search looked relevant (score 8.7).",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 3 figure(s) against the sources: all found."
+  ]
  }
 ]

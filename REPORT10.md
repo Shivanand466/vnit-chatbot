@@ -165,3 +165,21 @@ Details of every attempt: EXPERIMENTS-LOG §35.
   - `test_table_rows_only_for_fees_calendar_and_placement`
 
 **Done when:** each of the 3 is in the evidence; `chunk_ranks` and `evidence_check` no lower than after Step 3; tests pass. **Met.**
+
+## Step 5. Asking the AI: the 3 misses, the new-document questions, regression
+
+There are 16 cases, asked one at a time through the agent. That is 15 answers plus 1 clarifying question that needs no LLM, about **69,000 tokens** in all. The full table is in EXPERIMENTS-LOG §36.
+
+- **The 3 table-row misses: all PASS.** Holi gives 04.03.2026, the companies question 121, and the Ph.D. part-time question ₹15,000 per semester.
+- **The 5 new-document questions: all PASS:**
+  - DASA USD rate: ₹96.21
+  - fee remission 2026-27 extended to 14/10/2026
+  - Shiksha Shakti deadline: 31 Oct 2026
+  - placement offer upgrade until 30 April 2027
+  - M.Tech (Research): 5 seats per programme
+- **Regression, 8 cases: all PASS:** placements, btech_fee_open, hostel_fee_girls, msc_tuition, phd_tuition_full_time, midsem_slot_a, unanswerable_wifi, clarify_tuition_vague.
+- Every answer's figures were verified against the passages. Nothing needed reverting.
+- **Total from the saved results: 105/105**, up from 97/100. The other 89 are saved answers from 14–20 Nov; Step 6's fresh full run measures all 105 on tonight's code.
+- No daily-limit message appeared; nothing is waiting.
+
+**Done when:** all asked; before/after table in EXPERIMENTS-LOG §36. **Met.**

@@ -9,7 +9,7 @@ Read this first after a restart; carry on from the first step not marked DONE, F
 | 2 | DONE | timeboxed at 4 h: 47 kept, 1 excluded (list of candidates), 1 empty, 4 failed, 62 still to do |
 | 3 | DONE | kept 42 new documents; 4 held (cost B.Arch/M.Sc tuition), Hindi copy excluded (cost placements); 78/82, 13/18 (Kotak trade), 16/19, 70/70; 105 cases (§34) |
 | 4 | DONE | table rows as corrective passages + parser takes rows without a lead-in: all 3 in the evidence; evidence 80/82 + 11/11, chunk_ranks 78/82, tests 73/73 (§35) |
-| 5 | | |
+| 5 | DONE | 16/16 pass (3 misses fixed, 5 new, 8 regression); saved results 105/105; ~69k tokens (§36) |
 | 6 | | |
 | 7 | | |
 

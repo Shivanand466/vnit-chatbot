@@ -765,6 +765,33 @@ Still not in the evidence: `msc_tuition` (rank 10; it passes end to end through 
 - `test_table_rows_bring_the_one_row_of_a_long_table` (real `facts.db`; all three rows)
 - `test_table_rows_only_for_fees_calendar_and_placement` (no rows for a people or hostel question)
 
+## 36. The AI asked again: 97/100 → 105/105 (Runbook 10, Step 5)
+
+Asked one at a time through the agent (`check_answers.py --only <name> --pause 30`), on the index and code of Steps 3–4. That is 15 agent answers plus 1 clarifying question (no LLM), about **69,000 tokens** of gpt-oss-120b in all.
+
+| Case | Before tonight | Now | Note |
+|---|---|---|---|
+| holiday_holi | FAIL | **PASS** | the "Holi — 04.03.2026" row arrives as a corrective table row (§35) |
+| companies_btech_2425 | FAIL | **PASS** | the "Number of Companies Visited — B.Tech: 121" row, newly in `facts.db` (§35) |
+| conv_phd_part_time | FAIL | **PASS** | the "Tuition Fees … Part-Time … 15000.00" row (§35) |
+| dasa_usd_rate_summer_2027 | new | **PASS** | Fees Payment Instruction Summer 2027 |
+| fee_remission_2627_extended | new | **PASS** | Extension of last date for Fee Remission 2026-27 |
+| shiksha_shakti_deadline | new | **PASS** | Shiksha Shakti Scholarship 2026–27 |
+| placement_offer_upgrade_2027 | new | **PASS** | Placement Policy_Batch 2027 |
+| mtech_research_seats_2027 | new | **PASS** | M.Tech (Research) brochure January 2027 |
+| placements | PASS | PASS | regression |
+| btech_fee_open | PASS | PASS | regression |
+| hostel_fee_girls | PASS | PASS | regression |
+| msc_tuition | PASS | PASS | regression (one tool call, as before) |
+| phd_tuition_full_time | PASS | PASS | regression |
+| midsem_slot_a | PASS | PASS | regression |
+| unanswerable_wifi | PASS | PASS | regression: refused, after 2 searches |
+| clarify_tuition_vague | PASS | PASS | regression: asks which programme |
+
+Every answer was "verified": every figure was found in the passages. No regression, so nothing was reverted.
+
+**Overall, from `answer_check.json`: 105/105 saved results pass.** The other 89 are saved answers from 14, 19 and 20 Nov, asked before tonight's documents and table rows. The fresh full run on the frozen index (Step 6) measures all 105 on tonight's code.
+
 ## Ideas not tried (would need more time/budget to responsibly test)
 
 - **Page-scoped re-ranking**: first pick the top page(s) with plain TF-IDF (already reliable, 95%), then re-rank *only that page's own chunks* with a query-type-aware heuristic (date patterns for "when", digit+unit patterns for "how many"). This avoids experiment #1's failure mode (a date-boost couldn't now escape to an unrelated page, since page selection already happened) but adds real complexity and more surface area for its own edge cases — didn't want to ship something untested against the full benchmark and multiple real question phrasings without further review time.
