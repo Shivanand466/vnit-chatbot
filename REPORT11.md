@@ -301,3 +301,25 @@ Not like for like (different models; the trials were mostly multi-part questions
 
 **Done when:** docs and launchers exist, PROGRESS-11 has every step marked, the last commit is on `agent-v2`. **Met.**
 
+
+## Late results
+
+Written at 07:46 on 21 Nov, when the dev-model loop ended.
+
+The dev model's (`qwen/qwen3.8-27b`) daily allowance did not refill overnight. Every resume, every 20 minutes until 07:25, stopped on the first question it asked. So the live numbers are the same as above:
+
+| Run | Passed | Avg tokens | Avg seconds | Avg tool calls | Avg rounds |
+|---|---|---|---|---|---|
+| agent_v2_dev | 2/2 (17 not asked yet) | 16,008 | 160 | 3.0 | 2.0 |
+| agent_v2_dev_regression | not run | | | | |
+| agent_v1_dev_regression | not run | | | | |
+
+- The like-for-like v1-versus-v2 cost comparison **did not run**. So the budget rule could not be applied, and the defaults stay (`AGENT_V2_BUDGET=14000`).
+- The follow-on v1 loop had a bug: it started after 07:30 and set its stop time for the next day. I stopped it by hand at 07:46, before it used any allowance. Nothing else is running.
+- To finish later, once the dev model's day has reset (in Git Bash, from `vnit-chatbot-v2/pipeline`, with the key loaded as in the merge plan, and the commented `AGENT_MODEL` and `GENAI_MODEL` line set to the dev model):
+  ```
+  python check_answers.py --set agentic --config agent_v2_dev --resume
+  python check_answers.py --set regression --config agent_v2_dev_regression --resume
+  AGENT_V2=off python check_answers.py --set regression --config agent_v1_dev_regression --resume
+  python v2_table.py
+  ```
