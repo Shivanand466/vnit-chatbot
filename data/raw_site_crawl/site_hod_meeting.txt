@@ -1,8 +1,0 @@
-SOURCE_URL: https://vnit.ac.in/hod-meeting/
-TITLE: HoD Meeting
-FETCHED: 2026-11-19
-CRAWL: full-2026-11-19
----
-Minutes of HoD Meeting held on:
-1 17 th
-August 2016 2 7th August 2014 3 8th June 2014 4 15th May 2014 5 11th April 2014 6 1st April 2014 7 6th February 2014 8 3rd January 2014 9 10th December 2013 10 25th November 2013 11 21st October 2013 12 5th September 2013 13 2nd August 2013 14 25th July 2013 15 8th July 2013 16 26th April 2013 17 27th February 2013 18 18th December 2012 19 16th November 2012 20 7th September 2012 21 9th July 2012 22 8th June 2012

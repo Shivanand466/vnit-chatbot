@@ -74,7 +74,7 @@ What v2 adds, with the same rule as v1 (VNIT facts **only** from VNIT's document
 
 | Part | Status |
 |---|---|
-| Web pages | ✅ 81 pages from vnit.ac.in are searched. The website project's full crawl (1,628 pages) was imported on 20 Nov (814 usable pages, in `data/raw_site_crawl/`) and measured in the index, but it brought no test answer to the AI and pushed some out, so it is kept aside, not searched (`EXPERIMENTS-LOG.md` §29) |
+| Web pages | ✅ 81 pages from vnit.ac.in are searched. The website project's full crawl (1,628 pages) was imported on 20 Nov (814 usable pages) and measured in the index, but it brought no test answer to the AI and pushed some out, so it is kept aside, not searched (`EXPERIMENTS-LOG.md` §29) |
 | Documents | ✅ **448 searched**: fee sheets, all 19 hostel fee sheets, academic calendars, scholarship notices, admission instructions, timetables, course books, department brochures, placement reports, Academic Rule Book. 406 came from the first crawl's 599 links. On 20 Nov, 42 more came from the website project's full crawl (`ingest_documents.py discover-crawl` found 116 new fee, calendar, hostel, scholarship, placement and rules documents; 53 were processed in a 4-hour run, 62 are still to do), among them the S-27 fee notice for 2026-27, the Summer 2027 fee instructions, the Placement Policy for batch 2027 and the January 2027 M.Tech (Research) brochure. 4 converted ones are held aside in `data/raw_new_docs_held/` because they pushed right answers out (`EXPERIMENTS-LOG.md` §34). Excluded overall (`data/documents/status.json`): 34 lists of people, 6 with no readable text, 4 Hindi-only; 18 failed or timed out |
 | Search index | ✅ **Frozen on 20 Nov** (tag `final-index-2026-11-20`): 7,328 chunks from 81 pages and 448 documents, and 31,682 table cells in `facts.db` (rows of tables without a lead-in now included, §35) |
 | Answer quality | ✅ **105 of 105** saved test results correct (20 Nov). It was 91/100 after the 14 and 19 Nov runs, and 97/100 after Runbook 9. Then the last 3 failures (Holi, the 121 companies, Ph.D. part-time tuition) were fixed by adding the best table rows to the corrective step (§35), and 5 cases were added from the new documents. Those 8, plus 8 regression cases, were asked again: 16/16 pass (§36). The other 89 saved answers are from 14–20 Nov; a fresh full run on the frozen index is being measured (below). All "impossible" questions are refused |
@@ -122,7 +122,7 @@ Full answers, each with its steps and verification, are saved in `data/processed
 - **One paragraph can lose to a long list.** The 2025-26 placement figures sit in one paragraph of the T&P page, while two placement reports contribute hundreds of company-list passages that match the same words. See `EXPERIMENTS-LOG.md` §16.
 - **The agent doesn't always pick the best page to open by itself.** For the placement totals it opened the placement report instead of the T&P page (`EXPERIMENTS-LOG.md` §20c). The search grade now does that lookup as code when the first search looks weak (§22), but its thresholds were calibrated on this project's 37 test questions, so other weak searches may slip past it.
 - **Rows of long tables are found by a separate lookup.** The passage search still misses single rows of long tables (Holi's date, the 2024-25 company count). Since 20 Nov the corrective step adds the two best table rows for fees, calendar and placement questions, which fixed those three (`EXPERIMENTS-LOG.md` §35). Other topics don't get them.
-- **62 of the 116 new documents are not converted yet**, and 4 converted ones are held aside (`data/raw_new_docs_held/`) because they pushed right answers out (§34).
+- **62 of the 116 new documents are not converted yet**, and 4 converted ones were held aside because they pushed right answers out (§34).
 - **The full crawl is not searched.** Adding its ~800 pages made the tested answers no easier to find and pushed some out (`EXPERIMENTS-LOG.md` §29), so questions about faculty profiles or lab sub-pages are still answered only from the 81 original pages and the documents.
 - **The table lookup tool has not been used by the agent in a live run yet.** It works when called (tested on the fee sheets), but so far the agent has preferred to search and read instead (`EXPERIMENTS-LOG.md` §25).
 - **When the agent's free daily allowance runs out, answers quietly fall back** to the simpler one-shot pipeline. The page says so ("mode"), but such answers are less thorough. The test harness once counted them as agent answers by mistake; it no longer does (`EXPERIMENTS-LOG.md` §26).
@@ -214,12 +214,9 @@ data/documents/        list of all documents found, and what happened to each
 data/processed/        search index, table rows, and every saved test run
 data/contacts.json     VNIT office contacts for "Who can help", checked by hand
 deploy/                Hugging Face deploy script
-docs/                  development history (every test round's instructions and report)
 HOW-TO-RUN.md          plain-language start, demo and troubleshooting guide
 APPLICATION.md         how it works in detail
 EXPERIMENTS-LOG.md     every change tried, with measurements
-REPORT8.md, RUNBOOK-7-AGENTIC-UPGRADES.md, AGENTIC-UPGRADE-PLAN.md
-                       the latest round's plan, instructions and report
 ```
 
 ## Data and privacy note

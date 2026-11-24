@@ -1,7 +1,0 @@
-SOURCE_URL: https://vnit.ac.in/section/uba/home-front-page/
-TITLE: Home Front page
-FETCHED: 2026-11-19
-CRAWL: full-2026-11-19
----
-The soul of India lives in its villages. – Mahatma Gandhi
-There are huge developmental disconnects between the rural and urban sectors such as inequity in health, education, incomes and basic amenities as well as employment opportunities – all causing great discontent and large-scale migration to urban areas. The imperatives of sustainable development which are being felt more and more acutely all over the world also demand eco-friendly development of the villages and creation of appropriate employment opportunities locally. Increasing urbanization is neither sustainable nor desirable. So far, our professional higher education institutions have largely been oriented to cater to the mainstream industrial sector and, barring a few exceptions, have hardly contributed directly to the development of the rural sector. Unnat Bhaarat Abhiyan (UBA) is a much needed and highly challenging initiative in this direction

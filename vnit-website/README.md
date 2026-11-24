@@ -89,7 +89,6 @@ The conversation is kept in memory only, never in cookies or storage, so it star
 ~/anaconda3/python.exe tools/check_links.py     # every link inside the site leads to a page that exists
 ~/anaconda3/python.exe tools/check_pages.py     # every page has the banner, noindex, footer credit, one <h1>, a Source line
 ~/anaconda3/python.exe tools/check_faithful.py  # every piece of text is found in the HTML vnit.ac.in sent for that page
-bash tools/screenshots.sh                       # 16 screenshots into checks/ (headless Edge)
 ~/anaconda3/python.exe tools/smoke_test.py      # needs the chatbot server on port 8010; uses no Groq quota without a key
 ```
 All three Python checks report zero problems (1,562 pages, 200,125 pieces of text).

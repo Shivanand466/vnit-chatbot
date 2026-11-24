@@ -1,8 +1,0 @@
-SOURCE_URL: https://vnit.ac.in/basic_science/chemistry/about-m-sc-program/
-TITLE: About M.Sc. Program
-FETCHED: 2026-11-19
-CRAWL: full-2026-11-19
----
-ABOUT M.SC. PROGRAM
-For PG
-Department of Chemistry offers M.Sc. (Chemistry) program which gives good foundation of basics and research component through practical skills, which in turn will provide excellent job prospects in Academics, Industries and other field of interest. M.Sc. (Chemistry) will provide competence to tackle frontier area in Green chemistry, supramolecular chemistry, Sensors, Advanced materials and Advanced organic chemistry. Two years M.Sc programme in Chemistry will be conducted in four semesters. Communication skill has been proposed as an audit course in first semester, which will help students develop better expression. In addition to theory and practical courses project phase-I and Computational chemistry lab will be introduced in third semester. Fourth semester has two elective courses, Basics of electronics and project phase-II. Nine electives have been incorporated in the course considering variety of advanced interest.
