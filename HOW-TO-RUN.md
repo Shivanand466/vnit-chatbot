@@ -201,7 +201,6 @@ python check_answers.py
 | `start_chatbot_v2.bat`, `start_website_v2.bat` | Start version 2 on port 8001 |
 | `pipeline/agent_loop.py`, `memory.py`, `language.py` | Version 2's agent loop, conversation memory, and Hindi/Marathi/Hinglish |
 | `pipeline/fake_llm.py` | A pretend AI for showing the page without the free allowance (`AGENT_FAKE_LLM=on`) |
-| `tools/cdp_shot.py`, `tools/shot.sh` | Screenshots of the chat page (development only) |
 | `api/main.py` | The small server that answers questions |
 | `pipeline/` | Everything that collects the website, reads documents and finds answers |
 | `data/raw/` | The collected text: web pages and `doc_*.txt` documents (this is what is searched) |
