@@ -1,7 +1,0 @@
-SOURCE_URL: https://vnit.ac.in/engineering/cvlsi/high-performance-computation-lab/
-TITLE: High Performance Computation Lab
-FETCHED: 2026-11-19
-CRAWL: full-2026-11-19
----
-High Performance Computation Cluster
-Cluster of 1 Head node,  10 rack mount compute nodes, 5 tower model compute nodes.     Head node with 2 CPUs Intel Nehalem, 24 GB DDR3, RAIDS, 256 MB cache,  4 x 300 GB SAS HDD, each compute node with 2 CPUs Intel Nehalem, 24 GB DDR3, 1TB SATA storage.

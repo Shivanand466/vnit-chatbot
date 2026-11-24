@@ -20,7 +20,7 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 
 | Part | Status |
 |---|---|
-| Web pages | **81** pages crawled from vnit.ac.in are searched. The website project's full crawl (814 usable pages) is kept in `data/raw_site_crawl/` but not searched: measured on 20 Nov, it brought no test answer to the AI and pushed some out (EXPERIMENTS-LOG §29) |
+| Web pages | **81** pages crawled from vnit.ac.in are searched. The website project's full crawl (814 usable pages) is not searched: measured on 20 Nov, it brought no test answer to the AI and pushed some out (EXPERIMENTS-LOG §29) |
 | Documents (PDF notices, fee sheets, calendars…) | **448 searched** (`data/raw/doc_*.txt`). 406 from the first crawl's 599 links. 42 more on 20 Nov from the website project's full crawl: `ingest_documents.py discover-crawl` added 116 documents to the inventory, 53 were processed before the 4-hour timebox and 62 are still to do. 4 are held in `data/raw_new_docs_held/` because they pushed answers out (EXPERIMENTS-LOG §34). In `status.json`: 34 lists of people, 6 no readable text, 4 Hindi-only, 18 failed or timed out. Re-run `ingest_documents.py convert --only-new`; it skips finished ones |
 | Chunks in the index | **7,328** (a table's lead-in written once per group of rows, EXPERIMENTS-LOG §30); 31,682 table cells in `facts.db` (rows of tables without a lead-in included since §35) |
 | Retrieval | Title-prefixed chunks → hybrid (sentence embeddings + TF-IDF keywords) → programme/year contradiction filter → 60-candidate cross-encoder reranking → a passage repeating one ranked above it (over 90% of words in common) is left out → up to 5 passages per (sub-)question |

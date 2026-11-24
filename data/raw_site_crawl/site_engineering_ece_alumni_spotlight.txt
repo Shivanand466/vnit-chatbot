@@ -1,8 +1,0 @@
-SOURCE_URL: https://vnit.ac.in/engineering/ece/alumni-spotlight/
-TITLE: ALUMNI SPOTLIGHT
-FETCHED: 2026-11-19
-CRAWL: full-2026-11-19
----
-We are delighted to share that our esteemed alumnus, Dr. Amartansh Dubey, has joined as a faculty member in the Department of Electrical Engineering, Indian Institute of Technology (IIT) Delhi.
-Dr. Dubey completed his B. Tech. from VNIT Nagpur in 2016, M.Phil. in (2021) and Ph.D. (2022) in Electronic and Computer Engineering from the Hong Kong University of Science and Technology.
-The VNIT Nagpur community takes immense pride in Dr. Dubey’s accomplishments and wishes him continued success in his academic and research journey!

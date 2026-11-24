@@ -163,8 +163,6 @@ python check_answers.py
 | `api/main.py` | The small server that answers questions |
 | `pipeline/` | Everything that collects the website, reads documents and finds answers |
 | `data/raw/` | The collected text: web pages and `doc_*.txt` documents (this is what is searched) |
-| `data/raw_new_docs_held/` | 4 documents converted on 20 Nov but kept out of the search, because they pushed right answers out (EXPERIMENTS-LOG §34) |
-| `data/raw_site_crawl/` | 814 more pages from the website project's full crawl (`pipeline/import_site_crawl.py`), kept aside: not searched, because they did not help (EXPERIMENTS-LOG §29). To try them again, move them into `data/raw` and rebuild (step 3) |
 | `data/processed/` | The search index built from that text |
 | `data/documents/` | List of all documents found, and which were used or skipped |
 | `APPLICATION.md` | Technical description of how it all works |

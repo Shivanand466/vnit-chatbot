@@ -1,9 +1,0 @@
-SOURCE_URL: https://vnit.ac.in/vnit-nagpur-alumni-reunite-in-boston/
-TITLE: VNIT Nagpur Alumni reunite in Boston!
-FETCHED: 2026-11-19
-CRAWL: full-2026-11-19
----
-On Nov 5, 2025, Dr. Diwakar Z. Shende (VNIT Alumni Coordinator) hosted a powerful meet-up during the 2025 AIChE Annual Meeting.
-Alumni from Texas A&M, Imperial College, IIT Kanpur, NC State & IIT Bombay pledged support for internships, skill modules & global collaborations.
-Proudly guided by legends Er. Surendra Dudani Ji (’73 EEE) & Sanjana Malani (’07 EEE).
-🤝 Stronger together — for VNIT’s future!
