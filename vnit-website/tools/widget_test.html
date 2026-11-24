@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!-- Used by Step 7: loads a site page in a frame, opens the VNIT Assistant, types a
+     question and presses Ask, so a headless Edge screenshot shows the result.
+     Open as tools/widget_test.html?src=<page url>&q=<question>&choose=<choice>&w=<width>&h=<height>
+     (Edge needs --allow-file-access-from-files for file:// pages). -->
+<html><head><meta charset="utf-8"><style>body{margin:0}iframe{border:0;display:block}</style></head>
+<body><iframe id="f"></iframe>
+<script>
+var q = new URLSearchParams(location.search);
+var f = document.getElementById("f");
+f.width = q.get("w") || 1366; f.height = q.get("h") || 900;
+f.onload = function () {
+  var doc = f.contentDocument;
+  var go = function () {
+    var input = doc.getElementById("va-question");
+    if (!input) return setTimeout(go, 100);
+    if (!q.get("q")) return;
+    input.value = q.get("q");
+    doc.querySelector(".va-send").click();
+    var choices = (q.get("choose") || "").split("|").filter(Boolean);
+    var pick = function () {
+      if (!choices.length) return;
+      var b = Array.prototype.find.call(doc.querySelectorAll(".va-choices button:not(:disabled)"),
+        function (x) { return x.textContent === choices[0]; });
+      if (b) { choices.shift(); b.click(); }
+      setTimeout(pick, 300);
+    };
+    pick();
+  };
+  go();
+};
+f.src = q.get("src");
+</script></body></html>

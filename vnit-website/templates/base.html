@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>$title | VNIT Nagpur (student project demo)</title>
+<link rel="stylesheet" href="${root}assets/css/site.css">
+<link rel="stylesheet" href="${root}assets/css/vnit-assistant.css">
+</head>
+<body data-section="$section" data-root="$root">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="demo-banner" role="note">Student project demo (VNIT Assistant). This is not the official VNIT website. Official site: <a href="https://vnit.ac.in" target="_blank" rel="noopener">vnit.ac.in</a></div>
+<div class="emergency-bar">$emergency</div>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="wordmark" href="${root}index.html">$logo<span class="wordmark-text"><span class="wordmark-name">Visvesvaraya National Institute of Technology, Nagpur</span><span class="wordmark-hindi" lang="hi">$hindi_name</span></span></a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-menu">Menu</button>
+  </div>
+  <nav class="main-nav" aria-label="Main menu">
+    <ul class="menu" id="main-menu">
+$menu
+    </ul>
+  </nav>
+</header>
+<main id="main" tabindex="-1">
+$main
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+$footer
+  </div>
+  <p class="footer-credit">Final-year project by Avinav, Nikhil, Shivanand and Vaibhav. Content copied from vnit.ac.in on the dates shown.</p>
+</footer>
+<script src="${root}assets/js/site.js"></script>
+$scripts<script src="${root}assets/js/vnit-assistant.js"></script>
+</body>
+</html>
