@@ -1,0 +1,18 @@
+# Built site, rebuilt by build_site.py
+dist/
+# Files moved out of the way instead of deleted
+_trash/
+__pycache__/
+*.pyc
+# Screenshots from tools/ checks
+checks/*.png
+# Never commit keys
+*key*.txt
+*secret*.txt
+.env
+
+# Full crawl of vnit.ac.in (HTML), rebuilt by tools/crawl_site.py
+crawl/html/
+content/pages/
+crawl/*.log
+crawl/*.err
