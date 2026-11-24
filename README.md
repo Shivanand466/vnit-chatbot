@@ -222,7 +222,7 @@ vnit-website/          the VNIT website copy (its own README); the chat widget i
                        assets/js/vnit-assistant.js
 ```
 
-**Version 2** (streaming, memory, planning, more tools and task types, Hindi and Marathi) is on the branch `agent-v2`, not merged yet: see its README and `REPORT11.md`.
+**Version 2** (streaming, memory, planning, more tools and task types, Hindi and Marathi) is this branch, `agent-v2`, not merged into `main` yet: see "Version 2" at the top and `REPORT11.md`.
 
 **The website folder and the server.** `api/main.py` serves the built site from a `vnit-website` folder *next to* this one (`../vnit-website/dist`). The copy inside this repository is kept for the record; to run it from a fresh download, copy `vnit-website/` next to this folder and build it as its README says. The page text (`content/pages/`) is not in git: its crawler rebuilds it from vnit.ac.in.
 
