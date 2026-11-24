@@ -1,0 +1,37 @@
+[
+ {
+  "name": "placements",
+  "question": "How many students got placed in 2025-26 and how many companies came?",
+  "pass": true,
+  "mode": "agent (qwen/qwen3.8-27b)",
+  "missing": [],
+  "forbidden": [],
+  "answer": "**More than 678 students** were placed and **over 170 companies** came for the 2025–26 placement season.\n\n- The Training & Placement Department page states that for the Placement Season 2025–26, more than 678 students from undergraduate and postgraduate programmes secured employment through campus recruitment drives, with offers from over 170 reputed organizations [1].\n- Major recruiters included Google, Oracle, Goldman Sachs, and Citi India [1].\n\nNote: These are approximate figures (\"more than\" / \"over\") as stated on the T&P section page.",
+  "sources": [
+   "https://vnit.ac.in/section/tnp/"
+  ],
+  "verification": {
+   "verdict": "verified",
+   "checked": 6,
+   "supported": 6,
+   "unsupported": []
+  },
+  "usage": {
+   "llm_calls": 1,
+   "tokens": 4704,
+   "waited_for_quota_s": 0.0,
+   "tool_calls": 0,
+   "passages_seen": 12,
+   "passages_cited": 1
+  },
+  "seconds": 71.7,
+  "trace": [
+   "A question about VNIT: looking it up.",
+   "Topic: placement.",
+   "Split the question into 2 parts and searched for each and for the whole question: 10 passages from 7 sources.",
+   "The first search looked weak (best match scored -1.2, below 0), so I also looked inside “VNIT Nagpur – Training & Placement Department”. I also looked up matching rows in the documents' tables.",
+   "Wrote the answer from the first search; no further lookups were needed.",
+   "Checked 6 figure(s) against the sources: all found."
+  ]
+ }
+]
