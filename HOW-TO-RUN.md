@@ -48,13 +48,13 @@ Most answers take a few seconds. A question where the chatbot decides it needs t
 
 ## 2a. Start version 2 (the one like Claude or ChatGPT)
 
-Version 2 lives in its own folder, `VNIT-Website-Chatbot\vnit-chatbot-v2` (git branch `agent-v2`), and runs **next to** version 1, on a different port.
+Since 24 Nov, version 2 is the main version: `start_chatbot.bat` (port 8000) starts it too. The steps below use its own launcher on port 8001.
 
-1. Open the folder `VNIT-Website-Chatbot\vnit-chatbot-v2`.
+1. Open the folder `VNIT-Website-Chatbot\vnit-chatbot` (or `vnit-chatbot-v2`: same code).
 2. **Double-click `start_chatbot_v2.bat`.** A black window opens (leave it open); after about 30 seconds the chat page opens at `http://127.0.0.1:8001/`.
 3. For the website demo with version 2 in the corner of every page, double-click **`start_website_v2.bat`** instead (opens `http://127.0.0.1:8001/site/`).
 
-Version 1 (`start_chatbot.bat` in `vnit-chatbot`, port 8000) can run at the same time, so you can show both.
+To show version 1's behaviour, start with `AGENT_V2=off` set (it gives v1's exact answers), or check out the git tag `v1-final`.
 
 What is different on the page:
 - The answer **appears word by word**, and above it you see what the chatbot is doing ("Searching VNIT's documents…", "Opening: …", "Plan: 1. … 2. …"). When it finishes, those steps fold into "How I found this".

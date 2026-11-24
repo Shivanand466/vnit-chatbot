@@ -10,9 +10,9 @@ Final-year project (FYP). Built with free and open-source tools only.
 
 ---
 
-## Version 2: the agent like Claude or ChatGPT (branch `agent-v2`)
+## Version 2: the agent like Claude or ChatGPT (now `main`)
 
-This folder, `vnit-chatbot-v2`, is **agent v2** (Runbook 11, `REPORT11.md`). It runs next to version 1: double-click `start_chatbot_v2.bat` (port **8001**), or `start_website_v2.bat` for the website demo. Version 1 stays in `vnit-chatbot` (port 8000) and is what the measurements of `EXPERIMENTS-LOG.md` §26 describe.
+**Since 24 Nov, `main` is version 2** (Runbook 11, `REPORT11.md`). `start_chatbot.bat` (port 8000) and `start_chatbot_v2.bat` (port **8001**) both start it; `start_website_v2.bat` opens the website demo. Version 1, which the measurements of `EXPERIMENTS-LOG.md` §26 and the 105/105 describe, is saved as the git tag **`v1-final`**; setting `AGENT_V2=off` gives its exact behaviour from this code. Version 2 has not yet been through the full 105-case check on the real model (see `REPORT11.md`).
 
 What v2 adds, with the same rule as v1 (VNIT facts **only** from VNIT's documents, with sources, every figure checked):
 
@@ -222,7 +222,7 @@ vnit-website/          the VNIT website copy (its own README); the chat widget i
                        assets/js/vnit-assistant.js
 ```
 
-**Version 2** (streaming, memory, planning, more tools and task types, Hindi and Marathi) is this branch, `agent-v2`, not merged into `main` yet: see "Version 2" at the top and `REPORT11.md`.
+**Version 2** (streaming, memory, planning, more tools and task types, Hindi and Marathi) is now `main`: see "Version 2" at the top and `REPORT11.md`. Version 1 is the tag `v1-final`.
 
 **The website folder and the server.** `api/main.py` serves the built site from a `vnit-website` folder *next to* this one (`../vnit-website/dist`). The copy inside this repository is kept for the record; to run it from a fresh download, copy `vnit-website/` next to this folder and build it as its README says. The page text (`content/pages/`) is not in git: its crawler rebuilds it from vnit.ac.in.
 

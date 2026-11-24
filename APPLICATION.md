@@ -31,7 +31,7 @@ A chatbot that answers students' questions about VNIT Nagpur using **only** the 
 | End-to-end answer check (`check_answers.py`, 105 cases since 20 Nov, EXPERIMENTS-LOG §27, §34) | **105/105** saved results through the agent (20 Nov evening; 97/100 after EXPERIMENTS-LOG §30-§33, 91/100 before). The last three failures (Holi, the 2024-25 company count, Ph.D. part-time tuition) pass since the corrective step adds table rows (§35, §36). A fresh full run of all 105 on the frozen index is being measured by `run_ablations.sh` (`answer_check_full.json`). Earlier, on the original 39 cases: 35/39 in the full run of 2026-10-30 |
 | LLM | Groq free tier: `openai/gpt-oss-120b` for the agent, `openai/gpt-oss-20b` for the one-shot fallback and follow-up rewriting (separate daily allowances, §5a) |
 | Agentic layer (added 2026-10-30) | Router (kind of message, and topic: fees, hostel, calendar, …) → follow-up resolver → first search → **clarify or assume** (slots.py: asks which programme/gender when the relevant passages carry different figures for different groups, or fills it from the chat's profile) → **corrective gate** (grades the first search from the reranker's scores; if weak, looks inside the 2 best-titled pages it missed) → **planner** with five tools (`search_vnit`, `find_documents`, `read_document`, `lookup_table`, `calculate`), up to 2 rounds → **verifier** (every figure, date, email and phone number checked against the passages shown) → one revision if anything is unsupported → **hand-off**: a refusal or unconfirmed answer gets the right office's contact (`data/contacts.json`). Falls back to the one-shot pipeline if the agent cannot run. See §5a |
-| Agent tests (`test_agentic.py`, no key needed) | **112/112** on `agent-v2` (v1's 73, which also pass with `AGENT_V2=off`, plus 39 for v2 in `test_agent_v2.py`) |
+| Agent tests (`test_agentic.py`, no key needed) | **112/112** (v1's 73, which also pass with `AGENT_V2=off`, plus 39 for v2 in `test_agent_v2.py`) |
 | API + chat page | Working; one-click start via `start_chatbot.bat`, verified live on 2026-10-30. Follow-up questions ("and for girls?"), a "How I found this" panel listing the agent's steps, a verification badge, numbered citations, and a thumbs up/down rating on every answer |
 | Deployment | Docker image builds locally; public link from the laptop via `start_public_link.bat` (Cloudflare quick tunnel). Hugging Face Spaces now requires a paid PRO account for Docker Spaces, so `deploy/deploy_to_hf.py` is ready but unused |
 
@@ -181,7 +181,7 @@ Every step is returned as `trace` and shown under each answer as **"How I found 
 
 ---
 
-### 5b. Agent v2 (branch `agent-v2`, Runbook 11, REPORT11.md)
+### 5b. Agent v2 (`main` since 24 Nov; Runbook 11, REPORT11.md)
 
 Every v2 behaviour is behind `AGENT_V2` (on in this branch); `AGENT_V2=off` gives v1's exact behaviour on the same code, which the tests check (v1's 73 tests pass unchanged with it off).
 
@@ -285,7 +285,7 @@ Earlier rounds: adding titles to chunks 11 → 12/18; sending 5 passages instead
 | `CRAG_GATE` | `on` | `off` disables the corrective retrieval gate (§5a step B) |
 | `AGENT_MODEL` | `openai/gpt-oss-120b` | The agent's model. Kept different from `GENAI_MODEL` on purpose: Groq's free daily allowance (~200,000 tokens) is per model, so when the agent's runs out, the one-shot fallback still has its own |
 | `GENAI_TOKENS_PER_MINUTE` | `8000` | The provider's per-minute token allowance, used by the agent's pacer until the first response's headers report the real figure |
-| `AGENT_V2` | `on` (branch `agent-v2`) | `off` gives v1's exact behaviour: `planner.run`, questions-only history, no task types, languages, suggestions or new tools (§5b) |
+| `AGENT_V2` | `on` | `off` gives v1's exact behaviour: `planner.run`, questions-only history, no task types, languages, suggestions or new tools (§5b) |
 | `AGENT_V2_MAX_STEPS` | `6` | Most rounds of tools v2 may take for one question |
 | `AGENT_V2_BUDGET` | `14000` | Tokens one question's tool rounds may spend (the final answer and a revision come after it) |
 | `LIVE_PAGES` | `on` | `off` removes the `fetch_vnit_page` tool (no live vnit.ac.in pages) |
